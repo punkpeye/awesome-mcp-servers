@@ -20,6 +20,13 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [Discord Server](https://discord.gg/TFE8FmjCdS)
 
+## Legend
+
+* 🎖️ – official implementation
+* 🐍 – Python codebase
+* 📇 – TypeScript codebase
+* 🏎️ – Go codebase
+
 ## Server Implementations
 
 * 📂 - [Browser Automation](#browser-automation)
@@ -33,13 +40,6 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 🔎 - [Search](#search)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
-
-Legend:
-
-* 🎖️ – official implementation
-* 🐍 – Python codebase
-* 📇 – TypeScript codebase
-* 🏎️ – Go codebase
 
 ### 📂 <a name="browser-automation"></a>Browser Automation <sup>[top⇈](#server-implementations)</sup>
 
