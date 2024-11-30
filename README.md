@@ -120,6 +120,7 @@ Interact with Git repositories and version control platforms. Enables repository
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations <sup>[top⇈](#server-implementations)</sup>
 
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) - Query OpenAI models directly from Claude using MCP protocol
+- [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) - MCP server that exercises all the features of the MCP protocol
 - [baba786/phabricator-mcp-server](https://github.com/baba786/phabricator-mcp-server) - Interacting with Phabricator API
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Interacting with Obsidian via REST API
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) - Fetch YouTube subtitles
