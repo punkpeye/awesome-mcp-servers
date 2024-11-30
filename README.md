@@ -6,7 +6,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Tutorials](#tutorials)
 * [Server Implementations](#server-implementations)
 * [Frameworks](#frameworks)
-* [Tips & Trics](#tips-and-tricks)
+* [Tips & Tricks](#tips-and-tricks)
 
 ## What is MCP?
 
