@@ -142,7 +142,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP).
 - [@modelcontextprotocol/server-langchain](https://github.com/rectalogic/langchain-mcp) - Provides MCP tool calling support in LangChain, allowing for the integration of MCP tools into LangChain workflows.
 
-## Trips and Tricks
+## Tips and Tricks
 
 ### Official prompt to inform LLMs how to use MCP
 
