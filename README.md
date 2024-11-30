@@ -31,13 +31,13 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ### 📂 <a name="browser-automation"></a>Browser Automation <sup>[top⇈](#server-implementations)</sup>
 
-> Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
+Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) - Browser automation for web scraping and interaction
 
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms <sup>[top⇈](#server-implementations)</sup>
 
-> Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
+Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
 
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) - Integration with Cloudflare services including Workers, KV, R2, and D1
 
@@ -45,7 +45,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ### 💬 <a name="communication"></a>Communication <sup>[top⇈](#server-implementations)</sup>
 
-> Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
+Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - Slack workspace integration for channel management and messaging
 
@@ -53,7 +53,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ### 🗄️ <a name="databases"></a>Databases <sup>[top⇈](#server-implementations)</sup>
 
-> Secure database access with schema inspection capabilities. Enables querying and analyzing data while maintaining read-only safety by default.
+Secure database access with schema inspection capabilities. Enables querying and analyzing data while maintaining read-only safety by default.
 
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) - PostgreSQL database integration with schema inspection and query capabilities
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) - SQLite database operations with built-in analysis features
@@ -62,7 +62,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ### 📂 <a name="file-systems"></a>File Systems <sup>[top⇈](#server-implementations)</sup>
 
-> Provides direct access to local file systems with configurable permissions. Enables AI models to read, write, and manage files within specified directories.
+Provides direct access to local file systems with configurable permissions. Enables AI models to read, write, and manage files within specified directories.
 
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Direct local file system access.
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) - Golang implementation for local file system access.
@@ -78,7 +78,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ### 🗺️ <a name="location-services"></a>Location Services <sup>[top⇈](#server-implementations)</sup>
 
-> Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
+Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) - Google Maps integration for location services, routing, and place details
 
@@ -87,14 +87,15 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ### 📊 <a name="monitoring"></a>Monitoring <sup>[top⇈](#server-implementations)</sup>
 
-> Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
+Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
 
 <br />
 
 ## 🔎 <a name="search"></a>Search <sup>[top⇈](#server-implementations)</sup>
-> Web search capabilities.
+
+Web search capabilities.
 
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) - Web search capabilities using Brave's Search API
 - [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - Efficient web content fetching and processing for AI consumption
@@ -106,7 +107,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ### 🔄 <a name="version-control"></a>Version Control <sup>[top⇈](#server-implementations)</sup>
 
-> Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
+Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
 
 - [@modelcontextprotocol/server-github](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - GitHub API integration for repository management, PRs, issues, and more
 - [@modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) - GitLab platform integration for project management and CI/CD operations
