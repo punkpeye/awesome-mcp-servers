@@ -34,6 +34,10 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
+Legend:
+
+* 🎖️ – official implementation
+
 ### 📂 <a name="browser-automation"></a>Browser Automation <sup>[top⇈](#server-implementations)</sup>
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
@@ -46,7 +50,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 
 Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
 
-- [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) - Integration with Cloudflare services including Workers, KV, R2, and D1
+- [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ - Integration with Cloudflare services including Workers, KV, R2, and D1
 
 <br />
 
@@ -111,7 +115,7 @@ Web search capabilities.
 - [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - Efficient web content fetching and processing for AI consumption
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) - Kagi search API integration
 - [theishangoswami/exa-mcp-server](https://github.com/theishangoswami/exa-mcp-server) - Exa AI Search API
-- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) – A Model Context Protocol (MCP) server lets AI assistants like Claude use the Exa AI Search API for web searches. This setup allows AI models to get real-time web information in a safe and controlled way.
+- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) 🎖️ – A Model Context Protocol (MCP) server lets AI assistants like Claude use the Exa AI Search API for web searches. This setup allows AI models to get real-time web information in a safe and controlled way.
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) - Search via search1api (requires paid API key)
 
 
