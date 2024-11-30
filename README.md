@@ -4,7 +4,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [What is MCP?](#what-is-mcp)
 * [Server Implementations](#server-implementations)
-* Frameworks
+* [Frameworks](#frameworks)
 
 ## What is MCP?
 
