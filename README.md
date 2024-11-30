@@ -4,6 +4,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [What is MCP?](#what-is-mcp)
 * [Server Implementations](#server-implementations)
+* Frameworks
 
 ## What is MCP?
 
@@ -116,3 +117,7 @@ MCP is an open protocol that enables AI models to securely interact with local a
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Interacting with Obsidian via REST API
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) - Fetch YouTube subtitles
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) - Integrates with Notion's API to manage personal todo lists
+
+** Frameworks
+
+- [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP).
