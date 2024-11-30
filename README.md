@@ -71,7 +71,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 <br />
 
-## 🧠 <a name="knowledge--memory"></a>Knowledge & Memory <sup>[top⇈](#server-implementations)</sup>
+### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory <sup>[top⇈](#server-implementations)</sup>
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - Knowledge graph-based persistent memory system for maintaining context
@@ -96,7 +96,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 
 <br />
 
-## 🔎 <a name="search"></a>Search <sup>[top⇈](#server-implementations)</sup>
+### 🔎 <a name="search"></a>Search <sup>[top⇈](#server-implementations)</sup>
 
 Web search capabilities.
 
