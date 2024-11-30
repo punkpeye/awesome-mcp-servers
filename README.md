@@ -136,6 +136,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) - Fetch YouTube subtitles
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) - Integrates with Notion's API to manage personal todo lists
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) - Autonomous shell execution, computer control and coding agent. (Mac)
+- [joshuarileydev/terminal] - Run terminal commands, use @joshuarileydev/terminal as package name
 
 ## Frameworks
 
