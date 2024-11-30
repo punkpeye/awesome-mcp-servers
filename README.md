@@ -15,6 +15,10 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 
+## Community
+
+* [Discord Server](https://discord.gg/TFE8FmjCdS)
+
 ## Server Implementations
 
 * 📂 - [Browser Automation](#browser-automation)
