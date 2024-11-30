@@ -85,7 +85,7 @@ MCP is an open protocol that enables AI models to securely interact with local a
 
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
 
-<b#r />
+<br />
 
 ## 🔎 <a name="search"></a>Search <sup>[top⇈](#server-implementations)</sup>
 > Web search capabilities.
