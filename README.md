@@ -6,6 +6,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Tutorials](#tutorials)
 * [Server Implementations](#server-implementations)
 * [Frameworks](#frameworks)
+* [Tips & Trics](#tips-and-tricks)
 
 ## What is MCP?
 
@@ -140,3 +141,17 @@ Interact with Git repositories and version control platforms. Enables repository
 
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP).
 - [@modelcontextprotocol/server-langchain](https://github.com/rectalogic/langchain-mcp) - Provides MCP tool calling support in LangChain, allowing for the integration of MCP tools into LangChain workflows.
+
+## Trips and Tricks
+
+### Official prompt to inform LLMs how to use MCP
+
+Want to ask Claude about Model Context Protocol?
+
+Create a Project, then add this file to it:
+
+https://modelcontextprotocol.io/llms-full.txt
+
+Now Claude can answer questions about writing MCP servers and how they work
+
+- https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/
