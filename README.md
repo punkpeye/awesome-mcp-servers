@@ -111,6 +111,7 @@ Web search capabilities.
 - [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) - Efficient web content fetching and processing for AI consumption
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) - Kagi search API integration
 - [theishangoswami/exa-mcp-server](https://github.com/theishangoswami/exa-mcp-server) - Exa AI Search API
+- [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) - Search via search1api (requires paid API key)
 
 
 <br />
