@@ -131,6 +131,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) - MCP server that exercises all the features of the MCP protocol
 - [baba786/phabricator-mcp-server](https://github.com/baba786/phabricator-mcp-server) - Interacting with Phabricator API
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - Interacting with Obsidian via REST API
+- [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) - This is a connector to allow Claude Desktop (or any MCP client) to read and search any directory containing Markdown notes (such as an Obsidian vault).
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) - Fetch YouTube subtitles
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) - Integrates with Notion's API to manage personal todo lists
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) - Autonomous shell execution, computer control and coding agent. (Mac)
