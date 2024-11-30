@@ -117,6 +117,7 @@ Web search capabilities.
 - [theishangoswami/exa-mcp-server](https://github.com/theishangoswami/exa-mcp-server) - Exa AI Search API
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) 🎖️ – A Model Context Protocol (MCP) server lets AI assistants like Claude use the Exa AI Search API for web searches. This setup allows AI models to get real-time web information in a safe and controlled way.
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) - Search via search1api (requires paid API key)
+- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 
 
 <br />
