@@ -176,3 +176,13 @@ https://modelcontextprotocol.io/llms-full.txt
 Now Claude can answer questions about writing MCP servers and how they work
 
 - https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/
+
+## Star History
+
+<a href="https://star-history.com/#punkpeye/awesome-mcp-servers&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
+ </picture>
+</a>
