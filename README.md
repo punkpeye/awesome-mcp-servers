@@ -2,11 +2,11 @@
 
 A curated list of awesome Model Context Protocol (MCP) servers.
 
-* [What is MCP?](#what-is-mcp)
-* [Tutorials](#tutorials)
-* [Server Implementations](#server-implementations)
-* [Frameworks](#frameworks)
-* [Tips & Tricks](#tips-and-tricks)
+- [What is MCP?](#what-is-mcp)
+- [Tutorials](#tutorials)
+- [Server Implementations](#server-implementations)
+- [Frameworks](#frameworks)
+- [Tips & Tricks](#tips-and-tricks)
 
 ## What is MCP?
 
@@ -14,34 +14,34 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ## Tutorials
 
-* [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
+- [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 
 ## Community
 
-* [Discord Server](https://discord.gg/TFE8FmjCdS)
+- [Discord Server](https://discord.gg/TFE8FmjCdS)
 
 ## Legend
 
-* 🎖️ – official implementation
-* 🐍 – Python codebase
-* 📇 – TypeScript codebase
-* 🏎️ – Go codebase
-* ☁️ - Cloud Service
-* 🏠 - Local Service
+- 🎖️ – official implementation
+- 🐍 – Python codebase
+- 📇 – TypeScript codebase
+- 🏎️ – Go codebase
+- ☁️ - Cloud Service
+- 🏠 - Local Service
 
 ## Server Implementations
 
-* 📂 - [Browser Automation](#browser-automation)
-* ☁️ - [Cloud Platforms](#cloud-platforms)
-* 💬 - [Communication](#communication)
-* 🗄️ - [Databases](#databases)
-* 📂 - [File Systems](#file-systems)
-* 🧠 - [Knowledge & Memory](#knowledge--memory)
-* 🗺️ - [Location Services](#location-services)
-* 📊 - [Monitoring](#monitoring)
-* 🔎 - [Search](#search)
-* 🔄 - [Version Control](#version-control)
-* 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+- 📂 - [Browser Automation](#browser-automation)
+- ☁️ - [Cloud Platforms](#cloud-platforms)
+- 💬 - [Communication](#communication)
+- 🗄️ - [Databases](#databases)
+- 📂 - [File Systems](#file-systems)
+- 🧠 - [Knowledge & Memory](#knowledge--memory)
+- 🗺️ - [Location Services](#location-services)
+- 📊 - [Monitoring](#monitoring)
+- 🔎 - [Search](#search)
+- 🔄 - [Version Control](#version-control)
+- 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 ### 📂 <a name="browser-automation"></a>Browser Automation <sup>[top⇈](#server-implementations)</sup>
 
@@ -49,7 +49,6 @@ Web content access and automation capabilities. Enables searching, scraping, and
 
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Fetch YouTube subtitles and transcripts for AI analysis
-
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms <sup>[top⇈](#server-implementations)</sup>
 
@@ -90,6 +89,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory <sup>[top⇈](#server-implementations)</sup>
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
+
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Knowledge graph-based persistent memory system for maintaining context
 
 <br />
@@ -99,7 +99,6 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📇 ☁️ - Google Maps integration for location services, routing, and place details
-
 
 <br />
 
@@ -116,7 +115,6 @@ Access and analyze application monitoring data. Enables AI models to review erro
 
 Web search capabilities.
 
-
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - Web search capabilities using Brave's Search API
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - Search articles using the NYTimes API
 - [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) 🐍 🏠 ☁️ - Efficient web content fetching and processing for AI consumption
@@ -126,7 +124,6 @@ Web search capabilities.
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) 📇 ☁️ - Search via search1api (requires paid API key)
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) ☁️ 🐍 – Tavily AI search API
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Search ArXiv research papers
-
 
 <br />
 
@@ -139,7 +136,6 @@ Interact with Git repositories and version control platforms. Enables repository
 - [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) 🐍 🏠 - Direct Git repository operations including reading, searching, and analyzing local repositories
 
 <br />
-
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations <sup>[top⇈](#server-implementations)</sup>
 
@@ -154,6 +150,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [reeeeemo/ancestry-mcp](https://github.com/reeeeemo/ancestry-mcp) 🐍 🏠 - Allows the AI to read .ged files and genetic data
 - [sirmews/apple-notes-mcp](https://github.com/sirmews/apple-notes-mcp) 🐍 🏠 - Allows the AI to read from your local Apple Notes database (macOS only)
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 🏠 - Coinmarket API integration to fetch cryptocurrency listings and quotes
+- [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) 📇 🏠 - Interacting with Notion API
 
 ## Frameworks
 
@@ -162,7 +159,6 @@ Interact with Git repositories and version control platforms. Enables repository
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 🏎️ - Golang SDK for building MCP Servers and Clients.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [mcp-rs-template](https://github.com/linux-china/mcp-rs-template) 🦀 - MCP CLI server template for Rust
-
 
 ## Tips and Tricks
 
