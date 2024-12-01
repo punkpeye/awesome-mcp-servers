@@ -15,6 +15,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 ## Tutorials
 
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
+* [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 
 ## Community
 
