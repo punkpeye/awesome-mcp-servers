@@ -64,7 +64,7 @@ Cloud platform service integration. Enables management and interaction with clou
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - Slack workspace integration for channel management and messaging
-- [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) - Bluesky instance integration for querying and interaction
+- [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky instance integration for querying and interaction
 
 <br />
 
