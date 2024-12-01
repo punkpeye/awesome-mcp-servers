@@ -43,33 +43,28 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
-### 📂 <a name="browser-automation"></a>Browser Automation <sup>[top⇈](#server-implementations)</sup>
+### 📂 <a name="browser-automation"></a>Browser Automation
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Fetch YouTube subtitles and transcripts for AI analysis
 
-
-### ☁️ <a name="cloud-platforms"></a>Cloud Platforms <sup>[top⇈](#server-implementations)</sup>
+### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
 Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
 
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Integration with Cloudflare services including Workers, KV, R2, and D1
 - [Kubernetes MCP Server](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️ Kubernetes cluster operations through MCP
 
-<br />
-
-### 💬 <a name="communication"></a>Communication <sup>[top⇈](#server-implementations)</sup>
+### 💬 <a name="communication"></a>Communication
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - Slack workspace integration for channel management and messaging
 - [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky instance integration for querying and interaction
 
-<br />
-
-### 🗄️ <a name="databases"></a>Databases <sup>[top⇈](#server-implementations)</sup>
+### 🗄️ <a name="databases"></a>Databases
 
 Secure database access with schema inspection capabilities. Enables querying and analyzing data while maintaining read-only safety by default.
 
@@ -77,9 +72,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - SQLite database operations with built-in analysis features
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - DuckDB database integration with schema inspection and query capabilities
 
-<br />
-
-### 📂 <a name="file-systems"></a>File Systems <sup>[top⇈](#server-implementations)</sup>
+### 📂 <a name="file-systems"></a>File Systems
 
 Provides direct access to local file systems with configurable permissions. Enables AI models to read, write, and manage files within specified directories.
 
@@ -87,37 +80,25 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - Google Drive integration for listing, reading, and searching files
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - Golang implementation for local file system access.
 
-<br />
-
-### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory <sup>[top⇈](#server-implementations)</sup>
+### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Knowledge graph-based persistent memory system for maintaining context
 
-<br />
-
-### 🗺️ <a name="location-services"></a>Location Services <sup>[top⇈](#server-implementations)</sup>
+### 🗺️ <a name="location-services"></a>Location Services
 
 Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📇 ☁️ - Google Maps integration for location services, routing, and place details
 
-
-<br />
-
-### 📊 <a name="monitoring"></a>Monitoring <sup>[top⇈](#server-implementations)</sup>
+### 📊 <a name="monitoring"></a>Monitoring
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Sentry.io integration for error tracking and performance monitoring
 - [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - Raygun API V3 integration for crash reporting and real user monitoring
 
-<br />
-
-### 🔎 <a name="search"></a>Search <sup>[top⇈](#server-implementations)</sup>
-
-Web search capabilities.
-
+### 🔎 <a name="search"></a>Search
 
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - Web search capabilities using Brave's Search API
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - Search articles using the NYTimes API
@@ -129,10 +110,7 @@ Web search capabilities.
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) ☁️ 🐍 – Tavily AI search API
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Search ArXiv research papers
 
-
-<br />
-
-### 🔄 <a name="version-control"></a>Version Control <sup>[top⇈](#server-implementations)</sup>
+### 🔄 <a name="version-control"></a>Version Control
 
 Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
 
@@ -140,10 +118,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [@modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) 📇 ☁️ 🏠 - GitLab platform integration for project management and CI/CD operations
 - [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) 🐍 🏠 - Direct Git repository operations including reading, searching, and analyzing local repositories
 
-<br />
-
-
-### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations <sup>[top⇈](#server-implementations)</sup>
+### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - Query OpenAI models directly from Claude using MCP protocol
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📇 🏠 - MCP server that exercises all the features of the MCP protocol
