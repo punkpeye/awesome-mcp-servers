@@ -49,7 +49,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
-- [@modelcontextprotocol/server-youtube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Fetch YouTube subtitles and transcripts for AI analysis
+- [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Fetch YouTube subtitles and transcripts for AI analysis
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
