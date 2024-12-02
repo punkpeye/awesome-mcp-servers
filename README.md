@@ -136,7 +136,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server) 🐍 ☁️ - Send requests to OpenAI, MistralAI, Anthropic, xAI, or Google AI using MCP protocol via tool or predefined prompts. Vendor API key required
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - Run commands and include their output. Tools and Prompts.
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro) 📇 ☁️🛠️ - Access MIRO whiteboards, bulk create and read items. Requires OAUTH key for REST API.
-- 
+
 ## Frameworks
 
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP).
