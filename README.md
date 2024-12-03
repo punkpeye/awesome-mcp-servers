@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 📂 - [Browser Automation](#browser-automation)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
 * 💬 - [Communication](#communication)
+* 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
 * 📂 - [File Systems](#file-systems)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
@@ -66,6 +67,12 @@ Integration with communication platforms for message management and channel oper
 - [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky instance integration for querying and interaction
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - Integration with gmail.
 
+### 👤 <a name="customer-data-platforms></a>Customer Data Platforms
+
+Provides access to customer profiles inside of customer data platforms
+
+- [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - An MCP server to access and updates profiles on an Apache Unomi CDP server.
+
 ### 🗄️ <a name="databases"></a>Databases
 
 Secure database access with schema inspection capabilities. Enables querying and analyzing data while maintaining read-only safety by default.
@@ -86,11 +93,6 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Knowledge graph-based persistent memory system for maintaining context
-
-### <a name="customer-data-platforms></a>Customer Data Platforms
-
-Provides access to customer profiles inside of customer data platforms
-- [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) - An MCP server to access and updates profiles on an Apache Unomi CDP server.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
