@@ -157,6 +157,9 @@ Interact with Git repositories and version control platforms. Enables repository
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [mcp-rs-template](https://github.com/linux-china/mcp-rs-template) 🦀 - MCP CLI server template for Rust
 
+## Clients
+
+- [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 an openAI middleware proxy to use mcp in any existing openAI compatible client
 
 ## Tips and Tricks
 
