@@ -77,9 +77,11 @@ Provides access to customer profiles inside of customer data platforms
 
 Secure database access with schema inspection capabilities. Enables querying and analyzing data while maintaining read-only safety by default.
 
+- [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 🏠 - BigQuery database integration with schema inspection and query capabilities
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📇 🏠 - PostgreSQL database integration with schema inspection and query capabilities
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - SQLite database operations with built-in analysis features
-- [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - DuckDB database integration with schema inspection and query capabilities
+- [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 ☁️ - DuckDB database integration with schema inspection and query capabilities
+
 
 ### 📂 <a name="file-systems"></a>File Systems
 
