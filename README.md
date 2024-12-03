@@ -87,6 +87,11 @@ Provides direct access to local file systems with configurable permissions. Enab
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Knowledge graph-based persistent memory system for maintaining context
 
+### <a name="customer-data-platforms></a>Customer Data Platforms
+
+Provides access to customer profiles inside of customer data platforms
+- [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) - An MCP server to access and updates profiles on an Apache Unomi CDP server.
+
 ### 🗺️ <a name="location-services"></a>Location Services
 
 Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
