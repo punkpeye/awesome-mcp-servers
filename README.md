@@ -168,6 +168,9 @@ Interact with Git repositories and version control platforms. Enables repository
 ## Clients
 
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 an openAI middleware proxy to use mcp in any existing openAI compatible client
+- [zed-industries/zed](https://github.com/zed-industries/zed) multiplayer code editor from the creators of atom
+- [firebase/genkit](https://github.com/firebase/genkit) agent and data transformation framework
+- [continuedev/continue](https://github.com/continuedev/continue) vscode auto complete and chat tool (full feature support)
 
 ## Tips and Tricks
 
