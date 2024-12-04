@@ -122,7 +122,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) ☁️ 🐍 – Tavily AI search API
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Search ArXiv research papers
 
-### 🔄 <a name="travel-and-transportation"></a>Travel & Transportation
+### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
 
