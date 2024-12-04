@@ -42,6 +42,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 🗺️ - [Location Services](#location-services)
 * 📊 - [Monitoring](#monitoring)
 * 🔎 - [Search](#search)
+* 🔄 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
@@ -120,6 +121,12 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) 📇 ☁️ - Search via search1api (requires paid API key)
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) ☁️ 🐍 – Tavily AI search API
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Search ArXiv research papers
+
+### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
+
+Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
+
+- [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server) 📇 ☁️ - Access Dutch Railways (NS) travel information, schedules, and real-time updates
 
 ### 🔄 <a name="version-control"></a>Version Control
 
