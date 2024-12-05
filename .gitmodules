@@ -1,0 +1,3 @@
+[submodule "canvas-lms"]
+	path = canvas-lms
+	url = https://github.com/DMontgomery40/mcp-canvas-lms.git
