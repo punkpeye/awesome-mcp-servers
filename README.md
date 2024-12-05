@@ -49,7 +49,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
-
+- [@automatalabs/playwright-mcp-server]([https://github.com/Automata-Labs-team/MCP-Server-Playwright](https://github.com/executeautomation/mcp-playwright)) 🌐🖱️ - An MCP server using Playwright for browser automation and webscrapping
 - [@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🌐🖱️ - An MCP server for browser automation using Playwright 
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Fetch YouTube subtitles and transcripts for AI analysis
