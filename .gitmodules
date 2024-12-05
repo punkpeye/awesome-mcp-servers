@@ -1,0 +1,4 @@
+[submodule "notion-mcp"]
+	path = notion-mcp
+	url = https://github.com/DMontgomery40/notion_mcp.git
+	branch = feature/memory-integration
