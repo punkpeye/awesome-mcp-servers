@@ -40,6 +40,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 💬 - [Communication](#communication)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
+* 🛠️ - [Developer Tools](#developer-tools)
 * 📂 - [File Systems](#file-systems)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * 🗺️ - [Location Services](#location-services)
@@ -48,6 +49,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 🔄 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
@@ -88,6 +90,12 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📇 🏠 - PostgreSQL database integration with schema inspection and query capabilities
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - SQLite database operations with built-in analysis features
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - DuckDB database integration with schema inspection and query capabilities
+
+### 💻 <a name="developer-tools"></a>Developer Tools
+
+Tools and integrations that enhance the development workflow and environment management.
+
+- [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - Docker container management and operations through MCP
 
 ### 📂 <a name="file-systems"></a>File Systems
 
