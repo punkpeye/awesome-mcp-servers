@@ -1,5 +1,8 @@
 # Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
+[![中文文档](https://img.shields.io/badge/中文文档-点击查看-orange)](README-zh.md)
+
 A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [What is MCP?](#what-is-mcp)
