@@ -1,0 +1,3 @@
+[submodule "meta-mcp"]
+	path = meta-mcp
+	url = https://github.com/DMontgomery40/meta-mcp-server.git
