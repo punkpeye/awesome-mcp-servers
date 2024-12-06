@@ -23,7 +23,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 ## Community
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
-* [Discord Server](https://discord.gg/TFE8FmjCdS)
+* [Discord Server](https://glama.ai/mcp/discord)
 
 ## Legend
 
@@ -91,6 +91,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📇 🏠 - PostgreSQL database integration with schema inspection and query capabilities
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - SQLite database operations with built-in analysis features
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - DuckDB database integration with schema inspection and query capabilities
+- [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) 📇 🏠 - MongoDB integration that enables LLMs to interact directly with databases.
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
 
