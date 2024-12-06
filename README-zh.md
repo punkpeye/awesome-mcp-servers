@@ -21,7 +21,7 @@
 ## 社区
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
-* [Discord 服务](https://discord.gg/TFE8FmjCdS)
+* [Discord 服务](https://glama.ai/mcp/discord)
 
 ## 说明
 
