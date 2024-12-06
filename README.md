@@ -22,6 +22,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ## Community
 
+* [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://discord.gg/TFE8FmjCdS)
 
 ## Legend
