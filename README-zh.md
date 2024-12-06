@@ -20,6 +20,7 @@
 
 ## 社区
 
+* [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord 服务](https://discord.gg/TFE8FmjCdS)
 
 ## 说明
@@ -38,6 +39,7 @@
 * 💬 - [社交](#communication)
 * 👤 - [数据平台](#customer-data-platforms)
 * 🗄️ - [数据库](#databases)
+* 🛠️ - [开发者工具](#developer-tools)
 * 📂 - [文件系统](#file-systems)
 * 🧠 - [知识与记忆](#knowledge--memory)
 * 🗺️ - [位置服务](#location-services)
@@ -143,6 +145,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>其他工具和集成
 
+- [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - 高效的 Go 文档服务器，让 AI 助手可以智能访问包文档和类型，而无需阅读整个源文件
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - 直接从Claude查询OpenAI模型，使用MCP协议
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📇 🏠 - MCP服务器，涵盖MCP协议的所有功能
 - [baba786/phabricator-mcp-server](https://github.com/baba786/phabricator-mcp-server) 🐍 ☁️ - 与Phabricator API交互
@@ -161,6 +164,8 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - Confluence工作区的自然语言搜索和内容访问
 - [pyroprompts/any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp) - 与任何其他OpenAI SDK兼容的聊天完成API对话，例如Perplexity、Groq、xAI等
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) 🐍 🏠 -  一个MCP服务器，可以为您安装其他MCP服务器
+- [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) 🐍 ☁️ - 与 Perplexity API 交互。
+- [future-audiences/wikimedia-enterprise-model-context-protocol](https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol) 🐍 ☁️  - 维基百科文章查找 API
 
 ## 框架
 
@@ -173,6 +178,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 ## 客户端
 
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 一个OpenAI中间件代理，用于在任何现有的OpenAI兼容客户端中使用MCP。
+- [3choff/MCP-Chatbot](https://github.com/3choff/mcp-chatbot) 一个简单但功能强大的⭐CLI聊天机器人，它将工具服务器与任何与OpenAI兼容的LLM API集成。
 - [zed-industries/zed](https://github.com/zed-industries/zed) 来自Atom创作者的多人协作代码编辑器。
 - [firebase/genkit](https://github.com/firebase/genkit) 代理和数据转换框架。
 - [continuedev/continue](https://github.com/continuedev/continue) vscode自动补全和聊天工具（支持完整功能）。
