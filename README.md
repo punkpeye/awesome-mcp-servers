@@ -64,6 +64,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) - PostgreSQL database integration with schema inspection and query capabilities
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) - SQLite database operations with built-in analysis features
+- [@joshuarileydev/supabase-mcp-server](https://github.com/joshuarileydev/supabase) - Supabase MCP Server for managing and creating projects and organisations in Supabase
 
 <br />
 
@@ -136,7 +137,6 @@ Interact with Git repositories and version control platforms. Enables repository
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) - Fetch YouTube subtitles
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) - Integrates with Notion's API to manage personal todo lists
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) - Autonomous shell execution, computer control and coding agent. (Mac)
-- [joshuarileydev/terminal] - Run terminal commands, use @joshuarileydev/terminal as package name
 
 ## Frameworks
 
