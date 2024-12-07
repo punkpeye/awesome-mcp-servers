@@ -103,6 +103,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 Tools and integrations that enhance the development workflow and environment management.
 
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - Docker container management and operations through MCP
+- [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - Connect any HTTP/REST API server using an Open API spec (v3)
 
 ### 📂 <a name="file-systems"></a>File Systems
 
