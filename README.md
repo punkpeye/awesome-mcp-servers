@@ -117,6 +117,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Knowledge graph-based persistent memory system for maintaining context
+- [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - Enhanced graph-based memory with a focus on AI role-play and story generation
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
