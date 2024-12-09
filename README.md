@@ -218,7 +218,6 @@ Interact with Git repositories and version control platforms. Enables repository
 - [zed-industries/zed](https://github.com/zed-industries/zed) multiplayer code editor from the creators of atom
 - [firebase/genkit](https://github.com/firebase/genkit) agent and data transformation framework
 - [continuedev/continue](https://github.com/continuedev/continue) vscode auto complete and chat tool (full feature support)
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain
 
 ## Tips and Tricks
 
