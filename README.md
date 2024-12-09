@@ -38,6 +38,9 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ## Server Implementations
 
+> [!NOTE]
+> We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
+
 * 📂 - [Browser Automation](#browser-automation)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
 * 💬 - [Communication](#communication)
@@ -53,7 +56,6 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 🔄 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
-
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
