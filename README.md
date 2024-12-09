@@ -2,6 +2,7 @@
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![中文文档](https://img.shields.io/badge/中文文档-点击查看-orange)](README-zh.md)
+[![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
@@ -102,6 +103,8 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - Tinybird integration with query and API capabilities
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - A Model Context Protocol Server for MongoDB
 - [KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server) 🐍 ☁️ - VikingDB integration with collection and index introduction, vector store and search capabilities.
+- [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) 🐍 🏠 - Model Context Protocol with Neo4j
+
 ### 💻 <a name="developer-tools"></a>Developer Tools
 
 Tools and integrations that enhance the development workflow and environment management.
