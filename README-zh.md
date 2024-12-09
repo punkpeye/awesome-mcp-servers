@@ -219,6 +219,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [zed-industries/zed](https://github.com/zed-industries/zed) 来自Atom创作者的多人协作代码编辑器。
 - [firebase/genkit](https://github.com/firebase/genkit) 代理和数据转换框架。
 - [continuedev/continue](https://github.com/continuedev/continue) vscode自动补全和聊天工具（支持完整功能）。
+- [gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 使用 Docker 化的计算机使用代理，具备生产就绪的 API - Langchain 的 MCP 客户端
 
 ## 提示和技巧
 
