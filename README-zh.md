@@ -104,6 +104,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - Tinybird 集成查询和 API 功能
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - MongoDB 的模型上下文协议服务器
 - [KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server) 🐍 ☁️ - VikingDB 数据库集成了collection和index的基本信息介绍，并提供向量存储和查询的功能.
+- [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) 🐍 🏠 - Neo4j 的模型上下文协议
 
 ### 💻 <a name="developer-tools"></a>开发者工具
 
@@ -219,7 +220,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [zed-industries/zed](https://github.com/zed-industries/zed) 来自Atom创作者的多人协作代码编辑器。
 - [firebase/genkit](https://github.com/firebase/genkit) 代理和数据转换框架。
 - [continuedev/continue](https://github.com/continuedev/continue) vscode自动补全和聊天工具（支持完整功能）。
-- [gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 使用 Docker 化的计算机使用代理，具备生产就绪的 API - Langchain 的 MCP 客户端
+- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 使用 Docker 化的计算机使用代理，具备生产就绪的 API - Langchain 的 MCP 客户端
 
 ## 提示和技巧
 
