@@ -45,6 +45,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 🗄️ - [Databases](#databases)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 📂 - [File Systems](#file-systems)
+* 💰 - [Finance & Fintech](#finance--fintech)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * 🗺️ - [Location Services](#location-services)
 * 📊 - [Monitoring](#monitoring)
@@ -114,6 +115,13 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - Google Drive integration for listing, reading, and searching files
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - Golang implementation for local file system access.
 
+### 💰 <a name="finance--fintech"></a>Finance & Fintech
+
+Financial data access and cryptocurrency market information. Enables querying real-time market data, crypto prices, and financial analytics.
+
+- [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - Real-time cryptocurrency market data integration using CoinCap's public API, providing access to crypto prices and market information without API keys
+- [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 🏠 - Coinmarket API integration to fetch cryptocurrency listings and quotes
+  
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
