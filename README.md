@@ -87,6 +87,8 @@ Integration with communication platforms for message management and channel oper
 Provides access to customer profiles inside of customer data platforms
 
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - An MCP server to access and updates profiles on an Apache Unomi CDP server.
+- [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍☁️ - Connect any Open Data to any LLM with Model Context Protocol.
+- [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
 
 ### 🗄️ <a name="databases"></a>Databases
 
@@ -231,6 +233,9 @@ Interact with Git repositories and version control platforms. Enables repository
 - [firebase/genkit](https://github.com/firebase/genkit) agent and data transformation framework
 - [continuedev/continue](https://github.com/continuedev/continue) vscode auto complete and chat tool (full feature support)
 - [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) dockerized mcp client with Anthropic, OpenAI and Langchain.
+- [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) An MCP stdio to HTTP SSE transport gateway with example server and MCP client.
+- [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) A gateway demo for MCP SSE Server.
+- [mark3labs/mcphost](https://github.com/mark3labs/mcphost) A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 
 ## Tips and Tricks
 
