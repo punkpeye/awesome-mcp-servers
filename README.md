@@ -233,6 +233,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [firebase/genkit](https://github.com/firebase/genkit) agent and data transformation framework
 - [continuedev/continue](https://github.com/continuedev/continue) vscode auto complete and chat tool (full feature support)
 - [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) dockerized mcp client with Anthropic, OpenAI and Langchain.
+- [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) An MCP stdio to HTTP SSE transport gateway with example server and MCP client.
 
 ## Tips and Tricks
 
