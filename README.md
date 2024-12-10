@@ -88,6 +88,7 @@ Provides access to customer profiles inside of customer data platforms
 
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - An MCP server to access and updates profiles on an Apache Unomi CDP server.
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍☁️ - Connect any Open Data to any LLM with Model Context Protocol.
+- [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
 
 ### 🗄️ <a name="databases"></a>Databases
 
