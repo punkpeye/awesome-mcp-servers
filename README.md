@@ -221,6 +221,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [mcp-rs-template](https://github.com/linux-china/mcp-rs-template) 🦀 - MCP CLI server template for Rust
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang library to write MCP Servers declaratively with functional testing included
 - [LiteMCP](https://github.com/wong2/litemcp) ⚡️ - A high-level framework for building MCP servers in JavaScript/TypeScript
+- [mcp-framework](https://github.com/QuantGeekDev/mcp-framework) - ⚡️ Fast and elegant TypeScript framework for building MCP servers
 
 ## Clients
 
