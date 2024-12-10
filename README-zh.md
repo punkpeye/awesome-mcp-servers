@@ -236,6 +236,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [continuedev/continue](https://github.com/continuedev/continue) vscode自动补全和聊天工具（支持完整功能）。
 - [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 使用 Docker 化的计算机使用代理，具备生产就绪的 API - Langchain 的 MCP 客户端
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 带有示例服务器和 MCP 客户端的 MCP stdio 到 HTTP SSE 传输网关。
+- [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) MCP SSE 服务器的网关演示。
 
 ## 提示和技巧
 
