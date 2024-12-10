@@ -234,6 +234,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [continuedev/continue](https://github.com/continuedev/continue) vscode auto complete and chat tool (full feature support)
 - [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) dockerized mcp client with Anthropic, OpenAI and Langchain.
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) An MCP stdio to HTTP SSE transport gateway with example server and MCP client.
+- [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) A gateway demo for MCP SSE Server.
 
 ## Tips and Tricks
 
