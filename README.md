@@ -121,6 +121,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - Docker container management and operations through MCP
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - Connect any HTTP/REST API server using an Open API spec (v3)
+- [jetbrains/mcpProxy](https://github.com/JetBrains/mcpProxy) 🎖️ 🏠 - Connect to JetBrains IDE 
 
 ### 🧮 Data Science Tools
 
