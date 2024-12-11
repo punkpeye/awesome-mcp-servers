@@ -170,6 +170,8 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - 搜索 ArXiv 研究论文
 - [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) 🔍📚 - 在 Google 上搜索并对任何主题进行深度研究
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️  MCP for LLM 用于搜索和阅读 arXiv 上的论文)
+- [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - 一个用于 Apify 的 RAG Web 浏览器 Actor 的 MCP 服务器，可以执行网页搜索、抓取 URL，并以 Markdown 格式返回内容。
+
 
 ### 🚆 <a name="travel-and-transportation"></a>旅行与交通
 
@@ -221,6 +223,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – 提供[Genkit](https://github.com/firebase/genkit/tree/main)与模型上下文协议（MCP）之间的集成。
 - [@modelcontextprotocol/server-langchain](https://github.com/rectalogic/langchain-mcp) 🐍 - 提供LangChain中的MCP工具调用支持，允许将MCP工具集成到LangChain工作流中。
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 🏎️ - 用于构建MCP服务器和客户端的Golang SDK。
+- [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) 🏎️ - 用于构建 MCP 服务器的 Golang 框架，专注于类型安全。
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - 一个用于在Python中构建MCP服务器的高级框架。
 - [mcp-rs-template](https://github.com/linux-china/mcp-rs-template) 🦀 - Rust的MCP CLI服务器模板
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang 库以声明方式编写 MCP 服务器，并包含功能测试
