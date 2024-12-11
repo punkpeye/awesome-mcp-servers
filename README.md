@@ -36,6 +36,8 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 🏎️ – Go codebase
 * ☁️ - Cloud Service
 * 🏠 - Local Service
+* 🍎 – For macOS
+* 🪟 – For Windows
 
 ## Server Implementations
 
