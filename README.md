@@ -66,6 +66,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🌐 🖱️ - An MCP server for browser automation using Playwright
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Fetch YouTube subtitles and transcripts for AI analysis
+- [https://github.com/recursechat/mcp-server-apple-shortcuts] 🍎 - An MCP Server Integration with Apple Shortcuts
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
