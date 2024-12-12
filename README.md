@@ -252,6 +252,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 - [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli/) CLI client that support Anthorpic, OpenAI, Groq, and ollama model via langchain
 - [daodao97/chatmcp](https://github.com/daodao97/chatmcp) A GUI chat repl for interacting with MCP servers.
+- [cline/cline](https://github.com/cline/cline) A vs code extension that implements a fully agentic software development environment.
 
 ## Tips and Tricks
 
