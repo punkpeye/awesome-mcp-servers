@@ -253,6 +253,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli/) CLI client that support Anthorpic, OpenAI, Groq, and ollama model via langchain
 - [daodao97/chatmcp](https://github.com/daodao97/chatmcp) A GUI chat repl for interacting with MCP servers.
 - [cline/cline](https://github.com/cline/cline) A vs code extension that implements a fully agentic software development environment.
+- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) general purpose automated assistant/agent framework
 
 ## Tips and Tricks
 
