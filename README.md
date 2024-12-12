@@ -57,6 +57,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 🗺️ - [Location Services](#location-services)
 * 📊 - [Monitoring](#monitoring)
 * 🔎 - [Search](#search)
+* 🔒 - [Security](#security)
 * 🔄 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
@@ -182,6 +183,9 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️  MCP to search and read medical / life sciences papers from PubMed.
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - An MCP server for Apify's RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown.
 
+### 🔒 <a name="security"></a>Security
+
+- [Shodan MCP Server](https://github.com/BurtTheCoder/mcp-shodan) 📇 ☁️ - MCP server for querying the Shodan API and Shodan CVEDB. This server provides tools for IP lookups, device searches, DNS lookups, vulnerability queries, CPE lookups, and more.
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
