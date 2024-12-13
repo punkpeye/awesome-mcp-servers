@@ -41,7 +41,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ## Server Implementations
 
-> [! NOTE]
+> [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
 * 📂 - [Browser Automation](#browser-automation)
@@ -127,7 +127,6 @@ Tools and integrations that enhance the development workflow and environment man
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - Docker container management and operations through MCP
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - Connect any HTTP/REST API server using an Open API spec (v3)
 - [jetbrains/mcpProxy](https://github.com/JetBrains/mcpProxy) 🎖️ 🏠 - Connect to JetBrains IDE 
-- [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) - A line-oriented text file editor. Optimized for LLM tools with efficient partial file access to minimize token usage.
 
 ### 🧮 Data Science Tools
 
@@ -149,7 +148,6 @@ Financial data access and cryptocurrency market information. Enables querying re
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - Real-time cryptocurrency market data integration using CoinCap's public API, providing access to crypto prices and market information without API keys
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 🏠 - Coinmarket API integration to fetch cryptocurrency listings and quotes
   
-
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
