@@ -271,6 +271,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [daodao97/chatmcp](https://github.com/daodao97/chatmcp) A GUI chat repl for interacting with MCP servers.
 - [cline/cline](https://github.com/cline/cline) A vs code extension that implements a fully agentic software development environment.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) general purpose automated assistant/agent framework
+- [Python CLI for AI Chat API](https://github.com/amidabuddha/console-chat-gpt) 🐍 ☁️ Console chat with **all** major LLM provider: ChatGPT, MistralAI, Claude by Anthropic, Grok by xAI and Gemini by Google. ⭐Now with MCP support!⭐
 
 ## Tips and Tricks
 
