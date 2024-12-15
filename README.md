@@ -58,7 +58,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 📊 - [Monitoring](#monitoring)
 * 🔎 - [Search](#search)
 * 🔒 - [Security](#security)
-* 🔄 - [Travel & Transportation](#travel-and-transportation)
+* 🚆 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
