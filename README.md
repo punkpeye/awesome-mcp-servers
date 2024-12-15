@@ -94,6 +94,7 @@ Integration with communication platforms for message management and channel oper
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - Slack workspace integration for channel management and messaging
 - [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky instance integration for querying and interaction
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - Integration with gmail and Google Calendar.
+- [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) - 🐍 - Interact with Twitter search and timeline
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
 
