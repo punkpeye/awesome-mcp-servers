@@ -58,7 +58,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 📊 - [Monitoring](#monitoring)
 * 🔎 - [Search](#search)
 * 🔒 - [Security](#security)
-* 🔄 - [Travel & Transportation](#travel-and-transportation)
+* 🚆 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
@@ -124,6 +124,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) 🐍 🏠 - Model Context Protocol with Neo4j
 - [isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server) 🐍 ☁️ - Snowflake integration implementing read and (optional) write opertions as well as insight tracking
 - [hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server) 🐍 🏠 - An MCP server that provides safe, read-only access to SQLite databases through Model Context Protocol (MCP). This server is built with the FastMCP framework, which enables LLMs to explore and query SQLite databases with built-in safety features and query validation.
+- [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) 🐍 ☁️ - Pinecone integration with vector search capabilities
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
 
@@ -135,6 +136,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) 🐍 🏠 - A line-oriented text file editor. Optimized for LLM tools with efficient partial file access to minimize token usage.
 - [@joshuarileydev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server) 📇 🏠 - An MCP server to control iOS Simulators
 - [@joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) 📇 🏠 - An MCP server to communicate with the App Store Connect API for iOS Developers
+- [@sammcj/mcp-package-version](https://github.com/sammcj/mcp-package-version) 📦 🏠 - An MCP Server to help LLMs suggest the latest stable package versions when writing code.
 
 ### 🧮 Data Science Tools
 
@@ -212,6 +214,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [@modelcontextprotocol/server-github](https://github.com/modelcontextprotocol/servers/tree/main/src/github) 📇 ☁️ - GitHub API integration for repository management, PRs, issues, and more
 - [@modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) 📇 ☁️ 🏠 - GitLab platform integration for project management and CI/CD operations
 - [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) 🐍 🏠 - Direct Git repository operations including reading, searching, and analyzing local repositories
+- [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - Read and analyze GitHub repositories with your LLM
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
@@ -274,6 +277,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [daodao97/chatmcp](https://github.com/daodao97/chatmcp) A GUI chat repl for interacting with MCP servers.
 - [cline/cline](https://github.com/cline/cline) A vs code extension that implements a fully agentic software development environment.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) general purpose automated assistant/agent framework
+- [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 Use MCP provided tools in LangChain.js
 
 ## Tips and Tricks
 
