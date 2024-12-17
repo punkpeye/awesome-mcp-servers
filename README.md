@@ -34,6 +34,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 🐍 – Python codebase
 * 📇 – TypeScript codebase
 * 🏎️ – Go codebase
+* 🦀 – Rust codebase
 * ☁️ - Cloud Service
 * 🏠 - Local Service
 * 🍎 – For macOS
