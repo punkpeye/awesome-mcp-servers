@@ -34,6 +34,7 @@
 * 🐍 – Pythonコードベース
 * 📇 – TypeScriptコードベース
 * 🏎️ – Goコードベース
+* #️⃣ – C#コードベース
 * ☁️ - クラウドサービス
 * 🏠 - ローカルサービス
 
@@ -204,6 +205,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - PythonでMCPサーバーを構築するための高レベルフレームワーク
 - [mcp-rs-template](https://github.com/linux-china/mcp-rs-template) 🦀 - RustのためのMCP CLIサーバーテンプレート
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - 機能テストを含む宣言的にMCPサーバーを記述するためのGolangライブラリ
+- [salty-flower/ModelContextProtocol.NET](https://github.com/salty-flower/ModelContextProtocol.NET) #️⃣🏠 - .NET 9上でNativeAOT対応のMCPサーバーを構築するためのC# SDK ⚡ 🔌
 
 ## クライアント
 
