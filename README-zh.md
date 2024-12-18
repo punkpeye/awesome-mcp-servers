@@ -269,6 +269,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang 库以声明方式编写 MCP 服务器，并包含功能测试
 - [LiteMCP](https://github.com/wong2/litemcp) ⚡️ - 用于在 JavaScript/TypeScript 中构建 MCP 服务器的高级框架
 - [mcp-framework](https://github.com/QuantGeekDev/mcp-framework) - ⚡️ 用于构建 MCP 服务器的快速而优雅的 TypeScript 框架
+- [salty-flower/ModelContextProtocol.NET](https://github.com/salty-flower/ModelContextProtocol.NET) #️⃣🏠 - 基于 .NET 9 的 C# MCP 服务器 SDK ，支持 NativeAOT ⚡ 🔌
 
 ## 客户端
 
