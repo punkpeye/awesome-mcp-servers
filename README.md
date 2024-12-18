@@ -178,6 +178,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📇 ☁️ - Google Maps integration for location services, routing, and place details
+- [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) 🐍 🏠 - Access the time in any timezone and get the current local time
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
