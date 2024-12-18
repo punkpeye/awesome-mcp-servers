@@ -165,7 +165,6 @@ Financial data access and cryptocurrency market information. Enables querying re
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - Real-time cryptocurrency market data integration using CoinCap's public API, providing access to crypto prices and market information without API keys
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 🏠 - Coinmarket API integration to fetch cryptocurrency listings and quotes
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 🏠 - Alpha Vantage API integration to fetch both stock and crypto information
-
   
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
