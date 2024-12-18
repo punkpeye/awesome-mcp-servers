@@ -35,6 +35,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 📇 – TypeScript codebase
 * 🏎️ – Go codebase
 * 🦀 – Rust codebase
+* #️⃣ - C# Codebase
 * ☁️ - Cloud Service
 * 🏠 - Local Service
 * 🍎 – For macOS
@@ -269,6 +270,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang library to write MCP Servers declaratively with functional testing included
 - [LiteMCP](https://github.com/wong2/litemcp) ⚡️ - A high-level framework for building MCP servers in JavaScript/TypeScript
 - [mcp-framework](https://github.com/QuantGeekDev/mcp-framework) - ⚡️ Fast and elegant TypeScript framework for building MCP servers
+- [salty-flower/ModelContextProtocol.NET](https://github.com/salty-flower/ModelContextProtocol.NET) #️⃣🏠 - A C# SDK for building MCP servers on .NET 9 with NativeAOT compatibility ⚡ 🔌
 
 ## Clients
 
