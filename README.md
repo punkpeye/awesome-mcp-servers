@@ -31,15 +31,23 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 ## Legend
 
 * 🎖️ – official implementation
-* 🐍 – Python codebase
-* 📇 – TypeScript codebase
-* 🏎️ – Go codebase
-* 🦀 – Rust codebase
-* #️⃣ - C# Codebase
-* ☁️ - Cloud Service
-* 🏠 - Local Service
-* 🍎 – For macOS
-* 🪟 – For Windows
+* programming language
+  * 🐍 – Python codebase
+  * 📇 – TypeScript codebase
+  * 🏎️ – Go codebase
+  * 🦀 – Rust codebase
+  * #️⃣ - C# Codebase
+* scope
+  * ☁️ - Cloud Service
+  * 🏠 - Local Service
+* operating system
+  * 🍎 – For macOS
+  * 🪟 – For Windows
+
+> ![NOTE]
+> Confused about Local 🏠 vs Cloud ☁️?
+> * Use local when MCP server is talking to a locally installed software, e.g. taking control over Chrome browser.
+> * Use network when MCP server is talking to remote APIs, e.g. weather API.
 
 ## Server Implementations
 
