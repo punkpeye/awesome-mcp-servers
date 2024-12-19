@@ -44,7 +44,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
   * 🍎 – For macOS
   * 🪟 – For Windows
 
-> ![NOTE]
+> [!NOTE]
 > Confused about Local 🏠 vs Cloud ☁️?
 > * Use local when MCP server is talking to a locally installed software, e.g. taking control over Chrome browser.
 > * Use network when MCP server is talking to remote APIs, e.g. weather API.
