@@ -301,6 +301,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) general purpose automated assistant/agent framework
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 Use MCP provided tools in LangChain.js
 - [Python CLI for AI Chat API](https://github.com/amidabuddha/console-chat-gpt) 🐍 ☁️ Console chat with **all** major LLM provider: ChatGPT, MistralAI, Claude by Anthropic, Grok by xAI and Gemini by Google. ⭐Now with MCP support!⭐
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) A Java framework for working with LLMs
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) A set of LangChain4j extensions for Quarkus
 
 ## Tips and Tricks
 
