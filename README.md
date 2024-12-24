@@ -55,6 +55,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
 * 📂 - [Browser Automation](#browser-automation)
+* 🎨 - [Art & Culture](#art-and-culture)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
@@ -81,6 +82,12 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Fetch YouTube subtitles and transcripts for AI analysis
 - [@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - An MCP Server Integration with Apple Shortcuts
 - [@kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - A `minimal` server/client MCP implementation using Azure OpenAI and Playwright.
+
+### 🎨 <a name="art-and-culture"></a>Art & Culture
+
+Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
+
+- [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - Rijksmuseum API integration for artwork search, details, and collections
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
