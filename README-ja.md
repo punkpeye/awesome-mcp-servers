@@ -196,6 +196,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - 🐍 ☁️  MCPを使用してOpenAIアシスタントと対話（Claudeは任意のGPTモデルをアシスタントとして使用できます）
 - [@joshuarileydev/simulator-mcp-server](https://www.npmjs.com/package/@joshuarileydev/simulator-mcp-server) - 📇 🏠 iOSシミュレータを制御し、シミュレータを起動し、アプリをインストール/起動するためのMCPサーバー。
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) シェルからホワイトリストにあるコマンドを実行して結果を返すMCPサーバ
+- [apinetwork/piapi-mcp-server](https://github.com/apinetwork/piapi-mcp-server) 📇 ☁️ PiAPI MCPサーバーは、ユーザーがClaudeや他のMCP互換アプリから直接Midjourney/Flux/Kling/Hunyuan/Udio/Trellisでメディアコンテンツを生成することを可能にします。
 
 ## フレームワーク
 
