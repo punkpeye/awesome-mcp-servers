@@ -317,7 +317,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [cline/cline](https://github.com/cline/cline) A vs code extension that implements a fully agentic software development environment.
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) general purpose automated assistant/agent framework
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 Use MCP provided tools in LangChain.js
-- [Python CLI for AI Chat API](https://github.com/amidabuddha/console-chat-gpt) 🐍 ☁️ Console chat with **all** major LLM provider: ChatGPT, MistralAI, Claude by Anthropic, Grok by xAI and Gemini by Google. ⭐Now with MCP support!⭐
+- [Python CLI for AI Chat API](https://github.com/amidabuddha/console-chat-gpt) 🐍 ☁️ Console chat with **all** major LLM provider: ChatGPT, MistralAI, Claude by Anthropic, Grok by xAI, Gemini by Google and DeepSeek. ⭐Now with MCP support!⭐
 
 ## Tips and Tricks
 
