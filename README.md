@@ -311,6 +311,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) dockerized mcp client with Anthropic, OpenAI and Langchain.
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) An MCP stdio to HTTP SSE transport gateway with example server and MCP client.
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) A gateway demo for MCP SSE Server.
+- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 An MCP stdio to SSE transport gateawy.
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 - [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli/) CLI client that support Anthorpic, OpenAI, Groq, and ollama model via langchain
 - [daodao97/chatmcp](https://github.com/daodao97/chatmcp) A GUI chat repl for interacting with MCP servers.
