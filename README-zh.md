@@ -1,4 +1,3 @@
-
 # 精选的 MCP 服务器 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -200,6 +199,9 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - 一个用于 Apify 的 RAG Web 浏览器 Actor 的 MCP 服务器，可以执行网页搜索、抓取 URL，并以 Markdown 格式返回内容。
 - [SecretiveShell/MCP-searxng](https://github.com/SecretiveShell/MCP-searxng) 🐍 🏠 - 用于连接到 searXNG 实例的 MCP 服务器
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Clojars MCP 服务器，提供 Clojure 库的最新依赖信息
+- [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) 📇 🏠/☁️ - [SearXNG](https://docs.searxng.org) 的模型上下文协议服务器
+- [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn) 🐍 ☁️ - 一个用于搜索 Hacker News、获取热门故事等的 MCP 服务器。
+- [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - Google News 集成，具有自动主题分类、多语言支持，以及通过 [SerpAPI](https://serpapi.com/) 提供的标题、故事和相关主题的综合搜索功能。
 
 ### 🔒 <a name="security"></a>安全
 
@@ -259,6 +261,9 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - 使用 Azure OpenAI 和 Playwright 的“最小”服务器/客户端 MCP 实现。
 - [apinetwork/piapi-mcp-server](https://github.com/apinetwork/piapi-mcp-server) 📇 ☁️ PiAPI MCP服务器使用户能够直接从Claude或其他MCP兼容应用程序中使用Midjourney/Flux/Kling/Hunyuan/Udio/Trellis生成媒体内容。
 - [gotoolkits/DifyWorkflow](https://github.com/gotoolkits/mcp-difyworkflow-server) - 🚀 ☁️ MCP 服务器 Tools 实现查询与执行 Dify AI 平台上自定义的工作流
+- [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 带有示例服务器和 MCP 客户端的 MCP stdio 到 HTTP SSE 传输网关。
+- [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) MCP SSE 服务器的网关演示。
+- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 MCP stdio 到 SSE 传输网关。
 
 ## 框架
 
@@ -284,6 +289,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 使用 Docker 化的计算机使用代理，具备生产就绪的 API - Langchain 的 MCP 客户端
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 带有示例服务器和 MCP 客户端的 MCP stdio 到 HTTP SSE 传输网关。
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) MCP SSE 服务器的网关演示。
+- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 MCP stdio 到 SSE 传输网关。
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 一个 CLI 主机应用程序，使大型语言模型 (LLM) 能够通过模型上下文协议 (MCP) 与外部工具交互。
 - [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli/) 通过 langchain 支持 Anthorpic、OpenAI、Groq 和 ollama 模型的 CLI 客户端
 - [daodao97/chatmcp](https://github.com/daodao97/chatmcp) 用于与 MCP 服务器交互的 GUI 聊天副本。
