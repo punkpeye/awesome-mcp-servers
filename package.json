@@ -1,0 +1,29 @@
+{
+  "name": "dtube-transcriber",
+  "version": "0.1.0",
+  "description": "Transcribe and summarize Youtube videos.",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "dtube-transcriber": "./build/index.js"
+  },
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "build": "tsc && node -e \"require('fs').chmodSync('build/index.js', '755')\"",
+    "prepare": "npm run build",
+    "watch": "tsc --watch",
+    "inspector": "npx @modelcontextprotocol/inspector build/index.js"
+  },
+  "devDependencies": {
+    "@googleapis/youtube": "^20.0.0",
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "@types/node": "^20.17.11",
+    "axios": "^1.7.9",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
