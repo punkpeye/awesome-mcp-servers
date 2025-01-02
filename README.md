@@ -39,11 +39,19 @@ To use your own API keys:
    - Sign up at [Gladia.io](https://gladia.io/)
    - Get your API key from the dashboard
 
-3. Set up environment variables:
-   Create a `.env` file in the project root:
-   ```env
-   YOUTUBE_API_KEY=your_youtube_api_key
-   GLADIA_API_KEY=your_gladia_api_key
+3. Add the API keys to your Claude Desktop configuration:
+   Edit the `claude_desktop_config.json` file (usually located in `C:\Users\gener\AppData\Roaming\Claude`) and add the following section under `mcpServers`:
+   ```json
+   "dtube-transcriber": {
+     "command": "node",
+     "args": [
+       "C:\\Users\\gener\\Documents\\Cline\\MCP\\youtube-transcriber\\build\\index.js"
+     ],
+     "env": {
+       "YOUTUBE_API_KEY": "your_youtube_api_key",
+       "GLADIA_API_KEY": "your_gladia_api_key"
+     }
+   }
    ```
 
 ## Usage
@@ -102,6 +110,9 @@ curl -X POST http://localhost:3000/tools -d '{
 
 ## Contributing
 Contributions are welcome! Please open an issue or pull request on GitHub.
+
+## Made by
+Théo DESROUSSEAUX
 
 ## License
 MIT License
