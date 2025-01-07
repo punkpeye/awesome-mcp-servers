@@ -218,11 +218,11 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 
 ## クライアント
 
-- [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 既存のOpenAI互換クライアントでMCPを使用するためのOpenAIミドルウェアプロキシ
 - [3choff/MCP-Chatbot](https://github.com/3choff/mcp-chatbot) シンプルでありながら強力な⭐CLIチャットボットで、ツールサーバーを任意のOpenAI互換のLLM APIと統合します。
 - [zed-industries/zed](https://github.com/zed-industries/zed) Atomの作成者によるマルチプレイヤーコードエディタ
 - [firebase/genkit](https://github.com/firebase/genkit) エージェントおよびデータ変換フレームワーク
 - [continuedev/continue](https://github.com/continuedev/continue) VSCodeの自動補完およびチャットツール（フル機能サポート）
+- [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) クラウドベースのAIサービスがローカルのStdioベースのMCPサーバーにHTTP/HTTPSリクエストでアクセスできるようにするツール
 
 ## ヒントとコツ
 

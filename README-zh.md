@@ -297,6 +297,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 通用自动化助理/代理框架
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 在 LangChain.js 中使用 MCP 提供的工具
 - [Python CLI for AI Chat API](https://github.com/amidabuddha/console-chat-gpt) 🐍 ☁️ 与**所有**主要 LLM 提供商进行控制台聊天：ChatGPT、MistralAI、Anthropic 的 Claude、xAI 的 Grok 和 Google 的 Gemini。⭐现在支持 MCP！⭐
+- [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 一个使云端AI服务能够通过HTTP/HTTPS请求访问本地Stdio的MCP服务器的工具
 
 ## 提示和技巧
 
