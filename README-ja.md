@@ -223,6 +223,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [zed-industries/zed](https://github.com/zed-industries/zed) Atomの作成者によるマルチプレイヤーコードエディタ
 - [firebase/genkit](https://github.com/firebase/genkit) エージェントおよびデータ変換フレームワーク
 - [continuedev/continue](https://github.com/continuedev/continue) VSCodeの自動補完およびチャットツール（フル機能サポート）
+- [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) クラウドベースのAIサービスがローカルのStdioベースのMCPサーバーにHTTP/HTTPSリクエストでアクセスできるようにするツール
 
 ## ヒントとコツ
 
