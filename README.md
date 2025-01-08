@@ -332,6 +332,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) general purpose automated assistant/agent framework
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 Use MCP provided tools in LangChain.js
 - [Python CLI for AI Chat API](https://github.com/amidabuddha/console-chat-gpt) 🐍 ☁️ Console chat with **all** major LLM provider: ChatGPT, MistralAI, Claude by Anthropic, Grok by xAI, Gemini by Google and DeepSeek. ⭐Now with MCP support!⭐
+- [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers by HTTP/HTTPS requests.
 
 ## Tips and Tricks
 
