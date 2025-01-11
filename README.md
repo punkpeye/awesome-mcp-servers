@@ -12,6 +12,8 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Tutorials](#tutorials)
 * [Server Implementations](#server-implementations)
 * [Frameworks](#frameworks)
+* [Utilities](#utilities)
+* [Clients](#clients)
 * [Tips & Tricks](#tips-and-tricks)
 
 ## What is MCP?
@@ -300,7 +302,6 @@ Interact with Git repositories and version control platforms. Enables repository
 - [@pskill9/hn-server](https://github.com/pskill9/hn-server) - 📇 ☁️ Parses the HTML content from news.ycombinator.com (Hacker News) and provides structured data for different types of stories (top, new, ask, show, jobs).
 - [@mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 🎖️ 🦀 🏠 🍎 Local-first system capturing screen/audio with timestamped indexing, SQL/embedding storage, semantic search, LLM-powered history analysis, and event-triggered actions - enables building context-aware AI agents through a NextJS plugin ecosystem.
 
-
 ## Frameworks
 
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
@@ -317,25 +318,21 @@ Interact with Git repositories and version control platforms. Enables repository
 - [salty-flower/ModelContextProtocol.NET](https://github.com/salty-flower/ModelContextProtocol.NET) #️⃣ 🏠 - A C# SDK for building MCP servers on .NET 9 with NativeAOT compatibility ⚡ 🔌
 - [@marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) - CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
 
+## Utilities
+
+- [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway with example server and MCP client.
+- [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 – Use MCP provided tools in LangChain.js
+- [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - A gateway demo for MCP SSE Server.
+- [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ -  A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+- [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers by HTTP/HTTPS requests.
+- [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – an openAI middleware proxy to use mcp in any existing openAI compatible client
+- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateawy.
+- [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – framework to build vertical AI agent
+
 ## Clients
 
-- [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 an openAI middleware proxy to use mcp in any existing openAI compatible client
-- [3choff/MCP-Chatbot](https://github.com/3choff/mcp-chatbot) A simple yet powerful ⭐ CLI chatbot that integrates tool servers with any OpenAI-compatible LLM API.
-- [zed-industries/zed](https://github.com/zed-industries/zed) multiplayer code editor from the creators of atom
-- [firebase/genkit](https://github.com/firebase/genkit) agent and data transformation framework
-- [continuedev/continue](https://github.com/continuedev/continue) vscode auto complete and chat tool (full feature support)
-- [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) dockerized mcp client with Anthropic, OpenAI and Langchain.
-- [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) An MCP stdio to HTTP SSE transport gateway with example server and MCP client.
-- [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) A gateway demo for MCP SSE Server.
-- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 An MCP stdio to SSE transport gateawy.
-- [mark3labs/mcphost](https://github.com/mark3labs/mcphost) A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
-- [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli/) CLI client that support Anthorpic, OpenAI, Groq, and ollama model via langchain
-- [daodao97/chatmcp](https://github.com/daodao97/chatmcp) A GUI chat repl for interacting with MCP servers.
-- [cline/cline](https://github.com/cline/cline) A vs code extension that implements a fully agentic software development environment.
-- [Upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) general purpose automated assistant/agent framework
-- [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 Use MCP provided tools in LangChain.js
-- [Python CLI for AI Chat API](https://github.com/amidabuddha/console-chat-gpt) 🐍 ☁️ Console chat with **all** major LLM provider: ChatGPT, MistralAI, Claude by Anthropic, Grok by xAI, Gemini by Google and DeepSeek. ⭐Now with MCP support!⭐
-- [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers by HTTP/HTTPS requests.
+> [!NOTE]
+> Looking for MCP clients? Check out the [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) repository.
 
 ## Tips and Tricks
 
