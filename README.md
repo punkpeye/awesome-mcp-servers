@@ -106,7 +106,7 @@ Cloud platform service integration. Enables management and interaction with clou
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Integration with Cloudflare services including Workers, KV, R2, and D1
 - [Kubernetes MCP Server](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️/🏠 Kubernetes cluster operations through MCP
 - [@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 Typescript implementation of Kubernetes cluster operations for pods, deployments, services.
-- [Datadog MCP Server](https://github.com/didlawowo/mcp-collection) - 📇 ☁️/🏠 A tool to get data from datadog using API
+- [Datadog MCP Server](https://github.com/didlawowo/mcp-collection) - 📇 ☁️/🏠 A tool to get data from Datadog using API
 
 ### 🖥️ <a name="command-line"></a>Command Line
 
