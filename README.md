@@ -69,6 +69,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * 🗺️ - [Location Services](#location-services)
+* 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
 * 🔎 - [Search](#search)
 * 🔒 - [Security](#security)
@@ -216,6 +217,12 @@ Geographic and location-based services integration. Enables access to mapping da
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📇 ☁️ - Google Maps integration for location services, routing, and place details
 - [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) 🐍 🏠 - Access the time in any timezone and get the current local time
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding MCP server for nominatim, ArcGIS, Bing
+
+### 🎯 <a name="marketing"></a>Marketing
+
+Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
+
+- [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
