@@ -105,7 +105,6 @@ Cloud platform service integration. Enables management and interaction with clou
 - [@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 Typescript implementation of Kubernetes cluster operations for pods, deployments, services.
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - An MCP to give access to all Netskope Private Access components within a Netskope Private Access environments including detailed setup information and LLM examples on usage.
 
-
 ### 🖥️ <a name="command-line"></a>Command Line
 
 Run commands, capture output and otherwise interact with shells and command line tools.
