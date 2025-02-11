@@ -28,7 +28,7 @@
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discordサーバー](https://glama.ai/mcp/discord)
 
-## 伝説
+## 凡例
 
 * 🎖️ – 公式実装
 * 🐍 – Pythonコードベース
