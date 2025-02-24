@@ -8,13 +8,13 @@
 
 A curated list of awesome Model Context Protocol (MCP) servers.
 
-* [What is MCP?](#what-is-mcp)
-* [Tutorials](#tutorials)
-* [Server Implementations](#server-implementations)
-* [Frameworks](#frameworks)
-* [Utilities](#utilities)
-* [Clients](#clients)
-* [Tips & Tricks](#tips-and-tricks)
+- [What is MCP?](#what-is-mcp)
+- [Tutorials](#tutorials)
+- [Server Implementations](#server-implementations)
+- [Frameworks](#frameworks)
+- [Utilities](#utilities)
+- [Clients](#clients)
+- [Tips & Tricks](#tips-and-tricks)
 
 ## What is MCP?
 
@@ -22,70 +22,73 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ## Tutorials
 
-* [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
-* [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+- [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
+- [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 
 ## Community
 
-* [r/mcp Reddit](https://www.reddit.com/r/mcp)
-* [Discord Server](https://glama.ai/mcp/discord)
+- [r/mcp Reddit](https://www.reddit.com/r/mcp)
+- [Discord Server](https://glama.ai/mcp/discord)
 
 ## Legend
 
-* 🎖️ – official implementation
-* programming language
-  * 🐍 – Python codebase
-  * 📇 – TypeScript codebase
-  * 🏎️ – Go codebase
-  * 🦀 – Rust codebase
-  * #️⃣ - C# Codebase
-  * ☕ - Java codebase
-* scope
-  * ☁️ - Cloud Service
-  * 🏠 - Local Service
-* operating system
-  * 🍎 – For macOS
-  * 🪟 – For Windows
+- 🎖️ – official implementation
+- programming language
+  - 🐍 – Python codebase
+  - 📇 – TypeScript codebase
+  - 🏎️ – Go codebase
+  - 🦀 – Rust codebase
+  - #️⃣ - C# Codebase
+  - ☕ - Java codebase
+- scope
+  - ☁️ - Cloud Service
+  - 🏠 - Local Service
+- operating system
+  - 🍎 – For macOS
+  - 🪟 – For Windows
 
 > [!NOTE]
 > Confused about Local 🏠 vs Cloud ☁️?
-> * Use local when MCP server is talking to a locally installed software, e.g. taking control over Chrome browser.
-> * Use network when MCP server is talking to remote APIs, e.g. weather API.
+>
+> - Use local when MCP server is talking to a locally installed software, e.g. taking control over Chrome browser.
+> - Use network when MCP server is talking to remote APIs, e.g. weather API.
 
 ## Server Implementations
 
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
-* 📂 - [Browser Automation](#browser-automation)
-* 🎨 - [Art & Culture](#art-and-culture)
-* ☁️ - [Cloud Platforms](#cloud-platforms)
-* 🖥️ - [Command Line](#command-line)
-* 💬 - [Communication](#communication)
-* 👤 - [Customer Data Platforms](#customer-data-platforms)
-* 🗄️ - [Databases](#databases)
-* 🛠️ - [Developer Tools](#developer-tools)
-* 📂 - [File Systems](#file-systems)
-* 💰 - [Finance & Fintech](#finance--fintech)
-* 🧠 - [Knowledge & Memory](#knowledge--memory)
-* 🗺️ - [Location Services](#location-services)
-* 🎯 - [Marketing](#marketing)
-* 📊 - [Monitoring](#monitoring)
-* 🔎 - [Search](#search)
-* 🔒 - [Security](#security)
-* 🚆 - [Travel & Transportation](#travel-and-transportation)
-* 🔄 - [Version Control](#version-control)
-* 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+- 📂 - [Browser Automation](#browser-automation)
+- 🎨 - [Art & Culture](#art-and-culture)
+- ☁️ - [Cloud Platforms](#cloud-platforms)
+- 🖥️ - [Command Line](#command-line)
+- 💬 - [Communication](#communication)
+- 👤 - [Customer Data Platforms](#customer-data-platforms)
+- 🗄️ - [Databases](#databases)
+- 🛠️ - [Developer Tools](#developer-tools)
+- 📂 - [File Systems](#file-systems)
+- 💰 - [Finance & Fintech](#finance--fintech)
+- 🧠 - [Knowledge & Memory](#knowledge--memory)
+- 🗺️ - [Location Services](#location-services)
+- 🎯 - [Marketing](#marketing)
+- 📊 - [Monitoring](#monitoring)
+- 🔎 - [Search](#search)
+- 🔒 - [Security](#security)
+- 🚆 - [Travel & Transportation](#travel-and-transportation)
+- 🔄 - [Version Control](#version-control)
+- 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
+
 - [@blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🌐 - An MCP python server using Playwright for browser automation,more suitable for llm
 - [@executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 🌐⚡️ - An MCP server using Playwright for browser automation and webscrapping
 - [@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🌐 🖱️ - An MCP server for browser automation using Playwright
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Fetch YouTube subtitles and transcripts for AI analysis
 - [@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - An MCP Server Integration with Apple Shortcuts
+- [@fradser/mcp-server-apple-reminders](https://github.com/FradSer/mcp-server-apple-reminders) 📇 🏠 🍎 - An MCP server for interacting with Apple Reminders on macOS
 - [@kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - A `minimal` server/client MCP implementation using Azure OpenAI and Playwright.
 - [@pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - An MCP server that enables free web searching using Google search results, with no API keys required.
 
@@ -125,7 +128,7 @@ Integration with communication platforms for message management and channel oper
 - [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky instance integration for querying and interaction
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - Integration with gmail and Google Calendar.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline
-- [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - An MCP server application that sends various types of messages to the WeCom group robot.
+- [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️ - An MCP server application that sends various types of messages to the WeCom group robot.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
@@ -187,6 +190,7 @@ Tools and integrations that enhance the development workflow and environment man
 ### 🧮 Data Science Tools
 
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
+
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - Enables autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
 
@@ -213,6 +217,7 @@ Financial data access and cryptocurrency market information. Enables querying re
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
+
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Knowledge graph-based persistent memory system for maintaining context
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - Enhanced graph-based memory with a focus on AI role-play and story generation
 - [/topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - Memory manager for AI apps and Agents using various graph and vector stores and allowing ingestion from 30+ data sources
@@ -226,7 +231,7 @@ Geographic and location-based services integration. Enables access to mapping da
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📇 ☁️ - Google Maps integration for location services, routing, and place details
 - [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) 🐍 🏠 - Access the time in any timezone and get the current local time
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding MCP server for nominatim, ArcGIS, Bing
-- [@briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️  - IP address geolocation and network information using IPInfo API
+- [@briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️ - IP address geolocation and network information using IPInfo API
 
 ### 🎯 <a name="marketing"></a>Marketing
 
@@ -254,8 +259,8 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) ☁️ 🐍 – Tavily AI search API
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Search ArXiv research papers
 - [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) 🔍📚 - Search Google and do deep web research on any topic
-- [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️  MCP for LLM to search and read papers from arXiv
-- [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️  MCP to search and read medical / life sciences papers from PubMed.
+- [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️ MCP for LLM to search and read papers from arXiv
+- [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️ MCP to search and read medical / life sciences papers from PubMed.
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - An MCP server for Apify's open-source RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown.
 - [SecretiveShell/MCP-searxng](https://github.com/SecretiveShell/MCP-searxng) 🐍 🏠 - An MCP Server to connect to searXNG instances
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Clojars MCP Server for upto date dependency information of Clojure libraries
@@ -312,11 +317,11 @@ Interact with Git repositories and version control platforms. Enables repository
 - [KS-GEN-AI/confluence-mcp-server](https://github.com/KS-GEN-AI/confluence-mcp-server) 📇 ☁️ 🍎 🪟 - Read jira data via JQL and api and execute requests to create and edit tickets.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - Natural language search and content access for Confluence workspaces
 - [pyroprompts/any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp) - Chat with any other OpenAI SDK Compatible Chat Completions API, like Perplexity, Groq, xAI and more
-- [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) 🐍 🏠 -  An MCP server that installs other MCP servers for you.
+- [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) 🐍 🏠 - An MCP server that installs other MCP servers for you.
 - [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity) 🐍 ☁️ - Interacting with Perplexity API.
-- [future-audiences/wikimedia-enterprise-model-context-protocol](https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol) 🐍 ☁️  - Wikipedia Article lookup API
+- [future-audiences/wikimedia-enterprise-model-context-protocol](https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol) 🐍 ☁️ - Wikipedia Article lookup API
 - [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) 🐍 🏠☁️ - An MCP server that allows checking local time on the client machine or current UTC time from an NTP server
-- [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - 🐍 ☁️  MCP to talk to OpenAI assistants (Claude can use any GPT model as his assitant)
+- [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - 🐍 ☁️ MCP to talk to OpenAI assistants (Claude can use any GPT model as his assitant)
 - [@llmindset/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) 📇 ☁️ - Use HuggingFace Spaces directly from Claude. Use Open Source Image Generation, Chat, Vision tasks and more. Supports Image, Audio and text uploads/downloads.
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 📇 🏠 - CLI tool for testing MCP servers
@@ -359,7 +364,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway with example server and MCP client.
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 – Use MCP provided tools in LangChain.js
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - A gateway demo for MCP SSE Server.
-- [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ -  A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
+- [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 - [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - A tiny tool that enables cloud-based AI services to access local Stdio based MCP servers by HTTP/HTTPS requests.
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – an openAI middleware proxy to use mcp in any existing openAI compatible client
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateawy.
