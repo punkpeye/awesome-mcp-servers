@@ -217,6 +217,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) サンプルサーバーとMCPクライアントを備えたMCP stdioからHTTP SSEへのトランスポートゲートウェイ。
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) MCP SSEサーバーのゲートウェイデモ。
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 MCP stdioからSSEへのトランスポートゲートウェイ。
+- [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) 🐍 - 画面上のGUIの自動操作
 
 ## フレームワーク
 
