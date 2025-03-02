@@ -8,13 +8,15 @@
 
 精选的优秀模型上下文协议 (MCP) 服务器列表。
 
-* [什么是MCP？](#what-is-mcp)
-* [教程](#tutorials)
-* [Server 实现](#server-implementations)
-* [框架](#frameworks)
-* [实用工具](#utilities)
-* [客户端](#clients)
-* [提示和技巧](#tips-and-tricks)
+* [什么是MCP？](#什么是MCP？)
+* [教程](#教程)
+* [社区](#社区)
+* [说明](#说明)
+* [Server 实现](#服务器实现)
+* [框架](#框架)
+* [实用工具](#实用工具)
+* [客户端](#客户端)
+* [提示和技巧](#提示和技巧)
 
 ## 什么是MCP？
 
