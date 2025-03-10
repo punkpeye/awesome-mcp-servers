@@ -179,6 +179,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - 基于 Pandoc 的 MCP 服务器，支持 Markdown、HTML、PDF、DOCX（.docx）、csv 等格式之间的无缝转换
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - 这个 MCP 服务器提供了使用 wget 下载完整网站的工具，可保留网站结构并转换链接以支持本地访问
 - [j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) 🐍 - 基于 [SQLGlot](https://github.com/tobymao/sqlglot) 的 MCP 服务器，提供 SQL 分析、代码检查和方言转换功能
+- [xhd2015/dlv-mcp](https://github.com/xhd2015/dlv-mcp) 🛠️ 🐞 🥴 - Golang Devle Debugger的MCP 服务器，使AI能够自己调试代码。
 
 ### 🧮 数据科学工具
 
