@@ -224,6 +224,7 @@ Financial data access and cryptocurrency market information. Enables querying re
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API integration to fetch both stock and crypto information
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API integration to handle trading activities on Tastytrade
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - Yahoo Finance integration to fetch stock market data including options recommendations
+- [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) 📇☁️ - Bankless Onchain API to interact with smart contracts, query transaction and token information
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
