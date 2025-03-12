@@ -8,11 +8,13 @@
 
 素晴らしいモデルコンテキストプロトコル（MCP）サーバーの厳選リスト。
 
-* [MCPとは何ですか？](#what-is-mcp)
-* [チュートリアル](#tutorials)
-* [サーバー実装](#server-implementations)
-* [フレームワーク](#frameworks)
-* [ヒントとコツ](#tips-and-tricks)
+* [MCPとは何ですか？](#MCPとは何ですか？)
+* [チュートリアル](#チュートリアル)
+* [コミュニティ](#コミュニティ)
+* [凡例](#凡例)
+* [サーバー実装](#サーバー実装)
+* [フレームワーク](#フレームワーク)
+* [ヒントとコツ](#ヒントとコツ)
 
 ## MCPとは何ですか？
 
@@ -218,6 +220,8 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) サンプルサーバーとMCPクライアントを備えたMCP stdioからHTTP SSEへのトランスポートゲートウェイ。
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) MCP SSEサーバーのゲートウェイデモ。
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 MCP stdioからSSEへのトランスポートゲートウェイ。
+- [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) 🐍 - 画面上のGUIの自動操作
+- [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ [Kibela](https://kibe.la/)との連携
 
 ## フレームワーク
 
