@@ -201,6 +201,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [@j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) 🐍 - MCP server that provides SQL analysis, linting, and dialect conversion using [SQLGlot](https://github.com/tobymao/sqlglot)
 - [@haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) 🐍 🏠 - An Excel manipulation server providing workbook creation, data operations, formatting, and advanced features (charts, pivot tables, formulae).
 - [@jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) 📇 🏠 - An MCP Server and VS Code Extension which enables (language agnostic) automatic debugging via breakpoints and expression evaluation.
+- [xhd2015/dlv-mcp](https://github.com/xhd2015/dlv-mcp) 🛠️ 🐞 🥴 - MCP Server that exposes Golang's Delve Debugger, enabling AI to self-debug.
 
 ### 🧮 Data Science Tools
 
