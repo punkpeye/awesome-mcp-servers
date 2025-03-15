@@ -128,6 +128,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - 与 Twitter 搜索和时间线进行交互
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - MCP服务器 Tools 应用程序，用于向企业微信群机器人发送各种类型的消息。
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - Nostr MCP 服务器，支持与 Nostr 交互，可发布笔记等功能。
+- [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 这是一个与VRChat API交互的MCP服务器。您可以获取VRChat的好友、世界、化身等信息。
 
 ### 👤 <a name="customer-data-platforms"></a>数据平台
 
