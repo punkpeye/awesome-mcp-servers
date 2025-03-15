@@ -8,11 +8,13 @@
 
 素晴らしいモデルコンテキストプロトコル（MCP）サーバーの厳選リスト。
 
-* [MCPとは何ですか？](#what-is-mcp)
-* [チュートリアル](#tutorials)
-* [サーバー実装](#server-implementations)
-* [フレームワーク](#frameworks)
-* [ヒントとコツ](#tips-and-tricks)
+* [MCPとは何ですか？](#MCPとは何ですか？)
+* [チュートリアル](#チュートリアル)
+* [コミュニティ](#コミュニティ)
+* [凡例](#凡例)
+* [サーバー実装](#サーバー実装)
+* [フレームワーク](#フレームワーク)
+* [ヒントとコツ](#ヒントとコツ)
 
 ## MCPとは何ですか？
 
@@ -28,7 +30,7 @@
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discordサーバー](https://glama.ai/mcp/discord)
 
-## 伝説
+## 凡例
 
 * 🎖️ – 公式実装
 * 🐍 – Pythonコードベース
@@ -125,6 +127,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - ローカルファイルシステムへの直接アクセス。
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - ファイルのリスト、読み取り、検索のためのGoogle Drive統合
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - ローカルファイルシステムアクセスのためのGolang実装。
+- [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Apache OpenDAL™ でどのストレージにもアクセスできます
 
 ### 🧠 <a name="knowledge--memory"></a>知識と記憶
 
@@ -164,6 +167,10 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn) 🐍 ☁️ - Hacker Newsの検索、トップストーリーの取得などを行うMCPサーバー。
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - 自動トピック分類、多言語サポート、[SerpAPI](https://serpapi.com/)を通じたヘッドライン、ストーリー、関連トピックの包括的な検索機能を備えたGoogle News統合。
 
+### 🔒 <a name="security"></a>セキュリティ
+
+- [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇🛡️☁️ 強力なモデルコンテキストプロトコル（MCP）サーバーで、npmパッケージ依存関係のセキュリティ脆弱性を監査します。リモートnpmレジストリ統合を備えたリアルタイムセキュリティチェックを使用して構築されています。
+
 ### 🚆 <a name="travel-and-transportation"></a>旅行と交通
 
 旅行および交通情報へのアクセス。スケジュール、ルート、およびリアルタイムの旅行データをクエリすることができます。
@@ -180,6 +187,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>その他のツールと統合
 
+- [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 3,000以上の事前構築されたクラウドツール（Actors として知られる）を使用して、ウェブサイト、eコマース、ソーシャルメディア、検索エンジン、地図などからデータを抽出できます。
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - ほぼすべてのファイルやウェブコンテンツをMarkdownに変換するMCPサーバー
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - OpenAIの最も賢いモデルとチャット
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - Goドキュメントサーバーで、AIアシスタントがパッケージドキュメントとタイプにスマートにアクセスできるようにします。
@@ -212,6 +220,8 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) サンプルサーバーとMCPクライアントを備えたMCP stdioからHTTP SSEへのトランスポートゲートウェイ。
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) MCP SSEサーバーのゲートウェイデモ。
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 MCP stdioからSSEへのトランスポートゲートウェイ。
+- [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) 🐍 - 画面上のGUIの自動操作
+- [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ [Kibela](https://kibe.la/)との連携
 
 ## フレームワーク
 
