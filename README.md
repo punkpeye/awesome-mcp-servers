@@ -305,6 +305,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
 
+- [Airbnb MCP Server](https://github.com/openbnb-org/mcp-server-airbnb) 📇 ☁️ - Provides tools to search Airbnb and get listing details.
 - [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server) 📇 ☁️ - Access Dutch Railways (NS) travel information, schedules, and real-time updates
 
 ### 🔄 <a name="version-control"></a>Version Control
