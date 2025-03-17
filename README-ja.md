@@ -8,11 +8,13 @@
 
 素晴らしいモデルコンテキストプロトコル（MCP）サーバーの厳選リスト。
 
-* [MCPとは何ですか？](#what-is-mcp)
-* [チュートリアル](#tutorials)
-* [サーバー実装](#server-implementations)
-* [フレームワーク](#frameworks)
-* [ヒントとコツ](#tips-and-tricks)
+* [MCPとは何ですか？](#MCPとは何ですか？)
+* [チュートリアル](#チュートリアル)
+* [コミュニティ](#コミュニティ)
+* [凡例](#凡例)
+* [サーバー実装](#サーバー実装)
+* [フレームワーク](#フレームワーク)
+* [ヒントとコツ](#ヒントとコツ)
 
 ## MCPとは何ですか？
 
@@ -80,6 +82,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - クエリとインタラクションのためのBlueskyインスタンス統合
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - GmailとGoogleカレンダーとの統合。
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - MCPサーバーアプリケーションは、WeComグループロボットにさまざまなタイプのメッセージを送信します。
+- [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 VRChat APIと対話するためのMCPサーバーです。VRChatのフレンドやワールド、アバターなどの情報を取得することができます。
 
 ### 👤 <a name="customer-data-platforms"></a>顧客データプラットフォーム
 
@@ -94,6 +97,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) 🐍 🏠 - MCPサーバーの実装で、Elasticsearchとのインタラクションを提供します
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) 📇 🏠 - スキーマ検査、読み取り/書き込み機能を備えた Airtable データベース統合
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 ☁️ - スキーマ検査とクエリ機能を備えたBigQueryデータベース統合
+- [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) 🐍 ☁️ - TiDB データベースの統合、テーブル構造の作成（DDL）および SQL の実行
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - Google BigQuery統合のためのサーバー実装で、直接的なBigQueryデータベースアクセスとクエリ機能を提供
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - 構成可能なアクセス制御、スキーマ検査、包括的なセキュリティガイドラインを備えたMySQLデータベース統合
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📇 🏠 - スキーマ検査とクエリ機能を備えたPostgreSQLデータベース統合
@@ -125,6 +129,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - ローカルファイルシステムへの直接アクセス。
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - ファイルのリスト、読み取り、検索のためのGoogle Drive統合
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - ローカルファイルシステムアクセスのためのGolang実装。
+- [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Apache OpenDAL™ でどのストレージにもアクセスできます
 
 ### 🧠 <a name="knowledge--memory"></a>知識と記憶
 
@@ -217,6 +222,9 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) サンプルサーバーとMCPクライアントを備えたMCP stdioからHTTP SSEへのトランスポートゲートウェイ。
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) MCP SSEサーバーのゲートウェイデモ。
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 MCP stdioからSSEへのトランスポートゲートウェイ。
+- [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) 🐍 - 画面上のGUIの自動操作
+- [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ [Kibela](https://kibe.la/)との連携
+- [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - Replicate APIを通じて画像を生成する機能を提供します。
 
 ## フレームワーク
 
