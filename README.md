@@ -198,7 +198,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp) 🐍 ☁️ - Predict anything with Chronulus AI forecasting and prediction agents.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - Enables autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
-- [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) | 📊 - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
+- [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) | 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
 
 ### 📂 <a name="file-systems"></a>File Systems
 
