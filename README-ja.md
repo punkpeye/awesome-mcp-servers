@@ -226,6 +226,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) 🐍 - 画面上のGUIの自動操作
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ [Kibela](https://kibe.la/)との連携
 - [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - Replicate APIを通じて画像を生成する機能を提供します。
+- [xxxbrian/mcp-rquest](https://github.com/xxxbrian/mcp-rquest) 📇 ☁️ - 正確なTLS/JA3/JA4フィンガープリントを持つリアルなブラウザのようなHTTPリクエスト機能を提供するMCPサーバー。アンチボット対策を回避するのに役立ちます。
 
 ## フレームワーク
 
