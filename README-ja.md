@@ -49,6 +49,7 @@
 * 🗄️ - [データベース](#databases)
 * 🛠️ - [開発者ツール](#developer-tools)
 * 📂 - [ファイルシステム](#file-systems)
+* 🎮 - [ ゲーミング](#gaming)
 * 🧠 - [知識と記憶](#knowledge--memory)
 * 🗺️ - [位置情報サービス](#location-services)
 * 📊 - [監視](#monitoring)
@@ -131,6 +132,13 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - ファイルのリスト、読み取り、検索のためのGoogle Drive統合
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - ローカルファイルシステムアクセスのためのGolang実装。
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Apache OpenDAL™ でどのストレージにもアクセスできます
+
+### 🎮 <a name="gaming"></a> ゲーミング
+
+ゲーミングに関連するデータとサービスとの統合
+
+- [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - 実際のFantasy Premier Leagueデータと分析ツールのためのMCPサーバー
+- [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - Unity3dゲームエンジン統合によるゲーム開発用MCPサーバー
 
 ### 🧠 <a name="knowledge--memory"></a>知識と記憶
 
