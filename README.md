@@ -261,6 +261,7 @@ Financial data access and cryptocurrency market information. Enables querying re
 Integration with gaming related data, and services
 
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - An MCP server for real-time Fantasy Premier League data and analysis tools.
+- [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - MCP Server for Unity3d Game Engine integration for game development
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
