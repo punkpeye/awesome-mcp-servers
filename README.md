@@ -444,6 +444,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [kukapay/whereami-mcp](https://github.com/kukapay/whereami-mcp) 🐍 ☁️ -  A lightweight mcp server that tells you exactly where you are based on your current IP.
 - [kukapay/whattimeisit-mcp](https://github.com/kukapay/whattimeisit-mcp) 🐍 ☁️ - A lightweight mcp server that tells you exactly what time is it.
 - [kukapay/whoami-mcp](https://github.com/kukapay/whoami-mcp) 🐍 🏠 - A lightweight MCP server that tells you exactly who you are.
+- [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇🖥️ - A CLI based client to chat and connect with any MCP server. Useful during development & testing of MCP servers.
 
 
 ## Tips and Tricks
