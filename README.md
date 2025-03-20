@@ -53,6 +53,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * operating system
   * 🍎 – For macOS
   * 🪟 – For Windows
+  * 🐧 - For Linux
 
 > [!NOTE]
 > Confused about Local 🏠 vs Cloud ☁️?
@@ -411,6 +412,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ Allows AI models to interact with [Kibela](https://kibe.la/)
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - Allows the AI to query GraphQL servers
 - [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - Provides the ability to generate images via Replicate's API.
+- [](https://github.com/awwaiid/mcp-server-taskwarrior) 🏠 📇 - An MCP server for basic local taskwarrior usage (add, update, remove tasks)
 
 ## Frameworks
 
