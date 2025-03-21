@@ -90,7 +90,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
 
-- [@browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🅱️ - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
+- [@browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️📂📇 - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
 - [@blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🌐 - An MCP python server using Playwright for browser automation,more suitable for llm
 - [@executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 🌐⚡️ - An MCP server using Playwright for browser automation and webscrapping
 - [@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🌐 🖱️ - An MCP server for browser automation using Playwright
