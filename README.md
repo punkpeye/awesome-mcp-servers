@@ -428,7 +428,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [@marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) - CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
 - [quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ☕ - Java SDK for building MCP servers using Quarkus.
 - [mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🤖 🔌 - Build effective agents with MCP servers using simple, composable patterns.
-- [sakura-mcp](https://github.com/mullerhai/sakura-mcp) 🌸 🔌 - Scala MCP Framework for Build effective agents with MCP servers and MCP clients shade from modelcontextprotocol.io.🏒🏒
+- [sakura-mcp](https://github.com/mullerhai/sakura-mcp) 🦀 ☕ - Scala MCP Framework for Build effective agents with MCP servers and MCP clients shade from modelcontextprotocol.io.
   
 ## Utilities
 
