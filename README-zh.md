@@ -69,6 +69,7 @@
 * 🛠️ - [开发者工具](#developer-tools)
 * 📂 - [文件系统](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
+* 🎮 - [游戏](#gaming)
 * 🧠 - [知识与记忆](#knowledge--memory)
 * 🗺️ - [位置服务](#location-services)
 * 🎯 - [营销](#marketing)
@@ -216,6 +217,13 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - Coinmarket API 集成以获取加密货币列表和报价
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API 集成，用于获取股票和加密货币信息
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API 集成，用于管理 Tastytrade 平台的交易活动
+
+### 🎮 <a name="gaming"></a>游戏
+
+游戏相关数据和服务集成
+
+- [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - 用于实时 Fantasy Premier League 数据和分析工具的 MCP 服务器。
+- [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - Unity3d 游戏引擎集成 MCP 服务器
 
 ### 🧠 <a name="knowledge--memory"></a>知识与记忆
 
