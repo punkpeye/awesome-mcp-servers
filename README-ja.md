@@ -135,6 +135,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - ファイルのリスト、読み取り、検索のためのGoogle Drive統合
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - ローカルファイルシステムアクセスのためのGolang実装。
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Apache OpenDAL™ でどのストレージにもアクセスできます
+- [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 📇 🏠 - AI Chatの長さ制限に適応するファイルマージツール
 
 ### 🎮 <a name="gaming"></a> ゲーミング
 
