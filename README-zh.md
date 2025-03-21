@@ -286,6 +286,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 访问旅行和交通信息。可以查询时刻表、路线和实时旅行数据。
 
 - [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server) 📇 ☁️ - 了解荷兰铁路 (NS) 的旅行信息、时刻表和实时更新
+- [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) 📇 ☁️ - 美国国家公园管理局 API 集成，提供美国国家公园的详细信息、警报、游客中心、露营地和活动的最新信息
 
 ### 🔄 <a name="version-control"></a>版本控制
 
