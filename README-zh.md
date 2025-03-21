@@ -189,6 +189,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) 🐍 - 基于 [SQLGlot](https://github.com/tobymao/sqlglot) 的 MCP 服务器，提供 SQL 分析、代码检查和方言转换功能
 - [Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) 🎖️🐍☁️🍎 - 用于事件管理平台 Rootly](https://rootly.com/) 的 MCP 服务器
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - 用于生成漂亮交互式思维导图mindmap的模型上下文协议（MCP）服务器。
+- [InhiblabCore/mcp-image-compression](https://github.com/InhiblabCore/mcp-image-compression) 🌄 ⬇️ - 用于本地压缩各种图片格式的 MCP 服务器。
 
 ### 🧮 数据科学工具
 
