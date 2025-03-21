@@ -228,6 +228,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind) 🐍 🏠 - Control Android devices with AI through MCP, enabling device control, debugging, system analysis, and UI automation with a comprehensive security framework.
 - [Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) 🎖️🐍☁️🍎 - MCP server for the incident management platform [Rootly](https://rootly.com/).
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - A Model Context Protocol (MCP) server for generating a beautiful interactive mindmap.
+- [InhiblabCore/mcp-image-compression](https://github.com/InhiblabCore/mcp-image-compression) 🌄 ⬇️ - MCP server for local compression of various image formats.
 
 ### 🧮 Data Science Tools
 
