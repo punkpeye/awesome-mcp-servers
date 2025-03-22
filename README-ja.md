@@ -126,7 +126,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - iTermへのアクセスを提供するモデルコンテキストプロトコルサーバー。コマンドを実行し、iTermターミナルで見た内容について質問することができます。
 - [Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) 🎖️🐍☁️🍎 - インシデント管理プラットフォーム[Rootly](https://rootly.com/)向けのMCPサーバー
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - きれいなインタラクティブなマインドマップを生成するためのモデルコンテキストプロトコル（MCP）サーバ。
-- [InhiblabCore/mcp-image-compression](https://github.com/InhiblabCore/mcp-image-compression) 🌄 ⬇️ - 様々な画像フォーマットのローカル圧縮のためのMCPサーバー。
+- [InhiblabCore/mcp-image-compression](https://github.com/InhiblabCore/mcp-image-compression) - 様々な画像フォーマットのローカル圧縮のためのMCPサーバー。
 
 ### 📂 <a name="file-systems"></a>ファイルシステム
 
