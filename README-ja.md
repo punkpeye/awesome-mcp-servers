@@ -128,6 +128,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - iTermへのアクセスを提供するモデルコンテキストプロトコルサーバー。コマンドを実行し、iTermターミナルで見た内容について質問することができます。
 - [Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) 🎖️🐍☁️🍎 - インシデント管理プラットフォーム[Rootly](https://rootly.com/)向けのMCPサーバー
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - きれいなインタラクティブなマインドマップを生成するためのモデルコンテキストプロトコル（MCP）サーバ。
+- [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - MCPを使用したClaude Code機能の実装で、AIによるコード理解、修正、プロジェクト分析を包括的なツールサポートで実現します。
 
 ### 📂 <a name="file-systems"></a>ファイルシステム
 
