@@ -201,6 +201,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - 支持对基于 .csv 的数据集进行自主数据探索，以最小的成本提供智能见解。
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - 一个 MCP 服务器，可将几乎任何文件或网络内容转换为 Markdown
+- [YuChenSSR/symbolica-mcp](https://github.com/YuChenSSR/symbolica-mcp) 🐍 🏠 - 用于符号计算、数值计算和可视化的模型上下文协议（MCP）服务器。
 
 ### 📂 <a name="file-systems"></a>文件系统
 
