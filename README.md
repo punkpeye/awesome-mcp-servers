@@ -120,7 +120,6 @@ Cloud platform service integration. Enables management and interaction with clou
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - An MCP to give access to all Netskope Private Access components within a Netskope Private Access environments including detailed setup information and LLM examples on usage.
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.
 
-
 ### 🖥️ <a name="command-line"></a>Command Line
 
 Run commands, capture output and otherwise interact with shells and command line tools.
