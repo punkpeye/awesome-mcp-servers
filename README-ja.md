@@ -8,11 +8,13 @@
 
 素晴らしいモデルコンテキストプロトコル（MCP）サーバーの厳選リスト。
 
-* [MCPとは何ですか？](#what-is-mcp)
-* [チュートリアル](#tutorials)
-* [サーバー実装](#server-implementations)
-* [フレームワーク](#frameworks)
-* [ヒントとコツ](#tips-and-tricks)
+* [MCPとは何ですか？](#MCPとは何ですか？)
+* [チュートリアル](#チュートリアル)
+* [コミュニティ](#コミュニティ)
+* [凡例](#凡例)
+* [サーバー実装](#サーバー実装)
+* [フレームワーク](#フレームワーク)
+* [ヒントとコツ](#ヒントとコツ)
 
 ## MCPとは何ですか？
 
@@ -28,7 +30,7 @@
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discordサーバー](https://glama.ai/mcp/discord)
 
-## 伝説
+## 凡例
 
 * 🎖️ – 公式実装
 * 🐍 – Pythonコードベース
@@ -41,12 +43,14 @@
 ## サーバー実装
 
 * 📂 - [ブラウザ自動化](#browser-automation)
+* 🎨 - [芸術と文化](#art-and-culture)
 * ☁️ - [クラウドプラットフォーム](#cloud-platforms)
 * 💬 - [コミュニケーション](#communication)
 * 👤 - [顧客データプラットフォーム](#customer-data-platforms)
 * 🗄️ - [データベース](#databases)
 * 🛠️ - [開発者ツール](#developer-tools)
 * 📂 - [ファイルシステム](#file-systems)
+* 🎮 - [ ゲーミング](#gaming)
 * 🧠 - [知識と記憶](#knowledge--memory)
 * 🗺️ - [位置情報サービス](#location-services)
 * 📊 - [監視](#monitoring)
@@ -65,12 +69,19 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - AI分析のためのYouTube字幕とトランスクリプトの取得
 - [@kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - Azure OpenAIとPlaywrightを使用した「最小限の」サーバー/クライアントMCP実装。
 
+### 🎨 <a name="art-and-culture"></a>芸術と文化
+
+美術コレクション、文化遺産、博物館データベースにアクセスして探索できます。AIモデルは、芸術的および文化的なコンテンツを検索および分析できます。
+
+- [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - アニメとマンガの情報をAniList APIと連携するMCPサーバー
+
 ### ☁️ <a name="cloud-platforms"></a>クラウドプラットフォーム
 
 クラウドプラットフォームサービスの統合。クラウドインフラストラクチャとサービスの管理と対話を可能にします。
 
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Workers、KV、R2、D1を含むCloudflareサービスとの統合
 - [Kubernetes MCP Server](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️ MCPを通じたKubernetesクラスター操作
+- [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 Kubernetes クラスターのリソース管理と、クラスターとアプリケーションの健全性ステータスの詳細な分析を提供します。
 
 ### 💬 <a name="communication"></a>コミュニケーション
 
@@ -79,6 +90,8 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - チャネル管理とメッセージングのためのSlackワークスペース統合
 - [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - クエリとインタラクションのためのBlueskyインスタンス統合
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - GmailとGoogleカレンダーとの統合。
+- [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - MCPサーバーアプリケーションは、WeComグループロボットにさまざまなタイプのメッセージを送信します。
+- [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 VRChat APIと対話するためのMCPサーバーです。VRChatのフレンドやワールド、アバターなどの情報を取得することができます。
 
 ### 👤 <a name="customer-data-platforms"></a>顧客データプラットフォーム
 
@@ -90,8 +103,12 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 
 スキーマ検査機能を備えた安全なデータベースアクセス。読み取り専用アクセスを含む構成可能なセキュリティ制御を使用してデータをクエリおよび分析することができます。
 
+- [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) ☕ 🐍 ☁️ - テーブル ストア用の MC P サービスには、ドキュメントの追加、ドキュメント ベースのセマンティック検索、ドン ベクトル サンド スカラーがラグ フレンドリーでサーバー レスなどの機能があります。
+aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存储(Tablestore)的 MCP 服务器实现，特性包括添加文档、基于向量和标量进行语义搜索、RAG友好。
+- [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) 🐍 🏠 - MCPサーバーの実装で、Elasticsearchとのインタラクションを提供します
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) 📇 🏠 - スキーマ検査、読み取り/書き込み機能を備えた Airtable データベース統合
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 ☁️ - スキーマ検査とクエリ機能を備えたBigQueryデータベース統合
+- [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) 🐍 ☁️ - TiDB データベースの統合、テーブル構造の作成（DDL）および SQL の実行
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - Google BigQuery統合のためのサーバー実装で、直接的なBigQueryデータベースアクセスとクエリ機能を提供
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - 構成可能なアクセス制御、スキーマ検査、包括的なセキュリティガイドラインを備えたMySQLデータベース統合
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📇 🏠 - スキーマ検査とクエリ機能を備えたPostgreSQLデータベース統合
@@ -103,15 +120,24 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - MongoDBのためのモデルコンテキストプロトコルサーバー
 - [KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server) 🐍 ☁️ - コレクションとインデックスの紹介、ベクトルストアと検索機能を備えたVikingDB統合。
 - [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) 🐍 🏠 - PostgreSQL、MySQL、MariaDB、SQLite、Oracle、MS SQL Serverなど多数のデータベースをサポートするSQLAlchemyベースの汎用データベース統合。スキーマと関係の検査、大規模データセット分析機能を備えています。
+- [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - GreptimeDBのMCPサービスにクエリを実行する。
+- [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - Google Sheetsと対話するためのモデルコンテキストプロトコルサーバー。このサーバーはGoogle Sheets APIを通じてスプレッドシートの作成、読み取り、更新、管理のためのツールを提供します。
+
 
 ### 💻 <a name="developer-tools"></a>開発者ツール
 
 開発ワークフローと環境管理を強化するツールと統合。
 
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - MCPを通じたDockerコンテナの管理と操作
+- [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - JSON、テキスト、HTMLデータを柔軟に取得するためのMCPサーバー
+- [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - Google タスクを管理するための MCP サーバー
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - Open API spec (v3) を使用して任意のHTTP/REST APIサーバーに接続
 - [@joshuarileydev/terminal-mcp-server](https://www.npmjs.com/package/@joshuarileydev/terminal-mcp-server) 📇 🏠 - 任意のシェルターミナルコマンドを実行するためのMCPサーバー
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) - ラインエディタ 行単位の取得と編集ができるので、特に大きなファイルの一部書き換えを効率的に行う
+- [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - iTermへのアクセスを提供するモデルコンテキストプロトコルサーバー。コマンドを実行し、iTermターミナルで見た内容について質問することができます。
+- [Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) 🎖️🐍☁️🍎 - インシデント管理プラットフォーム[Rootly](https://rootly.com/)向けのMCPサーバー
+- [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - きれいなインタラクティブなマインドマップを生成するためのモデルコンテキストプロトコル（MCP）サーバ。
+- [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - MCPを使用したClaude Code機能の実装で、AIによるコード理解、修正、プロジェクト分析を包括的なツールサポートで実現します。
 
 ### 📂 <a name="file-systems"></a>ファイルシステム
 
@@ -120,6 +146,14 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - ローカルファイルシステムへの直接アクセス。
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - ファイルのリスト、読み取り、検索のためのGoogle Drive統合
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - ローカルファイルシステムアクセスのためのGolang実装。
+- [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Apache OpenDAL™ でどのストレージにもアクセスできます
+
+### 🎮 <a name="gaming"></a> ゲーミング
+
+ゲーミングに関連するデータとサービスとの統合
+
+- [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - 実際のFantasy Premier Leagueデータと分析ツールのためのMCPサーバー
+- [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - Unity3dゲームエンジン統合によるゲーム開発用MCPサーバー
 
 ### 🧠 <a name="knowledge--memory"></a>知識と記憶
 
@@ -159,11 +193,16 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn) 🐍 ☁️ - Hacker Newsの検索、トップストーリーの取得などを行うMCPサーバー。
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - 自動トピック分類、多言語サポート、[SerpAPI](https://serpapi.com/)を通じたヘッドライン、ストーリー、関連トピックの包括的な検索機能を備えたGoogle News統合。
 
+### 🔒 <a name="security"></a>セキュリティ
+
+- [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇🛡️☁️ 強力なモデルコンテキストプロトコル（MCP）サーバーで、npmパッケージ依存関係のセキュリティ脆弱性を監査します。リモートnpmレジストリ統合を備えたリアルタイムセキュリティチェックを使用して構築されています。
+
 ### 🚆 <a name="travel-and-transportation"></a>旅行と交通
 
 旅行および交通情報へのアクセス。スケジュール、ルート、およびリアルタイムの旅行データをクエリすることができます。
 
 - [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server) 📇 ☁️ - オランダ鉄道（NS）の旅行情報、スケジュール、およびリアルタイムの更新にアクセス
+- [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) 📇 ☁️ - 米国国立公園局APIの統合で、米国国立公園の詳細情報、警報、ビジターセンター、キャンプ場、イベントの最新情報を提供
 
 ### 🔄 <a name="version-control"></a>バージョン管理
 
@@ -175,6 +214,8 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>その他のツールと統合
 
+- [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 3,000以上の事前構築されたクラウドツール（Actors として知られる）を使用して、ウェブサイト、eコマース、ソーシャルメディア、検索エンジン、地図などからデータを抽出できます。
+- [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - ほぼすべてのファイルやウェブコンテンツをMarkdownに変換するMCPサーバー
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - OpenAIの最も賢いモデルとチャット
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - Goドキュメントサーバーで、AIアシスタントがパッケージドキュメントとタイプにスマートにアクセスできるようにします。
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - MCPプロトコルを使用してClaudeから直接OpenAIモデルにクエリを送信
@@ -206,6 +247,10 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) サンプルサーバーとMCPクライアントを備えたMCP stdioからHTTP SSEへのトランスポートゲートウェイ。
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) MCP SSEサーバーのゲートウェイデモ。
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 MCP stdioからSSEへのトランスポートゲートウェイ。
+- [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) 🐍 - 画面上のGUIの自動操作
+- [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ [Kibela](https://kibe.la/)との連携
+- [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - Replicate APIを通じて画像を生成する機能を提供します。
+- [NakaokaRei/swift-mcp-gui](https://github.com/NakaokaRei/swift-mcp-gui.git) 🏠 🍏 - キーボード入力やマウス移動などのコマンドが実行できるMCPサーバー
 
 ## フレームワーク
 
