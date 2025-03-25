@@ -50,6 +50,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * scope
   * ☁️ - Cloud Service
   * 🏠 - Local Service
+  * 📟 - Embedded Systems
 * operating system
   * 🍎 – For macOS
   * 🪟 – For Windows
@@ -73,6 +74,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
 * 🛠️ - [Developer Tools](#developer-tools)
+* 📟 - [Embedded system](#embedded-system)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [Gaming](#gaming)
@@ -239,6 +241,13 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp) 🐍 ☁️ - Predict anything with Chronulus AI forecasting and prediction agents.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - Enables autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
+
+### 📟 <a name="embedded-system"></a>Embedded System
+
+Provides access to documentation and shortcuts for working on embedded devices.
+
+- [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - Workflow for fixing build issues in ESP32 series chips using ESP-IDF.
+
 
 ### 📂 <a name="file-systems"></a>File Systems
 
