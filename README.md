@@ -275,6 +275,7 @@ Financial data access and cryptocurrency market information. Enables querying re
 - [kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) 🐍 ☁️ -  An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) 🐍 ☁️ -  An MCP server providing tools for AI agents to mint ERC-20 tokens across multiple blockchains.
 - [kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp) 🐍 ☁️ -  An MCP server that powers AI agents with indexed blockchain data from The Graph.
+- [@chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com/).
  
 ### 🎮 <a name="gaming"></a>Gaming
 
