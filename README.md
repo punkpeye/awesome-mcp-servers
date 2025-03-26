@@ -234,6 +234,8 @@ Tools and integrations that enhance the development workflow and environment man
 - [Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) 🎖️🐍☁️🍎 - MCP server for the incident management platform [Rootly](https://rootly.com/).
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - A Model Context Protocol (MCP) server for generating a beautiful interactive mindmap.
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - An implementation of Claude Code capabilities using MCP, enabling AI code understanding, modification, and project analysis with comprehensive tool support.
+- [VeyraX MCP](https://github.com/VeyraX/veyrax-mcp) 🎖️💻☁️ - One Tool To Control All Popular APIs: Notion, Github, Slack, Outlook, Jira, Confluence, Replicate, Firecrawl, Browser use, and 200 more integrations & actions
+
 
 ### 🧮 Data Science Tools
 
@@ -451,6 +453,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [marcelmarais/Spotify](https://github.com/marcelmarais/spotify-mcp-server) - 📇 🏠 Control Spotify playback and manage playlists.
 - [NakaokaRei/swift-mcp-gui](https://github.com/NakaokaRei/swift-mcp-gui.git) 🏠 🍎 - MCP server that can execute commands such as keyboard input and mouse movement
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) 🏠 📇 - An MCP server for basic local taskwarrior usage (add, update, remove tasks)
+
 
 ## Frameworks
 
