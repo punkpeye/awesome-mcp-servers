@@ -65,8 +65,9 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
-* 📂 - [Browser Automation](#browser-automation)
+* 🔗 - [Aggregators](#aggregators)
 * 🎨 - [Art & Culture](#art-and-culture)
+* 📂 - [Browser Automation](#browser-automation)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
@@ -87,6 +88,20 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
+### 🔗 <a name="aggregators"></a>Aggregators
+
+Servers for accessing many apps and tools through a single MCP server.
+- [@PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
+- [Zapier MCP Server](https://zapier.com/mcp) ☁️ - Connect your AI Agents to 8,000 apps instantly.
+
+### 🎨 <a name="art-and-culture"></a>Art & Culture
+
+Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
+
+- [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection
+- [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - Rijksmuseum API integration for artwork search, details, and collections
+- [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - A MCP server integrating AniList API for anime and manga information 
+
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
@@ -101,15 +116,6 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [@co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🌐🔮 - browser-use packaged as an MCP server with SSE transport. includes a dockerfile to run chromium in docker + a vnc server.
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts.
 - [@getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 🐍 🏠 - Extract structured data from any website. Just prompt and get JSON.
-
-
-### 🎨 <a name="art-and-culture"></a>Art & Culture
-
-Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
-
-- [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection
-- [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - Rijksmuseum API integration for artwork search, details, and collections
-- [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - A MCP server integrating AniList API for anime and manga information 
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
