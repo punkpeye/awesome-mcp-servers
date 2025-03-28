@@ -392,6 +392,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
+- [j3k0/speech.sh](https://github.com/j3k0/speech.sh/blob/main/MCP_README.md) 🎨 🏠 - Let the agent speak things out loud, notify you when he's done working with a quick summary
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - Use 3,000+ pre-built cloud tools, known as Actors, to extract data from websites, e-commerce, social media, search engines, maps, and more
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - Update, create, delete content, content-models and assets in your Contentful Space
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - Chat with OpenAI's smartest models
