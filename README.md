@@ -465,6 +465,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ## Frameworks
 
+- [Arcade.dev](https://github.com/ArcadeAI/arcade-ai) ☁️ 🏠 - Securely connect and authorize users to services exposed through MCP servers
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang library to write MCP Servers declaratively with functional testing included
