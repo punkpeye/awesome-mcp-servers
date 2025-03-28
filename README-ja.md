@@ -256,6 +256,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 
 ## フレームワーク
 
+- [Arcade.dev](https://github.com/ArcadeAI/arcade-ai) ☁️ 🏠 - MCP サーバーを通じて公開されるサービスにユーザーを安全に接続し、認証します。
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – [Genkit](https://github.com/firebase/genkit/tree/main) とモデルコンテキストプロトコル（MCP）との統合を提供します。
 - [@modelcontextprotocol/server-langchain](https://github.com/rectalogic/langchain-mcp) 🐍 - LangChainでのMCPツール呼び出しサポートを提供し、LangChainワークフローにMCPツールを統合できるようにします。
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 🏎️ - MCPサーバーとクライアントを構築するためのGolang SDK。

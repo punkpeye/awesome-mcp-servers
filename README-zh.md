@@ -363,6 +363,8 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [NakaokaRei/swift-mcp-gui](https://github.com/NakaokaRei/swift-mcp-gui.git) 🏠 🍏 - MCP服务器，可以执行键盘输入、鼠标移动等命令
 
 ## 框架
+
+- [Arcade.dev](https://github.com/ArcadeAI/arcade-ai) ☁️ 🏠 - 安全地连接并授权用户使用通过 MCP 服务器公开的服务
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - 用于在 Python 中构建 MCP 服务器的高级框架
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - 用于在 TypeScript 中构建 MCP 服务器的高级框架
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - 用于以声明方式编写 MCP 服务器的 Golang 库，包含功能测试
