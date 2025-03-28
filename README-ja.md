@@ -68,6 +68,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - Webスクレイピングとインタラクションのためのブラウザ自動化
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - AI分析のためのYouTube字幕とトランスクリプトの取得
 - [@kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - Azure OpenAIとPlaywrightを使用した「最小限の」サーバー/クライアントMCP実装。
+- [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠  - Bilibiliコンテンツの検索をサポートするMCPサーバー。LangChain連携のサンプルとテストスクリプトを提供。
 
 ### 🎨 <a name="art-and-culture"></a>芸術と文化
 
