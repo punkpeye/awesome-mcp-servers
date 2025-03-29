@@ -68,6 +68,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📂 - [Browser Automation](#browser-automation)
 * 🎨 - [Art & Culture](#art-and-culture)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
+* 👨‍💻 - [Code Execution](#code-execution)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
@@ -123,6 +124,12 @@ Cloud platform service integration. Enables management and interaction with clou
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 MCP Server for kubernetes management, and analyze your cluster, application health
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - An MCP to give access to all Netskope Private Access components within a Netskope Private Access environments including detailed setup information and LLM examples on usage.
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.
+
+### 👨‍💻 <a name="code-execution"></a>Code Execution
+
+Code execution servers. Allow LLMs to execute code in a secure environment, e.g. for coding agents.
+
+- [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍🏠- Run Python code in a secure sandbox via MCP tool calls
 
 ### 🖥️ <a name="command-line"></a>Command Line
 
