@@ -369,6 +369,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) 📇🪟☁️ - MCP server for querying the VirusTotal API. This server provides tools for scanning URLs, analyzing file hashes, and retrieving IP address reports.
 - [ORKL MCP Server](https://github.com/fr0gger/MCP_Security) 📇🛡️☁️ - MCP server for querying the ORKL API. This server provides tools for fetching threat reports, analyzing threat actors, and retrieving intelligence sources.
 - [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇🛡️☁️ A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Built with remote npm registry integration for real-time security checks.
+- [ROADRecon MCP Server](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍🪟🏠 MCP server for analyzing ROADrecon gather results from Azure tenant enumeration
 
 ### 🏃 <a name="sports"></a>Sports
 
