@@ -149,6 +149,7 @@ Integration with communication platforms for message management and channel oper
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) 🏠 🍎 🚀 - An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs to query and analyze iMessage conversations. It includes robust phone number validation, attachment processing, contact management, group chat handling, and full support for sending and receiving messages.
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 This is an MCP server for interacting with the VRChat API. You can retrieve information about friends, worlds, avatars, and more in VRChat.
 - [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks) - 📇 ☁️ - An MCP server to interface with the Google Tasks API
+- [ntfy-mcp](https://github.com/teddyzxcv/ntfy-mcp) (by teddyzxcv) - The MCP server that keeps you informed by sending the notification on phone using ntfy
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
 
