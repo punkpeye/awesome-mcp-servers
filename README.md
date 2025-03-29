@@ -289,7 +289,7 @@ Financial data access and cryptocurrency market information. Enables querying re
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
-
+- [pab1ito/chess-mcp](https://github.com/pab1ito/chess-mcp) 🐍 ☁️ - Access Chess.com player data, game records, and other public information through standardized MCP interfaces, allowing AI assistants to search and analyze chess information.
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - A MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - An MCP server for real-time Fantasy Premier League data and analysis tools.
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - MCP Server for Unity3d Game Engine integration for game development
