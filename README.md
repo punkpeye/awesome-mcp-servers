@@ -360,6 +360,11 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - This is a TypeScript-based MCP server that provides DuckDuckGo search functionality.
 - [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server/) ☁️ 📇 - [Vectorize](https://vectorize.io) MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking.
 - [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) 📇 🏠 - MCP server for fetching web page content using Playwright headless browser, supporting Javascript rendering and intelligent content extraction, and outputting Markdown or HTML format.
+- [JackKuo666/Google-Scholar](https://github.com/JackKuo666/Google-Scholar-MCP-Server) - 🔍 Enable AI assistants to search and access Google Scholar papers through a simple MCP interface.
+- [JackKuo666/PubMed](https://github.com/JackKuo666/PubMed-MCP-Server) - 🔍 Enable AI assistants to search, access, and analyze PubMed articles through a simple MCP interface.
+- [JackKuo666/medRxiv](https://github.com/JackKuo666/medRxiv-MCP-Server) - 🔍 Enable AI assistants to search and access medRxiv papers through a simple MCP interface.
+- [JackKuo666/bioRxiv](https://github.com/JackKuo666/bioRxiv-MCP-Server) - 🔍 Enable AI assistants to search and access bioRxiv papers through a simple MCP interface.
+
 
 ### 🔒 <a name="security"></a>Security
 
