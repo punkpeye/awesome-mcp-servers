@@ -194,6 +194,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) 🎖️🐍☁️🍎 - 用于事件管理平台 Rootly](https://rootly.com/) 的 MCP 服务器
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - 用于生成漂亮交互式思维导图mindmap的模型上下文协议（MCP）服务器。
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - 使用 MCP 实现的 Claude Code 功能，支持 AI 代码理解、修改和项目分析，并提供全面的工具支持。
+- [IlyaGulya/gradle-mcp-server](https://github.com/IlyaGulya/gradle-mcp-server) ☕ 🏠 - 使用 Gradle Tooling API 来检查项目、执行任务并在每个测试的级别进行测试结果报告的 Gradle 集成
 
 ### 🧮 数据科学工具
 
