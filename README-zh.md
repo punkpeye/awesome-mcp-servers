@@ -370,6 +370,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ [Kibela](https://kibe.la/) 与 MCP 的集成
 - [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - 通过Replicate API提供图像生成功能。
 - [NakaokaRei/swift-mcp-gui](https://github.com/NakaokaRei/swift-mcp-gui.git) 🏠 🍏 - MCP服务器，可以执行键盘输入、鼠标移动等命令
+- [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - 允许 AI 模型与 [HackMD](https://hackmd.io) 交互
 - [pwh-pwh/cal-mcp](https://github.com/pwh-pwh/cal-mcp) - MCP服务器，可以计算数学表达式
 
 ## 框架
