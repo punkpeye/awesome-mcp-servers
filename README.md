@@ -485,6 +485,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [semgrep/mcp-security-audit](https://github.com/semgrep/mcp-security-audit) 📇 ☁️ Allow AI agents to scan code for security vulnerabilites using [Semgrep](https://semgrep.dev).
 actors, and retrieving intelligence sources.
 security vulnerabilities. Built with remote npm registry integration for real-time security checks.
+- [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) 🐍 🏠 - MCP server for IDA Pro, allowing you to perform binary analysis with AI assistants. This plugin implement decompilation, disassembly and allows you to generate malware analysis reports automatically.
 
 ### 🏃 <a name="sports"></a>Sports
 
