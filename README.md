@@ -125,6 +125,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - A MCP server integrating AniList API for anime and manga information
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - A MCP server integrating AniList API for anime and manga information 
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - A local MCP server that generates animations using Manim.
+- [djalal/quran-mcp-server](https://github.com/djalal/quran-mcp-server) 📇 🏠 MCP server to interact with Quran.com corpus via the official REST API v4.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
