@@ -73,6 +73,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 💬 - [Communication](#communication)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
+* 📊 - [Data Platforms](#data-platforms)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
@@ -215,6 +216,14 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) 🐍 🏠 - A Qdrant MCP server
 - [zilliztech/mcp-server-milvus](https://github.com/zilliztech/mcp-server-milvus) 🐍 🏠 ☁️ - MCP Server for Milvus / Zilliz, making it possible to interact with your database. 
 
+
+
+### 📊 <a name="data-platforms"></a>Data Platforms
+
+Data Platforms for data integration, transformation and pipeline orchestration. 
+
+- [keboola/keboola-mcp-server](https://github.com/keboola/keboola-mcp-server) - interact with Keboola Connection Data Platform. This server provides tools for listing and accessing data from Keboola Storage API.
+- [JordiNei/mcp-databricks-server](https://github.com/JordiNeil/mcp-databricks-server) - Connect to Databricks API, allowing LLMs to run SQL queries, list jobs, and get job status.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
