@@ -70,6 +70,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📂 - [Browser Automation](#browser-automation)
 * 🎨 - [Art & Culture](#art-and-culture)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
+* 👨‍💻 - [Code Execution](#code-execution)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
@@ -141,6 +142,12 @@ Cloud platform service integration. Enables management and interaction with clou
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - 🏎️ ☁️/🏠 Provides MCP multi-cluster Kubernetes management and operations, featuring a management interface, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.  
 - [weibaohui/kom](https://github.com/weibaohui/kom) - 🏎️ ☁️/🏠 Provides MCP multi-cluster Kubernetes management and operations. It can be integrated as an SDK into your own project and includes nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
+
+### 👨‍💻 <a name="code-execution"></a>Code Execution
+
+Code execution servers. Allow LLMs to execute code in a secure environment, e.g. for coding agents.
+
+- [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍🏠- Run Python code in a secure sandbox via MCP tool calls
 
 ### 🖥️ <a name="command-line"></a>Command Line
 
