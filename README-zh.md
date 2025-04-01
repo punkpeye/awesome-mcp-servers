@@ -489,6 +489,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [kelvin6365/plane-mcp-server](https://github.com/kelvin6365/plane-mcp-server) - 🏎️ 🏠 此 MCP 伺服器將協助您透過 [Plane 的](https://plane.so) API 管理專案和問題
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - 允许 AI 模型与 [HackMD](https://hackmd.io) 交互
 - [pwh-pwh/cal-mcp](https://github.com/pwh-pwh/cal-mcp) - MCP服务器，可以计算数学表达式
+- [HenryHaoson/Yuque-MCP-Server](https://github.com/HenryHaoson/Yuque-MCP-Server) - 📇 ☁️ 用于与语雀API集成的Model-Context-Protocol (MCP)服务器，允许AI模型管理文档、与知识库交互、搜索内容以及访问语雀平台的统计数据。
 
 ## 框架
 
