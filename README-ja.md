@@ -22,6 +22,14 @@
 
 [MCP](https://modelcontextprotocol.io/) は、標準化されたサーバー実装を通じて、AIモデルがローカルおよびリモートリソースと安全に対話できるようにするオープンプロトコルです。このリストは、ファイルアクセス、データベース接続、API統合、その他のコンテキストサービスを通じてAIの機能を拡張する、実運用および実験的なMCPサーバーに焦点を当てています。
 
+## クライアント
+
+[awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)と[glama.ai/mcp/clients](https://glama.ai/mcp/clients)をチェックしてください。
+MCPをサポートするクライアントのリストです。
+
+> [!Tips]
+> [Glama Chat](https://glama.ai/chat)はMCPサポートと[AI gateway](https://glama.ai/gateway)を備えたマルチモーダルAIクライアントです。
+
 ## チュートリアル
 
 * [モデルコンテキストプロトコル (MCP) クイックスタート](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
@@ -34,15 +42,32 @@
 
 ## 凡例
 
-* 🎖️ – 公式実装
-* 🐍 – Pythonコードベース
-* 📇 – TypeScriptコードベース
-* 🏎️ – Goコードベース
-* #️⃣ – C#コードベース
-* ☁️ - クラウドサービス
-* 🏠 - ローカルサービス
+* 🎖️ – 公式実装	
+* プログラミング言語 
+  * 🐍 – Pythonコードベース 
+  * 📇 – TypeScriptコードベース 
+  * 🏎️ – Goコードベース 
+  * 🦀 – Rustコードベース 
+  * #️⃣ – C#コードベース 
+  * ☕ – Javaコードベース 
+* スコープ 
+  * ☁️ – クラウドサービス 
+  * 🏠 – ローカルサービス 
+  * 📟 – 組み込みシステム 
+* 対応OS 
+  * 🍎 – macOS用 
+  * 🪟 – Windows用 
+  * 🐧 – Linux用
+
+> [!NOTE]
+> ローカル 🏠 とクラウド ☁️ の違いに迷っていますか？ 
+> * MCPサーバーがローカルにインストールされたソフトウェアと通信する場合（例：Chromeブラウザの制御）には「ローカル 🏠」を使用してください。 
+> * MCPサーバーがリモートAPIと通信する場合（例：天気API）には「とクラウド ☁️」を使用してください。
 
 ## サーバー実装
+
+> [!NOTE]
+> 現在、リポジトリと同期されている[ウェブのディレクトリ](https://glama.ai/mcp/servers)があります。
 
 * 📂 - [ブラウザ自動化](#browser-automation)
 * 🎨 - [芸術と文化](#art-and-culture)
