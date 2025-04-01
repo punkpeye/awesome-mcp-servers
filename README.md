@@ -601,6 +601,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang library to write MCP Servers declaratively with functional testing included
 - [gabfr/waha-api-mcp-server](https://github.com/gabfr/waha-api-mcp-server) 📇 - An MCP server with openAPI specs for using the WhatsApp unnoficial API (https://waha.devlike.pro/ - also open source: https://github.com/devlikeapro/waha
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP).
+- [http4k MCP SDK](https://mcp.http4k.org) 🐍 - Functional, testable Kotlin SDK based around the popular [http4k](https://http4k.org) Web toolkit. Supports new HTTP Streaming protocol.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🤖 🔌 - Build effective agents with MCP servers using simple, composable patterns.
 - [LiteMCP](https://github.com/wong2/litemcp) 📇 - A high-level framework for building MCP servers in JavaScript/TypeScript
 - [marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) - CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
