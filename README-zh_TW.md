@@ -10,9 +10,9 @@
 
 精選的優秀模型上下文協議 (MCP) 伺服器列表。
 
-* [什麼是MCP？](#什麼是MCP？)
+* [什麼是 MCP？](#什麼是MCP？)
 * [教學](#教學)
-* [社區](#社區)
+* [社群](#社群)
 * [說明](#說明)
 * [Server 實現](#伺服器實現)
 * [框架](#框架)
@@ -29,7 +29,7 @@
 * [Model Context Protocol (MCP) 快速開始](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [設置 Claude 桌面應用程式以使用 SQLite 資料庫](https://youtu.be/wxCCzo9dGj0)
 
-## 社區
+## 社群
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord 服務](https://glama.ai/mcp/discord)
@@ -63,7 +63,7 @@
 
 * 📂 - [瀏覽器自動化](#browser-automation)
 * 🎨 - [藝術與文化](#art-and-culture)
-* ☁️ - [雲平台](#cloud-platforms)
+* ☁️ - [雲端平台](#cloud-platforms)
 * 🖥️ - [命令行](#command-line)
 * 💬 - [社交](#communication)
 * 👤 - [數據平台](#customer-data-platforms)
