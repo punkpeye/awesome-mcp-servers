@@ -90,9 +90,11 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔎 - [Search & Data Extraction](#search)
 * 🔒 - [Security](#security)
 * 🏃 - [Sports](#sports)
+* 🎧 - [Support & Service Management](#support-and-service-management)
 * 🚆 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
@@ -496,6 +498,13 @@ security vulnerabilities. Built with remote npm registry integration for real-ti
 Tools for accessing sports-related data, results, and statistics.
 
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - Access cycling race data, results, and statistics through natural language. Features include retrieving start lists, race results, and rider information from firstcycling.com.
+
+### 🎧 <a name="support-and-service-management"></a>Support & Service Management
+
+Tools for managing customer support, IT service management, and helpdesk operations.
+
+- [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - MCP server that integrates with Freshdesk, enabling AI models to interact with Freshdesk modules and perform various support operations.
+
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
