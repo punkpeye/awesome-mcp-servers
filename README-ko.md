@@ -393,6 +393,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 
 - [@modelcontextprotocol/server-github](https://github.com/modelcontextprotocol/servers/tree/main/src/github) 📇 ☁️ - 리포지토리 관리, PR, 이슈 등을 위한 GitHub API 통합
 - [@modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) 📇 ☁️ 🏠 - 프로젝트 관리 및 CI/CD 운영을 위한 GitLab 플랫폼 통합
+- [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps 통합, 리포지토리, 작업 항목 및 파이프라인 관리용
 - [@oschina/mcp-gitee](https://github.com/oschina/gitee) 🏎️ ☁️ 🏠 - Gitee API 통합, 리포지토리, 이슈 및 풀 리퀘스트 관리 등.
 - [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) 🐍 🏠 - 로컬 리포지토리 읽기, 검색 및 분석을 포함한 직접적인 Git 리포지토리 운영
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - LLM으로 GitHub 리포지토리 읽기 및 분석
