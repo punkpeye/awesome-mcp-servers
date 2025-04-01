@@ -245,7 +245,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 AIアシスタントが異なる言語間でコンテンツを翻訳できるようにする翻訳ツールとサービス。
 
-- [translated/lara-mcp](https://github.com/translated/lara-mcp) 📇 🏠 - Lara Translate APIのためのMCPサーバー。言語検出とコンテキスト対応の翻訳機能を備えた強力な翻訳機能を提供します。
+- [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - Lara Translate APIのためのMCPサーバー。言語検出とコンテキスト対応の翻訳機能を備えた強力な翻訳機能を提供します。
 
 ### 🚆 <a name="travel-and-transportation"></a>旅行と交通
 
