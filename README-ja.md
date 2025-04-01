@@ -27,7 +27,7 @@
 [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)と[glama.ai/mcp/clients](https://glama.ai/mcp/clients)をチェックしてください。
 MCPをサポートするクライアントのリストです。
 
-> [!Tips]
+> [!TIP]
 > [Glama Chat](https://glama.ai/chat)はMCPサポートと[AI gateway](https://glama.ai/gateway)を備えたマルチモーダルAIクライアントです。
 
 ## チュートリアル
