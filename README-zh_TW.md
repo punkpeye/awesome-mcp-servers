@@ -308,6 +308,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 ### 🔒 <a name="security"></a>安全
 
 - [dnstwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) 📇🪟☁️ - dnstwist 的 MCP 伺服器，這是一個強大的 DNS 模糊測試工具，可幫助檢測域名搶註、釣魚和企業竊密行為
+- [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary Ninja 的 MCP 伺服器和橋接器。提供二進制分析和逆向工程工具。
 - [Maigret MCP Server](https://github.com/BurtTheCoder/mcp-maigret) 📇 ☁️ - maigret 的 MCP 伺服器，maigret 是一款強大的 OSINT 工具，可從各種公共來源收集用戶帳戶資訊。此伺服器提供用於在社交網路中搜尋使用者名稱和分析 URL 的工具。
 - [Shodan MCP Server](https://github.com/BurtTheCoder/mcp-shodan) 📇 ☁️ - MCP 伺服器用於查詢 Shodan API 和 Shodan CVEDB。此伺服器提供 IP 尋找、設備搜尋、DNS 尋找、漏洞查詢、CPE 尋找等工具。
 - [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) 📇 ☁️ - 用於查詢 VirusTotal API 的 MCP 伺服器。此伺服器提供用於掃描 URL、分析文件哈希和檢索 IP 地址報告的工具。
