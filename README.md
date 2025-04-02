@@ -659,7 +659,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – An MCP stdio to SSE transport gateawy.
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates and serves multiple MCP resource servers through a single http server.
 - [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – framework to build vertical AI agent
-
+- [JoshuaSiraj/mcp_auto_register](https://github.com/JoshuaSiraj/mcp_auto_register) 🐍 – tool to automate the registration of functions and classes from a python package into a FastMCP instance.
 
 ## Tips and Tricks
 
