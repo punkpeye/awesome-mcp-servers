@@ -143,7 +143,7 @@
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - Google Tasks를 관리하기 위한 MCP 서버
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - 모델 컨텍스트 프로토콜(MCP)을 통해 iMessage 데이터베이스에 안전하게 접근할 수 있게 하는 MCP 서버. LLM이 적절한 전화번호 유효성 검사 및 첨부 파일 처리로 iMessage 대화를 쿼리하고 분석할 수 있도록 지원합니다.
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - 채널 관리 및 메시징을 위한 Slack 워크스페이스 통합
-- [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - 쿼리 및 상호 작용을 위한 Bluesky 인스턴스 통합
+- [@keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - 쿼리 및 상호 작용을 위한 Bluesky 인스턴스 통합
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - Gmail 및 Google Calendar와의 통합.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - 트위터 검색 및 타임라인과 상호 작용
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️ - WeCom 그룹 로봇에게 다양한 유형의 메시지를 보내는 MCP 서버 애플리케이션.
@@ -331,7 +331,7 @@
 애플리케이션 모니터링 데이터 접근 및 분석. AI 모델이 오류 보고서 및 성능 지표를 검토할 수 있게 합니다.
 
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - 오류 추적 및 성능 모니터링을 위한 Sentry.io 통합
-- [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - 충돌 보고 및 실제 사용자 모니터링을 위한 Raygun API V3 통합
+- [@MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - 충돌 보고 및 실제 사용자 모니터링을 위한 Raygun API V3 통합
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - Metoro로 모니터링되는 쿠버네티스 환경 쿼리 및 상호 작용
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - Grafana 인스턴스에서 대시보드 검색, 인시던트 조사 및 데이터 소스 쿼리
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) 🎖️ 🐍 ☁️ - Logfire를 통해 OpenTelemetry 추적 및 메트릭에 대한 접근 제공
