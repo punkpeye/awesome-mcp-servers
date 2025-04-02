@@ -102,6 +102,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 Servers for accessing many apps and tools through a single MCP server.
 
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) 🦀 ☁️ 🏠 MCP server and client. Aggregates data systems inc. MySQL, PostgreSQL, Snowflake, Databricks, S3, DuckDB, Web Search (Perplexity), & Iceberg.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
