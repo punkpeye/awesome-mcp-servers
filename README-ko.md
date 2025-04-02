@@ -437,7 +437,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [future-audiences/wikimedia-enterprise-model-context-protocol](https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol) 🐍 ☁️  - 위키백과 기사 조회 API
 - [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) 🐍 🏠☁️ - 클라이언트 머신의 현지 시간 또는 NTP 서버의 현재 UTC 시간을 확인할 수 있는 MCP 서버
 - [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - 🐍 ☁️  OpenAI 어시스턴트와 대화하기 위한 MCP (Claude는 모든 GPT 모델을 어시스턴트로 사용할 수 있음)
-- [@llmindset/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) 📇 ☁️ - Claude에서 직접 HuggingFace Spaces 사용. 오픈 소스 이미지 생성, 채팅, 비전 작업 등 사용. 이미지, 오디오 및 텍스트 업로드/다운로드 지원.
+- [@evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) 📇 ☁️ - Claude에서 직접 HuggingFace Spaces 사용. 오픈 소스 이미지 생성, 채팅, 비전 작업 등 사용. 이미지, 오디오 및 텍스트 업로드/다운로드 지원.
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Claude 데스크톱 앱용 MCP 서버를 설치하고 관리하는 간단한 웹 UI.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 📇 🏠 - MCP 서버 테스트용 CLI 도구
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) 🐍 🏠 - MCP 서버 테스트를 위한 또 다른 CLI 도구
@@ -464,7 +464,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [tomekkorbak/oura-mcp-server](https://github.com/tomekkorbak/oura-mcp-server) 🐍 ☁️ - 수면 추적 앱인 Oura용 MCP 서버
 - [rember/rember-mcp](https://github.com/rember/rember-mcp) 📇 🏠 - 채팅에서 배운 내용을 기억하기 위해 [Rember](https://rember.com)에 간격 반복 플래시 카드 만들기.
 - [hiromitsusasaki/raindrop-io-mcp-server](https://github.com/hiromitsusasaki/raindrop-io-mcp-server) 📇 ☁️ - LLM이 모델 컨텍스트 프로토콜(MCP)을 사용하여 Raindrop.io 북마크와 상호 작용할 수 있도록 하는 통합.
-- [@makehq/mcp-server](https://github.com/integromat/make-mcp-server) 🎖️ 📇 🏠 - [Make](https://www.make.com/) 시나리오를 AI 어시스턴트가 호출할 수 있는 도구로 변환합니다.
+- [@integromat/make-mcp-server](https://github.com/integromat/make-mcp-server) 🎖️ 📇 🏠 - [Make](https://www.make.com/) 시나리오를 AI 어시스턴트가 호출할 수 있는 도구로 변환합니다.
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) - 🐍 화면 GUI 자동 조작.
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ AI 모델이 [Kibela](https://kibe.la/)와 상호 작용할 수 있도록 허용
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - AI가 GraphQL 서버를 쿼리할 수 있도록 허용
