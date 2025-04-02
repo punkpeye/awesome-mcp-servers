@@ -369,7 +369,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [future-audiences/wikimedia-enterprise-model-context-protocol](https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol) 🐍 ☁️  - 維基百科文章尋找 API
 - [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) 🐍 🏠☁️ - MCP 伺服器允許檢查用戶端計算機上的本地時間或 NTP 伺服器上的當前 UTC 時間
 - [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - 🐍 ☁️  MCP 與 OpenAI 助手對話（Claude 可以使用任何 GPT 模型作為他的助手）
-- [@llmindset/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) 📇 ☁️ - 直接從 Claude 使用 HuggingFace Spaces。使用開源圖像生成、聊天、視覺任務等。支援圖像、音訊和文本上傳/下載。
+- [@evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) 📇 ☁️ - 直接從 Claude 使用 HuggingFace Spaces。使用開源圖像生成、聊天、視覺任務等。支援圖像、音訊和文本上傳/下載。
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - 簡單的 Web UI 用於安裝和管理 Claude 桌面應用程式的 MCP 伺服器。
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 📇 🏠 - 用於測試 MCP 伺服器的 CLI 工具
 - [isaacwasserman/mcp-vegalite-server](https://github.com/isaacwasserman/mcp-vegalite-server) 🐍 🏠 - 使用 VegaLite 格式和渲染器從獲取的數據生成可視化效果。
