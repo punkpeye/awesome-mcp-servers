@@ -449,6 +449,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
+- [TahaBakhtari/TorobjoMCP](https://github.com/TahaBakhtari/TorobjoMCP) 📦 🌐 - Powerful implementation of the Model Context Protocol (MCP) for product search and Instagram analysis, integrating with the Torob API for optimized performance.
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - Kagi search API integration
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️  MCP for LLM to search and read papers from arXiv
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️  MCP to search and read medical / life sciences papers from PubMed.
