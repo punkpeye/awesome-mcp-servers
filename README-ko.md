@@ -86,6 +86,7 @@
 * 🔎 - [검색](#search)
 * 🔒 - [보안](#security)
 * 🏃 - [스포츠](#sports)
+* 🌎 - [번역 서비스](#translation-services)
 * 🚆 - [여행 및 교통](#travel-and-transportation)
 * 🔄 - [버전 관리](#version-control)
 * 🛠️ - [기타 도구 및 통합](#other-tools-and-integrations)
@@ -381,6 +382,12 @@
 스포츠 관련 데이터, 결과 및 통계에 접근하기 위한 도구.
 
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - 자연어를 통해 사이클링 경주 데이터, 결과 및 통계에 접근합니다. firstcycling.com에서 출발 목록, 경주 결과 및 라이더 정보 검색 기능 포함.
+
+### 🌎 <a name="translation-services"></a>번역 서비스
+
+AI 어시스턴트가 다양한 언어 간에 콘텐츠를 번역할 수 있게 해주는 번역 도구 및 서비스.
+
+- [translated/lara-mcp](https://github.com/translated/lara-mcp) 📇 🏠 - Lara 번역 API를 위한 MCP 서버로, 언어 감지 및 컨텍스트 인식 번역을 지원하는 강력한 번역 기능을 제공합니다.
 
 ### 🚆 <a name="travel-and-transportation"></a>여행 및 교통
 

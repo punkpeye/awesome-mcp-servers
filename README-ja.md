@@ -82,6 +82,7 @@ MCPをサポートするクライアントのリストです。
 * 🗺️ - [位置情報サービス](#location-services)
 * 📊 - [監視](#monitoring)
 * 🔎 - [検索](#search)
+* 🌎 - [翻訳サービス](#translation-services)
 * 🔄 - [旅行と交通](#travel-and-transportation)
 * 🔄 - [バージョン管理](#version-control)
 * 🛠️ - [その他のツールと統合](#other-tools-and-integrations)
@@ -241,6 +242,12 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 - [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇 ☁️ 強力なモデルコンテキストプロトコル（MCP）サーバーで、npmパッケージ依存関係のセキュリティ脆弱性を監査します。リモートnpmレジストリ統合を備えたリアルタイムセキュリティチェックを使用して構築されています。
 - [GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - GhidraをAIアシスタントと統合するためのMCPサーバー。このプラグインはバイナリ分析を可能にし、モデルコンテキストプロトコルを通じて関数検査、逆コンパイル、メモリ探索、インポート/エクスポート分析などのツールを提供します。
+
+### 🌎 <a name="translation-services"></a>翻訳サービス
+
+AIアシスタントが異なる言語間でコンテンツを翻訳できるようにする翻訳ツールとサービス。
+
+- [translated/lara-mcp](https://github.com/translated/lara-mcp) 📇 🏠 - Lara Translate APIのためのMCPサーバー。言語検出とコンテキスト対応の翻訳機能を備えた強力な翻訳機能を提供します。
 
 ### 🚆 <a name="travel-and-transportation"></a>旅行と交通
 
