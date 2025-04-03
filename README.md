@@ -102,6 +102,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 Servers for accessing many apps and tools through a single MCP server.
 
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
+- [WayStation-ai/mcp](https://github.com/waystation-ai/mcp) ☁️ 🍎🪟  - Seamlessly and securely connect Claude Desktop and other MCP hosts to your favorite apps (Notion, Slack, Monday, Airtable, etc.). Takes less than 90 secs.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
