@@ -128,11 +128,11 @@ Cloud platform service integration. Enables management and interaction with clou
 
 Run commands, capture output and otherwise interact with shells and command line tools.
 
-- [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 🖥️ 📂 🛠️ 📇 🏠 - Comprehensive tool to execute commands and read/write/search/edit files.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - A Model Context Protocol server that provides access to iTerm. You can run commands and ask questions about what you see in the iTerm terminal.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - Run any command with `run_command` and `run_script` tools.
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - Command line interface with secure execution and customizable security policies
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) A secure shell command execution server implementing the Model Context Protocol (MCP)
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇 🏠 🍎 🪟 🐧 - A swiss-army-knife that can manage/execute programs and search/read/write/edit code and text files.
 
 ### 💬 <a name="communication"></a>Communication
 
