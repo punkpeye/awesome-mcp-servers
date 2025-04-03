@@ -99,6 +99,8 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@fradser/mcp-server-apple-reminders](https://github.com/FradSer/mcp-server-apple-reminders) 📇 🏠 🍎 - macOS 用の Apple Reminders と統合された MCP サーバーです。
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠  - Bilibiliコンテンツの検索をサポートするMCPサーバー。LangChain連携のサンプルとテストスクリプトを提供。
 
+- [Jasonw372/bilibili-mcp-server-full](https://github.com/Jasonw372/bilibili-mcp-server-full) 🐍 🏠 - uvxを使ってビリビリのMCPサーバーを検索することができます。
+
 ### 🎨 <a name="art-and-culture"></a>芸術と文化
 
 美術コレクション、文化遺産、博物館データベースにアクセスして探索できます。AIモデルは、芸術的および文化的なコンテンツを検索および分析できます。
