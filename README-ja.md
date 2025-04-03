@@ -69,6 +69,7 @@ MCPをサポートするクライアントのリストです。
 > [!NOTE]
 > 現在、リポジトリと同期されている[ウェブのディレクトリ](https://glama.ai/mcp/servers)があります。
 
+* 🔗 - [Aggregators](#aggregators)
 * 📂 - [ブラウザ自動化](#browser-automation)
 * 🎨 - [芸術と文化](#art-and-culture)
 * ☁️ - [クラウドプラットフォーム](#cloud-platforms)
@@ -86,6 +87,12 @@ MCPをサポートするクライアントのリストです。
 * 🔄 - [旅行と交通](#travel-and-transportation)
 * 🔄 - [バージョン管理](#version-control)
 * 🛠️ - [その他のツールと統合](#other-tools-and-integrations)
+
+### 🔗 <a name="aggregators"></a>アグリゲーター
+
+単一のMCPサーバーを通じて多くのアプリやツールにアクセスするためのサーバー。
+
+- [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Web APIを10秒でMCPサーバーに変換し、オープンソースレジストリに追加する: https://open-mcp.org
 
 ### 📂 <a name="browser-automation"></a>ブラウザ自動化
 
