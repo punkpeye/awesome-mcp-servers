@@ -96,6 +96,8 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - 一個支援使用 Google 搜尋結果進行免費網頁搜尋的 MCP 伺服器，無需 API 金鑰
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - 一個支援搜尋 B站 內容的 MCP 伺服器。提供LangChain呼叫範例、測試腳本。
 
+- [Jasonw372/bilibili-mcp-server-full](https://github.com/Jasonw372/bilibili-mcp-server-full) 🐍 🏠 - 使用 uvx 支援搜尋 Bilibili 的 MCP 伺服器，易於安裝和使用。
+
 ### 🎨 <a name="art-and-culture"></a>藝術與文化
 
 提供藝術收藏、文化遺產和博物館資料庫的訪問與探索。讓 AI 模型能夠搜尋和分析藝術文化內容。

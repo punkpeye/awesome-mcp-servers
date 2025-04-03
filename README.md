@@ -120,6 +120,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts.
+- [Jasonw372/bilibili-mcp-server-full](https://github.com/Jasonw372/bilibili-mcp-server-full) 🐍 🏠 - Supports searching Bilibili's MCP server using uvx, easy to install and use.
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - An MCP server for browser automation using Playwright
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - An MCP python server using Playwright for browser automation,more suitable for llm
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
