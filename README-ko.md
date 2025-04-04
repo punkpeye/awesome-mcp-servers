@@ -380,6 +380,7 @@
 스포츠 관련 데이터, 결과 및 통계에 접근하기 위한 도구.
 
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - 자연어를 통해 사이클링 경주 데이터, 결과 및 통계에 접근합니다. firstcycling.com에서 출발 목록, 경주 결과 및 라이더 정보 검색 기능 포함.
+- [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) #️⃣☁️ - 호주 축구 리그(AFL)의 과거 및 현재 결과, 순위, 팀 정보를 확인할 수 있습니다. 기능에는 과거 및 현재 리그 순위, 과거 결과, 과거 및 현재 팀 정보 검색이 포함됩니다.
 
 ### 🌎 <a name="translation-services"></a>번역 서비스
 
