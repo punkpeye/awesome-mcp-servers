@@ -166,6 +166,7 @@ Cloud platform service integration. Enables management and interaction with clou
 Code execution servers. Allow LLMs to execute code in a secure environment, e.g. for coding agents.
 
 - [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍🏠- Run Python code in a secure sandbox via MCP tool calls
+- [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
 
 ### 🖥️ <a name="command-line"></a>Command Line
 
