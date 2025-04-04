@@ -419,6 +419,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Knowledge graph-based persistent memory system for maintaining context
 - [topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - Memory manager for AI apps and Agents using various graph and vector stores and allowing ingestion from 30+ data sources
 - [unibaseio/membase-mcp](https://github.com/unibaseio/membase-mcp) 📇 ☁️ - Save and query your agent memory in distributed way by Membase
+- [mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory) 🧠💾 A minimal in-memory implementation of an MCP server, perfect for testing, debugging, and rapid experimentation without persistent storage. 🔍⚡
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
@@ -539,6 +540,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) 📇 ☁️ 🏠 - GitLab platform integration for project management and CI/CD operations
 - [oschina/mcp-gitee](https://github.com/oschina/gitee) 🏎️ ☁️ 🏠 - Gitee API integration, repository, issue, and pull request management, and more.
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
+- [mcp-git](https://github.com/kwanLeeFrmVi/mcp-git) - ⚙️📁 A lightweight, Git-powered Minecraft Classic Protocol (MCP) server framework with built-in support for plugins, fast prototyping, and version control integration. 🚀🧩
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
