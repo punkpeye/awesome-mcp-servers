@@ -308,7 +308,8 @@
 - [mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI 요약 MCP 서버, 여러 콘텐츠 유형 지원: 일반 텍스트, 웹 페이지, PDF 문서, EPUB 책, HTML 콘텐츠
 - [graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - Slack, Discord, 웹사이트, Google Drive, Linear 또는 GitHub에서 무엇이든 Graphlit 프로젝트로 수집한 다음 Cursor, Windsurf 또는 Cline과 같은 MCP 클라이언트 내에서 관련 지식을 검색하고 검색합니다.
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 코딩 선호도 및 패턴 관리를 돕는 Mem0용 모델 컨텍스트 프로토콜 서버로, Cursor 및 Windsurf와 같은 IDE에서 코드 구현, 모범 사례 및 기술 문서를 저장, 검색 및 의미론적으로 처리하는 도구를 제공합니다.
-- [mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory) 🧠💾 영구 저장소 없이 테스트, 디버깅 및 빠른 실험에 완벽한 MCP 서버의 최소한의 인메모리 구현. 🔍⚡
+- [mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory) 🧠💾 엄청나게 빠른, 인메모리 MCP 서버—테스트, 디버깅 및 신속한 개발에 이상적. 파일 I/O 없이, 순수한 속도만. ⚡🧪
+- [mcp-rag-server](https://github.com/kwanLeeFrmVi/mcp-rag-server) - 🧷🤖 검색 강화 생성(RAG) 워크플로우를 위해 설계된 실험적 MCP 서버. 컨텍스트, 모델 및 메모리를 연결하여 동적이고 지능적인 응답을 제공합니다. 🔍📚
 
 ### 🗺️ <a name="location-services"></a>위치 서비스
 

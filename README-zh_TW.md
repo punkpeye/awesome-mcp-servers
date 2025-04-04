@@ -256,7 +256,8 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - MCP 伺服器實現提供了通過向量搜尋檢索和處理文件的工具，使 AI 助手能夠利用相關文件上下文來增強其響應能力
 - [@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) 📇 ☁️ - 為 LLM 提供的連接器，用於操作 Zotero Cloud 上的文獻集合和資源
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 用於 Mem0 的模型上下文協議伺服器，幫助管理編碼偏好和模式，提供工具用於儲存、檢索和語義處理代碼實現、最佳實踐和技術文件，適用於 Cursor 和 Windsurf 等 IDE
-- [mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory) 🧠💾 MCP伺服器的最小記憶體實現，非常適合測試、除錯和快速實驗，無需持久儲存。🔍⚡
+- [mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory) 🧠💾 一個超快速的、記憶體中的MCP伺服器——非常適合測試、除錯和快速開發。無檔案I/O，純粹的速度。 ⚡🧪
+- [mcp-rag-server](https://github.com/kwanLeeFrmVi/mcp-rag-server) - 🧷🤖 一個為檢索增強生成（RAG）工作流設計的實驗性MCP伺服器。連接上下文、模型和記憶體，以提供動態、智能的響應。 🔍📚
 
 ### 🗺️ <a name="location-services"></a>位置服務
 
