@@ -429,7 +429,8 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Knowledge graph-based persistent memory system for maintaining context
 - [topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - Memory manager for AI apps and Agents using various graph and vector stores and allowing ingestion from 30+ data sources
 - [unibaseio/membase-mcp](https://github.com/unibaseio/membase-mcp) 📇 ☁️ - Save and query your agent memory in distributed way by Membase
-
+- [GistPad-MCP](https://github.com/lostintangent/gistpad-mcp) 📓 ✏️ - Use GitHub Gists to manage and access your personal knowledge, daily notes, and reusable prompts. This acts as a companion to https://gistpad.dev and the [GistPad VS Code extension](https://aka.ms/gistpad).
+  
 ### 🗺️ <a name="location-services"></a>Location Services
 
 Location-based services and mapping tools. Enables AI models to work with geographic data, weather information, and location-based analytics.
