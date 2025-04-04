@@ -525,7 +525,7 @@ Tools for managing customer support, IT service management, and helpdesk operati
 
 Translation tools and services to enable AI assistants to translate content between different languages.
 
-- [translated/lara-mcp](https://github.com/translated/lara-mcp) 📇 🏠 - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
+- [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
