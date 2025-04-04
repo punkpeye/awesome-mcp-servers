@@ -164,6 +164,14 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 
 - [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍🏠- Run Python code in a secure sandbox via MCP tool calls
 
+### 🤖 <a name="coding-agents"></a>Coding Agents
+
+Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
+
+- [oraios/serena](https://github.com/oraios/serena)🐍🏠 - A fully-featured coding agent that relies on symbolic code operations by using language servers.
+- [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍🏠 - Coding agent with basic read, write and command line tools.
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇🏠 - Enhanced file-system and search tools, commands and prompts specific for coding.
+
 ### 🖥️ <a name="command-line"></a>Command Line
 
 Run commands, capture output and otherwise interact with shells and command line tools.
