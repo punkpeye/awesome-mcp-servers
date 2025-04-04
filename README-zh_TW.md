@@ -61,6 +61,7 @@
 > [!NOTE]
 > 我們現在有一個與儲存庫同步的[基於 Web 的目錄](https://glama.ai/mcp/servers)。
 
+* 🔗 - [Aggregators](#aggregators)
 * 📂 - [瀏覽器自動化](#browser-automation)
 * 🎨 - [藝術與文化](#art-and-culture)
 * ☁️ - [雲端平台](#cloud-platforms)
@@ -82,6 +83,12 @@
 * 🚆 - [旅行與交通](#travel-and-transportation)
 * 🔄 - [版本控制](#version-control)
 * 🛠️ - [其他工具和整合](#other-tools-and-integrations)
+
+### 🔗 <a name="aggregators"></a>聚合器
+
+通過單個MCP伺服器訪問多個應用程式和工具的伺服器。
+
+- [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 10秒內將Web API轉換為MCP伺服器並將其添加到開源註冊表中: https://open-mcp.org
 
 ### 📂 <a name="browser-automation"></a>瀏覽器自動化
 
