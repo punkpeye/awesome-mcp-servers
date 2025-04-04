@@ -385,7 +385,7 @@
 
 AI 어시스턴트가 다양한 언어 간에 콘텐츠를 번역할 수 있게 해주는 번역 도구 및 서비스.
 
-- [translated/lara-mcp](https://github.com/translated/lara-mcp) 📇 🏠 - Lara 번역 API를 위한 MCP 서버로, 언어 감지 및 컨텍스트 인식 번역을 지원하는 강력한 번역 기능을 제공합니다.
+- [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - Lara 번역 API를 위한 MCP 서버로, 언어 감지 및 컨텍스트 인식 번역을 지원하는 강력한 번역 기능을 제공합니다.
 
 ### 🚆 <a name="travel-and-transportation"></a>여행 및 교통
 

@@ -407,7 +407,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 
-- [translated/lara-mcp](https://github.com/translated/lara-mcp) 📇 🏠 - Lara翻译API的MCP服务器，提供强大的翻译功能，支持语言检测和上下文感知翻译。
+- [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - Lara翻译API的MCP服务器，提供强大的翻译功能，支持语言检测和上下文感知翻译。
 
 ### 🚆 <a name="travel-and-transportation"></a>旅行与交通
 
