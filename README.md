@@ -76,6 +76,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📂 - [Browser Automation](#browser-automation)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
 * 👨‍💻 - [Code Execution](#code-execution)
+* 🤖 - [Coding Agents](#coding-agents)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
@@ -166,6 +167,14 @@ Cloud platform service integration. Enables management and interaction with clou
 Code execution servers. Allow LLMs to execute code in a secure environment, e.g. for coding agents.
 
 - [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍🏠- Run Python code in a secure sandbox via MCP tool calls
+
+### 🤖 <a name="coding-agents"></a>Coding Agents
+
+Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
+
+- [oraios/serena](https://github.com/oraios/serena)🐍🏠 - A fully-featured coding agent that relies on symbolic code operations by using language servers.
+- [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍🏠 - Coding agent with basic read, write and command line tools.
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇🏠 - Enhanced file-system and search tools, commands and prompts specific for coding.
 
 ### 🖥️ <a name="command-line"></a>Command Line
 
