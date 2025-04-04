@@ -308,6 +308,7 @@
 - [mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI 요약 MCP 서버, 여러 콘텐츠 유형 지원: 일반 텍스트, 웹 페이지, PDF 문서, EPUB 책, HTML 콘텐츠
 - [graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - Slack, Discord, 웹사이트, Google Drive, Linear 또는 GitHub에서 무엇이든 Graphlit 프로젝트로 수집한 다음 Cursor, Windsurf 또는 Cline과 같은 MCP 클라이언트 내에서 관련 지식을 검색하고 검색합니다.
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 코딩 선호도 및 패턴 관리를 돕는 Mem0용 모델 컨텍스트 프로토콜 서버로, Cursor 및 Windsurf와 같은 IDE에서 코드 구현, 모범 사례 및 기술 문서를 저장, 검색 및 의미론적으로 처리하는 도구를 제공합니다.
+- [mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory) 🧠💾 영구 저장소 없이 테스트, 디버깅 및 빠른 실험에 완벽한 MCP 서버의 최소한의 인메모리 구현. 🔍⚡
 
 ### 🗺️ <a name="location-services"></a>위치 서비스
 
@@ -405,6 +406,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [@oschina/mcp-gitee](https://github.com/oschina/gitee) 🏎️ ☁️ 🏠 - Gitee API 통합, 리포지토리, 이슈 및 풀 리퀘스트 관리 등.
 - [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) 🐍 🏠 - 로컬 리포지토리 읽기, 검색 및 분석을 포함한 직접적인 Git 리포지토리 운영
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - LLM으로 GitHub 리포지토리 읽기 및 분석
+- [mcp-git](https://github.com/kwanLeeFrmVi/mcp-git) - ⚙️📁 플러그인 지원, 빠른 프로토타이핑 및 버전 제어 통합을 갖춘 Git 기반 경량 모델 컨텍스트 프로토콜(MCP) 서버 프레임워크. 🚀🧩
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>기타 도구 및 통합
 
@@ -462,7 +464,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ AI 모델이 비트코인과 상호 작용하여 키 생성, 주소 유효성 검사, 트랜잭션 디코딩, 블록체인 쿼리 등을 할 수 있도록 하는 모델 컨텍스트 프로토콜(MCP) 서버.
 - [tomekkorbak/strava-mcp-server](https://github.com/tomekkorbak/strava-mcp-server) 🐍 ☁️ - 신체 운동 추적 앱인 Strava용 MCP 서버
 - [tomekkorbak/oura-mcp-server](https://github.com/tomekkorbak/oura-mcp-server) 🐍 ☁️ - 수면 추적 앱인 Oura용 MCP 서버
-- [rember/rember-mcp](https://github.com/rember/rember-mcp) 📇 🏠 - 채팅에서 배운 내용을 기억하기 위해 [Rember](https://rember.com)에 간격 반복 플래시 카드 만들기.
+- [remember/remember-mcp](https://github.com/remember/remember-mcp) 📇 🏠 - 채팅에서 배운 내용을 기억하기 위해 [Remember](https://remember.com)에 간격 반복 플래시 카드 만들기.
 - [hiromitsusasaki/raindrop-io-mcp-server](https://github.com/hiromitsusasaki/raindrop-io-mcp-server) 📇 ☁️ - LLM이 모델 컨텍스트 프로토콜(MCP)을 사용하여 Raindrop.io 북마크와 상호 작용할 수 있도록 하는 통합.
 - [@makehq/mcp-server](https://github.com/integromat/make-mcp-server) 🎖️ 📇 🏠 - [Make](https://www.make.com/) 시나리오를 AI 어시스턴트가 호출할 수 있는 도구로 변환합니다.
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) - 🐍 화면 GUI 자동 조작.

@@ -202,6 +202,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - コンテキストを維持するための知識グラフベースの長期記憶システム
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - AIロールプレイとストーリー生成に焦点を当てた強化されたグラフベースのメモリ
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - CursorやWindsurfなどのIDEでコーディングの好みやパターンを管理するためのMem0用モデルコンテキストプロトコルサーバー。コード実装、ベストプラクティス、技術文書の保存、取得、意味的な処理のためのツールを提供します
+- [mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory) 🧠💾 永続的なストレージなしでテスト、デバッグ、迅速な実験に最適なMCPサーバーのミニマルなインメモリ実装。🔍⚡
 
 ### 🗺️ <a name="location-services"></a>位置情報サービス
 
@@ -264,6 +265,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) 🐍 🏠 - ローカルリポジトリの読み取り、検索、および分析を含む直接的なGitリポジトリ操作
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - リポジトリ管理、作業項目、パイプラインのためのAzure DevOps統合
 - [kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp) 📇 ☁️ - GitLabプロジェクトの課題やマージリクエストとシームレスにやり取りできます。
+- [mcp-git](https://github.com/kwanLeeFrmVi/mcp-git) - ⚙️📁 プラグインのサポート、高速プロトタイピング、バージョン管理統合を備えた、Gitを活用した軽量なMinecraft Classic Protocol（MCP）サーバーフレームワーク。🚀🧩
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>その他のツールと統合
 

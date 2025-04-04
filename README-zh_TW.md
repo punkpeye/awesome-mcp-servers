@@ -256,6 +256,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - MCP 伺服器實現提供了通過向量搜尋檢索和處理文件的工具，使 AI 助手能夠利用相關文件上下文來增強其響應能力
 - [@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) 📇 ☁️ - 為 LLM 提供的連接器，用於操作 Zotero Cloud 上的文獻集合和資源
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 用於 Mem0 的模型上下文協議伺服器，幫助管理編碼偏好和模式，提供工具用於儲存、檢索和語義處理代碼實現、最佳實踐和技術文件，適用於 Cursor 和 Windsurf 等 IDE
+- [mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory) 🧠💾 MCP伺服器的最小記憶體實現，非常適合測試、除錯和快速實驗，無需持久儲存。🔍⚡
 
 ### 🗺️ <a name="location-services"></a>位置服務
 
@@ -338,6 +339,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - 使用 LLM 閱讀和分析 GitHub 儲存庫
 - [kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp) 📇 ☁️ - 與 GitLab 項目問題和合併請求無縫互動。
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps 集成，用於管理儲存庫、工作項目和管道。
+- [mcp-git](https://github.com/kwanLeeFrmVi/mcp-git) - ⚙️📁 一個輕量級、以Git為動力的模型上下文協議(MCP)伺服器框架，內建插件支援、快速原型開發和版本控制整合。🚀🧩
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>其他工具和集成
 
