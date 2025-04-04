@@ -499,6 +499,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 actors, and retrieving intelligence sources.
 security vulnerabilities. Built with remote npm registry integration for real-time security checks.
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) 🐍 🏠 - MCP server for IDA Pro, allowing you to perform binary analysis with AI assistants. This plugin implement decompilation, disassembly and allows you to generate malware analysis reports automatically.
+- [rad-security/mcp-server](https://github.com/rad-security/mcp-server) 📇 ☁️ - MCP server for RAD Security, providing AI-powered security insights for Kubernetes and cloud environments. This server provides tools for querying the Rad Security API and retrieving security findings, reports, runtime data and many more.
 
 ### 🏃 <a name="sports"></a>Sports
 
