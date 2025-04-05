@@ -1,8 +1,8 @@
 # 精選的 MCP 伺服器 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
-[![繁體中文](https://img.shields.io/badge/中文文件-點擊查看-orange)](README-zh_TW.md)
-[![简体中文](https://img.shields.io/badge/中文文档-点击查看-orange)](README-zh.md)
+[![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
 [![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
 [![한국어](https://img.shields.io/badge/한국어-클릭-yellow)](README-ko.md)
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
@@ -309,6 +309,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 ### 🔒 <a name="security"></a>安全
 
 - [dnstwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) 📇🪟☁️ - dnstwist 的 MCP 伺服器，這是一個強大的 DNS 模糊測試工具，可幫助檢測域名搶註、釣魚和企業竊密行為
+- [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary Ninja 的 MCP 伺服器和橋接器。提供二進制分析和逆向工程工具。
 - [Maigret MCP Server](https://github.com/BurtTheCoder/mcp-maigret) 📇 ☁️ - maigret 的 MCP 伺服器，maigret 是一款強大的 OSINT 工具，可從各種公共來源收集用戶帳戶資訊。此伺服器提供用於在社交網路中搜尋使用者名稱和分析 URL 的工具。
 - [Shodan MCP Server](https://github.com/BurtTheCoder/mcp-shodan) 📇 ☁️ - MCP 伺服器用於查詢 Shodan API 和 Shodan CVEDB。此伺服器提供 IP 尋找、設備搜尋、DNS 尋找、漏洞查詢、CPE 尋找等工具。
 - [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) 📇 ☁️ - 用於查詢 VirusTotal API 的 MCP 伺服器。此伺服器提供用於掃描 URL、分析文件哈希和檢索 IP 地址報告的工具。
@@ -319,7 +320,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 
-- [translated/lara-mcp](https://github.com/translated/lara-mcp) 📇 🏠 - Lara翻譯API的MCP伺服器，提供強大的翻譯功能，支援語言檢測和上下文感知翻譯。
+- [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - Lara翻譯API的MCP伺服器，提供強大的翻譯功能，支援語言檢測和上下文感知翻譯。
 
 ### 🚆 <a name="travel-and-transportation"></a>旅行與交通
 
