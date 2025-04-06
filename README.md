@@ -913,6 +913,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [vincentsunx/mcp-openGauss](https://github.com/vincentsunx/mcp-openGauss): MCP Server for openGauss database and its tools
 - [TerraCo89/mcp-server-mssql](https://github.com/TerraCo89/mcp-server-mssql): MCP Server for MS SQL Integration - Provides ModelContextProtocol support for Microsoft SQL Server
 - [syahiidkamil/mcp-postgres-full-access](https://github.com/syahiidkamil/mcp-postgres-full-access): Full access postgres mcp server
+- [edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server): MCP Server for NocoDB database
 
 
 ## 🛠️ <a name="developer-productivity--utilities"></a>Developer Productivity & Utilities
