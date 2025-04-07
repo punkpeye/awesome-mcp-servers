@@ -187,7 +187,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 用於資料整合、轉換和管道編排的資料平台。
 
-- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) - 與 Flowcore 互動以執行操作、提取資料並分析、交叉引用和利用您的資料核心或公共資料核心中的任何資料；全部用人類語言。
+- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - 與 Flowcore 互動以執行操作、提取資料並分析、交叉引用和利用您的資料核心或公共資料核心中的任何資料；全部用人類語言。
 
 ### 💻 <a name="developer-tools"></a>開發者工具
 
