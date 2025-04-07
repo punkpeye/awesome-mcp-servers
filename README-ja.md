@@ -1,8 +1,8 @@
 # 素晴らしいMCPサーバー [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
-[![繁體中文](https://img.shields.io/badge/中文文件-點擊查看-orange)](README-zh_TW.md)
-[![简体中文](https://img.shields.io/badge/中文文档-点击查看-orange)](README-zh.md)
+[![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
 [![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
 [![한국어](https://img.shields.io/badge/한국어-클릭-yellow)](README-ko.md)
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
@@ -69,6 +69,7 @@ MCPをサポートするクライアントのリストです。
 > [!NOTE]
 > 現在、リポジトリと同期されている[ウェブのディレクトリ](https://glama.ai/mcp/servers)があります。
 
+* 🔗 - [Aggregators](#aggregators)
 * 📂 - [ブラウザ自動化](#browser-automation)
 * 🎨 - [芸術と文化](#art-and-culture)
 * ☁️ - [クラウドプラットフォーム](#cloud-platforms)
@@ -86,6 +87,12 @@ MCPをサポートするクライアントのリストです。
 * 🔄 - [旅行と交通](#travel-and-transportation)
 * 🔄 - [バージョン管理](#version-control)
 * 🛠️ - [その他のツールと統合](#other-tools-and-integrations)
+
+### 🔗 <a name="aggregators"></a>アグリゲーター
+
+単一のMCPサーバーを通じて多くのアプリやツールにアクセスするためのサーバー。
+
+- [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Web APIを10秒でMCPサーバーに変換し、オープンソースレジストリに追加する: https://open-mcp.org
 
 ### 📂 <a name="browser-automation"></a>ブラウザ自動化
 
@@ -119,7 +126,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 メッセージ管理とチャネル操作のためのコミュニケーションプラットフォームとの統合。AIモデルがチームコミュニケーションツールと対話できるようにします。
 
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - チャネル管理とメッセージングのためのSlackワークスペース統合
-- [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - クエリとインタラクションのためのBlueskyインスタンス統合
+- [@keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - クエリとインタラクションのためのBlueskyインスタンス統合
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - GmailとGoogleカレンダーとの統合。
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - MCPサーバーアプリケーションは、WeComグループロボットにさまざまなタイプのメッセージを送信します。
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 VRChat APIと対話するためのMCPサーバーです。VRChatのフレンドやワールド、アバターなどの情報を取得することができます。
@@ -214,7 +221,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 アプリケーション監視データへのアクセスと分析。エラーレポートとパフォーマンスメトリクスをレビューすることができます。
 
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - エラートラッキングとパフォーマンス監視のためのSentry.io統合
-- [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - クラッシュレポートとリアルユーザーモニタリングのためのRaygun API V3統合
+- [@MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - クラッシュレポートとリアルユーザーモニタリングのためのRaygun API V3統合
 
 ### 🔎 <a name="search"></a>検索
 
@@ -239,6 +246,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 ### 🔒 <a name="security"></a>セキュリティ
 
+- [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary NinjaのためのMCPサーバーとブリッジ。バイナリ分析とリバースエンジニアリングのためのツールを提供します。
 - [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇 ☁️ 強力なモデルコンテキストプロトコル（MCP）サーバーで、npmパッケージ依存関係のセキュリティ脆弱性を監査します。リモートnpmレジストリ統合を備えたリアルタイムセキュリティチェックを使用して構築されています。
 - [GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - GhidraをAIアシスタントと統合するためのMCPサーバー。このプラグインはバイナリ分析を可能にし、モデルコンテキストプロトコルを通じて関数検査、逆コンパイル、メモリ探索、インポート/エクスポート分析などのツールを提供します。
 
@@ -246,7 +254,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 AIアシスタントが異なる言語間でコンテンツを翻訳できるようにする翻訳ツールとサービス。
 
-- [translated/lara-mcp](https://github.com/translated/lara-mcp) 📇 🏠 - Lara Translate APIのためのMCPサーバー。言語検出とコンテキスト対応の翻訳機能を備えた強力な翻訳機能を提供します。
+- [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - Lara Translate APIのためのMCPサーバー。言語検出とコンテキスト対応の翻訳機能を備えた強力な翻訳機能を提供します。
 
 ### 🚆 <a name="travel-and-transportation"></a>旅行と交通
 
