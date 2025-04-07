@@ -75,6 +75,7 @@
 * 💬 - [커뮤니케이션](#communication)
 * 👤 - [고객 데이터 플랫폼](#customer-data-platforms)
 * 🗄️ - [데이터베이스](#databases)
+* 📊 - [데이터 플랫폼](#data-platforms)
 * 🛠️ - [개발자 도구](#developer-tools)
 * 📂 - [파일 시스템](#file-systems)
 * 💰 - [금융 및 핀테크](#finance--fintech)
@@ -161,6 +162,11 @@
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - 모델 컨텍스트 프로토콜을 사용하여 모든 개방형 데이터를 모든 LLM에 연결합니다.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - 모든 MCP 클라이언트에서 Tinybird 워크스페이스와 상호 작용하기 위한 MCP 서버.
 - [@iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic) 🎖️ 📇 ☁️ - [iaptic](https://www.iaptic.com)과 연결하여 고객 구매, 거래 데이터 및 앱 수익 통계에 대해 질문합니다.
+
+### 📊 <a name="data-platforms"></a>데이터 플랫폼
+
+데이터 통합, 변환 및 파이프라인 오케스트레이션을 위한 데이터 플랫폼.
+
 
 ### 🗄️ <a name="databases"></a>데이터베이스
 
