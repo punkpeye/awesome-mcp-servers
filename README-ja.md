@@ -161,6 +161,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 データ統合、変換、パイプライン オーケストレーションのためのデータ プラットフォーム。
 
+- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) - Flowcore と対話してアクションを実行し、データを取り込み、データ コア内またはパブリック データ コア内のあらゆるデータを分析、相互参照、活用します。これらはすべて人間の言語で実行できます。
 
 ### 💻 <a name="developer-tools"></a>開発者ツール
 
