@@ -10,7 +10,7 @@
 
 精选的优秀模型上下文协议 (MCP) 服务器列表。
 
-- [什么是 MCP？](#什么是MCP？)
+- [什么是 MCP？](#什么是 MCP？)
 - [客户端](#客户端)
 - [教程](#教程)
 - [社区](#社区)
@@ -28,8 +28,7 @@
 
 查看 [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 和 [glama.ai/mcp/clients](https://glama.ai/mcp/clients)。
 
-> [!TIP]
-> [Glama Chat](https://glama.ai/chat)是一款支持 MCP 的多模态 AI 客户端，并集成[AI 网关](https://glama.ai/gateway)功能。
+> [!TIP] > [Glama Chat](https://glama.ai/chat)是一款支持 MCP 的多模态 AI 客户端，并集成[AI 网关](https://glama.ai/gateway)功能。
 
 ## 教程
 
