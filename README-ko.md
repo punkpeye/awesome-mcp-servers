@@ -167,7 +167,7 @@
 
 데이터 통합, 변환 및 파이프라인 오케스트레이션을 위한 데이터 플랫폼.
 
-- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) - Flowcore와 상호 작용하여 작업을 수행하고, 데이터를 수집하고, 데이터 코어나 공개 데이터 코어에 있는 모든 데이터를 분석, 교차 참조하고 활용할 수 있습니다. 이 모든 작업은 인간 언어를 사용합니다.
+- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - Flowcore와 상호 작용하여 작업을 수행하고, 데이터를 수집하고, 데이터 코어나 공개 데이터 코어에 있는 모든 데이터를 분석, 교차 참조하고 활용할 수 있습니다. 이 모든 작업은 인간 언어를 사용합니다.
 
 
 ### 🗄️ <a name="databases"></a>데이터베이스

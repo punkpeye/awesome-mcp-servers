@@ -224,7 +224,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 用于数据集成、转换和管道编排的数据平台。
 
-- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) - 与 Flowcore 交互以执行操作、提取数据以及分析、交叉引用和利用数据核心或公共数据核心中的任何数据；全部通过人类语言完成。
+- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - 与 Flowcore 交互以执行操作、提取数据以及分析、交叉引用和利用数据核心或公共数据核心中的任何数据；全部通过人类语言完成。
 
 ### 💻 <a name="developer-tools"></a>开发者工具
 
