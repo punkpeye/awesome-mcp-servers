@@ -1,8 +1,8 @@
 # 精選的 MCP 伺服器 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
-[![繁體中文](https://img.shields.io/badge/中文文件-點擊查看-orange)](README-zh_TW.md)
-[![简体中文](https://img.shields.io/badge/中文文档-点击查看-orange)](README-zh.md)
+[![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
 [![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
 [![한국어](https://img.shields.io/badge/한국어-클릭-yellow)](README-ko.md)
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
@@ -61,6 +61,7 @@
 > [!NOTE]
 > 我們現在有一個與儲存庫同步的[基於 Web 的目錄](https://glama.ai/mcp/servers)。
 
+* 🔗 - [Aggregators](#aggregators)
 * 📂 - [瀏覽器自動化](#browser-automation)
 * 🎨 - [藝術與文化](#art-and-culture)
 * ☁️ - [雲端平台](#cloud-platforms)
@@ -82,6 +83,12 @@
 * 🚆 - [旅行與交通](#travel-and-transportation)
 * 🔄 - [版本控制](#version-control)
 * 🛠️ - [其他工具和整合](#other-tools-and-integrations)
+
+### 🔗 <a name="aggregators"></a>聚合器
+
+通過單個MCP伺服器訪問多個應用程式和工具的伺服器。
+
+- [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 10秒內將Web API轉換為MCP伺服器並將其添加到開源註冊表中: https://open-mcp.org
 
 ### 📂 <a name="browser-automation"></a>瀏覽器自動化
 
@@ -135,7 +142,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - 用於管理 Google Tasks 的 MCP 伺服器
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - MCP 伺服器通過模型上下文協議 (MCP) 提供對 iMessage 資料庫的安全訪問，使 LLM 能夠透過適當的電話號碼驗證和附件處理來查詢和分析 iMessage 對話
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - 用於頻道管理和消息傳遞的 Slack 工作區集成
-- [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky 實例集成，用於查詢和交互
+- [@keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky 實例集成，用於查詢和交互
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - 與 Gmail 和 Google 日曆集成。
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - 與 Twitter 搜尋和時間線進行交互
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - MCP伺服器 Tools 應用程式，用於向企業微信群機器人發送各種類型的消息。
@@ -277,7 +284,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 訪問和分析應用程式監控數據。使 AI 模型能夠審查錯誤報告和性能指標。
 
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Sentry.io 集成用於錯誤跟蹤和性能監控
-- [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - Raygun API V3 集成用於崩潰報告和真實用戶監控
+- [@MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - Raygun API V3 集成用於崩潰報告和真實用戶監控
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - 查詢並與 Metoro 監控的 kubernetes 環境交互
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - 在 Grafana 實例中搜尋儀錶板、調查事件並查詢數據源
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) 🏎️ 🏠 - 監控系統 CPU、Memory、Disk、Network、Host、Process 等資訊，並與 LLM 進行交互
@@ -309,6 +316,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 ### 🔒 <a name="security"></a>安全
 
 - [dnstwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) 📇🪟☁️ - dnstwist 的 MCP 伺服器，這是一個強大的 DNS 模糊測試工具，可幫助檢測域名搶註、釣魚和企業竊密行為
+- [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary Ninja 的 MCP 伺服器和橋接器。提供二進制分析和逆向工程工具。
 - [Maigret MCP Server](https://github.com/BurtTheCoder/mcp-maigret) 📇 ☁️ - maigret 的 MCP 伺服器，maigret 是一款強大的 OSINT 工具，可從各種公共來源收集用戶帳戶資訊。此伺服器提供用於在社交網路中搜尋使用者名稱和分析 URL 的工具。
 - [Shodan MCP Server](https://github.com/BurtTheCoder/mcp-shodan) 📇 ☁️ - MCP 伺服器用於查詢 Shodan API 和 Shodan CVEDB。此伺服器提供 IP 尋找、設備搜尋、DNS 尋找、漏洞查詢、CPE 尋找等工具。
 - [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) 📇 ☁️ - 用於查詢 VirusTotal API 的 MCP 伺服器。此伺服器提供用於掃描 URL、分析文件哈希和檢索 IP 地址報告的工具。
@@ -319,7 +327,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 
-- [translated/lara-mcp](https://github.com/translated/lara-mcp) 📇 🏠 - Lara翻譯API的MCP伺服器，提供強大的翻譯功能，支援語言檢測和上下文感知翻譯。
+- [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - Lara翻譯API的MCP伺服器，提供強大的翻譯功能，支援語言檢測和上下文感知翻譯。
 
 ### 🚆 <a name="travel-and-transportation"></a>旅行與交通
 
@@ -369,7 +377,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [future-audiences/wikimedia-enterprise-model-context-protocol](https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol) 🐍 ☁️  - 維基百科文章尋找 API
 - [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) 🐍 🏠☁️ - MCP 伺服器允許檢查用戶端計算機上的本地時間或 NTP 伺服器上的當前 UTC 時間
 - [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - 🐍 ☁️  MCP 與 OpenAI 助手對話（Claude 可以使用任何 GPT 模型作為他的助手）
-- [@llmindset/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) 📇 ☁️ - 直接從 Claude 使用 HuggingFace Spaces。使用開源圖像生成、聊天、視覺任務等。支援圖像、音訊和文本上傳/下載。
+- [@evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) 📇 ☁️ - 直接從 Claude 使用 HuggingFace Spaces。使用開源圖像生成、聊天、視覺任務等。支援圖像、音訊和文本上傳/下載。
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - 簡單的 Web UI 用於安裝和管理 Claude 桌面應用程式的 MCP 伺服器。
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 📇 🏠 - 用於測試 MCP 伺服器的 CLI 工具
 - [isaacwasserman/mcp-vegalite-server](https://github.com/isaacwasserman/mcp-vegalite-server) 🐍 🏠 - 使用 VegaLite 格式和渲染器從獲取的數據生成可視化效果。
