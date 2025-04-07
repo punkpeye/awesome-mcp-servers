@@ -505,6 +505,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 ## 유틸리티
 
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - 예제 서버 및 MCP 클라이언트가 포함된 MCP stdio에서 HTTP SSE 전송 게이트웨이.
+- [fangyinc/mcpport](https://github.com/fangyinc/mcpport) 🐍 🏠 ☁️ - NAT 트래버설을 지원하는 MCP 서버용 경량 게이트웨이 및 레지스트리로, 엣지 장치가 네트워크 간에 MCP 서비스를 제공할 수 있게 합니다. WebSocket/SSE/HTTP 엔드포인트, 인증, IPv6 지원, stdio 기반 MCP 서버를 쉽게 등록할 수 있는 CLI 도구 등의 기능을 포함합니다.
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 – LangChain.js에서 MCP 제공 도구 사용
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - MCP SSE 서버용 게이트웨이 데모.
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ -  대규모 언어 모델(LLM)이 모델 컨텍스트 프로토콜(MCP)을 통해 외부 도구와 상호 작용할 수 있도록 하는 CLI 호스트 애플리케이션.

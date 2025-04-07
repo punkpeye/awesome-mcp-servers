@@ -276,6 +276,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 ### 🛠️ <a name="other-tools-and-integrations"></a>その他のツールと統合
 
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 3,000以上の事前構築されたクラウドツール（Actors として知られる）を使用して、ウェブサイト、eコマース、ソーシャルメディア、検索エンジン、地図などからデータを抽出できます。
+- [fangyinc/mcpport](https://github.com/fangyinc/mcpport) 🐍 🏠 ☁️ - NATトラバーサルをサポートするMCPサーバー用の軽量ゲートウェイ＆レジストリで、エッジデバイスがネットワーク間でMCPサービスを提供できるようにします。WebSocket/SSE/HTTPエンドポイント、認証、IPv6サポート、stdioベースのMCPサーバーを簡単に登録できるCLIツールなどの機能があります。
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - このサーバーは、LLMが計算機を使用して正確な数値計算を行えるようにします
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - ほぼすべてのファイルやウェブコンテンツをMarkdownに変換するMCPサーバー
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - OpenAIの最も賢いモデルとチャット

@@ -699,6 +699,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway with example server and MCP client.
 - [f/MCPTools](https://github.com/f/mcptools) 🔨 - A command-line development tool for inspecting and interacting with MCP servers with extra features like mocks and proxies.
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇🖥️ - A CLI based client to chat and connect with any MCP server. Useful during development & testing of MCP servers.
+- [fangyinc/mcpport](https://github.com/fangyinc/mcpport) 🐍 🏠 ☁️ - A lightweight gateway & registry for MCP servers with NAT traversal support, allowing edge devices to provide MCP services across networks. Features include WebSocket/SSE/HTTP endpoints, authentication, IPv6 support, and a CLI tool for easy registration of stdio-based MCP servers.
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 – Use MCP provided tools in LangChain.js
 - [kukapay/whattimeisit-mcp](https://github.com/kukapay/whattimeisit-mcp) 🐍 ☁️ - A lightweight mcp server that tells you exactly what time is it.
 - [kukapay/whereami-mcp](https://github.com/kukapay/whereami-mcp) 🐍 ☁️ -  A lightweight mcp server that tells you exactly where you are based on your current IP.
