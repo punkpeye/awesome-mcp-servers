@@ -416,7 +416,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 体育相关数据、结果和统计信息的访问工具。
 
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - 通过自然语言访问自行车比赛数据、结果和统计信息。功能包括从 firstcycling.com 获取参赛名单、比赛结果和车手信息。
-- [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) #️⃣☁️ - 您可以访问有关澳大利亚足球联赛（AFL）的过去和当前结果、排名以及球队信息。功能包括检索过去和当前的联赛排名、过去的比赛结果，以及过去和当前的球队信息。
+- [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) #️⃣ ☁️ - 您可以访问有关澳大利亚足球联赛（AFL）的过去和当前结果、排名以及球队信息。功能包括检索过去和当前的联赛排名、过去的比赛结果，以及过去和当前的球队信息。
 
 ### 🌎 <a name="translation-services"></a>翻译服务
 
