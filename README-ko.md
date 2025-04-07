@@ -68,6 +68,7 @@
 > [!참고]
 > 이제 리포지토리와 동기화되는 [웹 기반 디렉토리](https://glama.ai/mcp/servers)가 있습니다.
 
+* 🔗 - [Aggregators](#aggregators)
 * 📂 - [브라우저 자동화](#browser-automation)
 * 🎨 - [예술 및 문화](#art-and-culture)
 * ☁️ - [클라우드 플랫폼](#cloud-platforms)
@@ -90,6 +91,12 @@
 * 🚆 - [여행 및 교통](#travel-and-transportation)
 * 🔄 - [버전 관리](#version-control)
 * 🛠️ - [기타 도구 및 통합](#other-tools-and-integrations)
+
+### 🔗 <a name="aggregators"></a>애그리게이터
+
+단일 MCP 서버를 통해 많은 앱과 도구에 접근하기 위한 서버입니다.
+
+- [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 웹 API를 10초 만에 MCP 서버로 전환하고 오픈 소스 레지스트리에 추가하세요: https://open-mcp.org
 
 ### 📂 <a name="browser-automation"></a>브라우저 자동화
 
