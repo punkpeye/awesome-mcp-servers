@@ -76,6 +76,7 @@
 * 💬 - [社交](#communication)
 * 👤 - [客户数据平台](#customer-data-platforms)
 * 🗄️ - [数据库](#databases)
+* 📊 - [数据平台](#data-platforms)
 * 🛠️ - [开发者工具](#developer-tools)
 * 🧮 - [数据科学工具](#data-science-tools)
 * 📂 - [文件系统](#file-systems)
@@ -218,6 +219,10 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server) 📇 ☁️ 🏠 - 针对 InfluxDB OSS API v2 运行查询
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - 一个用于与 Google Sheets 交互的模型上下文协议服务器。该服务器通过 Google Sheets API 提供创建、读取、更新和管理电子表格的工具。
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) 🐍 🏠 - 一个Qdrant MCP服务器
+
+### 📊 <a name="data-platforms"></a>数据平台
+
+用于数据集成、转换和管道编排的数据平台。
 
 ### 💻 <a name="developer-tools"></a>开发者工具
 
