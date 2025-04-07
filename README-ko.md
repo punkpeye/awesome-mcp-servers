@@ -251,6 +251,8 @@
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - MCP를 사용한 Claude Code 기능 구현으로, 포괄적인 도구 지원을 통해 AI 코드 이해, 수정 및 프로젝트 분석 가능.
 - [gofireflyio/firefly-mcp](https://github.com/gofireflyio/firefly-mcp) 🎖️ 📇 ☁️ - [Firefly](https://firefly.ai)를 사용하여 클라우드 리소스를 통합, 검색, 관리 및 코드화합니다.
 - [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) 📇 🏠 - 에이전트가 학습되지 않은 API로 작업할 수 있도록 타입스크립트 API 정보를 효율적으로 제공하는 MCP 서버
+- [gg MCP for VSCode](https://github.com/bugstan/ggMCP4VSCode)  🏠 - VSCode용 MCP 플러그인은 Claude Desktop과 같은 AI 도우미가 VSCode와 상호작용하여 자동 개발 작업을 수행할 수 있도록 지원합니다.
+- [MCP x Hub](https://github.com/bugstan/MCPxHub)  🏠 - Claude Desktop 미들웨어는 Claude Desktop이 JetBrains 및 VSCode MCP 플러그인과 상호작용하여 파일 읽기, 쓰기 및 코드 편집을 자동으로 수행할 수 있도록 지원합니다.
 
 ### 🧮 데이터 과학 도구
 

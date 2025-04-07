@@ -214,6 +214,8 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [higress-group/higress-ops-mcp-server](https://github.com/higress-group/higress-ops-mcp-server) 🐍 🏠 - 支援對 [Higress](https://github.com/alibaba/higress/blob/main/README_ZH.md) 閘道器進行全面的配置和管理。
 - [ReAPI-com/mcp-openapi](https://github.com/ReAPI-com/mcp-openapi) 📇 🏠 - MCP伺服器讓LLM能夠了解您的OpenAPI規範的所有資訊，以發現、解釋和生成代碼/模擬數據
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) 🏎️ 🏠 - 無縫集成任何 API 與 AI 代理（通過 OpenAPI 架構）
+- [gg MCP for VSCode](https://github.com/bugstan/ggMCP4VSCode)  🏠 - VSCode 的 MCP 插件，支持 Claude Desktop 等 AI 助手調用 VSCode，實現自動化開發操作。
+- [MCP x Hub](https://github.com/bugstan/MCPxHub)  🏠 - Claude Desktop 中介軟體，支持 Claude Desktop 調用 JetBrains 和 VSCode 的 MCP 插件，進行自動化的檔案讀寫與源代碼編輯。
 
 ### 🧮 數據科學工具
 
