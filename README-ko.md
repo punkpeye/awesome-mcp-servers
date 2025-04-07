@@ -68,6 +68,7 @@
 > [!참고]
 > 이제 리포지토리와 동기화되는 [웹 기반 디렉토리](https://glama.ai/mcp/servers)가 있습니다.
 
+* 🔗 - [Aggregators](#aggregators)
 * 📂 - [브라우저 자동화](#browser-automation)
 * 🎨 - [예술 및 문화](#art-and-culture)
 * ☁️ - [클라우드 플랫폼](#cloud-platforms)
@@ -90,6 +91,12 @@
 * 🚆 - [여행 및 교통](#travel-and-transportation)
 * 🔄 - [버전 관리](#version-control)
 * 🛠️ - [기타 도구 및 통합](#other-tools-and-integrations)
+
+### 🔗 <a name="aggregators"></a>애그리게이터
+
+단일 MCP 서버를 통해 많은 앱과 도구에 접근하기 위한 서버입니다.
+
+- [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 웹 API를 10초 만에 MCP 서버로 전환하고 오픈 소스 레지스트리에 추가하세요: https://open-mcp.org
 
 ### 📂 <a name="browser-automation"></a>브라우저 자동화
 
@@ -143,7 +150,7 @@
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - Google Tasks를 관리하기 위한 MCP 서버
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - 모델 컨텍스트 프로토콜(MCP)을 통해 iMessage 데이터베이스에 안전하게 접근할 수 있게 하는 MCP 서버. LLM이 적절한 전화번호 유효성 검사 및 첨부 파일 처리로 iMessage 대화를 쿼리하고 분석할 수 있도록 지원합니다.
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - 채널 관리 및 메시징을 위한 Slack 워크스페이스 통합
-- [@modelcontextprotocol/server-bluesky](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - 쿼리 및 상호 작용을 위한 Bluesky 인스턴스 통합
+- [@keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - 쿼리 및 상호 작용을 위한 Bluesky 인스턴스 통합
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - Gmail 및 Google Calendar와의 통합.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - 트위터 검색 및 타임라인과 상호 작용
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️ - WeCom 그룹 로봇에게 다양한 유형의 메시지를 보내는 MCP 서버 애플리케이션.
@@ -331,7 +338,7 @@
 애플리케이션 모니터링 데이터 접근 및 분석. AI 모델이 오류 보고서 및 성능 지표를 검토할 수 있게 합니다.
 
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - 오류 추적 및 성능 모니터링을 위한 Sentry.io 통합
-- [@modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - 충돌 보고 및 실제 사용자 모니터링을 위한 Raygun API V3 통합
+- [@MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - 충돌 보고 및 실제 사용자 모니터링을 위한 Raygun API V3 통합
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - Metoro로 모니터링되는 쿠버네티스 환경 쿼리 및 상호 작용
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - Grafana 인스턴스에서 대시보드 검색, 인시던트 조사 및 데이터 소스 쿼리
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) 🎖️ 🐍 ☁️ - Logfire를 통해 OpenTelemetry 추적 및 메트릭에 대한 접근 제공
@@ -438,7 +445,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [future-audiences/wikimedia-enterprise-model-context-protocol](https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol) 🐍 ☁️  - 위키백과 기사 조회 API
 - [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) 🐍 🏠☁️ - 클라이언트 머신의 현지 시간 또는 NTP 서버의 현재 UTC 시간을 확인할 수 있는 MCP 서버
 - [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - 🐍 ☁️  OpenAI 어시스턴트와 대화하기 위한 MCP (Claude는 모든 GPT 모델을 어시스턴트로 사용할 수 있음)
-- [@llmindset/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) 📇 ☁️ - Claude에서 직접 HuggingFace Spaces 사용. 오픈 소스 이미지 생성, 채팅, 비전 작업 등 사용. 이미지, 오디오 및 텍스트 업로드/다운로드 지원.
+- [@evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) 📇 ☁️ - Claude에서 직접 HuggingFace Spaces 사용. 오픈 소스 이미지 생성, 채팅, 비전 작업 등 사용. 이미지, 오디오 및 텍스트 업로드/다운로드 지원.
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Claude 데스크톱 앱용 MCP 서버를 설치하고 관리하는 간단한 웹 UI.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 📇 🏠 - MCP 서버 테스트용 CLI 도구
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) 🐍 🏠 - MCP 서버 테스트를 위한 또 다른 CLI 도구
@@ -465,7 +472,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [tomekkorbak/oura-mcp-server](https://github.com/tomekkorbak/oura-mcp-server) 🐍 ☁️ - 수면 추적 앱인 Oura용 MCP 서버
 - [rember/rember-mcp](https://github.com/rember/rember-mcp) 📇 🏠 - 채팅에서 배운 내용을 기억하기 위해 [Rember](https://rember.com)에 간격 반복 플래시 카드 만들기.
 - [hiromitsusasaki/raindrop-io-mcp-server](https://github.com/hiromitsusasaki/raindrop-io-mcp-server) 📇 ☁️ - LLM이 모델 컨텍스트 프로토콜(MCP)을 사용하여 Raindrop.io 북마크와 상호 작용할 수 있도록 하는 통합.
-- [@makehq/mcp-server](https://github.com/integromat/make-mcp-server) 🎖️ 📇 🏠 - [Make](https://www.make.com/) 시나리오를 AI 어시스턴트가 호출할 수 있는 도구로 변환합니다.
+- [@integromat/make-mcp-server](https://github.com/integromat/make-mcp-server) 🎖️ 📇 🏠 - [Make](https://www.make.com/) 시나리오를 AI 어시스턴트가 호출할 수 있는 도구로 변환합니다.
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) - 🐍 화면 GUI 자동 조작.
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ AI 모델이 [Kibela](https://kibe.la/)와 상호 작용할 수 있도록 허용
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - AI가 GraphQL 서버를 쿼리할 수 있도록 허용
