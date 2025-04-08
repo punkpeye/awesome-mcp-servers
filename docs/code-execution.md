@@ -1,0 +1,70 @@
+## 💻 Code Execution
+
+Servers designed to execute code snippets or scripts in various languages, often in sandboxed environments.
+
+- [shreyu258/Jupyter_MCP_Server](https://github.com/shreyu258/Jupyter_MCP_Server): Facilitates AI-assisted code execution and data analysis by integrating Jupyter Notebooks with Claude AI via the Model Context Protocol.
+- [connectwithprakash/mcp-servers](https://github.com/connectwithprakash/mcp-servers): Enhance AI assistants with custom capabilities through a collection of Model Context Protocol servers, including semantic search and course comparison for Great Learning's educational content.
+- [torohash/firecrawl-sse-mcp](https://github.com/torohash/firecrawl-sse-mcp): Integrates Firecrawl web scraping API with AI assistants, offering automated web crawling, data extraction, and deep research capabilities.
+- [harshal-14/mcp_server_101](https://github.com/harshal-14/mcp_server_101): A practice repository for setting up Claude MCP protocol servers, including a weather app and SQLite database integration.
+- [CTND/mcp_zhitou_server](https://github.com/CTND/mcp_zhitou_server): Facilitates real-time access to China A-Share stock market data for AI agents using the Zhitou HS Data API.
+- [Novakiki/mcp-gemini-server](https://github.com/Novakiki/mcp-gemini-server): Facilitates seamless integration of Google's Gemini model capabilities into MCP-compatible systems, enabling AI interoperability and enhanced application development.
+- [aki-kii/mcp-uuid](https://github.com/aki-kii/mcp-uuid): Provides a simple service for generating UUIDs through an MCP server.
+- [naotaka3/mcp-proxy-hub](https://github.com/naotaka3/mcp-proxy-hub): A central hub that aggregates and serves multiple MCP resource servers through a unified interface, enabling efficient resource management and tool aggregation.
+- [p1atdev/sherlock-mcp](https://github.com/p1atdev/sherlock-mcp): Facilitates the search for social media accounts across various platforms using the Sherlock tool.
+- [ikekou/hello-world-sayer-mcp](https://github.com/ikekou/hello-world-sayer-mcp): A TypeScript-based MCP server that returns personalized 'Hello World' messages, designed for integration with Claude Desktop.
+- [miyamo2/mcp-restaurant-order](https://github.com/miyamo2/mcp-restaurant-order): A playful MCP server implementation for simulating restaurant order scenarios with multilingual support.
+- [t-shiratori/mcp-server-example-random-num](https://github.com/t-shiratori/mcp-server-example-random-num): A TypeScript-based MCP server example that generates random numbers for integration with Claude for Desktop.
+- [sunmer/node-simple-mcp-example](https://github.com/sunmer/node-simple-mcp-example): Facilitates interaction between Claude and a local JSON server using MCP for executing commands and data manipulation.
+- [jigarbhoye04/MatlabMCP](https://github.com/jigarbhoye04/MatlabMCP): Facilitates the execution of MATLAB code from Python using the MATLAB Engine API, enabling seamless integration with LLMs.
+- [yzfly/mcp-python-interpreter](https://github.com/yzfly/mcp-python-interpreter): Facilitates LLM interaction with Python environments for code execution, file management, and development workflows.
+- [ktrysmt/mcp-script-runner](https://github.com/ktrysmt/mcp-script-runner): Facilitates the execution of shell scripts as tools within a designated directory using MCP server capabilities.
+- [EarthlingAI/command](https://github.com/EarthlingAI/command): Facilitates AI agents in executing commands within specified directories, enhancing command-line automation capabilities.
+- [ankur106/LLDB_MCP](https://github.com/ankur106/LLDB_MCP): Facilitates LLDB debugging sessions via MCP for seamless integration with AI assistants like Claude.
+- [HappyAny/secure-command-executor-mcp-server](https://github.com/HappyAny/secure-command-executor-mcp-server): A secure MCP service for executing system commands with safety checks, command management, and daily log rotation.
+- [WilliamSuiself/remote-mcp](https://github.com/WilliamSuiself/remote-mcp): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [nyanta012/mcp-think-server](https://github.com/nyanta012/mcp-think-server): A customizable MCP server setup for integration with Claude Desktop, facilitating seamless server execution via JSON configuration.
+- [chrishayuk/chuk-mcp](https://github.com/chrishayuk/chuk-mcp): A Python client for interacting with MCP servers, facilitating protocol negotiation, resource management, and tool execution.
+- [ivanmolanski/local-rag-mpc](https://github.com/ivanmolanski/local-rag-mpc): A local MCP server implementing a RAG-like web search model for context retrieval without relying on external APIs.
+- [landmaster135/mcps-go](https://github.com/landmaster135/mcps-go): A Go-based MCP server facilitating arithmetic, datetime calculations, HTTP requests, and Brave web searches.
+- [WesleyMFrederick/rocket-countdown-mcp-server](https://github.com/WesleyMFrederick/rocket-countdown-mcp-server): Facilitates a rocket countdown timer with start, stop, and reset functionalities, culminating in a 'BLAST OFF!' announcement.
+- [stoneskin/MyMCPServer](https://github.com/stoneskin/MyMCPServer): A demo MCP server and client setup showcasing message communication using the MCP protocol.
+- [davidshtian/Q-2001](https://github.com/davidshtian/Q-2001): Q-2001 is an agentic command-line AI assistant leveraging AWS Bedrock and MCP integration for enhanced task automation and intelligent agent capabilities.
+- [dnakov/frida-mcp](https://github.com/dnakov/frida-mcp): Facilitates AI-driven interaction with applications via Frida's dynamic instrumentation toolkit, leveraging the MCP protocol.
+- [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor): Facilitates secure local execution of Python code generated by LLMs without the need for Docker or VMs, using Hugging Face's LocalPythonExecutor.
+- [entanglr/laravel-artisan-mcp](https://github.com/entanglr/laravel-artisan-mcp): Facilitates secure execution of Laravel Artisan commands via AI assistants like Claude, bridging natural language interactions with Laravel projects.
+- [wangle201210/mcp-server](https://github.com/wangle201210/mcp-server): Facilitates natural language to SQL conversion, knowledge retrieval, and data transformation through a versatile MCP server.
+- [lucianoayres/mcp-server-python](https://github.com/lucianoayres/mcp-server-python): A Python-based MCP server that integrates with AI-assisted development environments, offering tools for arithmetic operations and environment variable retrieval.
+- [YFGaia/mcp-runtime](https://github.com/YFGaia/mcp-runtime): A pre-configured runtime environment that simplifies the setup of MCP servers on Windows and macOS, integrating essential tools like Node.js, Python, and Git.
+- [charles-adedotun/Lilith-Shell](https://github.com/charles-adedotun/Lilith-Shell): Lilith Shell empowers AI assistants to securely execute terminal commands with enhanced security controls and testing.
+- [deepsuthar496/Remote-Command-MCP](https://github.com/deepsuthar496/Remote-Command-MCP): Facilitates remote command execution across diverse operating systems with automatic command normalization and error handling.
+- [formulahendry/mcp-server-code-runner](https://github.com/formulahendry/mcp-server-code-runner): Facilitates execution of code snippets across multiple programming languages, providing results seamlessly.
+- [simonberner/mcp-server-calculator](https://github.com/simonberner/mcp-server-calculator): Provides a simple calculator service for MCP clients, demonstrating basic math operations.
+- [Timtech4u/python-mcp-server](https://github.com/Timtech4u/python-mcp-server): Facilitates Python code execution and environment management for LLMs like Claude, enabling seamless integration and automation.
+- [ryaker/CommandExecution](https://github.com/ryaker/CommandExecution): Facilitates secure shell command execution on local systems via Claude's interface, with robust safety checks and cross-platform support.
+- [punkpeye/gas-interpreter-mcp](https://github.com/punkpeye/gas-interpreter-mcp): Connects MCP clients like Claude Desktop with Google Apps Script via a Node.js bridge server, enabling script execution through HTTP POST requests.
+- [jasondsmith72/ClaudeComputerCommander](https://github.com/jasondsmith72/ClaudeComputerCommander): Facilitates Claude's interaction with your computer by executing terminal commands and managing processes with advanced monitoring and backup features.
+- [FractalWire/pipai](https://github.com/FractalWire/pipai): A command-line tool that leverages LiteLLM to interact with LLM models, supporting MCP tools for enhanced functionality.
+- [0xBruno/MCPExec](https://github.com/0xBruno/MCPExec): Facilitates the execution of local CLI commands through an MCP server setup.
+- [wricardo/gpt-mcp-proxy](https://github.com/wricardo/gpt-mcp-proxy): A REST API server bridging HTTP clients with MCP-compliant tools for seamless integration and execution via REST endpoints.
+- [jakenuts/mcp-cli-exec](https://github.com/jakenuts/mcp-cli-exec): A CLI command execution MCP server that runs shell commands with structured output and detailed execution results.
+- [sf197/ebpfExecDB](https://github.com/sf197/ebpfExecDB): Facilitates command execution retrieval and analysis via ebpf and MongoDB, enabling LLMs to assess system operations.
+- [YuheiNakasaka/arithmetic-mcp-server](https://github.com/YuheiNakasaka/arithmetic-mcp-server): Facilitates basic arithmetic operations through an MCP server, enabling integration with the Claude Desktop App for seamless mathematical computations.
+- [manybooks/command-executer](https://github.com/manybooks/command-executer): Facilitates secure execution of pre-approved commands with customizable shell configurations.
+- [cluffa/julia-runner](https://github.com/cluffa/julia-runner): Facilitates interaction with Julia by executing code, managing packages, and retrieving documentation.
+- [bazinga012/mcp_code_executor](https://github.com/bazinga012/mcp_code_executor): Facilitates Python code execution by LLMs within a specified Conda environment, leveraging MCP server capabilities.
+- [daniel-lxs/mcp-starter](https://github.com/daniel-lxs/mcp-starter): A lightweight Go application that configures and executes commands with environment variables using JSON files.
+- [tadasant/mcp-server-ssh-rails-runner](https://github.com/tadasant/mcp-server-ssh-rails-runner): Facilitates secure remote execution of Rails console commands via SSH, enabling both read-only and managed mutation operations in a deployed Rails environment.
+- [Automata-Labs-team/code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp): Provides AI applications with a secure and isolated Docker-based environment for executing code.
+- [ducthinh993/mcp-server-endoflife](https://github.com/ducthinh993/mcp-server-endoflife): Facilitates AI assistants in verifying software end-of-life dates and security status using the endoflife.date API.
+- [nkkko/daytona-mcp-interpreter](https://github.com/nkkko/daytona-mcp-interpreter): Daytona MCP Interpreter facilitates secure Python code execution and shell command operations in isolated environments, enhancing AI assistant capabilities.
+- [privsim/mcp-test-runner](https://github.com/privsim/mcp-test-runner): Facilitates unified test execution and result parsing across multiple frameworks, including Bats, Pytest, Flutter, Jest, Go, and Rust.
+- [Tsuchijo/matlab-mcp](https://github.com/Tsuchijo/matlab-mcp): Facilitates the creation and execution of MATLAB scripts and functions through integration with Claude and other MCP clients.
+- [lyuhau/claude-mcp-repl](https://github.com/lyuhau/claude-mcp-repl): Enhances Claude with Python execution, shell commands, and file manipulation capabilities through a Python-based REPL server.
+- [Sunwood-ai-labs/command-executor-mcp-server](https://github.com/Sunwood-ai-labs/command-executor-mcp-server): A secure MCP server for executing pre-approved commands with real-time output streaming and robust error handling.
+- [twolven/mcp-codesavant](https://github.com/twolven/mcp-codesavant): CodeSavant empowers AI assistants with code manipulation, execution, and version control capabilities through an MCP server.
+- [bsmi021/mcp-python-executor](https://github.com/bsmi021/mcp-python-executor): Facilitates secure Python code execution and package management with resource monitoring and logging capabilities.
+- [Alec2435/python_mcp](https://github.com/Alec2435/python_mcp): Facilitates interactive Python code execution in a persistent REPL environment with session history tracking.
+- [kentaro/mcp-local-command-server](https://github.com/kentaro/mcp-local-command-server): A TypeScript-based server that executes commands and returns structured outputs, designed for integration with Claude Desktop.
+- [blazickjp/shell-mcp-server](https://github.com/blazickjp/shell-mcp-server): Facilitates secure shell command execution for AI applications, ensuring controlled access within specified directories.
+- [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands): Facilitates command and script execution via the Model Context Protocol for integration with LLMs like Claude.
+

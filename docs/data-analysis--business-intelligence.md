@@ -1,0 +1,168 @@
+## 📊 Data Analysis & Business Intelligence
+
+Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
+
+- [HZreal/mcp-weather-server](https://github.com/HZreal/mcp-weather-server): Provides weather data integration for Claude using the MCP protocol.
+- [pws-pm/MCP-ArmoniaPlus](https://github.com/pws-pm/MCP-ArmoniaPlus): Enables Claude AI to control ArmoníaPlus audio devices via a local MCP server.
+- [TuanKiri/weather-mcp-server](https://github.com/TuanKiri/weather-mcp-server): Facilitates AI assistants in accessing and interpreting real-time weather data through a lightweight MCP server.
+- [jlfwong/food-data-central-mcp-server](https://github.com/jlfwong/food-data-central-mcp-server): Facilitates API access to USDA's FoodData Central, enabling food searches and nutrient information retrieval through MCP protocol.
+- [zen4ever/steampipe-mcp-server](https://github.com/zen4ever/steampipe-mcp-server): Facilitates natural language queries to Steampipe PostgreSQL databases, enabling seamless data analysis across cloud providers.
+- [samefarrar/mcp-pdb](https://github.com/samefarrar/mcp-pdb): MCP-PDB integrates Python's debugger with Claude and other LLMs, enabling enhanced debugging capabilities through the Model Context Protocol.
+- [unravel-team/mcp-analyst](https://github.com/unravel-team/mcp-analyst): Empowers Claude to efficiently analyze large local CSV or Parquet datasets without uploading full files.
+- [CoderiGenius/math-all-mcp](https://github.com/CoderiGenius/math-all-mcp): Facilitates precise mathematical computations via SSE for seamless integration with large language models.
+- [silviorodrigues/amplitude-mcp](https://github.com/silviorodrigues/amplitude-mcp): Facilitates interaction with Amplitude Analytics API for querying and segmenting event data.
+- [SiamHas/MCP_TO_PC_ENTITIES](https://github.com/SiamHas/MCP_TO_PC_ENTITIES): Facilitates querying DNO APIs for catalog entities and pricing rules via Claude integration.
+- [jt-atan/Acess-mdb-MPC](https://github.com/jt-atan/Acess-mdb-MPC): Facilitates seamless interaction with 32-bit Microsoft Access databases through a Model Context Protocol interface, offering enhanced querying and schema management capabilities.
+- [yuki9541134/mcp-redash](https://github.com/yuki9541134/mcp-redash): Facilitates SQL query execution and data source management through Redash API integration.
+- [vscruz/mcp_sqpix](https://github.com/vscruz/mcp_sqpix): Facilitates interaction with PIX system tags through SQL script generation and data querying tools.
+- [bjpadhy/clickhouse-mcp-server](https://github.com/bjpadhy/clickhouse-mcp-server): Facilitates natural language data exploration and analysis on ClickHouse databases using LLMs like Claude.
+- [abhirockzz/mcp_kusto](https://github.com/abhirockzz/mcp_kusto): Facilitates data exploration and querying in Azure Data Explorer using an MCP server built with the Go SDK.
+- [MindsightsAI/aya-tabular-research](https://github.com/MindsightsAI/aya-tabular-research): AYA Tabular Research orchestrates AI-driven research processes using the Model Context Protocol to deliver structured insights from tabular data.
+- [XD3an/python-sequential-thinking-mcp](https://github.com/XD3an/python-sequential-thinking-mcp): Facilitates a detailed, step-by-step thinking process for problem-solving and analysis using the official MCP Python SDK.
+- [yzfly/mcp-excel-server](https://github.com/yzfly/mcp-excel-server): Facilitates natural language interaction with Excel files for comprehensive data management and analysis.
+- [jwaxman19/qlik-mcp](https://github.com/jwaxman19/qlik-mcp): Facilitates interaction with Qlik Cloud applications, enabling data extraction from visualizations via the Qlik Cloud API.
+- [Pomilo-AI/annual_report_mcp_server](https://github.com/Pomilo-AI/annual_report_mcp_server): Facilitates the analysis of Swedish annual reports and organizational data using MCP tools, integrating with Bolagsverket and OpenAI APIs.
+- [fern-api/2025-04-02-mcp-server](https://github.com/fern-api/2025-04-02-mcp-server): A MongoDB MCP server utilizing the Fern API for seamless integration and deployment.
+- [kaygee/rev-mcp](https://github.com/kaygee/rev-mcp): Fetches transcripts from Rev.com using their API, integrating seamlessly with MCP clients like Claude for Desktop.
+- [fbeawels/excel-mcp-server](https://github.com/fbeawels/excel-mcp-server): Facilitates reading and writing of data and formulas in MS Excel files through a Model Context Protocol server.
+- [ekzhu/mcp-server-sparql](https://github.com/ekzhu/mcp-server-sparql): Facilitates querying SPARQL endpoints through a Model Context Protocol server, enabling seamless data retrieval from sources like Wikidata.
+- [pinnaclesoft-ko/seoul_data_mcp](https://github.com/pinnaclesoft-ko/seoul_data_mcp): Facilitates access to Seoul's public data through an MCP server, offering insights into subway usage and cultural events.
+- [datafe/quick-chart-mcp](https://github.com/datafe/quick-chart-mcp): Facilitates seamless interaction with Quick Chart through a standardized interface for AI agents.
+- [HosakaKeigo/spreadsheet-mcp-server](https://github.com/HosakaKeigo/spreadsheet-mcp-server): Facilitates direct access to Google Spreadsheet data for LLMs through a Model Context Protocol server.
+- [hasura/promptql-mcp](https://github.com/hasura/promptql-mcp): Facilitates natural language data queries and analysis by bridging Hasura's PromptQL with AI assistants via the Model Context Protocol.
+- [PaulieB14/Subgraph-Finder](https://github.com/PaulieB14/Subgraph-Finder): An AI-powered MCP server that helps users discover relevant subgraphs in The Graph ecosystem based on their specific requirements.
+- [ANewProfile/gbif-custom-mcp](https://github.com/ANewProfile/gbif-custom-mcp): Facilitates access to GBIF datasets via MCP servers, integrating with Claude Desktop for enhanced LLM context and BigQuery data retrieval.
+- [playcations/MCP-Calculator](https://github.com/playcations/MCP-Calculator): A Python-based MCP server offering a containerized API for performing advanced mathematical operations using scipy and numpy.
+- [ANewProfile/gbif-bigquery-mcp](https://github.com/ANewProfile/gbif-bigquery-mcp): Facilitates natural language interaction with BigQuery data through Claude Desktop, leveraging MCP for seamless AI-database communication.
+- [markov-kernel/databricks-mcp](https://github.com/markov-kernel/databricks-mcp): Facilitates interaction with Databricks clusters, jobs, and notebooks through the MCP protocol, enabling seamless integration with LLM-powered tools.
+- [Tex76/mcp-trend-vision-one](https://github.com/Tex76/mcp-trend-vision-one): Facilitates seamless interaction between LLMs and Trend Vision One's API for retrieving and analyzing security alerts.
+- [doggybee/mcp-server-leetcode](https://github.com/doggybee/mcp-server-leetcode): Facilitates AI-driven access to LeetCode's problems, user data, and contest information via GraphQL.
+- [usensedata/mcp](https://github.com/usensedata/mcp): Facilitates enterprise data query services with seamless LLM integration using the MCP protocol.
+- [rlancemartin/vibe-code-benchmark](https://github.com/rlancemartin/vibe-code-benchmark): Benchmarking code agents' integration with external data sources using MCP servers for context retrieval and semantic search.
+- [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp): Facilitates integration with QA Sphere test management system, enabling LLMs to interact with test cases through MCP.
+- [johnib/kusto-mcp](https://github.com/johnib/kusto-mcp): A TypeScript MCP server enabling AI assistants to interact with Azure Data Explorer through a standardized protocol, supporting KQL queries and schema operations.
+- [Flow-Research/mcp-server-trend-persister](https://github.com/Flow-Research/mcp-server-trend-persister): A Python-based MCP server that persists trend data into PostgreSQL, supporting upward and downward trend schemas.
+- [dubydu/excel-mcp](https://github.com/dubydu/excel-mcp): Facilitates interaction with Excel and CSV files through a Model Context Protocol server, enabling data querying, updating, and management.
+- [sanweiw/XueMCP](https://github.com/sanweiw/XueMCP): A TypeScript-based MCP server for recording and summarizing notes in Feishu, featuring note creation and summarization tools.
+- [EvanOman/mcp-data-handles](https://github.com/EvanOman/mcp-data-handles): Demonstrates managing pandas DataFrames through handles in MCP servers, offering both simplified and generic operations for data manipulation.
+- [bsmi021/mcp-npm_docs-server](https://github.com/bsmi021/mcp-npm_docs-server): Fetches and caches metadata and documentation for NPM packages using the npms.io API, enhancing performance with local caching.
+- [hogyzen12/lernean-lens](https://github.com/hogyzen12/lernean-lens): Facilitates collaborative reverse engineering of Solana binaries using Ghidra with MCP and eBPF extensions, integrating with Claude Desktop.
+- [Dishant27/kaggle-MCP](https://github.com/Dishant27/kaggle-MCP): Facilitates seamless interaction with Kaggle competitions through AI assistants like Claude, enabling operations such as listing competitions, downloading files, and submitting predictions.
+- [giptilabs/mcp-stock-analysis](https://github.com/giptilabs/mcp-stock-analysis): Access real-time and historical Indian stock data via an MCP server using the Yahoo Finance API, enabling integration with local LLMs.
+- [harshfolio/mcp-server-ga4](https://github.com/harshfolio/mcp-server-ga4): Facilitates LLMs in accessing and analyzing Google Analytics 4 data through a secure MCP server interface.
+- [jincai/rootdata-mcp-server](https://github.com/jincai/rootdata-mcp-server): Facilitates direct access to cryptocurrency and blockchain project data through RootData API integration.
+- [DmitryKorzhov/improvado-mcp](https://github.com/DmitryKorzhov/improvado-mcp): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [djm81/chroma_mcp_server](https://github.com/djm81/chroma_mcp_server): Facilitates seamless AI-assisted development by integrating ChromaDB with MCP for persistent, searchable working memory.
+- [samkim/spicedb-mcp-server](https://github.com/samkim/spicedb-mcp-server): Facilitates natural language interaction with SpiceDB for permission management through LLMs like Claude.
+- [UsamaK98/python-notebook-mcp](https://github.com/UsamaK98/python-notebook-mcp): Facilitates AI-driven interactions with Jupyter notebooks, allowing creation, editing, and viewing through the Model Context Protocol.
+- [SepineTam/stata-mcp](https://github.com/SepineTam/stata-mcp): Enhance your regression analysis in Stata with LLM integration for macOS, soon expanding to Windows.
+- [anoncam/linear-mcp](https://github.com/anoncam/linear-mcp): A Linear MCP server enabling AI assistants to interact with Linear's project management resources and tools.
+- [andriichumak/gooddata-mcp](https://github.com/andriichumak/gooddata-mcp): Facilitates semantic search, visualization generation, and email report scheduling for GoodData using MCP.
+- [Eliovp-BV/mcp-vllm-benchmark](https://github.com/Eliovp-BV/mcp-vllm-benchmark): A proof-of-concept MCP server for interactively benchmarking vLLM models.
+- [kbsooo/jupythunder](https://github.com/kbsooo/jupythunder): Middleware facilitating natural language interactions between Claude LLM and Jupyter Notebook for seamless data analysis workflows.
+- [mpizza/mcp_mlb_statsapi](https://github.com/mpizza/mcp_mlb_statsapi): Efficiently access and process MLB data using a Multi-Channel Pipeline server integrated with the MLB Stats API.
+- [automators-com/datamaker-mcp](https://github.com/automators-com/datamaker-mcp): Facilitates seamless integration between DataMaker and MCP for synthetic data generation and management.
+- [marcoeg/mcp-bauplan](https://github.com/marcoeg/mcp-bauplan): Facilitates interaction with Bauplan data tables using SQL queries and supports both SSE and STDIO transports.
+- [damonxue/mcp-ossinsight](https://github.com/damonxue/mcp-ossinsight): Provides comprehensive data analysis and insights into GitHub repositories, developers, and organizations using OSSInsight.io.
+- [jake459ai/tableau_remapper](https://github.com/jake459ai/tableau_remapper): Facilitates dimension remapping in Tableau workbooks using CSV mappings, enhancing data organization and clarity.
+- [eno-graph/mcp-server-google-analytics](https://github.com/eno-graph/mcp-server-google-analytics): Facilitates access to Google Analytics Data API through a Model Context Protocol interface, enabling report generation and real-time data retrieval.
+- [yueliao11/FlowMind](https://github.com/yueliao11/FlowMind): FlowMind provides a comprehensive toolkit for managing Flow blockchain assets, enabling users to query account information, transaction history, and the latest block details.
+- [atamaplus-public/mcp-bigquery](https://github.com/atamaplus-public/mcp-bigquery): Facilitates AI assistants in executing SQL queries and accessing BigQuery data securely through natural language commands.
+- [gotalab/bigquery-analysis-mcp-server](https://github.com/gotalab/bigquery-analysis-mcp-server): Facilitates secure and validated SQL query execution against Google BigQuery, ensuring data integrity and efficient processing.
+- [Mistizz/mcp-JapaneseTextAnalyzer](https://github.com/Mistizz/mcp-JapaneseTextAnalyzer): Analyze Japanese text using morphological analysis to evaluate linguistic features and provide feedback for text generation.
+- [JotaDeRodriguez/Bonsai_mcp](https://github.com/JotaDeRodriguez/Bonsai_mcp): Bonsai-mcp enhances Blender's capabilities by integrating IFC model support through IfcOpenShell, enabling seamless execution of IFC-specific commands and Python code within Blender.
+- [hanlulong/stata-mcp](https://github.com/hanlulong/stata-mcp): Enhance Stata integration in VS Code and Cursor IDE with real-time command execution and AI assistance via the Model Context Protocol.
+- [wrediam/better-qdrant-mcp-server](https://github.com/wrediam/better-qdrant-mcp-server): Enhances Qdrant vector database capabilities with tools for managing collections, adding documents, and performing semantic searches.
+- [ckz/edu_data_mcp_server](https://github.com/ckz/edu_data_mcp_server): Facilitates access to the Urban Institute's Education Data API, enabling seamless integration with Claude for retrieving and analyzing educational data.
+- [MananShahTR/azure-log-analytics-mcp](https://github.com/MananShahTR/azure-log-analytics-mcp): Facilitates natural language querying of Azure Log Analytics by converting queries into KQL and executing them.
+- [Headcrab/census_mcp](https://github.com/Headcrab/census_mcp): Facilitates interaction with the US Census API, offering tools for data retrieval and custom queries via the MCP protocol.
+- [riyanshibohra/google-sheets-mcp](https://github.com/riyanshibohra/google-sheets-mcp): Facilitates seamless manipulation and analysis of Google Sheets data through a Model Context Protocol server with Claude Desktop integration.
+- [tylerstoltz/mcp-odbc](https://github.com/tylerstoltz/mcp-odbc): Facilitates secure and read-only database queries via ODBC connections for LLM tools like Claude Desktop.
+- [JavOrraca/tidymodels-mcp](https://github.com/JavOrraca/tidymodels-mcp): Enhances agentic workflows by providing comprehensive tools and resources for interacting with the tidymodels ecosystem in R.
+- [csonigo/datagouv-mcp-server](https://github.com/csonigo/datagouv-mcp-server): Facilitates seamless interaction with Data.gouv.fr APIs to retrieve comprehensive company information in France.
+- [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator): Facilitates precise numerical calculations for LLMs through a Model Context Protocol server.
+- [amaboh/google-sheets-mcp-server](https://github.com/amaboh/google-sheets-mcp-server): Facilitates seamless interaction between Claude Desktop and Google Sheets for efficient data management and manipulation.
+- [jkf87/hwp-mcp](https://github.com/jkf87/hwp-mcp): Facilitates AI-driven automation of HWP document creation and editing through a Model Context Protocol server.
+- [ZedMoster/revit-mcp](https://github.com/ZedMoster/revit-mcp): Facilitates seamless integration and automation between AI assistants and Autodesk Revit using the Model Context Protocol.
+- [MaartenSmeets/mcp-server-fetch](https://github.com/MaartenSmeets/mcp-server-fetch): Fetches and processes web content using browser automation and OCR, enabling LLMs to access complex web pages.
+- [zhiwei5576/excel-mcp-server](https://github.com/zhiwei5576/excel-mcp-server): Facilitates Excel file operations including reading, writing, and structure analysis through an MCP-based microservice.
+- [bugstan/MCPxHub](https://github.com/bugstan/MCPxHub): Middleware that seamlessly forwards MCP requests from clients to local IDE extensions, supporting automatic IDE endpoint discovery and tool call forwarding.
+- [sndani/mcp-localhost-server-weaviate](https://github.com/sndani/mcp-localhost-server-weaviate): Facilitates seamless integration with Weaviate for enhanced data management and retrieval capabilities.
+- [ml-alpha/mla-mcp](https://github.com/ml-alpha/mla-mcp): ML Alpha MCP offers a robust API for accessing and analyzing financial market data, providing tools for stock analysis, investment insights, and SEC filing access.
+- [fusedio/fused-mcp](https://github.com/fusedio/fused-mcp): Facilitates seamless integration of MCP servers with Claude's Desktop App for executing Python code via Fused User Defined Functions.
+- [fish0710/excel-mcp](https://github.com/fish0710/excel-mcp): Facilitates Excel file manipulation with advanced features like charts and pivot tables without needing Microsoft Excel.
+- [takuya0206/bigquery-mcp-server](https://github.com/takuya0206/bigquery-mcp-server): Facilitates LLMs in executing SQL queries and understanding dataset structures on Google BigQuery.
+- [MammothGrowth/dbt-cli-mcp](https://github.com/MammothGrowth/dbt-cli-mcp): Facilitates AI-driven interactions with dbt projects via a command-line interface, supporting major dbt operations through MCP tools.
+- [jonemo/openpyxl-mcp-server](https://github.com/jonemo/openpyxl-mcp-server): Facilitates data retrieval from Excel files via the OpenPyXl library, enabling seamless integration with MCP clients like Claude.
+- [ahodroj/mcp-iceberg-service](https://github.com/ahodroj/mcp-iceberg-service): Facilitates SQL-based interaction with Apache Iceberg catalogs via Claude, enabling data lake discovery and metadata search.
+- [JcXGTcW/wonderful_analysis_handler](https://github.com/JcXGTcW/wonderful_analysis_handler): Facilitates data analysis and visualization through an MCP server integrated with Claude, supporting CSV data manipulation and advanced statistical operations.
+- [jamie7893/statsource-mcp](https://github.com/jamie7893/statsource-mcp): Empower LLMs with statistical analysis and ML prediction capabilities using diverse data sources.
+- [rashidazarang/airtable-mcp](https://github.com/rashidazarang/airtable-mcp): Seamlessly integrate AI tools with Airtable for efficient data management using a natural language interface.
+- [bonninr/freecad_mcp](https://github.com/bonninr/freecad_mcp): Facilitates seamless interaction between FreeCAD and Claude AI through the Model Control Protocol, enabling AI-assisted 3D CAD design.
+- [c-cf/imf-data-mcp](https://github.com/c-cf/imf-data-mcp): Integrates with the IMF data API to facilitate structured querying and processing of economic datasets.
+- [dstotijn/mcp-cbs-cijfers-open-data](https://github.com/dstotijn/mcp-cbs-cijfers-open-data): Facilitates AI interaction with CBS Open Data through a Model Context Protocol server, enabling advanced querying and data retrieval.
+- [ushishu/sheet-mcp](https://github.com/ushishu/sheet-mcp): Facilitates seamless interaction with Google Sheets through Claude chat, enabling spreadsheet management and data manipulation.
+- [algonacci/mcp-excel](https://github.com/algonacci/mcp-excel): Facilitates reading Excel files through a client-server architecture.
+- [lee926427/MCP-Server](https://github.com/lee926427/MCP-Server): Facilitates querying and adding student data through a Node.js and Docker-based MCP server.
+- [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server): Enables AI assistants to query and analyze Azure Data Explorer databases via standardized interfaces.
+- [takezo5096/gspreadsheet_mcp](https://github.com/takezo5096/gspreadsheet_mcp): Facilitates the retrieval of data from specified Google Spreadsheets using MCP protocol, leveraging Google Cloud Platform services.
+- [suthio/redash-mcp](https://github.com/suthio/redash-mcp): Facilitates integration of Redash with AI assistants by managing and executing queries and dashboards via the Redash API.
+- [PostHog/posthog-mcp](https://github.com/PostHog/posthog-mcp): Facilitates interaction with PostHog by enabling project management and annotation creation through Claude Desktop.
+- [JiantaoFu/AppInsightMCP](https://github.com/JiantaoFu/AppInsightMCP): Provides market intelligence by analyzing data from the Apple App Store and Google Play Store, offering insights on apps, trends, competitors, and user feedback.
+- [mackenly/mcp-fathom-analytics](https://github.com/mackenly/mcp-fathom-analytics): Access Fathom Analytics data through an AI assistant using an unofficial MCP server implementation.
+- [l3wi/mcp-lighthouse](https://github.com/l3wi/mcp-lighthouse): Enables Claude to interact with and analyze your Lighthouse crypto portfolio data through secure authentication and natural language queries.
+- [flying3615/claude-stock-mcp](https://github.com/flying3615/claude-stock-mcp): A comprehensive MCP server for Claude Desktop offering advanced stock analysis tools, including market scanning and trend detection, with integration for Yahoo Finance and FMP API.
+- [explorium-ai/mcp-explorium](https://github.com/explorium-ai/mcp-explorium): Facilitates interaction with the Explorium API through an MCP server setup.
+- [spacemeowx2/cargo-doc-mcp](https://github.com/spacemeowx2/cargo-doc-mcp): Facilitates management of Rust documentation using cargo doc commands, offering tools to check, build, and search documentation locally.
+- [ttjslbz001/akshare_mcp_server](https://github.com/ttjslbz001/akshare_mcp_server): Provides financial data analysis capabilities using the AKShare library, accessible via the MCP protocol.
+- [mattsilv/silv-learn](https://github.com/mattsilv/silv-learn): Repository classified as category 13
+- [imlewc/metabase-server](https://github.com/imlewc/metabase-server): Facilitates AI-driven interaction with Metabase by providing a TypeScript-based MCP server for querying and managing dashboards, questions, and databases.
+- [acryldata/mcp-server-datahub](https://github.com/acryldata/mcp-server-datahub): Facilitates AI-driven metadata and context queries within DataHub ecosystems using the MCP protocol.
+- [brandon-butterwick/MRP_Calculation](https://github.com/brandon-butterwick/MRP_Calculation): Facilitates Material Requirements Planning calculations by determining order needs and delivery schedules using the Model Context Protocol.
+- [datalayer/earthdata-mcp-server](https://github.com/datalayer/earthdata-mcp-server): Facilitates efficient dataset discovery and retrieval from NASA Earth Data for geospatial analysis.
+- [melaodoidao/datagov-mcp-server](https://github.com/melaodoidao/datagov-mcp-server): Access and interact with government datasets from Data.gov using this MCP server.
+- [WilliamCloudQi/matlab-mcp-server](https://github.com/WilliamCloudQi/matlab-mcp-server): Integrates MATLAB with AI to execute code, generate scripts from natural language, and access documentation directly through AI assistants.
+- [lishenxydlgzs/aws-athena-mcp](https://github.com/lishenxydlgzs/aws-athena-mcp): Facilitates AI-driven execution of SQL queries on AWS Athena databases, enabling seamless data retrieval and management.
+- [sammcj/mcp-data-extractor](https://github.com/sammcj/mcp-data-extractor): Facilitates the migration of embedded data and SVG components from TypeScript/JavaScript code into structured JSON and SVG files, preserving key structures and attributes.
+- [GongRzhe/Quickchart-MCP-Server](https://github.com/GongRzhe/Quickchart-MCP-Server): Generate diverse chart types using QuickChart.io through a TypeScript-based MCP server.
+- [TheNhatAT/article-analyzer](https://github.com/TheNhatAT/article-analyzer): Fetches and parses article content from URLs to provide context for LLM models via Cline.
+- [kfischer-okarin/mcp-server-performance-review-data](https://github.com/kfischer-okarin/mcp-server-performance-review-data): Facilitates performance review data processing through an MCP server with easy command execution using 'just'.
+- [nguyenvanduocit/rag-kit](https://github.com/nguyenvanduocit/rag-kit): Facilitates AI model interaction with vector databases for Retrieval-Augmented Generation through a standardized MCP interface.
+- [CartographAI/mcp-server-codegraph](https://github.com/CartographAI/mcp-server-codegraph): Facilitates the generation and querying of graph representations in codebases, supporting multiple programming languages.
+- [FocusSearch/focus_mcp_sql](https://github.com/FocusSearch/focus_mcp_sql): FocusSearch's MCP server transforms natural language into SQL queries with enhanced accuracy and speed through a two-step keyword parsing approach.
+- [FocusSearch/focus_mcp_data](https://github.com/FocusSearch/focus_mcp_data): Facilitates natural language data queries on DataFocus through an MCP server, enabling seamless multi-round conversations for data retrieval.
+- [negokaz/excel-mcp-server](https://github.com/negokaz/excel-mcp-server): Facilitates reading and writing of data and formulas in MS Excel files via MCP protocol.
+- [ahmad2x4/mcp-server-seq](https://github.com/ahmad2x4/mcp-server-seq): Facilitates interaction with Seq's logging and monitoring system through comprehensive API access using the Model Context Protocol.
+- [datalayer/jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server): Facilitates interaction with Jupyter notebooks through a Model Context Protocol server, enabling seamless integration with JupyterLab environments.
+- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server): Facilitates Excel file manipulation with advanced features like charts and pivot tables, without needing Microsoft Excel.
+- [ArchimedesCrypto/excel-reader-mcp](https://github.com/ArchimedesCrypto/excel-reader-mcp): Efficiently read and paginate large Excel files using a Model Context Protocol server built with SheetJS and TypeScript.
+- [inkeep/inkeep-analytics-typescript](https://github.com/inkeep/inkeep-analytics-typescript): A developer-friendly TypeScript SDK that provides an MCP server for leveraging Inkeep Analytics API, enabling AI applications to manage conversations, feedback, events, and queries.
+- [walker-tx/esv-sdk-ts](https://github.com/walker-tx/esv-sdk-ts): A TypeScript SDK that serves as an MCP server, providing AI applications access to Esv.org API methods.
+- [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp): Dappier MCP server empowers AI with real-time access to proprietary data, including web search, news, and financial market insights, enhancing AI's expertise across various domains.
+- [neuromechanist/matlab-mcp-tools](https://github.com/neuromechanist/matlab-mcp-tools): Facilitates interactive MATLAB development by executing scripts and sections while maintaining workspace context.
+- [virtuarian/excel-server](https://github.com/virtuarian/excel-server): Facilitates manipulation of local Excel files through MCP tools, supporting operations like reading, writing, and creating sheets.
+- [ihrpr/mcp-server-jupyter](https://github.com/ihrpr/mcp-server-jupyter): Facilitates programmatic management and interaction with Jupyter notebooks, offering tools for reading, editing, and executing notebook cells.
+- [bmorphism/anti-bullshit-mcp-server](https://github.com/bmorphism/anti-bullshit-mcp-server): Analyzes claims, validates sources, and detects manipulation using diverse epistemological frameworks.
+- [xraywu/mcp-pdf-extraction-server](https://github.com/xraywu/mcp-pdf-extraction-server): Facilitates content extraction from PDF files using a specialized MCP server with support for OCR and page-specific extraction.
+- [crazyrabbitLTC/mcp-expert-server](https://github.com/crazyrabbitLTC/mcp-expert-server): Facilitates intelligent query generation and documentation assistance using Claude AI by analyzing API documentation.
+- [anshumax/world_bank_mcp_server](https://github.com/anshumax/world_bank_mcp_server): Facilitates AI-driven analysis of World Bank open data by listing and evaluating country-specific indicators.
+- [privetin/dataset-viewer](https://github.com/privetin/dataset-viewer): Interact with Hugging Face datasets through browsing, filtering, and statistical analysis capabilities.
+- [stephen37/mcp-server-milvus](https://github.com/stephen37/mcp-server-milvus): Facilitates seamless integration of LLM applications with Milvus vector database for advanced search and data operations.
+- [honeycombio/honeycomb-mcp](https://github.com/honeycombio/honeycomb-mcp): Facilitates AI-driven analysis and querying of Honeycomb observability data for enterprise users, with support for multiple environments and optimized performance through caching.
+- [SecretiveShell/MCP-wolfram-alpha](https://github.com/SecretiveShell/MCP-wolfram-alpha): Facilitates computational intelligence queries by connecting chat interfaces to the Wolfram Alpha API.
+- [dkmaker/mcp-tavily-server](https://github.com/dkmaker/mcp-tavily-server): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
+- [dkmaker/mcp-perplexity-server](https://github.com/dkmaker/mcp-perplexity-server): A TypeScript-based server implementing a notes system with resources, tools, and prompts for generating summaries.
+- [qpd-v/mcp-wordcounter](https://github.com/qpd-v/mcp-wordcounter): Facilitates text document analysis by providing word and character counting tools for LLMs.
+- [Sunwood-ai-labs/source-sage-mcp-server](https://github.com/Sunwood-ai-labs/source-sage-mcp-server): SourceSage MCP visualizes project directory structures in markdown format with customizable exclusion patterns and automatic file documentation.
+- [saury1120/pdf-mcp](https://github.com/saury1120/pdf-mcp): A robust service for comprehensive PDF document analysis, featuring multilingual text extraction, image processing, table recognition, and intelligent classification.
+- [JoseRoberts87/data-parser](https://github.com/JoseRoberts87/data-parser): A server for loading, analyzing, and visualizing CSV data through natural language queries and visualizations.
+- [isaacwasserman/mcp-vegalite-server](https://github.com/isaacwasserman/mcp-vegalite-server): Facilitates data visualization through Vega-Lite syntax, enabling LLMs to generate visual representations of data.
+- [ZZZHDW/mcp-server-kusto](https://github.com/ZZZHDW/mcp-server-kusto): Facilitates seamless interaction with Azure Data Explorer clusters, offering tools for table management and query execution.
+- [jherr/datastax-mcp-monsters](https://github.com/jherr/datastax-mcp-monsters): A TypeScript-based MCP server for managing and summarizing text notes with integration to Datastax Astra DB.
+- [mdagost/mcp-cps-data](https://github.com/mdagost/mcp-cps-data): Facilitates querying local databases for detailed information on Chicago Public Schools, including school neighborhoods and websites.
+- [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration): A versatile MCP server for interactive data exploration, transforming complex datasets into actionable insights.
+- [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server): Facilitates secure, read-only interactions between Large Language Models and BigQuery datasets, enabling natural language queries and data analysis.
+- [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery): Facilitates LLMs in accessing and querying BigQuery databases by providing schema inspection and SQL execution capabilities.
+- [da1y/mcp-server-elasticsearch](https://github.com/da1y/mcp-server-elasticsearch): Facilitates LLM-driven management and querying of Elasticsearch clusters through a Model Context Protocol server.
+- [ruchernchong/mcp-server-google-analytics](https://github.com/ruchernchong/mcp-server-google-analytics): Facilitates the retrieval and analysis of Google Analytics 4 data through a Model Context Protocol server, enhancing LLM capabilities.
+

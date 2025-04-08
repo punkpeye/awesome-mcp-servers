@@ -1,0 +1,164 @@
+## 🖼️ Multimedia Processing
+
+Servers focused on generating or manipulating images, processing video, audio transcription, text-to-speech, or document conversion.
+
+- [GoatWang/YTTranscipterMultilingualMCP](https://github.com/GoatWang/YTTranscipterMultilingualMCP): Transcribe YouTube videos into multiple languages using a multilingual MCP server.
+- [tubone24/midi-mcp-server](https://github.com/tubone24/midi-mcp-server): Enables AI models to generate MIDI files from text-based music data, facilitating programmatic musical composition through a standardized interface.
+- [grafikogr/freepik-mcp-server](https://github.com/grafikogr/freepik-mcp-server): Generates images from text descriptions using Freepik's Flux AI service, integrated with Claude Desktop.
+- [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp): Facilitates interaction with the Aseprite API through an MCP server, enabling automated graphic manipulations.
+- [Henry-The-Yang-101/spotify_mcp](https://github.com/Henry-The-Yang-101/spotify_mcp): Connects to the Spotify Web API to provide playback and search functionalities to AI clients via MCP.
+- [fl0w1nd/grok2-image-mcp-server](https://github.com/fl0w1nd/grok2-image-mcp-server): Facilitates image generation using the Grok-2 model via the MCP protocol for chat assistants.
+- [x007xyz/image-process-mcp-server](https://github.com/x007xyz/image-process-mcp-server): Facilitates image manipulation tasks such as resizing, format conversion, cropping, and rotation using the Sharp library.
+- [demon24ru/video-transcribe-mcp](https://github.com/demon24ru/video-transcribe-mcp): Integrates with optivus to provide video transcription capabilities for LLMs, supporting platforms like YouTube, Facebook, and Tiktok.
+- [demon24ru/fish-speech-mcp](https://github.com/demon24ru/fish-speech-mcp): Facilitates text-to-speech synthesis for LLMs with FishSpeech integration.
+- [R-lz/mcp-video-digest](https://github.com/R-lz/mcp-video-digest): Facilitates video transcription and summarization from platforms like YouTube and Bilibili using multiple transcription services.
+- [longbowzz/svg2png_mcp](https://github.com/longbowzz/svg2png_mcp): Facilitates SVG to PNG conversion using CairoSVG or Inkscape, integrated with MCP protocol for seamless client interaction.
+- [MCPJam/mcpjam-spotify](https://github.com/MCPJam/mcpjam-spotify): Facilitates seamless integration with Spotify through an MCP server developed by the MCPJam team.
+- [madpharmy/dalle](https://github.com/madpharmy/dalle): Facilitates image generation, editing, and variation creation using OpenAI's DALL-E API.
+- [richbai90/spotify-mcp](https://github.com/richbai90/spotify-mcp): Integrates with Spotify API to manage and create playlists through Claude.
+- [wilsonchenghy/ShaderToy-MCP](https://github.com/wilsonchenghy/ShaderToy-MCP): Connects LLMs with ShaderToy to generate complex GLSL shaders by leveraging the Model Context Protocol.
+- [wheattoast11/mcp-video-gen](https://github.com/wheattoast11/mcp-video-gen): Facilitates video and image generation using RunwayML and Luma AI APIs, with capabilities to enhance prompts via OpenRouter LLMs.
+- [cpecf/mcp-pdf](https://github.com/cpecf/mcp-pdf): Facilitates the extraction of content from PDF files using a dedicated MCP server with support for OCR and page-specific extraction.
+- [IA-Entertainment-git-organization/youtube-video-summarize](https://github.com/IA-Entertainment-git-organization/youtube-video-summarize): Summarizes YouTube videos by extracting and analyzing transcripts using various algorithms, including OpenAI's API for high-quality summaries.
+- [MaikoCode/YourAIPhotographer-MCP](https://github.com/MaikoCode/YourAIPhotographer-MCP): Enables MCP clients to generate custom images using YourAIPhotographer's trained models.
+- [jlevy/deep-transcribe](https://github.com/jlevy/deep-transcribe): Facilitates deep transcription of video and audio content with speaker identification and annotations, operable as an MCP server.
+- [vidau-ai/asr_mcp_server](https://github.com/vidau-ai/asr_mcp_server): Provides ASR capabilities using the whisper engine and exposes TTS functionality for seamless speech synthesis integration.
+- [redblock-ai/imgflip-mcp](https://github.com/redblock-ai/imgflip-mcp): Facilitates meme creation and sharing for AI assistants using the Imgflip API.
+- [MathFrenchToast/mcp-draw](https://github.com/MathFrenchToast/mcp-draw): Facilitates interaction between a drawing application and an MCP server using a REST interface for canvas operations.
+- [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server): Facilitates the execution of Manim animation scripts and returns the generated video through an MCP server interface.
+- [ddhar1/lastfm_mcp](https://github.com/ddhar1/lastfm_mcp): Facilitates interaction with Last.fm data, enabling Claude to retrieve user-specific and global top tracks.
+- [katha-begin/houdini-mcp](https://github.com/katha-begin/houdini-mcp): Integrates Houdini with Claude AI for interactive 3D modeling and scene manipulation using the Model Context Protocol.
+- [ScuffedEpoch/TINS-MCP](https://github.com/ScuffedEpoch/TINS-MCP): A Model Context Protocol server that generates software applications from README.md files using the Zero Source specification, enabling code generation on demand through LLMs.
+- [kaichen/mcp-tts-server](https://github.com/kaichen/mcp-tts-server): A Text-to-Speech server leveraging the Groq API for generating lifelike audio via the Model Context Protocol.
+- [tkoba1974/mcp-kroki](https://github.com/tkoba1974/mcp-kroki): Transforms various diagram formats into images using Kroki.io, supporting formats like Mermaid and PlantUML.
+- [Nazruden/mcp-openvision](https://github.com/Nazruden/mcp-openvision): Leverage OpenRouter vision models to enable AI-driven image analysis within the MCP ecosystem.
+- [thuhoai27/mcp-image-reader](https://github.com/thuhoai27/mcp-image-reader): ImageReader converts local image files to Base64-encoded data for AI model analysis.
+- [13rac1/videocapture-mcp](https://github.com/13rac1/videocapture-mcp): Enables AI assistants to control webcams and capture images using OpenCV.
+- [infinitimeless/radiofrance-podcast-explorer-mcp](https://github.com/infinitimeless/radiofrance-podcast-explorer-mcp): Facilitates AI-driven exploration and access to Radio France's podcasts and audio content through a Model Control Protocol server.
+- [HappyAny/latex-mathml-mcp-server](https://github.com/HappyAny/latex-mathml-mcp-server): Converts LaTeX mathematical expressions to MathML format using a lightweight MCP server implementation.
+- [frankdeno/flux-image-generator-mcp](https://github.com/frankdeno/flux-image-generator-mcp): Generate images from text prompts using the FLUX model with customizable settings and batch processing capabilities.
+- [GaoCan702/mcp-gererate-image](https://github.com/GaoCan702/mcp-gererate-image): Facilitates AI-driven image generation requests from Cursor using Cloudflare's Flux AI model, with local or temporary storage options.
+- [video-creator/ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp): Facilitates local video search, editing, and playback using FFmpeg commands through an MCP server interface.
+- [sanxfxteam/gemini-mcp-server](https://github.com/sanxfxteam/gemini-mcp-server): Facilitates image generation using Google's Gemini 2 API through an MCP server interface.
+- [champierre/image-mcp-server](https://github.com/champierre/image-mcp-server): Analyzes image content from URLs or local paths using the GPT-4o-mini model, providing high-precision recognition and description.
+- [Ichigo3766/image-gen-mcp](https://github.com/Ichigo3766/image-gen-mcp): Facilitates text-to-image generation using Stable Diffusion WebUI API, enabling creative visual outputs from textual prompts.
+- [Ichigo3766/audio-transcriber-mcp](https://github.com/Ichigo3766/audio-transcriber-mcp): Facilitates audio transcription using OpenAI's Whisper API, enabling seamless integration with MCP environments.
+- [rakeshgangwar/tmdb-mcp-server](https://github.com/rakeshgangwar/tmdb-mcp-server): Facilitates AI-driven movie searches and information retrieval via The Movie Database API using the MCP interface.
+- [rocksun/media-mcp-server](https://github.com/rocksun/media-mcp-server): Facilitates multimedia metadata management through a RESTful API using the FastMCP framework.
+- [yasar38/BLENDER-MCP-CURSOR-](https://github.com/yasar38/BLENDER-MCP-CURSOR-): Facilitates AI-driven 3D modeling in Blender through seamless integration with Cursor using the Model Context Protocol.
+- [sinco-lab/mcp-youtube-transcript](https://github.com/sinco-lab/mcp-youtube-transcript): Facilitates the extraction and processing of YouTube video transcripts for content analysis.
+- [qhdrl12/mcp-server-gemini-image-generator](https://github.com/qhdrl12/mcp-server-gemini-image-generator): Facilitates AI-driven image creation and transformation using Google's Gemini models, with features like intelligent filename generation and strict text exclusion.
+- [Samge0/mcp-qqmusic-test-server](https://github.com/Samge0/mcp-qqmusic-test-server): Facilitates keyword-based music track searches on QQ Music using the Modular Control Protocol.
+- [blacktop/mcp-say](https://github.com/blacktop/mcp-say): Facilitates text-to-speech capabilities using macOS 'say' command and ElevenLabs API for integration with MCP protocol-based applications.
+- [tijs/py-sound-mcp](https://github.com/tijs/py-sound-mcp): Enhances coding environments with audio feedback for events using the Model Context Protocol, compatible with Cursor and other IDEs.
+- [Johnnyhtw/audio2txt_mcp](https://github.com/Johnnyhtw/audio2txt_mcp): Transforms meeting audio recordings into text using Whisper, integrating with CLINE for AI-generated summaries.
+- [abhishekjairath/sonic-pi-mcp](https://github.com/abhishekjairath/sonic-pi-mcp): Facilitates AI-driven musical creation by enabling AI assistants to control Sonic Pi through OSC messages.
+- [crazyrabbitLTC/mcp-vibecoder](https://github.com/crazyrabbitLTC/mcp-vibecoder): Facilitates structured LLM-based coding workflows with feature clarification, task tracking, and document management.
+- [ejfox/vulpes-spotify-mcp](https://github.com/ejfox/vulpes-spotify-mcp): Facilitates AI assistants in interacting with Spotify for track search and playback.
+- [surferdot/mcp-svg-converter](https://github.com/surferdot/mcp-svg-converter): Transforms SVG code into high-quality PNG and JPG images with customizable options, ensuring secure file handling and integration with Claude Desktop.
+- [vinayak-mehta/mcp-sonic-pi](https://github.com/vinayak-mehta/mcp-sonic-pi): Connects MCP clients with Sonic Pi to create music using English commands.
+- [SlideSpeak/slidespeak-mcp](https://github.com/SlideSpeak/slidespeak-mcp): Facilitates the creation of presentations through the Slidespeak API using an MCP server.
+- [IA-Programming/mcp-images](https://github.com/IA-Programming/mcp-images): Enterprise-grade image processing server offering tools for fetching and processing images from various sources, ideal for AI applications and data pipelines.
+- [royshil/obs-mcp](https://github.com/royshil/obs-mcp): Control OBS Studio through an MCP server using the OBS WebSocket protocol for scene management, source control, and streaming operations.
+- [bjkemp/mcp-midi](https://github.com/bjkemp/mcp-midi): Facilitates MIDI device interaction through natural language commands, enabling control over synthesizers, note playback, and instrument changes.
+- [BigUncle/Fast-Whisper-MCP-Server](https://github.com/BigUncle/Fast-Whisper-MCP-Server): High-performance speech recognition server leveraging Faster Whisper for efficient audio transcription.
+- [flipsai/davinci-resolve-mcp](https://github.com/flipsai/davinci-resolve-mcp): Facilitates AI-driven video editing and color grading in DaVinci Resolve through Claude AI integration using the Model Context Protocol.
+- [BearNetwork-BRNKC/SketchUp-MCP](https://github.com/BearNetwork-BRNKC/SketchUp-MCP): Integrates SketchUp with Claude AI for interactive 3D modeling and scene manipulation via a model context protocol.
+- [akidry/lmms-mcp-integration](https://github.com/akidry/lmms-mcp-integration): Facilitates seamless interaction between LMMS and Claude AI for enhanced music production through the Model Context Protocol.
+- [magarcia/mcp-server-giphy](https://github.com/magarcia/mcp-server-giphy): Facilitates AI-driven GIF searches and retrievals from Giphy with comprehensive metadata and content filtering.
+- [zym9863/spoonacular-server](https://github.com/zym9863/spoonacular-server): A TypeScript-based server offering access to Spoonacular's recipe API through MCP, enabling keyword searches and detailed recipe retrieval.
+- [JavaProgrammerLB/unsplash-mcp-server](https://github.com/JavaProgrammerLB/unsplash-mcp-server): Facilitates image searches on Unsplash using a Java-based MCP server.
+- [tokida/svg-converter-mcp](https://github.com/tokida/svg-converter-mcp): A lightweight server for converting SVG images to PNG and JPEG formats, designed for efficient resource usage and integration with other services.
+- [Tooflex/davinci-resolve-mcp](https://github.com/Tooflex/davinci-resolve-mcp): Facilitates AI-driven control over DaVinci Resolve Studio for advanced editing and media management.
+- [obre10off/spotify-mcp](https://github.com/obre10off/spotify-mcp): Control Spotify playback using natural language commands through an MCP client.
+- [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp): Connects Ableton Live to Claude AI for interactive music production and session control via the Model Context Protocol.
+- [marcelmarais/spotify-mcp-server](https://github.com/marcelmarais/spotify-mcp-server): A lightweight server enabling AI assistants to control Spotify playback and manage playlists.
+- [rocksun/gemini-image-mcp-server](https://github.com/rocksun/gemini-image-mcp-server): Provides AI-driven image generation and editing services using the MCP protocol with Google Gemini technology.
+- [okooo5km/unsplash-mcp-server-swift](https://github.com/okooo5km/unsplash-mcp-server-swift): Swift-based server enabling LLMs to search and retrieve photos from Unsplash with advanced filtering options.
+- [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp): Connects AI coding assistants to DaVinci Resolve, enabling natural language control and querying.
+- [baryhuang/mcp-threejs](https://github.com/baryhuang/mcp-threejs): Facilitates AI-driven searches for downloadable 3D models compatible with Three.js, streamlining the development of 3D web applications.
+- [tahooki/unreal-blender-mcp](https://github.com/tahooki/unreal-blender-mcp): Facilitates AI-driven control of Blender and Unreal Engine through a unified MCP server, enabling seamless integration and interaction with AI agents like Claude and ChatGPT.
+- [Garoth/dalle-mcp](https://github.com/Garoth/dalle-mcp): Facilitates image generation and editing using OpenAI's DALL-E API through an MCP server interface.
+- [mfleurival/FFmpeg](https://github.com/mfleurival/FFmpeg): Facilitates video and audio processing through FFmpeg with capabilities like video trimming, frame extraction, and audio segmentation.
+- [Rupeebw/mcp-image-reader](https://github.com/Rupeebw/mcp-image-reader): A TypeScript-based MCP server that facilitates the creation, management, and summarization of text notes using URIs and metadata.
+- [ShubhanshuSondhiya/MCP-TMDB](https://github.com/ShubhanshuSondhiya/MCP-TMDB): Connects AI assistants with TMDB API for movie data interaction, enabling search, retrieval, and content generation.
+- [capoomgit/houdini-mcp](https://github.com/capoomgit/houdini-mcp): Facilitates control of SideFX Houdini from Claude using the Model Context Protocol, featuring a Houdini plugin and an MCP bridge script.
+- [edcity-mlearning/teaapp-mcp-api](https://github.com/edcity-mlearning/teaapp-mcp-api): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
+- [Garblesnarff/gemini-mcp-server](https://github.com/Garblesnarff/gemini-mcp-server): Facilitates image generation on Claude Desktop using Google's Gemini AI models.
+- [eetumartola/houdini-mcp](https://github.com/eetumartola/houdini-mcp): Facilitates seamless interaction between Claude AI and Houdini for enhanced 3D modeling and scene manipulation.
+- [elliotxx/favicon-mcp-server](https://github.com/elliotxx/favicon-mcp-server): Transforms SVG images into ICO and PNG favicon formats for web applications, supporting seamless integration with LLM-powered tools.
+- [Ut13158/blender-mcp](https://github.com/Ut13158/blender-mcp): BlenderMCP enables seamless interaction between Blender and Claude AI for enhanced 3D modeling and scene manipulation through the Model Context Protocol.
+- [hugohow/mcp-music-analysis](https://github.com/hugohow/mcp-music-analysis): Leverage librosa and Whisper to analyze music audio through an MCP server, integrating seamlessly with LLMs for enhanced audio insights.
+- [clsung/mcp-imdb](https://github.com/clsung/mcp-imdb): Facilitates access to IMDB data through a Model Context Protocol server, featuring note storage and summarization capabilities.
+- [xue160709/yt-mcp-server](https://github.com/xue160709/yt-mcp-server): A Model Context Protocol server utilizing the mcp-framework for tool development and integration with Claude Desktop.
+- [MCERQUA/freepik-mcp](https://github.com/MCERQUA/freepik-mcp): Facilitates interaction with Freepik's API for accessing stock photos and generating images using Mystic AI.
+- [SIAM-TheLegend/sound-mcp](https://github.com/SIAM-TheLegend/sound-mcp): A lightweight MCP server that remotely triggers customizable notification sounds via AI agents using npx.
+- [androidStern/ableton-vibe](https://github.com/androidStern/ableton-vibe): Facilitates MIDI track creation in Ableton Live through MCP server integration.
+- [GMKR/mcp-imagegen](https://github.com/GMKR/mcp-imagegen): Facilitates image generation using Together AI's models via a configurable MCP server.
+- [dazeb/wikipedia-mcp-image-crawler](https://github.com/dazeb/wikipedia-mcp-image-crawler): Facilitates image search and metadata retrieval from Wikipedia Commons, ensuring compliance with Creative Commons licenses for seamless integration into projects.
+- [bitscorp-mcp/mcp-ffmpeg](https://github.com/bitscorp-mcp/mcp-ffmpeg): A Node.js server leveraging FFmpeg to provide APIs for video resizing and audio extraction, seamlessly integrating with Claude Desktop for natural language video processing.
+- [everaldo/mcp-mistral-ocr](https://github.com/everaldo/mcp-mistral-ocr): Facilitates OCR processing of images and PDFs using Mistral AI's API, with support for local and URL-based files.
+- [easy-peasy/blender-mcp-OLD](https://github.com/easy-peasy/blender-mcp-OLD): Facilitates seamless interaction between Blender and Claude AI for enhanced 3D modeling and scene manipulation through the Model Context Protocol.
+- [GongRzhe/Audio-MCP-Server](https://github.com/GongRzhe/Audio-MCP-Server): Facilitates audio input/output for AI assistants, enabling interaction with computer audio systems for recording and playback.
+- [VxASI/blender-mcp-vxai](https://github.com/VxASI/blender-mcp-vxai): Blender MCP VXAI enables seamless natural language control over Blender for creating and manipulating 3D models and animations, integrating AI-driven automation for enhanced creative workflows.
+- [CLOUDWERX-DEV/DiffuGen](https://github.com/CLOUDWERX-DEV/DiffuGen): DiffuGen offers a seamless interface for generating images using Stable Diffusion models, integrating directly with IDEs via MCP for efficient development workflows.
+- [brianshin22/youtube-translate-mcp](https://github.com/brianshin22/youtube-translate-mcp): Access the YouTube Translate API to obtain transcripts, translations, and summaries of YouTube videos through an MCP server.
+- [PraveenKishore/mcp-server-youtube](https://github.com/PraveenKishore/mcp-server-youtube): Facilitates secure and efficient retrieval of YouTube video transcripts for LLMs using the Model Context Protocol.
+- [tomcat65/flux-images-mcp](https://github.com/tomcat65/flux-images-mcp): A server for generating, modifying, and inpainting images using Replicate's Flux models, with features for obtaining image URLs and browsing stored images.
+- [zym9863/elevenlabs-sound-effect-server](https://github.com/zym9863/elevenlabs-sound-effect-server): Generates sound effects from text descriptions using ElevenLabs API, saving them as MP3 files.
+- [Krekun/mcp-voicevox](https://github.com/Krekun/mcp-voicevox): Facilitates text-to-speech conversion using VoiceVox through an MCP server, enabling Claude to generate diverse audio outputs.
+- [Handwriting-OCR/handwriting-ocr-mcp-server](https://github.com/Handwriting-OCR/handwriting-ocr-mcp-server): Facilitates integration between MCP clients and the Handwriting OCR service for document transcription and retrieval.
+- [haltakov/meme-mcp](https://github.com/haltakov/meme-mcp): Generate memes from user prompts using the ImgFlip API with this MCP server.
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp): BlenderMCP enables seamless integration between Blender and Claude AI for interactive 3D modeling and scene manipulation via the Model Context Protocol.
+- [okooo5km/zipic-mcp-server](https://github.com/okooo5km/zipic-mcp-server): Swift-based server enabling AI assistants to compress and optimize images using advanced tools and batch processing capabilities.
+- [gregkop/sketchfab-mcp-server](https://github.com/gregkop/sketchfab-mcp-server): Facilitates seamless interaction with Sketchfab's 3D model platform, enabling search, detailed viewing, and downloading of models.
+- [peng-shawn/mermaid-mcp-server](https://github.com/peng-shawn/mermaid-mcp-server): Transforms Mermaid diagram code into PNG images using Puppeteer for seamless AI integration.
+- [rmcendarfer2017/MCP-image-gen](https://github.com/rmcendarfer2017/MCP-image-gen): Connects to Replicate's API to generate and manage images with customizable prompts and styles.
+- [kshern/image-tools-mcp](https://github.com/kshern/image-tools-mcp): Facilitates image dimension retrieval and compression from both URLs and local files, with integration support for Figma and TinyPNG APIs.
+- [Tomocrystal/generate_image-mcp-server](https://github.com/Tomocrystal/generate_image-mcp-server): A server implementation for generating images using Model Context Protocol, compatible with OpenAI DALL-E and other large language model APIs.
+- [rhish9h/image-filter-mcp](https://github.com/rhish9h/image-filter-mcp): Provides 10 image filters using Python and Pillow, integrating seamlessly with Claude Desktop.
+- [setkyar/youtube-subtitles-mcp](https://github.com/setkyar/youtube-subtitles-mcp): Facilitates AI assistants in downloading and analyzing YouTube video subtitles with seamless integration capabilities.
+- [zym9863/together-ai-image-server](https://github.com/zym9863/together-ai-image-server): Facilitates image generation through Together AI's API using the MCP protocol, enabling seamless integration with MCP-compatible assistants.
+- [manascb1344/together-mcp-server](https://github.com/manascb1344/together-mcp-server): Enables high-quality image generation using the Flux.1 Schnell model via Together AI.
+- [zym9863/imagen-server](https://github.com/zym9863/imagen-server): A TypeScript-based server for generating high-quality images using SiliconFlow API, seamlessly integrating with Claude Desktop.
+- [Simon-Kansara/ableton-live-mcp-server](https://github.com/Simon-Kansara/ableton-live-mcp-server): Facilitates communication between LLMs and Ableton Live using OSC for seamless music production control.
+- [hirokidaichi/imark](https://github.com/hirokidaichi/imark): A versatile CLI tool that leverages AI for image recognition, cataloging, and generation, with MCP server capabilities for enhanced image processing.
+- [GongRzhe/Image-Generation-MCP-Server](https://github.com/GongRzhe/Image-Generation-MCP-Server): Facilitates image generation using the Replicate Flux model through an MCP server interface.
+- [ckz/flux-schnell-mcp](https://github.com/ckz/flux-schnell-mcp): Generates images using the Flux Schnell model via Replicate API with customizable prompts.
+- [jkawamoto/mcp-florence2](https://github.com/jkawamoto/mcp-florence2): Processes images and PDFs to extract text or generate descriptive captions using Florence-2.
+- [maoxiaoke/mcp-media-processor](https://github.com/maoxiaoke/mcp-media-processor): Node.js server for advanced video and image processing using MCP, featuring conversion, compression, and editing capabilities.
+- [lalanikarim/comfy-mcp-server](https://github.com/lalanikarim/comfy-mcp-server): Utilizes the FastMCP framework to generate images from prompts by interfacing with a remote Comfy server.
+- [husniadil/mcp-image-placeholder](https://github.com/husniadil/mcp-image-placeholder): Generates placeholder images from multiple providers, offering seamless integration with tools like Claude for Desktop and Cursor.
+- [dandeliongold/mcp-decent-sampler-drums](https://github.com/dandeliongold/mcp-decent-sampler-drums): Generates DecentSampler drum kit configurations with WAV analysis and XML generation tools.
+- [kennethreitz/mcp-applemusic](https://github.com/kennethreitz/mcp-applemusic): Control Apple Music on macOS using AppleScript commands via a FastMCP server.
+- [jkawamoto/mcp-youtube-transcript](https://github.com/jkawamoto/mcp-youtube-transcript): Retrieve transcripts from YouTube videos using a Model Context Protocol server.
+- [mondweep/youtube-music-mcp-server](https://github.com/mondweep/youtube-music-mcp-server): Facilitates AI-driven YouTube Music playback through Chrome, enabling song search and play by song or artist name.
+- [glassBead-tc/audius-mcp-atris](https://github.com/glassBead-tc/audius-mcp-atris): Atris MCP server enables seamless interaction with the Audius music platform, offering tools for music discovery, content creation, social engagement, and monetization through LLMs.
+- [superseoworld/mcp-spotify](https://github.com/superseoworld/mcp-spotify): ArtistLens provides seamless access to Spotify's music catalog, enabling advanced search and retrieval of artist and album information through a robust MCP server.
+- [catalystneuro/mcp_read_images](https://github.com/catalystneuro/mcp_read_images): Facilitates image analysis using OpenRouter vision models with configurable model selection and automatic image optimization.
+- [yuiseki/gyazo-mcp-server](https://github.com/yuiseki/gyazo-mcp-server): Facilitates AI interaction with Gyazo images by providing access and metadata through the Model Context Protocol.
+- [FishWoWater/trellis_blender](https://github.com/FishWoWater/trellis_blender): Integrates TRELLIS's advanced 3D generation capabilities into Blender with MCP server support for seamless communication with tools like Cursor and Windsurf.
+- [joeychilson/music-mcp](https://github.com/joeychilson/music-mcp): Facilitates music management with Claude through Spotify integration.
+- [felores/placid-mcp-server](https://github.com/felores/placid-mcp-server): Integrate with Placid.app's API to dynamically generate images and videos using customizable templates.
+- [Here-and-Tomorrow-LLC/audio-player-mcp](https://github.com/Here-and-Tomorrow-LLC/audio-player-mcp): Enables Claude to manage audio playback on your computer through a Model Context Protocol server.
+- [felores/cloudinary-mcp-server](https://github.com/felores/cloudinary-mcp-server): Facilitates media uploads to Cloudinary via Claude Desktop and compatible MCP clients.
+- [truaxki/mcp-Pdf2png](https://github.com/truaxki/mcp-Pdf2png): Facilitates the conversion of PDF documents into PNG images using a Model Context Protocol server.
+- [TomCN0803/pdf-reader-server](https://github.com/TomCN0803/pdf-reader-server): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
+- [Kush36Agrawal/Video_Editor_MCP](https://github.com/Kush36Agrawal/Video_Editor_MCP): A robust video editing server utilizing FFmpeg for executing video operations via natural language commands.
+- [NightTrek/moondream-mcp](https://github.com/NightTrek/moondream-mcp): Moondream MCP Server enhances applications with advanced image analysis capabilities through seamless integration with AI assistants Claude and Cline.
+- [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server): Facilitates AI-driven interaction with YouTube content through a standardized protocol, enabling video management, Shorts creation, and advanced analytics.
+- [shahshrey/youtube_transcript_mcp](https://github.com/shahshrey/youtube_transcript_mcp): Facilitates retrieval of YouTube video transcripts through an MCP-compliant server using the `youtube_transcript_api`.
+- [apinetwork/piapi-mcp-server](https://github.com/apinetwork/piapi-mcp-server): A TypeScript-based MCP server that enables media content generation through PiAPI's API, integrating seamlessly with platforms like Midjourney and Claude.
+- [zxkane/mcp-server-amazon-bedrock](https://github.com/zxkane/mcp-server-amazon-bedrock): Integrates Amazon Bedrock's Nova Canvas model for generating high-quality images from text descriptions with advanced control options.
+- [hanweg/mcp-pdf-tools](https://github.com/hanweg/mcp-pdf-tools): Facilitates PDF manipulation tasks such as merging and extracting pages through the Model Context Protocol.
+- [punkpeye/webperfect-mcp-server](https://github.com/punkpeye/webperfect-mcp-server): WebPerfect leverages AI to transform images into web-optimized masterpieces with advanced processing techniques and batch automation.
+- [kamekamek/runway-vedeo-server](https://github.com/kamekamek/runway-vedeo-server): Transform images into videos using RunwayAPI with customizable prompts for dynamic video generation.
+- [sparfenyuk/mcp-youtube](https://github.com/sparfenyuk/mcp-youtube): Facilitates AI assistants' interaction with YouTube by bridging the YouTube API and AI tools for tasks like downloading captions and summarizing videos.
+- [Laksh-star/mcp-server-tmdb](https://github.com/Laksh-star/mcp-server-tmdb): Integrates with TMDB API to provide movie information, search capabilities, and recommendations.
+- [gkctou/mcp-mermaid-img](https://github.com/gkctou/mcp-mermaid-img): Convert Mermaid diagram code into high-quality images with customizable formats and themes for seamless integration into presentations and AI conversations.
+- [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp): Facilitates video editing and management through an MCP interface, integrating with Video Jungle for uploading, editing, and searching videos using LLMs.
+- [sammyl720/image-generator-mcp-server](https://github.com/sammyl720/image-generator-mcp-server): Generates images from prompts using OpenAI's DALL-E-3 model, with TypeScript implementation for seamless integration with Claude Desktop.
+- [adhikasp/mcp-youtube](https://github.com/adhikasp/mcp-youtube): Facilitates downloading YouTube video transcripts and integrating them with LLMs using the Model Context Protocol.
+- [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript): Facilitates direct transcript retrieval from YouTube videos with language-specific options.
+- [carllapierre/spotify-mcp](https://github.com/carllapierre/spotify-mcp): A TypeScript-based server enabling Spotify playlist creation and song search via the Model Context Protocol.
+

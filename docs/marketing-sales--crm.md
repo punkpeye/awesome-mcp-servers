@@ -1,0 +1,108 @@
+## 📈 Marketing, Sales & CRM
+
+Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
+
+- [jusFood/jusfood-mcp](https://github.com/jusFood/jusfood-mcp): A specialized MCP server for deploying and managing local applications with integration support for the Claude app.
+- [rlopes2-ops/-MCP-Businessmap](https://github.com/rlopes2-ops/-MCP-Businessmap): Facilitates card management and search on Businessmap (Kanbanize) with full API integration and structured JSON data return.
+- [ajthinking/hubspot-download](https://github.com/ajthinking/hubspot-download): Facilitates the download of HubSpot CRM objects into JSON files using the Model Context Protocol.
+- [SolynAI/Dynamic_CRM_MCP_Server](https://github.com/SolynAI/Dynamic_CRM_MCP_Server): Facilitates interaction with Microsoft Dynamics 365 through a Model Context Protocol server, enabling operations like user information retrieval and account management.
+- [v4lheru/hubspot-mcp](https://github.com/v4lheru/hubspot-mcp): Facilitates AI model interactions with Hubspot CRM for managing contacts, companies, deals, and engagements.
+- [tenacl/naver-shopping-insight-mcp](https://github.com/tenacl/naver-shopping-insight-mcp): Provides shopping trend data from Naver Shopping Insight in MCP format, enabling trend analysis by category, device, gender, age, and keyword.
+- [sdrshn-nmbr/mailchimp-cp](https://github.com/sdrshn-nmbr/mailchimp-cp): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [0xDAEF0F/job-searchoor](https://github.com/0xDAEF0F/job-searchoor): Facilitates job search with filtering options for remote work and keyword inclusion/exclusion.
+- [kw510/strava-mcp](https://github.com/kw510/strava-mcp): Integrates Strava OAuth with MCP clients using Cloudflare Workers for secure authentication and tool access.
+- [codingaslu/Linkedin_Mcp_Server](https://github.com/codingaslu/Linkedin_Mcp_Server): Fetch LinkedIn profile data using the Fresh LinkedIn Profile Data API with asynchronous HTTP requests.
+- [Ayesha0300/linkedin-profile-mcp](https://github.com/Ayesha0300/linkedin-profile-mcp): Fetch LinkedIn profile data asynchronously using the Fresh LinkedIn Profile Data API.
+- [kkeeling/zoho-mcp](https://github.com/kkeeling/zoho-mcp): Facilitates AI-driven interactions with Zoho Books through a versatile MCP server supporting multiple transport modes.
+- [atlasvrm-chris/hostaway-mcp](https://github.com/atlasvrm-chris/hostaway-mcp): Enables LLMs to access and manage Hostaway vacation rental data through a standardized protocol.
+- [shopwareLabs/shopware-mcp](https://github.com/shopwareLabs/shopware-mcp): A specialized MCP server designed for integrating and managing tools within the Shopware ecosystem using the mcp-framework.
+- [TrueClicks/google-ads-mcp-dotnet](https://github.com/TrueClicks/google-ads-mcp-dotnet): Facilitates seamless integration of GPTs with Google Ads via GAQL.app, eliminating complex setup requirements.
+- [ramakay/ShopifyMockMCP](https://github.com/ramakay/ShopifyMockMCP): A secure and transparent MCP server for Shopify development, enabling safe interactions with the Storefront API via mock.shop.
+- [opestro/woocommerce-mcp-server](https://github.com/opestro/woocommerce-mcp-server): Facilitates AI assistants' interaction with WooCommerce stores by fetching and retrieving order details through MCP protocol.
+- [x51xxx/osp-marketing-tools-mcp](https://github.com/x51xxx/osp-marketing-tools-mcp): A TypeScript-based MCP server offering a suite of tools for technical marketing content creation and optimization, leveraging Open Strategy Partners' methodologies.
+- [Tisik79/MCP-Facebook](https://github.com/Tisik79/MCP-Facebook): Facilitates the management and analysis of Facebook ad campaigns through MCP, leveraging Claude AI for optimization and insights.
+- [DealExpress/mcp-server](https://github.com/DealExpress/mcp-server): Facilitates LLM interactions with the DealX platform for ad searches using the Model Context Protocol.
+- [lkm1developer/smartlead-mcp-server](https://github.com/lkm1developer/smartlead-mcp-server): Facilitates Smartlead campaign management by providing tools for creating, updating, and managing campaign sequences.
+- [Fewsats/amazon-mcp](https://github.com/Fewsats/amazon-mcp): Facilitates seamless Amazon product searches and purchases through AI integration with Claude, leveraging secure transactions via Fewsats.
+- [GeLi2001/shopify-mcp](https://github.com/GeLi2001/shopify-mcp): Facilitates seamless interaction with Shopify store data via GraphQL API, supporting product, customer, and order management.
+- [jindalsaj/product-description-mcp](https://github.com/jindalsaj/product-description-mcp): Transforms spreadsheets by analyzing product images to generate detailed descriptions using vision AI.
+- [pamaybg/crm-mcp-server](https://github.com/pamaybg/crm-mcp-server): Facilitates CRM campaign management through Docker-deployed MCP server with Spring AI integration.
+- [virtualGain/freshdeskmcp](https://github.com/virtualGain/freshdeskmcp): Connects to the Freshdesk API to enable LLMs to retrieve and search solution articles.
+- [rakeshgangwar/erpnext-server](https://github.com/rakeshgangwar/erpnext-server): Facilitates seamless integration between AI assistants and ERPNext systems using the Model Context Protocol.
+- [roma-mgcom/wildberries-mcp](https://github.com/roma-mgcom/wildberries-mcp): Facilitates interaction with the Wildberries API through a configurable MCP server setup.
+- [Cyreslab-AI/crunchbase-mcp-server](https://github.com/Cyreslab-AI/crunchbase-mcp-server): Facilitates AI assistants in accessing and retrieving detailed Crunchbase data, including company details, funding rounds, and acquisitions.
+- [srikanth-paladugula/mcp-dynamics365-server](https://github.com/srikanth-paladugula/mcp-dynamics365-server): Facilitates seamless interaction with Microsoft Dynamics 365 through a robust MCP server, enabling operations like account management and opportunity retrieval.
+- [fundfluent-admin/funding-assistant](https://github.com/fundfluent-admin/funding-assistant): Facilitates access to funding options and document requirements through the FluentLab's Funding Assistant API.
+- [nickrobin1/braze-mcp-worker](https://github.com/nickrobin1/braze-mcp-worker): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool invocation.
+- [isaacraja/hubspot-mcp-server](https://github.com/isaacraja/hubspot-mcp-server): Enables seamless interaction with HubSpot's API for managing contacts, deals, and engagements through LLMs.
+- [punkpeye/HubSpot_MCP](https://github.com/punkpeye/HubSpot_MCP): Facilitates AI-driven interactions with HubSpot CRM, enabling real-time sharing of conversation summaries through a centralized interface.
+- [namejiahui/mcp-boss-zp](https://github.com/namejiahui/mcp-boss-zp): Facilitates large language models in accessing Boss Zhipin interfaces for job filtering and communication.
+- [usama-dtc/salesforce_mcp](https://github.com/usama-dtc/salesforce_mcp): Integrates Claude with Salesforce for natural language interactions with Salesforce data and metadata.
+- [milisp/mcp-store](https://github.com/milisp/mcp-store): Facilitates the seamless integration of MCP servers into Claude Cursor with a user-friendly, two-click setup process.
+- [shinzo-labs/hubspot-mcp](https://github.com/shinzo-labs/hubspot-mcp): Provides a standardized interface for accessing and managing HubSpot CRM data through a comprehensive MCP implementation.
+- [bigcatchkm/mcp-server-promua](https://github.com/bigcatchkm/mcp-server-promua): Facilitates interaction with Prom.ua API for data exchange with Claude and other LLM models.
+- [Fewsats/agora-mcp](https://github.com/Fewsats/agora-mcp): Agora MCP enables AI assistants to search, compare, and purchase products across multiple online stores using the SearchAgora engine.
+- [jenish-25/E-commerce-mcp-server](https://github.com/jenish-25/E-commerce-mcp-server): A TypeScript-based MCP server implementing a notes system with tools for note creation and summarization.
+- [arbuthnot-eth/PayPal-MCP-defunct](https://github.com/arbuthnot-eth/PayPal-MCP-defunct): Facilitates seamless integration with PayPal's APIs for payment processing, subscription management, and business operations through a standardized MCP interface.
+- [bjorndavidhansen/google-ads-mcp-server](https://github.com/bjorndavidhansen/google-ads-mcp-server): Facilitates access to Google Ads data through Claude Desktop with built-in caching and multi-environment support.
+- [cohnen/mcp-google-ads](https://github.com/cohnen/mcp-google-ads): Connects Google Ads with Claude AI for natural language-driven advertising data analysis, offering insights into campaign performance, keyword analytics, and ad management.
+- [speakeasy-api/hubspot-typescript](https://github.com/speakeasy-api/hubspot-typescript): A developer-friendly, type-safe TypeScript SDK for leveraging the mcp-hubspot API, with methods exposed as tools for AI applications.
+- [danielbushman/Quickbase-MCP-connector](https://github.com/danielbushman/Quickbase-MCP-connector): Facilitates AI-driven interactions with Quickbase's API, enabling seamless data management and report access through natural language commands.
+- [taiste/harvest-mcp-server](https://github.com/taiste/harvest-mcp-server): Facilitates seamless integration with Harvest's API for managing time entries, projects, and clients through MCP-compatible AI assistants.
+- [effytech/freshdesk_mcp](https://github.com/effytech/freshdesk_mcp): Integrates AI models with Freshdesk for automated support operations, including ticket management and API interactions.
+- [SheffieldP/hubspot_mcp](https://github.com/SheffieldP/hubspot_mcp): Facilitates AI-driven interactions with HubSpot CRM through a standardized MCP interface, enabling seamless data management and operations.
+- [illGATESmusic/click-funnels-mcp-shared](https://github.com/illGATESmusic/click-funnels-mcp-shared): Integrates ClickFunnels with Claude Desktop for streamlined funnel management and debugging.
+- [AVIMBU/plausible-mcp-server](https://github.com/AVIMBU/plausible-mcp-server): Facilitates AI-driven queries to Plausible Analytics data through a Model Context Protocol server.
+- [jzhang17/prospect-research-mcp](https://github.com/jzhang17/prospect-research-mcp): A specialized MCP server for prospect research, offering semantic search, webpage scraping, and batch search processing on the Smithery Web infrastructure.
+- [Geeksfino/finclip-agent](https://github.com/Geeksfino/finclip-agent): An AI-powered customer experience agent that integrates with MCP servers for enhanced knowledge base access and intelligent responses.
+- [rugvedp/linkedin-mcp](https://github.com/rugvedp/linkedin-mcp): A LinkedIn profile analyzer MCP server that fetches, analyzes, and manages LinkedIn posts data with seamless Claude AI integration.
+- [tuanle96/mcp-odoo](https://github.com/tuanle96/mcp-odoo): Integrates AI assistants with Odoo ERP systems via the Model Context Protocol, offering comprehensive access to Odoo models and data.
+- [amekala/Ads-manager-mcp-server](https://github.com/amekala/Ads-manager-mcp-server): Facilitates the management and analysis of Amazon Advertising data through a standardized interface for LLMs, integrating seamlessly with the Claude Desktop App.
+- [JannikWempe/mcp-lexware-office](https://github.com/JannikWempe/mcp-lexware-office): Integrates seamlessly with Lexware Office to manage business operations via the Model Context Protocol.
+- [AminForou/mcp-gsc](https://github.com/AminForou/mcp-gsc): Integrates Google Search Console with Claude AI for SEO data analysis through natural language interactions.
+- [WillDent/pipedrive-mcp-server](https://github.com/WillDent/pipedrive-mcp-server): Connects to the Pipedrive API to expose data and functionality for LLM applications like Claude.
+- [springwq/kayzen-mcp](https://github.com/springwq/kayzen-mcp): Facilitates AI-driven analysis of Kayzen advertising data through a standardized MCP interface.
+- [amekala/adspirer-mcp-server](https://github.com/amekala/adspirer-mcp-server): Enhance your digital advertising campaigns with AI-driven insights and management through conversational interactions in Claude.
+- [horizondatawave/hdw-mcp-server](https://github.com/horizondatawave/hdw-mcp-server): Facilitates comprehensive LinkedIn data access and user account management through the HorizonDataWave API.
+- [syafiq555/salesforce-mcp-server](https://github.com/syafiq555/salesforce-mcp-server): Integrates Salesforce with Claude Desktop for seamless data access via a standardized protocol.
+- [Shopify/dev-mcp](https://github.com/Shopify/dev-mcp): Facilitates interaction with Shopify APIs through a Model Context Protocol server, offering tools for documentation search and GraphQL schema introspection.
+- [Ai-Agents-of-Profits/Market-MCP](https://github.com/Ai-Agents-of-Profits/Market-MCP): Provides real-time and historical cryptocurrency market data through integration with major exchanges, enabling LLMs to fetch current prices and analyze market trends.
+- [Noveum/api-market-mcp-server](https://github.com/Noveum/api-market-mcp-server): Facilitates seamless interaction between Large Language Models and over 200 APIs by exposing API-Market's endpoints as MCP resources.
+- [zanganeh/smart-commerce-hub](https://github.com/zanganeh/smart-commerce-hub): SmartCommerceHub offers a versatile CLI and MCP server for seamless integration with e-commerce platforms like CommerceTools, enabling efficient product, customer, and order management.
+- [kazuki1213/mcp-server-salesforce](https://github.com/kazuki1213/mcp-server-salesforce): Facilitates seamless interaction with Salesforce through a Model Context Protocol server, enabling note management and Salesforce data operations.
+- [techspawn/woocommerce-mcp-server](https://github.com/techspawn/woocommerce-mcp-server): Facilitates seamless WooCommerce store management through JSON-RPC 2.0 protocol, integrating with WordPress REST API for comprehensive product, order, and customer operations.
+- [Anticom/mcp-server-offers](https://github.com/Anticom/mcp-server-offers): A prototype MCP server for managing offers, designed for integration with Claude for Desktop.
+- [ethangillani/connectwise-mcp-server](https://github.com/ethangillani/connectwise-mcp-server): Facilitates integration with ConnectWise Manage API for Claude Desktop, enabling operations like ticket and company management.
+- [Gitmaxd/dubco-mcp-server-npm](https://github.com/Gitmaxd/dubco-mcp-server-npm): Enables AI assistants to manage Dub.co short links through the Model Context Protocol, offering tools for creating, updating, and deleting links.
+- [Gitmaxd/dubco-mcp-server](https://github.com/Gitmaxd/dubco-mcp-server): Facilitates AI-driven management of short links via Dub.co's API.
+- [stefw/boamp-server](https://github.com/stefw/boamp-server): Facilitates querying the BOAMP API to retrieve and detail public procurement notices using various criteria.
+- [EnesCinr/market-fiyatlari-mcp-server](https://github.com/EnesCinr/market-fiyatlari-mcp-server): Facilitates querying and comparing market prices in Turkey through an MCP server integrated with the Market Fiyatı API.
+- [mz462/mcpPaylocity](https://github.com/mz462/mcpPaylocity): Fetches and manages employee and payroll data from Paylocity using a custom MCP server.
+- [SurajAdsul/mcp-server-salesforce](https://github.com/SurajAdsul/mcp-server-salesforce): Integrates Claude with Salesforce for natural language interactions with Salesforce data and metadata.
+- [kishimoto-banana/shopify-py-mcp](https://github.com/kishimoto-banana/shopify-py-mcp): Facilitates seamless interaction with Shopify's API for product management through Claude Desktop.
+- [kenjihikmatullah/productboard-mcp](https://github.com/kenjihikmatullah/productboard-mcp): Facilitates integration of Productboard API into agentic workflows using MCP.
+- [sakce/mcp-server-monday](https://github.com/sakce/mcp-server-monday): Facilitates seamless interaction with Monday.com boards, items, updates, and documents through MCP clients.
+- [jlwaugh/agency](https://github.com/jlwaugh/agency): Facilitates integration with Claude Desktop by configuring and launching MCP servers with debugging support.
+- [Funmula-Corp/BigGo-MCP-Server](https://github.com/Funmula-Corp/BigGo-MCP-Server): Leverage BigGo's APIs for comprehensive product discovery and price history tracking across multiple e-commerce platforms.
+- [bitrefill/bitrefill-mcp-server](https://github.com/bitrefill/bitrefill-mcp-server): Facilitates AI-driven interactions with Bitrefill's API for searching and purchasing digital products.
+- [shilomagen/rami-levy-mcp](https://github.com/shilomagen/rami-levy-mcp): Facilitates integration of Rami Levy's e-commerce platform with MCP-enabled LLMs for online grocery shopping.
+- [lumile/mercadolibre-mcp](https://github.com/lumile/mercadolibre-mcp): Facilitates seamless access to MercadoLibre's API for product searches, reviews, and seller information.
+- [amir-bengherbi/shopify-mcp-server](https://github.com/amir-bengherbi/shopify-mcp-server): Facilitates seamless interaction with Shopify store data through a GraphQL API, offering comprehensive management of products, customers, and orders.
+- [r3-yamauchi/kintone-mcp-server](https://github.com/r3-yamauchi/kintone-mcp-server): Facilitates seamless integration with kintone, enabling data access and updates via Claude Desktop and other clients.
+- [punkpeye/apptweak-mcp](https://github.com/punkpeye/apptweak-mcp): Facilitates app store analytics and competitor analysis using the AppTweak API.
+- [FilippTrigub/linkedin-mcp](https://github.com/FilippTrigub/linkedin-mcp): Facilitates direct posting to LinkedIn from Claude Desktop, supporting text and media attachments with OAuth2 authentication.
+- [aaronsb/salesforce-cloud](https://github.com/aaronsb/salesforce-cloud): Facilitates structured interactions between AI models and Salesforce data, offering tools for querying, updating, and managing Salesforce records with built-in pagination and simplified data structures.
+- [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools): Empowers LLMs with Open Strategy Partners' core writing and product marketing techniques for technical content creation and optimization.
+- [tsmztech/mcp-server-salesforce](https://github.com/tsmztech/mcp-server-salesforce): Integrates Claude with Salesforce for natural language interactions with Salesforce data and metadata.
+- [danielma-tic/fillout-mcp-server](https://github.com/danielma-tic/fillout-mcp-server): Facilitates form management, response handling, and analytics through the Fillout.io API.
+- [baryhuang/mcp-hubspot](https://github.com/baryhuang/mcp-hubspot): Facilitates AI model interactions with HubSpot CRM through a standardized MCP interface, enabling seamless data and operation management.
+- [aallsbury/qb-time-mcp-server](https://github.com/aallsbury/qb-time-mcp-server): Unified access to QuickBooks Time API functionality through a single MCP server interface.
+- [macrat/mcp-server-kintone](https://github.com/macrat/mcp-server-kintone): Facilitates AI-driven exploration and manipulation of kintone data through MCP integration.
+- [smn2gnt/MCP-Salesforce](https://github.com/smn2gnt/MCP-Salesforce): Facilitates seamless interaction between LLMs and Salesforce data using SOQL and SOSL queries.
+- [reminia/zendesk-mcp-server](https://github.com/reminia/zendesk-mcp-server): Facilitates seamless integration with Zendesk by managing tickets, comments, and accessing Help Center articles.
+- [JoshuaRileyDev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server): Facilitates seamless interaction with the App Store Connect API, offering comprehensive tools for app, beta testing, bundle ID, device, and user management.
+- [mastercode-io/scaflog-zoho-mcp-server](https://github.com/mastercode-io/scaflog-zoho-mcp-server): Facilitates note management and summarization within the Zoho Creator Scaflog App.
+- [ahonn/mcp-server-gsc](https://github.com/ahonn/mcp-server-gsc): Facilitates access to Google Search Console for retrieving and analyzing search analytics data.
+- [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server): Facilitates user context management through Apache Unomi's profile system, enabling seamless integration with Claude Desktop.
+- [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi): Integrates Kagi's API for performing web searches and operations using a TypeScript-based MCP server.
+
