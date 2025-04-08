@@ -457,6 +457,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - Memory manager for AI apps and Agents using various graph and vector stores and allowing ingestion from 30+ data sources
 - [unibaseio/membase-mcp](https://github.com/unibaseio/membase-mcp) 📇 ☁️ - Save and query your agent memory in distributed way by Membase
 - [entanglr/zettelkasten-mcp](https://github.com/entanglr/zettelkasten-mcp) 🐍 🏠 - A Model Context Protocol (MCP) server that implements the Zettelkasten knowledge management methodology, allowing you to create, link, and search atomic notes through Claude and other MCP-compatible clients.
+- [KwanLeeFrmVi/mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory) - 🧠💾 A blazing-fast, in-memory MCP server built for testing, debugging, and rapid development. Speed with in-memory operations,Persists your data to a JSON file - so you get the best of both worlds: performance and durability.⚡🧪
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
