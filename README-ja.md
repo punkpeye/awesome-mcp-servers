@@ -93,6 +93,7 @@ MCPをサポートするクライアントのリストです。
 単一のMCPサーバーを通じて多くのアプリやツールにアクセスするためのサーバー。
 
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Web APIを10秒でMCPサーバーに変換し、オープンソースレジストリに追加する: https://open-mcp.org
+- [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCPは、GUIでMCP接続を管理する統合ミドルウェアMCPサーバーです。
 
 ### 📂 <a name="browser-automation"></a>ブラウザ自動化
 
