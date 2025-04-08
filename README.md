@@ -178,7 +178,7 @@ Run commands, capture output and otherwise interact with shells and command line
 - [OthmaneBlial/term_mcp_deepseek](https://github.com/OthmaneBlial/term_mcp_deepseek) 🐍 🏠 - A DeepSeek MCP-like Server for Terminal
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) - A secure shell command execution server implementing the Model Context Protocol (MCP)
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) A secure shell command execution server implementing the Model Context Protocol (MCP)
-- [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) 🖥️ 🐍 🏠 - Cisco pyATS server enabling structured, model-driven interaction with network devices.
+- [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) - Cisco pyATS server enabling structured, model-driven interaction with network devices.
 
 ### 💬 <a name="communication"></a>Communication
 
