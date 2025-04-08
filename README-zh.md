@@ -99,6 +99,7 @@
 通过单个MCP服务器访问多个应用程序和工具的服务器。
 
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 10秒内将Web API转换为MCP服务器并将其添加到开源注册表中: https://open-mcp.org
+- [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一个统一的中间件MCP服务器，通过GUI管理您的MCP连接。
 
 ### 📂 <a name="browser-automation"></a>浏览器自动化
 
