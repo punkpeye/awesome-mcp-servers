@@ -76,6 +76,7 @@ MCPをサポートするクライアントのリストです。
 * 💬 - [コミュニケーション](#communication)
 * 👤 - [顧客データプラットフォーム](#customer-data-platforms)
 * 🗄️ - [データベース](#databases)
+* 📊 - [データプラットフォーム](#data-platforms)
 * 🛠️ - [開発者ツール](#developer-tools)
 * 📂 - [ファイルシステム](#file-systems)
 * 🎮 - [ ゲーミング](#gaming)
@@ -166,6 +167,11 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - GreptimeDBのMCPサービスにクエリを実行する。
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - Google Sheetsと対話するためのモデルコンテキストプロトコルサーバー。このサーバーはGoogle Sheets APIを通じてスプレッドシートの作成、読み取り、更新、管理のためのツールを提供します。
 
+### 📊 <a name="data-platforms"></a>データプラットフォーム
+
+データ統合、変換、パイプライン オーケストレーションのためのデータ プラットフォーム。
+
+- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - Flowcore と対話してアクションを実行し、データを取り込み、データ コア内またはパブリック データ コア内のあらゆるデータを分析、相互参照、活用します。これらはすべて人間の言語で実行できます。
 
 ### 💻 <a name="developer-tools"></a>開発者ツール
 
