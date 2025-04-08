@@ -209,6 +209,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - コンテキストを維持するための知識グラフベースの長期記憶システム
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - AIロールプレイとストーリー生成に焦点を当てた強化されたグラフベースのメモリ
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - CursorやWindsurfなどのIDEでコーディングの好みやパターンを管理するためのMem0用モデルコンテキストプロトコルサーバー。コード実装、ベストプラクティス、技術文書の保存、取得、意味的な処理のためのツールを提供します
+- [mcp-rag-server](https://github.com/kwanLeeFrmVi/mcp-rag-server) - 🧷🤖 RAG（検索拡張生成）ワークフロー向けに設計された実験的なMCPサーバー。コンテキスト、モデル、メモリを接続し、動的かつ知的な応答を提供します。🔍📚
 
 ### 🗺️ <a name="location-services"></a>位置情報サービス
 
