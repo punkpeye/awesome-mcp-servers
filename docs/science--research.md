@@ -1,0 +1,69 @@
+## 🔬 Science & Research
+
+Servers accessing scientific databases, research platforms, or providing tools for scientific computation/simulation.
+
+- [takashiishida/arxiv-latex-mcp](https://github.com/takashiishida/arxiv-latex-mcp): Facilitates precise interpretation of mathematical expressions in arXiv papers by processing LaTeX sources for Claude Desktop.
+- [marron-b/paperMate](https://github.com/marron-b/paperMate): PaperMate enhances academic research by integrating MCP server capabilities for paper search, recommendation, and PDF conversion through the Claude Desktop app.
+- [Darkroaster/pubmearch](https://github.com/Darkroaster/pubmearch): Facilitates rapid insights into medical research dynamics through advanced PubMed literature analysis.
+- [cnosuke/mcp-wolfram-alpha](https://github.com/cnosuke/mcp-wolfram-alpha): Facilitates high-precision computational queries and scientific data retrieval via Wolfram Alpha API for LLMs.
+- [Kryzo/mcp-europeana](https://github.com/Kryzo/mcp-europeana): Generate comprehensive research documents using Europeana's digital library sources, integrating with AI tools via MCP.
+- [GDAmitha/chimerax-alphafold-mcp](https://github.com/GDAmitha/chimerax-alphafold-mcp): ChimeraX-AlphaFold-MCP facilitates seamless integration between ChimeraX, AlphaFold, and Claude AI, enabling advanced molecular visualization and structural analysis through natural language commands.
+- [vitamin3615/uniprot-mcp-server](https://github.com/vitamin3615/uniprot-mcp-server): Facilitates language models in retrieving protein data from the UniProt database, supporting integration with Claude Desktop and other MCP-compatible AI applications.
+- [podaac/cmr-mcp](https://github.com/podaac/cmr-mcp): Integrates AI retrievals with NASA's Earthdata Catalog using the Model Context Protocol.
+- [KunihiroS/google-patents-mcp](https://github.com/KunihiroS/google-patents-mcp): Facilitates Google Patents searches using SerpApi through an MCP server interface.
+- [jkingsman/qanon-mcp-server](https://github.com/jkingsman/qanon-mcp-server): Facilitates sociological research by providing AI-driven access to a dataset of Q-Anon posts for analysis and exploration.
+- [kargarisaac/Hekmatica](https://github.com/kargarisaac/Hekmatica): Hekmatica is a deep research agent that uses BAML and LangGraph to answer questions by leveraging web search, external tools, and LLMs.
+- [oOo0oOo/lean-lsp-mcp](https://github.com/oOo0oOo/lean-lsp-mcp): Facilitates agentic interaction with the Lean theorem prover using the Language Server Protocol.
+- [wheattoast11/openrouter-deep-research-mcp](https://github.com/wheattoast11/openrouter-deep-research-mcp): Orchestrates AI-powered research using Claude and various OpenRouter models for comprehensive and adaptive research capabilities.
+- [pathintegral-institute/mcp-servers](https://github.com/pathintegral-institute/mcp-servers): Open source MCP servers designed to facilitate scientific research through customizable server configurations and tool integrations.
+- [JackKuo666/semanticscholar-MCP-Server](https://github.com/JackKuo666/semanticscholar-MCP-Server): Facilitates interaction with the Semantic Scholar API, enabling paper searches, author details retrieval, and citation management.
+- [adamrtalbot/mcp-nextflow](https://github.com/adamrtalbot/mcp-nextflow): Facilitates Nextflow development and testing with a suite of tools for building, testing, and managing Nextflow environments.
+- [robinong79/mcp-cosmos](https://github.com/robinong79/mcp-cosmos): Facilitates seamless interaction between LLMs and Azure Cosmos DB by translating natural language queries into database operations.
+- [laurengarcia/weather](https://github.com/laurengarcia/weather): Provides weather forecasts and alerts through MCP integration using a free API.
+- [JackKuo666/Sci-Hub-MCP-Server](https://github.com/JackKuo666/Sci-Hub-MCP-Server): Facilitates AI-driven access and analysis of academic papers via Sci-Hub using an MCP interface.
+- [halllo/McpExperiments](https://github.com/halllo/McpExperiments): A dotnet MCP server and client setup for local LLM integration, featuring time retrieval and OAuth server middleware experiments.
+- [reading-plus-ai/mcp-server-deep-research](https://github.com/reading-plus-ai/mcp-server-deep-research): Facilitates in-depth research by transforming questions into structured, well-cited reports using an MCP server.
+- [marcopesani/think-mcp-server](https://github.com/marcopesani/think-mcp-server): A minimal MCP server that enhances Claude AI's reasoning capabilities using the 'think' tool for complex problem-solving tasks.
+- [YuChenSSR/symbolica-mcp](https://github.com/YuChenSSR/symbolica-mcp): Facilitates symbolic computation and quantum computing analysis within a containerized environment, integrating with AI for scientific and engineering applications.
+- [YuChenSSR/quantum-simulator-mcp](https://github.com/YuChenSSR/quantum-simulator-mcp): A Docker-based quantum circuit simulator implementing MCP for seamless integration with clients like Claude, featuring noise models and OpenQASM 2.0 support.
+- [tejpalvirk/quantitativeresearch](https://github.com/tejpalvirk/quantitativeresearch): Facilitates the management of quantitative research knowledge graphs, enabling structured representation and analysis of research data, hypotheses, and results.
+- [tejpalvirk/qualitativeresearch](https://github.com/tejpalvirk/qualitativeresearch): Facilitates the management of qualitative research knowledge graphs, enabling structured representation and analysis of research data.
+- [zhaoyouj/mcp-slicer](https://github.com/zhaoyouj/mcp-slicer): Facilitates seamless interaction between 3D Slicer and model clients for medical image processing and scene manipulation using natural language.
+- [egtai/gmx-vmd-mcp](https://github.com/egtai/gmx-vmd-mcp): Facilitates molecular dynamics simulations and visualization by integrating GROMACS with VMD through a microservice architecture.
+- [clssck/researcher-mcp](https://github.com/clssck/researcher-mcp): A research assistant server that integrates with Cline and Claude Desktop, utilizing Perplexity AI for intelligent search, documentation retrieval, API discovery, and code modernization assistance.
+- [ChatMol/molecule-mcp](https://github.com/ChatMol/molecule-mcp): Facilitates molecule modeling by integrating molecule science tools with Claude AI through the Model Context Protocol.
+- [jbdamask/mcp-nih-reporter](https://github.com/jbdamask/mcp-nih-reporter): Facilitates conversational searches of NIH-funded research projects and publications via the NIH RePORTER API.
+- [JackKuo666/PubMed-MCP-Server](https://github.com/JackKuo666/PubMed-MCP-Server): Facilitates AI-driven search and analysis of PubMed articles through a streamlined MCP interface.
+- [vrtejus/pymol-mcp](https://github.com/vrtejus/pymol-mcp): PyMOL-MCP enables seamless integration of PyMOL with Claude AI for interactive molecular visualization and analysis through natural language commands.
+- [edwardpwtsoi/mathjs-mcp](https://github.com/edwardpwtsoi/mathjs-mcp): Facilitates mathematical calculations and derivative computations using MathJS.
+- [win4r/arxiv-search-MCP-Server](https://github.com/win4r/arxiv-search-MCP-Server): Facilitates academic paper searches on arXiv with customizable parameters and structured data access.
+- [husqvaluna/spike-symbol-mcp-server](https://github.com/husqvaluna/spike-symbol-mcp-server): A Symbol MCP server facilitating integration with Symbol's open API for streamlined communication and data handling.
+- [JackKuo666/medRxiv-MCP-Server](https://github.com/JackKuo666/medRxiv-MCP-Server): Facilitates AI-driven searches and access to medRxiv preprints, enhancing research capabilities in health sciences.
+- [JackKuo666/bioRxiv-MCP-Server](https://github.com/JackKuo666/bioRxiv-MCP-Server): Facilitates AI-driven searches and metadata retrieval of bioRxiv preprints through a streamlined MCP interface.
+- [riii111/ResearchMCP](https://github.com/riii111/ResearchMCP): A multi-search API aggregator server leveraging the Model Context Protocol to integrate web search capabilities from Brave and Tavily, aiming to enhance research functionalities akin to ChatGPT's DeepResearch.
+- [khigashi1987/biopaper-mcp-search](https://github.com/khigashi1987/biopaper-mcp-search): Facilitates advanced search and analysis of biology papers using Europe PMC API, integrated with Claude Desktop for a comprehensive research assistant experience.
+- [OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server): Integrates with Octagon API to provide specialized AI agents for comprehensive market intelligence and financial research.
+- [suthio/brave-deep-research-mcp](https://github.com/suthio/brave-deep-research-mcp): Enhances Brave Search with Puppeteer-powered content extraction for comprehensive web research, allowing AI assistants to access detailed information beyond standard search results.
+- [riemannzeta/patent_mcp_server](https://github.com/riemannzeta/patent_mcp_server): Facilitates access to USPTO patent data through APIs, enabling integration with Claude Desktop for efficient patent search and retrieval.
+- [ProgramComputer/NASA-MCP-server](https://github.com/ProgramComputer/NASA-MCP-server): Facilitates AI model interactions with NASA's extensive data sources through a standardized interface.
+- [ameeralns/DeepResearchMCP](https://github.com/ameeralns/DeepResearchMCP): DeepResearch MCP is an intelligent research assistant that conducts iterative research and generates comprehensive reports using the Model Context Protocol.
+- [huanongfish/simple-pubmed](https://github.com/huanongfish/simple-pubmed): Access PubMed articles via the Entrez API, offering keyword search, abstracts, and full text for open access articles.
+- [huanongfish/arxiv-mcp](https://github.com/huanongfish/arxiv-mcp): Facilitates AI-driven searches and access to arXiv papers via a streamlined MCP interface.
+- [huanongfish/pubmedmcp](https://github.com/huanongfish/pubmedmcp): Facilitates searching and retrieving biomedical literature from PubMed using MCP server capabilities.
+- [szeider/mcp-dblp](https://github.com/szeider/mcp-dblp): Facilitates seamless integration of DBLP's academic publication data with Large Language Models for advanced bibliographic processing and citation management.
+- [JoshuaLelon/deep-research-mcp](https://github.com/JoshuaLelon/deep-research-mcp): A multi-agent research framework utilizing Python and MCP, featuring a FastMCP server for orchestrating AI agents in research tasks.
+- [Cam10001110101/mcp-server-ollama-deep-researcher](https://github.com/Cam10001110101/mcp-server-ollama-deep-researcher): Empowers AI assistants to conduct in-depth research using local LLMs through an iterative process of web search, summarization, and reflection.
+- [nguyenvanduocit/research-kit](https://github.com/nguyenvanduocit/research-kit): Research Kit enhances AI model capabilities by integrating with development tools like Jira and GitLab, automating workflows and managing documentation through natural language interactions.
+- [h-yanagawa/research-mcp-server](https://github.com/h-yanagawa/research-mcp-server): Facilitates survey data retrieval and page creation in Notion through an MCP server.
+- [afrise/academic-search-mcp-server](https://github.com/afrise/academic-search-mcp-server): Facilitates real-time academic paper searches and metadata retrieval from Semantic Scholar and Crossref for Claude Desktop integration.
+- [qpd-v/mcp-DEEPwebresearch](https://github.com/qpd-v/mcp-DEEPwebresearch): An advanced MCP server designed for deep web research, featuring intelligent search queuing, enhanced content extraction, and real-time integration with Claude.
+- [adityak74/mcp-scholarly](https://github.com/adityak74/mcp-scholarly): Facilitates precise academic article searches through an MCP server with Arxiv integration.
+- [Sheshiyer/deepseek-mcp-with-MoE](https://github.com/Sheshiyer/deepseek-mcp-with-MoE): DeepSeek MCP Server offers advanced code generation and completion with tool chaining and cost optimization features.
+- [blake365/usgs-quakes-mcp](https://github.com/blake365/usgs-quakes-mcp): Facilitates natural language queries to access USGS Earthquake data via Claude Desktop.
+- [blake365/macrostrat-mcp](https://github.com/blake365/macrostrat-mcp): Facilitates access to comprehensive geologic data via the Macrostrat API, enhancing geological understanding through AI applications.
+- [theodx2/legifrancemcp](https://github.com/theodx2/legifrancemcp): Facilitates interaction with the Légifrance API for legal content retrieval.
+- [wavelovey/pubmed_search](https://github.com/wavelovey/pubmed_search): Facilitates PubMed searches and note management through an MCP server with customizable summarization prompts.
+- [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed): Facilitates access to PubMed articles via the Entrez API, enabling keyword searches and retrieval of abstracts and full texts for open access articles.
+- [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv): Facilitates LLMs to search and access scientific papers on arXiv, providing metadata and abstracts through an MCP server.
+- [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server): Facilitates AI-driven search and analysis of arXiv papers via a streamlined MCP interface.
+
