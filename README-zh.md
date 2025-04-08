@@ -130,7 +130,8 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 云平台服务集成。实现与云基础设施和服务的管理和交互。
 
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - 与 Cloudflare 服务集成，包括 Workers、KV、R2 和 D1
-- [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - 一款轻量但功能强大的服务器，使 AI 助手能够在支持多架构的安全 Docker 环境中执行 AWS CLI 命令、使用 Unix 管道，并为常见 AWS 任务应用提示模板。
+- [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - 上传和操作 IPFS 存储
+- [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - 一款轻量但功能强大的服务器，使AI助手能够在支持多架构的安全Docker环境中执行AWS CLI命令、使用Unix管道，并为常见AWS任务应用提示模板。
 - [Kubernetes MCP Server](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️ 通过 MCP 操作 Kubernetes 集群
 - [@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 使用 Typescript 实现 Kubernetes 集群中针对 pod、部署、服务的操作。
 - [@manusa/Kubernetes MCP Server](https://github.com/manusa/kubernetes-mcp-server) - 🏎️ 🏠 一个功能强大的 Kubernetes MCP 服务器，额外支持 OpenShift。除了为**任何**Kubernetes 资源提供 CRUD 操作外，该服务器还提供专用工具与您的集群进行交互。
