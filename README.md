@@ -931,6 +931,7 @@ Servers integrating with project management and task tracking tools.
 
 - [katoiek/mcp-server-wrike](https://github.com/katoiek/mcp-server-wrike): Facilitates interaction with the Wrike API through MCP clients, enabling seamless task and project management.
 - [chuan-khuna/jira-mcp](https://github.com/chuan-khuna/jira-mcp): Facilitates querying and summarizing Jira tasks for specific assignees with pagination support.
+- [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp): Integration with [QA Sphere](https://qasphere.com/) test management system, enabling LLMs to discover, summarize, and interact with test cases directly from AI-powered IDEs
 - [torohash/ai-scheduler-mcp](https://github.com/torohash/ai-scheduler-mcp): Integrates Google Tasks and Calendar APIs for scheduling via an SSE-enabled MCP server.
 - [sebastien-le-paris/project-rules](https://github.com/sebastien-le-paris/project-rules): Facilitates the integration of external tools and data sources with Cursor through the Model Context Protocol, enhancing AI project rule management and tool execution.
 - [Napster13Nord/google-calendar-mcp](https://github.com/Napster13Nord/google-calendar-mcp): Facilitates interaction with Google Calendar through Claude, enabling event management and scheduling.
