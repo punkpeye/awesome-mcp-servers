@@ -76,6 +76,7 @@ MCPをサポートするクライアントのリストです。
 * 💬 - [コミュニケーション](#communication)
 * 👤 - [顧客データプラットフォーム](#customer-data-platforms)
 * 🗄️ - [データベース](#databases)
+* 📊 - [データプラットフォーム](#data-platforms)
 * 🛠️ - [開発者ツール](#developer-tools)
 * 📂 - [ファイルシステム](#file-systems)
 * 🎮 - [ ゲーミング](#gaming)
@@ -122,6 +123,8 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 Kubernetes クラスターのリソース管理と、クラスターとアプリケーションの健全性ステータスの詳細な分析を提供します。
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - 🏎️ ☁️/🏠 MCPマルチクラスターKubernetesの管理と運用を提供し、管理インターフェース、ログ機能を備え、一般的な運用・開発シナリオをカバーする約50種類のツールを内蔵。標準リソースおよびCRDリソースをサポート。  
 - [weibaohui/kom](https://github.com/weibaohui/kom) - 🏎️ ☁️/🏠 MCPマルチクラスターKubernetesの管理と運用を提供。SDKとして自身のプロジェクトに統合可能で、一般的な運用・開発シナリオをカバーする約50種類のツールを内蔵。標準リソースおよびCRDリソースをサポート。
+- [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8Sは、AI駆動のKubernetesリソース管理ツールで、自然言語インタラクションを通じて、ユーザーがKubernetesクラスター内の任意のリソース（ネイティブリソース（DeploymentやServiceなど）やカスタムリソース（CRD）を含む）を操作できるようにします。複雑なコマンドを覚える必要はなく、要件を説明するだけで、AIが対応するクラスター操作を正確に実行し、Kubernetesの使いやすさを大幅に向上させます。
+
 ### 💬 <a name="communication"></a>コミュニケーション
 
 メッセージ管理とチャネル操作のためのコミュニケーションプラットフォームとの統合。AIモデルがチームコミュニケーションツールと対話できるようにします。
@@ -164,6 +167,11 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - GreptimeDBのMCPサービスにクエリを実行する。
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - Google Sheetsと対話するためのモデルコンテキストプロトコルサーバー。このサーバーはGoogle Sheets APIを通じてスプレッドシートの作成、読み取り、更新、管理のためのツールを提供します。
 
+### 📊 <a name="data-platforms"></a>データプラットフォーム
+
+データ統合、変換、パイプライン オーケストレーションのためのデータ プラットフォーム。
+
+- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - Flowcore と対話してアクションを実行し、データを取り込み、データ コア内またはパブリック データ コア内のあらゆるデータを分析、相互参照、活用します。これらはすべて人間の言語で実行できます。
 
 ### 💻 <a name="developer-tools"></a>開発者ツール
 
