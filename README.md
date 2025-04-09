@@ -433,6 +433,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [michael7736/postgres-mcp-server](https://github.com/michael7736/postgres-mcp-server): Facilitates SQL query execution on a PostgreSQL products database via MCP protocol.
 - [littledivy/mcp-deno-kv](https://github.com/littledivy/mcp-deno-kv): Facilitates integration with Claude Desktop by leveraging Deno's key-value storage capabilities.
 - [Byskov-Soft/autonomous-data-manager](https://github.com/Byskov-Soft/autonomous-data-manager): Empowers AI agents with autonomous CRUD operations and persistent data management across conversations.
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox): Open source MCP server specializing in easy, fast, and secure tools for Databases.
 
 ## 🛠️ Developer Productivity & Utilities
 
