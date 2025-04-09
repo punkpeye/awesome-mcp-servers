@@ -280,6 +280,8 @@
 - [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่ให้ข้อมูล Typescript API อย่างมีประสิทธิภาพแก่ตัวแทนเพื่อให้สามารถทำงานกับ API ที่ไม่ได้รับการฝึกฝน
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - เซิร์ฟเวอร์ MCP เพื่อดึงข้อมูล JSON, ข้อความ และ HTML ได้อย่างยืดหยุ่น
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - เซิร์ฟเวอร์ MCP เพื่อเชื่อมต่อกับไปป์ไลน์ MLOps และ LLMOps ของ [ZenML](https://www.zenml.io)
+- [gg MCP for VSCode](https://github.com/bugstan/ggMCP4VSCode)  🏠 - ปลั๊กอิน MCP สำหรับ VSCode สนับสนุนผู้ช่วย AI เช่น Claude Desktop ในการโต้ตอบกับ VSCode เพื่อการพัฒนาอัตโนมัติ
+- [MCP x Hub](https://github.com/bugstan/MCPxHub)  🏠 - Middleware ของ Claude Desktop รองรับการเชื่อมต่อ Claude Desktop กับปลั๊กอิน MCP ของ JetBrains และ VSCode เพื่อการอ่านไฟล์ การเขียน และการแก้ไขโค้ดแบบอัตโนมัติ
 
 ### 🧮 เครื่องมือวิทยาศาสตร์ข้อมูล
 

@@ -370,6 +370,8 @@ Tools and integrations that enhance the development workflow and environment man
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) 📇 ☁️ - [gitmcp.io](https://gitmcp.io/) is a generic remote MCP server to connect to ANY [GitHub](https://www.github.com) repository or project for documentation
 - [tgeselle/bugsnag-mcp](https://github.com/tgeselle/bugsnag-mcp) 📇 ☁️ - An MCP server for interacting with [Bugsnag](https://www.bugsnag.com/)
+- [gg MCP for VSCode](https://github.com/bugstan/ggMCP4VSCode)  🏠 - The MCP plugin for VSCode supports AI assistants like Claude Desktop to interact with VSCode for automated development operations.
+- [MCP x Hub](https://github.com/bugstan/MCPxHub)  🏠 - The Claude Desktop middleware enables Claude Desktop to interact with JetBrains and VSCode MCP plugins for automated file reading, writing, and code editing.
 
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
