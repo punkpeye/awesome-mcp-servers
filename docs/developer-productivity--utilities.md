@@ -8,6 +8,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [mystique920/mcp-pandoc-ts](https://github.com/mystique920/mcp-pandoc-ts): Facilitates document conversion across multiple formats using a TypeScript-based MCP server and a Python Flask host service for executing Pandoc commands.
 - [chr0n1x/golang-mcp-playground](https://github.com/chr0n1x/golang-mcp-playground): A minimalistic Golang-based MCP server template designed to run in a Docker container.
 - [nCrom/readme-updater-mcp](https://github.com/nCrom/readme-updater-mcp): Enhances README.md files by analyzing semantic conflicts using Ollama and updating content accordingly.
+- [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp): Integration with [QA Sphere](https://qasphere.com/) test management system, enabling LLMs to discover, summarize, and interact with test cases directly from AI-powered IDEs
 - [gabrieldsguilherme/mcp-server](https://github.com/gabrieldsguilherme/mcp-server): Integrates Claude AI models with a fully functional MCP server for context-aware request processing and streamlined AI interactions.
 - [FrankGoortani/remote-mcp-server](https://github.com/FrankGoortani/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [cjavier/McpServerBasic](https://github.com/cjavier/McpServerBasic): Facilitates AI assistants' interaction with external services and data sources through a Model Context Protocol server compatible with Claude.
