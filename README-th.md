@@ -405,6 +405,7 @@
 
 ### 🔎 <a name="search"></a>การค้นหาและการดึงข้อมูล
 
+- [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) - 🐍 ☁️ บริการ Scrapeless Model Context Protocol ทำหน้าที่เป็นตัวเชื่อมเซิร์ฟเวอร์ MCP กับ Google SERP API ช่วยให้สามารถค้นหาเว็บภายในระบบนิเวศ MCP โดยไม่ต้องออกจากมัน
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - การรวม API การค้นหาของ Kagi
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️ MCP สำหรับ LLM เพื่อค้นหาและอ่านเอกสารจาก arXiv
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️ MCP เพื่อค้นหาและอ่านเอกสารทางการแพทย์/วิทยาศาสตร์ชีวภาพจาก PubMed
