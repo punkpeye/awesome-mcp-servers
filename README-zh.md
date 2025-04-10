@@ -333,7 +333,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI摘要生成MCP服务器，支持多种内容类型：纯文本、网页、PDF文档、EPUB电子书、HTML内容
 - [graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - 将来自Slack、Discord、网站、Google Drive、Linear或GitHub的任何内容摄取到Graphlit项目中，然后在诸如Cursor、Windsurf或Cline等MCP客户端中搜索并检索相关知识。
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 用于 Mem0 的模型上下文协议服务器，帮助管理编码偏好和模式，提供工具用于存储、检索和语义处理代码实现、最佳实践和技术文档，适用于 Cursor 和 Windsurf 等 IDE
-- [KwanLeeFrmVi/mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory) 🧠💾 超高速内存MCP服务器，专为测试、调试和快速开发而打造。内存优化带来极速性能，同时智能地将数据持久化为JSON文件，性能与持久性兼得⚡🧪
+- [KwanLeeFrmVi/mcp-server-memory](https://github.com/kwanLeeFrmVi/mcp-server-memory) 📇 🏠 超高速内存MCP服务器，专为测试、调试和快速开发而打造。内存优化带来极速性能，同时智能地将数据持久化为JSON文件，性能与持久性兼得
 
 ### 🗺️ <a name="location-services"></a>位置服务
 
