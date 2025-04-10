@@ -184,6 +184,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) 📇 🏠 - MongoDB 集成使 LLM 能夠直接與資料庫交互。
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - Tinybird 集成查詢和 API 功能
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - MongoDB 的模型上下文協議伺服器
+- [tuannvm/mcp-trino](https://github.com/tuannvm/mcp-trino) 🏎️ ☁️ - 一個使用 Go 語言實現的 Trino 專用 Model Context Protocol (MCP) 伺服器。
 - [KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server) 🐍 ☁️ - VikingDB 資料庫集成了collection和index的基本資訊介紹，並提供向量儲存和查詢的功能.
 - [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) 🐍 🏠 - Neo4j 的模型上下文協議
 - [isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server) 🐍 ☁️ - Snowflake 集成實現，支援讀取和（可選）寫入操作，並具備洞察跟蹤功能
