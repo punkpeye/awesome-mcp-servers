@@ -68,35 +68,37 @@
 > [!참고]
 > 이제 리포지토리와 동기화되는 [웹 기반 디렉토리](https://glama.ai/mcp/servers)가 있습니다.
 
-- 🔗 - [Aggregators](#aggregators)
-- 📂 - [브라우저 자동화](#browser-automation)
-- 🎨 - [예술 및 문화](#art-and-culture)
-- ☁️ - [클라우드 플랫폼](#cloud-platforms)
-- 🖥️ - [커맨드 라인](#command-line)
-- 💬 - [커뮤니케이션](#communication)
-- 👤 - [고객 데이터 플랫폼](#customer-data-platforms)
-- 🗄️ - [데이터베이스](#databases)
-- 🛠️ - [개발자 도구](#developer-tools)
-- 📂 - [파일 시스템](#file-systems)
-- 💰 - [금융 및 핀테크](#finance--fintech)
-- 🎮 - [게임](#gaming)
-- 🧠 - [지식 및 메모리](#knowledge--memory)
-- 🗺️ - [위치 서비스](#location-services)
-- 🎯 - [마케팅](#marketing)
-- 📊 - [모니터링](#monitoring)
-- 🔎 - [검색](#search)
-- 🔒 - [보안](#security)
-- 🏃 - [스포츠](#sports)
-- 🌎 - [번역 서비스](#translation-services)
-- 🚆 - [여행 및 교통](#travel-and-transportation)
-- 🔄 - [버전 관리](#version-control)
-- 🛠️ - [기타 도구 및 통합](#other-tools-and-integrations)
+* 🔗 - [Aggregators](#aggregators)
+* 📂 - [브라우저 자동화](#browser-automation)
+* 🎨 - [예술 및 문화](#art-and-culture)
+* ☁️ - [클라우드 플랫폼](#cloud-platforms)
+* 🖥️ - [커맨드 라인](#command-line)
+* 💬 - [커뮤니케이션](#communication)
+* 👤 - [고객 데이터 플랫폼](#customer-data-platforms)
+* 🗄️ - [데이터베이스](#databases)
+* 📊 - [데이터 플랫폼](#data-platforms)
+* 🛠️ - [개발자 도구](#developer-tools)
+* 📂 - [파일 시스템](#file-systems)
+* 💰 - [금융 및 핀테크](#finance--fintech)
+* 🎮 - [게임](#gaming)
+* 🧠 - [지식 및 메모리](#knowledge--memory)
+* 🗺️ - [위치 서비스](#location-services)
+* 🎯 - [마케팅](#marketing)
+* 📊 - [모니터링](#monitoring)
+* 🔎 - [검색](#search)
+* 🔒 - [보안](#security)
+* 🏃 - [스포츠](#sports)
+* 🌎 - [번역 서비스](#translation-services)
+* 🚆 - [여행 및 교통](#travel-and-transportation)
+* 🔄 - [버전 관리](#version-control)
+* 🛠️ - [기타 도구 및 통합](#other-tools-and-integrations)
 
 ### 🔗 <a name="aggregators"></a>애그리게이터
 
 단일 MCP 서버를 통해 많은 앱과 도구에 접근하기 위한 서버입니다.
 
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 웹 API를 10초 만에 MCP 서버로 전환하고 오픈 소스 레지스트리에 추가하세요: https://open-mcp.org
+- [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP는 GUI를 통해 MCP 연결을 관리하는 통합 미들웨어 MCP 서버입니다.
 
 ### 📂 <a name="browser-automation"></a>브라우저 자동화
 
@@ -127,6 +129,7 @@
 클라우드 플랫폼 서비스 통합. 클라우드 인프라 및 서비스의 관리 및 상호 작용을 가능하게 합니다.
 
 - [Cloudflare MCP 서버](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Workers, KV, R2 및 D1을 포함한 Cloudflare 서비스와의 통합
+- [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - IPFS 스토리지 업로드 및 조작
 - [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - AI 어시스턴트가 AWS CLI 명령을 실행하고, 유닉스 파이프를 사용하며, 안전한 Docker 환경에서 일반적인 AWS 작업을 위한 프롬프트 템플릿을 멀티 아키텍처 지원으로 적용할 수 있게 하는 가볍지만 강력한 서버
 - [Kubernetes MCP 서버](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️/🏠 MCP를 통한 쿠버네티스 클러스터 운영
 - [@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 파드, 디플로이먼트, 서비스를 위한 쿠버네티스 클러스터 운영의 타입스크립트 구현
@@ -134,6 +137,7 @@
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 쿠버네티스 관리 및 클러스터, 애플리케이션 상태 분석을 위한 MCP 서버
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - Netskope Private Access 환경 내의 모든 Netskope Private Access 구성 요소에 대한 접근을 제공하는 MCP. 자세한 설정 정보와 사용법에 대한 LLM 예제 포함.
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - AI 어시스턴트가 Terraform 환경을 관리하고 운영할 수 있게 하는 Terraform MCP 서버. 구성 읽기, 계획 분석, 구성 적용 및 Terraform 상태 관리를 가능하게 합니다.
+- [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S는 AI 기반 Kubernetes 리소스 관리 도구로, 자연어 상호작용을 통해 사용자가 Kubernetes 클러스터의 모든 리소스(네이티브 리소스(예: Deployment, Service) 및 사용자 정의 리소스(CRD) 포함)를 운영할 수 있게 합니다. 복잡한 명령어를 외울 필요 없이 요구사항만 설명하면 AI가 해당 클러스터 작업을 정확하게 실행하여 Kubernetes의 사용성을 크게 향상시킵니다.
 
 ### 🖥️ <a name="command-line"></a>커맨드 라인
 
@@ -169,6 +173,13 @@
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - 모델 컨텍스트 프로토콜을 사용하여 모든 개방형 데이터를 모든 LLM에 연결합니다.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - 모든 MCP 클라이언트에서 Tinybird 워크스페이스와 상호 작용하기 위한 MCP 서버.
 - [@iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic) 🎖️ 📇 ☁️ - [iaptic](https://www.iaptic.com)과 연결하여 고객 구매, 거래 데이터 및 앱 수익 통계에 대해 질문합니다.
+
+### 📊 <a name="data-platforms"></a>데이터 플랫폼
+
+데이터 통합, 변환 및 파이프라인 오케스트레이션을 위한 데이터 플랫폼.
+
+- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - Flowcore와 상호 작용하여 작업을 수행하고, 데이터를 수집하고, 데이터 코어나 공개 데이터 코어에 있는 모든 데이터를 분석, 교차 참조하고 활용할 수 있습니다. 이 모든 작업은 인간 언어를 사용합니다.
+
 
 ### 🗄️ <a name="databases"></a>데이터베이스
 
@@ -224,6 +235,7 @@
 개발 워크플로우 및 환경 관리를 향상시키는 도구 및 통합.
 
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - 최고의 21st.dev 디자인 엔지니어에게서 영감을 받은 맞춤형 UI 컴포넌트 생성.
+- [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - [QA Sphere](https://qasphere.com/) 테스트 관리 시스템과의 통합. LLM이 테스트 케이스를 발견, 요약, 상호작용할 수 있도록 하며 AI 기반 IDE에서 직접 접근 가능
 - [Coment-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp) 🎖️ 📇 ☁️ 🏠 - Opik이 캡처한 LLM 관찰 가능성, 추적 및 모니터링 데이터와 자연어로 대화합니다.
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) 📇 🏠 - 코딩 에이전트가 Figma 데이터에 직접 접근하여 디자인 구현을 한 번에 완료하도록 돕습니다.
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - MCP를 통한 Docker 컨테이너 관리 및 운영
