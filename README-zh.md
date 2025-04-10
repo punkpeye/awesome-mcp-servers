@@ -77,6 +77,7 @@
 * 💬 - [社交](#communication)
 * 👤 - [客户数据平台](#customer-data-platforms)
 * 🗄️ - [数据库](#databases)
+* 📊 - [数据平台](#data-platforms)
 * 🛠️ - [开发者工具](#developer-tools)
 * 🧮 - [数据科学工具](#data-science-tools)
 * 📂 - [文件系统](#file-systems)
@@ -99,6 +100,7 @@
 通过单个MCP服务器访问多个应用程序和工具的服务器。
 
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 10秒内将Web API转换为MCP服务器并将其添加到开源注册表中: https://open-mcp.org
+- [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一个统一的中间件MCP服务器，通过GUI管理您的MCP连接。
 
 ### 📂 <a name="browser-automation"></a>浏览器自动化
 
@@ -129,6 +131,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 云平台服务集成。实现与云基础设施和服务的管理和交互。
 
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - 与 Cloudflare 服务集成，包括 Workers、KV、R2 和 D1
+- [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - 上传和操作 IPFS 存储
 - [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - 一款轻量但功能强大的服务器，使AI助手能够在支持多架构的安全Docker环境中执行AWS CLI命令、使用Unix管道，并为常见AWS任务应用提示模板。
 - [Kubernetes MCP Server](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️ 通过 MCP 操作 Kubernetes 集群
 - [@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 使用 Typescript 实现 Kubernetes 集群中针对 pod、部署、服务的操作。
@@ -141,6 +144,8 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 提供 Kubernetes 集群资源管理, 深度分析集群和应用的健康状态
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - 提供对 Netskope Private Access 环境中所有组件的访问权限，包含详细的设置信息和 LLM 使用示例。
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - 🏎️ ☁️/🏠 提供MCP多集群k8s管理操作，提供管理界面、日志，内置近50种工具，覆盖常见运维开发场景，支持常规资源、CRD资源。
+- [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S 是一个 AI 驱动的 Kubernetes 资源管理工具，通过自然语言交互方式，让用户能够轻松操作 Kubernetes 集群中的任意资源，包括原生资源（如 Deployment、Service）和自定义资源（CRD）。无需记忆复杂命令，只需描述需求，AI 就能准确执行对应的集群操作，大大提升了 Kubernetes 的易用性。
+
 
 ### 🖥️ <a name="command-line"></a>命令行
 
@@ -215,6 +220,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server) 🐍 🏠 - 一个 MCP 服务器，通过模型上下文协议 （MCP） 提供对 SQLite 数据库的安全只读访问。该服务器是使用 FastMCP 框架构建的，它使 LLM 能够探索和查询具有内置安全功能和查询验证的 SQLite 数据库。
 - [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) 🐍 ☁️ - Pinecone 与矢量搜索功能的集成
 - [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) 🐍 🏠 - 基于SQLAlchemy的通用数据库集成，支持PostgreSQL、MySQL、MariaDB、SQLite、Oracle、MS SQL Server等众多数据库。具有架构和关系检查以及大型数据集分析功能。
+- [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql) 🏎️ 🏠 – 基于 Go 的开箱即用的 MySQL MCP 服务器，支持只读模式和自动 Schema 检查。
 - [mcp-server-jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) ☕ 🏠 - 连接到任何兼容JDBC的数据库，执行查询、插入、更新、删除等操作。
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - 查询和分析Azure Data Explorer数据库
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ -  查询并分析开源监控系统Prometheus。
@@ -226,11 +232,18 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - 一个用于与 Google Sheets 交互的模型上下文协议服务器。该服务器通过 Google Sheets API 提供创建、读取、更新和管理电子表格的工具。
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) 🐍 🏠 - 一个Qdrant MCP服务器
 
+### 📊 <a name="data-platforms"></a>数据平台
+
+用于数据集成、转换和管道编排的数据平台。
+
+- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - 与 Flowcore 交互以执行操作、提取数据以及分析、交叉引用和利用数据核心或公共数据核心中的任何数据；全部通过人类语言完成。
+
 ### 💻 <a name="developer-tools"></a>开发者工具
 
 增强开发工作流程和环境管理的工具和集成。
 
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - 打造受21世纪顶尖设计工程师启发的精致UI组件。
+- [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - 与[QA Sphere](https://qasphere.com/)测试管理系统集成，使LLM能够发现、总结和操作测试用例，并可直接从AI驱动的IDE访问
 - [Coment-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp) 🎖️ 📇 ☁️ 🏠 - 使用自然语言与您的LLM可观测性、Opik捕获的追踪和监控数据进行对话。
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) 📇 🏠 - 为编码代理提供直接访问Figma数据的权限，助力其一次性完成设计实现。
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - 通过 MCP 进行 Docker 容器管理和操作
@@ -497,6 +510,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [roychri/mcp-server-asana](https://github.com/roychri/mcp-server-asana) - 📇 ☁️ 这个Asana的模型上下文协议（MCP）服务器实现允许你通过MCP客户端（如Anthropic的Claude桌面应用等）与Asana API进行交互。
 - [ws-mcp](https://github.com/nick1udwig/ws-mcp) - 使用 WebSocket 包装 MCP 服务器（用于 [kitbitz](https://github.com/nick1udwig/kibitz)）
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ 一个模型上下文协议（MCP）服务器，使 AI 模型能够与比特币交互，允许它们生成密钥、验证地址、解码交易、查询区块链等
+- [louiscklaw/hko-mcp](https://github.com/louiscklaw/hko-mcp) 📇 🏠 - 一个 MCP 服务器，演示如何从香港天文台获取天气数据
 - [tomekkorbak/strava-mcp-server](https://github.com/tomekkorbak/strava-mcp-server) 🐍 ☁️ - An MCP server for Strava, an app for tracking physical exercise
 - [tomekkorbak/oura-mcp-server](https://github.com/tomekkorbak/oura-mcp-server) 🐍 ☁️ - An MCP server for Oura, an app for tracking sleep
 - [rember/rember-mcp](https://github.com/rember/rember-mcp) 📇 🏠 - Create spaced repetition flashcards in [Rember](https://rember.com) to remember anything you learn in your chats.
