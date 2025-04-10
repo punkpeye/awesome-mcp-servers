@@ -315,4 +315,5 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [non-dirty/mcp-server-restart](https://github.com/non-dirty/mcp-server-restart): Facilitates the seamless restart of Claude Desktop on Mac using MCP, ensuring tool installations take effect efficiently.
 - [linux-china/mcp-rs-template](https://github.com/linux-china/mcp-rs-template): A Rust-based CLI server template for implementing Model Context Protocol (MCP) applications, facilitating seamless integration with LLMs.
 - [kennethnym/claude-prompt-manager](https://github.com/kennethnym/claude-prompt-manager): A TypeScript-based CLI prompt manager for Claude utilizing the MCP protocol, enabling prompt creation and management from the command line.
+- [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp): A MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 

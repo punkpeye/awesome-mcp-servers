@@ -470,6 +470,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [xlengelle-sf/agentforce-reliable-tool](https://github.com/xlengelle-sf/agentforce-reliable-tool): A reliable MCP-compliant client tool for connecting to Salesforce AgentForce API via the AgentForce Reliable Server.
 - [cephalization/mcp-ts-quickstart](https://github.com/cephalization/mcp-ts-quickstart): A build-less TypeScript MCP server that fetches top stories from Hacker News using stdio transport.
 - [hamstershleter7/promised](https://github.com/hamstershleter7/promised): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
+- [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp): A MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 
 ## 📁 Filesystems
 
