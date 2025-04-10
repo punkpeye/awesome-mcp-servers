@@ -263,6 +263,7 @@
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - MCP를 사용한 Claude Code 기능 구현으로, 포괄적인 도구 지원을 통해 AI 코드 이해, 수정 및 프로젝트 분석 가능.
 - [gofireflyio/firefly-mcp](https://github.com/gofireflyio/firefly-mcp) 🎖️ 📇 ☁️ - [Firefly](https://firefly.ai)를 사용하여 클라우드 리소스를 통합, 검색, 관리 및 코드화합니다.
 - [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) 📇 🏠 - 에이전트가 학습되지 않은 API로 작업할 수 있도록 타입스크립트 API 정보를 효율적으로 제공하는 MCP 서버
+- [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - EdgeOne Pages에 HTML 콘텐츠를 배포하고 공개적으로 접근 가능한 URL을 얻기 위한 MCP 서비스입니다.
 
 ### 🧮 데이터 과학 도구
 

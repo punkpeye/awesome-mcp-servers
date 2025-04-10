@@ -270,6 +270,7 @@
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - การใช้งานความสามารถของ Claude Code โดยใช้ MCP เปิดใช้งานความเข้าใจโค้ด AI การแก้ไข และการวิเคราะห์โปรเจ็กต์ด้วยการสนับสนุนเครื่องมือที่ครอบคลุม
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - เชื่อมต่อเซิร์ฟเวอร์ HTTP/REST API ใดๆ โดยใช้ข้อกำหนด Open API (v3)
 - [stass/lldb-mcp](https://github.com/stass/lldb-mcp) 🐍 🏠 🐧 🍎 - เซิร์ฟเวอร์ MCP สำหรับ LLDB เปิดใช้งานการวิเคราะห์ไบนารีและไฟล์คอร์ของ AI การดีบัก การแยกส่วนประกอบ
+- [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - บริการ MCP สำหรับการปรับใช้เนื้อหา HTML บน EdgeOne Pages และรับ URL ที่สามารถเข้าถึงได้จากสาธารณะ
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) 🐍 🏠 - โปรแกรมแก้ไขไฟล์ข้อความแบบบรรทัดต่อบรรทัด ปรับให้เหมาะสมสำหรับเครื่องมือ LLM ด้วยการเข้าถึงไฟล์บางส่วนที่มีประสิทธิภาพเพื่อลดการใช้โทเค็น
 - [vivekvells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - เซิร์ฟเวอร์ MCP สำหรับการแปลงรูปแบบเอกสารอย่างราบรื่นโดยใช้ Pandoc รองรับ Markdown, HTML, PDF, DOCX (.docx), csv และอื่นๆ
 - [VSCode Devtools](https://github.com/biegehydra/BifrostMCP) 📇 - เชื่อมต่อกับ VSCode ide และใช้เครื่องมือเชิงความหมายเช่น `find_usages`
