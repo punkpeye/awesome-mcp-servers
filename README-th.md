@@ -176,7 +176,7 @@
 - [centralmind/gateway](https://github.com/centralmind/gateway) 🏎️ 🏠 🍎 🪟 - เซิร์ฟเวอร์ MCP และ MCP SSE ที่สร้าง API โดยอัตโนมัติตามสคีมาและข้อมูลของฐานข้อมูล รองรับ PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
 - [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) 🐍 ☁️ - การผสานรวมฐานข้อมูล ClickHouse พร้อมความสามารถในการตรวจสอบสคีมาและการสืบค้น
 - [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) 🐍 🏠 - การใช้งานเซิร์ฟเวอร์ MCP ที่ให้การโต้ตอบกับ Elasticsearch
-- [Dataring-engineering/mcp-server-trino](https://github.com/Dataring-engineering/mcp-server-trino) 🐍 ☁️ - เซิร์ฟเวอร์ Trino MCP เพื่อสืบค้นและเข้าถึงข้อมูลจากคลัสเตอร์ Trino
+- [Dataring-engineering/mcp-server-trino](https://github.com/Dataring-engineering/mcp-server-trino) 🏎️ ☁️ - เซิร์ฟเวอร์ Trino MCP เพื่อสืบค้นและเข้าถึงข้อมูลจากคลัสเตอร์ Trino
 - [tuannvm/mcp-trino](https://github.com/tuannvm/mcp-trino) 🐍 ☁️ - การใช้งานเซิร์ฟเวอร์ Model Context Protocol (MCP) สำหรับ Trino ด้วยภาษา Go.
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - การผสานรวมฐานข้อมูล MySQL พร้อมการควบคุมการเข้าถึงที่กำหนดค่าได้ การตรวจสอบสคีมา และแนวทางความปลอดภัยที่ครอบคลุม
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) 📇 🏠 - การผสานรวมฐานข้อมูล Airtable พร้อมความสามารถในการตรวจสอบสคีมา การอ่าน และการเขียน
@@ -638,3 +638,4 @@ https://modelcontextprotocol.io/llms-full.txt
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
