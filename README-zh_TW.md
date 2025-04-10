@@ -405,6 +405,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ [Kibela](https://kibe.la/) 與 MCP 的集成
 - [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - 通過Replicate API提供圖像生成功能。
 - [NakaokaRei/swift-mcp-gui](https://github.com/NakaokaRei/swift-mcp-gui.git) 🏠 🍏 - MCP伺服器，可以執行鍵盤輸入、滑鼠移動等命令
+- [louiscklaw/hko-mcp](https://github.com/louiscklaw/hko-mcp) 📇 🏠 - MCP 伺服器，示範如何從香港天文台獲取天氣數據
 - [kelvin6365/plane-mcp-server](https://github.com/kelvin6365/plane-mcp-server) - 🏎️ 🏠 此 MCP 伺服器將協助您透過 [Plane 的](https://plane.so) API 管理專案和問題
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - 允許 AI 模型與 [HackMD](https://hackmd.io) 交互
 - [pwh-pwh/cal-mcp](https://github.com/pwh-pwh/cal-mcp) - MCP伺服器，可以計算數學表達式
@@ -425,7 +426,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [spring-ai-mcp](https://github.com/spring-projects-experimental/spring-ai-mcp) ☕ 🌱 - 用於構建 MCP 用戶端和伺服器的 Java SDK 和 Spring Framework 集成，支援多種可插拔的傳輸選項
 - [@marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) - CodeMirror 擴展，實現了用於資源提及和提示命令的模型上下文協議 (MCP)
 - [mullerhai/sakura-mcp](https://github.com/mullerhai/sakura-mcp) 🦀 ☕ 🔌 - Scala MCP 框架 構建企業級MCP用戶端和服務端 shade from modelcontextprotocol.io.
--
+  
 ## 實用工具
 
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - 帶有範例伺服器和 MCP 用戶端的 MCP stdio 到 HTTP SSE 傳輸閘道器
