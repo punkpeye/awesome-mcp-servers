@@ -581,11 +581,21 @@ Tools for managing customer support, IT service management, and helpdesk operati
 - [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - MCP server that integrates with Freshdesk, enabling AI models to interact with Freshdesk modules and perform various support operations.
 - [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 🏎️ ☁️ - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform common Jira operations including issue management, sprint planning, and workflow transitions.
 
+Translation tools and services to enable AI assistants to translate content between different languages.
+
+- [translated/lara-mcp](https://github.com/translated/lara-mcp) 📇 🏠 - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
+  
 ### 🌎 <a name="translation-services"></a>Translation Services
 
 Translation tools and services to enable AI assistants to translate content between different languages.
 
 - [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
+
+### 🎧 <a name="text-to-speech"></a>Text-to-Speech
+
+Tools for converting text-to-speech and vice-versa
+
+- [Kokoro TTS MCP](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - MCP Server that uses the open weight Kokoro TTS models to convert text-to-speech.  Can convert text to MP3 on a local driver or auto-upload to an S3 bucket.
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
