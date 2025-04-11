@@ -603,6 +603,7 @@
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - เกตเวย์การขนส่ง MCP stdio ไปยัง HTTP SSE พร้อมเซิร์ฟเวอร์ตัวอย่างและไคลเอนต์ MCP
 - [f/MCPTools](https://github.com/f/mcptools) 🔨 - เครื่องมือพัฒนาแบบ command-line สำหรับการตรวจสอบและโต้ตอบกับเซิร์ฟเวอร์ MCP พร้อมฟีเจอร์พิเศษ เช่น การจำลองและพร็อกซี่
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇🖥️ - ไคลเอนต์แบบ CLI เพื่อแชทและเชื่อมต่อกับเซิร์ฟเวอร์ MCP ใดๆ มีประโยชน์ในระหว่างการพัฒนาและทดสอบเซิร์ฟเวอร์ MCP
+- [fangyinc/mcpport](https://github.com/fangyinc/mcpport) 🐍 🏠 ☁️ - เกตเวย์และรีจิสทรีน้ำหนักเบาสำหรับเซิร์ฟเวอร์ MCP ที่รองรับการข้าม NAT ช่วยให้อุปกรณ์ขอบสามารถให้บริการ MCP ข้ามเครือข่ายได้ คุณสมบัติรวมถึงจุดสิ้นสุด WebSocket/SSE/HTTP, การรับรองความถูกต้อง, การสนับสนุน IPv6 และเครื่องมือ CLI สำหรับการลงทะเบียนเซิร์ฟเวอร์ MCP ที่ใช้ stdio อย่างง่าย
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 – ใช้เครื่องมือที่จัดหาโดย MCP ใน LangChain.js
 - [kukapay/whattimeisit-mcp](https://github.com/kukapay/whattimeisit-mcp) 🐍 ☁️ - เซิร์ฟเวอร์ MCP น้ำหนักเบาที่บอกเวลาที่แน่นอนให้คุณทราบ
 - [kukapay/whereami-mcp](https://github.com/kukapay/whereami-mcp) 🐍 ☁️ - เซิร์ฟเวอร์ MCP น้ำหนักเบาที่บอกตำแหน่งที่แน่นอนของคุณตาม IP ปัจจุบัน
