@@ -115,6 +115,7 @@
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Bilibili 콘텐츠 검색을 지원하는 MCP 서버. LangChain 통합 예제 및 테스트 스크립트 제공.
 - [@getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 🐍 🏠 - 모든 웹사이트에서 구조화된 데이터 추출. 프롬프트만 입력하면 JSON 획득.
 
+- [Jasonw372/bilibili-mcp-server-full](https://github.com/Jasonw372/bilibili-mcp-server-full) 🐍 🏠 - 설치 및 사용이 간편한 uvx를 사용하여 빌리빌리의 MCP 서버 검색을 지원합니다.
 ### 🎨 <a name="art-and-culture"></a>예술 및 문화
 
 예술 컬렉션, 문화 유산 및 박물관 데이터베이스에 접근하고 탐색합니다. AI 모델이 예술 및 문화 콘텐츠를 검색하고 분석할 수 있게 합니다.

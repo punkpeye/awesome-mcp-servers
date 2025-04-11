@@ -116,6 +116,9 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [@pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - 一个支持使用 Google 搜索结果进行免费网页搜索的 MCP 服务器，无需 API 密钥
 - [@co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🌐🔮 - browser-use是一个封装了SSE传输协议的MCP服务器。包含一个dockerfile用于在docker中运行chromium浏览器+VNC服务器。
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - 一个支持搜索 B站 内容的 MCP 服务器。提供LangChain调用示例、测试脚本。
+
+- [Jasonw372/bilibili-mcp-server-full](https://github.com/Jasonw372/bilibili-mcp-server-full) 🐍 🏠 - 使用 uvx 支持搜索 Bilibili 的 MCP 服务器，易于安装和使用。
+
 - [@getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 🐍 🏠 - 从任何网站提取结构化数据。只需输入提示即可获取JSON。
 
 ### 🎨 <a name="art-and-culture"></a>艺术与文化
