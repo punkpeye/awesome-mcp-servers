@@ -111,7 +111,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Turn a web API into an MCP server in 10 seconds and add it to the open source registry: https://open-mcp.org
 - [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy)  📇 🏠 - A comprehensive proxy server that combines multiple MCP servers into a single interface with extensive visibility features. It provides discovery and management of tools, prompts, resources, and templates across servers, plus a playground for debugging when building MCP servers.
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI.
-- [warpdev/mcp-hub-mcp](https://github.com/warpdev/mcp-hub-mcp) 📇🏠 – A MCP server that connects to multiple other MCP servers and executes tools on their behalf.
+- [warpdev/mcp-hub-mcp](https://github.com/warpdev/mcp-hub-mcp) 📇 🏠 – A MCP server that connects to multiple other MCP servers and executes tools on their behalf.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
