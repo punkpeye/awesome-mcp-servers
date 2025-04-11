@@ -147,6 +147,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - An MCP Server for interacting with manifest v2 compatible browsers.
 - [pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - An MCP server that enables free web searching using Google search results, with no API keys required.
 - [recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - An MCP Server Integration with Apple Shortcuts
+- [rednote-mcp](https://github.com/ifuryst/rednote-mcp) 📇 🏠 - MCP server for accessing RedNote(XiaoHongShu, xhs) content
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 

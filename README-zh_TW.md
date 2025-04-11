@@ -102,9 +102,10 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - 獲取 YouTube 字幕和文字記錄以供 AI 分析
 - [@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - MCP 伺服器與 Apple Shortcuts 的整合
 - [@fradser/mcp-server-apple-reminders](https://github.com/FradSer/mcp-server-apple-reminders) 📇 🏠 🍎 - macOS 上與 Apple Reminders 整合的 MCP 伺服器
-- [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - 使用 Azure OpenAI 和 Playwright 的“最小”伺服器/用戶端 MCP 實現。
+- [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - 使用 Azure OpenAI 和 Playwright 的"最小"伺服器/用戶端 MCP 實現。
 - [@pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - 一個支援使用 Google 搜尋結果進行免費網頁搜尋的 MCP 伺服器，無需 API 金鑰
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - 一個支援搜尋 B站 內容的 MCP 伺服器。提供LangChain呼叫範例、測試腳本。
+- [rednote-mcp](https://github.com/ifuryst/rednote-mcp) 📇 🏠 - 用於訪問小紅書(RedNote)內容的MCP伺服器
 
 ### 🎨 <a name="art-and-culture"></a>藝術與文化
 
@@ -135,7 +136,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 運行命令、捕獲輸出以及以其他方式與 shell 和命令行工具交互。
 
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - 一個為 iTerm 終端提供訪問能力的 MCP 伺服器。您可以執行命令，並就終端中看到的內容進行提問交互。
-- [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - 使用“run_command”和“run_script”工具運行任何命令。
+- [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - 使用"run_command"和"run_script"工具運行任何命令。
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - 具有安全執行和可訂製安全策略的命令行界面
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) 實現模型上下文協議 (MCP) 的安全 shell 命令執行伺服器
 
