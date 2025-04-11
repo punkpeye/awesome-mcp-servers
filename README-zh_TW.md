@@ -135,7 +135,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 運行命令、捕獲輸出以及以其他方式與 shell 和命令行工具交互。
 
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - 一個為 iTerm 終端提供訪問能力的 MCP 伺服器。您可以執行命令，並就終端中看到的內容進行提問交互。
-- [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - 使用“run_command”和“run_script”工具運行任何命令。
+- [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - 使用"run_command"和"run_script"工具運行任何命令。
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - 具有安全執行和可訂製安全策略的命令行界面
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) 實現模型上下文協議 (MCP) 的安全 shell 命令執行伺服器
 
@@ -256,6 +256,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API 集成，用於管理 Tastytrade 平台的交易活動
 - [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI 提供港美股等市場的股票即時行情數據，通過 MCP 提供 AI 接入分析、交易能力。
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ -  使用 Bitget 公共 API 去獲取加密貨幣最新價格
+- [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - 基於 baostock 的 MCP 伺服器,提供對中國股票市場數據的訪問和分析功能。
 
 ### 🎮 <a name="gaming"></a>遊戲
 

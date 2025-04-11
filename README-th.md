@@ -350,6 +350,7 @@
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - การผสานรวมข้อมูลตลาด cryptocurrency แบบเรียลไทม์โดยใช้ API สาธารณะของ CoinCap ให้การเข้าถึงราคา crypto และข้อมูลตลาดโดยไม่ต้องใช้คีย์ API
 - [SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop.git) 🐍 ☁️ - เครื่องมือ MCP ที่ให้ข้อมูลตลาด cryptocurrency โดยใช้ CoinGecko API
 - [SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop.git) 🐍 ☁️ - เครื่องมือ MCP ที่ให้ข้อมูลตลาดหุ้นและการวิเคราะห์โดยใช้ Yahoo Finance API
+- [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - เซิร์ฟเวอร์ MCP ที่ใช้ baostock เป็นฐาน ให้การเข้าถึงและวิเคราะห์ข้อมูลตลาดหุ้นจีน
 
 ### 🎮 เกม
 
