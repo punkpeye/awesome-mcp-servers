@@ -727,6 +727,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ## Utilities
 
+- [adiom-data/grpcmcp](https://github.com/adiom-data/grpcmcp) 🖥️ - A MCP Server that allows access to gRPC API services.
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - An MCP stdio to HTTP SSE transport gateway with example server and MCP client.
 - [f/MCPTools](https://github.com/f/mcptools) 🔨 - A command-line development tool for inspecting and interacting with MCP servers with extra features like mocks and proxies.
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇🖥️ - A CLI based client to chat and connect with any MCP server. Useful during development & testing of MCP servers.
