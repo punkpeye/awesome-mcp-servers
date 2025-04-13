@@ -339,6 +339,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 使用知识图谱结构的持久内存存储。使 AI 模型能够跨会话维护和查询结构化信息。
 
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - 基于知识图谱的长期记忆系统用于维护上下文
+- [eBook-mcp](https://github.com/onebirdrocks/ebook-mcp) <img height="12" width="12" src="https://github.com/onebirdrocks/ebook-mcp/raw/refs/heads/main/favicon.png" alt="ebook-mcp Logo" /> - 轻量级的 MCP 服务端，允许大语言模型（LLM）读取和交互你的个人 PDF 和 EPUB 电子书。非常适合用于构建 AI 阅读助手或基于聊天的电子书交互界面。
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - 增强基于图形的记忆，重点关注 AI 角色扮演和故事生成
 - [/topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - AI应用程序和Agent的内存管理器使用各种图存储和向量存储，并允许从 30 多个数据源提取数据
 - [@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - MCP 服务器实现提供了通过矢量搜索检索和处理文档的工具，使 AI 助手能够利用相关文档上下文来增强其响应能力
