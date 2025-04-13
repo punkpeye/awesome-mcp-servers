@@ -386,7 +386,8 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - Enables autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
 - [jjsantos01/jupyter-notebook-mcp](https://github.com/jjsantos01/jupyter-notebook-mcp) 🐍 🏠 - connects Jupyter Notebook to Claude AI, allowing Claude to directly interact with and control Jupyter Notebooks.
-
+- [hanlulong/stata-mcp](https://github.com/hanlulong/stata-mcp) - MCP server for Stata (popular in economic analysis) with VS code and Cursor extension.
+  
 ### 📟 <a name="embedded-system"></a>Embedded System
 
 Provides access to documentation and shortcuts for working on embedded devices.
