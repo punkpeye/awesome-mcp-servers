@@ -319,6 +319,7 @@
 ### 🧠 <a name="knowledge--memory"></a>지식 및 메모리
 
 지식 그래프 구조를 사용한 영구 메모리 저장. AI 모델이 세션 간에 구조화된 정보를 유지하고 쿼리할 수 있게 합니다.
+- [eBook-mcp](https://github.com/onebirdrocks/ebook-mcp) <img height="12" width="12" src="https://github.com/onebirdrocks/ebook-mcp/raw/refs/heads/main/favicon.png" alt="ebook-mcp Logo" /> - 개인 PDF 및 EPUB 전자책을 대형 언어 모델(LLM)이 읽고 상호작용할 수 있도록 지원하는 경량 MCP 서버입니다. AI 독서 도우미나 채팅 기반 전자책 인터페이스를 구축하는 데 적합합니다.
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - 컨텍스트 유지를 위한 지식 그래프 기반 영구 메모리 시스템
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - AI 역할극 및 스토리 생성에 중점을 둔 향상된 그래프 기반 메모리
 - [/topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - 다양한 그래프 및 벡터 저장소를 사용하고 30개 이상의 데이터 소스에서 수집을 허용하는 AI 앱 및 에이전트용 메모리 관리자
