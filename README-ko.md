@@ -186,7 +186,7 @@
 
 - [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) ☕ 🐍 ☁️ - Tablestore용 MCP 서비스, 문서 추가, 벡터 및 스칼라 기반 문서의 시맨틱 검색, RAG 친화적, 서버리스 기능 포함.
 - [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) 🐍 🏠 - Elasticsearch 상호 작용을 제공하는 MCP 서버 구현
-- [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) 🐍 🏠 - Postgres Pro는 성능 분석, 튜닝 및 상태 점검을 위한 도구가 포함된 데이터베이스 개발 및 운영을 위한 올인원 MCP 서버입니다.
+- [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) 🐍 🏠 - Postgres MCP Pro는 성능 분석, 튜닝 및 상태 점검을 위한 도구가 포함된 데이터베이스 개발 및 운영을 위한 올인원 MCP 서버입니다.
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) 📇 🏠 - 스키마 검사, 읽기 및 쓰기 기능을 갖춘 Airtable 데이터베이스 통합
 - [rashidazarang/airtable-mcp](https://github.com/rashidazarang/airtable-mcp) 🐍 ☁️ - AI 도구를 Airtable에 직접 연결합니다. 자연어를 사용하여 레코드를 쿼리, 생성, 업데이트 및 삭제합니다. 베이스 관리, 테이블 작업, 스키마 조작, 레코드 필터링 및 표준화된 MCP 인터페이스를 통한 데이터 마이그레이션 기능 포함.
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 ☁️ - 스키마 검사 및 쿼리 기능을 갖춘 BigQuery 데이터베이스 통합
