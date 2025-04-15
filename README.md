@@ -691,7 +691,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) - MCP server providing date and time functions in various formats
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
 - [HenryHaoson/Yuque-MCP-Server](https://github.com/HenryHaoson/Yuque-MCP-Server) - 📇 ☁️ A Model-Context-Protocol (MCP) server for integrating with Yuque API, allowing AI models to manage documents, interact with knowledge bases, search content, and access analytics data from the Yuque platform.
--[https://github.com/Mtehabsim/ScreenPilot] - System-level automation - MCP server enabling AI to fully control and access GUI interaction by providing tools for mouse and keyboard, ideal for general automation, education, and experimentation.
+- [Mtehabsim/ScreenPilot](https://github.com/Mtehabsim/ScreenPilot) 🐍 🏠 - System-level automation - MCP server enabling AI to fully control and access GUI interaction by providing tools for mouse and keyboard, ideal for general automation, education, and experimentation.
 ## Frameworks
 
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
