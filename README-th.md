@@ -183,7 +183,7 @@
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - การผสานรวมฐานข้อมูล MySQL พร้อมการควบคุมการเข้าถึงที่กำหนดค่าได้ การตรวจสอบสคีมา และแนวทางความปลอดภัยที่ครอบคลุม
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) 📇 🏠 - การผสานรวมฐานข้อมูล Airtable พร้อมความสามารถในการตรวจสอบสคีมา การอ่าน และการเขียน
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - การใช้งานเซิร์ฟเวอร์สำหรับการผสานรวม Google BigQuery ที่ช่วยให้สามารถเข้าถึงและสืบค้นฐานข้อมูล BigQuery ได้โดยตรง
-- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) 🐍 🏠 - การผสานรวมฐานข้อมูล MySQL บน Node.js ที่ให้การดำเนินการฐานข้อมูล MySQL ที่ปลอดภัย
+- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) 📇 🏠 - การผสานรวมฐานข้อมูล MySQL บน Node.js ที่ให้การดำเนินการฐานข้อมูล MySQL ที่ปลอดภัย
 - [fireproof-storage/mcp-database-server](https://github.com/fireproof-storage/mcp-database-server) 📇 ☁️ - ฐานข้อมูลบัญชีแยกประเภท Fireproof พร้อมการซิงค์ผู้ใช้หลายคน
 - [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) 🏎️ 🏠 – เซิร์ฟเวอร์ MCP ฐานข้อมูลหลายตัวประสิทธิภาพสูงที่สร้างด้วย Golang รองรับ MySQL & PostgreSQL (NoSQL กำลังจะมาเร็วๆ นี้) รวมถึงเครื่องมือในตัวสำหรับการเรียกใช้คำสั่ง การจัดการธุรกรรม การสำรวจสคีมา การสร้างคำสั่ง และการวิเคราะห์ประสิทธิภาพ พร้อมการผสานรวม Cursor อย่างราบรื่นสำหรับเวิร์กโฟลว์ฐานข้อมูลที่ปรับปรุงแล้ว
 - [furey/mongodb-lens](https://github.com/furey/mongodb-lens) 📇 🏠 - MongoDB Lens: เซิร์ฟเวอร์ MCP ที่มีคุณสมบัติครบถ้วนสำหรับฐานข้อมูล MongoDB
