@@ -282,6 +282,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [higress-group/higress-ops-mcp-server](https://github.com/higress-group/higress-ops-mcp-server) 🐍 🏠 - 支持对 [Higress](https://github.com/alibaba/higress/blob/main/README_ZH.md) 网关进行全面的配置和管理。
 - [ReAPI-com/mcp-openapi](https://github.com/ReAPI-com/mcp-openapi) 📇 🏠 - MCP服务器让LLM能够了解您的OpenAPI规范的所有信息，以发现、解释和生成代码/模拟数据
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) 🏎️ 🏠 - 无缝集成任何 API 与 AI 代理（通过 OpenAPI 架构）
+- [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - 一个MCP服务器，用于在本地通过docker运行代码，并支持多种编程语言。
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - 基于 EdgeOne Pages 的 MCP 服务器，支持代码部署为在线页面。
 
 ### 🧮 <a name="data-science-tools"></a>数据科学工具
