@@ -67,6 +67,10 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 > * Use local when MCP server is talking to a locally installed software, e.g. taking control over Chrome browser.
 > * Use network when MCP server is talking to remote APIs, e.g. weather API.
 
+## Server Runtimes
+
+🛡️ - [ToolHive](https://github.com/StacklokLabs/toolhive) - ToolHive (thv) is a lightweight utility designed to simplify the deployment and management of MCP (Model Context Protocol) servers, ensuring ease of use, consistency, and security.
+
 ## Server Implementations
 
 > [!NOTE]
