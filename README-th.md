@@ -120,6 +120,7 @@
 ความสามารถในการเข้าถึงและทำงานอัตโนมัติกับเว็บ ช่วยให้สามารถค้นหา ดึงข้อมูล และประมวลผลเนื้อหาเว็บในรูปแบบที่เป็นมิตรกับ AI
 
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่สนับสนุนการค้นหาเนื้อหา Bilibili พร้อมตัวอย่างการผสานรวม LangChain และสคริปต์ทดสอบ
+- [rednote-mcp](https://github.com/ifuryst/rednote-mcp) 📇 🏠 - เซิร์ฟเวอร์ MCP สำหรับการเข้าถึงเนื้อหาจาก RedNote (XiaoHongShu, xhs)
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - เซิร์ฟเวอร์ MCP สำหรับการทำงานอัตโนมัติของเบราว์เซอร์โดยใช้ Playwright
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - เซิร์ฟเวอร์ MCP Python ที่ใช้ Playwright สำหรับการทำงานอัตโนมัติของเบราว์เซอร์ เหมาะสำหรับ llm มากขึ้น
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - ทำงานอัตโนมัติกับเบราว์เซอร์บนคลาวด์ (เช่น การนำทางเว็บ การดึงข้อมูล การกรอกแบบฟอร์ม และอื่นๆ)

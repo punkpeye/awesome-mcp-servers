@@ -108,6 +108,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - Azure OpenAIとPlaywrightを使用した「最小限の」サーバー/クライアントMCP実装。
 - [@fradser/mcp-server-apple-reminders](https://github.com/FradSer/mcp-server-apple-reminders) 📇 🏠 🍎 - macOS 用の Apple Reminders と統合された MCP サーバーです。
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠  - Bilibiliコンテンツの検索をサポートするMCPサーバー。LangChain連携のサンプルとテストスクリプトを提供。
+- [rednote-mcp](https://github.com/ifuryst/rednote-mcp) 📇 🏠 - 小紅書(RedNote)のコンテンツにアクセスするためのMCPサーバー
 
 ### 🎨 <a name="art-and-culture"></a>芸術と文化
 
