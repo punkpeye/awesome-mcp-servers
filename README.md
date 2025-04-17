@@ -473,6 +473,7 @@ Integration with gaming related data, game engines, and services
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - A MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
 - [pab1ito/chess-mcp](https://github.com/pab1it0/chess-mcp) 🐍 ☁️ - Access Chess.com player data, game records, and other public information through standardized MCP interfaces, allowing AI assistants to search and analyze chess information.
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - An MCP server for real-time Fantasy Premier League data and analysis tools.
+- [opgginc/esports-mcp](https://github.com/opgginc/esports-mcp) 📇 ☁️ - Connect AI agents to OP.GG Esports data and retrieve upcoming League of Legends match schedules effortlessly. Access structured match information through a standardized interface, enhancing your AI's capabilities with real-time esports data.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
