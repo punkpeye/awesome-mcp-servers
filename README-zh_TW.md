@@ -5,6 +5,7 @@
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
 [![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
 [![한국어](https://img.shields.io/badge/한국어-클릭-yellow)](README-ko.md)
+[![Português Brasileiro](https://img.shields.io/badge/Português_Brasileiro-Clique-green)](README-pt_BR.md)
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
@@ -69,6 +70,7 @@
 * 💬 - [社交](#communication)
 * 👤 - [數據平台](#customer-data-platforms)
 * 🗄️ - [資料庫](#databases)
+* 📊 - [數據平台](#data-platforms)
 * 🛠️ - [開發者工具](#developer-tools)
 * 📂 - [文件系統](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
@@ -89,6 +91,7 @@
 通過單個MCP伺服器訪問多個應用程式和工具的伺服器。
 
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 10秒內將Web API轉換為MCP伺服器並將其添加到開源註冊表中: https://open-mcp.org
+- [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一個統一的中間件MCP伺服器，通過GUI管理您的MCP連接。
 
 ### 📂 <a name="browser-automation"></a>瀏覽器自動化
 
@@ -116,6 +119,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 雲平台服務整合。實現與雲基礎設施和服務的管理和交互。
 
+- [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - 基於七牛雲產品構建的 MCP，支援存取七牛雲儲存、智能多媒體服務等。
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - 與 Cloudflare 服務整合，包括 Workers、KV、R2 和 D1
 - [Kubernetes MCP Server](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️ 通過 MCP 操作 Kubernetes 集群
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - 上傳和操作 IPFS 儲存
@@ -126,6 +130,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - 提供對 Netskope Private Access 環境中所有組件的訪問權限，包含詳細的設置資訊和 LLM 使用範例。
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - 🏎️ ☁️/🏠 提供MCP多集群k8s管理操作，提供管理界面、日誌，內建近50種工具，覆蓋常見運維開發場景，支援常規資源、CRD資源。
 - [weibaohui/kom](https://github.com/weibaohui/kom) - 🏎️ ☁️/🏠 提供MCP多集群k8s管理操作，可作為SDK集成到您自己的項目中，內建近50種工具，覆蓋常見運維開發場景，支援常規資源、CRD資源。
+- [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S 是一個 AI 驅動的 Kubernetes 資源管理工具，通過自然語言交互方式，讓用戶能夠輕鬆操作 Kubernetes 集群中的任意資源，包括原生資源（如 Deployment、Service）和自定義資源（CRD）。無需記憶複雜命令，只需描述需求，AI 就能準確執行對應的集群操作，大大提升了 Kubernetes 的易用性。
 
 ### 🖥️ <a name="command-line"></a>Command Line
 
@@ -149,6 +154,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - MCP伺服器 Tools 應用程式，用於向企業微信群機器人發送各種類型的消息。
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - Nostr MCP 伺服器，支援與 Nostr 交互，可發布筆記等功能。
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 這是一個與VRChat API交互的MCP伺服器。您可以獲取VRChat的好友、世界、化身等資訊。
+- [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - 透過 YCloud 平台發送 WhatsApp Business 訊息的 MCP 伺服器。  
 
 ### 👤 <a name="customer-data-platforms"></a>數據平台
 
@@ -168,6 +174,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) 📇 🏠 - Airtable 資料庫集成，具有架構檢查、讀寫功能
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 ☁️ - BigQuery 資料庫集成了架構檢查和查詢功能
 - [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) 🐍 ☁️ - TiDB 資料庫集成，包括表結構的建立 DDL 和 SQL 的執行
+- [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) 🐍 🏠 - 用於 Postgres 開發和運維的多功能 MCP 伺服器，提供性能分析、調優和健康檢查工具
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - Google BigQuery 集成的伺服器實現，可實現直接 BigQuery 資料庫訪問和查詢功能
 - [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) 🐍 ☁️ - 集成 Apache Kafka 和 Timeplus。可以獲取Kafka中的最新數據，並通過 Timeplus 來 SQL 查詢。
 - [jovezhong/mcp-timeplus](https://github.com/jovezhong/mcp-timeplus) 🐍 ☁️ - MCP server for Apache Kafka and Timeplus. Able to list Kafka topics, poll Kafka messages, save Kafka data locally and query streaming data with SQL via Timeplus
@@ -181,6 +188,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) 📇 🏠 - MongoDB 集成使 LLM 能夠直接與資料庫交互。
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - Tinybird 集成查詢和 API 功能
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - MongoDB 的模型上下文協議伺服器
+- [tuannvm/mcp-trino](https://github.com/tuannvm/mcp-trino) 🏎️ ☁️ - 一個使用 Go 語言實現的 Trino 專用 Model Context Protocol (MCP) 伺服器。
 - [KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server) 🐍 ☁️ - VikingDB 資料庫集成了collection和index的基本資訊介紹，並提供向量儲存和查詢的功能.
 - [neo4j-contrib/mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) 🐍 🏠 - Neo4j 的模型上下文協議
 - [isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server) 🐍 ☁️ - Snowflake 集成實現，支援讀取和（可選）寫入操作，並具備洞察跟蹤功能
@@ -190,10 +198,17 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - 查詢 GreptimeDB 的 MCP 服務。
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - 一個用於與 Google Sheets 交互的模型上下文協議伺服器。該伺服器通過 Google Sheets API 提供創建、讀取、更新和管理電子表格的工具。
 
+### 📊 <a name="data-platforms"></a>數據平台
+
+用於資料整合、轉換和管道編排的資料平台。
+
+- [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - 與 Flowcore 互動以執行操作、提取資料並分析、交叉引用和利用您的資料核心或公共資料核心中的任何資料；全部用人類語言。
+
 ### 💻 <a name="developer-tools"></a>開發者工具
 
 增強開發工作流程和環境管理的工具和集成。
 
+- [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - 與[QA Sphere](https://qasphere.com/)測試管理系統整合，使LLM能夠發現、總結和操作測試用例，並可直接從AI驅動的IDE訪問
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - 通過 MCP 進行 Docker 容器管理和操作
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - 一個靈活獲取 JSON、文本和 HTML 數據的 MCP 伺服器
 - [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) 📇 🏠 🍎 - Xcode 集成，支援項目管理、文件操作和構建自動化
@@ -215,6 +230,8 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [higress-group/higress-ops-mcp-server](https://github.com/higress-group/higress-ops-mcp-server) 🐍 🏠 - 支援對 [Higress](https://github.com/alibaba/higress/blob/main/README_ZH.md) 閘道器進行全面的配置和管理。
 - [ReAPI-com/mcp-openapi](https://github.com/ReAPI-com/mcp-openapi) 📇 🏠 - MCP伺服器讓LLM能夠了解您的OpenAPI規範的所有資訊，以發現、解釋和生成代碼/模擬數據
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) 🏎️ 🏠 - 無縫集成任何 API 與 AI 代理（通過 OpenAPI 架構）
+- [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - 一個MCP伺服器，用於在本地透過docker運行程式碼，並支援多種程式語言。
+- [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - 基於 EdgeOne Pages 的 MCP 伺服器，支援代碼部署為在線頁面。
 
 ### 🧮 數據科學工具
 
@@ -398,6 +415,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ [Kibela](https://kibe.la/) 與 MCP 的集成
 - [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - 通過Replicate API提供圖像生成功能。
 - [NakaokaRei/swift-mcp-gui](https://github.com/NakaokaRei/swift-mcp-gui.git) 🏠 🍏 - MCP伺服器，可以執行鍵盤輸入、滑鼠移動等命令
+- [louiscklaw/hko-mcp](https://github.com/louiscklaw/hko-mcp) 📇 🏠 - MCP 伺服器，示範如何從香港天文台獲取天氣數據
 - [kelvin6365/plane-mcp-server](https://github.com/kelvin6365/plane-mcp-server) - 🏎️ 🏠 此 MCP 伺服器將協助您透過 [Plane 的](https://plane.so) API 管理專案和問題
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - 允許 AI 模型與 [HackMD](https://hackmd.io) 交互
 - [pwh-pwh/cal-mcp](https://github.com/pwh-pwh/cal-mcp) - MCP伺服器，可以計算數學表達式
@@ -418,7 +436,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [spring-ai-mcp](https://github.com/spring-projects-experimental/spring-ai-mcp) ☕ 🌱 - 用於構建 MCP 用戶端和伺服器的 Java SDK 和 Spring Framework 集成，支援多種可插拔的傳輸選項
 - [@marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) - CodeMirror 擴展，實現了用於資源提及和提示命令的模型上下文協議 (MCP)
 - [mullerhai/sakura-mcp](https://github.com/mullerhai/sakura-mcp) 🦀 ☕ 🔌 - Scala MCP 框架 構建企業級MCP用戶端和服務端 shade from modelcontextprotocol.io.
--
+  
 ## 實用工具
 
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - 帶有範例伺服器和 MCP 用戶端的 MCP stdio 到 HTTP SSE 傳輸閘道器
