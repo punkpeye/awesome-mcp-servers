@@ -507,10 +507,6 @@ Tools for managing customer support, IT service management, and helpdesk operati
 
 - [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - MCP server that integrates with Freshdesk, enabling AI models to interact with Freshdesk modules and perform various support operations.
 
-Translation tools and services to enable AI assistants to translate content between different languages.
-
-- [translated/lara-mcp](https://github.com/translated/lara-mcp) 📇 🏠 - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
-  
 ### 🌎 <a name="translation-services"></a>Translation Services
 
 Translation tools and services to enable AI assistants to translate content between different languages.
