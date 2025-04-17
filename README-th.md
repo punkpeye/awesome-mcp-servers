@@ -286,6 +286,7 @@
 - [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่ให้ข้อมูล Typescript API อย่างมีประสิทธิภาพแก่ตัวแทนเพื่อให้สามารถทำงานกับ API ที่ไม่ได้รับการฝึกฝน
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - เซิร์ฟเวอร์ MCP เพื่อดึงข้อมูล JSON, ข้อความ และ HTML ได้อย่างยืดหยุ่น
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - เซิร์ฟเวอร์ MCP เพื่อเชื่อมต่อกับไปป์ไลน์ MLOps และ LLMOps ของ [ZenML](https://www.zenml.io)
+- [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) 🦐 – ระบบจัดการงานที่ออกแบบมาสำหรับการเขียนโปรแกรมโดยเฉพาะ ช่วยเพิ่มประสิทธิภาพให้กับโค้ดดิ้งเอเจนต์อย่าง Cursor AI ด้วยหน่วยความจำงานขั้นสูง การสะท้อนตนเอง และการจัดการลำดับงาน [ShrimpTaskManager](https://cjo4m06.github.io/mcp-shrimp-task-manager)
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - เซิร์ฟเวอร์ MCP สำหรับการรันโค้ดในเครื่องผ่าน Docker และรองรับภาษาการเขียนโปรแกรมหลายภาษา
 
 ### 🧮 เครื่องมือวิทยาศาสตร์ข้อมูล
