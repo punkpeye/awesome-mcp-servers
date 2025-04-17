@@ -2,6 +2,49 @@
 
 Servers designed to execute code snippets or scripts in various languages, often in sandboxed environments.
 
+- [slkreddy/mcp](https://github.com/slkreddy/mcp): Facilitates local MCP server setup and integration with cursor tool for executing Python scripts.
+- [giovanoh/mcp-server-govbox](https://github.com/giovanoh/mcp-server-govbox): Facilitates integration between LLMs and Rakefile tasks for automated and secure command execution.
+- [classfang/ssh-mcp-server](https://github.com/classfang/ssh-mcp-server): Facilitates secure remote SSH command execution via the MCP protocol, enabling AI assistants to interact with servers without exposing SSH credentials.
+- [Medinios/SuricataMCP](https://github.com/Medinios/SuricataMCP): SuricataMCP enables autonomous network traffic analysis using Suricata through a Model Context Protocol server, facilitating seamless integration with AI coding tools.
+- [dev-lu/PentestMCP](https://github.com/dev-lu/PentestMCP): Facilitates security scans on Kali Linux using natural language commands via LLMs like Claude.
+- [ap425q/CutterMCP](https://github.com/ap425q/CutterMCP): Facilitates autonomous reverse engineering of applications by LLMs using Cutter's core functionalities.
+- [prayanks/mcp-sqlite-server](https://github.com/prayanks/mcp-sqlite-server): Facilitates access to SQLite databases through MCP clients, enabling read-only SQL queries and data analysis with language models.
+- [marlonluo2018/pandas-mcp-server](https://github.com/marlonluo2018/pandas-mcp-server): Facilitates CSV file handling and Pandas code execution through an MCP server interface.
+- [sosacrazy126/greptile-mcp](https://github.com/sosacrazy126/greptile-mcp): Integrates with the Greptile API to enable AI agents to perform natural language code search and querying across repositories.
+- [patrickomatik/mcp-bash](https://github.com/patrickomatik/mcp-bash): Facilitates the execution of bash commands through a Model-Context-Protocol server interface, enhancing automation capabilities for MCP-aware clients like Claude Desktop.
+- [OpenLinkSoftware/mcp-jdbc-server](https://github.com/OpenLinkSoftware/mcp-jdbc-server): A Java-based MCP server for JDBC, enabling seamless interaction with Virtuoso and other JDBC-compatible databases.
+- [Synohara/supercollider-mcp](https://github.com/Synohara/supercollider-mcp): Facilitates the execution of SuperCollider synths using supercolliderjs through an MCP server.
+- [anzararshad/bigquery-mcp-insert-demo](https://github.com/anzararshad/bigquery-mcp-insert-demo): Facilitates seamless data insertion and table creation in Google BigQuery by enabling Claude to generate and insert sample data via an MCP server.
+- [tallamjr/mcp-test-weather](https://github.com/tallamjr/mcp-test-weather): A demonstration MCP server for executing weather-related commands using the Claude framework.
+- [bewt85/mcp-deno-sandbox](https://github.com/bewt85/mcp-deno-sandbox): Securely execute TypeScript and JavaScript code on your local machine using the Deno® sandbox with granular permission controls.
+- [EdenYavin/Garak-MCP](https://github.com/EdenYavin/Garak-MCP): Facilitates vulnerability scanning on various LLMs using Garak through a lightweight MCP server.
+- [ZephyrDeng/pprof-analyzer-mcp](https://github.com/ZephyrDeng/pprof-analyzer-mcp): A Go-based server for analyzing Go pprof performance profiles, offering tools for generating flame graphs and interactive profiling sessions.
+- [LuckyCurve/mcp](https://github.com/LuckyCurve/mcp): Facilitates the execution of MCP servers using SQLite and Python for streamlined operations.
+- [Orthogonalpub/modelica_simulation_mcp_server](https://github.com/Orthogonalpub/modelica_simulation_mcp_server): Facilitates Modelica model simulations, enabling LLMs to execute and manage Modelica-related tasks.
+- [p1atdev/code_search_mcp](https://github.com/p1atdev/code_search_mcp): Facilitates code search functionality through an MCP server setup, enabling efficient code retrieval and analysis.
+- [akr4/claude-code-mcp-docker](https://github.com/akr4/claude-code-mcp-docker): A Docker container for running Claude Code MCP server with enhanced security features, including a network firewall to prevent unauthorized outbound connections.
+- [Neuron1c/mcp-notebooks](https://github.com/Neuron1c/mcp-notebooks): Facilitates progressive code execution in notebooks, allowing LLMs to retain variables and react to errors swiftly.
+- [Bamimore-Tomi/ghidra_mcp](https://github.com/Bamimore-Tomi/ghidra_mcp): Transforms Ghidra into a reverse-engineering backend by extracting decompiled binary data and exposing it to LLMs via MCP.
+- [foxytanuki/mcp-sandbox](https://github.com/foxytanuki/mcp-sandbox): A sandbox environment for testing MCP server configurations with Claude Desktop.
+- [l1806858547/tidb-server](https://github.com/l1806858547/tidb-server): Facilitates executing SELECT queries on TiDB using MCP tools with secure and lightweight operations.
+- [mcollina/perm-shell-mcp](https://github.com/mcollina/perm-shell-mcp): PermShell MCP enables secure execution of shell commands with explicit permission notifications, ensuring transparency and safety.
+- [smahesaniya/mcp-mssql](https://github.com/smahesaniya/mcp-mssql): Facilitates SQL query execution against Microsoft SQL Server databases, supporting only SELECT queries.
+- [BhagyaAmarasinghe/mcp-kubernetes](https://github.com/BhagyaAmarasinghe/mcp-kubernetes): Facilitates the execution of Kubernetes commands via Claude Desktop or any MCP-compatible client.
+- [chew-z/DeepseekMCP](https://github.com/chew-z/DeepseekMCP): A Golang-based MCP server that integrates with DeepSeek's API for advanced code review and file management.
+- [PhelanShao/dpdispatcher-mcp-server](https://github.com/PhelanShao/dpdispatcher-mcp-server): Facilitates the submission and management of computational jobs on local or HPC clusters using the dpdispatcher library.
+- [skeet-build/redis](https://github.com/skeet-build/redis): Facilitates read-only access to Redis databases, enabling LLMs to inspect and execute Redis commands.
+- [skeet-build/mysql](https://github.com/skeet-build/mysql): Facilitates read-only access to MySQL databases, allowing LLMs to inspect schemas and execute queries seamlessly.
+- [lotharschulz/mcp-server-rust](https://github.com/lotharschulz/mcp-server-rust): A Rust-based MCP server integrated with a client for local execution and configuration with Claude Desktop.
+- [skeet-build/postgres](https://github.com/skeet-build/postgres): Facilitates read-only access to PostgreSQL databases for LLMs, enabling schema inspection and query execution.
+- [snowsky/mcp-helmfile](https://github.com/snowsky/mcp-helmfile): Facilitates Helmfile command execution and management through a standardized MCP interface, enhancing AI-assisted deployments and configurations.
+- [tuannvm/mcp-trino](https://github.com/tuannvm/mcp-trino): Facilitates AI-driven interactions with Trino's distributed SQL engine using a high-performance MCP server in Go.
+- [gamunu/mcp-unix-shell](https://github.com/gamunu/mcp-unix-shell): A Go-based server for executing shell commands via MCP, featuring command execution history and configurable security settings.
+- [yy1588133/code-merge-mcp](https://github.com/yy1588133/code-merge-mcp): Facilitates code file extraction, merging, and analysis for large language models using the Model Context Protocol.
+- [Neshri/MCP_Function_Writer_Server](https://github.com/Neshri/MCP_Function_Writer_Server): Generates Python function code from descriptions with optional human-provided test cases.
+- [302ai/302_sandbox_mcp](https://github.com/302ai/302_sandbox_mcp): A secure MCP service enabling AI assistants to execute arbitrary code within a sandbox environment.
+- [yeger00/kev-mcp](https://github.com/yeger00/kev-mcp): A Python-based MCP server for querying CISA's Known Exploited Vulnerabilities catalog using DuckDB.
+- [misanthropic-ai/lean-docker-mcp](https://github.com/misanthropic-ai/lean-docker-mcp): Facilitates the execution of Lean4 code in isolated Docker containers for LLM-powered agents, offering both transient and persistent environments.
+- [RedSiamese/sitter_tree_mcp](https://github.com/RedSiamese/sitter_tree_mcp): Sitter Tree MCP leverages Tree-sitter to parse code into XML syntax trees, enhancing large language models' ability to analyze and understand code structures.
 - [shreyu258/Jupyter_MCP_Server](https://github.com/shreyu258/Jupyter_MCP_Server): Facilitates AI-assisted code execution and data analysis by integrating Jupyter Notebooks with Claude AI via the Model Context Protocol.
 - [connectwithprakash/mcp-servers](https://github.com/connectwithprakash/mcp-servers): Enhance AI assistants with custom capabilities through a collection of Model Context Protocol servers, including semantic search and course comparison for Great Learning's educational content.
 - [torohash/firecrawl-sse-mcp](https://github.com/torohash/firecrawl-sse-mcp): Integrates Firecrawl web scraping API with AI assistants, offering automated web crawling, data extraction, and deep research capabilities.
@@ -15,6 +58,7 @@ Servers designed to execute code snippets or scripts in various languages, often
 - [miyamo2/mcp-restaurant-order](https://github.com/miyamo2/mcp-restaurant-order): A playful MCP server implementation for simulating restaurant order scenarios with multilingual support.
 - [t-shiratori/mcp-server-example-random-num](https://github.com/t-shiratori/mcp-server-example-random-num): A TypeScript-based MCP server example that generates random numbers for integration with Claude for Desktop.
 - [sunmer/node-simple-mcp-example](https://github.com/sunmer/node-simple-mcp-example): Facilitates interaction between Claude and a local JSON server using MCP for executing commands and data manipulation.
+- [conao3/python-mcp-nrepl](https://github.com/conao3/python-mcp-nrepl): A Python-based MCP server utilizing nREPL for seamless integration and development.
 - [jigarbhoye04/MatlabMCP](https://github.com/jigarbhoye04/MatlabMCP): Facilitates the execution of MATLAB code from Python using the MATLAB Engine API, enabling seamless integration with LLMs.
 - [yzfly/mcp-python-interpreter](https://github.com/yzfly/mcp-python-interpreter): Facilitates LLM interaction with Python environments for code execution, file management, and development workflows.
 - [ktrysmt/mcp-script-runner](https://github.com/ktrysmt/mcp-script-runner): Facilitates the execution of shell scripts as tools within a designated directory using MCP server capabilities.

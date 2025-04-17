@@ -2,6 +2,9 @@
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [gramou/NeuroPwn](https://github.com/gramou/NeuroPwn): NeuroPwn integrates AI-driven reasoning with Kali Linux's security tools to automate vulnerability discovery.
+- [naebo/mcp-external-recon-server](https://github.com/naebo/mcp-external-recon-server): Conducts active external reconnaissance with DNS enumeration, subdomain discovery, and SSL certificate inspection for offensive security engagements.
+- [JithukrishnanV/MCP-CyberAgent](https://github.com/JithukrishnanV/MCP-CyberAgent): MCP-CyberAgent connects Claude Desktop with cybersecurity tools like VirusTotal, Nmap, and Shodan for AI-driven threat detection and network analysis.
 - [MorDavid/ExternalAttacker-MCP](https://github.com/MorDavid/ExternalAttacker-MCP): ExternalAttacker integrates automated reconnaissance tools with a natural language interface for comprehensive external attack surface management.
 - [MorDavid/BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI): BloodHound-MCP-AI enables security professionals to analyze Active Directory attack paths using natural language through AI integration with BloodHound via the Model Context Protocol.
 - [stoyky/mitre-attack-mcp](https://github.com/stoyky/mitre-attack-mcp): Facilitates querying and visualizing the MITRE ATT&CK knowledge base, enabling threat actor and malware attribution through a Model-Context Protocol server.
@@ -36,6 +39,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [fdrechsler/mcp-server-idapro](https://github.com/fdrechsler/mcp-server-idapro): Facilitates AI-driven reverse engineering and binary analysis by bridging AI assistants with IDA Pro.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP): Enhances Ghidra's reverse engineering capabilities with AI-assisted binary analysis via the Model Context Protocol.
 - [9olidity/MCP-Server-Pentest](https://github.com/9olidity/MCP-Server-Pentest): A robust MCP server for automated browser-based vulnerability testing, including XSS and SQL injection detection, with comprehensive interaction capabilities.
+- [TheRaLabs/legion-mcp](https://github.com/TheRaLabs/legion-mcp): Facilitates database access and query execution through MCP integration, supporting multiple databases with flexible deployment options.
 - [marcoeg/mcp-nvd](https://github.com/marcoeg/mcp-nvd): Facilitates querying the NIST National Vulnerability Database using the Model Context Protocol for real-time vulnerability data retrieval.
 - [Cyreslab-AI/exploitdb-mcp-server](https://github.com/Cyreslab-AI/exploitdb-mcp-server): Enhances cybersecurity research by enabling AI assistants to query ExploitDB for security exploits and vulnerabilities.
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP): Facilitates autonomous reverse engineering of applications by LLMs using Ghidra's core functionalities.

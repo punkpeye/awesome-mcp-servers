@@ -2,6 +2,14 @@
 
 Servers specifically designed to interact with CMS platforms.
 
+- [PragmaTech-GmbH/bootiful-wordpress-mcp-server](https://github.com/PragmaTech-GmbH/bootiful-wordpress-mcp-server): A Java and Spring Boot-based server facilitating WordPress integration through MCP.
+- [7nohe/confluence-mcp-server](https://github.com/7nohe/confluence-mcp-server): Facilitates interaction with Confluence pages through a Model Context Protocol server using the Confluence API.
+- [SunnyCloudYang/hugo-mcp](https://github.com/SunnyCloudYang/hugo-mcp): Manage and deploy Hugo static sites with a comprehensive suite of tools for environment setup, site management, and theme customization.
+- [GuilhermeBarroso-sys/trello-report-mcp](https://github.com/GuilhermeBarroso-sys/trello-report-mcp): Generate detailed Trello board reports by quarter or year, integrating seamlessly with AI assistants.
+- [lxkaka/mcp-label-studio](https://github.com/lxkaka/mcp-label-studio): Facilitates the management and interaction with Label Studio projects, offering tools for project creation, data import/export, and annotation workflows.
+- [pixelsock/directus-mcp](https://github.com/pixelsock/directus-mcp): Facilitates AI client interactions with Directus CMS via MCP, enabling seamless API integration.
+- [gopalcnepal/mcp-wordpress](https://github.com/gopalcnepal/mcp-wordpress): Facilitates interaction with WordPress sites by fetching posts, pages, and categories using the REST API.
+- [Harry-027/JotDown](https://github.com/Harry-027/JotDown): Facilitates seamless integration of LLMs with Notion for page creation and mdBook generation, enhancing content management workflows.
 - [jpollock/wordpress-mcp](https://github.com/jpollock/wordpress-mcp): Facilitates comprehensive management of WordPress sites through the REST API, offering tools for site, content, user, taxonomy, plugin, and theme management.
 - [calafate40/MCP-FileMaker](https://github.com/calafate40/MCP-FileMaker): Facilitates access to FileMaker databases via the Model Context Protocol with token-based authentication and record search capabilities.
 - [abdallah-abdelsabour/mcp_odoo](https://github.com/abdallah-abdelsabour/mcp_odoo): Integrates Odoo ORM methods with Claude Desktop using an MCP server for prompt processing.

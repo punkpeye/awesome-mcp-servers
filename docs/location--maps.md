@@ -2,6 +2,16 @@
 
 Servers using mapping APIs, providing geolocation services, address lookups, or geospatial data.
 
+- [num2k/naver-map-mcp](https://github.com/num2k/naver-map-mcp): Utilizes Naver Map APIs for geocoding, reverse geocoding, and route searches, integrated with Claude Desktop.
+- [variflight/variflight-mcp](https://github.com/variflight/variflight-mcp): Facilitates querying flight information, weather data, and flight comfort metrics for Variflight services.
+- [Moe03/mcp-hello-world](https://github.com/Moe03/mcp-hello-world): Facilitates interaction with Google Maps API for geocoding, reverse geocoding, place searches, and more.
+- [cevatkerim/chargenow-mcp](https://github.com/cevatkerim/chargenow-mcp): Facilitates AI assistants in locating and providing real-time status of EV charging stations using the ChargeNow API.
+- [rajprem4214/indian-railways-mcp](https://github.com/rajprem4214/indian-railways-mcp): Provides real-time station status and train information for Indian Railways using the Model Context Protocol.
+- [kennyfong19931/mcp-hk-transport-eta](https://github.com/kennyfong19931/mcp-hk-transport-eta): Facilitates real-time public transport ETA retrieval in Hong Kong via an MCP server.
+- [harimkang/mcp-korea-tourism-api](https://github.com/harimkang/mcp-korea-tourism-api): Empower AI assistants to explore South Korea's tourism offerings using the Korea Tourism API, providing detailed insights into attractions, events, and accommodations.
+- [sokyran/location-mcp-server](https://github.com/sokyran/location-mcp-server): Facilitates location data retrieval from a macOS app for integration with Claude Desktop.
+- [donghyun-chae/mcp-amadeus](https://github.com/donghyun-chae/mcp-amadeus): Integrates with the Amadeus Flight Offers Search API to enable natural language flight searches through MCP-compatible clients.
+- [yeonupark/mcp-naver-map](https://github.com/yeonupark/mcp-naver-map): Integrates with Naver Cloud's Geolocation and Directions15 APIs to provide IP-based location lookup and route finding capabilities.
 - [aldotestino/weather-mcp](https://github.com/aldotestino/weather-mcp): Provides real-time weather and geolocation data for seamless integration with AI-native environments using the OpenWeather API.
 - [hiroaqii/jp-weather-mcp-server](https://github.com/hiroaqii/jp-weather-mcp-server): Provides weather forecasts for Japan using a compatible API.
 - [overstarry/qweather-mcp](https://github.com/overstarry/qweather-mcp): Provides weather information query capabilities through the QWeather API using Model Context Protocol.
@@ -57,5 +67,4 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 - [LoloaBe/weather](https://github.com/LoloaBe/weather): Facilitates note storage and summarization with customizable prompts and tools for managing note resources.
 - [youqingkui/dify_service](https://github.com/youqingkui/dify_service): A server that manages note storage and summarization with custom URI schemes and prompt tools.
 - [egublog/claude_mcp_weather](https://github.com/egublog/claude_mcp_weather): A TypeScript-based MCP server implementing a notes system with tools for note creation and summarization.
-- [duan-li/mcp-weather-server-example](https://github.com/duan-li/mcp-weather-server-example): A weather server utilizing MCP to manage and summarize note resources with customizable prompts.
 

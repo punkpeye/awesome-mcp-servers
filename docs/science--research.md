@@ -2,12 +2,18 @@
 
 Servers accessing scientific databases, research platforms, or providing tools for scientific computation/simulation.
 
+- [AbhiTheModder/LYADI](https://github.com/AbhiTheModder/LYADI): Facilitates reverse engineering tasks with a focus on Android, integrating tools like APKEditor, Radare2, and ADB for decompilation and debugging.
+- [huang-sh/scmcp](https://github.com/huang-sh/scmcp): Facilitates scRNA-Seq analysis using natural language through an MCP server, enabling seamless integration with AI clients and agent frameworks.
+- [huang-sh/scanpy-mcp](https://github.com/huang-sh/scanpy-mcp): Facilitates natural language-driven scRNA-Seq analysis using Scanpy, enabling seamless integration with AI clients and agent frameworks.
+- [entropic-digital/bioinformatics-mcp-example](https://github.com/entropic-digital/bioinformatics-mcp-example): Facilitates bioinformatics tasks by integrating with Claude Desktop through a Docker-based MCP server.
+- [ytworks/chatMol](https://github.com/ytworks/chatMol): ChatMol calculates molecular properties from SMILES notations, enabling chemical data analysis with Claude Desktop.
 - [takashiishida/arxiv-latex-mcp](https://github.com/takashiishida/arxiv-latex-mcp): Facilitates precise interpretation of mathematical expressions in arXiv papers by processing LaTeX sources for Claude Desktop.
 - [marron-b/paperMate](https://github.com/marron-b/paperMate): PaperMate enhances academic research by integrating MCP server capabilities for paper search, recommendation, and PDF conversion through the Claude Desktop app.
 - [Darkroaster/pubmearch](https://github.com/Darkroaster/pubmearch): Facilitates rapid insights into medical research dynamics through advanced PubMed literature analysis.
 - [cnosuke/mcp-wolfram-alpha](https://github.com/cnosuke/mcp-wolfram-alpha): Facilitates high-precision computational queries and scientific data retrieval via Wolfram Alpha API for LLMs.
 - [Kryzo/mcp-europeana](https://github.com/Kryzo/mcp-europeana): Generate comprehensive research documents using Europeana's digital library sources, integrating with AI tools via MCP.
 - [GDAmitha/chimerax-alphafold-mcp](https://github.com/GDAmitha/chimerax-alphafold-mcp): ChimeraX-AlphaFold-MCP facilitates seamless integration between ChimeraX, AlphaFold, and Claude AI, enabling advanced molecular visualization and structural analysis through natural language commands.
+- [MJunKWON/multiplication-teacher-mcp](https://github.com/MJunKWON/multiplication-teacher-mcp): Facilitates multiplication table calculations through an MCP server with Claude Desktop integration.
 - [vitamin3615/uniprot-mcp-server](https://github.com/vitamin3615/uniprot-mcp-server): Facilitates language models in retrieving protein data from the UniProt database, supporting integration with Claude Desktop and other MCP-compatible AI applications.
 - [podaac/cmr-mcp](https://github.com/podaac/cmr-mcp): Integrates AI retrievals with NASA's Earthdata Catalog using the Model Context Protocol.
 - [KunihiroS/google-patents-mcp](https://github.com/KunihiroS/google-patents-mcp): Facilitates Google Patents searches using SerpApi through an MCP server interface.
@@ -28,7 +34,6 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [YuChenSSR/quantum-simulator-mcp](https://github.com/YuChenSSR/quantum-simulator-mcp): A Docker-based quantum circuit simulator implementing MCP for seamless integration with clients like Claude, featuring noise models and OpenQASM 2.0 support.
 - [tejpalvirk/quantitativeresearch](https://github.com/tejpalvirk/quantitativeresearch): Facilitates the management of quantitative research knowledge graphs, enabling structured representation and analysis of research data, hypotheses, and results.
 - [tejpalvirk/qualitativeresearch](https://github.com/tejpalvirk/qualitativeresearch): Facilitates the management of qualitative research knowledge graphs, enabling structured representation and analysis of research data.
-- [zhaoyouj/mcp-slicer](https://github.com/zhaoyouj/mcp-slicer): Facilitates seamless interaction between 3D Slicer and model clients for medical image processing and scene manipulation using natural language.
 - [egtai/gmx-vmd-mcp](https://github.com/egtai/gmx-vmd-mcp): Facilitates molecular dynamics simulations and visualization by integrating GROMACS with VMD through a microservice architecture.
 - [clssck/researcher-mcp](https://github.com/clssck/researcher-mcp): A research assistant server that integrates with Cline and Claude Desktop, utilizing Perplexity AI for intelligent search, documentation retrieval, API discovery, and code modernization assistance.
 - [ChatMol/molecule-mcp](https://github.com/ChatMol/molecule-mcp): Facilitates molecule modeling by integrating molecule science tools with Claude AI through the Model Context Protocol.

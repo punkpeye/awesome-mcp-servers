@@ -2,6 +2,17 @@
 
 Servers interacting with social networks, content platforms, or feed aggregators.
 
+- [Yooki-K/weibo-mcp-server](https://github.com/Yooki-K/weibo-mcp-server): Fetches and displays Weibo hot search data, including rankings, details, and comments, using the MCP framework.
+- [bossdong955/weibo-mcp-server](https://github.com/bossdong955/weibo-mcp-server): Facilitates retrieval of the top N trending topics on Weibo with support for stdio and SSE modes.
+- [hasmokan/x-kit-mcp](https://github.com/hasmokan/x-kit-mcp): Fetches and analyzes Twitter updates for large language models, focusing on e-sports insights.
+- [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp): Tracks historical changes of Twitter usernames to identify potential scam risks in crypto projects.
+- [Zmingfeng/news_mcp](https://github.com/Zmingfeng/news_mcp): A tool for retrieving and integrating current news from multiple sources with MCP-supported AI assistants.
+- [renant/mcp-tabnews](https://github.com/renant/mcp-tabnews): Facilitates seamless integration with TabNews by providing a suite of tools for content retrieval and analytics through the Model Context Protocol.
+- [egoist/raindrop-mcp](https://github.com/egoist/raindrop-mcp): Facilitates interaction with Raindrop.io for managing and searching bookmarks through MCP protocol.
+- [dabidstudio/youtubeinsights-mcp-server](https://github.com/dabidstudio/youtubeinsights-mcp-server): Facilitates insight extraction from YouTube videos, enabling subtitle parsing, keyword-based video discovery, and channel info retrieval.
+- [viceentmarti4/mcp-metricool](https://github.com/viceentmarti4/mcp-metricool): Facilitates AI-driven analysis of social media metrics and campaign data via the Metricool API.
+- [tropical-362827/futaba-mcp](https://github.com/tropical-362827/futaba-mcp): A Python library enabling AI assistants to interact with ふたば☆ちゃんねる by retrieving and sorting thread data.
+- [TuliEscobar/mcp-linkedin](https://github.com/TuliEscobar/mcp-linkedin): Facilitates interaction with LinkedIn's Feeds and Job API using unofficial LinkedIn API access.
 - [Oliviergg/boring-news-mcp](https://github.com/Oliviergg/boring-news-mcp): A Python server library enabling interaction with the Boring News API to fetch and summarize daily news through a MCP server.
 - [the0807/GeekNews-MCP-Server](https://github.com/the0807/GeekNews-MCP-Server): Facilitates the retrieval of articles and weekly news from GeekNews using BeautifulSoup for web scraping.
 - [mzkrasner/twitter-client-mcp](https://github.com/mzkrasner/twitter-client-mcp): Securely integrates Twitter functionalities with the ElizaOS agent-twitter-client library, offering operations like tweeting, profile management, and relationship handling.
@@ -54,6 +65,7 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [normal-coder/gitee-mcp-server](https://github.com/normal-coder/gitee-mcp-server): Empower AI to manage Gitee repositories, issues, and pull requests seamlessly through MCP integration.
 - [algonacci/mcp-gnews](https://github.com/algonacci/mcp-gnews): Facilitates internet news searches through an MCP server interface.
 - [pl728/substack-fetcher-mcp](https://github.com/pl728/substack-fetcher-mcp): Fetch and read articles from Substack using an MCP server integrated with Claude AI assistant.
+- [zhangzhongnan928/mcp-warpcast-server](https://github.com/zhangzhongnan928/mcp-warpcast-server): Facilitates seamless interaction with Warpcast through Claude, enabling posting, reading, and searching of casts, as well as channel management.
 - [DaInfernalCoder/unsplash-server](https://github.com/DaInfernalCoder/unsplash-server): Integrates Unsplash image search and retrieval with AI assistants, enabling seamless access to high-quality images.
 - [devabdultech/hn-mcp](https://github.com/devabdultech/hn-mcp): Enhance your LLM clients with real-time access to Hacker News stories, comments, and user profiles through this powerful MCP server.
 - [manimohans/verge-news-mcp](https://github.com/manimohans/verge-news-mcp): Fetch and search The Verge news articles via an MCP server, integrating seamlessly with tools like Claude and Smithery.
@@ -63,7 +75,7 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [Hawstein/mcp-server-reddit](https://github.com/Hawstein/mcp-server-reddit): Facilitates LLM interaction with Reddit's public API, enabling access to posts, subreddit details, and comments via the MCP protocol.
 - [trilogy-group/youtube-summarizer-mcp](https://github.com/trilogy-group/youtube-summarizer-mcp): Facilitates AI integration with YouTube summarization tools via the MCP protocol, supporting local connections for enhanced media content processing.
 - [kabir-ti/youtube-summarizer-mcp](https://github.com/kabir-ti/youtube-summarizer-mcp): Facilitates AI applications to integrate with YouTube-Summarizer APIs via MCP protocol for local connections.
-- [TomCools/twitch-mcp](https://github.com/TomCools/twitch-mcp): Connects MCP Clients like Claude to Twitch Chat using a Quarkus-based server.
+- [FilippTrigub/linkedin-mcp](https://github.com/FilippTrigub/linkedin-mcp): Facilitates direct posting to LinkedIn from Claude Desktop, supporting text and media attachments with OAuth2 authentication.
 - [xytangme/neodb-mcp](https://github.com/xytangme/neodb-mcp): Facilitates interaction with NeoDB's social book cataloging service through an MCP server, enabling user info retrieval and book searches.
 - [wllcnm/mcp-reddit](https://github.com/wllcnm/mcp-reddit): Facilitates interaction with Reddit content through Claude and other large language models using the MCP protocol.
 - [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn): Facilitates interaction with Hacker News by fetching stories, comments, and user information through a Model Context Protocol server.

@@ -2,8 +2,66 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [norman-finance/norman-mcp-server](https://github.com/norman-finance/norman-mcp-server): Facilitates interaction between LLMs and the Norman Finance API for managing accounting, invoices, and client data.
+- [b-open-io/bsv-mcp](https://github.com/b-open-io/bsv-mcp): Facilitates Bitcoin SV blockchain interactions through the Model Context Protocol, offering tools for wallet management, ordinals, and utility functions.
+- [joaquim-verges/blockchain-mcp](https://github.com/joaquim-verges/blockchain-mcp): Empower your LLM with blockchain capabilities using thirdweb for token deployment, minting, and transfers.
+- [ChangooLee/opendart-mcp](https://github.com/ChangooLee/opendart-mcp): Facilitates AI model access to South Korea's Financial Supervisory Service's DART data via the OpenDART API using the MCP protocol.
+- [itisaevalex/financial-reports-mcp-server](https://github.com/itisaevalex/financial-reports-mcp-server): Connects the FinancialReports.eu API to language models for seamless querying and analysis of European financial data.
+- [SmartTokenLabs/TransactionSimulatorMCP](https://github.com/SmartTokenLabs/TransactionSimulatorMCP): AI-driven analysis of Ethereum transactions, simulating outcomes and providing insights on token balances and gas costs.
+- [suxiongye/random-web3-mcp](https://github.com/suxiongye/random-web3-mcp): RandomWeb3MCP offers verifiable and diverse random element generation using blockchain technology for applications in gaming, finance, and testing.
+- [edkranz/up-mcp](https://github.com/edkranz/up-mcp): Facilitates interaction with the Up Bank API for managing accounts, transactions, categories, tags, and webhooks through MCP-enabled clients.
+- [Otman404/finance-mcp-server](https://github.com/Otman404/finance-mcp-server): Facilitates real-time access to stock and cryptocurrency prices and news for LLMs.
+- [mark3labs/phalcon-mcp](https://github.com/mark3labs/phalcon-mcp): Integrates with BlockSec to provide comprehensive blockchain transaction analysis tools via MCP.
+- [kenny-kerson/mcp-transfer-account](https://github.com/kenny-kerson/mcp-transfer-account): Facilitates account transfers through an MCP server integrated with AI agents and a Spring Boot API.
+- [batprem/set-mcp](https://github.com/batprem/set-mcp): Facilitates AI-driven access to comprehensive financial data from the Securities Exchange of Thailand using Model Context Protocol.
+- [rjn32s/mcp-blockchain](https://github.com/rjn32s/mcp-blockchain): A robust blockchain server leveraging MCP for Ethereum address validation, gas fee estimation, wallet balance checking, and smart contract ownership verification.
+- [ahmedali8/lumenfi-ai](https://github.com/ahmedali8/lumenfi-ai): A DeFi agent integrating multiple MCP servers for cryptocurrency market data and EVM blockchain interactions.
+- [KalharPandya/upstocks-mcp](https://github.com/KalharPandya/upstocks-mcp): Facilitates AI-driven trading and market data access on the Upstox platform through a standardized interface.
+- [adairrr/cosmwasm-mcp](https://github.com/adairrr/cosmwasm-mcp): Facilitates AI-driven management and interaction with CosmWasm smart contracts using a Rust-based MCP server.
+- [PIN-AI/modelcontextprotocol-hackathon](https://github.com/PIN-AI/modelcontextprotocol-hackathon): Integrates multiple cryptocurrency and web search APIs to enhance Claude's crypto research and web search capabilities.
+- [AgentFlow-Hub/MVP](https://github.com/AgentFlow-Hub/MVP): A terminal-based AI trading assistant with BNB Chain wallet integration, offering MCP server capabilities for enhanced trading operations.
+- [iAMSagar44/batch-job-mcp](https://github.com/iAMSagar44/batch-job-mcp): Facilitates batch processing of financial transactions using AI categorization and Spring Batch integration.
+- [Adity-star/mcp-yfinance-server](https://github.com/Adity-star/mcp-yfinance-server): A real-time stock data server leveraging the YFinance API, designed for seamless integration with MCP to empower AI agents with advanced stock analysis and management capabilities.
+- [Adity-star/mcp-crypto-server](https://github.com/Adity-star/mcp-crypto-server): A cryptocurrency price lookup service using the ALPACA API, designed for seamless integration with AI agents via MCP.
+- [August1996/mcp-akshare](https://github.com/August1996/mcp-akshare): Transforms Akshare financial data interfaces into a standardized MCP tool format with a unified API for diverse financial data access.
+- [qingfengzxr/eth-mcp-server](https://github.com/qingfengzxr/eth-mcp-server): Provides Ethereum blockchain capabilities to AI assistants through the MCP framework, enabling real-time access to ETH balances, prices, and transaction details.
+- [LaplaceMan/web3-assistant-mcp](https://github.com/LaplaceMan/web3-assistant-mcp): Facilitates secure interaction with blockchain smart contracts across multiple chains, offering features like ABI analysis and contract method invocation.
+- [mathinml/mcp_money_track](https://github.com/mathinml/mcp_money_track): Tracks and manages financial transactions using a customizable MCP server setup.
+- [quanghuynguyen1902/jupiter-mcp-server](https://github.com/quanghuynguyen1902/jupiter-mcp-server): Facilitates Claude AI's interaction with Jupiter's swap API on Solana for seamless token swaps.
+- [djsamseng/bloomberg-mcp](https://github.com/djsamseng/bloomberg-mcp): Provides financial data from Bloomberg's blpapi via a MCP server.
+- [a6b8/solTracker-mcp](https://github.com/a6b8/solTracker-mcp): SolTracker MCP Server offers seamless access to Solana's token, wallet, and trading data, integrating effortlessly with LLM agents.
+- [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp): Conducts in-depth cryptocurrency research by aggregating data from multiple sources and generating structured reports.
+- [Bulletninja/mcp-ynab](https://github.com/Bulletninja/mcp-ynab): Connects Cursor to YNAB for seamless financial data management via MCP tools.
+- [vib3ai/monad-mcp-server](https://github.com/vib3ai/monad-mcp-server): Facilitates AI assistants in interacting with the Monad blockchain for balance checks and token transfers.
+- [a6b8/moralis-mcp](https://github.com/a6b8/moralis-mcp): Facilitates seamless blockchain data querying across multiple networks via Moralis Web3 API endpoints, leveraging a Model Context Protocol server.
+- [Rayato159/your-money-left-the-chat](https://github.com/Rayato159/your-money-left-the-chat): A Rust-native financial tracker that uses MCP to log and analyze spending habits through natural language conversations, all stored locally with SQLite.
+- [TradingBalthazar/hyperliquid-mcp-server-v6](https://github.com/TradingBalthazar/hyperliquid-mcp-server-v6): Facilitates trading and strategy management on the Hyperliquid exchange through a Model Context Protocol server.
+- [ferandreassi/binance-mcp](https://github.com/ferandreassi/binance-mcp): Integrates Binance's data vision API to provide real-time cryptocurrency price information via MCP protocol.
+- [big-mouth-cn/ledger-mate-mcp-server-for-typescript](https://github.com/big-mouth-cn/ledger-mate-mcp-server-for-typescript): A TypeScript-based MCP server enabling AI-driven personal finance management through natural language interactions.
+- [Lavande/moveflow-mcp](https://github.com/Lavande/moveflow-mcp): Facilitates AI-driven management of payment streams on the Aptos blockchain through a TypeScript-based MCP server.
+- [dasein108/mcp-cw-graph](https://github.com/dasein108/mcp-cw-graph): Facilitates interaction with CW-Social smart contracts on Cosmos blockchains through CRUD operations and rich query capabilities for cyberlinks.
+- [exekerey/3xpl-mcp](https://github.com/exekerey/3xpl-mcp): Facilitates interaction with 48 blockchains via the 3xpl.com JSON API, enabling LLMs to query blockchain data efficiently.
+- [Lacri1/MCP](https://github.com/Lacri1/MCP): Access real-time company information and stock prices through a configurable MCP server using Claude.
+- [intentos-labs/beeper-mcp](https://github.com/intentos-labs/beeper-mcp): Facilitates beeper transactions on Binance Smart Chain, offering tools for balance management, token transfers, swaps, and reward claims.
+- [jinhongzou/FinQ4Cn-mcp-server](https://github.com/jinhongzou/FinQ4Cn-mcp-server): FinQ4Cn-mcp-server provides comprehensive access to China's A-share market data for quantitative financial analysis, leveraging the akshare library.
+- [EmanuelJr/web3-mcp-server](https://github.com/EmanuelJr/web3-mcp-server): Facilitates Web3 interactions on EVM chains using the Model Context Protocol, enabling token balance fetching and smart contract function calls.
+- [niceberginc/agentipy-mcp](https://github.com/niceberginc/agentipy-mcp): Facilitates seamless blockchain operations for Claude AI by integrating with the Solana blockchain through a standardized interface.
+- [Rayato159/sol-chad-mcp](https://github.com/Rayato159/sol-chad-mcp): Leverage AI and MCP to seamlessly manage and trade your Solana wallet using natural language commands.
+- [snjyor/binance-mcp](https://github.com/snjyor/binance-mcp): Facilitates AI agents in accessing real-time Binance cryptocurrency market data through MCP service.
+- [CoinStatsHQ/coinstats-mcp](https://github.com/CoinStatsHQ/coinstats-mcp): Access cryptocurrency market data, portfolio tracking, and news via the CoinStats MCP server.
+- [blackfrogai/crypto-mcp](https://github.com/blackfrogai/crypto-mcp): Facilitates secure and controlled interactions between LLMs and blockchain technologies, enabling applications like DeFi analysis and NFT management.
+- [mottibec/israeli-bank-mcp](https://github.com/mottibec/israeli-bank-mcp): Manage Israeli bank accounts and transactions securely using the Model Context Protocol, supporting all major banks and credit card companies.
+- [zwldarren/akshare-one-mcp](https://github.com/zwldarren/akshare-one-mcp): Provides interfaces for accessing comprehensive China stock market data, including historical, real-time, and financial statements.
+- [hongster/bnm-mcp](https://github.com/hongster/bnm-mcp): Provides a Model Context Provider server for accessing a subset of the Bank Negara Malaysia OpenAPI, including financial consumer alerts and exchange rates.
+- [jeasonstudio/zan-mcp-server](https://github.com/jeasonstudio/zan-mcp-server): Facilitates seamless blockchain interaction for AI assistants by providing a Model Context Protocol server tailored for ZAN.top node services.
+- [bobtista/solscan_mcp_server](https://github.com/bobtista/solscan_mcp_server): Facilitates interaction with the Solscan Pro API to query token and transaction data on the Solana blockchain via LLMs.
+- [silviorodrigues/organizze-mcp](https://github.com/silviorodrigues/organizze-mcp): Facilitates seamless interaction with the Organizze API for managing financial accounts, transactions, and budgets.
+- [HARISHSENTHIL/web3_mcp](https://github.com/HARISHSENTHIL/web3_mcp): Facilitates secure interactions with multiple blockchains through simple RPC endpoints, supporting operations on Solana, Ethereum, Cardano, and more.
 - [janswist/mcp-dexscreener](https://github.com/janswist/mcp-dexscreener): Enables AI agents to access on-chain price data via Dexscreener's API.
 - [kukapay/crypto-news-mcp](https://github.com/kukapay/crypto-news-mcp): Provides real-time cryptocurrency news for AI agents, sourced from NewsData, with tools for fetching and searching headlines.
+- [dlwjdtn535/mcp-bybit-server](https://github.com/dlwjdtn535/mcp-bybit-server): Facilitates seamless interaction with the Bybit API for market data retrieval, account management, and order execution using MCP tools.
+- [nimitmk7/mcp-finance](https://github.com/nimitmk7/mcp-finance): Facilitates LLM access to financial data, including stock prices and company information, using yfinance and MarketAux API.
+- [zereight/bithumb-mcp](https://github.com/zereight/bithumb-mcp): Facilitates cryptocurrency transactions and data retrieval through the Bithumb API.
 - [sakura-ku/grobal_mcp_stock_server](https://github.com/sakura-ku/grobal_mcp_stock_server): Facilitates real-time access to global stock market data and analysis for AI assistants.
 - [weerofun/kaiafun-mcp](https://github.com/weerofun/kaiafun-mcp): Facilitates token listing, trading, and blockchain interaction on KaiaFun using the MCP protocol.
 - [huahuayu/etherscan-mcp-server](https://github.com/huahuayu/etherscan-mcp-server): A Go-based server enabling LLM applications to access multi-chain Etherscan blockchain data via the Model Context Protocol.
@@ -126,7 +184,6 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [Ai-Agents-of-Profits/Trade-Excution-MCP](https://github.com/Ai-Agents-of-Profits/Trade-Excution-MCP): Facilitates trading on Binance USDM Futures with comprehensive order and account management capabilities.
 - [blake365/options-chain](https://github.com/blake365/options-chain): Facilitates AI-driven access to Tradier's options chain and historical prices via Claude Desktop.
 - [notorious-d-e-v/solana-mcp-explorer](https://github.com/notorious-d-e-v/solana-mcp-explorer): Navigate and explore MCP Servers within the Solana ecosystem effortlessly.
-- [Quant72AI/quant72-mcp](https://github.com/Quant72AI/quant72-mcp): Facilitates standardized protocol operations on the Solana blockchain using the Model Context Protocol.
 - [alextianyushi/mcp-demo](https://github.com/alextianyushi/mcp-demo): Facilitates the extraction and analysis of Solidity contracts from GitHub repositories using Claude Desktop.
 - [dimitrov-d/solana-limit-order-mcp](https://github.com/dimitrov-d/solana-limit-order-mcp): Facilitates AI-driven limit order management on Solana using Jupiter, enhancing AI model interactions with blockchain systems.
 - [nearai/near-mcp](https://github.com/nearai/near-mcp): Facilitates secure interaction with NEAR blockchain accounts and functionalities for AI models using the Model Context Protocol.

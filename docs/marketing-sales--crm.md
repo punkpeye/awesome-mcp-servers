@@ -2,6 +2,18 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [mkusaka/linear-mcp](https://github.com/mkusaka/linear-mcp): Facilitates seamless management of Linear issues, projects, and teams through Cline integration.
+- [uupt-mcp/uupt-mcp-server](https://github.com/uupt-mcp/uupt-mcp-server): Facilitates order creation on the uupt.com platform using the MCP protocol, enhancing integration with delivery services.
+- [ngomis-com/listmonk-mcp](https://github.com/ngomis-com/listmonk-mcp): Facilitates seamless integration and management of Listmonk resources through MCP, enabling automated email marketing tasks.
+- [koudaiDemon/mcp-server-hand](https://github.com/koudaiDemon/mcp-server-hand): Enhances user shopping experiences by analyzing conversations to provide personalized product recommendations through intelligent tag matching.
+- [d-stoll/attio-js](https://github.com/d-stoll/attio-js): A JavaScript/TypeScript SDK for Attio that doubles as an MCP server, enabling AI applications to invoke CRM-related operations.
+- [cnych/seo-mcp](https://github.com/cnych/seo-mcp): Leverage Ahrefs data for comprehensive SEO analysis, including backlink and keyword research, through a Model Control Protocol service.
+- [Hint-Services/mcp-trello](https://github.com/Hint-Services/mcp-trello): Facilitates seamless interaction with Trello boards through a Model Context Protocol server, ensuring efficient API integration with built-in rate limiting and type safety.
+- [clay-inc/clay-mcp](https://github.com/clay-inc/clay-mcp): Facilitates contact and interaction management through a Model Context Protocol server for Clay, enabling efficient search and organization of personal and professional networks.
+- [mayank2424/mcp-server-harvest](https://github.com/mayank2424/mcp-server-harvest): Facilitates interaction with Harvest time tracking through a TypeScript-based MCP server, enabling seamless integration with LLM clients.
+- [hanqizheng/media_kit_mcp_server](https://github.com/hanqizheng/media_kit_mcp_server): Facilitates the parsing of Media Kit PDF files for key content extraction in the advertising and marketing sector.
+- [assistantdonnie/trello_mcp](https://github.com/assistantdonnie/trello_mcp): Facilitates seamless interaction with Trello boards through a Model Context Protocol server, ensuring type safety, rate limiting, and robust error handling.
+- [gomarble-ai/facebook-ads-mcp-server](https://github.com/gomarble-ai/facebook-ads-mcp-server): Facilitates programmatic access and management of Facebook Ads data through an MCP server interface.
 - [jusFood/jusfood-mcp](https://github.com/jusFood/jusfood-mcp): A specialized MCP server for deploying and managing local applications with integration support for the Claude app.
 - [rlopes2-ops/-MCP-Businessmap](https://github.com/rlopes2-ops/-MCP-Businessmap): Facilitates card management and search on Businessmap (Kanbanize) with full API integration and structured JSON data return.
 - [ajthinking/hubspot-download](https://github.com/ajthinking/hubspot-download): Facilitates the download of HubSpot CRM objects into JSON files using the Model Context Protocol.
@@ -66,6 +78,8 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [horizondatawave/hdw-mcp-server](https://github.com/horizondatawave/hdw-mcp-server): Facilitates comprehensive LinkedIn data access and user account management through the HorizonDataWave API.
 - [syafiq555/salesforce-mcp-server](https://github.com/syafiq555/salesforce-mcp-server): Integrates Salesforce with Claude Desktop for seamless data access via a standardized protocol.
 - [Shopify/dev-mcp](https://github.com/Shopify/dev-mcp): Facilitates interaction with Shopify APIs through a Model Context Protocol server, offering tools for documentation search and GraphQL schema introspection.
+- [sondn/mcp-partnr](https://github.com/sondn/mcp-partnr): Facilitates CRUD operations and transaction approvals for Partnr Vaults using MCP protocol.
+- [springwq/jampp_mcp_server](https://github.com/springwq/jampp_mcp_server): Facilitates access to Jampp's Reporting API for campaign performance data retrieval via the Model Context Protocol.
 - [Ai-Agents-of-Profits/Market-MCP](https://github.com/Ai-Agents-of-Profits/Market-MCP): Provides real-time and historical cryptocurrency market data through integration with major exchanges, enabling LLMs to fetch current prices and analyze market trends.
 - [Noveum/api-market-mcp-server](https://github.com/Noveum/api-market-mcp-server): Facilitates seamless interaction between Large Language Models and over 200 APIs by exposing API-Market's endpoints as MCP resources.
 - [zanganeh/smart-commerce-hub](https://github.com/zanganeh/smart-commerce-hub): SmartCommerceHub offers a versatile CLI and MCP server for seamless integration with e-commerce platforms like CommerceTools, enabling efficient product, customer, and order management.
@@ -90,12 +104,12 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [amir-bengherbi/shopify-mcp-server](https://github.com/amir-bengherbi/shopify-mcp-server): Facilitates seamless interaction with Shopify store data through a GraphQL API, offering comprehensive management of products, customers, and orders.
 - [r3-yamauchi/kintone-mcp-server](https://github.com/r3-yamauchi/kintone-mcp-server): Facilitates seamless integration with kintone, enabling data access and updates via Claude Desktop and other clients.
 - [punkpeye/apptweak-mcp](https://github.com/punkpeye/apptweak-mcp): Facilitates app store analytics and competitor analysis using the AppTweak API.
-- [FilippTrigub/linkedin-mcp](https://github.com/FilippTrigub/linkedin-mcp): Facilitates direct posting to LinkedIn from Claude Desktop, supporting text and media attachments with OAuth2 authentication.
 - [aaronsb/salesforce-cloud](https://github.com/aaronsb/salesforce-cloud): Facilitates structured interactions between AI models and Salesforce data, offering tools for querying, updating, and managing Salesforce records with built-in pagination and simplified data structures.
 - [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools): Empowers LLMs with Open Strategy Partners' core writing and product marketing techniques for technical content creation and optimization.
 - [tsmztech/mcp-server-salesforce](https://github.com/tsmztech/mcp-server-salesforce): Integrates Claude with Salesforce for natural language interactions with Salesforce data and metadata.
 - [danielma-tic/fillout-mcp-server](https://github.com/danielma-tic/fillout-mcp-server): Facilitates form management, response handling, and analytics through the Fillout.io API.
 - [baryhuang/mcp-hubspot](https://github.com/baryhuang/mcp-hubspot): Facilitates AI model interactions with HubSpot CRM through a standardized MCP interface, enabling seamless data and operation management.
+- [v-3/google-calendar](https://github.com/v-3/google-calendar): Facilitates seamless interaction with Google Calendar through Claude, enabling event management and scheduling capabilities.
 - [aallsbury/qb-time-mcp-server](https://github.com/aallsbury/qb-time-mcp-server): Unified access to QuickBooks Time API functionality through a single MCP server interface.
 - [macrat/mcp-server-kintone](https://github.com/macrat/mcp-server-kintone): Facilitates AI-driven exploration and manipulation of kintone data through MCP integration.
 - [smn2gnt/MCP-Salesforce](https://github.com/smn2gnt/MCP-Salesforce): Facilitates seamless interaction between LLMs and Salesforce data using SOQL and SOSL queries.

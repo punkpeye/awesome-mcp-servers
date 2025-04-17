@@ -2,6 +2,34 @@
 
 Servers providing interfaces to various database types like SQL, NoSQL, Vector Databases, Graph Databases, Time-Series, etc.
 
+- [leeb003/supabase-mcp](https://github.com/leeb003/supabase-mcp): Facilitates CRUD operations on Supabase databases through a FastAPI-based MCP server, ensuring seamless integration with Cursor.
+- [mamisoa/mcp-alchemy](https://github.com/mamisoa/mcp-alchemy): MCP Alchemy seamlessly integrates Claude Desktop with various databases, enabling advanced SQL query assistance and data analysis.
+- [Pratye/MEC-Postgres](https://github.com/Pratye/MEC-Postgres): Facilitates read and write operations on PostgreSQL databases, allowing LLMs to interact with database schemas and execute SQL queries.
+- [Malove86/mcp-mysql-server](https://github.com/Malove86/mcp-mysql-server): Facilitates AI model interactions with MySQL databases via a standardized interface, supporting both local and remote deployment modes.
+- [yyue9527/oracle-mcp-server](https://github.com/yyue9527/oracle-mcp-server): Facilitates Oracle database operations with real-time communication using Server-Sent Events.
+- [peterableda/iceberg-mcp-server](https://github.com/peterableda/iceberg-mcp-server): Facilitates read-only access to Iceberg tables via Apache Impala, enabling LLMs to inspect database schemas and execute queries.
+- [aqaranewbiz/mysql-aqaranewbiz](https://github.com/aqaranewbiz/mysql-aqaranewbiz): Facilitates interaction with MySQL databases using the Model Context Protocol (MCP) for standardized API access.
+- [jonnyhoff/mcp-sqlite-manager](https://github.com/jonnyhoff/mcp-sqlite-manager): Facilitates seamless interaction with SQLite databases through structured MCP server commands.
+- [Azure-Samples/azure-postgresql-mcp](https://github.com/Azure-Samples/azure-postgresql-mcp): Connect AI applications to Azure Database for PostgreSQL using standardized MCP protocols for seamless data interaction.
+- [kutsushitaneko/mcp-server-for-oracle-database](https://github.com/kutsushitaneko/mcp-server-for-oracle-database): Facilitates AI applications to execute SQL queries on Oracle Database, ensuring seamless integration with MCP clients like Cursor and Claude Desktop.
+- [vitalyDV/mysql-mcp](https://github.com/vitalyDV/mysql-mcp): Facilitates interaction with MySQL databases through a Model Context Protocol server, enabling SQL query execution and schema retrieval.
+- [executeautomation/mcp-database-server](https://github.com/executeautomation/mcp-database-server): Facilitates database interactions with Claude by connecting to SQLite and SQL Server databases.
+- [wescleytorres/mcp-postgres](https://github.com/wescleytorres/mcp-postgres): Facilitates read-only access to PostgreSQL databases, enabling LLMs to inspect schemas and execute queries.
+- [jamesg31/mcp-server-postgres](https://github.com/jamesg31/mcp-server-postgres): Facilitates read-only access to PostgreSQL databases, allowing LLMs to inspect schemas and execute queries.
+- [EdenYavin/OSV-MCP](https://github.com/EdenYavin/OSV-MCP): A lightweight server for querying the OSV database to fetch CVE details, affected versions, and fix versions using the Model Context Protocol.
+- [louisdvs/mcp-postgres](https://github.com/louisdvs/mcp-postgres): Facilitates data interaction by loading CSVs into PostgreSQL and providing a read-only MCP server for database introspection.
+- [moosin76/mcp_server_mariadb_reader](https://github.com/moosin76/mcp_server_mariadb_reader): Facilitates AI assistants in querying and interacting with MariaDB databases through a Model Context Protocol server.
+- [ucesys/dremio-python-mcp](https://github.com/ucesys/dremio-python-mcp): Facilitates standardized interaction with Dremio databases through a Model-Context Protocol server, enabling SQL execution and data exploration.
+- [michael7736/mysql-mcp-server](https://github.com/michael7736/mysql-mcp-server): Facilitates SQL query execution on MySQL databases via MCP, supporting CRUD operations with JSON results and transaction logging.
+- [adambyer/supabase-mcp](https://github.com/adambyer/supabase-mcp): Facilitates natural language interactions with Supabase databases through a Model Context Protocol server, enabling LLMs to perform database operations.
+- [mihai-dulgheru/mssql-mcp-node](https://github.com/mihai-dulgheru/mssql-mcp-node): Node.js server offering a standardized API for interacting with Microsoft SQL Server databases, featuring SQL query execution and schema retrieval via the Model Context Protocol.
+- [spyfree/hologres-mcp-server](https://github.com/spyfree/hologres-mcp-server): Facilitates seamless interaction between AI agents and Hologres databases, enabling metadata retrieval and SQL execution through multiple transport modes.
+- [spyfree/hologres-mcp-server-sse](https://github.com/spyfree/hologres-mcp-server-sse): Facilitates seamless interaction between AI agents and Hologres databases, enabling metadata retrieval and SQL operations via dual transport modes.
+- [pottekkat/dicedb-mcp](https://github.com/pottekkat/dicedb-mcp): Facilitates AI applications to interact with DiceDB databases using the Model Context Protocol.
+- [bjmayor/mysql-mcp](https://github.com/bjmayor/mysql-mcp): Facilitates AI agent interactions with MySQL databases through a standardized command interface.
+- [rikster/supabase-mcp](https://github.com/rikster/supabase-mcp): Facilitates AI-driven database operations on Supabase through a standardized MCP interface.
+- [mabeldata/pocketbase-mcp](https://github.com/mabeldata/pocketbase-mcp): Facilitates interaction with PocketBase instances for managing records, files, and migrations.
+- [nsxdavid/surrealdb-mcp-server](https://github.com/nsxdavid/surrealdb-mcp-server): Facilitates AI assistants in querying and manipulating data within a SurrealDB database through a standardized interface.
 - [fee-mendes/scylla-mcp](https://github.com/fee-mendes/scylla-mcp): Facilitates integration of ScyllaDB with Model Context Protocol using Python `uv` for seamless data management.
 - [fkdevsoft/mssql-mcp-server-copy](https://github.com/fkdevsoft/mssql-mcp-server-copy): Facilitates SQL query execution and database management for Microsoft SQL Server through MCP integration.
 - [gkvsanjeev/DBMCPServer](https://github.com/gkvsanjeev/DBMCPServer): Facilitates database access and querying through MCP integration, leveraging Legion Query Runner for seamless AI-driven data interactions.
@@ -188,4 +216,3 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb): Facilitates database operations on DuckDB through MCP tools, enabling SQL queries and schema inspection with optional read-only mode for data integrity.
 - [lucas-deangelis/arango-mcp-server](https://github.com/lucas-deangelis/arango-mcp-server): Facilitates interaction with ArangoDB through the Model Context Protocol, enabling database queries and management via a structured command interface.
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox): Open source MCP server specializing in easy, fast, and secure tools for Databases.
-

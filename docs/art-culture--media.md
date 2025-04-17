@@ -2,11 +2,26 @@
 
 Servers interacting with APIs for museums, media databases, image/video hosting, or creative content platforms.
 
+- [gandli/yanyue-mcp](https://github.com/gandli/yanyue-mcp): Fetches cigarette data from Yanyue with a search tool for cigarette information.
+- [iic-llm-solution/mcp-quanmiao-hotnews](https://github.com/iic-llm-solution/mcp-quanmiao-hotnews): Aggregates real-time hot news using Alibaba Cloud's Bailian API, offering both Node.js and Python implementations.
+- [prsantos-com/stereotype-this-mcp-server](https://github.com/prsantos-com/stereotype-this-mcp-server): Transform messages into humorous cultural stereotypes using predefined prompts for Canadian, British, American, and Australian cultures.
+- [luebken/playlist-mcp](https://github.com/luebken/playlist-mcp): Provides access to YouTube playlist transcripts via an experimental MCP server, with initial support for KubeCon London 2025 content.
+- [ZHANGYA0/mcp-server-iqiyi](https://github.com/ZHANGYA0/mcp-server-iqiyi): Facilitates access to iQiyi's latest and trending video APIs using the FastMCP framework.
+- [bads1de/GNews-MCP](https://github.com/bads1de/GNews-MCP): Integrates with the GNews API to provide access to global news articles across various categories and languages.
+- [8tako8tako8/sample_mcp_pokemon](https://github.com/8tako8tako8/sample_mcp_pokemon): Retrieve Pokémon data using a dedicated MCP server that interfaces with PokeAPI.
+- [Panth1823/formula1-mcp](https://github.com/Panth1823/formula1-mcp): Experience the excitement of Formula 1 with real-time and historical racing data through a TypeScript-based MCP server.
+- [ashukumar2001/xbeats-mcp](https://github.com/ashukumar2001/xbeats-mcp): Facilitates music track downloads through a Model Context Protocol server with customizable settings.
+- [attilad/bgg-mcp-server](https://github.com/attilad/bgg-mcp-server): Facilitates seamless integration with the BoardGameGeek API, enabling efficient retrieval and synchronization of board game data and user collections.
+- [jlgrimes/ptcg-mcp](https://github.com/jlgrimes/ptcg-mcp): Enables Claude to search and display Pokemon Trading Card Game cards with detailed filtering options.
+- [akshay23/spurs-blog-mcp-server](https://github.com/akshay23/spurs-blog-mcp-server): Connects to the Pounding The Rock RSS feed to provide AI assistants with the latest San Antonio Spurs game results and blog posts.
+- [djbriane/plex-mcp](https://github.com/djbriane/plex-mcp): Integrates with Plex Media Server API to manage movies and playlists using a Python-based MCP server.
+- [PTNA/mcp-ptna-news](https://github.com/PTNA/mcp-ptna-news): Facilitates access to the latest news from the All Japan Piano Teachers Association with category filtering capabilities.
 - [Aryan-Jhaveri/mcp-brockevents](https://github.com/Aryan-Jhaveri/mcp-brockevents): Facilitates seamless access to Brock University events through AI integration, enabling users to discover, filter, and explore campus happenings effortlessly.
 - [krVatsal/illustrator-mcp](https://github.com/krVatsal/illustrator-mcp): Facilitates the creation of vector graphics in Adobe Illustrator using natural language prompts via a local MCP server.
 - [Bai-ee/Figma_Plugin](https://github.com/Bai-ee/Figma_Plugin): Facilitates seamless communication between Cursor AI and Figma for programmatic design modifications.
 - [DanWahlin/dc-comics-mcp](https://github.com/DanWahlin/dc-comics-mcp): Facilitates interaction with DC Comics data via the Comic Vine API, enabling users to explore characters, issues, and movies through a Model Context Protocol server.
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp): Access Dutch WWII archives through AI-powered natural language queries using the Oorlogsbronnen MCP server.
+- [redblock-ai/imgflip-mcp](https://github.com/redblock-ai/imgflip-mcp): Facilitates meme creation and sharing for AI assistants using the Imgflip API.
 - [berlinbra/news-api-mcp](https://github.com/berlinbra/news-api-mcp): Access global news articles with advanced filtering and headline retrieval through a standardized MCP interface.
 - [Yerdna1/MCP_figma](https://github.com/Yerdna1/MCP_figma): Facilitates AI coding agents in accessing Figma files and prototypes through a Python-based MCP server.
 - [a2xdeveloper/tagesschau-mcp-server](https://github.com/a2xdeveloper/tagesschau-mcp-server): Access the latest news articles and details from tagesschau.de through this MCP server.

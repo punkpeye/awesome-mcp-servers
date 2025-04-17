@@ -2,7 +2,20 @@
 
 Servers or systems that deliver core runtime functionalities for MCP, such as proxying, aggregation, orchestration, hosting, routing, or acting as gateways.
 
+- [Markermav/ProxmoxMCP-advance](https://github.com/Markermav/ProxmoxMCP-advance): Manage and automate Proxmox virtual machines and clusters with advanced features like VM provisioning, command execution, and resource monitoring.
+- [junhwan0/bedrock-mcp-agent-cdk](https://github.com/junhwan0/bedrock-mcp-agent-cdk): Deploys AWS infrastructure for Bedrock Agents with MCP integration, facilitating AI assistant development with custom actions and standardized model interfaces.
+- [stolostron/server-foundation-dev-context](https://github.com/stolostron/server-foundation-dev-context): Facilitates the setup and management of server foundation repositories through an MCP server integration with code agents.
+- [lasso-security/mcp-gateway](https://github.com/lasso-security/mcp-gateway): MCP Gateway centralizes and enhances AI infrastructure by orchestrating multiple MCP servers, providing a unified interface, and ensuring secure data handling with advanced guardrails.
+- [morristai/iceberg-mcp](https://github.com/morristai/iceberg-mcp): Facilitates interaction with Apache Iceberg catalogs through an MCP server, supporting REST and AWS Glue integrations with asynchronous operations and logging.
+- [iuill/my_mcp_sse_servers](https://github.com/iuill/my_mcp_sse_servers): Manage and deploy multiple MCP servers using Docker Compose for streamlined development and production environments.
+- [yincongcyincong/VictoriaMetrics-mcp-server](https://github.com/yincongcyincong/VictoriaMetrics-mcp-server): Facilitates interaction with VictoriaMetrics through an MCP server interface.
+- [bnusunny/serverless-web-mcp-server](https://github.com/bnusunny/serverless-web-mcp-server): Facilitates the deployment of web applications to AWS serverless infrastructure using the Model Context Protocol.
+- [nearvitamin/kubernetes-mcp-server](https://github.com/nearvitamin/kubernetes-mcp-server): Facilitates Kubernetes and OpenShift container management through a Model Context Protocol server, enabling dynamic configuration and resource operations.
+- [Machine-To-Machine/m2m-mcp-server-ssh-server](https://github.com/Machine-To-Machine/m2m-mcp-server-ssh-server): A secure SSH server enabling remote access and interaction with multiple MCP tools through a unified interface.
+- [warjiang/karmada-mcp-server](https://github.com/warjiang/karmada-mcp-server): Facilitates multi-cluster management by integrating with Karmada.
+- [aemaethai/giga-claude-config](https://github.com/aemaethai/giga-claude-config): Docker-based configuration for running MCP servers with integrations for GitHub, Slack, Okta, and Google services.
 - [kappaexpress/docker-mcp](https://github.com/kappaexpress/docker-mcp): Facilitates MCP server integration with Claude Desktop using a Docker image built with Playwright.
+- [norikmb/nifcloud-mcp](https://github.com/norikmb/nifcloud-mcp): Facilitates interaction with FJcloud-V's API through a Model Context Protocol server, offering tools to retrieve lists of servers, disks, load balancers, firewalls, routers, and databases.
 - [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers): A curated list of high-quality remote MCP servers for developers seeking reliable and production-ready services for AI applications.
 - [FrankGoortani/cv-mcp](https://github.com/FrankGoortani/cv-mcp): A specialized MCP server offering structured access to Frank Goortani's CV data for AI assistants and MCP-compatible clients.
 - [mobilehackinglab/jadx-mcp-plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin): Facilitates decompiler access for Claude by bridging Jadx API over HTTP using MCP, enabling live interaction with decompiled code.

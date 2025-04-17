@@ -2,6 +2,36 @@
 
 Servers for interacting with email, chat platforms, SMS, or notification services.
 
+- [enjoyzl/mcp-server-confluence-ts](https://github.com/enjoyzl/mcp-server-confluence-ts): Facilitates seamless interaction with Confluence through a robust MCP-based API service, offering features like space information retrieval, content search, and detailed page access.
+- [kazemsoft/mcp-sms-ir](https://github.com/kazemsoft/mcp-sms-ir): Facilitates AI assistants in sending SMS messages via SMS.ir API, supporting single, bulk, and verification code messaging.
+- [mlaurel/mcp-starter](https://github.com/mlaurel/mcp-starter): Connects Claude Desktop or Cursor to ActionKit's Slack actions via an MCP server.
+- [tldv-public/tldv-mcp-server](https://github.com/tldv-public/tldv-mcp-server): Facilitates seamless integration of tl;dv's meeting intelligence across Google Meet, Zoom, and Microsoft Teams through a unified MCP server interface.
+- [marlonluo2018/outlook-mcp-server-main](https://github.com/marlonluo2018/outlook-mcp-server-main): Facilitates seamless interaction with Microsoft Outlook email functionalities through a standardized MCP interface, enabling LLMs to manage emails efficiently.
+- [hirosuke0520/line-mcp-demo](https://github.com/hirosuke0520/line-mcp-demo): Integrates the LINE Messaging API with an AI Agent through a Model Context Protocol server for seamless communication.
+- [miyamo2/slackbot-mcp-host](https://github.com/miyamo2/slackbot-mcp-host): Integrates MCP server functionalities into a Slack bot, enabling seamless communication and task execution within Slack channels.
+- [bharath063/webex-mcp-server](https://github.com/bharath063/webex-mcp-server): A TypeScript-based server facilitating interactions with Webex Spaces via the Model Context Protocol.
+- [Sum-it07/whatsapp-mcp](https://github.com/Sum-it07/whatsapp-mcp): Integrates WhatsApp with MCP for AI-driven interactions, enabling message management and media handling via a local SQLite database.
+- [tuannvm/slack-mcp-client](https://github.com/tuannvm/slack-mcp-client): A Slack bot client that connects Slack with MCP servers, enabling LLMs to interact with various MCP servers through standardized tools.
+- [S-H-GAMELINKS/esa-mcp-server](https://github.com/S-H-GAMELINKS/esa-mcp-server): Facilitates interaction with the esa API for managing team and article data through a structured MCP server interface.
+- [siavashdelkhosh81/telegram-bot-mcp-server](https://github.com/siavashdelkhosh81/telegram-bot-mcp-server): Facilitates seamless interaction with the Telegram Bot API through a structured set of commands for messaging, user management, and bot configuration.
+- [dolwinf/mcp-terminal-client](https://github.com/dolwinf/mcp-terminal-client): A terminal-based interactive chat client for communicating with MCP servers using Anthropic's Claude models.
+- [RossiFire/mcp-google-calendar](https://github.com/RossiFire/mcp-google-calendar): Facilitates seamless interaction between Claude Desktop and Google Calendar for efficient event management.
+- [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server): A robust Slack integration utilizing MCP for seamless communication without requiring workspace permissions, featuring Stdio and SSE transports with proxy support.
+- [tash-2s/satori](https://github.com/tash-2s/satori): Satori is an MCP server designed for seamless integration with Slack, facilitating efficient command execution and interaction.
+- [dandacompany/webhook-trigger](https://github.com/dandacompany/webhook-trigger): Facilitates dynamic webhook transmission using FastMCP framework with support for various HTTP methods and custom headers.
+- [zuojianghua/qyweixin_bot_mcp_server](https://github.com/zuojianghua/qyweixin_bot_mcp_server): Facilitates automated notifications to enterprise WeChat groups via an MCP server.
+- [Garblesnarff/smartintern-mcp](https://github.com/Garblesnarff/smartintern-mcp): SmartIntern connects AI assistants to Slack for context-aware meeting management and follow-up tracking.
+- [gusteycamargo/mcp-debug-server](https://github.com/gusteycamargo/mcp-debug-server): Facilitates debugging by integrating MCP server capabilities with Discord channels for streamlined communication.
+- [Rakibulislamsarkar/twitter-mcp](https://github.com/Rakibulislamsarkar/twitter-mcp): Facilitates interaction with Twitter for posting and searching tweets via a Model Context Protocol server.
+- [nccasia/mezon-mcp](https://github.com/nccasia/mezon-mcp): Enables LLMs to interact with Mezon channels for sending and reading messages through Mezon's API.
+- [stuartphilp/incident-io-mcp-server](https://github.com/stuartphilp/incident-io-mcp-server): Facilitates integration with Incident.io by providing a Model Context Protocol server for managing incidents and severities.
+- [david-strejc/gmail-mcp-server](https://github.com/david-strejc/gmail-mcp-server): Facilitates seamless interaction with Gmail accounts through IMAP and SMTP, offering comprehensive email management and label operations.
+- [rishipradeep-think41/gmail-backupMCP](https://github.com/rishipradeep-think41/gmail-backupMCP): Facilitates programmatic management of Gmail and Calendar through a Model Context Protocol interface.
+- [bany9/discord-mcp-bot](https://github.com/bany9/discord-mcp-bot): Facilitates seamless interaction between LLMs and Discord channels, enabling message sending and reading through Discord's API.
+- [eztoddler/whatsapp-mcp](https://github.com/eztoddler/whatsapp-mcp): Facilitates seamless interaction with WhatsApp through Claude, enabling message retrieval, contact searches, and media exchanges via the WhatsApp web multidevice API.
+- [xlengelle-sf/agentforce-mcp-xlengelle](https://github.com/xlengelle-sf/agentforce-mcp-xlengelle): Facilitates interaction with the Salesforce Agentforce API, enabling authentication, session management, and message exchange with agents.
+- [masseater/esa-mcp-server](https://github.com/masseater/esa-mcp-server): Facilitates seamless integration with esa.io by providing essential API operations through a Deno-based MCP server.
+- [ousepachn/whatsapp-mcp](https://github.com/ousepachn/whatsapp-mcp): Facilitates seamless interaction with WhatsApp through Claude by leveraging a Go-based bridge and a Python MCP server for message management and communication.
 - [gravix-db/docketbird-mcp](https://github.com/gravix-db/docketbird-mcp): Access DocketBird's court case data and document management through a dedicated MCP server.
 - [jeroensmink98/telegram-mcp](https://github.com/jeroensmink98/telegram-mcp): Facilitates AI-driven Telegram messaging through a Model Context Protocol server.
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server): Facilitates seamless interaction between AI models and YCloud WhatsApp API by automatically generating MCP tools from OpenAPI specifications.
@@ -139,7 +169,6 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [giannisanni/kokoro-tts-mcp](https://github.com/giannisanni/kokoro-tts-mcp): Facilitates text-to-speech synthesis using the Kokoro TTS engine, enabling seamless integration of speech capabilities into applications via MCP tools.
 - [minskimm/speakeasy-twilio-voice-ts](https://github.com/minskimm/speakeasy-twilio-voice-ts): A TypeScript SDK that provides a developer-friendly interface to the Twilio Voice API, with MCP server capabilities for AI applications.
 - [AshikNesin/pushover-mcp](https://github.com/AshikNesin/pushover-mcp): Facilitates AI agents in sending notifications through Pushover.net using the Model Context Protocol.
-- [zhangzhongnan928/mcp-warpcast-server](https://github.com/zhangzhongnan928/mcp-warpcast-server): Facilitates seamless interaction with Warpcast through Claude, enabling posting, reading, and searching of casts, as well as channel management.
 - [neurelo-connect/neurelo-connect-mcp](https://github.com/neurelo-connect/neurelo-connect-mcp): Facilitates natural language interactions with databases using the Neurelo Connect MCP server, enabling tasks like schema retrieval and SQL query execution.
 - [forayconsulting/zoom_transcript_mcp](https://github.com/forayconsulting/zoom_transcript_mcp): Facilitates interaction with Zoom Cloud Recording transcripts, enabling listing, downloading, searching, and managing through a structured interface.
 - [vinayak-mehta/gmail-mcp](https://github.com/vinayak-mehta/gmail-mcp): Facilitates email search and retrieval from Gmail using Claude integration.
@@ -171,6 +200,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [esignaturescom/mcp-server-esignatures](https://github.com/esignaturescom/mcp-server-esignatures): Facilitates the management and execution of eSignature contracts and templates through a dedicated MCP server.
 - [runekaagaard/mcp-notmuch-sendmail](https://github.com/runekaagaard/mcp-notmuch-sendmail): Facilitates seamless email management by integrating Claude Desktop with notmuch and sendmail for efficient email searching, composing, and synchronization.
 - [v-3/discordmcp](https://github.com/v-3/discordmcp): Facilitates seamless interaction between LLMs and Discord channels, enabling message exchange and channel management through Discord's API.
+- [TomCools/twitch-mcp](https://github.com/TomCools/twitch-mcp): Connects MCP Clients like Claude to Twitch Chat using a Quarkus-based server.
 - [JettChenT/wechat-mcp](https://github.com/JettChenT/wechat-mcp): Facilitates WeChat interactions by reading chat history and sending messages through an MCP server.
 - [jmonsellier/gmail-mcp-server](https://github.com/jmonsellier/gmail-mcp-server): Facilitates seamless email management through Gmail by enabling MCP clients to send, read, draft, and manage emails with user prompts.
 - [gotoolkits/mcp-wecombot-server](https://github.com/gotoolkits/mcp-wecombot-server): Facilitates communication by sending diverse message types to WeCom group robots.
@@ -186,7 +216,6 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [yosider/cosense-mcp-server](https://github.com/yosider/cosense-mcp-server): Facilitates interaction with Cosense pages through a suite of tools for page retrieval, listing, searching, and text insertion.
 - [epaproditus/google-workspace-mcp-server](https://github.com/epaproditus/google-workspace-mcp-server): Facilitates seamless interaction with Gmail and Calendar APIs through a Model Context Protocol server for efficient email and calendar management.
 - [juecd/programmable-email](https://github.com/juecd/programmable-email): Connects Claude with Gmail for email retrieval and management using MCP server integration.
-- [v-3/google-calendar](https://github.com/v-3/google-calendar): Facilitates seamless interaction with Google Calendar through Claude, enabling event management and scheduling capabilities.
 - [turlockmike/apple-notifier-mcp](https://github.com/turlockmike/apple-notifier-mcp): Facilitates native macOS notifications, dialog interactions, and system utilities through MCP-compatible clients.
 - [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver): Exposes datetime information via a simple URI scheme for integration with agentic systems and chat REPLs.
 - [qpd-v/mcp-communicator-telegram](https://github.com/qpd-v/mcp-communicator-telegram): Facilitates user interaction through Telegram by enabling question-asking, notifications, and file sharing via a bot.
@@ -200,7 +229,6 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [identimoji/mcp-server-emojikey](https://github.com/identimoji/mcp-server-emojikey): Facilitates AI's ability to maintain consistent emotional resonance with users through cryptographically secure emoji-encoded imprints.
 - [chatmcp/mcp-server-chatsum](https://github.com/chatmcp/mcp-server-chatsum): Facilitates querying and summarizing chat messages through an MCP server interface.
 - [amidabuddha/unichat-ts-mcp-server](https://github.com/amidabuddha/unichat-ts-mcp-server): Facilitates communication with AI models like OpenAI and Google AI using the MCP protocol, supporting both STDIO and SSE transport mechanisms.
-- [pyroprompts/any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp): Facilitates seamless integration of Claude with various OpenAI SDK compatible chat completion APIs using a TypeScript-based MCP server.
 - [AI-QL/chat-mcp](https://github.com/AI-QL/chat-mcp): A cross-platform desktop chat application that uses MCP to interface with various LLMs, offering a clean codebase for developers and researchers to test and manage multiple servers and clients.
 - [ajbr0wn/gmail-mcp-server](https://github.com/ajbr0wn/gmail-mcp-server): Integrates Gmail with MCP clients, enabling secure email access and search capabilities.
 - [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server): Facilitates communication with AI models like OpenAI and Google AI using the MCP protocol, offering tools for code review, documentation, and explanation.
