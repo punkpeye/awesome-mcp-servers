@@ -518,7 +518,7 @@ Translation tools and services to enable AI assistants to translate content betw
 
 Tools for converting text-to-speech and vice-versa
 
-- [Kokoro TTS MCP](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - MCP Server that uses the open weight Kokoro TTS models to convert text-to-speech.  Can convert text to MP3 on a local driver or auto-upload to an S3 bucket.
+- [Kokoro TTS MCP](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - MCP Server that uses the open weight Kokoro TTS models to convert text-to-speech. Can convert text to MP3 on a local driver or auto-upload to an S3 bucket.
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
