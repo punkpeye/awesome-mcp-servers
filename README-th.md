@@ -448,6 +448,7 @@
 ### 🔒 <a name="security"></a>ความปลอดภัย
 
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - เซิร์ฟเวอร์ MCP สำหรับการรวม Ghidra กับผู้ช่วย AI ปลั๊กอินนี้ช่วยให้สามารถวิเคราะห์ไบนารีได้ โดยมีเครื่องมือสำหรับการตรวจสอบฟังก์ชัน การดีคอมไพล์ การสำรวจหน่วยความจำ และการวิเคราะห์การนำเข้า/ส่งออกผ่าน Model Context Protocol
+- [Another™ MCP Server for Binary Ninja](https://github.com/MCPPhalanx/binaryninja-mcp) 🐍 🏠 - Another™ คือเซิร์ฟเวอร์ MCP สำหรับ Binary Ninja ที่มีความสามารถสุดล้ำจินตนาการ
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 เซิร์ฟเวอร์ MCP สำหรับวิเคราะห์ผลการรวบรวม ROADrecon จากการแจงนับผู้เช่า Azure
 - [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ dnstwist เครื่องมือ fuzzing DNS อันทรงพลังที่ช่วยตรวจจับการพิมพ์ผิด การฟิชชิ่ง และการจารกรรมองค์กร
 - [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) 📇 🪟 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ maigret เครื่องมือ OSINT อันทรงพลังที่รวบรวมข้อมูลบัญชีผู้ใช้จากแหล่งสาธารณะต่างๆ เซิร์ฟเวอร์นี้มีเครื่องมือสำหรับค้นหาชื่อผู้ใช้ในโซเชียลเน็ตเวิร์กและวิเคราะห์ URL
