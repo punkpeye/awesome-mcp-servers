@@ -2,6 +2,16 @@
 
 Servers focused on static analysis, linting, code metrics, security scanning, vulnerability checks, or code quality assessment.
 
+- [Novakiki/mcp-gemini-claude](https://github.com/Novakiki/mcp-gemini-claude): Integrates Gemini LLM with Claude models for advanced code repository analysis and understanding.
+- [ReyNeill/Kontxt](https://github.com/ReyNeill/Kontxt): Facilitates codebase indexing by connecting to local repositories and providing AI clients with contextual analysis using Gemini 2.0 Flash.
+- [AB498/code-context-provider-mcp](https://github.com/AB498/code-context-provider-mcp): Provides code context and analysis for AI assistants by extracting directory structures and code symbols using WebAssembly Tree-sitter parsers.
+- [KilluaYZ/elixir_linux_mcp_server](https://github.com/KilluaYZ/elixir_linux_mcp_server): Facilitates precise Linux source code queries using Elixir for LLMs.
+- [lq0910/vuesage](https://github.com/lq0910/vuesage): VueSage enhances Vue component quality through intelligent analysis and optimization, leveraging MCP for seamless integration with editors.
+- [TrueCrimeAudit/ahk-mcp](https://github.com/TrueCrimeAudit/ahk-mcp): Provides AutoHotkey v2 code analysis and documentation tools for Claude AI.
+- [nowucca/quack-mcp-server](https://github.com/nowucca/quack-mcp-server): Quack automates code analysis and testing for Python, offering linting and static type analysis through an MCP server.
+- [davidleathers113/typescript-analyzer-mcp](https://github.com/davidleathers113/typescript-analyzer-mcp): Enhance TypeScript codebases by intelligently analyzing and replacing 'any' types with specific types, while offering React component interface generation and advanced error handling.
+- [gleicon/mcp-osv](https://github.com/gleicon/mcp-osv): Facilitates code security reviews by integrating with OSV.dev and AI models to identify vulnerabilities.
+- [Tomatio13/software-checker-mcp](https://github.com/Tomatio13/software-checker-mcp): Facilitates comprehensive quality checks and release note generation for Git repositories, while also providing security risk analysis.
 - [smadi0x86/GDB-MCP](https://github.com/smadi0x86/GDB-MCP): Facilitates LLM-driven debugging and analysis with GDB through an MCP server interface.
 - [marchellodev/reviewer-mcp](https://github.com/marchellodev/reviewer-mcp): Facilitates AI-assisted code reviews by executing shell commands through the Model Context Protocol.
 - [Ixe1/code-scanner-server](https://github.com/Ixe1/code-scanner-server): A versatile tool for scanning code files, extracting definitions, and providing LLM-friendly outputs, with dual operation as a CLI tool and MCP server.
@@ -14,7 +24,6 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [Ludok-4/Ghidra](https://github.com/Ludok-4/Ghidra): ghidraMCP enables LLMs to autonomously reverse engineer applications by integrating Ghidra's decompilation and analysis tools with MCP clients.
 - [treaties-ai/local-scanner-mcp](https://github.com/treaties-ai/local-scanner-mcp): Enhances AI assistants' capabilities to interact with local development environments by scanning code and localhost URLs for testing, debugging, and validation.
 - [klara-research/MCP-Analyzer](https://github.com/klara-research/MCP-Analyzer): Facilitates the analysis and debugging of Model Context Protocol logs with seamless integration into Claude Desktop.
-- [thuhoai27/mcp-file-reader](https://github.com/thuhoai27/mcp-file-reader): Facilitates AI models in accessing and analyzing text files from the local file system.
 - [ast-grep/ast-grep-mcp](https://github.com/ast-grep/ast-grep-mcp): An experimental MCP server leveraging ast-grep for codebase searching and analysis.
 - [JordyZomer/codeql-mcp](https://github.com/JordyZomer/codeql-mcp): Facilitates interaction with CodeQL through structured commands, enabling AI agents and tools like Cursor to perform queries and decode results.
 - [x51xxx/github-explorer-mcp](https://github.com/x51xxx/github-explorer-mcp): A TypeScript MCP server offering comprehensive GitHub repository insights, including file content, directory structure, and metadata for enhanced client interactions.

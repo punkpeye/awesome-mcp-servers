@@ -2,6 +2,12 @@
 
 Servers connecting to monitoring systems, logging platforms, or providing system/application performance metrics.
 
+- [roastedculti/metoro-mcp-server](https://github.com/roastedculti/metoro-mcp-server): Facilitates interaction with Kubernetes clusters through the Claude Desktop App by leveraging the Model Context Protocol.
+- [anchor-g/mcp-sentry](https://github.com/anchor-g/mcp-sentry): Facilitates the retrieval and analysis of issues from Sentry.io, offering tools to inspect error reports and stacktraces.
+- [bobtista/honeybadger-mcp](https://github.com/bobtista/honeybadger-mcp): Facilitates AI-driven error analysis by bridging AI agents with the Honeybadger error monitoring service.
+- [Lee-1024/mcp-glances](https://github.com/Lee-1024/mcp-glances): Integrates MCP with LLMs to analyze server monitoring data via Glances API, providing real-time system status feedback.
+- [querypie/querypie-mcp-server](https://github.com/querypie/querypie-mcp-server): QueryPie MCP server empowers administrators with real-time data visualization, resource monitoring, and security auditing capabilities.
+- [xprilion/mcp-telemetry](https://github.com/xprilion/mcp-telemetry): Enhance your chat system's observability by tracing and analyzing conversations with LLMs using Weights & Biases Weave.
 - [majie1993/remote-mcp-server](https://github.com/majie1993/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [ggilligan12/kibana-mcp](https://github.com/ggilligan12/kibana-mcp): Facilitates AI-driven interaction with Kibana Security alerts by tagging, adjusting status, and retrieving alerts.
 - [PovedaAqui/suzieq-mcp](https://github.com/PovedaAqui/suzieq-mcp): Facilitates interaction with SuzieQ network observability via MCP tools for querying and summarizing network state data.
@@ -65,5 +71,6 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [ueki-tomohiro/sentry-issue-server](https://github.com/ueki-tomohiro/sentry-issue-server): A TypeScript-based MCP server implementing a notes system with tools for note creation and summarization.
 - [CaesarYangs/prometheus_mcp_server](https://github.com/CaesarYangs/prometheus_mcp_server): Facilitates LLMs in querying and analyzing Prometheus databases through predefined routes for advanced metric data exploration.
 - [loglmhq/mcp-server-prometheus](https://github.com/loglmhq/mcp-server-prometheus): Facilitates interaction with Prometheus metrics and data through a TypeScript-based MCP server, bridging Claude and Prometheus via the Model Context Protocol.
+- [MindscapeHQ/mcp-server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun): Facilitates interaction with Raygun's API V3 endpoints for crash reporting and real user monitoring through a comprehensive MCP server.
 - [sqr/datadog-mcp](https://github.com/sqr/datadog-mcp): Facilitates log retrieval from Datadog for analysis by Claude within a Kubernetes environment.
 

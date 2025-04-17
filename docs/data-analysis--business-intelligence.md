@@ -2,10 +2,39 @@
 
 Servers connecting to data warehouses, data query engines, analytics platforms, or specific data APIs.
 
+- [sanxxit/my-aws-cost-explorer](https://github.com/sanxxit/my-aws-cost-explorer): Facilitates AWS spend analysis and visualization through an MCP server, integrating with Anthropic's Claude model for natural language queries.
+- [sanxxit/AWS-cost-explorer-with-MCP-server](https://github.com/sanxxit/AWS-cost-explorer-with-MCP-server): Facilitates AWS spend analysis and visualization through an interactive interface using Anthropic's Claude model.
+- [cheukyin175/metabase-mcp](https://github.com/cheukyin175/metabase-mcp): Facilitates seamless integration of AI assistants with Metabase analytics, enabling direct interaction with analytics data via MCP capabilities.
+- [DxO-AI-Dep/DxO-MCP-SQL-BI-INSTALLER](https://github.com/DxO-AI-Dep/DxO-MCP-SQL-BI-INSTALLER): Facilitates the integration of SQLite databases with Claude Desktop using the `mcp-alchemy` server for seamless data analysis and business intelligence tasks.
+- [tanjibpa/mcp-server-demo](https://github.com/tanjibpa/mcp-server-demo): A demo MCP server for managing organizations and devices with distance calculation using PostgreSQL.
+- [IzarLabs/TitanicAIAnalysis](https://github.com/IzarLabs/TitanicAIAnalysis): Facilitates complex data analysis on the Titanic dataset using Claude, leveraging MCP to expose structured data and tools for enhanced LLM interaction.
+- [mixcoffee88/aa-mcp-test](https://github.com/mixcoffee88/aa-mcp-test): Enables access to Adobe Analytics API through MCP, offering comprehensive report and component retrieval capabilities.
+- [dannyxiaocn/a_stock_mcp](https://github.com/dannyxiaocn/a_stock_mcp): A comprehensive toolset for analyzing A-shares, integrating financial data retrieval, stock trend tracking, market news analysis, and investment recommendations.
+- [falahgs/Gemini-Data-Analysis-Research-MCP-Server](https://github.com/falahgs/Gemini-Data-Analysis-Research-MCP-Server): Leverages Google's Gemini Flash 2 AI model for comprehensive data analysis, research paper generation, and automated email delivery.
+- [xiangmy21/iotdb-mcp-server-TreeModel](https://github.com/xiangmy21/iotdb-mcp-server-TreeModel): Facilitates database interaction and business intelligence through IoTDB with SQL query execution capabilities.
+- [milind-kulshrestha/fedspeak_mcp_server](https://github.com/milind-kulshrestha/fedspeak_mcp_server): Facilitates semantic search and trend analysis of Federal Reserve statements through a Model Context Protocol interface.
+- [HosakaKeigo/mcp-server-ga4](https://github.com/HosakaKeigo/mcp-server-ga4): Facilitates data retrieval and analysis from Google Analytics 4 using MCP tools for metrics like page views and user behavior.
+- [alaturqua/mcp-trino-python](https://github.com/alaturqua/mcp-trino-python): Facilitates advanced data exploration and management in Trino and Iceberg through a standardized interface.
+- [volteditor/mcp.chroma](https://github.com/volteditor/mcp.chroma): Facilitates vector embeddings and document management with ChromaDB through a versatile MCP interface.
+- [falahgs/MCP-CSV-Analysis-with-Gemini-AI](https://github.com/falahgs/MCP-CSV-Analysis-with-Gemini-AI): Empowers CSV analysis and visualization with advanced capabilities using Gemini AI, seamlessly integrating with Claude Desktop for enhanced data insights.
+- [jdbcx/pydbcx-mcp](https://github.com/jdbcx/pydbcx-mcp): Facilitates data communication with diverse sources via JDBCX server using a Python MCP server implementation.
+- [anna8murphy/mcp-compare-zipcodes](https://github.com/anna8murphy/mcp-compare-zipcodes): Facilitates demographic comparison between ZIP Code Tabulation Areas using z-score analysis for age, gender, and ethnicity distributions.
+- [radial-hks/mcp-server-proj](https://github.com/radial-hks/mcp-server-proj): Facilitates cartographic projections and coordinate transformations between various systems using EPSG, WKT, and Proj formats.
+- [sisisin-sandbox/try-mcp-server](https://github.com/sisisin-sandbox/try-mcp-server): Facilitates BigQuery operations through an MCP server, leveraging Deno for compilation and Google Cloud credentials for authentication.
+- [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp): Facilitates interaction with Kaggle by providing tools for dataset search, download, and EDA notebook generation via the Model Context Protocol.
+- [Mavline/mcp-server-vegalite](https://github.com/Mavline/mcp-server-vegalite): Facilitates data visualization through Vega-Lite syntax, enabling LLMs to create visual representations of data tables.
+- [Mark-Friese/opendatasoft-mcp-server](https://github.com/Mark-Friese/opendatasoft-mcp-server): Facilitates AI-driven exploration and analysis of open datasets via the Opendatasoft Explore API.
+- [jmchat/mcp-ga4-data-ts](https://github.com/jmchat/mcp-ga4-data-ts): Access Google Analytics 4 reporting data through a Model Context Protocol server, compatible with Claude and other MCP clients.
+- [KunihiroS/patsnap-mcp](https://github.com/KunihiroS/patsnap-mcp): Facilitates trend analysis and reporting by interacting with PatSnap's API to gather patent-related insights.
+- [datalayer/jupyter-earth-mcp-server](https://github.com/datalayer/jupyter-earth-mcp-server): Facilitates geospatial analysis in Jupyter notebooks by integrating NASA Earthdata with Model Context Protocol.
+- [aws-samples/sample-cloud-spend-mcp-server](https://github.com/aws-samples/sample-cloud-spend-mcp-server): Facilitates AWS cloud spend analysis by integrating AWS Cost Explorer and CloudWatch logs with Anthropic's Claude model for interactive querying.
 - [HZreal/mcp-weather-server](https://github.com/HZreal/mcp-weather-server): Provides weather data integration for Claude using the MCP protocol.
 - [pws-pm/MCP-ArmoniaPlus](https://github.com/pws-pm/MCP-ArmoniaPlus): Enables Claude AI to control ArmoníaPlus audio devices via a local MCP server.
 - [TuanKiri/weather-mcp-server](https://github.com/TuanKiri/weather-mcp-server): Facilitates AI assistants in accessing and interpreting real-time weather data through a lightweight MCP server.
+- [kdqed/zaturn](https://github.com/kdqed/zaturn): Zaturn is an AI-powered data analytics and business intelligence tool that connects to various data sources, executes SQL queries, and provides insightful visualizations, all integrated as an MCP server.
+- [HuaLuAI/mssql-mcp](https://github.com/HuaLuAI/mssql-mcp): Facilitates SQL query execution and business intelligence insights on MSSQL databases.
 - [jlfwong/food-data-central-mcp-server](https://github.com/jlfwong/food-data-central-mcp-server): Facilitates API access to USDA's FoodData Central, enabling food searches and nutrient information retrieval through MCP protocol.
+- [ghrud92/simple-loki-mcp](https://github.com/ghrud92/simple-loki-mcp): Facilitates AI-driven log analysis by interfacing with Grafana Loki logs via the Model Context Protocol.
 - [zen4ever/steampipe-mcp-server](https://github.com/zen4ever/steampipe-mcp-server): Facilitates natural language queries to Steampipe PostgreSQL databases, enabling seamless data analysis across cloud providers.
 - [samefarrar/mcp-pdb](https://github.com/samefarrar/mcp-pdb): MCP-PDB integrates Python's debugger with Claude and other LLMs, enabling enhanced debugging capabilities through the Model Context Protocol.
 - [unravel-team/mcp-analyst](https://github.com/unravel-team/mcp-analyst): Empowers Claude to efficiently analyze large local CSV or Parquet datasets without uploading full files.
@@ -149,6 +178,7 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [privetin/dataset-viewer](https://github.com/privetin/dataset-viewer): Interact with Hugging Face datasets through browsing, filtering, and statistical analysis capabilities.
 - [stephen37/mcp-server-milvus](https://github.com/stephen37/mcp-server-milvus): Facilitates seamless integration of LLM applications with Milvus vector database for advanced search and data operations.
 - [honeycombio/honeycomb-mcp](https://github.com/honeycombio/honeycomb-mcp): Facilitates AI-driven analysis and querying of Honeycomb observability data for enterprise users, with support for multiple environments and optimized performance through caching.
+- [Jacck/mcp-ortools](https://github.com/Jacck/mcp-ortools): Integrates Google's OR-Tools with Large Language Models for solving constraint satisfaction and optimization problems.
 - [SecretiveShell/MCP-wolfram-alpha](https://github.com/SecretiveShell/MCP-wolfram-alpha): Facilitates computational intelligence queries by connecting chat interfaces to the Wolfram Alpha API.
 - [dkmaker/mcp-tavily-server](https://github.com/dkmaker/mcp-tavily-server): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
 - [dkmaker/mcp-perplexity-server](https://github.com/dkmaker/mcp-perplexity-server): A TypeScript-based server implementing a notes system with resources, tools, and prompts for generating summaries.

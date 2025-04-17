@@ -2,6 +2,9 @@
 
 Servers integrating with healthcare standards, medical literature databases, bioinformatics resources, or specific healthcare platforms.
 
+- [sheffler/mcp-server-lims](https://github.com/sheffler/mcp-server-lims): Facilitates AI-driven management of laboratory workflows by simulating instrument data processing and integrating with MCP tools.
+- [JackKuo666/ClinicalTrials-MCP-Server](https://github.com/JackKuo666/ClinicalTrials-MCP-Server): Facilitates AI-driven searches and access to ClinicalTrials.gov data, enhancing health sciences research through a streamlined MCP interface.
+- [shaunporwal/DICOM-MCP](https://github.com/shaunporwal/DICOM-MCP): Facilitates interaction with DICOM images through a note storage system, enabling note summarization and management.
 - [jesegher/EduMCPServer](https://github.com/jesegher/EduMCPServer): Facilitates AI-driven management of Microsoft Education classes, assignments, and rubrics through integration with Microsoft Graph API.
 - [jmandel/health-record-mcp](https://github.com/jmandel/health-record-mcp): Facilitates secure AI access to Electronic Health Records using SMART on FHIR, enabling comprehensive data retrieval and analysis through MCP tools.
 - [pankaj-knit/MCP-SV](https://github.com/pankaj-knit/MCP-SV): Provides weather information from the National Weather Service API for integration with AI assistants like Claude.
@@ -16,6 +19,7 @@ Servers integrating with healthcare standards, medical literature databases, bio
 - [amanasmuei/mcp-server-malaysia-prayer-time](https://github.com/amanasmuei/mcp-server-malaysia-prayer-time): Provides real-time Islamic prayer times for Malaysia, integrating seamlessly with Claude Desktop via MCP.
 - [ryoureddy/medadapt-content-server](https://github.com/ryoureddy/medadapt-content-server): Enhances AI-assisted medical learning by integrating Claude Desktop with medical knowledge sources for comprehensive content retrieval and analysis.
 - [MediFinderBot/medifinder-mcp](https://github.com/MediFinderBot/medifinder-mcp): Facilitates secure communication for medicine inventory queries with AI assistants, offering location-based searches and WhatsApp integration.
+- [zhaoyouj/mcp-slicer](https://github.com/zhaoyouj/mcp-slicer): Facilitates seamless interaction between 3D Slicer and model clients for medical image processing and scene manipulation using natural language.
 - [jagan-shanmugam/climatiq-mcp-server](https://github.com/jagan-shanmugam/climatiq-mcp-server): Facilitates real-time carbon emission calculations and climate impact insights for AI assistants using the Climatiq API.
 - [elizabethtrykin/8sleep-mcp](https://github.com/elizabethtrykin/8sleep-mcp): Access and control Eight Sleep Pod data and settings through a Model Context Protocol server.
 - [elizabethtrykin/oura-mcp](https://github.com/elizabethtrykin/oura-mcp): Access and manage Oura Ring data through a Model Context Protocol server, integrating seamlessly with Claude Desktop.

@@ -2,6 +2,9 @@
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
 
+- [cyanheads/filesystem-mcp-server](https://github.com/cyanheads/filesystem-mcp-server): Facilitates AI agents with secure, platform-independent file system operations, including advanced search/replace and directory management.
+- [alexissinglaire/filesystemcustom_final](https://github.com/alexissinglaire/filesystemcustom_final): Node.js server for executing filesystem operations via Model Context Protocol, enabling file manipulation and directory management within specified boundaries.
+- [alexissinglaire/filesystemcustom-test](https://github.com/alexissinglaire/filesystemcustom-test): Node.js server for executing filesystem operations via Model Context Protocol, enabling file manipulation, directory management, and metadata retrieval.
 - [sebastianbachmaier/save-filesystem-mcp](https://github.com/sebastianbachmaier/save-filesystem-mcp): A filesystem MCP server enabling secure file operations within a designated root directory, preventing unauthorized access beyond specified boundaries.
 - [Do-Boo/MCP-SynoLink](https://github.com/Do-Boo/MCP-SynoLink): Facilitates file operations on Synology NAS devices through AI assistants using Node.js.
 - [sylphlab/filesystem-mcp](https://github.com/sylphlab/filesystem-mcp): Node.js server offering secure and efficient filesystem access for AI agents, ensuring operations are confined to a project root.
@@ -9,6 +12,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 - [gabrielmaialva33/mcp-filesystem](https://github.com/gabrielmaialva33/mcp-filesystem): Provides secure filesystem access for AI models with strict path validation and predefined directory constraints.
 - [RIKTESH89/mcp_cli_filesystem](https://github.com/RIKTESH89/mcp_cli_filesystem): A command-line interface for interacting with Model Context Provider servers, enabling seamless communication with LLMs through the CHUK-MCP protocol library.
 - [calebmwelsh/file-system-mcp-server](https://github.com/calebmwelsh/file-system-mcp-server): Facilitates file system operations across platforms, enabling AI assistants to interact with local files and directories through a structured API.
+- [thuhoai27/mcp-file-reader](https://github.com/thuhoai27/mcp-file-reader): Facilitates AI models in accessing and analyzing text files from the local file system.
 - [linimbus/go-mcp-file-server](https://github.com/linimbus/go-mcp-file-server): A Go-based MCP server for local file system management with APIs for querying and opening files, utilizing SQLite3 for file indexing and supporting remote calls via MCP client.
 - [Priyonuj/mcp-file-navigator](https://github.com/Priyonuj/mcp-file-navigator): Facilitates secure file system operations and Git command execution through a standardized MCP interface, enhancing AI assistant capabilities.
 - [DenizkarayusufogluGit/mcp-filesys](https://github.com/DenizkarayusufogluGit/mcp-filesys): Facilitates secure filesystem access for AI models via JSON-RPC requests, adhering to the MCP specification.

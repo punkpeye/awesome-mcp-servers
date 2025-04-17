@@ -2,6 +2,8 @@
 
 Servers controlling hardware devices, interacting with embedded systems, serial communication, 3D printers, or smart home systems.
 
+- [ioehub/ioehub-mqtt-mcp-server](https://github.com/ioehub/ioehub-mqtt-mcp-server): Facilitates IoT device communication via MQTT for temperature sensing and LED control using FastMCP framework.
+- [maxkotas/animatronic-eyes-mcp](https://github.com/maxkotas/animatronic-eyes-mcp): Control animatronic eyes with precise movements and animations using a Node.js MCP server and Arduino integration.
 - [shelwyn/mcp_control_table_lamp](https://github.com/shelwyn/mcp_control_table_lamp): Control a table lamp remotely using a NodeMCU and MQTT communication through HiveMQ cloud service.
 - [Guidogl/device-info-mcp](https://github.com/Guidogl/device-info-mcp): Facilitates device information retrieval and troubleshooting through a Model Context Protocol server.
 - [ConAcademy/buttplug-mcp](https://github.com/ConAcademy/buttplug-mcp): Facilitates interaction with Buttplug.io devices using the Model Context Protocol, enabling LLMs to query and control connected devices.

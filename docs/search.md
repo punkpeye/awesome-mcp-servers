@@ -2,6 +2,21 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [liuyixin-louis/ArxivMCP](https://github.com/liuyixin-louis/ArxivMCP): Facilitates academic paper searches on arXiv with MCP client integration for seamless retrieval.
+- [kbyk004/my-docs-mcp-server](https://github.com/kbyk004/my-docs-mcp-server): Indexes and searches Markdown files in a directory, enabling full-text search and file retrieval via the Model Context Protocol.
+- [BochaAI/bocha-search-mcp](https://github.com/BochaAI/bocha-search-mcp): Bocha Search MCP Server empowers AI applications with high-quality knowledge from billions of web pages and diverse content sources, enhancing search capabilities across multiple domains.
+- [nitish-raj/searxng-mcp-bridge](https://github.com/nitish-raj/searxng-mcp-bridge): Facilitates search operations by bridging MCP clients with a SearxNG instance.
+- [g-fukurowl/fess-mcp-server](https://github.com/g-fukurowl/fess-mcp-server): Middleware server that integrates with the Fess search engine to enable information retrieval via MCP clients.
+- [ayush-rudani/google-search-mcp-server](https://github.com/ayush-rudani/google-search-mcp-server): Integrates with Google's Custom Search JSON API to provide advanced web search capabilities with structured results and rate limiting.
+- [davalmeyda/serper-productos](https://github.com/davalmeyda/serper-productos): Facilitates online product searches using Google Serper API, seamlessly integrating with AI assistants via MCP.
+- [skeet-build/opensearch](https://github.com/skeet-build/opensearch): Facilitates read-only access to OpenSearch clusters, allowing LLMs to inspect indices and execute queries.
+- [axlwolf/brave-mcp](https://github.com/axlwolf/brave-mcp): Integrates the Brave Search API to provide comprehensive web and local search capabilities with smart fallbacks and flexible filtering.
+- [qianlima365/zhipu-web-search-mcp](https://github.com/qianlima365/zhipu-web-search-mcp): Facilitates web network searches using Zhipu AI through an MCP tool.
+- [RmMargt/searchAPI-mcp](https://github.com/RmMargt/searchAPI-mcp): Facilitates AI assistants in accessing Google Maps, Flights, Hotels, and other services through a unified search API interface.
+- [zizzfizzix/mcp-server-indexnow](https://github.com/zizzfizzix/mcp-server-indexnow): Facilitates URL indexing requests via the IndexNow protocol, enhancing content discovery and indexing speed for MCP-compatible clients.
+- [hiyenwong/arxiv_mcp](https://github.com/hiyenwong/arxiv_mcp): Facilitates the search and interpretation of academic papers from arXiv using MCP technology.
+- [D-lyw/ckb-docs-mcp](https://github.com/D-lyw/ckb-docs-mcp): Facilitates semantic search of CKB ecosystem documents and code using the NervePuppy API and vector database integration.
+- [isnow890/naver-search-mcp](https://github.com/isnow890/naver-search-mcp): Facilitates comprehensive search and data trend analysis across Naver services using the Naver Search and DataLab APIs.
 - [guchey/mcp-server-google-search-console](https://github.com/guchey/mcp-server-google-search-console): Facilitates access to Google Search Console data through an MCP server, enabling detailed search analytics and customizable reporting.
 - [AshlynnLu/search-linkedin-mcp](https://github.com/AshlynnLu/search-linkedin-mcp): Facilitates LinkedIn company profile verification through search, web crawling, and content validation using MCP.
 - [torohash/brave-search-sse-mcp](https://github.com/torohash/brave-search-sse-mcp): Facilitates web and local searches via Brave Search API using an SSE-based MCP server.

@@ -2,10 +2,27 @@
 
 Servers integrating with major cloud providers or specific cloud services.
 
+- [Houlong66/mns-mcp-server](https://github.com/Houlong66/mns-mcp-server): Facilitates management of Alibaba Cloud Message Service queues through an MCP framework, enabling easy integration and operation via configuration files.
+- [agentdevhub/AWS-MCP](https://github.com/agentdevhub/AWS-MCP): A comprehensive suite of MCP servers designed to enhance AWS capabilities, offering tools for documentation access, cost analysis, and infrastructure management.
+- [ashgw/s3-mcp](https://github.com/ashgw/s3-mcp): Facilitates comprehensive management of AWS S3 resources through a Model Context Protocol server.
+- [bhavik1st/mcp-cloud](https://github.com/bhavik1st/mcp-cloud): Facilitates AI models' seamless integration with public cloud resources like AWS and Azure through the Model Context Protocol.
+- [kunwu/aliyun-manager-mcp](https://github.com/kunwu/aliyun-manager-mcp): Manage and monitor Alibaba Cloud resources with tools for ECS instance tracking and billing analysis via the MCP interface.
+- [brauliomsft/azure-mcp](https://github.com/brauliomsft/azure-mcp): Manage Azure VMs effortlessly using natural language commands through a Python-based MCP server.
+- [hostinger/api-mcp-server](https://github.com/hostinger/api-mcp-server): Hostinger's MCP server facilitates API interactions for billing, DNS, and VPS management.
+- [Wangsu-Cloud-Storage/wcs-mcp-server](https://github.com/Wangsu-Cloud-Storage/wcs-mcp-server): Facilitates access to Wangsu Cloud Storage and intelligent multimedia services within AI model contexts.
+- [NahumOchoa/mcp-remote-lambda](https://github.com/NahumOchoa/mcp-remote-lambda): A proxy that efficiently connects desktop LLM clients with AWS Lambda functions using MCP, optimizing API calls and costs.
+- [philipp-eisen/cloudflare-images-mcp](https://github.com/philipp-eisen/cloudflare-images-mcp): Facilitates the integration of images into Cloudflare Images using a simple MCP server setup.
+- [x-challenger/mcp-server-hai](https://github.com/x-challenger/mcp-server-hai): Facilitates the management of Tencent HAI services through an MCP server, enabling instance creation, status querying, and network management.
+- [savrab/nutanix-mcp](https://github.com/savrab/nutanix-mcp): Facilitates Nutanix Virtual Machine Management through a command-line chatbot interface, integrating with Nutanix APIs and AI endpoints.
+- [maito1201/cloudrun-logs-mcp](https://github.com/maito1201/cloudrun-logs-mcp): Facilitates AI assistants in accessing Google Cloud Run logs and service information through an MCP interface.
+- [BirajMainali/poratiner-ce-mcp-server](https://github.com/BirajMainali/poratiner-ce-mcp-server): Facilitates AI-driven management of Docker containers and services via Portainer's API.
+- [alexkorep/mcp-server-clickhouse](https://github.com/alexkorep/mcp-server-clickhouse): Facilitates interaction with ClickHouse Cloud API through MCP tools, enabling management of organizations and services.
 - [jtucker/mcp-untappd-server-dotnet](https://github.com/jtucker/mcp-untappd-server-dotnet): Leverage Azure Functions to create an Untappd MCP server with Server Sent Events integration.
+- [Cumulocity-IoT/cumulocity-mcp-server](https://github.com/Cumulocity-IoT/cumulocity-mcp-server): Facilitates interaction with Cumulocity IoT platform's device management, measurements, and alarm systems via the MCP interface.
 - [w4nd3r1ingY4k/remote-mcp-server](https://github.com/w4nd3r1ingY4k/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with Claude Desktop and MCP Inspector.
 - [Ztein/rb-api-mcp](https://github.com/Ztein/rb-api-mcp): Facilitates seamless integration between LLMs and Kolada, enabling data-driven analysis of Swedish municipal statistics.
 - [Lonolf/cursor-firebase-tools](https://github.com/Lonolf/cursor-firebase-tools): Facilitates direct interaction with Firebase through Cursor, enabling document management and user creation via MCP commands.
+- [natsukium/mcp-servers-nix](https://github.com/natsukium/mcp-servers-nix): A Nix-based framework for configuring and deploying modular MCP servers with reproducible builds and security-focused features.
 - [amirilovic/mcp-server-proxy](https://github.com/amirilovic/mcp-server-proxy): A proxy server that connects to multiple MCP servers, offering a unified interface for tool access with support for multiple configuration profiles and modes.
 - [minorun365/mcp-aws-level-checker](https://github.com/minorun365/mcp-aws-level-checker): Analyzes AWS technical blog content to determine its level of complexity using a Model Context Protocol server.
 - [RollandMELET/mcp-qdrant-docker](https://github.com/RollandMELET/mcp-qdrant-docker): Facilitates access to a Qdrant vector database via a Docker-deployed MCP server, enabling integration with Claude.
@@ -278,6 +295,7 @@ Servers integrating with major cloud providers or specific cloud services.
 - [adamwattis/mcp-proxy-server](https://github.com/adamwattis/mcp-proxy-server): A central hub that aggregates and serves multiple MCP resource servers through a unified interface, managing resource routing and tool aggregation.
 - [rishikavikondala/mcp-server-aws](https://github.com/rishikavikondala/mcp-server-aws): Facilitates AWS resource operations through a Model Context Protocol server, supporting S3 and DynamoDB services with automatic logging.
 - [geelen/workers-mcp-server](https://github.com/geelen/workers-mcp-server): Extend Claude Desktop by invoking functions through a Cloudflare Worker using the Model Context Protocol.
+- [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird): Facilitates interaction with Tinybird Workspaces, enabling data querying and management through MCP clients.
 - [EyevinnOSC/mcp-server](https://github.com/EyevinnOSC/mcp-server): Facilitates the creation of open web services using Eyevinn Open Source Cloud API, offering database, storage, and VOD pipeline setups.
 - [vercel/sdk](https://github.com/vercel/sdk): A type-safe TypeScript SDK for accessing the Vercel REST API, also deployable as an MCP server for AI applications.
 

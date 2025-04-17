@@ -2,6 +2,61 @@
 
 Servers providing simple, general-purpose tools like time/date information, calculators, dice rollers, formatters, unit converters, UUID generation, etc.
 
+- [variablenigh/excel-mcp-server](https://github.com/variablenigh/excel-mcp-server): Facilitates reading and writing spreadsheet data to MS Excel files using the Model Context Protocol.
+- [LoSinCos/stock-ticker-mcp](https://github.com/LoSinCos/stock-ticker-mcp): A humorous MCP server that responds with a rude message when queried about stock prices, designed for integration with Claude Desktop.
+- [Disdjj/mcp-cook](https://github.com/Disdjj/mcp-cook): Facilitates culinary exploration by providing recipe retrieval and dish naming functionalities through MCP integration.
+- [yoda-digital/horologic-mcp](https://github.com/yoda-digital/horologic-mcp): Horologic MCP is a TypeScript server for time and timezone operations, seamlessly integrating with MCP-compatible clients like Claude Desktop.
+- [cer12u/mcp-test](https://github.com/cer12u/mcp-test): A server for generating random values with configurable limits, designed for Claude Desktop.
+- [melihteke/Subnet-Calculator-MCP-Server](https://github.com/melihteke/Subnet-Calculator-MCP-Server): Facilitates subnet calculations using CIDR notation through an MCP server with SSE transport.
+- [winterfx/mcpcli](https://github.com/winterfx/mcpcli): A command-line interface for managing and interacting with multiple MCP servers, offering features like tool invocation and server inspection.
+- [rynnkitty/mcp-studio](https://github.com/rynnkitty/mcp-studio): The repository provides a C# client for interacting with various MCP servers, including those for image reading and filesystem operations.
+- [imsaar/prayer-time-mcp-server](https://github.com/imsaar/prayer-time-mcp-server): Provides daily Muslim prayer times based on location and date, with additional note-taking and summarization features.
+- [dilboy/markitdown-mcp](https://github.com/dilboy/markitdown-mcp): Facilitates the conversion of various URI types to Markdown using a lightweight MCP server with STDIO and SSE support.
+- [arunjavagithub/MCPJavaFileSystem](https://github.com/arunjavagithub/MCPJavaFileSystem): A Java-based MCP server enabling LLM agents to perform filesystem operations and web content retrieval.
+- [sadeghtkd/ping-mcp-server](https://github.com/sadeghtkd/ping-mcp-server): Facilitates network connectivity tests and ping operations for Claude Desktop via MCP.
+- [stephenlacy/mcp-proxy](https://github.com/stephenlacy/mcp-proxy): A fast Rust-based proxy facilitating bidirectional communication between stdio and SSE for MCP servers.
+- [jaychenthinkfast/ip-mcp](https://github.com/jaychenthinkfast/ip-mcp): Facilitates IP address geolocation queries using the MCP protocol, integrating seamlessly with other MCP-compatible systems.
+- [leonhardholz/mcp-openweathermap](https://github.com/leonhardholz/mcp-openweathermap): Provides real-time weather data using OpenWeatherMap API through a simple MCP server.
+- [hrsano645/python-mcp-example](https://github.com/hrsano645/python-mcp-example): Demonstrates the use of the MCP Python SDK to create a server that processes commands via stdio transport.
+- [tomoya-kamaji/mcp-sample](https://github.com/tomoya-kamaji/mcp-sample): A tool for rolling dice within Claude Desktop using MCP integration.
+- [cappt-team/mcp-server](https://github.com/cappt-team/mcp-server): Facilitates the generation of outlines and presentations using Cappt's Model Context Protocol.
+- [undertaker86001/mcp-process-pdf](https://github.com/undertaker86001/mcp-process-pdf): A robust MCP server for processing PDF documents with features like text extraction, image optimization, and intelligent classification using deep learning.
+- [danielsuguimoto/readonly-filesystem-mcp](https://github.com/danielsuguimoto/readonly-filesystem-mcp): Node.js server for readonly filesystem operations using Model Context Protocol.
+- [OwnID/claude-desktop-mcp-installer](https://github.com/OwnID/claude-desktop-mcp-installer): Facilitates the integration of MCP servers into Claude Desktop by updating configuration files with server details.
+- [gawakawa/uuid-mcp](https://github.com/gawakawa/uuid-mcp): Facilitates UUID generation through an MCP server setup using Nix for development and execution.
+- [ChenKun1997/mcp-demo](https://github.com/ChenKun1997/mcp-demo): Node.js server enabling filesystem operations through Model Context Protocol, supporting file manipulation, directory management, and metadata retrieval.
+- [Lunran/rssmcp](https://github.com/Lunran/rssmcp): Fetches and formats RSS feed entries with optional export capabilities.
+- [rjn32s/mcp-ocr](https://github.com/rjn32s/mcp-ocr): A robust OCR server leveraging MCP to extract text from images using Tesseract, supporting various input types and languages.
+- [joisun/file-find-mcp](https://github.com/joisun/file-find-mcp): A Rust-based MCP server leveraging ripgrep for high-speed file searches within a filesystem.
+- [SebastianBoehler/domain-check-mcp](https://github.com/SebastianBoehler/domain-check-mcp): Facilitates domain availability checks and recommendations using IONOS endpoints.
+- [Showichiro/mcp-todo](https://github.com/Showichiro/mcp-todo): Facilitates Todo management using the todo.txt format, leveraging Deno KV for local data storage.
+- [jolks/mcp-cron](https://github.com/jolks/mcp-cron): Efficiently schedule and manage tasks using cron expressions with seamless integration via the MCP protocol.
+- [onikun94/markdown-to-notion-mcp](https://github.com/onikun94/markdown-to-notion-mcp): Transforms Obsidian markdown into a Notion-compatible format using the Model Context Protocol (MCP) server.
+- [HANON-games/midi-control-mcp](https://github.com/HANON-games/midi-control-mcp): Facilitates MIDI message transmission to output devices via a TypeScript-based MCP server.
+- [yorifuji/mcp-say-excuse-me](https://github.com/yorifuji/mcp-say-excuse-me): Facilitates the playback of a specific sound through an MCP server setup.
+- [ianpilon/Ians-MCP-server](https://github.com/ianpilon/Ians-MCP-server): Serves RTF files via a simple MCP server, easily deployable on Vercel and configurable with Windsurf.
+- [tidewave-ai/mcp_proxy_elixir](https://github.com/tidewave-ai/mcp_proxy_elixir): Facilitates the connection of STDIO-based MCP clients to HTTP (SSE) based MCP servers using a proxy escript.
+- [abhishekloiwal/mcp-file-server](https://github.com/abhishekloiwal/mcp-file-server): Facilitates local file system operations for AI assistants via an MCP server, enabling file reading, writing, and management.
+- [jerrelgordon/file-master-mcp](https://github.com/jerrelgordon/file-master-mcp): A secure server providing LLMs with controlled access to files and directories through a standardized interface.
+- [adisuryanathan/supercorp-ai_supergateway](https://github.com/adisuryanathan/supercorp-ai_supergateway): Supergateway facilitates running MCP stdio-based servers over SSE or WebSockets, enabling seamless remote access and integration with web-based clients.
+- [alicuche/mcp-fetch-url](https://github.com/alicuche/mcp-fetch-url): A Node.js server that fetches URLs as part of the Modular Command Platform system.
+- [bchopson/indy-gov-mcp](https://github.com/bchopson/indy-gov-mcp): Fetches trash pickup day information for Indy.gov using an MCP server.
+- [Lewik/mcp-tools-proxy](https://github.com/Lewik/mcp-tools-proxy): A configurable proxy for filtering MCP tools, offering allowlist and denylist modes to control tool availability for AI assistants.
+- [AB498/computer-control-mcp](https://github.com/AB498/computer-control-mcp): Enables comprehensive computer control through mouse, keyboard, and OCR functionalities using PyAutoGUI and RapidOCR, with zero external dependencies.
+- [ShenSeanChen/launch-mcp-demo](https://github.com/ShenSeanChen/launch-mcp-demo): A versatile MCP server offering command-line tools for file management, weather updates, and WhatsApp chat analysis, with integrations for Supabase, Stripe, and GitHub in Cursor IDE.
+- [cloudmcp-dev/connect](https://github.com/cloudmcp-dev/connect): Facilitates connections to MCP SSE servers, enabling proxying to standard input/output with authentication and logging capabilities.
+- [4kk11/mcp-html2pdf](https://github.com/4kk11/mcp-html2pdf): Transforms HTML content into PDF format, facilitating the preservation of web pages and LLM-generated content.
+- [nwtgck/one-mcp](https://github.com/nwtgck/one-mcp): Facilitates the creation of single-tool MCP servers for tasks like word counting and random string generation.
+- [axlwolf/filesystem-mcp](https://github.com/axlwolf/filesystem-mcp): Node.js server for performing filesystem operations using the Model Context Protocol, enabling file manipulation, directory management, and metadata retrieval.
+- [AxelPribadi/MCP-Tools](https://github.com/AxelPribadi/MCP-Tools): MCP-Tools offers a modular suite of servers to enhance service interactions, with each module providing unique functionalities.
+- [chew-z/TimeMCP](https://github.com/chew-z/TimeMCP): A Golang-based server offering time and timezone conversion tools through the Model Control Protocol.
+- [ysthink/Filesystem-MCP-Server-SSE](https://github.com/ysthink/Filesystem-MCP-Server-SSE): Facilitates filesystem operations through a Node.js server using SSE for efficient file management and directory handling.
+- [4kk11/mcp-html-templates](https://github.com/4kk11/mcp-html-templates): Facilitates the management and utilization of HTML templates, enabling integration with LLMs and conversion to PDF.
+- [fashionzzZ/markdown-to-html](https://github.com/fashionzzZ/markdown-to-html): Transforms Markdown content into HTML using the Model Context Protocol.
+- [Timandes/mcp-gateway](https://github.com/Timandes/mcp-gateway): Facilitates the translation of MCP tool calls into HTTP requests, enabling seamless integration with existing APIs.
+- [JordanDalton/RestCsvMcpServer](https://github.com/JordanDalton/RestCsvMcpServer): Facilitates integration with RestCSV through a generated MCP server using MCPGen.
+- [wgr1984/ns-lookup-mcp](https://github.com/wgr1984/ns-lookup-mcp): Provides a REST API for DNS lookups using the nslookup command, enabling easy integration of DNS resolution into applications.
+- [dkruyt/mcp-nettools](https://github.com/dkruyt/mcp-nettools): Provides network diagnostics and scanning tools, including DNS queries, SSL analysis, and IP geolocation.
 - [ma3u/weather](https://github.com/ma3u/weather): Provides a TypeScript-based weather service for integration with Claude Desktop using MCP.
 - [phpmac/fetch_mcp](https://github.com/phpmac/fetch_mcp): Fetch web content in various formats using an MCP server, supporting HTML, JSON, plain text, and Markdown outputs.
 - [jtwirly/weather-mcp-server](https://github.com/jtwirly/weather-mcp-server): Provides weather forecasts and alerts for US locations by integrating with the National Weather Service API.
@@ -49,7 +104,6 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [Rustam200391/new1](https://github.com/Rustam200391/new1): Enables LLMs to automate browser interactions using Playwright's accessibility tree for efficient and structured web navigation.
 - [ma3u/mcp-server-dust-Py](https://github.com/ma3u/mcp-server-dust-Py): Facilitates integration with Dust AI agents through HTTP calls, enabling advanced cognitive and problem-solving capabilities.
 - [ma3u/mcp-server-count-r-](https://github.com/ma3u/mcp-server-count-r-): A simple MCP server designed to count occurrences of the character 'r' in text inputs.
-- [WynnD/mcp-server-shortcut](https://github.com/WynnD/mcp-server-shortcut): Facilitates AI assistants' interaction with Shortcut.com's ticket management system, enabling story management and workflow retrieval.
 - [pashaydev/terminal.shop.mcp](https://github.com/pashaydev/terminal.shop.mcp): Facilitates seamless interaction with Terminal.shop for AI assistants, enabling product browsing, cart management, order placement, and subscription handling through a dedicated API.
 - [jhchen2222-ui/pdf-mcp](https://github.com/jhchen2222-ui/pdf-mcp): Facilitates PDF processing through a dedicated MCP server with Python integration.
 - [zyren123/mcp_project](https://github.com/zyren123/mcp_project): A multi-server client project enabling simultaneous connections to multiple MCP servers with OpenAI API integration for code execution, file processing, and shell command execution.
@@ -136,6 +190,7 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [bianbianzhu/weather-server](https://github.com/bianbianzhu/weather-server): A TypeScript-based MCP server implementing a notes system with resources, tools, and prompts for note management and summarization.
 - [bmorphism/say-mcp-server](https://github.com/bmorphism/say-mcp-server): Enhances macOS's text-to-speech capabilities with customizable voice modulation and integration options.
 - [misterboe/webtools-mcp-server](https://github.com/misterboe/webtools-mcp-server): A Model Context Protocol server offering advanced web analysis tools, including HTML extraction, markdown conversion, and Lighthouse-powered audits for performance, accessibility, and SEO.
+- [vanzan01/atomic-writer-mcp](https://github.com/vanzan01/atomic-writer-mcp): Atomic Writer MCP Server ensures secure and atomic file operations, preventing data loss through transactional integrity, ideal for AI integrations and collaborative editing.
 - [TKpon/dice-server](https://github.com/TKpon/dice-server): A TypeScript-based MCP server for managing and summarizing text notes with URI-based access and metadata.
 - [kazuph/mcp-screenshot](https://github.com/kazuph/mcp-screenshot): Captures screenshots and performs OCR text recognition with support for Japanese and English, offering multiple output formats.
 - [tetumemo/dice-server](https://github.com/tetumemo/dice-server): Dice-server provides a simple MCP server for rolling dice with customizable sides.
@@ -150,6 +205,7 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [isaacphi/mcp-python-helper](https://github.com/isaacphi/mcp-python-helper): Enhance Python projects with tools and configurations for MCP server integration and deployment.
 - [andybrandt/mcp-simple-textedit](https://github.com/andybrandt/mcp-simple-textedit): Enhances AI-driven text editing with pattern-based identification and content verification for secure and context-aware modifications.
 - [vidhupv/x-mcp](https://github.com/vidhupv/x-mcp): Facilitates the creation, management, and publication of X/Twitter posts directly through Claude chat.
+- [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver): Enables Claude to access current local and UTC time through a simple MCP server.
 - [Sunwood-ai-labs/mcp-weather-service-server](https://github.com/Sunwood-ai-labs/mcp-weather-service-server): A weather service MCP server that manages and summarizes notes using a custom URI scheme.
-- [hide-org/hide-mcp](https://github.com/hide-org/hide-mcp): A headless IDE MCP server featuring a text editor and persistent bash shell for file management and command execution.
+- [duan-li/mcp-weather-server-example](https://github.com/duan-li/mcp-weather-server-example): A weather server utilizing MCP to manage and summarize note resources with customizable prompts.
 

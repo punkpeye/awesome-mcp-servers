@@ -2,6 +2,24 @@
 
 Servers focused on generating or manipulating images, processing video, audio transcription, text-to-speech, or document conversion.
 
+- [sandst1/mcp-server-midi](https://github.com/sandst1/mcp-server-midi): Facilitates the transmission of MIDI sequences from an LLM to any MIDI-compatible software, enabling seamless integration with digital audio workstations and hardware synthesizers.
+- [mang0cola/watermark-mcp-server](https://github.com/mang0cola/watermark-mcp-server): Enhance images by adding customizable text or image watermarks using a simple MCP server.
+- [heygen-com/heygen-mcp](https://github.com/heygen-com/heygen-mcp): Facilitates avatar and video generation through the HeyGen API for MCP clients like Claude Desktop.
+- [falahgs/flux-imagegen-mcp-server](https://github.com/falahgs/flux-imagegen-mcp-server): A specialized server for generating and manipulating images using Pollinations AI, compliant with the Model Context Protocol.
+- [MichaelYangjson/mcp-ghibli-video](https://github.com/MichaelYangjson/mcp-ghibli-video): A TypeScript-based server offering AI-driven image and video generation with Ghibli-style animations.
+- [pasie15/meshy-ai-mcp-server](https://github.com/pasie15/meshy-ai-mcp-server): Interact with the Meshy AI API to generate and optimize 3D models from text and images, complete with real-time task streaming and account management.
+- [led-ray/mcp-voicevox](https://github.com/led-ray/mcp-voicevox): Facilitates AI agents in reading aloud text using the VOICEVOX engine with customizable voice parameters and dialogue formats.
+- [coderjun/shaka-packager-mcp-server](https://github.com/coderjun/shaka-packager-mcp-server): Integrates Shaka Packager with Claude AI for video transcoding, packaging, and analysis, enhancing media processing capabilities.
+- [Anna-Pinewood/mcp-pallete](https://github.com/Anna-Pinewood/mcp-pallete): Generates color palettes from images using an MCP server with IMAGGA integration.
+- [mcai/podcast-tts-mcp](https://github.com/mcai/podcast-tts-mcp): Generate multilingual podcast conversations with alternating male and female voices using Microsoft Edge's TTS technology.
+- [rerofumi/fm-mcp-comfyui-bridge](https://github.com/rerofumi/fm-mcp-comfyui-bridge): Facilitates image generation through ComfyUI integration, offering caption and tag analysis capabilities.
+- [andyanalog/mcp-ffmpeg-livestream-aws](https://github.com/andyanalog/mcp-ffmpeg-livestream-aws): A toolkit for FFmpeg video processing and live streaming with AWS integration.
+- [karoterra/aviutl-mcp](https://github.com/karoterra/aviutl-mcp): Facilitates the control of AviUtl through MCP, enabling seamless integration with various MCP hosts like Claude Desktop.
+- [slot181/tts-mcp](https://github.com/slot181/tts-mcp): A command-line tool and MCP server for generating high-quality text-to-speech using the OpenAI TTS API, supporting multiple voice options and output formats.
+- [Yoshino-Yukitaro/imagemagick_mcp_server](https://github.com/Yoshino-Yukitaro/imagemagick_mcp_server): Facilitates image processing tasks using ImageMagick through an MCP server setup.
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP): Facilitates seamless interaction with advanced Text to Speech and multimedia generation APIs, enabling voice cloning, video, and image creation.
+- [kachiO/mlx-whisper-mcp](https://github.com/kachiO/mlx-whisper-mcp): Facilitates audio transcription and YouTube video transcription using MLX Whisper on Apple Silicon Macs.
+- [Ryuhei-So/mermaid-cli-server](https://github.com/Ryuhei-So/mermaid-cli-server): Generates PNG images from Mermaid markdown using the official mermaid-cli.
 - [GoatWang/YTTranscipterMultilingualMCP](https://github.com/GoatWang/YTTranscipterMultilingualMCP): Transcribe YouTube videos into multiple languages using a multilingual MCP server.
 - [tubone24/midi-mcp-server](https://github.com/tubone24/midi-mcp-server): Enables AI models to generate MIDI files from text-based music data, facilitating programmatic musical composition through a standardized interface.
 - [grafikogr/freepik-mcp-server](https://github.com/grafikogr/freepik-mcp-server): Generates images from text descriptions using Freepik's Flux AI service, integrated with Claude Desktop.
@@ -23,7 +41,6 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [MaikoCode/YourAIPhotographer-MCP](https://github.com/MaikoCode/YourAIPhotographer-MCP): Enables MCP clients to generate custom images using YourAIPhotographer's trained models.
 - [jlevy/deep-transcribe](https://github.com/jlevy/deep-transcribe): Facilitates deep transcription of video and audio content with speaker identification and annotations, operable as an MCP server.
 - [vidau-ai/asr_mcp_server](https://github.com/vidau-ai/asr_mcp_server): Provides ASR capabilities using the whisper engine and exposes TTS functionality for seamless speech synthesis integration.
-- [redblock-ai/imgflip-mcp](https://github.com/redblock-ai/imgflip-mcp): Facilitates meme creation and sharing for AI assistants using the Imgflip API.
 - [MathFrenchToast/mcp-draw](https://github.com/MathFrenchToast/mcp-draw): Facilitates interaction between a drawing application and an MCP server using a REST interface for canvas operations.
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server): Facilitates the execution of Manim animation scripts and returns the generated video through an MCP server interface.
 - [ddhar1/lastfm_mcp](https://github.com/ddhar1/lastfm_mcp): Facilitates interaction with Last.fm data, enabling Claude to retrieve user-specific and global top tracks.

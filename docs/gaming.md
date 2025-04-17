@@ -2,6 +2,10 @@
 
 Servers interacting with game engines, game platforms/APIs, or providing game-related tools.
 
+- [v9rt3x/cs2-rcon-mcp](https://github.com/v9rt3x/cs2-rcon-mcp): Facilitates remote management and monitoring of Counter-Strike 2 servers using RCON commands through a Model Context Protocol interface.
+- [passontw/slotdemo](https://github.com/passontw/slotdemo): A modern slot machine game built with native JavaScript, CSS animations, and Tailwind CSS, offering a smooth and interactive gaming experience.
+- [zerubeus/moog-sub37-mcp](https://github.com/zerubeus/moog-sub37-mcp): Facilitates AI-assisted sound design and parameter control of the Moog Sub37/Subsequent37 synthesizer via MIDI.
+- [xhulz/mcp-game-helper](https://github.com/xhulz/mcp-game-helper): AI-powered tools for game developers to optimize combat balancing, skill analysis, and level pacing.
 - [sinsunsan/blender-bonsai-bim-mcp](https://github.com/sinsunsan/blender-bonsai-bim-mcp): Facilitates interaction between Claude AI and Blender for BIM element creation and floor plan generation using natural language commands.
 - [weekitmo/mcp_godot_rag](https://github.com/weekitmo/mcp_godot_rag): Facilitates access to Godot documentation for the Godot RAG model through an MCP server.
 - [indroneelray/pokemon-mcp-server](https://github.com/indroneelray/pokemon-mcp-server): Fetch Pokémon data using a Model Context Protocol server integrated with the official PokéAPI.

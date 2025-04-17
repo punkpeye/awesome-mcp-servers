@@ -2,6 +2,8 @@
 
 Servers interacting with build systems, containerization, CI/CD, or deployment platforms.
 
+- [Bigsy/shadow-cljs-mcp](https://github.com/Bigsy/shadow-cljs-mcp): Monitors shadow-cljs builds, providing real-time status updates and integration with LLMs for verifying build success after ClojureScript file edits.
+- [shivammaurya042/mcp-render](https://github.com/shivammaurya042/mcp-render): Effortlessly manage your Render.com account with this MCP server, enabling seamless deployment management and environment variable handling through your preferred MCP client.
 - [aaomidi/mcp-bazel](https://github.com/aaomidi/mcp-bazel): Facilitates Bazel project interactions by providing build, test, and dependency analysis tools.
 - [Nhahan/mcp-agent](https://github.com/Nhahan/mcp-agent): A versatile AI agent web container enabling natural language processing and tool invocation through a web API, integrated with MCP servers for multilingual support and interaction logging.
 - [Drew-Goddyn/buildkite-mcp](https://github.com/Drew-Goddyn/buildkite-mcp): Facilitates seamless integration with Buildkite by providing a microservice for retrieving and managing build information via MCP.
@@ -29,6 +31,7 @@ Servers interacting with build systems, containerization, CI/CD, or deployment p
 - [Warashi/mcp-server-pipecd](https://github.com/Warashi/mcp-server-pipecd): Facilitates integration and management of applications and deployments with PipeCD.
 - [crewAIInc/enterprise-mcp-server](https://github.com/crewAIInc/enterprise-mcp-server): Facilitates the initiation and monitoring of CrewAI workflow deployments.
 - [ruibaby/1panel-mcp](https://github.com/ruibaby/1panel-mcp): Automates the deployment of websites to 1Panel servers, ensuring seamless integration with the MCP standard protocol.
+- [baronfel/mcp-msbuild-host](https://github.com/baronfel/mcp-msbuild-host): Facilitates the analysis of MSBuild projects by integrating with any MCP server.
 - [pagerguild/homebrew-guilde-cli-releases](https://github.com/pagerguild/homebrew-guilde-cli-releases): Guilde's CLI tool provides a private MCP server for managing and accessing GitHub repositories with integrated Slack communication.
 - [cuongdev/mcp-codepipeline-server](https://github.com/cuongdev/mcp-codepipeline-server): Integrates AWS CodePipeline with Windsurf and Cascade, offering a standardized interface for pipeline management and natural language interaction.
 - [jfrog/mcp-jfrog](https://github.com/jfrog/mcp-jfrog): Facilitates repository management, build tracking, and release lifecycle management within the JFrog Platform API.

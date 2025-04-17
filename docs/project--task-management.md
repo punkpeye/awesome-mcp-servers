@@ -2,6 +2,16 @@
 
 Servers integrating with project management and task tracking tools.
 
+- [digitalcube/advanced-backlog-mcp-server](https://github.com/digitalcube/advanced-backlog-mcp-server): Facilitates interaction with Backlog for project management through a Model Context Protocol server, enabling efficient querying and management of projects, issues, wikis, and user activities.
+- [trknhr/backlog-mcp-server](https://github.com/trknhr/backlog-mcp-server): Facilitates project management and issue tracking on Backlog through Claude integration.
+- [tradesdontlie/task-manager-mcp](https://github.com/tradesdontlie/task-manager-mcp): Facilitates comprehensive task and project management with AI-driven task breakdown and tracking capabilities.
+- [Toru-Takagi/togello-mcp-server](https://github.com/Toru-Takagi/togello-mcp-server): Facilitates task management and calendar integration using the Model Context Protocol.
+- [curiousguyinhis30s/simple-task-master](https://github.com/curiousguyinhis30s/simple-task-master): A task management system that integrates with Desktop Commander MCP to organize and track tasks for Claude desktop code projects.
+- [zhongwencool/dida-mcp-server](https://github.com/zhongwencool/dida-mcp-server): Facilitates AI-driven task and project management through TickTick/Dida365 using the Model Context Protocol.
+- [larryhudson/linear-mcp-server-again](https://github.com/larryhudson/linear-mcp-server-again): Facilitates interaction between Claude and Linear for task management through a Model Context Protocol server.
+- [mikemc/todoist-mcp-server](https://github.com/mikemc/todoist-mcp-server): A Python-based server enabling integration with Todoist through the MCP protocol, leveraging the Todoist API for task management.
+- [dream-star-end/task-manager-mcp](https://github.com/dream-star-end/task-manager-mcp): A task management system leveraging MCP for intelligent task parsing, dependency management, and LLM-driven subtask expansion.
+- [karlost/FreeloMCP](https://github.com/karlost/FreeloMCP): Facilitates seamless integration of Freelo's project management API with AI assistants using the Model Context Protocol.
 - [katoiek/mcp-server-wrike](https://github.com/katoiek/mcp-server-wrike): Facilitates interaction with the Wrike API through MCP clients, enabling seamless task and project management.
 - [chuan-khuna/jira-mcp](https://github.com/chuan-khuna/jira-mcp): Facilitates querying and summarizing Jira tasks for specific assignees with pagination support.
 - [torohash/ai-scheduler-mcp](https://github.com/torohash/ai-scheduler-mcp): Integrates Google Tasks and Calendar APIs for scheduling via an SSE-enabled MCP server.
@@ -146,7 +156,8 @@ Servers integrating with project management and task tracking tools.
 - [jerhadf/linear-mcp-server](https://github.com/jerhadf/linear-mcp-server): Integrates Linear's project management system with MCP to enable LLMs to manage and interact with Linear issues.
 - [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server): Integrates Claude with Todoist for seamless natural language task management.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian): Integrates Confluence and Jira with MCP for seamless project management across cloud and server deployments.
-- [alexeydubinin/hh-jira-mcp-server](https://github.com/alexeydubinin/hh-jira-mcp-server): Facilitates integration with Jira by providing an MCP server for managing and querying project statuses.
+- [jesse-c/linear-context-server](https://github.com/jesse-c/linear-context-server): A TypeScript server facilitating Linear task management through the Model Context Protocol.
 - [noah-vh/mcp-server-clickup](https://github.com/noah-vh/mcp-server-clickup): Integrates ClickUp with a Model Context Protocol server to manage and summarize notes efficiently.
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp): Integrates Claude with Notion to manage a minimalist todo list via MCP server.
+- [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro): Connects to the MIRO Whiteboard Application for board manipulation and bulk operations using the Model Context Protocol.
 
