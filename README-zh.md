@@ -102,8 +102,9 @@
 
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 10秒内将Web API转换为MCP服务器并将其添加到开源注册表中: https://open-mcp.org
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一个统一的中间件MCP服务器，通过GUI管理您的MCP连接。
+- [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧  - 一键将Web API转成为MCP服务器，而无需对服务器端代码进行任何修改。
 
-### 📂 <a name="browser-automation"></a>浏览器自动化
+### 📂 <a name="browser-automation"></a>浏览器自动化哦，
 
 Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和处理 Web 内容。
 - [@blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🌐 - 使用 Playwright 进行浏览器自动化的 MCP 服务器，更适合llm
