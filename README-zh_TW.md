@@ -440,6 +440,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 ## 實用工具
 
 - [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - 帶有範例伺服器和 MCP 用戶端的 MCP stdio 到 HTTP SSE 傳輸閘道器
+- [fangyinc/mcpport](https://github.com/fangyinc/mcpport) 🐍 🏠 ☁️ - 一個支援 NAT 穿透的輕量級 MCP 伺服器閘道和註冊表，允許邊緣裝置跨網路提供 MCP 服務。功能包括 WebSocket/SSE/HTTP 端點、認證、IPv6 支援，以及用於輕鬆註冊基於 stdio 的 MCP 伺服器的命令列工具。
 - [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 - 在 LangChain.js 中使用 MCP 提供的工具
 - [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - MCP SSE 伺服器的閘道器示範
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ - 一個 CLI 主機應用程式，使大型語言模型 (LLM) 能夠通過模型上下文協議 (MCP) 與外部工具交互
