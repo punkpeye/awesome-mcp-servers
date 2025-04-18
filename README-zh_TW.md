@@ -387,6 +387,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) 📇 🏠 - 與Notion API交互
 - [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server) 🐍/📇 ☁️ - 使用MCP協議通過工具或預定義的提示發送請求給OpenAI、MistralAI、Anthropic、xAI或Google AI。需要供應商API金鑰
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro) 📇 ☁️ - 訪問 MIRO 白板，批次創建和讀取項目。需要 REST API 的 OAUTH 金鑰。
+- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎🏠 - 使用常規的 GraphQL 查詢/變異定義工具，gqai 將自動為您產生 MCP 伺服器。
 - [KS-GEN-AI/jira-mcp-server](https://github.com/KS-GEN-AI/jira-mcp-server) 📇 ☁️ 🍎 🪟 - 通過 JQL 和 API 讀取 Jira 數據，並執行創建和編輯工單的請求
 - [KS-GEN-AI/confluence-mcp-server](https://github.com/KS-GEN-AI/confluence-mcp-server) 📇 ☁️ 🍎 🪟 - 通過 CQL 獲取 Confluence 數據並閱讀頁面
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - Confluence工作區的自然語言搜尋和內容訪問
