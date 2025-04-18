@@ -342,6 +342,7 @@ Ferramentas para criar e editar conteúdo de marketing, trabalhar com meta dados
 
 Acesse e analise dados de monitoramento de aplicações. Permite que modelos de IA revisem relatórios de erros e métricas de desempenho.
 
+- [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - Um servidor MCP que permite consultar logs do Loki através da API do Grafana.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - Pesquise painéis, investigue incidentes e consulte fontes de dados em sua instância Grafana
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) 🐍 🏠 - Melhore a qualidade do código gerado por IA através de análise inteligente baseada em prompts em 10 dimensões críticas, de complexidade a vulnerabilidades de segurança
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) - Traga facilmente o contexto de produção em tempo real—logs, métricas e traces—para seu ambiente local para corrigir código automaticamente mais rápido
