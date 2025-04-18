@@ -438,6 +438,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 体育相关数据、结果和统计信息的访问工具。
 
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - 通过自然语言访问自行车比赛数据、结果和统计信息。功能包括从 firstcycling.com 获取参赛名单、比赛结果和车手信息。
+- [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - MMCP 服务器集成了 Squiggle API，提供有关澳大利亚橄榄球联盟球队、排名、比赛结果、预测和实力排名的信息。
 
 ### 🌎 <a name="translation-services"></a>翻译服务
 
