@@ -356,6 +356,7 @@
 
 애플리케이션 모니터링 데이터 접근 및 분석. AI 모델이 오류 보고서 및 성능 지표를 검토할 수 있게 합니다.
 
+- [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - Grafana API를 통해 Loki 로그를 쿼리할 수 있는 MCP 서버입니다.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - 오류 추적 및 성능 모니터링을 위한 Sentry.io 통합
 - [@MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - 충돌 보고 및 실제 사용자 모니터링을 위한 Raygun API V3 통합
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - Metoro로 모니터링되는 쿠버네티스 환경 쿼리 및 상호 작용
