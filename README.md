@@ -83,6 +83,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
 * 📊 - [Data Platforms](#data-platforms)
+* 🚚 - [Delivery](#delivery)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 🧮 - [Data Science Tools](#data-science-tools)
 * 📟 - [Embedded system](#embedded-system)
@@ -390,6 +391,10 @@ Tools and integrations that enhance the development workflow and environment man
 - [jordandalton/restcsv-mcp-server](https://github.com/JordanDalton/RestCsvMcpServer) 📇 ☁️ - An MCP server for CSV files.
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - An MCP server for running code locally via Docker and supporting multiple programming languages.
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - Query Go package information on pkg.go.dev
+
+### 🔒 <a name="delivery"></a>Delivery
+
+- [https://github.com/jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
 
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
