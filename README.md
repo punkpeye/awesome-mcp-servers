@@ -109,7 +109,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 Servers for accessing many apps and tools through a single MCP server.
 
-- [wundergraph/cosmo](https://github.com/wundergraph/cosmo) 🍎🪟🐧🏎️🏠 - Connect any GraphQL API (Federated or standalone) through the [MCP Gateway](https://wundergraph.com/mcp-gateway) with trusted documents for surgical precision over data exposure. Gain built-in telemetry, change tracking, and field-level insights that traditional APIs can't match.
+- [wundergraph/cosmo](https://github.com/wundergraph/cosmo) 🍎 🪟 🐧 🏎️ 🏠 - Connect any GraphQL API (Federated or standalone) through the [MCP Gateway](https://wundergraph.com/mcp-gateway) with trusted documents for surgical precision over data exposure. Gain built-in telemetry, change tracking, and field-level insights that traditional APIs can't match.
 - [julien040/anyquery](https://github.com/julien040/anyquery) 🏎️ 🏠 ☁️ - Query more than 40 apps with one binary using SQL. It can also connect to your PostgreSQL, MySQL, or SQLite compatible database. Local-first and private by design.
 - [metatool-ai/metatool-app](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Connect and unify data across various platforms and databases with [MindsDB as a single MCP server](https://docs.mindsdb.com/mcp/overview).
