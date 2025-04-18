@@ -112,6 +112,7 @@ Servidores para acessar muitos aplicativos e ferramentas por meio de um único s
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Transforme uma API web em um servidor MCP em 10 segundos e adicione-o ao registro de código aberto: https://open-mcp.org
 - [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy)  📇 🏠 - Um servidor proxy abrangente que combina vários servidores MCP em uma única interface com extensos recursos de visibilidade. Fornece descoberta e gerenciamento de ferramentas, prompts, recursos e modelos em todos os servidores, além de um playground para depuração ao construir servidores MCP.
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP é o servidor middleware MCP unificado que gerencia suas conexões MCP com GUI.
+- [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - Transforme um API web em um servidor MCP com um clique, sem fazer nenhuma alteração no código.
 
 ### 🎨 <a name="arte-e-cultura"></a>Arte e Cultura
 
