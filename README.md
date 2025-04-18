@@ -517,6 +517,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
+- [Social Media Scheduler MCP](https://github.com/gitroomhq/postiz-app/tree/main/libraries/nestjs-libraries/src/mcp) 🐍 🏠 - Postiz is an open-source social media scheduling tool featuring the option to schedule your posts with an MCP
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
