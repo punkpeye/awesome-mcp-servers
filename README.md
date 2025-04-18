@@ -485,6 +485,7 @@ Integration with gaming related data, game engines, and services
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
+- [Augmentorium](https://github.com/wangdangel/Augmentorium) 📇🍎🐧 🏠 🐍 🧠 - Code RAG server Built on python using tree sitter For parsing: semantic search, retrieval-augmented generation, and graph-augmented code understanding for software projects.
 - [CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - Enhanced graph-based memory with a focus on AI role-play and story generation
 - [graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - Ingest anything from Slack, Discord, websites, Google Drive, Linear or GitHub into a Graphlit project - and then search and retrieve relevant knowledge within an MCP client like Cursor, Windsurf or Cline.
 - [hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - An MCP server implementation that provides tools for retrieving and processing documentation through vector search, enabling AI assistants to augment their responses with relevant documentation context
@@ -559,6 +560,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) 📇 ☁️ - Search via search1api (requires paid API key)
 - [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - Biomedical research server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info.
 - [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server)) 🐍 ☁️ - A MCP server for Unsplash image search.
+- [icecrawl](https://www.npmjs.com/package/icecrawl) 📇 🏠 🐍 🔎 - Flexible MCP server for web crawling, scraping, and structured data extraction. Supports headless browser automation, API/CLI/dashboard interfaces, and advanced features for large-scale site analysis.
 - [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) 📇 🏠/☁️ - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
 - [isnow890/naver-search-mcp](https://github.com/isnow890/naver-search-mcp) 📇 ☁️ - MCP server for Naver Search API integration, supporting blog, news, shopping search and DataLab analytics features.
 - [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) 📇 🏠 - MCP server for fetching web page content using Playwright headless browser, supporting Javascript rendering and intelligent content extraction, and outputting Markdown or HTML format.
