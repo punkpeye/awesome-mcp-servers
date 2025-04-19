@@ -129,6 +129,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - A MCP server integrating AniList API for anime and manga information
 - [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - MCP server using the Aseprite API to create pixel art
 - [omni-mcp/isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp) 📇 ☁️ - A MCP Server and an extension enables natural language control of NVIDIA Isaac Sim, Lab, OpenUSD and etc.
+- [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 🏠 - A MCP server for the Open Library API that enables AI assistants to search for book information. 
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
