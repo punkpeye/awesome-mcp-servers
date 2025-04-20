@@ -153,8 +153,10 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - 與 Twitter 搜尋和時間線進行交互
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - MCP伺服器 Tools 應用程式，用於向企業微信群機器人發送各種類型的消息。
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - Nostr MCP 伺服器，支援與 Nostr 交互，可發布筆記等功能。
+- [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - 整合 LINE 官方帳號的 MCP 伺服器
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 這是一個與VRChat API交互的MCP伺服器。您可以獲取VRChat的好友、世界、化身等資訊。
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - 透過 YCloud 平台發送 WhatsApp Business 訊息的 MCP 伺服器。  
+- [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt 的 MCP 伺服器。可與熱門貼文、評論、收藏集、用戶等進行互動。
 
 ### 👤 <a name="customer-data-platforms"></a>數據平台
 
@@ -180,7 +182,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [jovezhong/mcp-timeplus](https://github.com/jovezhong/mcp-timeplus) 🐍 ☁️ - MCP server for Apache Kafka and Timeplus. Able to list Kafka topics, poll Kafka messages, save Kafka data locally and query streaming data with SQL via Timeplus
 - [@fireproof-storage/mcp-database-server](https://github.com/fireproof-storage/mcp-database-server) 📇 ☁️ - Fireproof 分布式帳本資料庫，支援多用戶數據同步
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - MySQL 資料庫集成可配置的訪問控制、模式檢查和全面的安全指南
-- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) 🐍 🏠 - 基於 Node.js 的 MySQL 資料庫集成，提供安全的 MySQL 資料庫操作
+- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) 📇 🏠 - 基於 Node.js 的 MySQL 資料庫集成，提供安全的 MySQL 資料庫操作
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📇 🏠 - PostgreSQL 資料庫集成了模式檢查和查詢功能
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - 具有內建分析功能的 SQLite 資料庫操作
 - [@joshuarileydev/supabase-mcp-server](https://github.com/joshuarileydev/supabase) - Supabase MCP 伺服器用於管理和創建 Supabase 中的項目和組織
@@ -263,6 +265,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API 集成，用於管理 Tastytrade 平台的交易活動
 - [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI 提供港美股等市場的股票即時行情數據，通過 MCP 提供 AI 接入分析、交易能力。
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ -  使用 Bitget 公共 API 去獲取加密貨幣最新價格
+- [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - 基於 baostock 的 MCP 伺服器,提供對中國股票市場數據的訪問和分析功能。
 
 ### 🎮 <a name="gaming"></a>遊戲
 
@@ -332,6 +335,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [devflowinc/trieve](https://github.com/devflowinc/trieve/tree/main/clients/mcp-server) 🎖️📇☁️🏠 - 通過 [Trieve](https://trieve.ai) 爬取、嵌入、分塊、搜尋和檢索數據集中的資訊
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - 使用 ZoomEye API 搜尋全球網路空間資產
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - 將OpenAI內建的`web_search`工具封轉成MCP伺服器使用.
+- [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - 使用 Web Platform API 搜尋 Baseline 狀態的 MCP 伺服器
 
 ### 🔒 <a name="security"></a>安全
 
@@ -420,6 +424,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [kelvin6365/plane-mcp-server](https://github.com/kelvin6365/plane-mcp-server) - 🏎️ 🏠 此 MCP 伺服器將協助您透過 [Plane 的](https://plane.so) API 管理專案和問題
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - 允許 AI 模型與 [HackMD](https://hackmd.io) 交互
 - [pwh-pwh/cal-mcp](https://github.com/pwh-pwh/cal-mcp) - MCP伺服器，可以計算數學表達式
+- [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - 包裝Ankr Advanced API的MCP伺服器實現。可以訪問以太坊、BSC、Polygon、Avalanche等多條區塊鏈上的NFT、代幣和區塊鏈數據。
 
 ## 框架
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - 用於在 Python 中構建 MCP 伺服器的高級框架

@@ -126,6 +126,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - 🏎️ ☁️/🏠 MCPマルチクラスターKubernetesの管理と運用を提供し、管理インターフェース、ログ機能を備え、一般的な運用・開発シナリオをカバーする約50種類のツールを内蔵。標準リソースおよびCRDリソースをサポート。  
 - [weibaohui/kom](https://github.com/weibaohui/kom) - 🏎️ ☁️/🏠 MCPマルチクラスターKubernetesの管理と運用を提供。SDKとして自身のプロジェクトに統合可能で、一般的な運用・開発シナリオをカバーする約50種類のツールを内蔵。標準リソースおよびCRDリソースをサポート。
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8Sは、AI駆動のKubernetesリソース管理ツールで、自然言語インタラクションを通じて、ユーザーがKubernetesクラスター内の任意のリソース（ネイティブリソース（DeploymentやServiceなど）やカスタムリソース（CRD）を含む）を操作できるようにします。複雑なコマンドを覚える必要はなく、要件を説明するだけで、AIが対応するクラスター操作を正確に実行し、Kubernetesの使いやすさを大幅に向上させます。
+- [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) - 🏎️ ☁️/🏠 強力なMCPサーバーで、AIアシスタントがPortainerインスタンスとシームレスに連携し、コンテナ管理、デプロイメント操作、インフラストラクチャ監視機能に自然言語でアクセスできるようにします。
 
 ### 💬 <a name="communication"></a>コミュニケーション
 
@@ -135,10 +136,12 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [@keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - クエリとインタラクションのためのBlueskyインスタンス統合
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - GmailとGoogleカレンダーとの統合。
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - MCPサーバーアプリケーションは、WeComグループロボットにさまざまなタイプのメッセージを送信します。
+- [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - Messaging APIを利用したLINE公式アカウントとの統合
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 VRChat APIと対話するためのMCPサーバーです。VRChatのフレンドやワールド、アバターなどの情報を取得することができます。
 - [takumi0706/google-calendar-mcp](https://github.com/takumi0706/google-calendar-mcp) 📇 ☁️ - GoogleカレンダーAPIと連携するためのMCPサーバーです。GoogleCalendar APIの作成、更新、取得、削除ができます。また、TypeScriptベースです。
 - [teddyzxcv/ntfy-mcp](https://github.com/teddyzxcv/ntfy-mcp) ntfy を使用してスマートフォンに通知を送信し、情報を確実に伝達する MCP サーバーです。
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - YCloudプラットフォーム経由でWhatsAppビジネスメッセージを送信するためのMCPサーバー。
+- [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Huntのための MCP サーバー。トレンド投稿、コメント、コレクション、ユーザーなどと対話できます。
 
 ### 👤 <a name="customer-data-platforms"></a>顧客データプラットフォーム
 
@@ -263,6 +266,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - 自動トピック分類、多言語サポート、[SerpAPI](https://serpapi.com/)を通じたヘッドライン、ストーリー、関連トピックの包括的な検索機能を備えたGoogle News統合。
 - [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server)) 🐍 ☁️ - Unsplash 画像検索機能の統合用
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - OpenAI の組み込み `web_search` ツールを MCP サーバーに変換して使用します。
+- [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - Web Platform APIを使ってBaselineの状態を検索してくれるMCPサーバー
 
 ### 🔒 <a name="security"></a>セキュリティ
 
@@ -337,6 +341,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [kelvin6365/plane-mcp-server](https://github.com/kelvin6365/plane-mcp-server) - 🏎️ 🏠 この MCP サーバーは、[Plane](https://plane.so) API を通じてプロジェクトや課題を管理するのに役立ちます
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - AIモデルが [HackMD](https://hackmd.io) と連携できるようにします。
 - [HenryHaoson/Yuque-MCP-Server](https://github.com/HenryHaoson/Yuque-MCP-Server) - 📇 ☁️ 語雀APIと統合するためのModel-Context-Protocol (MCP)サーバー。AIモデルがドキュメントを管理し、ナレッジベースと対話し、コンテンツを検索し、語雀プラットフォームの分析データにアクセスできるようにします。
+- [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - Ankr Advanced APIをラップするMCPサーバー実装。イーサリアム、BSC、ポリゴン、アバランチなど複数のブロックチェーンにわたるNFT、トークン、ブロックチェーンデータにアクセスできます。
 
 ## フレームワーク
 
