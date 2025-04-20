@@ -314,6 +314,7 @@
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) 🐍 ☁️ - 여러 블록체인에서 ERC-20 토큰을 발행하는 도구를 AI 에이전트에게 제공하는 MCP 서버.
 - [kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp) 🐍 ☁️ - The Graph의 인덱싱된 블록체인 데이터로 AI 에이전트를 강화하는 MCP 서버.
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ - 암호화폐 가격을 가져오기 위한 Bitget API.
+- [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - baostock 기반 MCP 서버로 중국 주식 시장 데이터에 대한 액세스 및 분석 기능을 제공합니다.
 
 ### 🎮 <a name="gaming"></a>게임
 
