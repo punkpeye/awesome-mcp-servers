@@ -819,6 +819,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [spring-projects-experimental/spring-ai-mcp](https://github.com/spring-projects-experimental/spring-ai-mcp) ☕ 🌱 - Java SDK and Spring Framework integration for building MCP client and MCP servers with various, plugable, transport options.
 - [Template MCP Server](https://github.com/mcpdotdirect/template-mcp-server) 📇 - A CLI tool to create a new Model Context Protocol server project with TypeScript support, dual transport options, and an extensible structure
 - [sendaifun/solana-mcp-kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - Solana MCP SDK
+- [Klavis AI](https://github.com/Klavis-AI/klavis) - Open Source MCPs on Slack, Discord and Web.
 
 ## Utilities
 
