@@ -163,9 +163,11 @@
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - Nostr과 상호 작용하여 노트 게시 등을 할 수 있는 Nostr MCP 서버.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) - 🐍 ☁️ - Inbox Zero를 위한 MCP 서버. 답장해야 할 이메일이나 후속 조치가 필요한 이메일을 찾는 등 Gmail 위에 기능을 추가합니다.
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) 🏠 🍎 🚀 - 모델 컨텍스트 프로토콜(MCP)을 통해 iMessage 데이터베이스와 안전하게 인터페이스하는 MCP 서버로, LLM이 iMessage 대화를 쿼리하고 분석할 수 있게 합니다. 강력한 전화번호 유효성 검사, 첨부 파일 처리, 연락처 관리, 그룹 채팅 처리 및 메시지 송수신 전체 지원을 포함합니다.
+- [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - LINE 공식 계정을 통합하는 MCP 서버
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 VRChat API와 상호 작용하기 위한 MCP 서버입니다. VRChat에서 친구, 월드, 아바타 등에 대한 정보를 검색할 수 있습니다.
 - [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks) - 📇 ☁️ - Google Tasks API와 인터페이스하기 위한 MCP 서버
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - YCloud 플랫폼을 통해 WhatsApp 비즈니스 메시지를 발송하는 MCP 서버입니다. 
+- [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt을 위한 MCP 서버. 트렌딩 게시물, 댓글, 컬렉션, 사용자 등과 상호 작용할 수 있습니다.
 
 ### 👤 <a name="customer-data-platforms"></a>고객 데이터 플랫폼
 
@@ -202,7 +204,7 @@
 - [jovezhong/mcp-timeplus](https://github.com/jovezhong/mcp-timeplus) 🐍 ☁️ - Apache Kafka 및 Timeplus용 MCP 서버. Kafka 토픽 나열, Kafka 메시지 폴링, Kafka 데이터 로컬 저장 및 Timeplus를 통한 SQL로 스트리밍 데이터 쿼리 가능
 - [@fireproof-storage/mcp-database-server](https://github.com/fireproof-storage/mcp-database-server) 📇 ☁️ - 다중 사용자 동기화를 지원하는 Fireproof 원장 데이터베이스
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - 구성 가능한 접근 제어, 스키마 검사 및 포괄적인 보안 지침을 갖춘 MySQL 데이터베이스 통합
-- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) 🐍 🏠 - 안전한 MySQL 데이터베이스 운영을 제공하는 Node.js 기반 MySQL 데이터베이스 통합
+- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) 📇 🏠 - 안전한 MySQL 데이터베이스 운영을 제공하는 Node.js 기반 MySQL 데이터베이스 통합
 - [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) 🏎️ 🏠 – Golang으로 구축된 고성능 다중 데이터베이스 MCP 서버, MySQL & PostgreSQL 지원 (NoSQL 곧 지원 예정). 쿼리 실행, 트랜잭션 관리, 스키마 탐색, 쿼리 빌딩 및 성능 분석을 위한 내장 도구 포함, 향상된 데이터베이스 워크플로우를 위한 원활한 Cursor 통합.
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📇 🏠 - 스키마 검사 및 쿼리 기능을 갖춘 PostgreSQL 데이터베이스 통합
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - 내장 분석 기능을 갖춘 SQLite 데이터베이스 운영
@@ -314,6 +316,7 @@
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) 🐍 ☁️ - 여러 블록체인에서 ERC-20 토큰을 발행하는 도구를 AI 에이전트에게 제공하는 MCP 서버.
 - [kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp) 🐍 ☁️ - The Graph의 인덱싱된 블록체인 데이터로 AI 에이전트를 강화하는 MCP 서버.
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ - 암호화폐 가격을 가져오기 위한 Bitget API.
+- [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - baostock 기반 MCP 서버로 중국 주식 시장 데이터에 대한 액세스 및 분석 기능을 제공합니다.
 
 ### 🎮 <a name="gaming"></a>게임
 
@@ -392,6 +395,7 @@
 - [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server/) ☁️ 📇 - 고급 검색, 비공개 심층 연구, 모든 것을 마크다운으로 변환하는 파일 추출 및 텍스트 청킹을 위한 [Vectorize](https://vectorize.io) MCP 서버.
 - [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) 📇 🏠 - Playwright 헤드리스 브라우저를 사용하여 웹 페이지 콘텐츠를 가져오는 MCP 서버, Javascript 렌더링 및 지능형 콘텐츠 추출 지원, 마크다운 또는 HTML 형식 출력.
 - [isnow890/naver-search-mcp](https://github.com/isnow890/naver-search-mcp) 📇 ☁️ - 네이버 검색 API를 통합한 MCP 서버로, 블로그, 뉴스, 쇼핑 검색 및 데이터랩 분석 기능을 제공합니다.
+- [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - 웹 플랫폼 API를 사용하여 Baseline 상태를 검색하는 MCP 서버
 
 ### 🔒 <a name="security"></a>보안
 
@@ -409,6 +413,7 @@
 스포츠 관련 데이터, 결과 및 통계에 접근하기 위한 도구.
 
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - 자연어를 통해 사이클링 경주 데이터, 결과 및 통계에 접근합니다. firstcycling.com에서 출발 목록, 경주 결과 및 라이더 정보 검색 기능 포함.
+- [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - MCP 서버는 Squiggle API와 통합되어 호주 풋볼 리그 팀, 순위표, 경기 결과, 예측, 그리고 파워 랭킹에 대한 정보를 제공합니다.
 
 ### 🌎 <a name="translation-services"></a>번역 서비스
 
@@ -503,6 +508,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [marcelmarais/Spotify](https://github.com/marcelmarais/spotify-mcp-server) - 📇 🏠 Spotify 재생 제어 및 재생 목록 관리.
 - [NakaokaRei/swift-mcp-gui](https://github.com/NakaokaRei/swift-mcp-gui.git) 🏠 🍎 - 키보드 입력, 마우스 이동과 같은 명령을 실행할 수 있는 MCP 서버
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) 🏠 📇 - 기본적인 로컬 taskwarrior 사용(작업 추가, 업데이트, 제거)을 위한 MCP 서버
+- [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - Ankr Advanced API를 래핑하는 MCP 서버 구현. 이더리움, BSC, 폴리곤, 아발란체 등 여러 체인에서 NFT, 토큰 및 블록체인 데이터에 접근할 수 있습니다.
 
 ## 프레임워크
 
