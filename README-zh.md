@@ -5,6 +5,7 @@
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
 [![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
 [![한국어](https://img.shields.io/badge/한국어-클릭-yellow)](README-ko.md)
+[![Português Brasileiro](https://img.shields.io/badge/Português_Brasileiro-Clique-green)](README-pt_BR.md)
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
@@ -130,6 +131,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 云平台服务集成。实现与云基础设施和服务的管理和交互。
 
+- [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - 基于七牛云产品构建的 MCP，支持访问七牛云存储、智能多媒体服务等。
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - 与 Cloudflare 服务集成，包括 Workers、KV、R2 和 D1
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - 上传和操作 IPFS 存储
 - [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - 一款轻量但功能强大的服务器，使AI助手能够在支持多架构的安全Docker环境中执行AWS CLI命令、使用Unix管道，并为常见AWS任务应用提示模板。
@@ -145,6 +147,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - 提供对 Netskope Private Access 环境中所有组件的访问权限，包含详细的设置信息和 LLM 使用示例。
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - 🏎️ ☁️/🏠 提供MCP多集群k8s管理操作，提供管理界面、日志，内置近50种工具，覆盖常见运维开发场景，支持常规资源、CRD资源。
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S 是一个 AI 驱动的 Kubernetes 资源管理工具，通过自然语言交互方式，让用户能够轻松操作 Kubernetes 集群中的任意资源，包括原生资源（如 Deployment、Service）和自定义资源（CRD）。无需记忆复杂命令，只需描述需求，AI 就能准确执行对应的集群操作，大大提升了 Kubernetes 的易用性。
+- [portainer/portainer-mcp](https://github.com/portainer/mcp-server) 🏎️ ☁️/🏠 - 一个用于管理 Portainer 容器管理平台的 MCP 服务器，支持通过自然语言交互来管理容器、镜像、网络和卷等资源。
 
 
 ### 🖥️ <a name="command-line"></a>命令行
@@ -173,6 +176,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 这是一个与VRChat API交互的MCP服务器。您可以获取VRChat的好友、世界、化身等信息。
 - [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks) - 📇 ☁️ - 一个用于连接Google Tasks API的MCP服务器
 - [teddyzxcv/ntfy-mcp](https://github.com/teddyzxcv/ntfy-mcp) 通过使用 ntfy 向手机发送通知，实时更新信息的 MCP 服务器。
+- [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - 一个通过 YCloud 平台发送 WhatsApp Business 消息的 MCP 服务器。
 
 ### 👤 <a name="customer-data-platforms"></a>客户数据平台
 
@@ -193,6 +197,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [rashidazarang/airtable-mcp](https://github.com/rashidazarang/airtable-mcp) 🐍 ☁️ - 将AI工具直接连接至Airtable。通过自然语言查询、创建、更新及删除记录。通过标准化MCP接口实现的功能包括：基库管理、表格操作、结构修改、记录筛选以及数据迁移。
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 ☁️ - BigQuery 数据库集成了架构检查和查询功能
 - [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) 🐍 ☁️ - TiDB 数据库集成，包括表结构的建立 DDL 和 SQL 的执行
+- [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) 🐍 🏠 - 全能型 MCP 服务器，用于 Postgres 开发和运维，提供性能分析、调优和健康检查等工具
 - [tradercjz/dolphindb-mcp-server](https://github.com/tradercjz/dolphindb-mcp-server) 🐍 ☁️ - TDolphinDB数据库集成，具备模式检查与查询功能
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - Google BigQuery 集成的服务器实现，可实现直接 BigQuery 数据库访问和查询功能
 - [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) 🐍 ☁️ - 集成 Apache Kafka 和 Timeplus。可以获取Kafka中的最新数据，并通过 Timeplus 来 SQL 查询。
@@ -207,8 +212,9 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - 具有内置分析功能的 SQLite 数据库操作
 - [@joshuarileydev/supabase-mcp-server](https://github.com/joshuarileydev/supabase) - Supabase MCP 服务器用于管理和创建 Supabase 中的项目和组织
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - DuckDB 数据库集成了模式检查和查询功能
-- [Dataring-engineering/mcp-server-trino](https://github.com/Dataring-engineering/mcp-server-trino) 🐍 ☁️ - 用于查询和访问Trino集群数据的Trino MCP服务器。 
-- [memgraph/mcp-memgraph](https://github.com/memgraph/mcp-memgraph) 🐍 🏠 - Memgraph MCP服务器 - 包含一个对Memgraph执行查询的工具以及一个模式资源。
+- [Dataring-engineering/mcp-server-trino](https://github.com/Dataring-engineering/mcp-server-trino) 🐍 ☁️ - 用于查询和访问Trino集群数据的Trino MCP服务器。
+- [tuannvm/mcp-trino](https://github.com/tuannvm/mcp-trino) 🏎️ ☁️ - 用于 Trino 的 Model Context Protocol (MCP) 服务器的 Go 实现.
+- [memgraph/mcp-memgraph](https://github.com/memgraph/mcp-memgraph) 🐍 🏠 - Memgraph MCP 서버 - 包含一个对Memgraph执行查询的工具以及一个模式资源。
 - [furey/mongodb-lens](https://github.com/furey/mongodb-lens) 📇 🏠 - MongoDB Lens：功能全面的MongoDB数据库MCP服务器
 - [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) 📇 🏠 - MongoDB 集成使 LLM 能够直接与数据库交互。
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - MongoDB 的模型上下文协议服务器
@@ -278,6 +284,9 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [higress-group/higress-ops-mcp-server](https://github.com/higress-group/higress-ops-mcp-server) 🐍 🏠 - 支持对 [Higress](https://github.com/alibaba/higress/blob/main/README_ZH.md) 网关进行全面的配置和管理。
 - [ReAPI-com/mcp-openapi](https://github.com/ReAPI-com/mcp-openapi) 📇 🏠 - MCP服务器让LLM能够了解您的OpenAPI规范的所有信息，以发现、解释和生成代码/模拟数据
 - [automation-ai-labs/mcp-link](https://github.com/automation-ai-labs/mcp-link) 🏎️ 🏠 - 无缝集成任何 API 与 AI 代理（通过 OpenAPI 架构）
+- [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - 一个MCP服务器，用于在本地通过docker运行代码，并支持多种编程语言。
+- [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - 基于 EdgeOne Pages 的 MCP 服务器，支持代码部署为在线页面。
+- [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - 查询 pkg.go.dev 上的 golang 包信息
 
 ### 🧮 <a name="data-science-tools"></a>数据科学工具
 
@@ -378,6 +387,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 ### 🔎 <a name="search"></a>搜索
 
+- [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless模型上下文协议服务作为MCP服务器连接器，连接到Google SERP API，使得在MCP生态系统内无需离开即可进行网页搜索。
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - 使用 Brave 的搜索 API 实现网页搜索功能
 - [Dumpling-AI/mcp-server-dumplingai](https://github.com/Dumpling-AI/mcp-server-dumplingai) 🎖️ 📇 ☁️ - 通过 [Dumpling AI](https://www.dumplingai.com/) 提供的数据访问、网页抓取与文档转换 API
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - 使用 NYTimes API 搜索文章
@@ -403,6 +413,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - 这是一个基于TypeScript的MCP服务器，提供DuckDuckGo搜索功能。
 - [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server/) ☁️ 📇 - [Vectorize](https://vectorize.io) 用于高级检索的MCP服务器，私有Deep Research，任意文件转Markdown提取及文本分块处理。
 - [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) 📇 🏠 - 用于通过Playwright无头浏览器获取网页内容的MCP服务器，支持JavaScript渲染与智能内容提取，并输出Markdown或HTML格式。
+- [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - 使用Web平台API查询Baseline状态的MCP服务器
 
 ### 🔒 <a name="security"></a>安全
 
