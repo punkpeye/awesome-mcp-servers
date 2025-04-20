@@ -163,6 +163,7 @@ Integração de serviços de plataforma em nuvem. Permite o gerenciamento e inte
 - [hardik-id/azure-resource-graph-mcp-server](https://github.com/hardik-id/azure-resource-graph-mcp-server) - 📇 ☁️/🏠 - Um servidor de Protocolo de Contexto de Modelo para consultar e analisar recursos do Azure em escala usando o Azure Resource Graph, permitindo que assistentes de IA explorem e monitorem a infraestrutura do Azure.
 - [jdubois/azure-cli-mcp](https://github.com/jdubois/azure-cli-mcp) - Um wrapper em torno da linha de comando Azure CLI que permite conversar diretamente com o Azure
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - Um MCP para dar acesso a todos os componentes do Netskope Private Access dentro de ambientes Netskope Private Access, incluindo informações detalhadas de configuração e exemplos de LLM sobre uso.
+- [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) - 🏎️ ☁️/🏠 Um poderoso servidor MCP que permite que assistentes de IA interajam de forma integrada com instâncias do Portainer, fornecendo acesso em linguagem natural ao gerenciamento de contêineres, operações de implantação e recursos de monitoramento de infraestrutura.
 
 ### 👨‍💻 <a name="execução-de-código"></a>Execução de Código
 
@@ -205,7 +206,9 @@ Integração com plataformas de comunicação para gerenciamento de mensagens e 
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - Um servidor MCP que fornece acesso seguro ao seu banco de dados iMessage através do Protocolo de Contexto de Modelo (MCP), permitindo que LLMs consultem e analisem conversas iMessage com validação adequada de números de telefone e tratamento de anexos
 - [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host) 🐍 🏠 - Um servidor MCP junto com um host MCP que fornece acesso a equipes, canais e mensagens do Mattermost. O host MCP é integrado como um bot no Mattermost com acesso a servidores MCP que podem ser configurados.
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) 🐍 🏎️ - Um servidor MCP para pesquisar suas mensagens pessoais do WhatsApp, contatos e enviar mensagens para indivíduos ou grupos
+- [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - Servidor MCP para Integrar Contas Oficiais do LINE
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) 🐍 ☁️ - Integração com Gmail e Google Calendar.
+- [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Servidor MCP para o Product Hunt. Interaja com postagens em tendência, comentários, coleções, usuários e muito mais.
 
 ### 👤 <a name="plataformas-de-dados-do-cliente"></a>Plataformas de Dados do Cliente
 
