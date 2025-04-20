@@ -1,4 +1,18 @@
+<div style="width: auto; margin-left: auto; margin-right: auto">
+<img src="https://i.imgur.com/jC7kdl8.jpeg" alt="TensorBlock" style="width: 100%; min-width: 400px; display: block; margin: auto;">
+</div>
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
+        <p style="margin-top: 0.5em; margin-bottom: 0em;">
+        </p>
+    </div>
+</div>
+
 # Awesome MCP Servers ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![Twitter](https://img.shields.io/twitter/follow/tensorblock_aoi?style=social)](https://twitter.com/tensorblock_aoi)
+[![Telegram](https://img.shields.io/badge/Telegram-Group-blue?logo=telegram)](https://t.me/TensorBlock)
+![GitHub Repo stars](https://img.shields.io/github/stars/TensorBlock/awesome-mcp-servers)
+![GitHub forks](https://img.shields.io/github/forks/TensorBlock/awesome-mcp-servers)
 
 A comprehensive collection of Model Context Protocol (MCP) servers.
 
