@@ -444,6 +444,7 @@
 - [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server/) ☁️ 📇 - เซิร์ฟเวอร์ MCP ของ [Vectorize](https://vectorize.io) สำหรับการดึงข้อมูลขั้นสูง การวิจัยเชิงลึกส่วนตัว การดึงไฟล์ Anything-to-Markdown และการแบ่งส่วนข้อความ
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - เซิร์ฟเวอร์ MCP ที่ใช้ TypeScript ซึ่งให้ฟังก์ชันการค้นหาของ DuckDuckGo
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - การสอบถามข้อมูลสินทรัพย์เครือข่ายโดยเซิร์ฟเวอร์ MCP ของ ZoomEye
+- [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่ค้นหาสถานะ Baseline โดยใช้ Web Platform API
 
 ### 🔒 <a name="security"></a>ความปลอดภัย
 
