@@ -299,7 +299,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - ほぼすべてのファイルやウェブコンテンツをMarkdownに変換するMCPサーバー
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - OpenAIの最も賢いモデルとチャット
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - Goドキュメントサーバーで、AIアシスタントがパッケージドキュメントとタイプにスマートにアクセスできるようにします。
-- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎🏠 - 通常の GraphQL クエリ/ミューテーション定義ツールを使用すると、gqai によって MCP サーバーが自動的に生成されます。
+- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - 通常の GraphQL クエリ/ミューテーション定義ツールを使用すると、gqai によって MCP サーバーが自動的に生成されます。
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - MCPプロトコルを使用してClaudeから直接OpenAIモデルにクエリを送信
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📇 🏠 - MCPプロトコルのすべての機能を実行するMCPサーバー
 - [baba786/phabricator-mcp-server](https://github.com/baba786/phabricator-mcp-server) 🐍 ☁️ - Phabricator APIとの対話
