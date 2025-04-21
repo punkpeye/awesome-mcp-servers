@@ -89,6 +89,7 @@
 * 🔎 - [검색](#search)
 * 🔒 - [보안](#security)
 * 🏃 - [스포츠](#sports)
+* 🎬 - [비디오 생성](#video-generation)
 * 🌎 - [번역 서비스](#translation-services)
 * 🚆 - [여행 및 교통](#travel-and-transportation)
 * 🔄 - [버전 관리](#version-control)
@@ -416,6 +417,12 @@
 
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - 자연어를 통해 사이클링 경주 데이터, 결과 및 통계에 접근합니다. firstcycling.com에서 출발 목록, 경주 결과 및 라이더 정보 검색 기능 포함.
 - [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - MCP 서버는 Squiggle API와 통합되어 호주 풋볼 리그 팀, 순위표, 경기 결과, 예측, 그리고 파워 랭킹에 대한 정보를 제공합니다.
+
+### 🎬 <a name="video-generation"></a>비디오 생성
+
+텍스트-비디오, 이미지-비디오 등 다양한 비디오 생성 기능을 위한 도구입니다.
+
+- [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎧 🎬 📷 - 이미지 생성, 비디오 생성, 텍스트 음성 변환, 음성 복제 등 MiniMax의 강력한 AI 기능과 상호작용할 수 있는 공식 모델 컨텍스트 프로토콜(MCP) 서버입니다.
 
 ### 🌎 <a name="translation-services"></a>번역 서비스
 

@@ -85,6 +85,7 @@ MCPをサポートするクライアントのリストです。
 * 🗺️ - [位置情報サービス](#location-services)
 * 📊 - [監視](#monitoring)
 * 🔎 - [検索](#search)
+* 🎬 - [ビデオ生成](#video-generation)
 * 🌎 - [翻訳サービス](#translation-services)
 * 🔄 - [旅行と交通](#travel-and-transportation)
 * 🔄 - [バージョン管理](#version-control)
@@ -275,6 +276,12 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary NinjaのためのMCPサーバーとブリッジ。バイナリ分析とリバースエンジニアリングのためのツールを提供します。
 - [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇 ☁️ 強力なモデルコンテキストプロトコル（MCP）サーバーで、npmパッケージ依存関係のセキュリティ脆弱性を監査します。リモートnpmレジストリ統合を備えたリアルタイムセキュリティチェックを使用して構築されています。
 - [GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - GhidraをAIアシスタントと統合するためのMCPサーバー。このプラグインはバイナリ分析を可能にし、モデルコンテキストプロトコルを通じて関数検査、逆コンパイル、メモリ探索、インポート/エクスポート分析などのツールを提供します。
+
+### 🎬 <a name="video-generation"></a>ビデオ生成
+
+テキストからビデオ、画像からビデオ、その他のビデオ生成機能のためのツールです。
+
+- [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎧 🎬 📷 - MiniMax の強力な AI 機能（画像生成、動画生成、音声合成、音声クローンなど）と連携できる公式のモデルコンテキストプロトコル（MCP）サーバーです。
 
 ### 🌎 <a name="translation-services"></a>翻訳サービス
 

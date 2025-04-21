@@ -91,6 +91,7 @@
 * 🔎 - [搜索](#search)
 * 🔒 - [安全](#security)
 * 🏃 - [体育](#sports)
+* 🎬 - [视频生成](#video-generation)
 * 🌎 - [翻译服务](#translation-services)
 * 🚆 - [旅行与交通](#travel-and-transportation)
 * 🔄 - [版本控制](#version-control)
@@ -449,6 +450,12 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - 通过自然语言访问自行车比赛数据、结果和统计信息。功能包括从 firstcycling.com 获取参赛名单、比赛结果和车手信息。
 - [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - MMCP 服务器集成了 Squiggle API，提供有关澳大利亚橄榄球联盟球队、排名、比赛结果、预测和实力排名的信息。
+
+### 🎬 <a name="video-generation"></a>视频生成
+
+用于文本转视频、图像转视频以及其他视频生成功能的工具。
+
+- [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎧 🎬 📷 - 官方 MiniMax 模型上下文协议（MCP）服务器，支持与 MiniMax 强大的 AI 能力进行交互，包括图像生成、视频生成、文本转语音和语音克隆等 API。
 
 ### 🌎 <a name="translation-services"></a>翻译服务
 
