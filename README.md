@@ -333,6 +333,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [yashshingvi/databricks-genie-MCP](https://github.com/yashshingvi/databricks-genie-MCP) 🐍 ☁️ - A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.
 - [jwaxman19/qlik-mcp](https://github.com/jwaxman19/qlik-mcp) 📇 ☁️ - MCP Server for Qlik Cloud API that enables querying applications, sheets, and extracting data from visualizations with comprehensive authentication and rate limiting support.
 - [keboola/keboola-mcp-server](https://github.com/keboola/keboola-mcp-server) 🐍 - interact with Keboola Connection Data Platform. This server provides tools for listing and accessing data from Keboola Storage API.
+- [kdqed/zaturn](https://github.com/kdqed/zaturn): AI Data Co-pilot as an MCP. Link multiple data sources (SQL & file-based), ask AI to analyze the data for insights and visualizations.
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
 
