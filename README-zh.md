@@ -527,7 +527,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) - 🐍 Automatic operation of on-screen GUI.
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ [Kibela](https://kibe.la/) 与 MCP 的集成
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - Allows the AI to query GraphQL servers
-- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎🏠 - 使用常规 GraphQL 查询/变异定义工具，gqai 会自动为您生成 MCP 服务器。
+- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - 使用常规 GraphQL 查询/变异定义工具，gqai 会自动为您生成 MCP 服务器。
 - [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - 通过Replicate API提供图像生成功能。
 - [kenliao94/mcp-server-rabbitmq](https://github.com/kenliao94/mcp-server-rabbitmq) 🐍 🏠 - Enable interaction (admin operation, message enqueue/dequeue) with RabbitMQ
 - [marcelmarais/Spotify](https://github.com/marcelmarais/spotify-mcp-server) - 📇 🏠 Control Spotify playback and manage playlists.

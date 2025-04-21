@@ -497,7 +497,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) - 🐍 화면 GUI 자동 조작.
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ AI 모델이 [Kibela](https://kibe.la/)와 상호 작용할 수 있도록 허용
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - AI가 GraphQL 서버를 쿼리할 수 있도록 허용
-- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎🏠 - 일반 GraphQL 쿼리/변이 정의 도구를 사용하면 gqai가 자동으로 MCP 서버를 생성합니다.
+- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - 일반 GraphQL 쿼리/변이 정의 도구를 사용하면 gqai가 자동으로 MCP 서버를 생성합니다.
 - [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - Replicate의 API를 통해 이미지 생성 기능 제공.
 - [kenliao94/mcp-server-rabbitmq](https://github.com/kenliao94/mcp-server-rabbitmq) 🐍 🏠 - RabbitMQ와의 상호 작용(관리 작업, 메시지 인큐/디큐) 가능
 - [marcelmarais/Spotify](https://github.com/marcelmarais/spotify-mcp-server) - 📇 🏠 Spotify 재생 제어 및 재생 목록 관리.
