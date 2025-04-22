@@ -29,6 +29,7 @@
 
 * [Model Context Protocol (MCP) 快速開始](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [設置 Claude 桌面應用程式以使用 SQLite 資料庫](https://youtu.be/wxCCzo9dGj0)
+* [Model Context Protocol(MCP) 编程极速入门](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide)
 
 ## 社群
 
