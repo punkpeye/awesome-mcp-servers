@@ -70,10 +70,12 @@
 > [!NOTE]
 > 我们现在有一个与存储库同步的[基于 Web 的目录](https://glama.ai/mcp/servers)。
 
-* 🔗 - [Aggregators](#aggregators)
-* 📂 - [浏览器自动化](#browser-automation)
+* 🔗 - [聚合器](#aggregators)
 * 🎨 - [艺术与文化](#art-and-culture)
+* 📂 - [浏览器自动化](#browser-automation)
 * ☁️ - [云平台](#cloud-platforms)
+* 👨‍💻 - [代码执行](#code-execution)
+* 🤖 - [编程代理](#coding-agents)
 * 🖥️ - [命令行](#command-line)
 * 💬 - [社交](#communication)
 * 👤 - [客户数据平台](#customer-data-platforms)
@@ -81,6 +83,7 @@
 * 📊 - [数据平台](#data-platforms)
 * 🛠️ - [开发者工具](#developer-tools)
 * 🧮 - [数据科学工具](#data-science-tools)
+* 📟 - [嵌入式系统](#embedded-system)
 * 📂 - [文件系统](#file-systems)
 * 💰 - [金融与金融科技](#finance--fintech)
 * 🎮 - [游戏](#gaming)
@@ -88,9 +91,11 @@
 * 🗺️ - [位置服务](#location-services)
 * 🎯 - [营销](#marketing)
 * 📊 - [监测](#monitoring)
-* 🔎 - [搜索](#search)
+* 🎥 - [多媒体处理](#multimedia-process)
+* 🔎 - [搜索与数据提取](#search)
 * 🔒 - [安全](#security)
 * 🏃 - [体育](#sports)
+* 🎧 - [支持与服务管理](#support-and-service-management)
 * 🌎 - [翻译服务](#translation-services)
 * 🚆 - [旅行与交通](#travel-and-transportation)
 * 🔄 - [版本控制](#version-control)
@@ -151,6 +156,20 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S 是一个 AI 驱动的 Kubernetes 资源管理工具，通过自然语言交互方式，让用户能够轻松操作 Kubernetes 集群中的任意资源，包括原生资源（如 Deployment、Service）和自定义资源（CRD）。无需记忆复杂命令，只需描述需求，AI 就能准确执行对应的集群操作，大大提升了 Kubernetes 的易用性。
 - [portainer/portainer-mcp](https://github.com/portainer/mcp-server) 🏎️ ☁️/🏠 - 一个用于管理 Portainer 容器管理平台的 MCP 服务器，支持通过自然语言交互来管理容器、镜像、网络和卷等资源。
 
+### 👨‍💻 <a name="code-execution"></a>代码执行
+
+代码执行服务器。允许LLM在安全环境中执行代码，例如用于编程代理。
+
+- [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍🏠- 通过MCP工具调用在安全沙箱中运行Python代码
+- [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - 在安全且可扩展的沙箱环境中执行任何LLM生成的代码，并使用JavaScript或Python创建自己的MCP工具，完全支持NPM和PyPI包
+
+### 🤖 <a name="coding-agents"></a>编程代理
+
+完整的编程代理，使LLM能够读取、编辑和执行代码，并完全自主地解决一般编程任务。
+
+- [oraios/serena](https://github.com/oraios/serena)🐍🏠 - 一个功能齐全的编程代理，通过使用语言服务器依赖于符号代码操作。
+- [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍🏠 - 具有基本读取、写入和命令行工具的编程代理。
+- [doggybee/mcp-server-leetcode](https://github.com/doggybee/mcp-server-leetcode) 📇 ☁️ - 一个MCP服务器，使AI模型能够搜索、检索和解决LeetCode问题。支持元数据过滤、用户配置文件、提交和竞赛数据访问。
 
 ### 🖥️ <a name="command-line"></a>命令行
 
@@ -304,6 +323,12 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - 一个 MCP 服务器，可将几乎任何文件或网络内容转换为 Markdown
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - 实现基于.csv数据集的自动数据探索，提供最少工作量的智能化洞察。
 
+### 📟 <a name="embedded-system"></a>嵌入式系统
+
+提供访问嵌入式设备的文档和快捷方式。
+
+- [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - 使用ESP-IDF修复ESP32系列芯片构建问题的工作流程。
+
 ### 📂 <a name="file-systems"></a>文件系统
 
 提供对本地文件系统的直接访问，并具有可配置的权限。使 AI 模型能够读取、写入和管理指定目录中的文件。
@@ -395,9 +420,22 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) 🏎️ 🏠 - 一款通过模型上下文协议（MCP）暴露系统指标的监控工具。该工具允许大型语言模型通过兼容MCP的接口实时获取系统信息（支持CPU、内存、磁盘、网络、主机、进程）。
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) 🐍 🏠 - 通过基于提示的智能分析，从代码复杂度到安全漏洞等10个关键维度，提升AI生成代码的质量
 
-### 🔎 <a name="search"></a>搜索
+### 🎥 <a name="multimedia-process"></a>多媒体处理
+
+提供处理多媒体的能力，如音频和视频编辑、播放、格式转换，还包括视频滤镜、增强等
+
+- [video-creator/ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp.git) 🎥 🔊 - 使用ffmpeg命令行实现的mcp服务器，可以非常方便地通过对话实现本地视频搜索、裁剪、拼接、播放等功能
+
+### 🎧 <a name="text-to-speech"></a>文字转语音
+
+用于将文本转换为语音，以及反向操作的工具
+
+- [Kokoro TTS MCP](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - 使用开源权重Kokoro TTS模型将文本转换为语音的MCP服务器。可以将文本转换为本地驱动器上的MP3或自动上传到S3存储桶。
+
+### 🔎 <a name="search"></a>搜索与数据提取
 
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless模型上下文协议服务作为MCP服务器连接器，连接到Google SERP API，使得在MCP生态系统内无需离开即可进行网页搜索。
+- [ricocf/mcp-wolframalpha](https://github.com/ricocf/mcp-wolframalpha) 🐍 🏠 ☁️ - 一个MCP服务器，让AI助手可以使用Wolfram Alpha API实时访问计算知识和数据。
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - 使用 Brave 的搜索 API 实现网页搜索功能
 - [Dumpling-AI/mcp-server-dumplingai](https://github.com/Dumpling-AI/mcp-server-dumplingai) 🎖️ 📇 ☁️ - 通过 [Dumpling AI](https://www.dumplingai.com/) 提供的数据访问、网页抓取与文档转换 API
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - 使用 NYTimes API 搜索文章
@@ -451,6 +489,14 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - 通过自然语言访问自行车比赛数据、结果和统计信息。功能包括从 firstcycling.com 获取参赛名单、比赛结果和车手信息。
 - [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - MMCP 服务器集成了 Squiggle API，提供有关澳大利亚橄榄球联盟球队、排名、比赛结果、预测和实力排名的信息。
+
+### 🎧 <a name="support-and-service-management"></a>支持与服务管理
+
+用于管理客户支持、IT服务管理和服务台操作的工具。
+
+- [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - 与Freshdesk集成的MCP服务器，使AI模型能够与Freshdesk模块交互并执行各种支持操作。
+- [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 🏎️ ☁️ - 基于Go的MCP连接器，用于Jira，使Claude等AI助手能够与Atlassian Jira交互。该工具为AI模型提供了一个无缝界面，可执行常见的Jira操作，包括问题管理、冲刺计划和工作流转换。
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - Atlassian产品（Confluence和Jira）的MCP服务器。支持Confluence Cloud、Jira Cloud和Jira Server/Data Center。提供全面的工具，用于在Atlassian工作空间中搜索、阅读、创建和管理内容。
 
 ### 🌎 <a name="translation-services"></a>翻译服务
 
