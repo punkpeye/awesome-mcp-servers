@@ -107,6 +107,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - 使用 Azure OpenAI 和 Playwright 的“最小”伺服器/用戶端 MCP 實現。
 - [@pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - 一個支援使用 Google 搜尋結果進行免費網頁搜尋的 MCP 伺服器，無需 API 金鑰
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - 一個支援搜尋 B站 內容的 MCP 伺服器。提供LangChain呼叫範例、測試腳本。
+- [aircodelabs/grasp](https://github.com/aircodelabs/grasp) 📇 🏠 - 可本地部署或自托管的瀏覽器自動化操作，原生支持 MCP 和 A2A。
 
 ### 🎨 <a name="art-and-culture"></a>藝術與文化
 

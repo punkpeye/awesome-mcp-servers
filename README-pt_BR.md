@@ -131,6 +131,7 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 Acesso e recursos de automação de conteúdo web. Permite pesquisar, extrair e processar conteúdo web em formatos amigáveis para IA.
 
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Um servidor MCP que suporta a pesquisa de conteúdo do Bilibili. Fornece exemplos de integração com LangChain e scripts de teste.
+- [aircodelabs/grasp](https://github.com/aircodelabs/grasp) 📇 🏠 - Navegador autogerenciado com agente integrado, com suporte nativo a MCP e A2A.
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - Um servidor MCP para automação de navegador usando Playwright
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - Um servidor MCP em python usando Playwright para automação de navegador, mais adequado para LLM
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - Automatize interações do navegador na nuvem (por exemplo, navegação web, extração de dados, preenchimento de formulários e mais)
