@@ -194,6 +194,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 
 - [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍🏠- Run Python code in a secure sandbox via MCP tool calls
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
+- [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) 🏎️ ☁️ 📟 🪟 🐧 🍎 - OpenAPI-MCP: Dockerized MCP Server to allow your AI agent to access any API with existing api docs.
 
 ### 🤖 <a name="coding-agents"></a>Coding Agents
 
