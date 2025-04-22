@@ -841,6 +841,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - An MCP proxy server that aggregates and serves multiple MCP resource servers through a single http server.
 - [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – framework to build vertical AI agent
 - [JoshuaSiraj/mcp_auto_register](https://github.com/JoshuaSiraj/mcp_auto_register) 🐍 – tool to automate the registration of functions and classes from a python package into a FastMCP instance.
+- [StacklokLabs/toolhive](https://github.com/StacklokLabs/toolhive) 🏎️ - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization.
 
 ## Tips and Tricks
 
