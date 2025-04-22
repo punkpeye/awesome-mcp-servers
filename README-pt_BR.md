@@ -93,11 +93,13 @@ Confira [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 
 * 🗺️ - [Serviços de Localização](#serviços-de-localização)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoramento](#monitoramento)
+* 🎥 - [Processamento Multimídia](#processamento-multimídia)
 * 🔎 - [Pesquisa & Extração de Dados](#pesquisa--extração-de-dados)
 * 🔒 - [Segurança](#segurança)
 * 🏃 - [Esportes](#esportes)
 * 🎧 - [Suporte & Gestão de Serviços](#suporte--gestão-de-serviços)
 * 🌎 - [Serviços de Tradução](#serviços-de-tradução)
+* 🎧 - [Texto para Fala](#texto-para-fala)
 * 🚆 - [Viagens & Transporte](#viagens--transporte)
 * 🔄 - [Controle de Versão](#controle-de-versão)
 * 🛠️ - [Outras Ferramentas e Integrações](#outras-ferramentas-e-integrações)
@@ -356,6 +358,15 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) 🎖️ 🐍 ☁️ - Fornece acesso a traces e métricas OpenTelemetry através do Logfire
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) 🏎️ 🏠 - Uma ferramenta de monitoramento de sistema que expõe métricas do sistema via Protocolo de Contexto de Modelo (MCP). Esta ferramenta permite que LLMs recuperem informações do sistema em tempo real através de uma interface compatível com MCP (suporta CPU, Memória, Disco, Rede, Host, Processo)
 
+### 🎥 <a name="processamento-multimídia"></a>Processamento Multimídia
+
+Ferramentas para processar, analisar e manipular conteúdo multimídia como vídeos, imagens e áudio.
+
+- [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - Adicione, Analise, Pesquise e Gere Edições de Vídeo da sua Coleção de Vídeos
+- [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - Integração de servidor MCP para DaVinci Resolve, fornecendo ferramentas poderosas para edição de vídeo, correção de cores, gerenciamento de mídia e controle de projeto
+- [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - Servidor MCP usando a API do Aseprite para criar pixel art
+- [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - Um servidor MCP local que gera animações usando Manim
+
 ### 🔎 <a name="pesquisa--extração-de-dados"></a>Pesquisa & Extração de Dados
 
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) 📇 🏠 - Um servidor MCP para pesquisar vagas de emprego com filtros para data, palavras-chave, opções de trabalho remoto e muito mais.
@@ -395,6 +406,12 @@ Ferramentas para gerenciar suporte ao cliente, gerenciamento de serviços de TI 
 Ferramentas e serviços de tradução para permitir que assistentes de IA traduzam conteúdo entre diferentes idiomas.
 
 - [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - Servidor MCP para API Lara Translate, habilitando poderosos recursos de tradução com suporte para detecção de idioma e traduções sensíveis ao contexto.
+
+### 🎧 <a name="texto-para-fala"></a>Texto para Fala
+
+Ferramentas que permitem converter texto em fala natural.
+
+- [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) 🎖️ 📇 ☁️ - Servidor MCP oficial da ElevenLabs para converter texto em fala natural e expressiva usando diversos modelos e vozes.
 
 ### 🚆 <a name="viagens--transporte"></a>Viagens & Transporte
 
