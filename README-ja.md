@@ -1,5 +1,6 @@
 # 素晴らしいMCPサーバー [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
@@ -12,11 +13,13 @@
 素晴らしいモデルコンテキストプロトコル（MCP）サーバーの厳選リスト。
 
 * [MCPとは何ですか？](#MCPとは何ですか？)
+* [クライアント](#クライアント)
 * [チュートリアル](#チュートリアル)
 * [コミュニティ](#コミュニティ)
 * [凡例](#凡例)
 * [サーバー実装](#サーバー実装)
 * [フレームワーク](#フレームワーク)
+* [実用工具](#実用工具)
 * [ヒントとコツ](#ヒントとコツ)
 
 ## MCPとは何ですか？
@@ -360,15 +363,23 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [salty-flower/ModelContextProtocol.NET](https://github.com/salty-flower/ModelContextProtocol.NET) #️⃣🏠 - .NET 9上でNativeAOT対応のMCPサーバーを構築するためのC# SDK ⚡ 🔌
 - [@marimo-team/codemirror-mcp](https://github.com/marimo-team/codemirror-mcp) - リソースメンションとプロンプトコマンドのためのModel Context Protocol (MCP)を実装するCodeMirror拡張
 
-## クライアント
+## 実用工具
 
-- [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 既存のOpenAI互換クライアントでMCPを使用するためのOpenAIミドルウェアプロキシ
-- [3choff/MCP-Chatbot](https://github.com/3choff/mcp-chatbot) シンプルでありながら強力な⭐CLIチャットボットで、ツールサーバーを任意のOpenAI互換のLLM APIと統合します。
-- [zed-industries/zed](https://github.com/zed-industries/zed) Atomの作成者によるマルチプレイヤーコードエディタ
-- [firebase/genkit](https://github.com/firebase/genkit) エージェントおよびデータ変換フレームワーク
-- [continuedev/continue](https://github.com/continuedev/continue) VSCodeの自動補完およびチャットツール（フル機能サポート）
-- [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) クラウドベースのAIサービスがローカルのStdioベースのMCPサーバーにHTTP/HTTPSリクエストでアクセスできるようにするツール
+- [boilingdata/mcp-server-and-gw](https://github.com/boilingdata/mcp-server-and-gw) 📇 - サンプルサーバーとMCPクライアントを備えたMCP stdioからHTTP SSEへのトランスポートゲートウェイ。
+- [f/MCPTools](https://github.com/f/mcptools) 🔨 - モックやプロキシなどの追加機能を備えたMCPサーバーを検査および操作するためのコマンドライン開発ツール。
+- [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇🖥️ - 任意のMCPサーバーとチャットして接続するためのCLIベースのクライアント。MCPサーバーの開発およびテスト中に役立ちます。
+- [isaacwasserman/mcp-langchain-ts-client](https://github.com/isaacwasserman/mcp-langchain-ts-client) 📇 – LangChain.jsでMCP提供のツールを使用する
+- [kukapay/whattimeisit-mcp](https://github.com/kukapay/whattimeisit-mcp) 🐍 ☁️ - 正確な時刻を知らせる軽量なmcpサーバー
+- [kukapay/whereami-mcp](https://github.com/kukapay/whereami-mcp) 🐍 ☁️ - 現在のIPに基づいて正確な位置を知らせる軽量なmcpサーバー
+- [kukapay/whoami-mcp](https://github.com/kukapay/whoami-mcp) 🐍 🏠 - あなたが誰であるかを正確に教えてくれる軽量なMCPサーバー
+- [lightconetech/mcp-gateway](https://github.com/lightconetech/mcp-gateway) 📇 - MCP SSEサーバーのゲートウェイデモ。
+- [mark3labs/mcphost](https://github.com/mark3labs/mcphost) 🏎️ - モデルコンテキストプロトコル (MCP) を通じて大規模言語モデル (LLM) が外部ツールと対話できるようにするCLIホストアプリケーション。
+- [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) 📇 - クラウドベースのAIサービスがHTTP/HTTPSリクエストを通じてローカルのStdioベースのMCPサーバーにアクセスできるようにする小さなツール。
+- [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) 🐍 – 既存のOpenAI互換クライアントでMCPを使用するためのOpenAIミドルウェアプロキシ
+- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) 🐍 – MCP stdioからSSEへのトランスポートゲートウェイ。
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - 複数のMCPリソースサーバーを、単一のHTTPサーバーを通して集約し、提供するMCPプロキシサーバー。
+- [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – 垂直AIエージェントを構築するためのフレームワーク
+- [JoshuaSiraj/mcp_auto_register](https://github.com/JoshuaSiraj/mcp_auto_register) 🐍 – pythonパッケージの関数とクラスをFastMCPインスタンスに自動登録するツール
 
 
 ## ヒントとコツ
