@@ -1,5 +1,6 @@
 # 精選的 MCP 伺服器 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
@@ -12,18 +13,25 @@
 精選的優秀模型上下文協議 (MCP) 伺服器列表。
 
 * [什麼是 MCP？](#什麼是MCP？)
+* [用戶端](#用戶端)
 * [教學](#教學)
 * [社群](#社群)
 * [說明](#說明)
 * [Server 實現](#伺服器實現)
 * [框架](#框架)
 * [實用工具](#實用工具)
-* [用戶端](#用戶端)
 * [提示和技巧](#提示和技巧)
 
 ## 什麼是MCP？
 
 [MCP](https://modelcontextprotocol.io/) 是一種開放協議，通過標準化的伺服器實現，使 AI 模型能夠安全地與本地和遠端資源進行交互。此列表重點關注可用於生產和實驗性的 MCP 伺服器，這些伺服器通過文件訪問、資料庫連接、API 整合和其他上下文服務來擴展 AI 功能。
+
+## 用戶端
+
+查看 [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 和 [glama.ai/mcp/clients](https://glama.ai/mcp/clients)。
+
+> [!TIP]
+> [Glama Chat](https://glama.ai/chat) 是一個支持 MCP 和 [AI gateway](https://glama.ai/gateway) 的多模態 AI 客戶端。
 
 ## 教學
 
@@ -461,10 +469,6 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - 查詢 pkg.go.dev 上的 golang 包資訊
 
 
-## 用戶端
-
-> [!NOTE]
-> 尋找 MCP 用戶端？請查看 [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 倉庫。
 
 
 ## 提示和技巧
