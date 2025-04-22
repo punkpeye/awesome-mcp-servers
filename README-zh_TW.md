@@ -56,9 +56,11 @@
 * 範圍
   * ☁️ - 雲服務
   * 🏠 - 本地服務
+  * 📟 - 嵌入式系統
 * 操作系統
   * 🍎 – For macOS
   * 🪟 – For Windows
+  * 🐧 - For Linux
 
 
 > [!NOTE]
@@ -92,7 +94,7 @@
 * 🎯 - [行銷](#marketing)
 * 📊 - [監測](#monitoring)
 * 🎥 - [多媒體處理](#multimedia-process)
-* 🔎 - [搜尋](#search)
+* 🔎 - [搜尋 & 數據提取](#search-data-extraction)
 * 🔒 - [安全](#security)
 * 🏃 - [體育](#sports)
 * 🎧 - [支援與服務管理](#support-and-service-management)
@@ -358,7 +360,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - 一個 MCP 伺服器，允許透過 Grafana API 查詢 Loki 日誌。
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - 在 Grafana 實例中搜尋儀錶板、調查事件並查詢數據源
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) 🏎️ 🏠 - 監控系統 CPU、Memory、Disk、Network、Host、Process 等資訊，並與 LLM 進行交互
-### 🔎 <a name="search"></a>搜尋
+### 🔎 <a name="search-data-extraction"></a>搜尋 & 數據提取
 
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless模型上下文協議服務作為MCP伺服器連接器，連接到Google SERP API，使得在MCP生態系統內無需離開即可進行網頁搜索。
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - 使用 Brave 的搜尋 API 實現網頁搜尋功能

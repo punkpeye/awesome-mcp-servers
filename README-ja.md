@@ -74,8 +74,8 @@ MCPをサポートするクライアントのリストです。
 > 現在、リポジトリと同期されている[ウェブのディレクトリ](https://glama.ai/mcp/servers)があります。
 
 * 🔗 - [Aggregators](#aggregators)
-* 📂 - [ブラウザ自動化](#browser-automation)
 * 🎨 - [芸術と文化](#art-and-culture)
+* 📂 - [ブラウザ自動化](#browser-automation)
 * ☁️ - [クラウドプラットフォーム](#cloud-platforms)
 * 👨‍💻 - [コード実行](#code-execution)
 * 🤖 - [コーディングエージェント](#coding-agents)
@@ -95,7 +95,7 @@ MCPをサポートするクライアントのリストです。
 * 🎯 - [マーケティング](#marketing)
 * 📊 - [監視](#monitoring)
 * 🎥 - [マルチメディア処理](#multimedia-process)
-* 🔎 - [検索](#search)
+* 🔎 - [検索 & データ抽出](#search)
 * 🔒 - [セキュリティ](#security)
 * 🏃 - [スポーツ](#sports)
 * 🎧 - [サポートとサービス管理](#support-and-service-management)
@@ -302,7 +302,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - エラートラッキングとパフォーマンス監視のためのSentry.io統合
 - [@MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - クラッシュレポートとリアルユーザーモニタリングのためのRaygun API V3統合
 
-### 🔎 <a name="search"></a>検索
+### 🔎 <a name="search"></a>検索 & データ抽出
 
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless Model Context Protocolサービスは、MCPエコシステム内で離れることなくWeb検索を可能にするGoogle SERP APIへのMCPサーバコネクタとして機能します。
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - Braveの検索APIを使用したWeb検索機能
