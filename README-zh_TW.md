@@ -71,25 +71,33 @@
 > 我們現在有一個與儲存庫同步的[基於 Web 的目錄](https://glama.ai/mcp/servers)。
 
 * 🔗 - [Aggregators](#aggregators)
-* 📂 - [瀏覽器自動化](#browser-automation)
 * 🎨 - [藝術與文化](#art-and-culture)
+* 📂 - [瀏覽器自動化](#browser-automation)
 * ☁️ - [雲端平台](#cloud-platforms)
+* 👨‍💻 - [代碼執行](#code-execution)
+* 🤖 - [編碼代理](#coding-agents)
 * 🖥️ - [命令行](#command-line)
 * 💬 - [社交](#communication)
 * 👤 - [數據平台](#customer-data-platforms)
 * 🗄️ - [資料庫](#databases)
 * 📊 - [數據平台](#data-platforms)
 * 🛠️ - [開發者工具](#developer-tools)
+* 🧮 - [數據科學工具](#data-science-tools)
+* 📟 - [嵌入式系統](#embedded-system)
 * 📂 - [文件系統](#file-systems)
-* 💰 - [Finance & Fintech](#finance--fintech)
+* 💰 - [金融科技](#finance--fintech)
 * 🎮 - [遊戲](#gaming)
 * 🧠 - [知識與記憶](#knowledge--memory)
 * 🗺️ - [位置服務](#location-services)
 * 🎯 - [行銷](#marketing)
 * 📊 - [監測](#monitoring)
+* 🎥 - [多媒體處理](#multimedia-process)
 * 🔎 - [搜尋](#search)
 * 🔒 - [安全](#security)
+* 🏃 - [體育](#sports)
+* 🎧 - [支援與服務管理](#support-and-service-management)
 * 🌎 - [翻譯服務](#translation-services)
+* 🎧 - [文字轉語音](#text-to-speech)
 * 🚆 - [旅行與交通](#travel-and-transportation)
 * 🔄 - [版本控制](#version-control)
 * 🛠️ - [其他工具和整合](#other-tools-and-integrations)
@@ -142,7 +150,21 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [weibaohui/kom](https://github.com/weibaohui/kom) - 🏎️ ☁️/🏠 提供MCP多集群k8s管理操作，可作為SDK集成到您自己的項目中，內建近50種工具，覆蓋常見運維開發場景，支援常規資源、CRD資源。
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S 是一個 AI 驅動的 Kubernetes 資源管理工具，通過自然語言交互方式，讓用戶能夠輕鬆操作 Kubernetes 集群中的任意資源，包括原生資源（如 Deployment、Service）和自定義資源（CRD）。無需記憶複雜命令，只需描述需求，AI 就能準確執行對應的集群操作，大大提升了 Kubernetes 的易用性。
 
-### 🖥️ <a name="command-line"></a>Command Line
+### 👨‍💻 <a name="code-execution"></a>代碼執行
+
+代碼執行伺服器。允許LLM在安全環境中執行代碼，例如用於編碼代理。
+
+- [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍🏠 - 通過MCP工具調用在安全沙箱中執行Python代碼
+- [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - 在安全且可擴展的沙箱環境中執行LLM生成的任何代碼，並使用JavaScript或Python創建自己的MCP工具，完全支持NPM和PyPI包
+
+### 🤖 <a name="coding-agents"></a>編碼代理
+
+完整的編碼代理，使LLM能夠讀取、編輯和執行代碼，並以完全自主的方式解決一般編程任務。
+
+- [oraios/serena](https://github.com/oraios/serena)🐍🏠 - 一個完整的編碼代理，依賴於使用語言服務器的符號代碼操作。
+- [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍🏠 - 具有基本讀取、寫入和命令行工具的編碼代理。
+
+### 🖥️ <a name="command-line"></a>命令行
 
 運行命令、捕獲輸出以及以其他方式與 shell 和命令行工具交互。
 
@@ -215,6 +237,21 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 用於資料整合、轉換和管道編排的資料平台。
 
 - [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - 與 Flowcore 互動以執行操作、提取資料並分析、交叉引用和利用您的資料核心或公共資料核心中的任何資料；全部用人類語言。
+
+### 🧮 <a name="data-science-tools"></a>數據科學工具
+
+為簡化數據探索、分析和增強數據科學工作流程而開發的整合和工具。
+
+- [ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp) 🐍 ☁️ - 使用Chronulus AI的預測和投影代理預測任何事物。
+- [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - 允許對基於.csv的數據集進行自主數據探索，以最小的努力提供智能洞察。
+- [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - 一個MCP伺服器，將幾乎任何文件或網頁內容轉換為Markdown
+- [jjsantos01/jupyter-notebook-mcp](https://github.com/jjsantos01/jupyter-notebook-mcp) 🐍 🏠 - 將Jupyter Notebook連接到Claude AI，使Claude能夠直接與Jupyter Notebooks交互並控制它們。
+
+### 📟 <a name="embedded-system"></a>嵌入式系統
+
+提供使用嵌入式設備工作的文檔和快捷方式的訪問。
+
+- [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - 用於修復使用ESP-IDF的ESP32系列芯片編譯問題的工作流程。
 
 ### 💻 <a name="developer-tools"></a>開發者工具
 
@@ -348,6 +385,15 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - 將OpenAI內建的`web_search`工具封轉成MCP伺服器使用.
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - 使用 Web Platform API 搜尋 Baseline 狀態的 MCP 伺服器
 
+### 🎥 <a name="multimedia-process"></a>多媒體處理
+
+用於處理、分析和操作視頻、圖像和音頻等多媒體內容的工具。
+
+- [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - 從您的視頻集合中添加、分析、搜索和生成視頻編輯
+- [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - DaVinci Resolve的MCP伺服器集成，提供強大的視頻編輯、顏色校正、媒體管理和項目控制工具
+- [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - 使用Aseprite API創建像素藝術的MCP伺服器
+- [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - 使用Manim生成動畫的本地MCP伺服器
+
 ### 🔒 <a name="security"></a>安全
 
 - [dnstwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) 📇🪟☁️ - dnstwist 的 MCP 伺服器，這是一個強大的 DNS 模糊測試工具，可幫助檢測域名搶註、釣魚和企業竊密行為
@@ -358,11 +404,32 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [ORKL MCP Server](https://github.com/fr0gger/MCP_Security) 📇🛡️☁️ - 用於查詢 ORKL API 的 MCP 伺服器。此伺服器提供獲取威脅報告、分析威脅行為者和檢索威脅情報來源的工具。
 - [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇🛡️☁️ 一個強大的 MCP (模型上下文協議) 伺服器，審計 npm 包依賴項的安全漏洞。內建遠端 npm 註冊表集成，以進行即時安全檢查。
 
+### 🏃 <a name="sports"></a>體育
+
+用於訪問體育相關數據、結果和統計的工具。
+
+- [mikechao/balldontlie-mcp](https://github.com/mikechao/balldontlie-mcp) 📇 - 集成balldontlie API的MCP伺服器，提供NBA、NFL和MLB的球員、球隊和比賽信息
+- [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - 通過自然語言訪問自行車比賽數據、結果和統計數據。功能包括從firstcycling.com檢索起始名單、比賽結果和騎手信息。
+- [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) 📇 ☁️ - 連接到Strava API的模型上下文協議（MCP）伺服器，提供通過LLM訪問Strava數據的工具
+
+### 🎧 <a name="support-and-service-management"></a>支援與服務管理
+
+用於管理客戶支援、IT服務管理和幫助台操作的工具。
+
+- [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - 集成Freshdesk的MCP伺服器，使AI模型能夠與Freshdesk模塊交互並執行各種支援操作
+- [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 🏎️ ☁️ - 一個基於Go的MCP連接器，使Claude等AI助手能夠與Atlassian Jira交互。該工具為AI模型提供了無縫執行常見Jira操作的接口，包括問題管理、衝刺計劃和工作流轉換
+
 ### 🌎 <a name="translation-services"></a>翻譯服務
 
 AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 
 - [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - Lara翻譯API的MCP伺服器，提供強大的翻譯功能，支援語言檢測和上下文感知翻譯。
+
+### 🎧 <a name="text-to-speech"></a>文字轉語音
+
+允許將文字轉換為自然語音的工具。
+
+- [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) 🎖️ 📇 ☁️ - ElevenLabs的官方MCP伺服器，使用各種模型和聲音將文字轉換為自然且富有表現力的語音。
 
 ### 🚆 <a name="travel-and-transportation"></a>旅行與交通
 
