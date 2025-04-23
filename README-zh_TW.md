@@ -353,7 +353,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 用於文字轉影片、圖片轉影片及其他影片生成功能的工具。
 
-- [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎧 🎬 📷 - 官方 MiniMax 模型上下文協議（MCP）伺服器，可與 MiniMax 強大的 AI 功能互動，包括圖片生成、影片生成、文字轉語音和語音克隆 API。
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎖️ 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - 官方 MiniMax 模型上下文協議（MCP）伺服器，可與 MiniMax 強大的 AI 功能互動，包括圖片生成、影片生成、文字轉語音和語音克隆 API。
 
 ### 🌎 <a name="translation-services"></a>翻譯服務
 

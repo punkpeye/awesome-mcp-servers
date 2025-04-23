@@ -455,7 +455,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 用于文本转视频、图像转视频以及其他视频生成功能的工具。
 
-- [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎧 🎬 📷 - 官方 MiniMax 模型上下文协议（MCP）服务器，支持与 MiniMax 强大的 AI 能力进行交互，包括图像生成、视频生成、文本转语音和语音克隆等 API。
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎖️ 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - 官方 MiniMax 模型上下文协议（MCP）服务器，支持与 MiniMax 强大的 AI 能力进行交互，包括图像生成、视频生成、文本转语音和语音克隆等 API。
 
 ### 🌎 <a name="translation-services"></a>翻译服务
 

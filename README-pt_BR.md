@@ -387,7 +387,7 @@ Ferramentas para acessar dados, resultados e estatísticas relacionados a esport
 
 Ferramentas para transformar texto em vídeo, imagem em vídeo e outras funções de geração de vídeo.
 
-- [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎧 🎬 📷 - Servidor oficial do MiniMax Model Context Protocol (MCP) que permite a interação com os poderosos recursos de IA da MiniMax, incluindo geração de imagens, geração de vídeos, conversão de texto em fala e clonagem de voz via API.
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎖️ 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - Servidor oficial do MiniMax Model Context Protocol (MCP) que permite a interação com os poderosos recursos de IA da MiniMax, incluindo geração de imagens, geração de vídeos, conversão de texto em fala e clonagem de voz via API.
 
 ### 🎧 <a name="suporte--gestão-de-serviços"></a>Suporte & Gestão de Serviços
 

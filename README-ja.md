@@ -281,7 +281,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 テキストからビデオ、画像からビデオ、その他のビデオ生成機能のためのツールです。
 
-- [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎧 🎬 📷 - MiniMax の強力な AI 機能（画像生成、動画生成、音声合成、音声クローンなど）と連携できる公式のモデルコンテキストプロトコル（MCP）サーバーです。
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎖️ 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - MiniMax の強力な AI 機能（画像生成、動画生成、音声合成、音声クローンなど）と連携できる公式のモデルコンテキストプロトコル（MCP）サーバーです。
 
 ### 🌎 <a name="translation-services"></a>翻訳サービス
 

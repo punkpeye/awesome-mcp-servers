@@ -422,7 +422,7 @@
 
 텍스트-비디오, 이미지-비디오 등 다양한 비디오 생성 기능을 위한 도구입니다.
 
-- [MiniMax MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎧 🎬 📷 - 이미지 생성, 비디오 생성, 텍스트 음성 변환, 음성 복제 등 MiniMax의 강력한 AI 기능과 상호작용할 수 있는 공식 모델 컨텍스트 프로토콜(MCP) 서버입니다.
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎖️ 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - 이미지 생성, 비디오 생성, 텍스트 음성 변환, 음성 복제 등 MiniMax의 강력한 AI 기능과 상호작용할 수 있는 공식 모델 컨텍스트 프로토콜(MCP) 서버입니다.
 
 ### 🌎 <a name="translation-services"></a>번역 서비스
 
