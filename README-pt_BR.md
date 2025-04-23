@@ -430,6 +430,7 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 
 ## Frameworks
 
+- [create-mcp-ts](https://github.com/stephencme/create-mcp-ts) 📇 - Modelo de servidor MCP CLI do TypeScript
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - Um framework de alto nível para construir servidores MCP em Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - Um framework de alto nível para construir servidores MCP em TypeScript
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Biblioteca Golang para escrever Servidores MCP de forma declarativa com teste funcional incluído

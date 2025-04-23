@@ -351,6 +351,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 
 ## フレームワーク
 
+- [create-mcp-ts](https://github.com/stephencme/create-mcp-ts) 📇 - TypeScriptのMCP CLIサーバーテンプレート
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – [Genkit](https://github.com/firebase/genkit/tree/main) とモデルコンテキストプロトコル（MCP）との統合を提供します。
 - [@modelcontextprotocol/server-langchain](https://github.com/rectalogic/langchain-mcp) 🐍 - LangChainでのMCPツール呼び出しサポートを提供し、LangChainワークフローにMCPツールを統合できるようにします。
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 🏎️ - MCPサーバーとクライアントを構築するためのGolang SDK。

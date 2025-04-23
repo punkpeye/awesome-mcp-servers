@@ -517,6 +517,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 
 ## 프레임워크
 
+- [create-mcp-ts](https://github.com/stephencme/create-mcp-ts) 📇 - TypeScript의 MCP CLI 서버 템플릿
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - 파이썬으로 MCP 서버를 구축하기 위한 고수준 프레임워크
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - 타입스크립트로 MCP 서버를 구축하기 위한 고수준 프레임워크
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - 함수형 테스트를 포함하여 선언적으로 MCP 서버를 작성하기 위한 Golang 라이브러리

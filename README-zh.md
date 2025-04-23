@@ -554,6 +554,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 
 ## 框架
 
+- [create-mcp-ts](https://github.com/stephencme/create-mcp-ts) 📇 - TypeScript的MCP CLI服务器模板
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - 用于在 Python 中构建 MCP 服务器的高级框架
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - 用于在 TypeScript 中构建 MCP 服务器的高级框架
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - 用于以声明方式编写 MCP 服务器的 Golang 库，包含功能测试
