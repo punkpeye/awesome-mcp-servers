@@ -100,6 +100,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🎧 - [Support & Service Management](#support-and-service-management)
 * 🌎 - [Translation Services](#translation-services)
 * 🎧 - [Text-to-Speech](#text-to-speech)
+* 🧪 - [Testing Platforms](#testing-platforms)
 * 🚆 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
@@ -684,6 +685,12 @@ Translation tools and services to enable AI assistants to translate content betw
 Tools for converting text-to-speech and vice-versa
 
 - [Kokoro TTS MCP](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - MCP Server that uses the open weight Kokoro TTS models to convert text-to-speech. Can convert text to MP3 on a local driver or auto-upload to an S3 bucket.
+
+### 🧪 <a name="testing-platforms"></a>Testing Platforms
+
+Services for test execution, management, debugging and more.
+
+- [BrowserStack MCP](https://github.com/browserstack/mcp-server) 🎖️ 📇 ☁️ - BrowserStack MCP enables every developer and tester in your team, whether they are testing manually, starting their automation journey, or scaling test automation. 
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
