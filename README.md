@@ -215,6 +215,7 @@ Run commands, capture output and otherwise interact with shells and command line
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) - A secure shell command execution server implementing the Model Context Protocol (MCP)
 - [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) - Cisco pyATS server enabling structured, model-driven interaction with network devices.
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇 🏠 🍎 🪟 🐧 - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files.
+- [gengzi/mcp_command-line_tool](https://github.com/gengzi/mcp_command-line_tool.git) - It is used to execute local commands on the current computer.
 
 ### 💬 <a name="communication"></a>Communication
 

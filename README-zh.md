@@ -160,6 +160,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - 使用`run_command`和`run_script`工具运行任何命令。
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - 具有安全执行和可定制安全策略的命令行界面
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) 实现模型上下文协议 (MCP) 的安全 shell 命令执行服务器
+- [gengzi/mcp_command-line_tool](https://github.com/gengzi/mcp_command-line_tool.git) - 用于在当前电脑执行本地命令
 
 ### 💬 <a name="communication"></a>社交
 
