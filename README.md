@@ -417,6 +417,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - An MCP server for running code locally via Docker and supporting multiple programming languages.
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - Query Go package information on pkg.go.dev
 - [ckanthony/gin-mcp](https://github.com/ckanthony/gin-mcp) 🏎️ ☁️ 📟 🪟 🐧 🍎 - A zero-configuration Go library to automatically expose existing Gin web framework APIs as MCP tools.
+- [ryan0204/github-repo-mcp](https://github.com/Ryan0204/github-repo-mcp) 📇 ☁️ 🪟 🐧 🍎 - GitHub Repo MCP allow your AI assistants browse GitHub repositories, explore directories, and view file contents.
 
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
