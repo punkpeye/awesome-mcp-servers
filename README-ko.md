@@ -99,7 +99,9 @@
 단일 MCP 서버를 통해 많은 앱과 도구에 접근하기 위한 서버입니다.
 
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 웹 API를 10초 만에 MCP 서버로 전환하고 오픈 소스 레지스트리에 추가하세요: https://open-mcp.org
+- [tigranbs/mcgravity](https://github.com/krayniok/mcgravity) 📇 🏠 🪟 🐧 - 여러 MCP 서버를 단일 연결 포인트로 통합하여 프록시하는 도구로, 요청 부하를 분산하여 AI 도구를 확장합니다.
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP는 GUI를 통해 MCP 연결을 관리하는 통합 미들웨어 MCP 서버입니다.
+- [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - 서버 측 코드를 변경하지 않고 한 번의 클릭으로 웹 API를 MCP 서버로 변환합니다.
 
 ### 📂 <a name="browser-automation"></a>브라우저 자동화
 
@@ -115,6 +117,7 @@
 - [@co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🌐🔮 - SSE 전송을 지원하는 MCP 서버로 패키징된 browser-use. Docker에서 Chromium을 실행하기 위한 Dockerfile + VNC 서버 포함.
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Bilibili 콘텐츠 검색을 지원하는 MCP 서버. LangChain 통합 예제 및 테스트 스크립트 제공.
 - [@getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 🐍 🏠 - 모든 웹사이트에서 구조화된 데이터 추출. 프롬프트만 입력하면 JSON 획득.
+- [aircodelabs/grasp](https://github.com/aircodelabs/grasp) 📇 🏠 - MCP 및 A2A를 기본 지원하는 에이전트 기반의 자체 호스팅 브라우저
 
 ### 🎨 <a name="art-and-culture"></a>예술 및 문화
 
@@ -409,7 +412,8 @@
 - [ORKL MCP 서버](https://github.com/fr0gger/MCP_Security) 📇 🛡️ ☁️ - ORKL API 쿼리를 위한 MCP 서버. 이 서버는 위협 보고서 가져오기, 위협 행위자 분석 및 인텔리전스 소스 검색 도구를 제공합니다.
 - [Security Audit MCP 서버](https://github.com/qianniuspace/mcp-security-audit) 📇 🛡️ ☁️ 보안 취약점에 대해 npm 패키지 의존성을 감사하는 강력한 MCP(모델 컨텍스트 프로토콜) 서버. 실시간 보안 검사를 위한 원격 npm 레지스트리 통합으로 구축됨.
 - [ROADRecon MCP 서버](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 Azure 테넌트 열거에서 ROADrecon 수집 결과 분석을 위한 MCP 서버
-
+- [VMS MCP 서버](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 VMS MCP 서버는 CCTV 녹화 프로그램(VMS)에 연결하여 녹화된 영상과 실시간 영상을 가져오며, 특정 채널의 특정 시간에 실시간 영상이나 재생 화면을 표시하는 등의 VMS 소프트웨어 제어 도구도 제공합니다.
+- 
 ### 🏃 <a name="sports"></a>스포츠
 
 스포츠 관련 데이터, 결과 및 통계에 접근하기 위한 도구.
@@ -505,6 +509,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) - 🐍 화면 GUI 자동 조작.
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ AI 모델이 [Kibela](https://kibe.la/)와 상호 작용할 수 있도록 허용
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - AI가 GraphQL 서버를 쿼리할 수 있도록 허용
+- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - 일반 GraphQL 쿼리/변이 정의 도구를 사용하면 gqai가 자동으로 MCP 서버를 생성합니다.
 - [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - Replicate의 API를 통해 이미지 생성 기능 제공.
 - [kenliao94/mcp-server-rabbitmq](https://github.com/kenliao94/mcp-server-rabbitmq) 🐍 🏠 - RabbitMQ와의 상호 작용(관리 작업, 메시지 인큐/디큐) 가능
 - [marcelmarais/Spotify](https://github.com/marcelmarais/spotify-mcp-server) - 📇 🏠 Spotify 재생 제어 및 재생 목록 관리.
