@@ -412,7 +412,8 @@
 - [ORKL MCP 서버](https://github.com/fr0gger/MCP_Security) 📇 🛡️ ☁️ - ORKL API 쿼리를 위한 MCP 서버. 이 서버는 위협 보고서 가져오기, 위협 행위자 분석 및 인텔리전스 소스 검색 도구를 제공합니다.
 - [Security Audit MCP 서버](https://github.com/qianniuspace/mcp-security-audit) 📇 🛡️ ☁️ 보안 취약점에 대해 npm 패키지 의존성을 감사하는 강력한 MCP(모델 컨텍스트 프로토콜) 서버. 실시간 보안 검사를 위한 원격 npm 레지스트리 통합으로 구축됨.
 - [ROADRecon MCP 서버](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 Azure 테넌트 열거에서 ROADrecon 수집 결과 분석을 위한 MCP 서버
-
+- [VMS MCP 서버](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 VMS MCP 서버는 CCTV 녹화 프로그램(VMS)에 연결하여 녹화된 영상과 실시간 영상을 가져오며, 특정 채널의 특정 시간에 실시간 영상이나 재생 화면을 표시하는 등의 VMS 소프트웨어 제어 도구도 제공합니다.
+- 
 ### 🏃 <a name="sports"></a>스포츠
 
 스포츠 관련 데이터, 결과 및 통계에 접근하기 위한 도구.
