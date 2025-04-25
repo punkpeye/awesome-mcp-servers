@@ -369,7 +369,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [continuedev/continue](https://github.com/continuedev/continue) VSCodeの自動補完およびチャットツール（フル機能サポート）
 - [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) クラウドベースのAIサービスがローカルのStdioベースのMCPサーバーにHTTP/HTTPSリクエストでアクセスできるようにするツール
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - 複数のMCPリソースサーバーを、単一のHTTPサーバーを通して集約し、提供するMCPプロキシサーバー。
-
+- [MCP.ing](https://mcp.ing) 🏠 – MCP サーバーの広範なオンライン ライブラリ。
 
 ## ヒントとコツ
 

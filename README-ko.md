@@ -550,6 +550,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [kukapay/whoami-mcp](https://github.com/kukapay/whoami-mcp) 🐍 🏠 - 현재 사용자가 누구인지 정확히 알려주는 경량 MCP 서버.
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇🖥️ - 모든 MCP 서버와 채팅하고 연결하는 CLI 기반 클라이언트. MCP 서버 개발 및 테스트 중에 유용합니다.
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - 여러 MCP 리소스 서버를 단일 http 서버를 통해 집계하고 제공하는 MCP 프록시 서버.
+- [MCP.ing](https://mcp.ing) 🏠 – MCP 서버의 광범위한 온라인 라이브러리입니다.
 
 ## 팁과 요령
 

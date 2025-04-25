@@ -459,6 +459,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 - 用於構建垂直 AI 代理的框架
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - 一個通過單個HTTP伺服器聚合併服務多個MCP資源伺服器的MCP代理伺服器。
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - 查詢 pkg.go.dev 上的 golang 包資訊
+- [MCP.ing](https://mcp.ing) 🏠 –  一個在線資源豐富的 MCP 服務器庫。
 
 
 ## 用戶端

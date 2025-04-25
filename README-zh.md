@@ -587,6 +587,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [kukapay/whoami-mcp](https://github.com/kukapay/whoami-mcp) 🐍 🏠 - 一款轻量级MCP服务器，能准确告诉你你的身份。
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇🖥️ - 基于命令行的客户端，用于与任何MCP服务器进行聊天和连接。在MCP服务器的开发与测试阶段非常实用。
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - 一个通过单个HTTP服务器聚合并服务多个MCP资源服务器的MCP代理服务器。
+- [MCP.ing](https://mcp.ing) 🏠 –  在线的 MCP 服务器资源库。
 
 ## 提示和技巧
 

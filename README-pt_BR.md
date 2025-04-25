@@ -474,6 +474,7 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - Um servidor proxy MCP que agrega e serve vários servidores de recursos MCP através de um único servidor http.
 - [upsonic/gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) 🐍 – framework para construir agente de IA vertical
 - [JoshuaSiraj/mcp_auto_register](https://github.com/JoshuaSiraj/mcp_auto_register) 🐍 – ferramenta para automatizar o registro de funções e classes de um pacote python em uma instância FastMCP.
+- [MCP.ing](https://mcp.ing) 🏠 – Biblioteca de recursos incrível de servidores MCP.
 
 ## Dicas e Truques
 
