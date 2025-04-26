@@ -332,6 +332,7 @@
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - Godot 게임 엔진과 상호 작용하기 위한 MCP 서버, Godot 프로젝트에서 장면 편집, 실행, 디버깅 및 관리 도구 제공.
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - 실시간 판타지 프리미어 리그 데이터 및 분석 도구를 위한 MCP 서버.
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - 게임 개발을 위한 Unity3d 게임 엔진 통합용 MCP 서버
+- [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) 📇 ☁️ - 리그 오브 레전드, TFT, 발로란트와 같은 인기 게임의 실시간 게임 데이터에 접근하여 챔피언 분석, e스포츠 일정, 메타 구성 및 캐릭터 통계를 제공합니다.
 
 ### 🧠 <a name="knowledge--memory"></a>지식 및 메모리
 
