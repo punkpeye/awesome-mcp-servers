@@ -101,6 +101,7 @@
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 웹 API를 10초 만에 MCP 서버로 전환하고 오픈 소스 레지스트리에 추가하세요: https://open-mcp.org
 - [tigranbs/mcgravity](https://github.com/krayniok/mcgravity) 📇 🏠 🪟 🐧 - 여러 MCP 서버를 단일 연결 포인트로 통합하여 프록시하는 도구로, 요청 부하를 분산하여 AI 도구를 확장합니다.
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP는 GUI를 통해 MCP 연결을 관리하는 통합 미들웨어 MCP 서버입니다.
+- [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - 서버 측 코드를 변경하지 않고 한 번의 클릭으로 웹 API를 MCP 서버로 변환합니다.
 
 ### 📂 <a name="browser-automation"></a>브라우저 자동화
 
@@ -134,6 +135,7 @@
 - [Cloudflare MCP 서버](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Workers, KV, R2 및 D1을 포함한 Cloudflare 서비스와의 통합
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - IPFS 스토리지 업로드 및 조작
 - [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - AI 어시스턴트가 AWS CLI 명령을 실행하고, 유닉스 파이프를 사용하며, 안전한 Docker 환경에서 일반적인 AWS 작업을 위한 프롬프트 템플릿을 멀티 아키텍처 지원으로 적용할 수 있게 하는 가볍지만 강력한 서버
+- [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) 🎖️ 🐍 ☁️ - 알리바바 클라우드에서 AI 어시스턴트가 리소스를 운영하고 관리할 수 있게 해주는 MCP 서버로, ECS, 클라우드 모니터링, OOS 및 기타 널리 사용되는 클라우드 제품들을 지원합니다.
 - [Kubernetes MCP 서버](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️/🏠 MCP를 통한 쿠버네티스 클러스터 운영
 - [@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 파드, 디플로이먼트, 서비스를 위한 쿠버네티스 클러스터 운영의 타입스크립트 구현
 - [@manusa/Kubernetes MCP 서버](https://github.com/manusa/kubernetes-mcp-server) - 🏎️ 🏠 OpenShift를 추가로 지원하는 강력한 쿠버네티스 MCP 서버. **모든** 쿠버네티스 리소스에 대한 CRUD 작업을 제공하는 것 외에도, 이 서버는 클러스터와 상호 작용하기 위한 전문 도구를 제공합니다.
@@ -411,7 +413,8 @@
 - [ORKL MCP 서버](https://github.com/fr0gger/MCP_Security) 📇 🛡️ ☁️ - ORKL API 쿼리를 위한 MCP 서버. 이 서버는 위협 보고서 가져오기, 위협 행위자 분석 및 인텔리전스 소스 검색 도구를 제공합니다.
 - [Security Audit MCP 서버](https://github.com/qianniuspace/mcp-security-audit) 📇 🛡️ ☁️ 보안 취약점에 대해 npm 패키지 의존성을 감사하는 강력한 MCP(모델 컨텍스트 프로토콜) 서버. 실시간 보안 검사를 위한 원격 npm 레지스트리 통합으로 구축됨.
 - [ROADRecon MCP 서버](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 Azure 테넌트 열거에서 ROADrecon 수집 결과 분석을 위한 MCP 서버
-
+- [VMS MCP 서버](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 VMS MCP 서버는 CCTV 녹화 프로그램(VMS)에 연결하여 녹화된 영상과 실시간 영상을 가져오며, 특정 채널의 특정 시간에 실시간 영상이나 재생 화면을 표시하는 등의 VMS 소프트웨어 제어 도구도 제공합니다.
+- 
 ### 🏃 <a name="sports"></a>스포츠
 
 스포츠 관련 데이터, 결과 및 통계에 접근하기 위한 도구.
