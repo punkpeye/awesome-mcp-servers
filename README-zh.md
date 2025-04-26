@@ -352,6 +352,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - 一个用于与Godot游戏引擎交互的MCP服务器，提供编辑、运行、调试和管理Godot项目中场景的工具。
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - 用于实时 Fantasy Premier League 数据和分析工具的 MCP 服务器。
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - Unity3d 游戏引擎集成 MCP 服务器
+- [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) 📇 ☁️ - 访问英雄联盟、云顶之弈、无界英雄等热门游戏的实时游戏数据，提供英雄分析、电竞赛程、元组合和角色统计。
 
 ### 🧠 <a name="knowledge--memory"></a>知识与记忆
 
