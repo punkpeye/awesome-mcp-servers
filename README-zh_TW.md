@@ -291,6 +291,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - MCP 伺服器實現提供了通過向量搜尋檢索和處理文件的工具，使 AI 助手能夠利用相關文件上下文來增強其響應能力
 - [@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) 📇 ☁️ - 為 LLM 提供的連接器，用於操作 Zotero Cloud 上的文獻集合和資源
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 用於 Mem0 的模型上下文協議伺服器，幫助管理編碼偏好和模式，提供工具用於儲存、檢索和語義處理代碼實現、最佳實踐和技術文件，適用於 Cursor 和 Windsurf 等 IDE
+- [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - 從您的 [Ragie](https://www.ragie.ai) (RAG) 知識庫中檢索上下文，可連接至 Google Drive、Notion、JIRA 等多種整合服務。
 
 ### 🗺️ <a name="location-services"></a>位置服務
 
