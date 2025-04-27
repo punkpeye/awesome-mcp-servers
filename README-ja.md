@@ -97,6 +97,8 @@ MCPをサポートするクライアントのリストです。
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Web APIを10秒でMCPサーバーに変換し、オープンソースレジストリに追加する: https://open-mcp.org
 - [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) 📇 🏠 - 複数のMCPサーバーを1つの統一エンドポイントに構成するためのプロキシツール。Nginxがウェブサーバーのために機能するのと同様に、複数のMCPサーバー間でリクエストの負荷分散を行うことで、AIツールをスケーリングします。
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCPは、GUIでMCP接続を管理する統合ミドルウェアMCPサーバーです。
+- [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - サーバー側のコードに変更を加えることなく、Web API を 1 回のクリックで MCP サーバーに変換します。。
+- [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - MCPを通じてGoogleのImagen 3.0 APIを使用する強力な画像生成ツール。高度な写真、芸術的、写実的なコントロールでテキストプロンプトから高品質な画像を生成します。
 
 ### 📂 <a name="browser-automation"></a>ブラウザ自動化
 
@@ -124,6 +126,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Workers、KV、R2、D1を含むCloudflareサービスとの統合
 - [Kubernetes MCP Server](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️ MCPを通じたKubernetesクラスター操作
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - IPFSストレージのアップロードと操作
+- [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) 🎖️ 🐍 ☁️ - MCPサーバーは、AIアシスタントがAlibaba Cloud上のリソースを運用・管理できるようにし、ECS、クラウドモニタリング、OOS、およびその他の広く使用されているクラウド製品をサポートします。
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 Kubernetes クラスターのリソース管理と、クラスターとアプリケーションの健全性ステータスの詳細な分析を提供します。
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - 🏎️ ☁️/🏠 MCPマルチクラスターKubernetesの管理と運用を提供し、管理インターフェース、ログ機能を備え、一般的な運用・開発シナリオをカバーする約50種類のツールを内蔵。標準リソースおよびCRDリソースをサポート。  
 - [weibaohui/kom](https://github.com/weibaohui/kom) - 🏎️ ☁️/🏠 MCPマルチクラスターKubernetesの管理と運用を提供。SDKとして自身のプロジェクトに統合可能で、一般的な運用・開発シナリオをカバーする約50種類のツールを内蔵。標準リソースおよびCRDリソースをサポート。
@@ -226,6 +229,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - 実際のFantasy Premier Leagueデータと分析ツールのためのMCPサーバー
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - Unity3dゲームエンジン統合によるゲーム開発用MCPサーバー
+- [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) 📇 ☁️ - League of Legends、TFT、Valorantなどの人気ゲームのリアルタイムゲームデータにアクセスし、チャンピオン分析、eスポーツスケジュール、メタ構成、キャラクター統計を提供します。
 
 ### 🧠 <a name="knowledge--memory"></a>知識と記憶
 
