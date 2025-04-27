@@ -102,6 +102,7 @@
 - [tigranbs/mcgravity](https://github.com/krayniok/mcgravity) 📇 🏠 🪟 🐧 - 여러 MCP 서버를 단일 연결 포인트로 통합하여 프록시하는 도구로, 요청 부하를 분산하여 AI 도구를 확장합니다.
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP는 GUI를 통해 MCP 연결을 관리하는 통합 미들웨어 MCP 서버입니다.
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - 서버 측 코드를 변경하지 않고 한 번의 클릭으로 웹 API를 MCP 서버로 변환합니다.
+- [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - MCP를 통해 Google의 Imagen 3.0 API를 사용하는 강력한 이미지 생성 도구. 고급 사진, 예술 및 사실적인 컨트롤로 텍스트 프롬프트에서 고품질 이미지를 생성합니다.
 
 ### 📂 <a name="browser-automation"></a>브라우저 자동화
 
@@ -135,6 +136,7 @@
 - [Cloudflare MCP 서버](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Workers, KV, R2 및 D1을 포함한 Cloudflare 서비스와의 통합
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - IPFS 스토리지 업로드 및 조작
 - [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - AI 어시스턴트가 AWS CLI 명령을 실행하고, 유닉스 파이프를 사용하며, 안전한 Docker 환경에서 일반적인 AWS 작업을 위한 프롬프트 템플릿을 멀티 아키텍처 지원으로 적용할 수 있게 하는 가볍지만 강력한 서버
+- [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) 🎖️ 🐍 ☁️ - 알리바바 클라우드에서 AI 어시스턴트가 리소스를 운영하고 관리할 수 있게 해주는 MCP 서버로, ECS, 클라우드 모니터링, OOS 및 기타 널리 사용되는 클라우드 제품들을 지원합니다.
 - [Kubernetes MCP 서버](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️/🏠 MCP를 통한 쿠버네티스 클러스터 운영
 - [@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 파드, 디플로이먼트, 서비스를 위한 쿠버네티스 클러스터 운영의 타입스크립트 구현
 - [@manusa/Kubernetes MCP 서버](https://github.com/manusa/kubernetes-mcp-server) - 🏎️ 🏠 OpenShift를 추가로 지원하는 강력한 쿠버네티스 MCP 서버. **모든** 쿠버네티스 리소스에 대한 CRUD 작업을 제공하는 것 외에도, 이 서버는 클러스터와 상호 작용하기 위한 전문 도구를 제공합니다.
@@ -330,6 +332,7 @@
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - Godot 게임 엔진과 상호 작용하기 위한 MCP 서버, Godot 프로젝트에서 장면 편집, 실행, 디버깅 및 관리 도구 제공.
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - 실시간 판타지 프리미어 리그 데이터 및 분석 도구를 위한 MCP 서버.
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - 게임 개발을 위한 Unity3d 게임 엔진 통합용 MCP 서버
+- [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) 📇 ☁️ - 리그 오브 레전드, TFT, 발로란트와 같은 인기 게임의 실시간 게임 데이터에 접근하여 챔피언 분석, e스포츠 일정, 메타 구성 및 캐릭터 통계를 제공합니다.
 
 ### 🧠 <a name="knowledge--memory"></a>지식 및 메모리
 
