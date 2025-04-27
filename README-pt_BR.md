@@ -300,6 +300,7 @@ Acesso a dados financeiros e ferramentas de análise. Permite que modelos de IA 
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - Pontuação de risco / participações de ativos de endereço de blockchain EVM (EOA, CA, ENS) e até mesmo nomes de domínio.
 - [bitteprotocol/mcp](https://github.com/BitteProtocol/mcp) 📇 - Integração com o Bitte Protocol para executar Agentes de IA em várias blockchains.
 - [chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 🎖️ 📇 ☁️ - Servidor MCP que conecta agentes de IA à [plataforma Chargebee](https://www.chargebee.com/).
+- [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - Servidor MCP conectado à plataforma CRIC Wuye AI. O CRIC Wuye AI é um assistente inteligente desenvolvido pela CRIC especialmente para o setor de gestão de propriedades.
 
 ### 🎮 <a name="jogos"></a>Jogos
 
@@ -322,6 +323,7 @@ Armazenamento de memória persistente usando estruturas de grafos de conheciment
 - [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - Um servidor de Protocolo de Contexto de Modelo para Mem0 que ajuda a gerenciar preferências e padrões de codificação, fornecendo ferramentas para armazenar, recuperar e lidar semanticamente com implementações de código, melhores práticas e documentação técnica em IDEs como Cursor e Windsurf
 - [modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Sistema de memória persistente baseado em grafo de conhecimento para manter contexto
 - [pinecone-io/assistant-mcp](https://github.com/pinecone-io/assistant-mcp) 🎖️ 🦀 ☁️ - Conecta-se ao seu Assistente Pinecone e dá ao agente contexto a partir do seu motor de conhecimento.
+- [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - Recupere contexto da sua base de conhecimento [Ragie](https://www.ragie.ai) (RAG) conectada a integrações como Google Drive, Notion, JIRA e muito mais.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - Gerenciador de memória para aplicativos de IA e Agentes usando vários armazenamentos de grafos e vetores e permitindo ingestão de mais de 30 fontes de dados
 - [unibaseio/membase-mcp](https://github.com/unibaseio/membase-mcp) 📇 ☁️ - Salve e consulte a memória do seu agente de forma distribuída pelo Membase
 - [entanglr/zettelkasten-mcp](https://github.com/entanglr/zettelkasten-mcp) 🐍 🏠 - Um servidor de Protocolo de Contexto de Modelo (MCP) que implementa a metodologia de gestão de conhecimento Zettelkasten, permitindo criar, vincular e pesquisar notas atômicas através de Claude e outros clientes compatíveis com MCP.

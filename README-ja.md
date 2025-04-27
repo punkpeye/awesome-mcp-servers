@@ -238,6 +238,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - コンテキストを維持するための知識グラフベースの長期記憶システム
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - AIロールプレイとストーリー生成に焦点を当てた強化されたグラフベースのメモリ
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - CursorやWindsurfなどのIDEでコーディングの好みやパターンを管理するためのMem0用モデルコンテキストプロトコルサーバー。コード実装、ベストプラクティス、技術文書の保存、取得、意味的な処理のためのツールを提供します
+- [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - あなたの [Ragie](https://www.ragie.ai) (RAG) ナレッジベースから、Google Drive、Notion、JIRAなどの連携サービスに接続されたコンテキストを取得します。
 
 ### 🗺️ <a name="location-services"></a>位置情報サービス
 
@@ -275,6 +276,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server)) 🐍 ☁️ - Unsplash 画像検索機能の統合用
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - OpenAI の組み込み `web_search` ツールを MCP サーバーに変換して使用します。
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - Web Platform APIを使ってBaselineの状態を検索してくれるMCPサーバー
+- [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - CRICプロパティAIプラットフォームに接続するMCPサーバーです。CRICプロパティAIは、克而瑞がプロパティ業界向けに開発したインテリジェントAIアシスタントです。
 
 ### 🔒 <a name="security"></a>セキュリティ
 
