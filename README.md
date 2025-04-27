@@ -532,6 +532,7 @@ Financial data access and analysis tools. Enables AI models to work with market 
 - [janswist/mcp-dexscreener](https://github.com/janswist/mcp-dexscreener) 📇 ☁️ - Real-time on-chain market prices using open and free Dexscreener API
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - MCP server based on baostock, providing access and analysis capabilities for Chinese stock market data.
 - [wowinter13/solscan-mcp](https://github.com/wowinter13/solscan-mcp) 🦀 🏠 - An MCP tool for querying Solana transactions using natural language with Solscan API.
+- [CRIC Wuye AI](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ An MCP server that interact with capabilities of the CRIC Wuye AI platform, an intelligent assistant specifically for the property management industry.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
