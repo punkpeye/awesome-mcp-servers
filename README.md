@@ -659,7 +659,8 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 
 ### 🌐 <a name="social-media"></a>Social Media
 
-Tools for accessing social media data, results, and statistics.
+Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
+
 - [kunallunia/twitter-mcp](https://github.com/LuniaKunal/mcp-twitter) 🐍 🏠 - All-in-one Twitter management solution providing timeline access, user tweet retrieval, hashtag monitoring, conversation analysis, direct messaging, sentiment analysis of a post, and complete post lifecycle control - all through a streamlined API.
 
 ### 🏃 <a name="sports"></a>Sports
