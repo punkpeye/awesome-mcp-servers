@@ -458,6 +458,8 @@ Provides access to documentation and shortcuts for working on embedded devices.
 
 - [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - Workflow for fixing build issues in ESP32 series chips using ESP-IDF.
 
+- [yoelbassin/gnuradioMCP](https://github.com/yoelbassin/gnuradioMCP) 🐍 📡 - An MCP server for GNU Radio that enables LLMs to autonomously create and modify RF `.grc` flowcharts.
+
 ### 📂 <a name="file-systems"></a>File Systems
 
 Provides direct access to local file systems with configurable permissions. Enables AI models to read, write, and manage files within specified directories.
