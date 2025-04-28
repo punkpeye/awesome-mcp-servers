@@ -222,6 +222,7 @@ Fornece acesso a perfis de clientes dentro de plataformas de dados de clientes
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - Conecte qualquer Dado Aberto a qualquer LLM com o Protocolo de Contexto de Modelo.
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - Um servidor MCP para acessar e atualizar perfis em um servidor CDP Apache Unomi.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - Um servidor MCP para interagir com um Workspace Tinybird a partir de qualquer cliente MCP.
+- [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - Um plugin do MCP Server baseado no [AntV](https://github.com/antvis) para gerar gráficos de visualização de dados.
 
 ### 🗄️ <a name="bancos-de-dados"></a>Bancos de Dados
 
