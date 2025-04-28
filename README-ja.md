@@ -153,6 +153,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 顧客データプラットフォーム内の顧客プロファイルへのアクセスを提供します。
 
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - Apache Unomi CDPサーバー上のプロファイルにアクセスし、更新するためのMCPサーバー。
+- [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - [AntV](https://github.com/antvis) をベースにしたデータ可視化チャートを生成する MCP Server プラグイン。
 
 ### 🗄️ <a name="databases"></a>データベース
 
