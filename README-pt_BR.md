@@ -374,6 +374,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Servidor MCP Clojars para informações atualizadas de dependências de bibliotecas Clojure
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Pesquise artigos de pesquisa do ArXiv
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - Integração com o Google News com categorização automática de tópicos, suporte multilíngue e recursos abrangentes de pesquisa, incluindo manchetes, histórias e tópicos relacionados através do [SerpAPI](https://serpapi.com/).
+- [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - O servidor MCP da Dappier permite pesquisa web em tempo real rápida e gratuita, além de acesso a dados premium de marcas de mídia confiáveis — notícias, mercados financeiros, esportes, entretenimento, clima e muito mais — para construir agentes de IA poderosos.
 
 ### 🔒 <a name="segurança"></a>Segurança
 
