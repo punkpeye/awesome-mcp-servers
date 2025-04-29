@@ -2,46 +2,62 @@
 
 Servers interacting with social networks, content platforms, or feed aggregators.
 
+- [NexusX-MCP/integrate-mcp-server](https://github.com/NexusX-MCP/integrate-mcp-server): An extensible server providing standardized access to social and onchain data, supporting platforms like Farcaster with plans for Twitter integration.
+- [sriramsowmithri9807/MCP_X](https://github.com/sriramsowmithri9807/MCP_X): Facilitates AI model interactions with Twitter/X API through a standardized MCP interface, enabling tweet management and data retrieval.
+- [Arindam200/devto-mcp](https://github.com/Arindam200/devto-mcp): Enables AI assistants to interact with Dev.to content, offering features like fetching, searching, and managing articles.
+- [Sergiolm17/genius-mcp-server](https://github.com/Sergiolm17/genius-mcp-server): Facilitates interaction with the Genius API for searching lyrics, artists, and song details via MCP client applications.
+- [rafaljanicki/x-twitter-mcp-server](https://github.com/rafaljanicki/x-twitter-mcp-server): Facilitates AI-driven interactions with Twitter, enabling tweet management and user engagement through natural language commands.
+- [shariqriazz/upsplash-mcp-server](https://github.com/shariqriazz/upsplash-mcp-server): Facilitates interaction with the Unsplash API for photo searching and downloading through MCP tools.
+- [funtuan/tw-kfc-coupon-mcp](https://github.com/funtuan/tw-kfc-coupon-mcp): Facilitates the search for KFC Taiwan coupons using the MCP protocol, enabling seamless integration with AI-driven applications.
+- [LuniaKunal/mcp-twitter](https://github.com/LuniaKunal/mcp-twitter): Facilitates programmatic management of Twitter accounts with features like timeline retrieval, hashtag search, and direct messaging.
+- [LT-aitools/MCPblusky](https://github.com/LT-aitools/MCPblusky): Connects to Bluesky and enables natural language interaction with ATProtocol features, enhancing LLM applications with contextual data from Bluesky.
+- [yorickchan/mcp_youtube_dlp](https://github.com/yorickchan/mcp_youtube_dlp): Facilitates AI assistants in downloading YouTube videos and audio using yt-dlp.
+- [ganyariya/misskey-mcp-server](https://github.com/ganyariya/misskey-mcp-server): Facilitates posting notes to Misskey using an unofficial MCP server implementation.
+- [saginawj/mcp-reddit-companion](https://github.com/saginawj/mcp-reddit-companion): Enhance your Reddit experience with natural language interaction, enabling custom curated feeds and content analysis using your preferred LLM client.
+- [stephen9412/youtube-mcp-server](https://github.com/stephen9412/youtube-mcp-server): FastMCP server for YouTube offering unified video, channel, and playlist management tools for memo agents and automation workflows.
 - [Yooki-K/weibo-mcp-server](https://github.com/Yooki-K/weibo-mcp-server): Fetches and displays Weibo hot search data, including rankings, details, and comments, using the MCP framework.
 - [bossdong955/weibo-mcp-server](https://github.com/bossdong955/weibo-mcp-server): Facilitates retrieval of the top N trending topics on Weibo with support for stdio and SSE modes.
-- [hasmokan/x-kit-mcp](https://github.com/hasmokan/x-kit-mcp): Fetches and analyzes Twitter updates for large language models, focusing on e-sports insights.
 - [kukapay/twitter-username-changes-mcp](https://github.com/kukapay/twitter-username-changes-mcp): Tracks historical changes of Twitter usernames to identify potential scam risks in crypto projects.
+- [bads1de/GNews-MCP](https://github.com/bads1de/GNews-MCP): Integrates with the GNews API to provide access to global news articles across various categories and languages.
+- [Lunran/rssmcp](https://github.com/Lunran/rssmcp): Fetches and formats RSS feed entries with optional export capabilities.
+- [freestylefly/mcp-server-weread](https://github.com/freestylefly/mcp-server-weread): A lightweight server bridging WeRead data with Claude Desktop, enabling seamless access to reading notes and data.
+- [Arnoutopya/claude-google-images-mcp](https://github.com/Arnoutopya/claude-google-images-mcp): Enhances Claude Desktop with the ability to search, browse, and download images from Google Images using natural language commands.
+- [Alirezawmoradi/github-follower-manager-mcp](https://github.com/Alirezawmoradi/github-follower-manager-mcp): Manage and analyze your GitHub follow relationships using the Model Context Protocol for seamless automation and natural language control.
 - [Zmingfeng/news_mcp](https://github.com/Zmingfeng/news_mcp): A tool for retrieving and integrating current news from multiple sources with MCP-supported AI assistants.
 - [renant/mcp-tabnews](https://github.com/renant/mcp-tabnews): Facilitates seamless integration with TabNews by providing a suite of tools for content retrieval and analytics through the Model Context Protocol.
-- [egoist/raindrop-mcp](https://github.com/egoist/raindrop-mcp): Facilitates interaction with Raindrop.io for managing and searching bookmarks through MCP protocol.
+- [jean-technologies/mcp-writer-substack](https://github.com/jean-technologies/mcp-writer-substack): Connects Claude to Substack and Medium writings, enabling semantic search and personalized assistance.
+- [Rakibulislamsarkar/twitter-mcp](https://github.com/Rakibulislamsarkar/twitter-mcp): Facilitates interaction with Twitter for posting and searching tweets via a Model Context Protocol server.
+- [objones25/remote-cloudflare-youtube-transcript-mcp-server](https://github.com/objones25/remote-cloudflare-youtube-transcript-mcp-server): A serverless MCP server deployed on Cloudflare Workers for extracting YouTube video transcripts with support for multiple languages and ultra-fast response times.
+- [gulihua10010/mcp-server-article](https://github.com/gulihua10010/mcp-server-article): Automates article generation and publication to platforms like CSDN, Juejin, and Cnblogs using AI and MCP protocol integration.
 - [dabidstudio/youtubeinsights-mcp-server](https://github.com/dabidstudio/youtubeinsights-mcp-server): Facilitates insight extraction from YouTube videos, enabling subtitle parsing, keyword-based video discovery, and channel info retrieval.
-- [viceentmarti4/mcp-metricool](https://github.com/viceentmarti4/mcp-metricool): Facilitates AI-driven analysis of social media metrics and campaign data via the Metricool API.
+- [1282saa/news_se](https://github.com/1282saa/news_se): Facilitates AI model access to Seoul Economic Daily's stylebook data with advanced search and authentication features.
 - [tropical-362827/futaba-mcp](https://github.com/tropical-362827/futaba-mcp): A Python library enabling AI assistants to interact with ふたば☆ちゃんねる by retrieving and sorting thread data.
 - [TuliEscobar/mcp-linkedin](https://github.com/TuliEscobar/mcp-linkedin): Facilitates interaction with LinkedIn's Feeds and Job API using unofficial LinkedIn API access.
-- [Oliviergg/boring-news-mcp](https://github.com/Oliviergg/boring-news-mcp): A Python server library enabling interaction with the Boring News API to fetch and summarize daily news through a MCP server.
+- [PTNA/mcp-ptna-news](https://github.com/PTNA/mcp-ptna-news): Facilitates access to the latest news from the All Japan Piano Teachers Association with category filtering capabilities.
+- [hrishi0102/spotifyyy-mcp](https://github.com/hrishi0102/spotifyyy-mcp): Interact with Spotify through Claude to search for songs, create playlists, and get personalized recommendations using your Spotify account.
 - [the0807/GeekNews-MCP-Server](https://github.com/the0807/GeekNews-MCP-Server): Facilitates the retrieval of articles and weekly news from GeekNews using BeautifulSoup for web scraping.
-- [mzkrasner/twitter-client-mcp](https://github.com/mzkrasner/twitter-client-mcp): Securely integrates Twitter functionalities with the ElizaOS agent-twitter-client library, offering operations like tweeting, profile management, and relationship handling.
 - [xincmm/twitter-screenshot-mcp-server](https://github.com/xincmm/twitter-screenshot-mcp-server): A remote MCP server deployed on Cloudflare Workers with OAuth login, enabling seamless integration with Claude Desktop and MCP Inspector.
-- [recordlydata/yle-news-mcp](https://github.com/recordlydata/yle-news-mcp): Fetches and organizes news from Yle RSS feeds, supporting multiple topics and easy integration with Claude Desktop.
 - [handoing/ig-download-mcp-server](https://github.com/handoing/ig-download-mcp-server): Facilitates programmatic downloading of Instagram videos using FastMCP and btch-downloader.
 - [deencat/youtube-transcript-server](https://github.com/deencat/youtube-transcript-server): Fetch and format YouTube video transcripts with language selection and timestamped output.
-- [hetaoBackend/mcp-github-trending](https://github.com/hetaoBackend/mcp-github-trending): Provides a simple API interface to access GitHub's trending repositories and developers data, with filtering options by language and time period.
 - [niyonabil/blogger-mcp-server](https://github.com/niyonabil/blogger-mcp-server): Facilitates AI models like Claude to interact with Google's Blogger API for managing blogs and posts.
-- [sumukhipandey/reddit-mcp](https://github.com/sumukhipandey/reddit-mcp): Facilitates Reddit data access and interaction through LLMs, enabling subreddit browsing, post viewing, and trending topic analysis.
 - [anurag-dhamala/news-mcp-server](https://github.com/anurag-dhamala/news-mcp-server): Facilitates real-time news retrieval using newsdata.io through an MCP server interface.
-- [sligter/mcp_newsnow](https://github.com/sligter/mcp_newsnow): Aggregates trending news and topics from over 14 platforms using the Newsnow API, supporting both Chinese and English sources.
+- [berlinbra/news-api-mcp](https://github.com/berlinbra/news-api-mcp): Access global news articles with advanced filtering and headline retrieval through a standardized MCP interface.
 - [diasm3/serpapi-youtube-mcp-server](https://github.com/diasm3/serpapi-youtube-mcp-server): Facilitates extraction and analysis of YouTube video transcripts and comments using SerpAPI.
 - [DynamicEndpoints/social-media-automation-mcp](https://github.com/DynamicEndpoints/social-media-automation-mcp): A TypeScript-based server that automates social media note management by creating, accessing, and summarizing text notes using MCP protocols.
 - [tiroshanm/facebook-mcp-server](https://github.com/tiroshanm/facebook-mcp-server): Facilitates automated Facebook Page management, including posting, comment moderation, and content retrieval.
 - [0xGval/twitter-X-mcp-server](https://github.com/0xGval/twitter-X-mcp-server): A toolkit enabling Claude to perform advanced Twitter searches using natural language and syntax, with options for raw data or AI-driven analysis.
-- [rakeshgangwar/freshrss-server](https://github.com/rakeshgangwar/freshrss-server): Facilitates AI interaction with FreshRSS feeds via the Fever API, enabling feed management and item retrieval.
+- [AudienseCo/mcp-audiense-di-linkedin](https://github.com/AudienseCo/mcp-audiense-di-linkedin): Facilitates interaction with LinkedIn's Digital Intelligence service, enabling report creation, insights retrieval, and typeahead suggestions through MCP-compatible clients.
 - [GridfireAI/reddit-mcp](https://github.com/GridfireAI/reddit-mcp): A plug-and-play server for browsing, searching, and reading Reddit content using the MCP protocol.
-- [sundai-club/error-meme](https://github.com/sundai-club/error-meme): Enhance your debugging experience with automatic meme generation for error messages in Cursor IDE using MCP.
+- [a2xdeveloper/tagesschau-mcp-server](https://github.com/a2xdeveloper/tagesschau-mcp-server): Access the latest news articles and details from tagesschau.de through this MCP server.
+- [Samge0/mcp-qqmusic-test-server](https://github.com/Samge0/mcp-qqmusic-test-server): Facilitates keyword-based music track searches on QQ Music using the Modular Control Protocol.
 - [Kirill812/GPlay_reviews_MCP_server](https://github.com/Kirill812/GPlay_reviews_MCP_server): Access and analyze Google Play Store reviews with advanced filtering, search, and reply management capabilities.
 - [leciami/YouTube-MCP-help](https://github.com/leciami/YouTube-MCP-help): A request for assistance in integrating YouTube API functionality into an existing MCP server configuration.
-- [krish858/x-mcp-ctrls](https://github.com/krish858/x-mcp-ctrls): Facilitates control of X accounts via LLM agents like Claude-desktop and Cursor.
+- [raghav18482/LinkedInMCP](https://github.com/raghav18482/LinkedInMCP): Interact with LinkedIn data using Claude AI to fetch profiles, search jobs, and generate PDF CVs via an MCP server.
 - [qinyuanpei/mcp-server-weibo](https://github.com/qinyuanpei/mcp-server-weibo): Facilitates the extraction of user information, posts, and search functionalities from Sina Weibo.
 - [baryhuang/mcp-twitter-noauth](https://github.com/baryhuang/mcp-twitter-noauth): Facilitates Twitter API interactions without local credential setup, enabling core operations like searching, posting, and replying to tweets in a headless, remote environment.
 - [brianellin/bsky-mcp-server](https://github.com/brianellin/bsky-mcp-server): Facilitates interaction with Bluesky's ATProtocol through natural language, enabling LLM-based applications to fetch, analyze, and post content.
-- [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp): Interface with the AniList API to access and interact with anime, manga, and user data through a Model Context Protocol server.
 - [huccihuang/bilibili-mcp-server](https://github.com/huccihuang/bilibili-mcp-server): Facilitates interaction with the Bilibili API, enabling video search and future operations.
 - [Nocodeboy/youtube-mcp-server](https://github.com/Nocodeboy/youtube-mcp-server): Facilitates AI assistants like Claude to interact with YouTube's API for video and channel data retrieval.
-- [Greg-Swiftomatic/substack-mcp-server](https://github.com/Greg-Swiftomatic/substack-mcp-server): Facilitates AI-driven interactions with Substack newsletters, enabling content retrieval, search, and discovery across multiple publications.
 - [mosesblxk/instagram_mcp](https://github.com/mosesblxk/instagram_mcp): Provides tools for analyzing Instagram engagement metrics, extracting demographic insights, and identifying potential leads from Instagram posts and accounts.
 - [Greg-Swiftomatic/substack-mcp](https://github.com/Greg-Swiftomatic/substack-mcp): Facilitates AI assistants' interaction with Substack content through a standardized protocol.
 - [AudienseCo/mcp-tweetbinder](https://github.com/AudienseCo/mcp-tweetbinder): Facilitates interaction between Claude and TweetBinder by Audiense for comprehensive Twitter analytics and reporting.
@@ -52,39 +68,34 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [taskmaster-ai/insta-mcp](https://github.com/taskmaster-ai/insta-mcp): Facilitates AI-driven Instagram direct messaging through a robust MCP server built with fastmcp and instagrapi.
 - [juhemcp/jnews-mcp-server](https://github.com/juhemcp/jnews-mcp-server): Facilitates LLMs in accessing the latest news headlines and detailed content across various categories.
 - [icraft2170/youtube-data-mcp-server](https://github.com/icraft2170/youtube-data-mcp-server): Facilitates AI language models' interaction with YouTube content using the YouTube Data API.
+- [SouravKumarBarman/twitter-mcp-server](https://github.com/SouravKumarBarman/twitter-mcp-server): Facilitates seamless interaction between Claude Desktop and Twitter, enabling tweet management and content analysis via the Twitter API.
 - [kirabuilds/mcp-meme-deployer](https://github.com/kirabuilds/mcp-meme-deployer): Facilitates the deployment of instantly tradable tokens on Solana through conversational interactions with Claude Desktop, eliminating gas fees and enabling immediate trading.
+- [fredericbarthelet/linkedin-mcp-server](https://github.com/fredericbarthelet/linkedin-mcp-server): Facilitates interaction with LinkedIn's Community Management API using MCP protocol, supporting post creation and user information retrieval.
 - [Seym0n/tiktok-mcp](https://github.com/Seym0n/tiktok-mcp): Integrates TikTok access into Claude AI and other apps, enabling analysis and interaction with TikTok videos.
 - [MalikElate/yt-description-mcp](https://github.com/MalikElate/yt-description-mcp): Facilitates AI-driven extraction of YouTube video transcripts for seamless integration with Cursor and Claude Desktop.
-- [dimitrov-d/solana-forum-summarizer-mcp](https://github.com/dimitrov-d/solana-forum-summarizer-mcp): Enhances AI capabilities for scraping and summarizing Solana Forum posts using the Model Context Protocol.
-- [L-Chris/douban-mcp](https://github.com/L-Chris/douban-mcp): Facilitates searching and interacting with Douban content, including books, movies, and group discussions, through an MCP server.
 - [phhusson/trakt-mcp-server](https://github.com/phhusson/trakt-mcp-server): Connects to your Trakt account to manage and interact with your media tracking data using MCP.
-- [Dishant27/linkedin-mcp-server](https://github.com/Dishant27/linkedin-mcp-server): Facilitates advanced LinkedIn API interactions through a Model Context Protocol server, enabling intelligent data retrieval and integration for business applications.
-- [Bob-lance/instagram-engagement-mcp](https://github.com/Bob-lance/instagram-engagement-mcp): Track Instagram engagement, generate leads, and analyze audience feedback with this MCP server.
 - [ryanmac/agent-twitter-client-mcp](https://github.com/ryanmac/agent-twitter-client-mcp): Facilitates AI model interactions with Twitter through the `agent-twitter-client` package, bypassing direct API access.
 - [tayler-id/social-media-mcp](https://github.com/tayler-id/social-media-mcp): Facilitates cross-platform social media content creation and publishing through natural language commands, integrating with AI models for content generation and analytics.
-- [normal-coder/gitee-mcp-server](https://github.com/normal-coder/gitee-mcp-server): Empower AI to manage Gitee repositories, issues, and pull requests seamlessly through MCP integration.
 - [algonacci/mcp-gnews](https://github.com/algonacci/mcp-gnews): Facilitates internet news searches through an MCP server interface.
 - [pl728/substack-fetcher-mcp](https://github.com/pl728/substack-fetcher-mcp): Fetch and read articles from Substack using an MCP server integrated with Claude AI assistant.
 - [zhangzhongnan928/mcp-warpcast-server](https://github.com/zhangzhongnan928/mcp-warpcast-server): Facilitates seamless interaction with Warpcast through Claude, enabling posting, reading, and searching of casts, as well as channel management.
-- [DaInfernalCoder/unsplash-server](https://github.com/DaInfernalCoder/unsplash-server): Integrates Unsplash image search and retrieval with AI assistants, enabling seamless access to high-quality images.
-- [devabdultech/hn-mcp](https://github.com/devabdultech/hn-mcp): Enhance your LLM clients with real-time access to Hacker News stories, comments, and user profiles through this powerful MCP server.
 - [manimohans/verge-news-mcp](https://github.com/manimohans/verge-news-mcp): Fetch and search The Verge news articles via an MCP server, integrating seamlessly with tools like Claude and Smithery.
 - [taazkareem/twitter-mcp-server](https://github.com/taazkareem/twitter-mcp-server): Integrates Twitter functionalities with AI agents using the MCP standard, offering a seamless interface for accessing and interacting with Twitter data.
 - [smithery-ai/social-listening](https://github.com/smithery-ai/social-listening): Enables AI-driven social listening and real-time notifications using Syften's API.
-- [fred-em/headline-vibes](https://github.com/fred-em/headline-vibes): Analyze sentiment in news headlines from major US publications with date-based and natural language parsing capabilities.
 - [Hawstein/mcp-server-reddit](https://github.com/Hawstein/mcp-server-reddit): Facilitates LLM interaction with Reddit's public API, enabling access to posts, subreddit details, and comments via the MCP protocol.
-- [trilogy-group/youtube-summarizer-mcp](https://github.com/trilogy-group/youtube-summarizer-mcp): Facilitates AI integration with YouTube summarization tools via the MCP protocol, supporting local connections for enhanced media content processing.
-- [kabir-ti/youtube-summarizer-mcp](https://github.com/kabir-ti/youtube-summarizer-mcp): Facilitates AI applications to integrate with YouTube-Summarizer APIs via MCP protocol for local connections.
-- [FilippTrigub/linkedin-mcp](https://github.com/FilippTrigub/linkedin-mcp): Facilitates direct posting to LinkedIn from Claude Desktop, supporting text and media attachments with OAuth2 authentication.
-- [xytangme/neodb-mcp](https://github.com/xytangme/neodb-mcp): Facilitates interaction with NeoDB's social book cataloging service through an MCP server, enabling user info retrieval and book searches.
+- [berlinbra/BlueSky-MCP](https://github.com/berlinbra/BlueSky-MCP): Access BlueSky social network data through a standardized MCP interface for user profiles and social graph retrieval.
+- [TomCools/twitch-mcp](https://github.com/TomCools/twitch-mcp): Connects MCP Clients like Claude to Twitch Chat using a Quarkus-based server.
+- [punkpeye/wikimedia](https://github.com/punkpeye/wikimedia): Facilitates programmatic access to Wikimedia content using natural language queries via an MCP server.
 - [wllcnm/mcp-reddit](https://github.com/wllcnm/mcp-reddit): Facilitates interaction with Reddit content through Claude and other large language models using the MCP protocol.
+- [ZubeidHendricks/youtube-mcp-server](https://github.com/ZubeidHendricks/youtube-mcp-server): Facilitates AI-driven interaction with YouTube content through a standardized protocol, enabling video management, Shorts creation, and advanced analytics.
+- [shahshrey/youtube_transcript_mcp](https://github.com/shahshrey/youtube_transcript_mcp): Facilitates retrieval of YouTube video transcripts through an MCP-compliant server using the `youtube_transcript_api`.
 - [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn): Facilitates interaction with Hacker News by fetching stories, comments, and user information through a Model Context Protocol server.
 - [pskill9/hn-server](https://github.com/pskill9/hn-server): Fetch and structure Hacker News stories using a Model Context Protocol server for seamless integration with tools like Claude.
 - [rados10/youtube-watchlater-mcp](https://github.com/rados10/youtube-watchlater-mcp): Access your YouTube Watch Later playlist with ease, retrieving video URLs added within a specified timeframe using a secure MCP server.
 - [Lyonsupernova/mcp-x](https://github.com/Lyonsupernova/mcp-x): Facilitates integration between Claude and X API for posting tweets.
-- [sampx/hotnews-server](https://github.com/sampx/hotnews-server): Provides real-time trending topics from major Chinese social platforms and news sites, compatible with AI model integration.
-- [EnesCinr/twitter-mcp](https://github.com/EnesCinr/twitter-mcp): Facilitates interaction with Twitter by enabling tweet posting and search functionalities.
+- [Rickyyy1116/mcp-youtube-sheets](https://github.com/Rickyyy1116/mcp-youtube-sheets): Facilitates YouTube video searches and automatic result storage in Google Sheets, integrating seamlessly with AI assistants like Claude.
+- [morinokami/mcp-server-bluesky](https://github.com/morinokami/mcp-server-bluesky): Facilitates interaction with the Bluesky platform through a comprehensive suite of MCP server tools.
+- [adhikasp/mcp-youtube](https://github.com/adhikasp/mcp-youtube): Facilitates downloading YouTube video transcripts and integrating them with LLMs using the Model Context Protocol.
+- [laulauland/bluesky-context-server](https://github.com/laulauland/bluesky-context-server): Facilitates querying Bluesky instances through MCP client integration.
 - [Muralikrishankp/Twitter-MCP-Server-for-Claude](https://github.com/Muralikrishankp/Twitter-MCP-Server-for-Claude): Connects Twitter's trending topics with Claude's analysis capabilities to identify business opportunities.
-- [michalnaka/mcp-substack](https://github.com/michalnaka/mcp-substack): Facilitates seamless integration of Substack content into Claude AI Desktop by downloading and parsing posts.
-- [speakeasy-api/bluesky-ts](https://github.com/speakeasy-api/bluesky-ts): A TypeScript SDK for Bluesky API, offering a developer-friendly, type-safe interface with MCP server capabilities for AI applications.
 

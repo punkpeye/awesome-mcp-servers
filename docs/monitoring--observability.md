@@ -2,75 +2,80 @@
 
 Servers connecting to monitoring systems, logging platforms, or providing system/application performance metrics.
 
-- [roastedculti/metoro-mcp-server](https://github.com/roastedculti/metoro-mcp-server): Facilitates interaction with Kubernetes clusters through the Claude Desktop App by leveraging the Model Context Protocol.
-- [anchor-g/mcp-sentry](https://github.com/anchor-g/mcp-sentry): Facilitates the retrieval and analysis of issues from Sentry.io, offering tools to inspect error reports and stacktraces.
+- [aliyun/alibabacloud-observability-mcp-server](https://github.com/aliyun/alibabacloud-observability-mcp-server): Facilitates seamless integration with Alibaba Cloud's observability products, offering tools for efficient log and application monitoring.
+- [enomoto11/aws-cost-notifier-mcp-server](https://github.com/enomoto11/aws-cost-notifier-mcp-server): Monitors daily AWS costs and generates GitHub Issue reports for cost analysis and comparison.
+- [binalyze/air-mcp](https://github.com/binalyze/air-mcp): Facilitates natural language interaction with Binalyze AIR's digital forensics and incident response capabilities through a Node.js MCP server.
+- [hiyorineko/mcp-rollbar-server](https://github.com/hiyorineko/mcp-rollbar-server): Facilitates LLM interaction with Rollbar's error tracking data, offering comprehensive access to error details, deployments, and user information.
+- [saarw/akhq-mcp-server](https://github.com/saarw/akhq-mcp-server): Facilitates AI assistants' integration with the AKHQ Kafka monitoring tool through an experimental MCP server.
+- [Chazzychouse/weather-mcp-server](https://github.com/Chazzychouse/weather-mcp-server): Provides weather forecasts and alerts using the MCP protocol with data from the National Weather Service.
+- [Bigsy/shadow-cljs-mcp](https://github.com/Bigsy/shadow-cljs-mcp): Monitors shadow-cljs builds, providing real-time status updates and integration with LLMs for verifying build success after ClojureScript file edits.
+- [ZephyrDeng/pprof-analyzer-mcp](https://github.com/ZephyrDeng/pprof-analyzer-mcp): A Go-based server for analyzing Go pprof performance profiles, offering tools for generating flame graphs and interactive profiling sessions.
+- [srcgrp/sentry-mcp-server](https://github.com/srcgrp/sentry-mcp-server): Integrate Sentry error tracking into your development workflow by accessing release health data and issue details directly within your MCP-enabled environment.
+- [yincongcyincong/VictoriaMetrics-mcp-server](https://github.com/yincongcyincong/VictoriaMetrics-mcp-server): Facilitates interaction with VictoriaMetrics through an MCP server interface.
+- [Infisical/infisical-mcp-server](https://github.com/Infisical/infisical-mcp-server): Integrate with Infisical APIs using the Model Context Protocol for managing secrets and projects.
+- [scottlepp/tempo-mcp-server](https://github.com/scottlepp/tempo-mcp-server): Enables AI assistants to query and analyze distributed tracing data from Grafana Tempo using the Model Context Protocol.
+- [cline/cline-community](https://github.com/cline/cline-community): Facilitates seamless issue reporting from Cline to GitHub by automating metadata extraction and providing a preview feature.
+- [scottlepp/loki-mcp](https://github.com/scottlepp/loki-mcp): Facilitates querying Grafana Loki log data using the Model Context Protocol (MCP) with a Go-based server.
+- [groundlight/groundlight-mcp-server](https://github.com/groundlight/groundlight-mcp-server): Facilitates image analysis and query handling through detectors that leverage natural-language processing for Groundlight.
+- [mrwadams/otx-mcp](https://github.com/mrwadams/otx-mcp): Facilitates real-time interaction with AlienVault OTX for threat intelligence analysis and management through a comprehensive set of MCP tools.
 - [bobtista/honeybadger-mcp](https://github.com/bobtista/honeybadger-mcp): Facilitates AI-driven error analysis by bridging AI agents with the Honeybadger error monitoring service.
+- [maito1201/cloudrun-logs-mcp](https://github.com/maito1201/cloudrun-logs-mcp): Facilitates AI assistants in accessing Google Cloud Run logs and service information through an MCP interface.
 - [Lee-1024/mcp-glances](https://github.com/Lee-1024/mcp-glances): Integrates MCP with LLMs to analyze server monitoring data via Glances API, providing real-time system status feedback.
+- [jalexspringer/impact-mcp-server](https://github.com/jalexspringer/impact-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [JordanDalton/PodscanMcpServer](https://github.com/JordanDalton/PodscanMcpServer): Podscan MCP Server enables seamless integration with Podscan's API for efficient podcast data retrieval.
 - [querypie/querypie-mcp-server](https://github.com/querypie/querypie-mcp-server): QueryPie MCP server empowers administrators with real-time data visualization, resource monitoring, and security auditing capabilities.
 - [xprilion/mcp-telemetry](https://github.com/xprilion/mcp-telemetry): Enhance your chat system's observability by tracing and analyzing conversations with LLMs using Weights & Biases Weave.
-- [majie1993/remote-mcp-server](https://github.com/majie1993/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [ghrud92/simple-loki-mcp](https://github.com/ghrud92/simple-loki-mcp): Facilitates AI-driven log analysis by interfacing with Grafana Loki logs via the Model Context Protocol.
 - [ggilligan12/kibana-mcp](https://github.com/ggilligan12/kibana-mcp): Facilitates AI-driven interaction with Kibana Security alerts by tagging, adjusting status, and retrieving alerts.
+- [yuki9541134/mcp-redash](https://github.com/yuki9541134/mcp-redash): Facilitates SQL query execution and data source management through Redash API integration.
 - [PovedaAqui/suzieq-mcp](https://github.com/PovedaAqui/suzieq-mcp): Facilitates interaction with SuzieQ network observability via MCP tools for querying and summarizing network state data.
 - [naveen09/mcp_pagerduty](https://github.com/naveen09/mcp_pagerduty): Facilitates PagerDuty integration for on-call management queries via an MCP server, compatible with Claude.
+- [brunoborges/jvm-diagnostics-mcp](https://github.com/brunoborges/jvm-diagnostics-mcp): Enhances JVM diagnostic tools with a user-friendly prompt and exposes them via an MCP server for local use.
 - [gkhays/mcp-sbom-server](https://github.com/gkhays/mcp-sbom-server): Generates a Software Bill of Materials (SBOM) using Trivy scans, outputting in CycloneDX format.
 - [GeLi2001/datadog-mcp-server](https://github.com/GeLi2001/datadog-mcp-server): Facilitates seamless interaction with Datadog's API for monitoring, dashboards, metrics, events, logs, and incidents.
 - [co0ontty/rivers-radar-mcp](https://github.com/co0ontty/rivers-radar-mcp): Leverage large language models to query, analyze, and manage website security monitoring data via MCP Tools.
+- [opensensor/bn_cline_mcp](https://github.com/opensensor/bn_cline_mcp): Facilitates binary analysis with Cline using Binary Ninja through an MCP server.
 - [weekitmo/mcp-sentry](https://github.com/weekitmo/mcp-sentry): Node.js and TypeScript-based server integrating with Sentry for error tracking and monitoring via MCP and SSE protocols.
-- [Gaffx/volatility-mcp](https://github.com/Gaffx/volatility-mcp): Integrates Volatility 3's memory analysis capabilities with FastAPI and MCP for seamless AI-assisted memory forensics.
-- [tgeselle/bugsnag-mcp](https://github.com/tgeselle/bugsnag-mcp): Facilitates LLM tools like Cursor and Claude to efficiently manage and resolve Bugsnag issues through a Model Context Protocol server.
 - [mottibec/otelcol-mcp](https://github.com/mottibec/otelcol-mcp): Facilitates dynamic configuration of OpenTelemetry Collectors through MCP tools, enabling efficient management of receivers, processors, and exporters.
 - [zereight/sentry-mcp](https://github.com/zereight/sentry-mcp): Facilitates interaction with the Sentry API to retrieve issue and event details using the Model Context Protocol.
 - [kitakou0313/grafana-tempo-mcp](https://github.com/kitakou0313/grafana-tempo-mcp): A TypeScript-based MCP server implementing a simple notes system with tools for note creation and summarization.
 - [prashantjha/mcp-datadog](https://github.com/prashantjha/mcp-datadog): Integrates Datadog with MCP for enhanced monitoring and observability.
-- [Hexix23/shodan-mcp](https://github.com/Hexix23/shodan-mcp): SHODAN-MCP provides a robust interface to the Shodan API, enabling security professionals to efficiently explore and analyze internet-connected devices using the MCP protocol.
-- [ducduyn31/nr-mcp](https://github.com/ducduyn31/nr-mcp): Facilitates AI-driven incident debugging by querying New Relic data through an MCP server.
+- [samanhappy/mcphub](https://github.com/samanhappy/mcphub): MCPHub consolidates multiple MCP servers into a single SSE endpoint, offering centralized management and real-time monitoring through an intuitive dashboard.
 - [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp): Middleware MCP server enabling seamless interaction with Sentry through LLMs, supporting both remote and stdio transport.
-- [Cyreslab-AI/nessus-mcp-server](https://github.com/Cyreslab-AI/nessus-mcp-server): Facilitates AI-driven vulnerability scanning and analysis using the Tenable Nessus scanner via the MCP protocol.
 - [serkanh/cloudwatch-logs-mcp](https://github.com/serkanh/cloudwatch-logs-mcp): Facilitates AI-driven access to AWS CloudWatch logs, enabling listing and retrieval of log entries through an MCP server.
 - [QAInsights/k6-mcp-server](https://github.com/QAInsights/k6-mcp-server): Facilitates running k6 load tests through a Model Context Protocol server with customizable test parameters and real-time execution output.
 - [tay3223/mcp-server-prometheus](https://github.com/tay3223/mcp-server-prometheus): Integrate Prometheus monitoring data into the Cursor code editor for real-time insights and historical trends.
 - [DynamicEndpoints/mesh-scanner](https://github.com/DynamicEndpoints/mesh-scanner): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
 - [besthand/mcp-server-taiwan-aqi](https://github.com/besthand/mcp-server-taiwan-aqi): Provides real-time and historical air quality data from Taiwan's monitoring stations via an MCP server.
-- [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server): Enables AI agents to integrate real-time production context into local environments for faster code auto-fixing.
-- [0xKoda/WireMCP](https://github.com/0xKoda/WireMCP): WireMCP empowers LLMs with real-time network traffic analysis using Wireshark's tshark for threat detection and diagnostics.
-- [RayYokoyama/qase-mcp-server](https://github.com/RayYokoyama/qase-mcp-server): Facilitates integration with Qase's test management platform by managing test case creation, retrieval, and execution.
 - [besthand/mcp-server-taiwan-aqi--](https://github.com/besthand/mcp-server-taiwan-aqi--): Access real-time and historical air quality data from Taiwan's monitoring stations via an MCP server.
 - [dortegau/mcp-proxy-sidecar](https://github.com/dortegau/mcp-proxy-sidecar): Enhances the JetBrains MCP Server with real-time WebSocket monitoring for all MCP interactions.
 - [getsentry/sentry-mcp-stdio](https://github.com/getsentry/sentry-mcp-stdio): Facilitates interaction with Sentry's API for AI-driven error analysis and project management.
-- [gitsoufiane/mcp-launchdarkley](https://github.com/gitsoufiane/mcp-launchdarkley): Facilitates querying and managing LaunchDarkly feature flags and resources through MCP integration.
+- [suolr/lighthouse-integration](https://github.com/suolr/lighthouse-integration): Enhances Puppeteer MCP with Google Lighthouse for comprehensive web performance audits and accessibility checks.
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server): Enables AI assistants to query and analyze Prometheus metrics using standardized interfaces.
 - [asatasinon/mcp-datadog-api](https://github.com/asatasinon/mcp-datadog-api): Facilitates querying and analyzing Datadog data through an MCP server with integration capabilities for Claude for Desktop.
-- [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye): Facilitates Kubernetes cluster management and workload analysis through MCP server capabilities.
-- [bingal/FastDomainCheck-MCP-Server](https://github.com/bingal/FastDomainCheck-MCP-Server): Facilitates bulk domain registration status checks with dual verification using WHOIS and DNS, ensuring seamless AI tool integration.
 - [elliottlawson/mcp-sentry](https://github.com/elliottlawson/mcp-sentry): Facilitates AI-driven analysis of Sentry.io issues by providing detailed error reports and debugging information.
 - [marcoeg/mcp-server-ntopng](https://github.com/marcoeg/mcp-server-ntopng): Enables AI agents to query network monitoring data using NTOPNG's database.
 - [MaxWeeden/mcp-dnsdumpster](https://github.com/MaxWeeden/mcp-dnsdumpster): Facilitates AI-driven DNS reconnaissance by interfacing with the DNSDumpster API through natural language requests.
-- [dwain-barnes/police-uk-api-mcp-server](https://github.com/dwain-barnes/police-uk-api-mcp-server): Access and interact with the police.uk API using a Python-based MCP server, offering comprehensive tools for crime data retrieval and analysis.
 - [weetime/prometheus-mcp-server](https://github.com/weetime/prometheus-mcp-server): A TypeScript-based server bridging Prometheus metrics with Claude via the Model Context Protocol.
-- [dheerajoruganty/aws-bedrock-logs-mcp-server](https://github.com/dheerajoruganty/aws-bedrock-logs-mcp-server): Analyze AWS Bedrock usage and logs through a command-line interface and API using Anthropic's Claude model.
+- [idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server): Facilitates querying and managing InfluxDB instances through an MCP server interface.
 - [kaznak/alertmanager-mcp](https://github.com/kaznak/alertmanager-mcp): Integrates Prometheus Alertmanager with Claude AI for seamless alert management and interaction.
 - [amitdeshmukh/stdout-mcp-server](https://github.com/amitdeshmukh/stdout-mcp-server): Facilitates real-time log capture and analysis from multiple processes via a named pipe system, enhancing debugging and monitoring capabilities.
-- [Spritualkb/nuclei-mcp](https://github.com/Spritualkb/nuclei-mcp): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
-- [zerubroberts/safetyculture-mcp-server](https://github.com/zerubroberts/safetyculture-mcp-server): Facilitates natural language queries and analysis of SafetyCulture data through an MCP server interface.
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp): Logfire MCP Server enables LLMs to access and analyze OpenTelemetry traces and metrics using Logfire APIs, facilitating detailed telemetry data retrieval and SQL query execution.
 - [jakenuts/mcp-solarwinds](https://github.com/jakenuts/mcp-solarwinds): Access and visualize SolarWinds Observability logs with advanced filtering and customizable time intervals.
 - [MCP-100/mcp-sentry](https://github.com/MCP-100/mcp-sentry): Facilitates the retrieval and analysis of issues from Sentry.io, providing detailed insights into error reports and debugging information.
 - [codyde/mcp-sentry-ts](https://github.com/codyde/mcp-sentry-ts): Facilitates AI-driven interaction with Sentry for error analysis, project management, and performance monitoring.
-- [ctvidic/strava-mcp-server](https://github.com/ctvidic/strava-mcp-server): Facilitates interaction with Strava data through language models, offering features like activity tracking, athlete statistics, and social interactions.
-- [ctvidic/whoop-mcp-server](https://github.com/ctvidic/whoop-mcp-server): Access Whoop API data for cycles, recovery, strain, and workouts via a Python-based MCP server.
 - [8bitgentleman/activitywatch-mcp-server](https://github.com/8bitgentleman/activitywatch-mcp-server): Facilitates interaction between ActivityWatch time tracking data and LLMs like Claude, enabling advanced data queries and settings retrieval.
 - [winor30/mcp-server-datadog](https://github.com/winor30/mcp-server-datadog): Facilitates seamless integration with Datadog's monitoring features through an MCP server, enabling efficient incident management and observability.
+- [obutora/go_sentry_mcp_server](https://github.com/obutora/go_sentry_mcp_server): Facilitates the retrieval of issue lists from Sentry using a Go-based MCP server.
 - [ravitemer/mcp-hub](https://github.com/ravitemer/mcp-hub): Centralized management and monitoring hub for multiple MCP servers, offering dynamic server lifecycle handling and a REST API for tool execution.
-- [truaxki/mcp-variance-log](https://github.com/truaxki/mcp-variance-log): Monitors conversation patterns for statistical anomalies and logs them to a SQLite database, integrating seamlessly with Claude Desktop.
+- [orliesaurus/pulsemcp-server](https://github.com/orliesaurus/pulsemcp-server): Facilitates the discovery and exploration of MCP servers and integrations via the PulseMCP API.
+- [HosakaKeigo/claude-weather-api](https://github.com/HosakaKeigo/claude-weather-api): A mock API designed for integration with the openapi-mcp-server, enabling weather queries through Claude Desktop.
+- [OpsBeaconInc/mcp-opsbeacon-server](https://github.com/OpsBeaconInc/mcp-opsbeacon-server): Facilitates interaction with the Opsbeacon API through Claude, offering command and connection listing capabilities.
 - [Ivlad003/mcp_newrelic](https://github.com/Ivlad003/mcp_newrelic): Facilitates querying New Relic logs with NRQL through a Model Context Protocol server, enabling seamless interaction with LLMs like Claude.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana): Facilitates interaction with Grafana's ecosystem, enabling dashboard searches, datasource queries, and incident management through MCP.
-- [DynamicEndpoints/cloudflare-github-backup-mcp](https://github.com/DynamicEndpoints/cloudflare-github-backup-mcp): Facilitates automated backups of Cloudflare projects to GitHub repositories using MCP server capabilities.
-- [DynamicEndpoints/huntress-mcp-server](https://github.com/DynamicEndpoints/huntress-mcp-server): Facilitates seamless interaction with the Huntress API for account, organization, and incident management through a robust MCP server.
-- [DynamicEndpoints/Automated-BOD-25-01-CISA-Microsoft-Policies-MCP](https://github.com/DynamicEndpoints/Automated-BOD-25-01-CISA-Microsoft-Policies-MCP): Implements CISA BOD 25-01 security controls for Microsoft 365 using the MCP protocol, integrating with Microsoft Graph API for compliance monitoring and reporting.
 - [macrat/mcp-ayd-server](https://github.com/macrat/mcp-ayd-server): Facilitates status monitoring for Ayd through an MCP server interface.
 - [ueki-tomohiro/sentry-issue-server](https://github.com/ueki-tomohiro/sentry-issue-server): A TypeScript-based MCP server implementing a notes system with tools for note creation and summarization.
-- [CaesarYangs/prometheus_mcp_server](https://github.com/CaesarYangs/prometheus_mcp_server): Facilitates LLMs in querying and analyzing Prometheus databases through predefined routes for advanced metric data exploration.
+- [chatmcp/mcp-server-collector](https://github.com/chatmcp/mcp-server-collector): Facilitates the discovery and submission of MCP servers by extracting them from URLs and content, and submitting them to directories.
 - [loglmhq/mcp-server-prometheus](https://github.com/loglmhq/mcp-server-prometheus): Facilitates interaction with Prometheus metrics and data through a TypeScript-based MCP server, bridging Claude and Prometheus via the Model Context Protocol.
-- [MindscapeHQ/mcp-server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun): Facilitates interaction with Raygun's API V3 endpoints for crash reporting and real user monitoring through a comprehensive MCP server.
 - [sqr/datadog-mcp](https://github.com/sqr/datadog-mcp): Facilitates log retrieval from Datadog for analysis by Claude within a Kubernetes environment.
 

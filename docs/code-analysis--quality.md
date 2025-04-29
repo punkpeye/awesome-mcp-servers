@@ -2,35 +2,49 @@
 
 Servers focused on static analysis, linting, code metrics, security scanning, vulnerability checks, or code quality assessment.
 
-- [Novakiki/mcp-gemini-claude](https://github.com/Novakiki/mcp-gemini-claude): Integrates Gemini LLM with Claude models for advanced code repository analysis and understanding.
-- [ReyNeill/Kontxt](https://github.com/ReyNeill/Kontxt): Facilitates codebase indexing by connecting to local repositories and providing AI clients with contextual analysis using Gemini 2.0 Flash.
+- [dhylan01/MCP_OA](https://github.com/dhylan01/MCP_OA): Facilitates AI assistants in analyzing code by identifying function usage within Python and TypeScript/TSX files.
+- [angrysky56/ast-mcp-server](https://github.com/angrysky56/ast-mcp-server): Provides code structure and semantic analysis using AST and ASG for multiple programming languages, enhancing code analysis capabilities in Claude Desktop.
+- [joaomj/code-reviewer-mcp](https://github.com/joaomj/code-reviewer-mcp): Automated GitHub pull request code reviews using AI models via MCP integration.
+- [shaydo-deriv/go-archer](https://github.com/shaydo-deriv/go-archer): Go Archer provides a visual representation of package dependencies and can operate as an MCP server for dependency analysis.
+- [RaRdq/RR.MCP](https://github.com/RaRdq/RR.MCP): Facilitates AI-driven .NET project analysis by extracting interfaces, models, and data structures using PowerShell scripts.
+- [mettamatt/code-reasoning](https://github.com/mettamatt/code-reasoning): Enhances Claude's problem-solving capabilities by breaking down complex programming tasks into manageable steps using structured, sequential thinking.
+- [jpheimonen/code-oracle](https://github.com/jpheimonen/code-oracle): Code Oracle leverages AI to efficiently locate code within large codebases using Gemini 2.5 Flash, integrating seamlessly as an MCP server in Cursor.
+- [FuelLabs/fuel-mcp-server](https://github.com/FuelLabs/fuel-mcp-server): Facilitates seamless IDE integration with Fuel Network and Sway Language documentation through advanced semantic search capabilities.
 - [AB498/code-context-provider-mcp](https://github.com/AB498/code-context-provider-mcp): Provides code context and analysis for AI assistants by extracting directory structures and code symbols using WebAssembly Tree-sitter parsers.
-- [KilluaYZ/elixir_linux_mcp_server](https://github.com/KilluaYZ/elixir_linux_mcp_server): Facilitates precise Linux source code queries using Elixir for LLMs.
+- [alesr/gh-self-reviewer](https://github.com/alesr/gh-self-reviewer): A Go-based Anthropic MCP server facilitating self-review of GitHub pull requests with Claude AI integration.
 - [lq0910/vuesage](https://github.com/lq0910/vuesage): VueSage enhances Vue component quality through intelligent analysis and optimization, leveraging MCP for seamless integration with editors.
-- [TrueCrimeAudit/ahk-mcp](https://github.com/TrueCrimeAudit/ahk-mcp): Provides AutoHotkey v2 code analysis and documentation tools for Claude AI.
-- [nowucca/quack-mcp-server](https://github.com/nowucca/quack-mcp-server): Quack automates code analysis and testing for Python, offering linting and static type analysis through an MCP server.
+- [Bamimore-Tomi/ghidra_mcp](https://github.com/Bamimore-Tomi/ghidra_mcp): Transforms Ghidra into a reverse-engineering backend by extracting decompiled binary data and exposing it to LLMs via MCP.
+- [aidalinfo/mcp-clean-code](https://github.com/aidalinfo/mcp-clean-code): Facilitates the planning and creation of clean, well-structured code with comprehensive English comments, focusing on readability and maintainability.
+- [DocNR/repo-explorer](https://github.com/DocNR/repo-explorer): Efficiently explore and analyze Git repositories with advanced caching and cross-repository code pattern search, integrating seamlessly with Claude AI.
+- [yy1588133/code-merge-mcp](https://github.com/yy1588133/code-merge-mcp): Facilitates code file extraction, merging, and analysis for large language models using the Model Context Protocol.
 - [davidleathers113/typescript-analyzer-mcp](https://github.com/davidleathers113/typescript-analyzer-mcp): Enhance TypeScript codebases by intelligently analyzing and replacing 'any' types with specific types, while offering React component interface generation and advanced error handling.
-- [gleicon/mcp-osv](https://github.com/gleicon/mcp-osv): Facilitates code security reviews by integrating with OSV.dev and AI models to identify vulnerabilities.
+- [priyankark/a11y-mcp](https://github.com/priyankark/a11y-mcp): Conducts comprehensive accessibility audits on webpages using axe-core, integrating seamlessly with AI assistants to address a11y issues.
+- [hanqizheng/unit-test-generator-mcp-server](https://github.com/hanqizheng/unit-test-generator-mcp-server): Generates unit tests for component libraries using the MCP protocol.
+- [crisschan/mcp-jacoco-reporter](https://github.com/crisschan/mcp-jacoco-reporter): Transforms JaCoCo code coverage reports into AI-friendly formats for enhanced analysis and insights.
 - [Tomatio13/software-checker-mcp](https://github.com/Tomatio13/software-checker-mcp): Facilitates comprehensive quality checks and release note generation for Git repositories, while also providing security risk analysis.
 - [smadi0x86/GDB-MCP](https://github.com/smadi0x86/GDB-MCP): Facilitates LLM-driven debugging and analysis with GDB through an MCP server interface.
-- [marchellodev/reviewer-mcp](https://github.com/marchellodev/reviewer-mcp): Facilitates AI-assisted code reviews by executing shell commands through the Model Context Protocol.
 - [Ixe1/code-scanner-server](https://github.com/Ixe1/code-scanner-server): A versatile tool for scanning code files, extracting definitions, and providing LLM-friendly outputs, with dual operation as a CLI tool and MCP server.
+- [mobilehackinglab/jadx-mcp-plugin](https://github.com/mobilehackinglab/jadx-mcp-plugin): Facilitates decompiler access for Claude by bridging Jadx API over HTTP using MCP, enabling live interaction with decompiled code.
 - [first-to-fly/code-cleanup](https://github.com/first-to-fly/code-cleanup): A Bun TypeScript project offering a Model Context Protocol server for code cleanup using Google's Generative AI, with features like backup, custom prompts, and professional formatting.
+- [hloiseaufcms/mcp-gopls](https://github.com/hloiseaufcms/mcp-gopls): Facilitates AI assistants' interaction with Go's Language Server Protocol for enhanced code analysis and navigation.
+- [irvinebroque/repro-root-mcp-issue](https://github.com/irvinebroque/repro-root-mcp-issue): Deploy and manage a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.
 - [r-huijts/mcp-server-tester](https://github.com/r-huijts/mcp-server-tester): A configuration-driven tool for automating tests and generating reports for MCP servers, leveraging Claude AI for intelligent test case generation.
-- [brunoborges/jvm-diagnostics-mcp](https://github.com/brunoborges/jvm-diagnostics-mcp): Enhances JVM diagnostic tools with a user-friendly prompt and exposes them via an MCP server for local use.
-- [lex-tools/codebase-context-dumper](https://github.com/lex-tools/codebase-context-dumper): Effortlessly integrate your codebase context into LLMs by automating the selection and formatting of files, respecting `.gitignore` rules, and supporting large codebase chunking.
+- [nodetec/nostr-code-snippet-mcp](https://github.com/nodetec/nostr-code-snippet-mcp): Facilitates the execution of code snippets via a node-based MCP server.
 - [BangNGH/github-code-index-mcp-server](https://github.com/BangNGH/github-code-index-mcp-server): Facilitates code indexing, searching, and analysis for large language models across multiple programming languages.
-- [opensensor/bn_cline_mcp](https://github.com/opensensor/bn_cline_mcp): Facilitates binary analysis with Cline using Binary Ninja through an MCP server.
-- [Ludok-4/Ghidra](https://github.com/Ludok-4/Ghidra): ghidraMCP enables LLMs to autonomously reverse engineer applications by integrating Ghidra's decompilation and analysis tools with MCP clients.
+- [CodeLogicIncEngineering/codelogic-mcp-server](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server): Leverage Codelogic's software dependency data for impact assessments in AI programming assistants.
 - [treaties-ai/local-scanner-mcp](https://github.com/treaties-ai/local-scanner-mcp): Enhances AI assistants' capabilities to interact with local development environments by scanning code and localhost URLs for testing, debugging, and validation.
 - [klara-research/MCP-Analyzer](https://github.com/klara-research/MCP-Analyzer): Facilitates the analysis and debugging of Model Context Protocol logs with seamless integration into Claude Desktop.
 - [ast-grep/ast-grep-mcp](https://github.com/ast-grep/ast-grep-mcp): An experimental MCP server leveraging ast-grep for codebase searching and analysis.
 - [JordyZomer/codeql-mcp](https://github.com/JordyZomer/codeql-mcp): Facilitates interaction with CodeQL through structured commands, enabling AI agents and tools like Cursor to perform queries and decode results.
+- [pollyannaanalytics/Figma-BDD-MCP-Server](https://github.com/pollyannaanalytics/Figma-BDD-MCP-Server): Automatically generates BDD test plans from Figma designs using a microservice architecture.
 - [x51xxx/github-explorer-mcp](https://github.com/x51xxx/github-explorer-mcp): A TypeScript MCP server offering comprehensive GitHub repository insights, including file content, directory structure, and metadata for enhanced client interactions.
+- [gtnao/github_deep_blame_mcp](https://github.com/gtnao/github_deep_blame_mcp): Provides comprehensive analysis of GitHub file history by retrieving detailed pull request information, including comments and reviews, beyond standard git blame.
 - [Bigsy/clj-kondo-MCP](https://github.com/Bigsy/clj-kondo-MCP): Enhance your Clojure development with clj-kondo linting capabilities through a dedicated MCP server.
+- [dongri/mcp-server-lgtm](https://github.com/dongri/mcp-server-lgtm): A TypeScript-based server that fetches random LGTM images for use in code reviews and developer communications.
 - [blue-orange-yellow/scribe-crab](https://github.com/blue-orange-yellow/scribe-crab): Generates customizable documentation comments for Rust functions, enhancing code documentation workflows.
 - [sourcegraph/test-mcp](https://github.com/sourcegraph/test-mcp): Facilitates batch changes on Sourcegraph using Claude Desktop as the MCP client.
 - [sinedied/grumpydev-mcp](https://github.com/sinedied/grumpydev-mcp): A sarcastic code review tool that mimics a grumpy senior developer's perspective, providing humorous yet insightful feedback on code quality.
+- [cnitlrt/headless-ida-mcp-server](https://github.com/cnitlrt/headless-ida-mcp-server): Leverage IDA Pro's headless mode to analyze binaries and manage functions via an MCP server.
 - [wenkil/mcp_review_code_tool](https://github.com/wenkil/mcp_review_code_tool): A server tool for intelligent code review and analysis using OpenAI's capabilities, based on the Model Context Protocol.
 - [Rethunk-Tech/mcp-golang](https://github.com/Rethunk-Tech/mcp-golang): Provides Go language tools for LLMs to analyze, test, and format Go code.
 - [dwisiswant0/delve-mcp](https://github.com/dwisiswant0/delve-mcp): Integrates the Delve debugger with a TypeScript-based MCP server to provide comprehensive debugging capabilities for Go programs.
@@ -40,55 +54,49 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [sapientpants/deepsource-mcp-server](https://github.com/sapientpants/deepsource-mcp-server): Integrates DeepSource's code quality analysis with AI assistants via the Model Context Protocol, enabling retrieval of metrics, issues, and project quality insights.
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp): Facilitates reverse engineering in IDA Pro by providing a suite of tools for function analysis, metadata retrieval, and code manipulation.
 - [codacy/codacy-mcp-server](https://github.com/codacy/codacy-mcp-server): Codacy's MCP Server provides comprehensive tools for repository management, code quality analysis, and security assessments, integrating seamlessly with the Codacy API.
-- [fkesheh/code-context-mcp](https://github.com/fkesheh/code-context-mcp): Facilitates semantic search and code context retrieval from local git repositories using embeddings.
 - [taida957789/ida-mcp-server-plugin](https://github.com/taida957789/ida-mcp-server-plugin): Facilitates remote querying and control of IDA Pro for binary analysis via the MCP interface, enabling AI assistants to interact directly with the tool.
+- [fdrechsler/mcp-server-idapro](https://github.com/fdrechsler/mcp-server-idapro): Facilitates AI-driven reverse engineering and binary analysis by bridging AI assistants with IDA Pro.
 - [ToyB0x/ai-lint](https://github.com/ToyB0x/ai-lint): AI-Lint offers a comprehensive platform for controlling AI behavior across development ecosystems, integrating seamlessly with MCP servers to enforce custom rules and ensure consistency.
 - [crisschan/mcp-allure](https://github.com/crisschan/mcp-allure): Transforms Allure test reports into formats optimized for AI and LLM analysis, enhancing test result insights and debugging efficiency.
 - [sarathsp06/sourcesage](https://github.com/sarathsp06/sourcesage): SourceSage efficiently memorizes and retrieves codebase knowledge using a language-agnostic, token-efficient graph structure, leveraging LLM analysis.
 - [nicobailon/code-summarizer](https://github.com/nicobailon/code-summarizer): A command-line tool and MCP server that summarizes code files using Gemini Flash 2.0, with integration support for LLM tools like Claude Desktop and Cursor AI.
 - [ChrisRoyse/CodeGraph](https://github.com/ChrisRoyse/CodeGraph): CodeGraph Analyzer transforms codebases into Neo4j graph databases, enabling AI-driven insights and interactions across multi-language projects.
-- [sunfmin/mcp-go-debugger](https://github.com/sunfmin/mcp-go-debugger): A debugger interface for Go programs that integrates with MCP, offering features like launching, attaching, and stepping through code with Delve API support.
 - [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp): Facilitates binary analysis with radare2 through seamless integration with AI assistants like Claude.
 - [signal-slot/mcp-gdb](https://github.com/signal-slot/mcp-gdb): Facilitates GDB debugging sessions through MCP for seamless integration with AI assistants like Claude.
-- [crp1212/mcp-test-serve](https://github.com/crp1212/mcp-test-serve): A TypeScript-based MCP server implementing a simple notes system with features for creating and summarizing text notes.
 - [sapientpants/sonarqube-mcp-server](https://github.com/sapientpants/sonarqube-mcp-server): Integrates SonarQube's code quality analysis with AI assistants via the Model Context Protocol, enabling access to metrics, issues, and project quality insights.
 - [plapinski/PHPocalypse-MCP](https://github.com/plapinski/PHPocalypse-MCP): Facilitates automated testing and static analysis for PHP projects using MCP integration.
 - [apimatic/apimatic-validator-mcp](https://github.com/apimatic/apimatic-validator-mcp): Facilitates the validation of OpenAPI specifications using APIMatic's API through an MCP server.
-- [hyperdrive-eng/mcp-nodejs-debugger](https://github.com/hyperdrive-eng/mcp-nodejs-debugger): Facilitates real-time debugging of Node.js applications using MCP integration with Cursor and Claude Code.
 - [sujianqingfeng/mcp-codesign](https://github.com/sujianqingfeng/mcp-codesign): Facilitates communication between browser plugins and MCP servers for optimized image URL processing via WebSocket services.
 - [johnhuang316/code-index-mcp](https://github.com/johnhuang316/code-index-mcp): Facilitates code indexing, searching, and analysis for large language models across multiple programming languages.
+- [killerwolf/mcp-profiler-bundle](https://github.com/killerwolf/mcp-profiler-bundle): Enhance your Symfony development with the MCP Profiler Bundle, seamlessly integrating profiler data into your AI-powered IDE for efficient debugging and analysis.
 - [ZahidGalea/windtools-mcp](https://github.com/ZahidGalea/windtools-mcp): Facilitates semantic code search and repository indexing using ChromaDB and sentence transformers.
 - [alefcastelo/archai-static-analyzer-mcp](https://github.com/alefcastelo/archai-static-analyzer-mcp): A static analysis MCP server leveraging Bun for efficient JavaScript runtime execution.
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter): Enhances code analysis with tree-sitter, offering language-agnostic, structure-aware insights for intelligent codebase exploration.
 - [rtuin/mcp-mermaid-validator](https://github.com/rtuin/mcp-mermaid-validator): Facilitates the validation and rendering of Mermaid diagrams through a Model Context Protocol server, enabling seamless integration with LLMs.
-- [PARS-DOE/autodocument](https://github.com/PARS-DOE/autodocument): Automatically generates comprehensive documentation, test plans, and code reviews for code repositories using AI-powered analysis and the OpenRouter API.
 - [MarcusJellinghaus/mcp-code-checker](https://github.com/MarcusJellinghaus/mcp-code-checker): Facilitates AI-driven code quality checks using pylint and pytest, enhancing debugging workflows with smart LLM prompts.
-- [MxIris-Reverse-Engineering/ida-mcp-server](https://github.com/MxIris-Reverse-Engineering/ida-mcp-server): Facilitates interaction and automation with IDA databases using Large Language Models.
-- [DocNR/repo-analyzer-mcp](https://github.com/DocNR/repo-analyzer-mcp): Facilitates comprehensive analysis of code repositories with specialized tools for Nostr and NDK projects.
 - [yhzion/comment-stripper-mcp](https://github.com/yhzion/comment-stripper-mcp): Efficiently batch processes code files to remove comments across multiple languages, enhancing code maintenance and preparation.
-- [rokudone/codebase-rag-typescript](https://github.com/rokudone/codebase-rag-typescript): Facilitates retrieval-augmented generation for TypeScript codebases by analyzing and referencing code to answer natural language queries.
+- [rokudone/codebase-rag-ruby](https://github.com/rokudone/codebase-rag-ruby): Facilitates retrieval-augmented generation for Ruby codebases by analyzing code, building a vector database, and providing an MCP server interface for natural language queries.
 - [stedwick/codecov-mcp](https://github.com/stedwick/codecov-mcp): Enhance your code coverage analysis with a TypeScript-based server that integrates Codecov insights and test suggestions.
 - [mcollina/mcp-ripgrep](https://github.com/mcollina/mcp-ripgrep): Facilitates high-performance text searches across files using ripgrep through an MCP interface, compatible with clients like Claude AI.
-- [V0v1kkk/DotNetMetadataMcpServer](https://github.com/V0v1kkk/DotNetMetadataMcpServer): Facilitates AI coding agents in exploring .NET codebases by providing detailed type information through reflection.
+- [yura2100/sourcify-context-server](https://github.com/yura2100/sourcify-context-server): A TypeScript-based MCP server implementing a simple notes system with tools for note creation and summarization.
 - [MattMorgis/nuanced-mcp](https://github.com/MattMorgis/nuanced-mcp): Facilitates LLMs in understanding code structure by providing call graph analysis through the nuanced library.
+- [zxfgds/mcp-code-indexer](https://github.com/zxfgds/mcp-code-indexer): Enhances AI language models with efficient and precise codebase retrieval through semantic understanding and vectorized indexing.
 - [Szowesgad/mcp-server-semgrep](https://github.com/Szowesgad/mcp-server-semgrep): Integrates Semgrep with AI assistants for advanced code analysis and security vulnerability detection through a conversational interface.
 - [derrtaderr/inspecta](https://github.com/derrtaderr/inspecta): InspectorAI enhances web automation and analysis by integrating with MCP to autonomously verify website designs and diagnose errors.
 - [StepanProCoder/ClineTest](https://github.com/StepanProCoder/ClineTest): Facilitates efficient file searching within a filesystem using path fragments, providing detailed metadata for each result.
-- [zueai/frontend-review-mcp](https://github.com/zueai/frontend-review-mcp): Facilitates visual reviews of UI edits by comparing screenshots before and after changes, ensuring design requests are met.
 - [ggerve/coding-standards-mcp](https://github.com/ggerve/coding-standards-mcp): Facilitates access to standardized coding guidelines and best practices for Java, Python, and React through an MCP server.
-- [WillyBruhn/code-rag-server](https://github.com/WillyBruhn/code-rag-server): Facilitates semantic code search across repositories using Retrieval Augmented Generation, enhancing code discovery with natural language and code-based queries.
 - [punkpeye/file-edit-check-server](https://github.com/punkpeye/file-edit-check-server): Enforces pre-read checks and detailed commit documentation to prevent unauthorized file modifications.
 - [saiprashanths/code-analysis-mcp](https://github.com/saiprashanths/code-analysis-mcp): Facilitates natural language-driven codebase analysis, enabling AI models to explore and understand code structures and data flows.
-- [bilhasry-deriv/mcp-web-a11y](https://github.com/bilhasry-deriv/mcp-web-a11y): Provides web accessibility analysis using axe-core and Puppeteer, with features like color blindness simulation and detailed violation reporting.
 - [gokborayilmaz/code-reviewer-fixer-agent](https://github.com/gokborayilmaz/code-reviewer-fixer-agent): An AI agent that leverages GitHub and Sentry MCP servers to analyze code repositories, detect security vulnerabilities, and suggest fixes based on error logs.
 - [davidorex/git-file-forensics](https://github.com/davidorex/git-file-forensics): Provides detailed insights into git file histories and changes, focusing on individual file analysis using MCP tools.
-- [JustasMonkev/mcp-accessibility-scanner](https://github.com/JustasMonkev/mcp-accessibility-scanner): Automates web accessibility scans using Playwright and Axe-core, providing WCAG compliance checks and detailed reports.
 - [j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer): Enhances SQL query analysis and dialect conversion using SQLGlot for improved database management.
 - [that1guy15/tox-testing](https://github.com/that1guy15/tox-testing): Facilitates the execution and management of Python tests using tox commands through the Model Context Protocol.
+- [peterparker57/github-mcp-server](https://github.com/peterparker57/github-mcp-server): Facilitates seamless GitHub repository management and file operations through MCP tools.
+- [abhishekbhakat/mcp_server_code_assist](https://github.com/abhishekbhakat/mcp_server_code_assist): Facilitates code creation, modification, and deletion through a Model Context Protocol server using Large Language Models.
 - [PoliTwit1984/mcp-perplexity-server](https://github.com/PoliTwit1984/mcp-perplexity-server): Enhance your code analysis and debugging with Perplexity AI's API, seamlessly integrated with the Claude desktop client for intelligent error detection and solutions.
 - [seanivore/mcp-file-preview](https://github.com/seanivore/mcp-file-preview): Provides HTML file preview and analysis capabilities, capturing full-page screenshots and analyzing HTML structure.
-- [bartwisch/MCPRules](https://github.com/bartwisch/MCPRules): Manages and serves programming guidelines and rules, integrating with development tools to ensure consistent coding standards.
-- [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server): Fetches and verifies Clojars dependency versions, seamlessly integrating with Claude for enhanced dependency management.
 - [Sladey01/claude-github-snyk](https://github.com/Sladey01/claude-github-snyk): Integrates GitHub repository access with Snyk security scanning for enhanced vulnerability analysis.
 - [emiryasar/mcp_code_analyzer](https://github.com/emiryasar/mcp_code_analyzer): A comprehensive code analysis and management tool that integrates with Claude Desktop for natural language-driven code insights and modifications.
+- [dillip285/mcp-dev-server](https://github.com/dillip285/mcp-dev-server): Facilitates software development project management with comprehensive context awareness and code execution via Docker.
+- [y86/ex-mcp-test](https://github.com/y86/ex-mcp-test): An Elixir-based MCP server for testing and experimenting with the Model Context Protocol, featuring JSON-RPC 2.0 compliance and schema-driven validation.
 
