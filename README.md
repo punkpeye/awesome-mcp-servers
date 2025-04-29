@@ -77,6 +77,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📂 - [Browser Automation](#browser-automation)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
 * 👨‍💻 - [Code Execution](#code-execution)
+* 🧪 - [Code Testing](#code-testing)
 * 🤖 - [Coding Agents](#coding-agents)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
@@ -100,7 +101,6 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🎧 - [Support & Service Management](#support-and-service-management)
 * 🌎 - [Translation Services](#translation-services)
 * 🎧 - [Text-to-Speech](#text-to-speech)
-* 🧪 - [Testing Platforms](#testing-platforms)
 * 🚆 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
@@ -195,6 +195,12 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 
 - [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍🏠- Run Python code in a secure sandbox via MCP tool calls
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
+
+### 🧪 <a name="code-testing"></a>Code testing
+
+Services for test execution, management, debugging, and more.
+
+- [BrowserStack MCP](https://github.com/browserstack/mcp-server) 🎖️🤖☁️ – Unlock the full power of BrowserStack’s [Test Platform](https://www.browserstack.com/test-platform) through this MCP server, enabling seamless test automation and debugging via your favorite AI tools—making testing easier for developers and QA teams alike.
 
 ### 🤖 <a name="coding-agents"></a>Coding Agents
 
@@ -685,12 +691,6 @@ Translation tools and services to enable AI assistants to translate content betw
 Tools for converting text-to-speech and vice-versa
 
 - [Kokoro TTS MCP](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - MCP Server that uses the open weight Kokoro TTS models to convert text-to-speech. Can convert text to MP3 on a local driver or auto-upload to an S3 bucket.
-
-### 🧪 <a name="testing-platforms"></a>Testing Platforms
-
-Services for test execution, management, debugging and more.
-
-- [BrowserStack MCP](https://github.com/browserstack/mcp-server) 🎖️ 📇 ☁️ - BrowserStack MCP enables every developer and tester in your team, whether they are testing manually, starting their automation journey, or scaling test automation. 
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
