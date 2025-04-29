@@ -2,49 +2,80 @@
 
 Servers interacting with APIs for museums, media databases, image/video hosting, or creative content platforms.
 
-- [gandli/yanyue-mcp](https://github.com/gandli/yanyue-mcp): Fetches cigarette data from Yanyue with a search tool for cigarette information.
-- [iic-llm-solution/mcp-quanmiao-hotnews](https://github.com/iic-llm-solution/mcp-quanmiao-hotnews): Aggregates real-time hot news using Alibaba Cloud's Bailian API, offering both Node.js and Python implementations.
-- [prsantos-com/stereotype-this-mcp-server](https://github.com/prsantos-com/stereotype-this-mcp-server): Transform messages into humorous cultural stereotypes using predefined prompts for Canadian, British, American, and Australian cultures.
-- [luebken/playlist-mcp](https://github.com/luebken/playlist-mcp): Provides access to YouTube playlist transcripts via an experimental MCP server, with initial support for KubeCon London 2025 content.
-- [ZHANGYA0/mcp-server-iqiyi](https://github.com/ZHANGYA0/mcp-server-iqiyi): Facilitates access to iQiyi's latest and trending video APIs using the FastMCP framework.
-- [bads1de/GNews-MCP](https://github.com/bads1de/GNews-MCP): Integrates with the GNews API to provide access to global news articles across various categories and languages.
-- [8tako8tako8/sample_mcp_pokemon](https://github.com/8tako8tako8/sample_mcp_pokemon): Retrieve Pokémon data using a dedicated MCP server that interfaces with PokeAPI.
-- [Panth1823/formula1-mcp](https://github.com/Panth1823/formula1-mcp): Experience the excitement of Formula 1 with real-time and historical racing data through a TypeScript-based MCP server.
-- [ashukumar2001/xbeats-mcp](https://github.com/ashukumar2001/xbeats-mcp): Facilitates music track downloads through a Model Context Protocol server with customizable settings.
-- [attilad/bgg-mcp-server](https://github.com/attilad/bgg-mcp-server): Facilitates seamless integration with the BoardGameGeek API, enabling efficient retrieval and synchronization of board game data and user collections.
-- [jlgrimes/ptcg-mcp](https://github.com/jlgrimes/ptcg-mcp): Enables Claude to search and display Pokemon Trading Card Game cards with detailed filtering options.
+- [ourongxing/newsnow-mcp-server](https://github.com/ourongxing/newsnow-mcp-server): Facilitates access to over 40 news sources through a dedicated MCP server for NewsNow.
+- [trevhud/vibe-mcp](https://github.com/trevhud/vibe-mcp): Generates music based on coding context with support for multiple audio backends and seamless playback.
+- [eluc1a/mcp-news](https://github.com/eluc1a/mcp-news): Facilitates access to categorized news articles from a database, enabling clients to retrieve and summarize the latest content.
+- [Toos00/freepik-mcp-server](https://github.com/Toos00/freepik-mcp-server): Facilitates interaction with Freepik.com's API for image and vector searches using the Model Context Protocol.
+- [chatmcp/heybeauty-mcp](https://github.com/chatmcp/heybeauty-mcp): Facilitates virtual try-on experiences by leveraging HeyBeauty API to manage and execute try-on tasks with clothing resources.
+- [kokushin/exia-mcp](https://github.com/kokushin/exia-mcp): Generates and displays scenario files for the exia visual novel engine in the Kotoha Sisters explanation format.
+- [molmolkky/prompt-character-mcp-server](https://github.com/molmolkky/prompt-character-mcp-server): Facilitates the retrieval of iconic quotes from the character Ou Ki from the manga 'Kingdom' via an MCP server.
+- [enggpt-it/MCP-Server-Cybersecurity-News](https://github.com/enggpt-it/MCP-Server-Cybersecurity-News): Access the latest cybersecurity news from various websites with seamless Claude Desktop integration.
+- [NFTGo/mcp-nftgo-api](https://github.com/NFTGo/mcp-nftgo-api): Facilitates seamless interaction with the NFTGo Developer API, offering comprehensive NFT data and analytics for Ethereum-based assets.
+- [Lala-0x3f/mj-mcp](https://github.com/Lala-0x3f/mj-mcp): Facilitates image generation using Midjourney through an MCP server interface.
+- [JayArrowz/mcp-osrs](https://github.com/JayArrowz/mcp-osrs): Facilitates interaction with the Old School RuneScape Wiki API and game data files through a Model Context Protocol server.
+- [RohitMidha23/youtube-mcp](https://github.com/RohitMidha23/youtube-mcp): Facilitates LLMs in extracting and analyzing subtitles from YouTube videos for content processing.
+- [Otto-J/podcast-xyzrank-mcp](https://github.com/Otto-J/podcast-xyzrank-mcp): Facilitates podcast recommendations using MCP to access curated podcast rankings.
+- [miyamo2/hotpepper-gourmet-mcp-server](https://github.com/miyamo2/hotpepper-gourmet-mcp-server): Facilitates gourmet search and area-based queries using the Hot Pepper Gourmet API.
+- [Antipas/4oimage-mcp](https://github.com/Antipas/4oimage-mcp): Integrates with 4o-image API to enable AI-driven image generation and editing through text prompts.
+- [sunqirui1987/ae-mcp](https://github.com/sunqirui1987/ae-mcp): Enables AI assistants to control Adobe After Effects through a standardized MCP interface, offering extensive functionality for compositions, layers, and effects.
+- [lieyanqzu/ygocdb-mcp](https://github.com/lieyanqzu/ygocdb-mcp): Facilitates interaction with the YGO Chinese card database API, offering tools for card information retrieval and image access.
+- [dbeltra/scryfall-mcp](https://github.com/dbeltra/scryfall-mcp): Interfaces with the Scryfall API to fetch and display detailed Magic: The Gathering card data.
+- [Kota8102/aws-weekly-news-mcp](https://github.com/Kota8102/aws-weekly-news-mcp): Facilitates access to Japanese 'Weekly AWS' blog articles through a dedicated MCP server.
+- [x0x0b/mcp-nicovideo-snapshot-search](https://github.com/x0x0b/mcp-nicovideo-snapshot-search): Facilitates video searches on Nicovideo using the Snapshot Search API.
+- [nvsofts/jlcpcb-parts-mcp](https://github.com/nvsofts/jlcpcb-parts-mcp): Facilitates component search for JLCPCB PCBA using a dedicated MCP server.
+- [Ukenn2112/BangumiMCP](https://github.com/Ukenn2112/BangumiMCP): Facilitates interaction with BangumiTV's API for accessing anime, manga, music, and game data.
+- [falahgs/gemini-vision-art-studio](https://github.com/falahgs/gemini-vision-art-studio): Gemini Vision Art Studio harnesses Google's Gemini AI to generate 3D cartoons and transform images with artistic flair.
+- [0010aor/mcp-mtg-assistant](https://github.com/0010aor/mcp-mtg-assistant): Fetches Magic: The Gathering card details using the Scryfall API, aiding in rules queries and card information retrieval.
+- [cmathgit/biblegateway-votd-mcp](https://github.com/cmathgit/biblegateway-votd-mcp): Access the BibleGateway Verse of the Day in multiple languages and versions without requiring an API key.
+- [Tok/SuperColliderMCP](https://github.com/Tok/SuperColliderMCP): Facilitates AI-driven audio synthesis and processing in SuperCollider via OSC messages, enabling dynamic sound generation and integration with AI development environments.
+- [raj-mehra/figma-mcp](https://github.com/raj-mehra/figma-mcp): Facilitates interaction with Figma design files by extracting design tokens and components for integration with Cursor IDE.
+- [opensourcedev90s/uk-science-museum-group-mcp](https://github.com/opensourcedev90s/uk-science-museum-group-mcp): Facilitates data retrieval from the UK Science Museum Group API for LLMs via a Python-based MCP server.
+- [AnshulDalua/illustrator-mcp](https://github.com/AnshulDalua/illustrator-mcp): Facilitates script execution in Adobe Illustrator via MCP, leveraging JavaScript and AppleScript on MacOS.
+- [hugeicons/mcp-server](https://github.com/hugeicons/mcp-server): Facilitates seamless integration of Hugeicons across various platforms by providing tools, resources, and platform-specific guides for AI assistants.
 - [akshay23/spurs-blog-mcp-server](https://github.com/akshay23/spurs-blog-mcp-server): Connects to the Pounding The Rock RSS feed to provide AI assistants with the latest San Antonio Spurs game results and blog posts.
-- [djbriane/plex-mcp](https://github.com/djbriane/plex-mcp): Integrates with Plex Media Server API to manage movies and playlists using a Python-based MCP server.
-- [PTNA/mcp-ptna-news](https://github.com/PTNA/mcp-ptna-news): Facilitates access to the latest news from the All Japan Piano Teachers Association with category filtering capabilities.
-- [Aryan-Jhaveri/mcp-brockevents](https://github.com/Aryan-Jhaveri/mcp-brockevents): Facilitates seamless access to Brock University events through AI integration, enabling users to discover, filter, and explore campus happenings effortlessly.
+- [sinsunsan/blender-bonsai-bim-mcp](https://github.com/sinsunsan/blender-bonsai-bim-mcp): Facilitates interaction between Claude AI and Blender for BIM element creation and floor plan generation using natural language commands.
+- [recordlydata/yle-news-mcp](https://github.com/recordlydata/yle-news-mcp): Fetches and organizes news from Yle RSS feeds, supporting multiple topics and easy integration with Claude Desktop.
 - [krVatsal/illustrator-mcp](https://github.com/krVatsal/illustrator-mcp): Facilitates the creation of vector graphics in Adobe Illustrator using natural language prompts via a local MCP server.
 - [Bai-ee/Figma_Plugin](https://github.com/Bai-ee/Figma_Plugin): Facilitates seamless communication between Cursor AI and Figma for programmatic design modifications.
 - [DanWahlin/dc-comics-mcp](https://github.com/DanWahlin/dc-comics-mcp): Facilitates interaction with DC Comics data via the Comic Vine API, enabling users to explore characters, issues, and movies through a Model Context Protocol server.
-- [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp): Access Dutch WWII archives through AI-powered natural language queries using the Oorlogsbronnen MCP server.
-- [redblock-ai/imgflip-mcp](https://github.com/redblock-ai/imgflip-mcp): Facilitates meme creation and sharing for AI assistants using the Imgflip API.
-- [berlinbra/news-api-mcp](https://github.com/berlinbra/news-api-mcp): Access global news articles with advanced filtering and headline retrieval through a standardized MCP interface.
+- [barry166/figma-to-cursor](https://github.com/barry166/figma-to-cursor): Transforms Figma designs into executable code using MCP integration for seamless development workflows.
+- [MathFrenchToast/mcp-draw](https://github.com/MathFrenchToast/mcp-draw): Facilitates interaction between a drawing application and an MCP server using a REST interface for canvas operations.
+- [uzaysozen/imdb-mcp-server](https://github.com/uzaysozen/imdb-mcp-server): Access IMDb movie and TV show data through a Python MCP server using the IMDb API.
+- [DanWahlin/marvel-mcp](https://github.com/DanWahlin/marvel-mcp): Enables interaction with Marvel's API to fetch data on characters and comics, demonstrating MCP server capabilities.
+- [ScuffedEpoch/TINS-MCP](https://github.com/ScuffedEpoch/TINS-MCP): A Model Context Protocol server that generates software applications from README.md files using the Zero Source specification, enabling code generation on demand through LLMs.
 - [Yerdna1/MCP_figma](https://github.com/Yerdna1/MCP_figma): Facilitates AI coding agents in accessing Figma files and prototypes through a Python-based MCP server.
-- [a2xdeveloper/tagesschau-mcp-server](https://github.com/a2xdeveloper/tagesschau-mcp-server): Access the latest news articles and details from tagesschau.de through this MCP server.
+- [roy2an/figma-mcp-server](https://github.com/roy2an/figma-mcp-server): Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.
+- [wesleydean/claude-figma-mcp](https://github.com/wesleydean/claude-figma-mcp): Facilitates design creation and manipulation in Figma through Claude using both plugin and API approaches.
+- [sundai-club/error-meme](https://github.com/sundai-club/error-meme): Enhance your debugging experience with automatic meme generation for error messages in Cursor IDE using MCP.
 - [triptych/opera-omnia-mcp](https://github.com/triptych/opera-omnia-mcp): Opera Omnia MCP server offers seamless access to a vast library of JSON datasets for creative content generation in games, storytelling, and bot development.
 - [iuill/mcp_grareco](https://github.com/iuill/mcp_grareco): Transforms any URL or text into a graphic recording format using MCP protocol.
 - [callmeartan/Figma-Cursor-MCP](https://github.com/callmeartan/Figma-Cursor-MCP): Facilitates AI-driven design in Figma through natural language commands, enabling seamless interaction between Cursor AI and Figma for enhanced design workflows.
-- [2132660698/blender_mcp_new](https://github.com/2132660698/blender_mcp_new): Integrates Model Context Protocol with Blender, enabling AI models to directly perform 3D modeling and rendering tasks.
+- [1yhy/Figma-Context-MCP](https://github.com/1yhy/Figma-Context-MCP): Facilitates seamless integration of Figma design files with AI coding tools by converting design data into AI-friendly formats.
+- [SlideSpeak/slidespeak-mcp](https://github.com/SlideSpeak/slidespeak-mcp): Facilitates the creation of presentations through the Slidespeak API using an MCP server.
 - [dhkts1/sequentialStory](https://github.com/dhkts1/sequentialStory): Leverage narrative and sequential thinking techniques to structure complex problems using a Model Context Protocol server.
-- [vishalsachdev/eventbrite-mcp](https://github.com/vishalsachdev/eventbrite-mcp): Integrates with the Eventbrite API to facilitate AI-assisted event management, reporting, and analytics.
-- [baranwang/mcp-trends-hub](https://github.com/baranwang/mcp-trends-hub): A comprehensive service aggregating trending topics across the web, fully compatible with MCP for seamless AI application integration.
+- [ngoctuan776/Figma-MCP](https://github.com/ngoctuan776/Figma-MCP): Facilitates AI-powered coding tools to access and utilize Figma design data for enhanced design implementation accuracy.
+- [BearNetwork-BRNKC/SketchUp-MCP](https://github.com/BearNetwork-BRNKC/SketchUp-MCP): Integrates SketchUp with Claude AI for interactive 3D modeling and scene manipulation via a model context protocol.
+- [thirdstrandstudio/mcp-figma](https://github.com/thirdstrandstudio/mcp-figma): Facilitates seamless interaction with Figma's API, offering comprehensive access to user, file, comment, team, project, component, style, webhook, and library analytics methods.
+- [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp): Interface with the AniList API to access and interact with anime, manga, and user data through a Model Context Protocol server.
 - [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw): Facilitates LLMs to interact with Excalidraw diagrams through a robust API for creating, modifying, and managing drawing elements.
+- [Zeeshanunique/figma_plugin](https://github.com/Zeeshanunique/figma_plugin): A development-focused MCP server for Cursor IDE, offering file operations, an interactive CLI, and REST API endpoints.
 - [Tomatio13/graphic-recording-mcp](https://github.com/Tomatio13/graphic-recording-mcp): Transforms Markdown text into graphic recording-style HTML using a specialized prompt.
+- [sherizan/mcp-genui-figma](https://github.com/sherizan/mcp-genui-figma): Integrates with Figma to enable AI assistants to access, analyze, and generate code from design files.
 - [ttiimmaacc/cinema4d-mcp](https://github.com/ttiimmaacc/cinema4d-mcp): Integrates Claude AI with Cinema 4D for prompt-driven 3D modeling and scene manipulation through an MCP server.
 - [mhyrr/sketchup-mcp](https://github.com/mhyrr/sketchup-mcp): Integrates Sketchup with Claude AI for interactive 3D modeling and scene manipulation via the Model Context Protocol.
-- [ShiXiangYu1/Figma-Context-MCP](https://github.com/ShiXiangYu1/Figma-Context-MCP): Facilitates AI-powered coding tools to access and utilize Figma design data for enhanced design implementation accuracy.
 - [JayZeeDesign/figma-mcp](https://github.com/JayZeeDesign/figma-mcp): Facilitates AI coding agents' direct access to Figma files and prototypes through a Python-based MCP server.
+- [tayler-id/comic-panel-description-generator](https://github.com/tayler-id/comic-panel-description-generator): AI-powered tool that transforms comic sketches into detailed textual descriptions, featuring Claude integration via an MCP server.
 - [jaokuohsuan/draw-things-mcp-cursor](https://github.com/jaokuohsuan/draw-things-mcp-cursor): Integrates Draw Things API with Cursor for image generation using Model Context Protocol.
-- [liuwei1025/primer-icons](https://github.com/liuwei1025/primer-icons): Facilitates the search and integration of GitHub Primer Icons directly within Cline using MCP.
-- [piplabs/story-mcp-hub](https://github.com/piplabs/story-mcp-hub): Facilitates AI agent interactions with Story Protocol's ecosystem through blockchain data queries and SDK interactions.
-- [ArchimedesCrypto/figma-mcp-chunked](https://github.com/ArchimedesCrypto/figma-mcp-chunked): Interact with the Figma API using a memory-efficient MCP server that supports chunking and pagination for handling large files.
-- [OSpoon/chinese-holidays](https://github.com/OSpoon/chinese-holidays): Provides tools to query and manage information about Chinese holidays.
+- [gamelifezhao/mcp-figma](https://github.com/gamelifezhao/mcp-figma): Facilitates AI-driven interactions with Figma by leveraging the Model Context Protocol to access user data, files, components, annotations, styles, and version history.
+- [BrockReece/whimsical-mcp-server](https://github.com/BrockReece/whimsical-mcp-server): Facilitates the creation of Whimsical diagrams from Mermaid markup using an LLM context.
+- [nickbaumann98/everart-forge-mcp](https://github.com/nickbaumann98/everart-forge-mcp): Integrates with EverArt's AI models to generate vector and raster images with flexible storage and format conversion capabilities.
+- [fred-em/headline-vibes](https://github.com/fred-em/headline-vibes): Analyze sentiment in news headlines from major US publications with date-based and natural language parsing capabilities.
+- [smithery-ai/dRiNk-ThE-kOoLaId](https://github.com/smithery-ai/dRiNk-ThE-kOoLaId): Deepseek R1 offers untamed browser automation with real-time AI-driven computer vision, transforming the digital landscape.
+- [glassBead-tc/audius-mcp-atris](https://github.com/glassBead-tc/audius-mcp-atris): Atris MCP server enables seamless interaction with the Audius music platform, offering tools for music discovery, content creation, social engagement, and monetization through LLMs.
 - [baranwang/mcp-tung-shing](https://github.com/baranwang/mcp-tung-shing): Provides a service for calculating the Chinese traditional almanac, offering features like Gregorian-Lunar calendar conversion and daily auspicious activities.
+- [FishWoWater/trellis_blender](https://github.com/FishWoWater/trellis_blender): Integrates TRELLIS's advanced 3D generation capabilities into Blender with MCP server support for seamless communication with tools like Cursor and Windsurf.
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp): Facilitates AI-driven exploration and analysis of the Rijksmuseum's art collection through natural language interactions.
-- [spencerhhubert/illustrator-mcp-server](https://github.com/spencerhhubert/illustrator-mcp-server): Facilitates script execution on Adobe Illustrator via an MCP server, leveraging JavaScript and AppleScript for MacOS compatibility.
+- [MediaPublishing/mcp-manager](https://github.com/MediaPublishing/mcp-manager): A user-friendly web-based GUI for managing and configuring MCP servers in Claude and Cursor environments.
 - [angheljf/nyt](https://github.com/angheljf/nyt): A TypeScript-based server enabling keyword-based searches for New York Times articles from the past 30 days.
+- [carllapierre/spotify-mcp](https://github.com/carllapierre/spotify-mcp): A TypeScript-based server enabling Spotify playlist creation and song search via the Model Context Protocol.
 

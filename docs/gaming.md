@@ -2,11 +2,35 @@
 
 Servers interacting with game engines, game platforms/APIs, or providing game-related tools.
 
+- [sedyh/ebitengine-mcp](https://github.com/sedyh/ebitengine-mcp): Facilitates the integration of Ebitengine games with MCP servers for enhanced game control and management.
+- [ecovacs-ai/ecovacs-mcp](https://github.com/ecovacs-ai/ecovacs-mcp): Ecovacs MCP Server enables seamless integration of cleaning robot services into large models, facilitating device management and control operations like cleaning and recharging.
+- [ChadAragorn/defold-mcp](https://github.com/ChadAragorn/defold-mcp): An open-source MCP server that integrates the Defold game engine with modern developer tools and AI workflows, enabling automation and real-time project management.
+- [stefan-xyz/mcp-server-runescape](https://github.com/stefan-xyz/mcp-server-runescape): Facilitates interaction with RuneScape data, offering tools for retrieving item prices, player hiscores, and more.
+- [SilverHi/ddnet-mcpserver](https://github.com/SilverHi/ddnet-mcpserver): Facilitates DDNet game process management and configuration file operations via a FastMCP-based server.
+- [mario-andreschak/mcp-gameboy](https://github.com/mario-andreschak/mcp-gameboy): Facilitates LLM interaction with a GameBoy emulator, enabling ROM loading and control via a web interface or MCP client.
+- [Takashi-Matsumura/mcp-janken-server](https://github.com/Takashi-Matsumura/mcp-janken-server): Engage in a game of rock-paper-scissors with an MCP server that allows LLMs to play and retrieve random moves.
+- [jimmcq/Lemonade-Stand-MCP-Server](https://github.com/jimmcq/Lemonade-Stand-MCP-Server): Engage with the classic Lemonade Stand game through Claude Desktop using a Model Context Protocol server that simulates business dynamics and strategic decision-making.
+- [u1f992/mcp-gamecube-bridge](https://github.com/u1f992/mcp-gamecube-bridge): Facilitates Nintendo GameCube operations for clients through an MCP bridge.
+- [matthijn/mcp-chess-poc](https://github.com/matthijn/mcp-chess-poc): Engage in a chess match against an LLM using a GUI interface powered by MCP.
+- [thirionlogan/Aurora-4X-MCP](https://github.com/thirionlogan/Aurora-4X-MCP): Facilitates integration with the Aurora 4X game by providing a Model Context Protocol server for managing game data and interactions.
+- [ChrisMethsillo/ReyxGPT](https://github.com/ChrisMethsillo/ReyxGPT): ReyxGPT enables seamless management of Minecraft servers through the Model Context Protocol, facilitating command execution and status monitoring via RCON.
+- [Jeremy-Min-Yang/minecraft-mcp-server-pixel](https://github.com/Jeremy-Min-Yang/minecraft-mcp-server-pixel): Enables AI-driven control of a Minecraft bot using the Mineflayer API for automated building and exploration.
 - [v9rt3x/cs2-rcon-mcp](https://github.com/v9rt3x/cs2-rcon-mcp): Facilitates remote management and monitoring of Counter-Strike 2 servers using RCON commands through a Model Context Protocol interface.
 - [passontw/slotdemo](https://github.com/passontw/slotdemo): A modern slot machine game built with native JavaScript, CSS animations, and Tailwind CSS, offering a smooth and interactive gaming experience.
-- [zerubeus/moog-sub37-mcp](https://github.com/zerubeus/moog-sub37-mcp): Facilitates AI-assisted sound design and parameter control of the Moog Sub37/Subsequent37 synthesizer via MIDI.
+- [henryco23/NBA](https://github.com/henryco23/NBA): A Python server utilizing MCP to provide comprehensive access to NBA statistics and live game data through the NBA API.
+- [yeonupark/mcp-soccer-data](https://github.com/yeonupark/mcp-soccer-data): Delivers real-time football match data through natural language interactions using the SoccerDataAPI.
+- [andrzejsliwa/6510emu_in_c](https://github.com/andrzejsliwa/6510emu_in_c): A modern C implementation of a 6510/6502 CPU emulator with disassembly support, used in the Commodore 64.
+- [8tako8tako8/sample_mcp_pokemon](https://github.com/8tako8tako8/sample_mcp_pokemon): Retrieve Pokémon data using a dedicated MCP server that interfaces with PokeAPI.
+- [h0rv/d2-mcp](https://github.com/h0rv/d2-mcp): Facilitates the integration of D2 diagram creation and validation into development workflows, offering syntax validation and rendering capabilities.
+- [kyopark2014/mcp-bedrock-agent](https://github.com/kyopark2014/mcp-bedrock-agent): Facilitates the use of Amazon's Bedrock agent with MCP for seamless access to tools and resources in generative AI applications.
+- [Panth1823/formula1-mcp](https://github.com/Panth1823/formula1-mcp): Experience the excitement of Formula 1 with real-time and historical racing data through a TypeScript-based MCP server.
+- [hahanikan/pocket-cavalry](https://github.com/hahanikan/pocket-cavalry): Facilitates AI-driven management of Gitee repositories, issues, and pull requests through a Model Context Protocol server.
+- [attilad/bgg-mcp-server](https://github.com/attilad/bgg-mcp-server): Facilitates seamless integration with the BoardGameGeek API, enabling efficient retrieval and synchronization of board game data and user collections.
+- [jlgrimes/ptcg-mcp](https://github.com/jlgrimes/ptcg-mcp): Enables Claude to search and display Pokemon Trading Card Game cards with detailed filtering options.
 - [xhulz/mcp-game-helper](https://github.com/xhulz/mcp-game-helper): AI-powered tools for game developers to optimize combat balancing, skill analysis, and level pacing.
-- [sinsunsan/blender-bonsai-bim-mcp](https://github.com/sinsunsan/blender-bonsai-bim-mcp): Facilitates interaction between Claude AI and Blender for BIM element creation and floor plan generation using natural language commands.
+- [appleweed/UnrealMCPBridge](https://github.com/appleweed/UnrealMCPBridge): Facilitates access to the Unreal Engine Python API for MCP clients, enabling dynamic tool development and automation within the UE environment.
+- [wangyafu/haiguitangmcp](https://github.com/wangyafu/haiguitangmcp): Facilitates solo play of the Turtlesoup game by having a large language model act as the game host.
+- [kdqed/zaturn](https://github.com/kdqed/zaturn): Zaturn is an AI-powered data analytics and business intelligence tool that connects to various data sources, executes SQL queries, and provides insightful visualizations, all integrated as an MCP server.
 - [weekitmo/mcp_godot_rag](https://github.com/weekitmo/mcp_godot_rag): Facilitates access to Godot documentation for the Godot RAG model through an MCP server.
 - [indroneelray/pokemon-mcp-server](https://github.com/indroneelray/pokemon-mcp-server): Fetch Pokémon data using a Model Context Protocol server integrated with the official PokéAPI.
 - [jessiqa1118/factorio-mcp](https://github.com/jessiqa1118/factorio-mcp): Facilitates querying the state of a Factorio game server using the Model Context Protocol, enabling retrieval of server status, player lists, and in-game time.
@@ -15,42 +39,43 @@ Servers interacting with game engines, game platforms/APIs, or providing game-re
 - [th3w1zard1/mcp-panda3d](https://github.com/th3w1zard1/mcp-panda3d): Facilitates seamless integration of Claude with Panda3D documentation by enabling efficient search and retrieval through a Model Context Protocol server.
 - [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server): Provides AFL data from the Squiggle API, enabling retrieval of game results, standings, and team information.
 - [Saunved/mcp-server-clash-of-clans](https://github.com/Saunved/mcp-server-clash-of-clans): Enhance your Clash of Clans gameplay with advanced analytics and insights through this MCP server.
+- [L3-N0X/Minecraft-Wiki-MCP](https://github.com/L3-N0X/Minecraft-Wiki-MCP): Facilitates browsing and searching the official Minecraft Wiki with multi-language support and detailed page navigation.
+- [ConAcademy/buttplug-mcp](https://github.com/ConAcademy/buttplug-mcp): Facilitates interaction with Buttplug.io devices using the Model Context Protocol, enabling LLMs to query and control connected devices.
 - [akiojin/playfab-mcp-server](https://github.com/akiojin/playfab-mcp-server): Middleware server enabling AI models to interact with PlayFab services for item search, player profile lookups, and inventory management.
+- [wilsonchenghy/ShaderToy-MCP](https://github.com/wilsonchenghy/ShaderToy-MCP): Connects LLMs with ShaderToy to generate complex GLSL shaders by leveraging the Model Context Protocol.
+- [ErgodicLabs/TwoTruthsAndATwist](https://github.com/ErgodicLabs/TwoTruthsAndATwist): Engage in a trivia game where AI models generate rounds of two truths and a twist, leveraging the MCP protocol for interactive gameplay.
 - [johnnyinlee/lol-client-mcp](https://github.com/johnnyinlee/lol-client-mcp): Access real-time League of Legends client data using a FastMCP server integrated with the Live Client Data API.
-- [asingh228/AbletonMCP-Cursor](https://github.com/asingh228/AbletonMCP-Cursor): Facilitates natural language-driven music composition in Ableton Live through a socket-based API, leveraging MCP-compatible Python commands generated from user prompts.
-- [DanWahlin/marvel-mcp](https://github.com/DanWahlin/marvel-mcp): Enables interaction with Marvel's API to fetch data on characters and comics, demonstrating MCP server capabilities.
+- [GeLi2001/tft-mcp-server](https://github.com/GeLi2001/tft-mcp-server): Access Team Fight Tactics game data, including match history and detailed match information, through a Model Context Protocol server.
+- [WesleyMFrederick/rocket-countdown-mcp-server](https://github.com/WesleyMFrederick/rocket-countdown-mcp-server): Facilitates a rocket countdown timer with start, stop, and reset functionalities, culminating in a 'BLAST OFF!' announcement.
 - [pab1it0/chess-mcp](https://github.com/pab1it0/chess-mcp): Facilitates AI-driven analysis of Chess.com data through standardized MCP interfaces, enabling seamless access to player profiles, game records, and club information.
 - [largeorbitalobject/mcss-mcp-server](https://github.com/largeorbitalobject/mcss-mcp-server): Facilitates seamless control and management of Minecraft servers through the MCSS API, enabling server actions, backups, and task scheduling via MCP clients like Claude Desktop.
 - [Mgomez-01/mcpoke-server](https://github.com/Mgomez-01/mcpoke-server): Connects to the Pokémon API to provide comprehensive Pokémon information for AI assistants like Claude.
-- [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp): Facilitates AI-driven control of Unreal Engine through natural language commands using the Model Context Protocol.
 - [wai-imyen/tamagotchi-mcp-server](https://github.com/wai-imyen/tamagotchi-mcp-server): Simulates a Tamagotchi game using a simple MCP server implementation.
 - [ritza-co/racing-lap-counter-typescript](https://github.com/ritza-co/racing-lap-counter-typescript): A TypeScript SDK that provides a developer-friendly interface for managing racing drivers and their lap times, with MCP server capabilities for AI tool integration.
 - [freshlife001/mcp_poker](https://github.com/freshlife001/mcp_poker): Facilitates Texas Holdem poker games for MCP client agents using Node.js and TypeScript.
-- [Tokeii0/ctf-mcp-server](https://github.com/Tokeii0/ctf-mcp-server): Facilitates AI-driven CTF problem-solving and creation through specialized MCP servers.
+- [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp): Access comprehensive professional cycling data from FirstCycling, including rider performance, race results, and historical insights.
 - [Dokujaa/Godot-MCP](https://github.com/Dokujaa/Godot-MCP): Facilitates modular communication between external processes and the Godot engine using Claude integration.
-- [grandmastr/chronos-mcp](https://github.com/grandmastr/chronos-mcp): Chronos empowers AI assistants with on-chain tools for seamless interactions with the Stellar blockchain, offering wallet connectivity, token management, and fund transfers.
 - [manjutabetai/mcp-dice](https://github.com/manjutabetai/mcp-dice): A TypeScript-based MCP server implementing a simple notes system with tools for note creation and summarization.
 - [VR-Jobs/UnityMCPbeta](https://github.com/VR-Jobs/UnityMCPbeta): Facilitates seamless communication between Unity and large language models using the Model Context Protocol, enabling automation and programmatic control of Unity workflows.
 - [dunward/unity-mcp-visualscripting](https://github.com/dunward/unity-mcp-visualscripting): Demonstrates interaction between a TypeScript-based MCP server and Unity for visual scripting.
+- [MushroomFleet/UNO-MCP](https://github.com/MushroomFleet/UNO-MCP): Enhances narrative content by analyzing and transforming text using advanced literary techniques, integrated as an MCP server for creative writing tools.
 - [dend/halo-infinite-mcp](https://github.com/dend/halo-infinite-mcp): Connects users to Halo Infinite data through a local MCP server, enabling access to player stats, match history, and customization options.
+- [2132660698/blender_mcp_new](https://github.com/2132660698/blender_mcp_new): Integrates Model Context Protocol with Blender, enabling AI models to directly perform 3D modeling and rendering tasks.
+- [rakeshgangwar/f1-mcp-server](https://github.com/rakeshgangwar/f1-mcp-server): Access comprehensive Formula One data and statistics through a Model Context Protocol server using the FastF1 library.
 - [dunward/unity-mcp-template](https://github.com/dunward/unity-mcp-template): Facilitates interaction between a TypeScript-based MCP server and Unity for tool development and expansion.
-- [AIGODLIKE/GenesisCore](https://github.com/AIGODLIKE/GenesisCore): GenesisCore seamlessly integrates multiple LLM providers into Blender, offering a modular automation addon with built-in MCP client capabilities.
 - [AlexKissiJr/unreal-mcp-server](https://github.com/AlexKissiJr/unreal-mcp-server): Facilitates GitHub API interactions with advanced file operations, repository management, and search capabilities.
 - [yuniko-software/minecraft-mcp-server](https://github.com/yuniko-software/minecraft-mcp-server): A Minecraft bot leveraging the Mineflayer API and MCP to enable AI-driven real-time control of a Minecraft character for building, exploring, and interacting with the game environment.
 - [tonypan2/minesweeper-mcp-server](https://github.com/tonypan2/minesweeper-mcp-server): Facilitates MCP client agents to engage in a game of Minesweeper, integrating with a dedicated game server.
 - [fenxer/steam-review-mcp](https://github.com/fenxer/steam-review-mcp): Facilitates LLMs in accessing and analyzing Steam game reviews and information via MCP.
-- [obinopaul/soccer-mcp-server](https://github.com/obinopaul/soccer-mcp-server): Access comprehensive football statistics and live match data through a Python MCP server utilizing the API-Football service.
-- [obinopaul/nba-mcp-server](https://github.com/obinopaul/nba-mcp-server): A Python-based MCP server providing real-time and historical NBA statistics and game data through the NBA API.
 - [Purisky/MCP4Unity](https://github.com/Purisky/MCP4Unity): MCP4Unity is a Unity editor extension enabling remote invocation of Unity methods via HTTP requests, facilitating dynamic tool management and execution.
+- [baryhuang/mcp-threejs](https://github.com/baryhuang/mcp-threejs): Facilitates AI-driven searches for downloadable 3D models compatible with Three.js, streamlining the development of 3D web applications.
+- [tahooki/unreal-blender-mcp](https://github.com/tahooki/unreal-blender-mcp): Facilitates AI-driven control of Blender and Unreal Engine through a unified MCP server, enabling seamless integration and interaction with AI agents like Claude and ChatGPT.
 - [quazaai/UnityMCPIntegration](https://github.com/quazaai/UnityMCPIntegration): Integrates AI agents with Unity projects, enabling real-time interaction and control through the Unity Editor using the MCP protocol.
 - [Krekun/vrchat-mcp-osc](https://github.com/Krekun/vrchat-mcp-osc): Facilitates AI-driven avatar control and interactions in VRChat using the Model Context Protocol.
 - [nacal/mcp-minecraft-remote](https://github.com/nacal/mcp-minecraft-remote): Facilitates remote control of Minecraft servers through AI-driven commands, enabling players to navigate, interact, and manage their Minecraft world seamlessly.
 - [MubarakHAlketbi/game-asset-mcp](https://github.com/MubarakHAlketbi/game-asset-mcp): Generate 2D and 3D game assets from text prompts using Hugging Face AI models, integrated with MCP for seamless interaction.
-- [aughey/threed_ai_viewer](https://github.com/aughey/threed_ai_viewer): Integrate AI agents with a 3D scene using a Model Context Protocol server for real-time interaction and control.
-- [zaptrem/music-mcp](https://github.com/zaptrem/music-mcp): Facilitates music generation through text prompts using Sonauto's API, integrated with Claude Desktop.
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp): Access and interact with Fantasy Premier League data using a Model Context Protocol server, compatible with Claude for Desktop and other MCP clients.
 - [runeape-sats/unreal-mcp](https://github.com/runeape-sats/unreal-mcp): Facilitates interaction between Claude Desktop and Unreal Engine 5.3, enabling text-based creation and manipulation of 3D objects.
-- [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp): Facilitates structured interaction with the VRChat API, enabling user authentication, data retrieval, and more through a standardized protocol.
 - [procload/dnd-mcp](https://github.com/procload/dnd-mcp): Connects AI assistants to Dungeons & Dragons 5e game data using the Model Context Protocol.
 - [Artmann/unity-mcp](https://github.com/Artmann/unity-mcp): Facilitates integration between Claude and Unity projects, enabling project management and access through the Model Context Protocol.
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity): Integrates Unity Editor with AI model clients, enabling seamless interaction and execution of operations within Unity projects.
@@ -61,8 +86,7 @@ Servers interacting with game engines, game platforms/APIs, or providing game-re
 - [8bitsats/Wonderland-Agentic-MCP](https://github.com/8bitsats/Wonderland-Agentic-MCP): Leverage Anthropic's MCP to build an AI agent for trading tokens on the Solana blockchain, integrating real-time market data and risk assessments.
 - [Pratik-Kumar-Cse/avatar-clone-mcp](https://github.com/Pratik-Kumar-Cse/avatar-clone-mcp): Facilitates avatar cloning on various platforms with note storage and summarization capabilities.
 - [castielLi/gamingTest](https://github.com/castielLi/gamingTest): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
-- [unievo/xpilot-mcp-library](https://github.com/unievo/xpilot-mcp-library): A library providing MCP server implementations for xPilot, facilitating context provision and tool integration for LLMs.
-- [gamelifezhao/mcp-figma](https://github.com/gamelifezhao/mcp-figma): Facilitates AI-driven interactions with Figma by leveraging the Model Context Protocol to access user data, files, components, annotations, styles, and version history.
+- [Props-Labs/fireflies-mcp](https://github.com/Props-Labs/fireflies-mcp): Facilitates transcript retrieval, search, and summary generation via the Fireflies.ai API.
 - [exi/mcp-steam](https://github.com/exi/mcp-steam): Facilitates integration with Steam using MCP server capabilities for seamless interaction with the Steam platform.
 - [asusevski/opendota-mcp-server](https://github.com/asusevski/opendota-mcp-server): Facilitates real-time access to Dota 2 statistics and player data via the OpenDota API for LLMs and AI assistants.
 - [ee0pdt/Godot-MCP](https://github.com/ee0pdt/Godot-MCP): Integrate AI assistants with Godot Engine to enhance game development through code assistance, scene manipulation, and project management.
@@ -70,15 +94,16 @@ Servers interacting with game engines, game platforms/APIs, or providing game-re
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp): Facilitates AI-driven interactions with the Godot game engine, enabling project execution, debugging, and scene management through a standardized interface.
 - [karayaman/lichess-mcp](https://github.com/karayaman/lichess-mcp): Facilitates natural language interaction with the Lichess chess platform via Claude Desktop, enabling users to play, analyze, and manage chess activities seamlessly.
 - [NaveenBandarage/poke-mcp](https://github.com/NaveenBandarage/poke-mcp): Poke-MCP provides a standardized interface for accessing Pokémon data via the PokeAPI, enabling seamless integration with MCP-compatible clients.
-- [thisistheaj/slot-starters](https://github.com/thisistheaj/slot-starters): Slot is a Model Context Protocol server that intelligently discovers and analyzes starter templates for developers directly within AI assistant workflows.
-- [cryppadotta/scryfall-mcp](https://github.com/cryppadotta/scryfall-mcp): Facilitates interaction with the Scryfall API for Magic: The Gathering card details, rulings, and pricing through MCP server capabilities.
-- [yukiko8888/-mcp-dice-server-](https://github.com/yukiko8888/-mcp-dice-server-): Facilitates dice rolling with customizable sides and quantities via MCP integration.
 - [james2037/mcp-gatherer](https://github.com/james2037/mcp-gatherer): Access Magic: The Gathering card data and rules through a Model Context Protocol server.
 - [reeeeemo/mcp-sports](https://github.com/reeeeemo/mcp-sports): Facilitates real-time sports statistics retrieval and interaction using SportRadar's API.
-- [yandmats/suekou](https://github.com/yandmats/suekou): Facilitates interaction between Claude and Notion workspaces through a dedicated MCP server.
 - [ayeletstudioindia/unreal-analyzer-mcp](https://github.com/ayeletstudioindia/unreal-analyzer-mcp): Provides advanced source code analysis for Unreal Engine projects, enabling AI assistants to deeply understand and analyze codebases.
 - [turlockmike/chess-mcp](https://github.com/turlockmike/chess-mcp): Enhance your chess analysis with professional evaluations and visualizations using Stockfish directly in Claude.
+- [TheApeMachine/caramba](https://github.com/TheApeMachine/caramba): Caramba is a Go-based agent framework that facilitates seamless integration with AI clients through its Model Context Protocol (MCP) server capabilities.
+- [TKpon/dice-server](https://github.com/TKpon/dice-server): A TypeScript-based MCP server for managing and summarizing text notes with URI-based access and metadata.
+- [tetumemo/dice-server](https://github.com/tetumemo/dice-server): Dice-server provides a simple MCP server for rolling dice with customizable sides.
 - [arjunkmrm/mcp-minecraft](https://github.com/arjunkmrm/mcp-minecraft): Integrates AI assistants with Minecraft servers, enabling interaction and observation of the Minecraft world through a bot.
 - [Sunwood-ai-labs/dice-server](https://github.com/Sunwood-ai-labs/dice-server): Facilitates dice rolling with customizable parameters using the Model Context Protocol.
-- [metajar/pokemon-mcp](https://github.com/metajar/pokemon-mcp): Integrates Pokemon API functionality with Claude using MCP, demonstrating seamless external API integration.
+- [JoshuaRileyDev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server): Facilitates programmatic control over iOS simulators by exposing their functionalities through a standardized MCP interface.
+- [yamaton/mcp-dice](https://github.com/yamaton/mcp-dice): Enables LLMs to roll dice using standard dice notation, providing both individual rolls and their sum.
+- [maxsloef/loom-mcp](https://github.com/maxsloef/loom-mcp): A TypeScript-based MCP server that implements a simple loom interface for Claude, enabling parallel generation and selection of model completions.
 

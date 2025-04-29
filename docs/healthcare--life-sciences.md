@@ -2,34 +2,47 @@
 
 Servers integrating with healthcare standards, medical literature databases, bioinformatics resources, or specific healthcare platforms.
 
+- [fastomop/omcp_a2a](https://github.com/fastomop/omcp_a2a): Facilitates LLM-driven analysis of healthcare data in OMOP format through modular MCP servers and A2A protocol integration.
+- [deak-ai/openehr-mcp-server](https://github.com/deak-ai/openehr-mcp-server): Facilitates seamless integration with openEHR REST APIs, enabling the creation and management of electronic health records and compositions.
+- [shinichi-takayanagi/myweight-mcp-server](https://github.com/shinichi-takayanagi/myweight-mcp-server): Connects to the Health Planet API to securely retrieve and analyze weight data using any MCP-compatible client.
+- [gosset-ai/mcps](https://github.com/gosset-ai/mcps): A suite of MCP servers enabling AI assistants to access and interact with various biomedical databases and resources for research purposes.
+- [AndrewKlement/gaggiuino-mcp](https://github.com/AndrewKlement/gaggiuino-mcp): Facilitates real-time data analysis and display for the Gaggiuino espresso machine controller, enabling AI clients to access shot telemetry and machine status.
+- [BioContext/BioContext-main](https://github.com/BioContext/BioContext-main): BioContext provides seamless integration with major biological databases through a collection of MCP servers, facilitating AI-driven data access and analysis.
+- [johnie/oura-mcp](https://github.com/johnie/oura-mcp): Facilitates interaction with Oura Ring data through an MCP server, offering endpoints for personal health metrics.
+- [Deep-Intelligent-Pharma/Translationx-mcp-server](https://github.com/Deep-Intelligent-Pharma/Translationx-mcp-server): Facilitates translation tasks by integrating with TranslationX through a Python-based MCP server.
 - [sheffler/mcp-server-lims](https://github.com/sheffler/mcp-server-lims): Facilitates AI-driven management of laboratory workflows by simulating instrument data processing and integrating with MCP tools.
+- [andyrewlee/dad-mcp](https://github.com/andyrewlee/dad-mcp): Enhance home education with a remote MCP server that integrates AI for creative learning experiences.
+- [entropic-digital/bioinformatics-mcp-example](https://github.com/entropic-digital/bioinformatics-mcp-example): Facilitates bioinformatics tasks by integrating with Claude Desktop through a Docker-based MCP server.
 - [JackKuo666/ClinicalTrials-MCP-Server](https://github.com/JackKuo666/ClinicalTrials-MCP-Server): Facilitates AI-driven searches and access to ClinicalTrials.gov data, enhancing health sciences research through a streamlined MCP interface.
 - [shaunporwal/DICOM-MCP](https://github.com/shaunporwal/DICOM-MCP): Facilitates interaction with DICOM images through a note storage system, enabling note summarization and management.
-- [jesegher/EduMCPServer](https://github.com/jesegher/EduMCPServer): Facilitates AI-driven management of Microsoft Education classes, assignments, and rubrics through integration with Microsoft Graph API.
 - [jmandel/health-record-mcp](https://github.com/jmandel/health-record-mcp): Facilitates secure AI access to Electronic Health Records using SMART on FHIR, enabling comprehensive data retrieval and analysis through MCP tools.
-- [pankaj-knit/MCP-SV](https://github.com/pankaj-knit/MCP-SV): Provides weather information from the National Weather Service API for integration with AI assistants like Claude.
 - [codingaslu/PubMed-MCP-Server](https://github.com/codingaslu/PubMed-MCP-Server): Leverages the FastMCP framework to asynchronously search PubMed for article abstracts using BioPython's Entrez module.
 - [AgentDank/dank-mcp](https://github.com/AgentDank/dank-mcp): A specialized MCP server for querying and analyzing cannabis datasets, designed for integration with LLMs like Claude Desktop.
-- [PsychArch/caiyun-mcp-tools](https://github.com/PsychArch/caiyun-mcp-tools): Access real-time weather data, forecasts, and alerts through the Caiyun Weather API using this MCP server.
 - [genomoncology/biomcp](https://github.com/genomoncology/biomcp): BioMCP enables LLMs to access and interact with critical biomedical databases using the Model Context Protocol, facilitating advanced searches and data retrieval.
 - [BioMCP-Hub/PubTator-MCP-Server](https://github.com/BioMCP-Hub/PubTator-MCP-Server): Facilitates AI-driven biomedical literature annotation and relationship mining via the PubTator3 system using the MCP interface.
+- [eiz/fooddb](https://github.com/eiz/fooddb): Query USDA Food Data Central with smart keyword and semantic vector search capabilities.
 - [AojdevStudio/open-dental-mcp](https://github.com/AojdevStudio/open-dental-mcp): Facilitates natural language querying of OpenDental documentation using a Qdrant vector database.
 - [JackKuo666/PubTator-MCP-Server](https://github.com/JackKuo666/PubTator-MCP-Server): Facilitates AI-driven biomedical literature annotation and relationship mining via the MCP interface, leveraging PubTator3.
+- [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp): Leverages the BICScan API to deliver real-time blockchain address risk scoring and asset information.
+- [yoda-digital/mcp-cerebra-legal-server](https://github.com/yoda-digital/mcp-cerebra-legal-server): Cerebra Legal is an enterprise-grade server for legal reasoning and analysis, offering domain-specific tools for structured legal thinking, follow-up questioning, and result presentation.
 - [uh-joan/cortellis-mcp-server](https://github.com/uh-joan/cortellis-mcp-server): Facilitates drug search and ontology exploration within the Cortellis database, offering comprehensive drug development insights and financial data.
 - [amanasmuei/mcp-server-malaysia-prayer-time](https://github.com/amanasmuei/mcp-server-malaysia-prayer-time): Provides real-time Islamic prayer times for Malaysia, integrating seamlessly with Claude Desktop via MCP.
 - [ryoureddy/medadapt-content-server](https://github.com/ryoureddy/medadapt-content-server): Enhances AI-assisted medical learning by integrating Claude Desktop with medical knowledge sources for comprehensive content retrieval and analysis.
 - [MediFinderBot/medifinder-mcp](https://github.com/MediFinderBot/medifinder-mcp): Facilitates secure communication for medicine inventory queries with AI assistants, offering location-based searches and WhatsApp integration.
-- [zhaoyouj/mcp-slicer](https://github.com/zhaoyouj/mcp-slicer): Facilitates seamless interaction between 3D Slicer and model clients for medical image processing and scene manipulation using natural language.
+- [ChatMol/molecule-mcp](https://github.com/ChatMol/molecule-mcp): Facilitates molecule modeling by integrating molecule science tools with Claude AI through the Model Context Protocol.
 - [jagan-shanmugam/climatiq-mcp-server](https://github.com/jagan-shanmugam/climatiq-mcp-server): Facilitates real-time carbon emission calculations and climate impact insights for AI assistants using the Climatiq API.
 - [elizabethtrykin/8sleep-mcp](https://github.com/elizabethtrykin/8sleep-mcp): Access and control Eight Sleep Pod data and settings through a Model Context Protocol server.
 - [elizabethtrykin/oura-mcp](https://github.com/elizabethtrykin/oura-mcp): Access and manage Oura Ring data through a Model Context Protocol server, integrating seamlessly with Claude Desktop.
-- [sukhrobyangibaev/mcp_hemis_student](https://github.com/sukhrobyangibaev/mcp_hemis_student): Facilitates seamless access to student academic data from HEMIS through Claude, enabling retrieval of grades, schedules, and university statistics.
+- [dwain-barnes/police-uk-api-mcp-server](https://github.com/dwain-barnes/police-uk-api-mcp-server): Access and interact with the police.uk API using a Python-based MCP server, offering comprehensive tools for crime data retrieval and analysis.
+- [matthewdcage/pbs-mcp-server](https://github.com/matthewdcage/pbs-mcp-server): Enables AI models to access and integrate Australian Pharmaceutical Benefits Scheme data through a standalone MCP server, facilitating seamless interaction with pharmaceutical information.
 - [ChristianHinge/dicom-mcp](https://github.com/ChristianHinge/dicom-mcp): Facilitates AI-driven interactions with DICOM servers for querying and analyzing medical imaging metadata.
-- [Props-Labs/fireflies-mcp](https://github.com/Props-Labs/fireflies-mcp): Facilitates transcript retrieval, search, and summary generation via the Fireflies.ai API.
+- [ctvidic/strava-mcp-server](https://github.com/ctvidic/strava-mcp-server): Facilitates interaction with Strava data through language models, offering features like activity tracking, athlete statistics, and social interactions.
+- [ctvidic/whoop-mcp-server](https://github.com/ctvidic/whoop-mcp-server): Access Whoop API data for cycles, recovery, strain, and workouts via a Python-based MCP server.
 - [manolaz/emergency-medicare-planner-mcp-server](https://github.com/manolaz/emergency-medicare-planner-mcp-server): Integrates with Google Maps to locate and evaluate medical facilities in emergencies, offering real-time routing and availability checks.
 - [acashmoney/bio-mcp](https://github.com/acashmoney/bio-mcp): BioMCP enhances language models with protein structure analysis capabilities, enabling detailed examination of protein active sites and disease-related protein searches.
 - [EduBase/MCP](https://github.com/EduBase/MCP): Facilitates seamless interaction between EduBase's e-learning platform and LLMs like Claude through the Model Context Protocol.
 - [tomekkorbak/oura-mcp-server](https://github.com/tomekkorbak/oura-mcp-server): Facilitates querying sleep, readiness, and resilience data from the Oura API for language models.
+- [eka-care/eka_mcp_server](https://github.com/eka-care/eka_mcp_server): Eka MCP Server enhances healthcare workflows by grounding AI responses in verified medical data, reducing hallucinations and ensuring medical accuracy.
 - [TerminallyLazy/MCP-on-FHIR](https://github.com/TerminallyLazy/MCP-on-FHIR): An interactive FHIR application leveraging MCP Knowledge Graph capabilities for healthcare data visualization and interaction.
 - [Kartha-AI/agentcare-mcp](https://github.com/Kartha-AI/agentcare-mcp): Facilitates seamless integration with EMRs like Cerner and Epic, offering healthcare tools and FHIR data interaction capabilities.
 - [catalystneuro/mcp](https://github.com/catalystneuro/mcp): CatalystNeuro's MCP servers facilitate semantic search and other functionalities with customizable configurations.
@@ -39,7 +52,9 @@ Servers integrating with healthcare standards, medical literature databases, bio
 - [grll/pubmedmcp](https://github.com/grll/pubmedmcp): Facilitates searching and retrieving biomedical literature from PubMed using a dedicated MCP server.
 - [VertexStudio/bioma-tool](https://github.com/VertexStudio/bioma-tool): Bioma-tool is an MCP server designed for generating schemas from MCP schema files, facilitating structured data management.
 - [flexpa/mcp-fhir](https://github.com/flexpa/mcp-fhir): A TypeScript-based server enabling interaction with FHIR resources through the Model Context Protocol, offering search and access functionalities.
+- [navisbio/mcp_motherduck](https://github.com/navisbio/mcp_motherduck): Provides read-only access to MotherDuck databases with schema-level access control through MCP.
 - [navisbio/mcp_bigquery_biomedical](https://github.com/navisbio/mcp_bigquery_biomedical): Facilitates access to Google BigQuery biomedical datasets, optimizing data retrieval for biopharma-specific inquiries.
+- [mdagost/mcp-cps-data](https://github.com/mdagost/mcp-cps-data): Facilitates querying local databases for detailed information on Chicago Public Schools, including school neighborhoods and websites.
 - [TakumiY235/uniprot-mcp-server](https://github.com/TakumiY235/uniprot-mcp-server): Facilitates AI-driven access to UniProt protein data, enabling retrieval of protein functions and sequences.
 - [navisbio/ctgov_MCP](https://github.com/navisbio/ctgov_MCP): Facilitates analysis of clinical trial data from the AACT database, offering insights into therapeutic landscapes.
 - [LoggerApp/Nutrient_db_MCP](https://github.com/LoggerApp/Nutrient_db_MCP): Access USDA nutritional data with advanced search and nutrient analysis capabilities through a high-performance MCP server.

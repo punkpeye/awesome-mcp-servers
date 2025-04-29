@@ -2,14 +2,38 @@
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
-- [gramou/NeuroPwn](https://github.com/gramou/NeuroPwn): NeuroPwn integrates AI-driven reasoning with Kali Linux's security tools to automate vulnerability discovery.
+- [slowmist/MasterMCP](https://github.com/slowmist/MasterMCP): MasterMCP demonstrates security vulnerabilities in MCP frameworks through practical attack examples, aiding developers in understanding and mitigating potential risks.
+- [sxhxliang/mcp-security-scan](https://github.com/sxhxliang/mcp-security-scan): A Rust application for scanning and verifying the security of Model Context Protocol server configurations, prompts, resources, and tools.
+- [Eliran79/Vulnerable-file-reader-server](https://github.com/Eliran79/Vulnerable-file-reader-server): A Python MCP server showcasing command injection vulnerabilities for educational purposes, highlighting the risks of improper input sanitization.
+- [R3verseIN/HackerMCP](https://github.com/R3verseIN/HackerMCP): HackerMCP empowers AI assistants to utilize penetration testing and security tools like Nmap and Metasploit through a streamlined interface.
+- [RobertoDure/mcp-vulnerability-scanner](https://github.com/RobertoDure/mcp-vulnerability-scanner): Scan IP addresses for vulnerabilities using Nmap and API-based checks, providing detailed reports with severity and remediation steps.
+- [crazyMarky/mcp_nuclei_server](https://github.com/crazyMarky/mcp_nuclei_server): Facilitates vulnerability scanning using Nuclei with MCP protocol integration, offering configurable filtering and JSON output.
+- [Medinios/SuricataMCP](https://github.com/Medinios/SuricataMCP): SuricataMCP enables autonomous network traffic analysis using Suricata through a Model Context Protocol server, facilitating seamless integration with AI coding tools.
+- [dev-lu/PentestMCP](https://github.com/dev-lu/PentestMCP): Facilitates security scans on Kali Linux using natural language commands via LLMs like Claude.
+- [trustasia-com/myssl-mcp-server-python](https://github.com/trustasia-com/myssl-mcp-server-python): MySSL MCP Server performs site security certificate inspections, integrating with LLM models for enhanced analysis.
+- [dkvdm/onepassword-mcp-server](https://github.com/dkvdm/onepassword-mcp-server): Facilitates secure credential retrieval from 1Password for integration with Agentic AI.
+- [GH05TCREW/MetasploitMCP](https://github.com/GH05TCREW/MetasploitMCP): Facilitates AI-driven interaction with Metasploit for dynamic security testing and exploitation workflows.
+- [EdenYavin/Garak-MCP](https://github.com/EdenYavin/Garak-MCP): Facilitates vulnerability scanning on various LLMs using Garak through a lightweight MCP server.
+- [GH05TCREW/winsecMCP](https://github.com/GH05TCREW/winsecMCP): Automates Windows security configuration by managing firewall, RDP, UAC, and account policies.
+- [CyberSecurityUP/Offensive-MCP-AI](https://github.com/CyberSecurityUP/Offensive-MCP-AI): A cybersecurity-focused MCP server that integrates AI for autonomous red teaming, threat hunting, and incident response automation.
+- [ashgw/vault-mcp](https://github.com/ashgw/vault-mcp): Facilitates secure interaction with HashiCorp Vault for secret and policy management through a Model Context Protocol server.
+- [ca-risken/risken-mcp-server](https://github.com/ca-risken/risken-mcp-server): Facilitates seamless integration with RISKEN APIs for advanced automation and interaction capabilities.
+- [mytechnotalent/MalwareBazaar_MCP](https://github.com/mytechnotalent/MalwareBazaar_MCP): AI-driven server autonomously interfaces with MalwareBazaar for real-time threat intelligence and sample metadata in cybersecurity research.
+- [jmorrell-cloudflare/mcp-bearer-auth-example](https://github.com/jmorrell-cloudflare/mcp-bearer-auth-example): A remote MCP server implementation on Cloudflare utilizing Bearer Token authentication for secure connections.
 - [naebo/mcp-external-recon-server](https://github.com/naebo/mcp-external-recon-server): Conducts active external reconnaissance with DNS enumeration, subdomain discovery, and SSL certificate inspection for offensive security engagements.
+- [javaDer/mcp-sentry-custom](https://github.com/javaDer/mcp-sentry-custom): Facilitates the retrieval and analysis of issues from Sentry, providing detailed insights into error reports and debugging information.
+- [auth0/auth0-mcp-server](https://github.com/auth0/auth0-mcp-server): Facilitates natural language-driven management of Auth0 operations through integration with LLMs and AI agents.
+- [bornpresident/MISP-MCP-SERVER](https://github.com/bornpresident/MISP-MCP-SERVER): Integrates with MISP to enhance threat intelligence capabilities for Large Language Models.
 - [JithukrishnanV/MCP-CyberAgent](https://github.com/JithukrishnanV/MCP-CyberAgent): MCP-CyberAgent connects Claude Desktop with cybersecurity tools like VirusTotal, Nmap, and Shodan for AI-driven threat detection and network analysis.
+- [gleicon/mcp-osv](https://github.com/gleicon/mcp-osv): Facilitates code security reviews by integrating with OSV.dev and AI models to identify vulnerabilities.
+- [enkryptai/enkryptai-mcp-server](https://github.com/enkryptai/enkryptai-mcp-server): Integrate red-teaming, prompt auditing, and AI safety analysis into any MCP-compatible client with Enkrypt AI MCP Server.
+- [Eacus/misp-mcp](https://github.com/Eacus/misp-mcp): Facilitates interaction with MISP through a Model Context Protocol server, enabling seamless integration with AI models for enhanced data management and analysis.
 - [MorDavid/ExternalAttacker-MCP](https://github.com/MorDavid/ExternalAttacker-MCP): ExternalAttacker integrates automated reconnaissance tools with a natural language interface for comprehensive external attack surface management.
-- [MorDavid/BloodHound-MCP-AI](https://github.com/MorDavid/BloodHound-MCP-AI): BloodHound-MCP-AI enables security professionals to analyze Active Directory attack paths using natural language through AI integration with BloodHound via the Model Context Protocol.
 - [stoyky/mitre-attack-mcp](https://github.com/stoyky/mitre-attack-mcp): Facilitates querying and visualizing the MITRE ATT&CK knowledge base, enabling threat actor and malware attribution through a Model-Context Protocol server.
 - [stevenyu113228/BloodHound-MCP](https://github.com/stevenyu113228/BloodHound-MCP): BloodHound MCP enables LLMs to interact with and analyze Active Directory environments using natural language queries, enhancing the BloodHound tool's capabilities.
+- [Ludok-4/Ghidra](https://github.com/Ludok-4/Ghidra): ghidraMCP enables LLMs to autonomously reverse engineer applications by integrating Ghidra's decompilation and analysis tools with MCP clients.
 - [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server): Integrates Burp Suite with AI clients using the Model Context Protocol, featuring automatic installation for Claude Desktop and a packaged Stdio MCP proxy server.
+- [Gaffx/volatility-mcp](https://github.com/Gaffx/volatility-mcp): Integrates Volatility 3's memory analysis capabilities with FastAPI and MCP for seamless AI-assisted memory forensics.
 - [Kirandawadi/volatility3-mcp](https://github.com/Kirandawadi/volatility3-mcp): Volatility3 MCP Server enables seamless memory forensics through natural language interfaces, allowing LLMs to analyze memory dumps and detect malware efficiently.
 - [darrenjrobinson/HIBP-MCP-Server](https://github.com/darrenjrobinson/HIBP-MCP-Server): Enables natural language queries to the Have I Been Pwned API for checking email breaches, specific breach details, password exposures, and pastes.
 - [refuse1993/mandiant-mcp](https://github.com/refuse1993/mandiant-mcp): Integrates Mandiant API with Claude Desktop for threat intelligence and vulnerability analysis.
@@ -17,42 +41,46 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [jamiesonio/defectdojo-mcp](https://github.com/jamiesonio/defectdojo-mcp): Connects LLMs to DefectDojo for AI-driven security workflows, enabling natural language interaction with vulnerability data and automating reporting.
 - [pullkitsan/mobsf-mcp-server](https://github.com/pullkitsan/mobsf-mcp-server): Utilizes MobSF's API to scan and analyze APK and IPA files through an MCP-compatible interface.
 - [ccq1/awsome_kali_MCPServers](https://github.com/ccq1/awsome_kali_MCPServers): Empowers AI agents in Kali Linux environments with advanced reverse engineering and security testing capabilities through a suite of MCP servers.
-- [Castrozan/token-info-mcp](https://github.com/Castrozan/token-info-mcp): Facilitates OAuth token validation and detailed information retrieval for Betha Systems using the MCP protocol.
+- [jiriknesl/tor-request-mcp](https://github.com/jiriknesl/tor-request-mcp): Facilitates GET and POST requests through Tor hidden services, enhancing privacy and anonymity for internet interactions.
 - [Ta0ing/MCP-SecurityTools](https://github.com/Ta0ing/MCP-SecurityTools): A comprehensive collection of security tools and techniques for enhancing AI capabilities in network security through MCP integrations.
 - [bornpresident/Volatility-MCP-Server](https://github.com/bornpresident/Volatility-MCP-Server): Integrates Volatility 3 memory forensics with Claude, enabling natural language-driven memory analysis for digital forensic investigations.
+- [Hexix23/shodan-mcp](https://github.com/Hexix23/shodan-mcp): SHODAN-MCP provides a robust interface to the Shodan API, enabling security professionals to efficiently explore and analyze internet-connected devices using the MCP protocol.
 - [N0el4kLs/BurpMCP](https://github.com/N0el4kLs/BurpMCP): Facilitates data retrieval from Burp Suite's proxy history for enhanced security testing and analysis.
 - [arsolutioner/secure-annex-mcp](https://github.com/arsolutioner/secure-annex-mcp): A specialized server for evaluating and enhancing the security of browser extensions through comprehensive analysis and vulnerability detection.
+- [Cyreslab-AI/nessus-mcp-server](https://github.com/Cyreslab-AI/nessus-mcp-server): Facilitates AI-driven vulnerability scanning and analysis using the Tenable Nessus scanner via the MCP protocol.
 - [Cyreslab-AI/burpsuite-mcp-server](https://github.com/Cyreslab-AI/burpsuite-mcp-server): Facilitates AI-driven web security testing by interfacing with Burpsuite Professional for vulnerability scanning and proxy analysis.
 - [0xPratikPatil/NmapMCP](https://github.com/0xPratikPatil/NmapMCP): Integrates Nmap scanning capabilities with MCP for seamless network analysis in compatible environments.
 - [JerryR7/gitlab-zero-leak-mcp](https://github.com/JerryR7/gitlab-zero-leak-mcp): A security-focused GitLab API MCP Server designed to prevent source code leakage while maintaining full functionality for LLM-based agents.
 - [kzk-maeda/mcp-guardrail](https://github.com/kzk-maeda/mcp-guardrail): A secure MCP server that executes only pre-authorized commands, ideal for high-security environments.
+- [colygon/zkpmcp](https://github.com/colygon/zkpmcp): Facilitates zero-knowledge proof operations using Circom, enabling secure verification without revealing sensitive data.
 - [shinzo-labs/heimdall](https://github.com/shinzo-labs/heimdall): Heimdall acts as a guardian proxy to manage and authorize MCP server tools for multiple clients on a single device.
 - [atamaplus-public/mcp-guardrail](https://github.com/atamaplus-public/mcp-guardrail): MCP Guardrail Server provides a secure environment for executing pre-authorized commands, ideal for high-security applications.
 - [cmsparks/mcp-bearer-auth-test](https://github.com/cmsparks/mcp-bearer-auth-test): Deploy and manage a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.
 - [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp): A comprehensive security testing toolbox integrating popular open source tools via a unified MCP interface for tasks like pentesting and threat hunting.
 - [MCPPhalanx/binaryninja-mcp](https://github.com/MCPPhalanx/binaryninja-mcp): Facilitates advanced binary analysis and manipulation through Binary Ninja integration.
-- [suidpit/ghidra-mcp](https://github.com/suidpit/ghidra-mcp): Facilitates AI-driven reverse engineering by exposing Ghidra functionalities through an MCP server.
+- [0xKoda/WireMCP](https://github.com/0xKoda/WireMCP): WireMCP empowers LLMs with real-time network traffic analysis using Wireshark's tshark for threat detection and diagnostics.
+- [edoscars/pan-os-mcp](https://github.com/edoscars/pan-os-mcp): Facilitates natural language management and configuration of Palo Alto Networks firewalls via the XML API.
 - [rand-tech/pcm](https://github.com/rand-tech/pcm): A reverse engineering MCP server leveraging IDA for disassembly, decompilation, and memory analysis.
 - [ZeroPathAI/zeropath-mcp-server](https://github.com/ZeroPathAI/zeropath-mcp-server): Facilitates querying and managing ZeroPath security issues and patches through AI-assisted tools, enhancing security workflows with natural language interactions.
-- [Cyreslab-AI/hibp-mcp-server](https://github.com/Cyreslab-AI/hibp-mcp-server): Integrates with the Have I Been Pwned API to check for compromised accounts and passwords in data breaches.
-- [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp): Leverages the BICScan API to deliver real-time blockchain address risk scoring and asset information.
-- [fdrechsler/mcp-server-idapro](https://github.com/fdrechsler/mcp-server-idapro): Facilitates AI-driven reverse engineering and binary analysis by bridging AI assistants with IDA Pro.
+- [Tokeii0/ctf-mcp-server](https://github.com/Tokeii0/ctf-mcp-server): Facilitates AI-driven CTF problem-solving and creation through specialized MCP servers.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP): Enhances Ghidra's reverse engineering capabilities with AI-assisted binary analysis via the Model Context Protocol.
 - [9olidity/MCP-Server-Pentest](https://github.com/9olidity/MCP-Server-Pentest): A robust MCP server for automated browser-based vulnerability testing, including XSS and SQL injection detection, with comprehensive interaction capabilities.
 - [TheRaLabs/legion-mcp](https://github.com/TheRaLabs/legion-mcp): Facilitates database access and query execution through MCP integration, supporting multiple databases with flexible deployment options.
 - [marcoeg/mcp-nvd](https://github.com/marcoeg/mcp-nvd): Facilitates querying the NIST National Vulnerability Database using the Model Context Protocol for real-time vulnerability data retrieval.
 - [Cyreslab-AI/exploitdb-mcp-server](https://github.com/Cyreslab-AI/exploitdb-mcp-server): Enhances cybersecurity research by enabling AI assistants to query ExploitDB for security exploits and vulnerabilities.
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP): Facilitates autonomous reverse engineering of applications by LLMs using Ghidra's core functionalities.
+- [Cyreslab-AI/shodan-mcp-server](https://github.com/Cyreslab-AI/shodan-mcp-server): Provides AI assistants with Shodan API access for querying internet-connected devices and services.
 - [xue20010808/ThreatNews](https://github.com/xue20010808/ThreatNews): Facilitates the collection of cyber threat information through an MCP server, with integration options for Neo4j knowledge graphs.
 - [xpn/mythic_mcp](https://github.com/xpn/mythic_mcp): A proof-of-concept MCP server that integrates Mythic for automated pentesting using LLMs.
 - [emeryray2002/mcp-secops-v3](https://github.com/emeryray2002/mcp-secops-v3): Facilitates interaction with Google's Chronicle Security Operations API for security event management and alert retrieval.
 - [semgrep/mcp](https://github.com/semgrep/mcp): Utilize Semgrep to efficiently scan code for security vulnerabilities through an MCP server interface.
 - [mohitparmar1/Solana-Wallet-Security-Scanner](https://github.com/mohitparmar1/Solana-Wallet-Security-Scanner): A demo MCP server for Solana development, offering basic RPC methods and prompts to enhance Solana programming tasks.
-- [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye): Facilitates AI-driven network asset discovery and analysis through ZoomEye queries, enhancing LLM capabilities in identifying internet-connected devices and vulnerabilities.
 - [unmuktoai/Wazuh-MCP-Server](https://github.com/unmuktoai/Wazuh-MCP-Server): Integrates Wazuh security data with LLMs by transforming alerts into MCP-compliant JSON and exposing them via an HTTP endpoint.
 - [rad-security/mcp-server](https://github.com/rad-security/mcp-server): Provides AI-powered security insights for Kubernetes and cloud environments.
+- [Spritualkb/nuclei-mcp](https://github.com/Spritualkb/nuclei-mcp): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
 - [ThreatFlux/YaraFlux](https://github.com/ThreatFlux/YaraFlux): YaraFlux empowers AI assistants to conduct YARA rule-based threat analysis through a modular MCP server architecture, integrating secure scanning and comprehensive rule management.
-- [YiyangLi/okta-mcp-server](https://github.com/YiyangLi/okta-mcp-server): Facilitates seamless interaction with Okta organizations through Claude, enabling user and group management, application assignments, and more.
+- [lucasoeth/mitmproxy-mcp](https://github.com/lucasoeth/mitmproxy-mcp): Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.
+- [1595901624/crypto-mcp](https://github.com/1595901624/crypto-mcp): Crypto_MCP provides robust encryption, decryption, and hashing capabilities using AES, DES, and various hash algorithms.
 - [sammcj/mcp-snyk](https://github.com/sammcj/mcp-snyk): Facilitates security scanning of repositories and Snyk projects with integration options for Claude desktop and Snyk CLI.
 - [qianniuspace/mcp-security-audit](https://github.com/qianniuspace/mcp-security-audit): Audits npm package dependencies for security vulnerabilities with real-time checks and automatic fix recommendations.
 - [kapilduraphe/okta-mcp-server](https://github.com/kapilduraphe/okta-mcp-server): Facilitates user and group management in Okta through Claude integration.
@@ -63,7 +91,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [bmorphism/slowtime-mcp-server](https://github.com/bmorphism/slowtime-mcp-server): Facilitates secure time-based operations with timing attack protection and timelock encryption.
 - [Spathodea-Network/opencti-mcp](https://github.com/Spathodea-Network/opencti-mcp): OpenCTI MCP Server integrates seamlessly with the OpenCTI platform to enable querying and retrieving cyber threat intelligence data through a standardized interface.
 - [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist): Facilitates domain permutation analysis to detect typosquatting and phishing threats using DNStwist.
-- [punkpeye/mcp-snyk](https://github.com/punkpeye/mcp-snyk): A standalone server for integrating Snyk security scanning with Model Context Protocol, enabling repository and project vulnerability assessments.
+- [DynamicEndpoints/huntress-mcp-server](https://github.com/DynamicEndpoints/huntress-mcp-server): Facilitates seamless interaction with the Huntress API for account, organization, and incident management through a robust MCP server.
 - [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret): Facilitates OSINT research by enabling username searches and URL analysis across social networks using the Maigret tool.
 - [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal): Query the VirusTotal API for comprehensive security analysis with automatic relationship data fetching, seamlessly integrating with MCP-compatible applications.
 - [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan): Query Shodan's network intelligence and security services with structured output for seamless integration.

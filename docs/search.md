@@ -2,20 +2,35 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
-- [liuyixin-louis/ArxivMCP](https://github.com/liuyixin-louis/ArxivMCP): Facilitates academic paper searches on arXiv with MCP client integration for seamless retrieval.
-- [kbyk004/my-docs-mcp-server](https://github.com/kbyk004/my-docs-mcp-server): Indexes and searches Markdown files in a directory, enabling full-text search and file retrieval via the Model Context Protocol.
+- [kokilabo/pdf-researcher](https://github.com/kokilabo/pdf-researcher): A specialized MCP server designed for searching PDF documents using the Brave Search API.
+- [joaomj/deep-search-mcp](https://github.com/joaomj/deep-search-mcp): Facilitates deep web searches using the LinkUp API, offering structured results and customizable search parameters.
+- [jarondonp/portfolio-mcp-server](https://github.com/jarondonp/portfolio-mcp-server): Integrates the Brave Search API to offer web and local search capabilities with flexible filtering and smart fallbacks.
+- [dealwallet1/meiliseachmcp](https://github.com/dealwallet1/meiliseachmcp): Facilitates seamless interaction with Meilisearch through LLM interfaces, offering dynamic connection management, search capabilities, and comprehensive index and task management.
+- [marioalexandreantunes/mcp-search-mojeek](https://github.com/marioalexandreantunes/mcp-search-mojeek): Integrates the Mojeek search engine into an MCP server for privacy-focused and unbiased search results.
+- [funwarioisii/perplexity-mcp-rb](https://github.com/funwarioisii/perplexity-mcp-rb): Facilitates web search operations through a Perplexity-based MCP server.
+- [help116114/zoomeye-mcp-server](https://github.com/help116114/zoomeye-mcp-server): Facilitates AI assistants in querying internet-wide host and web data via the ZoomEye v2 API.
+- [The-AI-Workshops/searxng-mcp-server](https://github.com/The-AI-Workshops/searxng-mcp-server): Integrates SearXNG with MCP to provide AI agents with privacy-focused search capabilities.
+- [atskimura/mcp-salesforce-code-search](https://github.com/atskimura/mcp-salesforce-code-search): Facilitates code search across Salesforce official sample repositories with filtering capabilities by component type and file extension.
+- [jindasy/mcp-news](https://github.com/jindasy/mcp-news): Facilitates news article retrieval through a FastMCP server utilizing NewsAPI.org for keyword, date range, and source-based searches.
+- [jmchat/mcp-search-console-ts](https://github.com/jmchat/mcp-search-console-ts): Manage Google Search Console properties, sitemaps, and search analytics via a Model Context Protocol server.
+- [OEvortex/ddg_search](https://github.com/OEvortex/ddg_search): A privacy-focused MCP server that leverages DuckDuckGo for efficient web search and URL content extraction.
 - [BochaAI/bocha-search-mcp](https://github.com/BochaAI/bocha-search-mcp): Bocha Search MCP Server empowers AI applications with high-quality knowledge from billions of web pages and diverse content sources, enhancing search capabilities across multiple domains.
 - [nitish-raj/searxng-mcp-bridge](https://github.com/nitish-raj/searxng-mcp-bridge): Facilitates search operations by bridging MCP clients with a SearxNG instance.
+- [mytechnotalent/RAG_MCP](https://github.com/mytechnotalent/RAG_MCP): A semantic PDF search server utilizing OCR, FAISS, and transformers for intelligent query responses.
 - [g-fukurowl/fess-mcp-server](https://github.com/g-fukurowl/fess-mcp-server): Middleware server that integrates with the Fess search engine to enable information retrieval via MCP clients.
 - [ayush-rudani/google-search-mcp-server](https://github.com/ayush-rudani/google-search-mcp-server): Integrates with Google's Custom Search JSON API to provide advanced web search capabilities with structured results and rate limiting.
-- [davalmeyda/serper-productos](https://github.com/davalmeyda/serper-productos): Facilitates online product searches using Google Serper API, seamlessly integrating with AI assistants via MCP.
+- [alizdavoodi/MCPDocSearch](https://github.com/alizdavoodi/MCPDocSearch): A toolset for crawling websites and generating searchable Markdown documentation via an MCP server, optimized for integration with tools like Cursor.
+- [p1atdev/code_search_mcp](https://github.com/p1atdev/code_search_mcp): Facilitates code search functionality through an MCP server setup, enabling efficient code retrieval and analysis.
+- [SebastianBoehler/domain-check-mcp](https://github.com/SebastianBoehler/domain-check-mcp): Facilitates domain availability checks and recommendations using IONOS endpoints.
+- [Glitchfix/mcp-duckduckgo](https://github.com/Glitchfix/mcp-duckduckgo): Enables LLMs to perform web searches and content retrieval using DuckDuckGo without API keys.
+- [mcp-for-dev/mcp-google-search](https://github.com/mcp-for-dev/mcp-google-search): Facilitates web search and content extraction using Google Custom Search API, providing structured results for enhanced data retrieval.
+- [302ai/302_web_search_mcp](https://github.com/302ai/302_web_search_mcp): Facilitates web search integration with Claude Desktop through a configurable MCP server.
+- [Furafrafrfr/googler](https://github.com/Furafrafrfr/googler): Facilitates Google searches and compiles results using Gemini for command-line use.
 - [skeet-build/opensearch](https://github.com/skeet-build/opensearch): Facilitates read-only access to OpenSearch clusters, allowing LLMs to inspect indices and execute queries.
-- [axlwolf/brave-mcp](https://github.com/axlwolf/brave-mcp): Integrates the Brave Search API to provide comprehensive web and local search capabilities with smart fallbacks and flexible filtering.
 - [qianlima365/zhipu-web-search-mcp](https://github.com/qianlima365/zhipu-web-search-mcp): Facilitates web network searches using Zhipu AI through an MCP tool.
 - [RmMargt/searchAPI-mcp](https://github.com/RmMargt/searchAPI-mcp): Facilitates AI assistants in accessing Google Maps, Flights, Hotels, and other services through a unified search API interface.
 - [zizzfizzix/mcp-server-indexnow](https://github.com/zizzfizzix/mcp-server-indexnow): Facilitates URL indexing requests via the IndexNow protocol, enhancing content discovery and indexing speed for MCP-compatible clients.
-- [hiyenwong/arxiv_mcp](https://github.com/hiyenwong/arxiv_mcp): Facilitates the search and interpretation of academic papers from arXiv using MCP technology.
-- [D-lyw/ckb-docs-mcp](https://github.com/D-lyw/ckb-docs-mcp): Facilitates semantic search of CKB ecosystem documents and code using the NervePuppy API and vector database integration.
+- [preludeorg/windows-rs-mcp](https://github.com/preludeorg/windows-rs-mcp): Facilitates searching the Rust windows crate API documentation using Playwright for seamless interaction with the documentation website.
 - [isnow890/naver-search-mcp](https://github.com/isnow890/naver-search-mcp): Facilitates comprehensive search and data trend analysis across Naver services using the Naver Search and DataLab APIs.
 - [guchey/mcp-server-google-search-console](https://github.com/guchey/mcp-server-google-search-console): Facilitates access to Google Search Console data through an MCP server, enabling detailed search analytics and customizable reporting.
 - [AshlynnLu/search-linkedin-mcp](https://github.com/AshlynnLu/search-linkedin-mcp): Facilitates LinkedIn company profile verification through search, web crawling, and content validation using MCP.
@@ -23,23 +38,22 @@ Servers providing web search capabilities or interfacing with specialized search
 - [joaomj/openrouter-search-server](https://github.com/joaomj/openrouter-search-server): Facilitates web search capabilities through the OpenRouter API using the MCP protocol.
 - [mvkvc/kagi_mcp_local](https://github.com/mvkvc/kagi_mcp_local): Facilitates Kagi Search through a local browser interface, enhancing personal search efficiency.
 - [narumiruna/serpapi-mcp](https://github.com/narumiruna/serpapi-mcp): A template for setting up MCP servers with customizable command configurations.
-- [garymengcom/serper-mcp-server](https://github.com/garymengcom/serper-mcp-server): Facilitates Google Search integration for LLMs using the Serper API.
 - [ChristianSch/openrouter-websearch-mcp](https://github.com/ChristianSch/openrouter-websearch-mcp): Facilitates web searches using OpenRouter's online models to deliver concise, fact-based answers.
-- [danimal141/arxiv-search-mcp](https://github.com/danimal141/arxiv-search-mcp): Facilitates searching and retrieving academic papers from arXiv.org with customizable parameters.
-- [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp): Facilitates seamless academic paper search and download from multiple sources, enhancing LLM workflows with MCP integration.
+- [kikuchy/pubdev_mcp](https://github.com/kikuchy/pubdev_mcp): Facilitates natural language package search on pub.dev with LLM-powered conversational interactions.
+- [0xDAEF0F/job-searchoor](https://github.com/0xDAEF0F/job-searchoor): Facilitates job search with filtering options for remote work and keyword inclusion/exclusion.
 - [jonathan-politzki/search-rag](https://github.com/jonathan-politzki/search-rag): A robust MCP server utilizing Apify's RAG Web Browser Actor for web content extraction, enhancing retrieval-augmented generation workflows with LLMs.
 - [hieu-blackbox/mcp-brave-search](https://github.com/hieu-blackbox/mcp-brave-search): Integrates the Brave Search API to provide comprehensive web and local search capabilities with smart fallbacks and flexible filtering.
 - [tonykonst/brave-search](https://github.com/tonykonst/brave-search): Integrates the Brave Search API for comprehensive web and local search capabilities with smart fallback mechanisms.
 - [traylinx/traylinx-search-engine-mcp-server](https://github.com/traylinx/traylinx-search-engine-mcp-server): Facilitates intelligent search capabilities for MCP clients by bridging with the Agentic Search API, offering rich content types and time-filtered results.
 - [tuningsearch/tuningsearch-mcp-server](https://github.com/tuningsearch/tuningsearch-mcp-server): Facilitates multilingual web searches with real-time news and article retrieval using the TuningSearch API.
 - [zbkm/mmnt-mcp-server](https://github.com/zbkm/mmnt-mcp-server): Facilitates search queries and cache retrieval for the Mamont search engine.
+- [awesimon/elasticsearch-mcp](https://github.com/awesimon/elasticsearch-mcp): Facilitates natural language interactions with Elasticsearch data through the Model Context Protocol, enabling seamless index management and search operations.
 - [Sacode/searxng-simple-mcp](https://github.com/Sacode/searxng-simple-mcp): SearxNG MCP Server enables privacy-focused web search for AI assistants by integrating with the SearxNG metasearch engine.
 - [co0ontty/chaitin-ip-intelligence-search-tool](https://github.com/co0ontty/chaitin-ip-intelligence-search-tool): Provides IP profiling and threat alerts using Chaitin's global honeypot network for Mobile Content Providers.
 - [bradleygolden/hexdocs-mcp](https://github.com/bradleygolden/hexdocs-mcp): Enhance your AI applications with semantic search capabilities for Hex package documentation using a TypeScript MCP server and Elixir package.
 - [egoist/exa-mcp](https://github.com/egoist/exa-mcp): Facilitates seamless integration with Exa Search API through a robust MCP server, sponsored by ChatWise.
 - [Evilran/baidu-mcp-server](https://github.com/Evilran/baidu-mcp-server): Provides web search capabilities through Baidu with advanced content fetching and parsing, optimized for large language models.
 - [captainChaozi/search-intent-mcp](https://github.com/captainChaozi/search-intent-mcp): Analyze search keywords to determine user intent and support SEO analysis.
-- [PsychArch/jina-mcp-tools](https://github.com/PsychArch/jina-mcp-tools): Integrates Jina AI Search Foundation APIs for web content extraction, search, and fact-checking.
 - [chick-p/algolia-search-mcp-server](https://github.com/chick-p/algolia-search-mcp-server): Facilitates text search within Algolia indexes using MCP server capabilities.
 - [baranwang/mcp-deep-research](https://github.com/baranwang/mcp-deep-research): MCP Deep Research leverages the Tavily API to facilitate web searches through the Model Context Protocol, optimized for prompt-based MCP clients.
 - [chenxilol/perplexity-mcp-go](https://github.com/chenxilol/perplexity-mcp-go): A Go-based server enabling LLMs to access Perplexity's search API via MCP, supporting advanced search parameters and real-time results.
@@ -49,7 +63,6 @@ Servers providing web search capabilities or interfacing with specialized search
 - [seohyunjun/opensearch-mcp-server](https://github.com/seohyunjun/opensearch-mcp-server): Facilitates document search, index analysis, and cluster management for Opensearch environments.
 - [mingdedi/InternetSearch-mcp-server](https://github.com/mingdedi/InternetSearch-mcp-server): Facilitates internet searches using the Bocha Search API, requiring a Bocha AI search service key.
 - [mnhlt/WebSearch-MCP](https://github.com/mnhlt/WebSearch-MCP): Enables AI assistants to perform real-time web searches by integrating with a WebSearch Crawler API over stdio transport.
-- [elastic/mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch): Facilitates natural language interactions with Elasticsearch data through the Model Context Protocol.
 - [Shoofio/brave-search-mcp-sse](https://github.com/Shoofio/brave-search-mcp-sse): Facilitates real-time streaming of Brave Search results to AI models via a centralized MCP/SSE interface, deployable with Docker or Helm.
 - [MaartenSmeets/mcp-server-search](https://github.com/MaartenSmeets/mcp-server-search): Facilitates AI models in retrieving real-time web information through Google search integration, ensuring efficient and ethical data access.
 - [HuangZeLinCute/github-mcp-server](https://github.com/HuangZeLinCute/github-mcp-server): Facilitates GitHub search operations through an MCP server interface.
@@ -58,44 +71,39 @@ Servers providing web search capabilities or interfacing with specialized search
 - [rebers/4o-mini-search-mcp](https://github.com/rebers/4o-mini-search-mcp): Enhance your AI's web search capabilities with a cost-effective MCP server using OpenAI's 4o-mini Search model.
 - [appleinmusic/baidu-search-mcp](https://github.com/appleinmusic/baidu-search-mcp): Facilitates intelligent searches using Baidu Wenxin API with support for multiple models and deep search capabilities.
 - [aniketkadukar1/search-mcp](https://github.com/aniketkadukar1/search-mcp): Facilitates real-time documentation search for AI/ML libraries within IDEs using asynchronous processing and Tavily API integration.
-- [Ray0907/mcp-arxiv](https://github.com/Ray0907/mcp-arxiv): Facilitates seamless academic paper search and retrieval from arXiv for LLMs, bypassing complex HTML parsing.
 - [showjason/opensearch-mcp-server](https://github.com/showjason/opensearch-mcp-server): Facilitates seamless integration with OpenSearch by providing tools for index and cluster management, as well as document search capabilities.
-- [Family-IT-Guy/perplexity-mcp](https://github.com/Family-IT-Guy/perplexity-mcp): Integrates Perplexity AI models into Claude Desktop, enabling seamless access to advanced search and reasoning capabilities.
-- [Alcova-AI/perplexity-mcp](https://github.com/Alcova-AI/perplexity-mcp): Facilitates seamless integration of Perplexity's search and reasoning capabilities with AI assistants like Claude, enhancing real-time information retrieval and complex problem-solving.
 - [bmorphism/krep-mcp-server](https://github.com/bmorphism/krep-mcp-server): A high-performance string search utility with MCP integration, leveraging optimized algorithms and multi-threading for efficient pattern searching.
 - [Viktor-berg5061/perplexity-serch-v2](https://github.com/Viktor-berg5061/perplexity-serch-v2): Provides web search capabilities using the Perplexity API with seamless integration for MCP-compatible AI assistants.
 - [douglarek/unsplash-mcp-server](https://github.com/douglarek/unsplash-mcp-server): Facilitates image search on Unsplash through an MCP server, leveraging the mark3labs/mcp-go library.
 - [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server): Facilitates seamless integration and advanced search capabilities for Unsplash images within applications.
-- [yokingma/one-search-mcp](https://github.com/yokingma/one-search-mcp): OneSearch MCP Server integrates multiple search engines and web scrapers for comprehensive web search, scraping, and extraction capabilities.
 - [kouui/web-search-duckduckgo](https://github.com/kouui/web-search-duckduckgo): Enables web search and content fetching using DuckDuckGo and Jina API without requiring an API key.
+- [win4r/arxiv-search-MCP-Server](https://github.com/win4r/arxiv-search-MCP-Server): Facilitates academic paper searches on arXiv with customizable parameters and structured data access.
 - [URDJMK/serpapi-mcp-server](https://github.com/URDJMK/serpapi-mcp-server): Enables AI assistants to perform comprehensive search operations across Google and YouTube using MCP servers integrated with SerpAPI.
 - [memohib/Web_Search_MCP](https://github.com/memohib/Web_Search_MCP): Enhance AI systems with real-time web search capabilities using the Tavily API integrated with MCP.
 - [leehanchung/bing-search-mcp](https://github.com/leehanchung/bing-search-mcp): Integrates Microsoft Bing Search API with AI assistants for web, news, and image searches.
 - [bitibi/OpenAI-WebSearch-MCP-Server](https://github.com/bitibi/OpenAI-WebSearch-MCP-Server): Facilitates real-time web searches using OpenAI's Responses API through an MCP server implementation.
 - [qwang07/kimi-mcp](https://github.com/qwang07/kimi-mcp): Kimi-mcp leverages Kimi AI's web search capabilities to communicate with MCP clients via standard input/output.
-- [intbjw/fofa-mcp-server](https://github.com/intbjw/fofa-mcp-server): A high-performance server for querying FOFA data using the MCP protocol, offering seamless integration with other systems.
-- [rahgadda/openapi_mcp_server](https://github.com/rahgadda/openapi_mcp_server): Facilitates LLM interactions with REST APIs through a configurable MCP server supporting OpenAPI specifications.
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag): A local MCP server enabling RAG-like web search model context without relying on external APIs.
 - [tositon/OpenDeepSearch](https://github.com/tositon/OpenDeepSearch): OpenDeepSearch is an open-source research tool leveraging MCP for in-depth analysis and synthesis of complex topics, integrating seamlessly with various MCP clients.
+- [ipsiuhang/python-doc-assist-mcp](https://github.com/ipsiuhang/python-doc-assist-mcp): Facilitates Python library documentation retrieval and compatibility checks through a search-first MCP approach.
 - [misanthropic-ai/ddg-mcp](https://github.com/misanthropic-ai/ddg-mcp): Provides DuckDuckGo search capabilities through the Model Context Protocol, enabling text, image, news, and video searches, along with AI chat functionalities.
+- [alejandro-ao/mcp-server-example](https://github.com/alejandro-ao/mcp-server-example): An educational MCP server implementation demonstrating integration with LLM clients and showcasing standardized context provision for AI applications.
 - [YeonwooSung/metasearch-mcp](https://github.com/YeonwooSung/metasearch-mcp): Facilitates metasearch operations using the Tavily API, returning AI-enhanced search results with detailed information.
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp): Facilitates real-time web searches via OpenAI's API, enhancing AI assistants with up-to-date information retrieval capabilities.
 - [AshDevFr/duckduckgo-mcp-server](https://github.com/AshDevFr/duckduckgo-mcp-server): Node.js server enabling DuckDuckGo web search through Model Context Protocol.
+- [tiovikram/openai-websearch-mcp](https://github.com/tiovikram/openai-websearch-mcp): Facilitates real-time web searches for AI models using OpenAI's Web Search API, with features like geographic customization and automatic citations.
 - [cnosuke/mcp-search](https://github.com/cnosuke/mcp-search): A Go-based server enabling web search functionality for MCP clients via the Brave Search API.
-- [ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol): Integrates the Sonar API to enable Claude with real-time web-wide research capabilities within the MCP ecosystem.
 - [w-jeon/mcp-brave-search](https://github.com/w-jeon/mcp-brave-search): Integrates the Brave Search API to provide comprehensive web and local search capabilities with smart fallbacks and flexible filtering.
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mcp-server): A TypeScript-based server enabling DuckDuckGo search functionality with integrated rate limiting and error handling.
 - [spences10/mcp-omnisearch](https://github.com/spences10/mcp-omnisearch): MCP Omnisearch integrates multiple search engines, AI tools, and content processing services into a single interface for comprehensive search and enhancement capabilities.
 - [modelcontextprotocol-servers/google-search-mcp](https://github.com/modelcontextprotocol-servers/google-search-mcp): A Playwright-based tool that performs Google searches, bypassing anti-bot mechanisms, and integrates with AI assistants for real-time search capabilities.
 - [cnosuke/mcp-meilisearch](https://github.com/cnosuke/mcp-meilisearch): Go-based wrapper enabling Meilisearch search engine to function as a Model Context Protocol server for LLMs like Claude.
 - [gabrimatic/mcp-web-search-tool](https://github.com/gabrimatic/mcp-web-search-tool): Empowers AI models with real-time web search capabilities through a modular MCP server integrated with the Brave Search API.
-- [modelcontextprotocol-servers/whois-mcp](https://github.com/modelcontextprotocol-servers/whois-mcp): Facilitates WHOIS lookups for AI agents to retrieve domain registration details without browser intervention.
-- [RossH121/perplexity-mcp](https://github.com/RossH121/perplexity-mcp): A Perplexity MCP server offering web search capabilities with intelligent model selection and domain filtering.
 - [algonacci/mcp-tavily-search](https://github.com/algonacci/mcp-tavily-search): Empowers clients with internet search capabilities through a configurable MCP server.
-- [bharathvaj-ganesan/whois-mcp](https://github.com/bharathvaj-ganesan/whois-mcp): Facilitates WHOIS lookups for AI agents, enabling them to retrieve domain registration details seamlessly.
+- [buger/probe](https://github.com/buger/probe): An AI-friendly, fully local semantic code search engine that integrates with AI editors via MCP server mode for efficient codebase exploration.
 - [spences10/mcp-embedding-search](https://github.com/spences10/mcp-embedding-search): Facilitates vector similarity search in transcript databases using a Turso backend, enabling users to find relevant segments by querying embeddings.
+- [ilyazub/serpapi-mcp-server](https://github.com/ilyazub/serpapi-mcp-server): Integrates with SerpApi to fetch and parse search engine results for seamless interaction with MCP clients.
 - [josemartinrodriguezmortaloni/webSearch-Tools](https://github.com/josemartinrodriguezmortaloni/webSearch-Tools): A Python-based tool for advanced web search and content extraction, seamlessly integrating with Claude for Desktop via MCP server.
-- [bkataru-workshop/mcp-duckduckresearch](https://github.com/bkataru-workshop/mcp-duckduckresearch): Enhances DuckDuckGo search with web content extraction and screenshot capabilities, integrating seamlessly with Roo Code for automated information retrieval.
 - [suhail-ak-s/mcp-typesense-server](https://github.com/suhail-ak-s/mcp-typesense-server): Empower AI models with Typesense search capabilities, enabling efficient data discovery and analysis within Typesense collections.
 - [devlimelabs/meilisearch-ts-mcp](https://github.com/devlimelabs/meilisearch-ts-mcp): Facilitates AI-driven interactions with Meilisearch through a standardized MCP interface, offering comprehensive index, document, and search management capabilities.
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server): Enhance your web search capabilities with this MCP server, offering DuckDuckGo integration, intelligent content parsing, and LLM-friendly output.
@@ -103,6 +111,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [kevinwatt/mcp-server-searxng](https://github.com/kevinwatt/mcp-server-searxng): Integrates with SearXNG to offer privacy-focused meta search capabilities across multiple engines.
 - [wysh3/perplexity-mcp-zerver](https://github.com/wysh3/perplexity-mcp-zerver): A TypeScript-based MCP server enabling AI-driven research through Perplexity's web interface without API keys, featuring browser automation and persistent chat capabilities.
 - [fengin/search-server](https://github.com/fengin/search-server): A Python-based MCP server offering seamless integration with Cursor and Claude Desktop for multi-engine search capabilities, supporting Brave, Metaso, and Bocha search engines.
+- [afrise/academic-search-mcp-server](https://github.com/afrise/academic-search-mcp-server): Facilitates real-time academic paper searches and metadata retrieval from Semantic Scholar and Crossref for Claude Desktop integration.
 - [jaacob/perplexity-mcp](https://github.com/jaacob/perplexity-mcp): Enables Claude Desktop to perform web searches using Perplexity's API for enhanced information retrieval.
 - [adenot/mcp-google-search](https://github.com/adenot/mcp-google-search): Facilitates web searches and webpage content extraction using Google Custom Search API.
 - [arben-adm/brave-mcp-search](https://github.com/arben-adm/brave-mcp-search): Facilitates integration with AI assistants by enabling Brave Search capabilities through an MCP server.
@@ -126,17 +135,17 @@ Servers providing web search capabilities or interfacing with specialized search
 - [meilisearch/meilisearch-mcp](https://github.com/meilisearch/meilisearch-mcp): Facilitates seamless interaction with Meilisearch through LLM interfaces, offering dynamic connection management, smart search capabilities, and comprehensive API key and task management.
 - [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng): Integrates the SearxNG API to provide web search capabilities with pagination through an MCP server.
 - [mixelpixx/Google-Search-MCP-Server](https://github.com/mixelpixx/Google-Search-MCP-Server): Empower AI models with advanced Google search and webpage content analysis capabilities through a robust MCP server.
-- [alexwohletz/perplexity-server](https://github.com/alexwohletz/perplexity-server): Facilitates AI-powered searches with web citations using Perplexity AI's API.
 - [nexon33/search-fetch-server-mcp](https://github.com/nexon33/search-fetch-server-mcp): A TypeScript-based MCP server implementing a notes system with tools for creating notes, fetching URLs, and performing DuckDuckGo searches.
 - [limklister/mcp-google-custom-search-server](https://github.com/limklister/mcp-google-custom-search-server): Facilitates web searches via Google's Custom Search API for Language Learning Models using a standardized MCP interface.
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search): Facilitates cross-platform file searching with platform-specific optimizations using the Everything SDK on Windows, Spotlight on macOS, and locate on Linux.
+- [it-beard/exa-server](https://github.com/it-beard/exa-server): AI-powered code search using Exa API for intelligent retrieval in AI assistants.
 - [it-beard/tavily-server](https://github.com/it-beard/tavily-server): Empowers AI assistants with advanced search capabilities through the Tavily API, offering rich results and comprehensive search history management.
 - [SecretiveShell/MCP-searxng](https://github.com/SecretiveShell/MCP-searxng): Connects agentic systems to search systems using searXNG for web searches.
 - [Lincest/mcp-papersearch](https://github.com/Lincest/mcp-papersearch): Facilitates searching Arxiv papers using the Model Context Protocol.
 - [kagisearch/kagimcp](https://github.com/kagisearch/kagimcp): Facilitates Kagi search and summarization tasks through a Model Context Protocol server, integrating with tools like Claude Desktop.
-- [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch): Facilitates real-time web research for Claude by integrating Google search and webpage content extraction.
-- [tanigami/mcp-server-perplexity](https://github.com/tanigami/mcp-server-perplexity): Facilitates chat completion with citations using the Perplexity API, integrated with Claude Desktop.
+- [wavelovey/pubmed_search](https://github.com/wavelovey/pubmed_search): Facilitates PubMed searches and note management through an MCP server with customizable summarization prompts.
 - [letsbuildagent/perplexity-tool](https://github.com/letsbuildagent/perplexity-tool): Integrates Perplexity AI's API with Claude Desktop for web-based research and citation-enhanced answers.
+- [anpigon/mcp-server-obsidian-omnisearch](https://github.com/anpigon/mcp-server-obsidian-omnisearch): Facilitates seamless search within Obsidian vaults via a REST API, returning absolute paths to matching notes for easy integration.
 - [RamXX/mcp-tavily](https://github.com/RamXX/mcp-tavily): Empower LLMs with AI-driven web search capabilities using Tavily's search API for comprehensive and direct answer retrieval.
 - [gowtham3105/mcp_server_opensearch](https://github.com/gowtham3105/mcp_server_opensearch): Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.
 - [kiendoantrung/ddg-server](https://github.com/kiendoantrung/ddg-server): Enables web search capabilities through DuckDuckGo using the Model Context Protocol.

@@ -2,59 +2,75 @@
 
 Servers providing access to the host operating system's command line/shell, executing OS commands, or managing system information.
 
-- [egoist/shell-command-mcp](https://github.com/egoist/shell-command-mcp): Facilitates the execution of shell commands through an MCP server with configurable command restrictions.
+- [anurag-dhamala/os-info-mcp-server](https://github.com/anurag-dhamala/os-info-mcp-server): Provides real-time operating system information through an MCP server interface.
+- [magicuidesign/cli](https://github.com/magicuidesign/cli): Facilitates the installation and configuration of Magic UI components through a command-line interface.
+- [classfang/ssh-mcp-server](https://github.com/classfang/ssh-mcp-server): Facilitates secure remote SSH command execution via the MCP protocol, enabling AI assistants to interact with servers without exposing SSH credentials.
+- [winterfx/mcpcli](https://github.com/winterfx/mcpcli): A command-line interface for managing and interacting with multiple MCP servers, offering features like tool invocation and server inspection.
+- [reinier-millo/i18n-mcp-server](https://github.com/reinier-millo/i18n-mcp-server): Facilitates seamless internationalization by translating JSON language files using language models through a server interface.
+- [sadeghtkd/ping-mcp-server](https://github.com/sadeghtkd/ping-mcp-server): Facilitates network connectivity tests and ping operations for Claude Desktop via MCP.
+- [the-nine-nation/mini-cursor](https://github.com/the-nine-nation/mini-cursor): A lightweight command-line tool enabling Cursor-like programming with AI agents, supporting multi-tool MCP invocation and integration with various LLMs.
+- [tailor-platform/tailor-mcp](https://github.com/tailor-platform/tailor-mcp): Tailor Platform's command-line utility for managing and configuring applications via the MCP server, offering seamless integration with LLM clients and GraphQL access.
+- [calvinw/mcp-sqlite-client](https://github.com/calvinw/mcp-sqlite-client): Facilitates natural language interaction with SQLite databases via a command-line client using OpenRouter's LLM API.
+- [KilluaYZ/elixir_linux_mcp_server](https://github.com/KilluaYZ/elixir_linux_mcp_server): Facilitates precise Linux source code queries using Elixir for LLMs.
+- [dolwinf/mcp-terminal-client](https://github.com/dolwinf/mcp-terminal-client): A terminal-based interactive chat client for communicating with MCP servers using Anthropic's Claude models.
+- [EdenYavin/OSV-MCP](https://github.com/EdenYavin/OSV-MCP): A lightweight server for querying the OSV database to fetch CVE details, affected versions, and fix versions using the Model Context Protocol.
+- [someaka/wayland-mcp](https://github.com/someaka/wayland-mcp): Wayland MCP Server offers screenshot, analysis, and input control tools tailored for modern Linux desktops.
+- [mcollina/perm-shell-mcp](https://github.com/mcollina/perm-shell-mcp): PermShell MCP enables secure execution of shell commands with explicit permission notifications, ensuring transparency and safety.
+- [AB498/computer-control-mcp](https://github.com/AB498/computer-control-mcp): Enables comprehensive computer control through mouse, keyboard, and OCR functionalities using PyAutoGUI and RapidOCR, with zero external dependencies.
+- [mediar-ai/mcp-server-macos-use](https://github.com/mediar-ai/mcp-server-macos-use): Swift-based server enabling macOS application control via accessibility APIs, compatible with MCP clients like Claude Desktop.
+- [gamunu/mcp-unix-shell](https://github.com/gamunu/mcp-unix-shell): A Go-based server for executing shell commands via MCP, featuring command execution history and configurable security settings.
+- [shkna1368/mcp-cline](https://github.com/shkna1368/mcp-cline): Facilitates the setup and configuration of an MCP server using SQLite for database management and integration with Visual Studio Code.
+- [krishanka/remote-mcp](https://github.com/krishanka/remote-mcp): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [Machine-To-Machine/m2m-mcp-server-ssh-server](https://github.com/Machine-To-Machine/m2m-mcp-server-ssh-server): A secure SSH server enabling remote access and interaction with multiple MCP tools through a unified interface.
+- [bfollington/remote-mcp-server](https://github.com/bfollington/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool invocation.
+- [Deniscartin/mcp-cli](https://github.com/Deniscartin/mcp-cli): A comprehensive toolkit for interacting with Model Context Protocol servers, offering a GUI, CLI, and API for managing server configurations and executing queries.
+- [Machine-To-Machine/m2m-mcp-server-ssh-client](https://github.com/Machine-To-Machine/m2m-mcp-server-ssh-client): Facilitates secure SSH connections to remote MCP servers, enabling access to MCP tools and resources over a secure channel.
+- [paulsmith/tailscale-mcp-server](https://github.com/paulsmith/tailscale-mcp-server): Facilitates secure, read-only interactions with Tailscale networks via MCP-compatible clients like Claude Desktop.
+- [thuanpham582002/tabby-mcp-server](https://github.com/thuanpham582002/tabby-mcp-server): Empower your terminal with AI-driven control and automation using the Tabby MCP server.
+- [Ryuhei-So/mermaid-cli-server](https://github.com/Ryuhei-So/mermaid-cli-server): Generates PNG images from Mermaid markdown using the official mermaid-cli.
+- [LiTschii/remote-mcp-server](https://github.com/LiTschii/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [wgr1984/ns-lookup-mcp](https://github.com/wgr1984/ns-lookup-mcp): Provides a REST API for DNS lookups using the nslookup command, enabling easy integration of DNS resolution into applications.
+- [GeLi2001/mcp-terminal](https://github.com/GeLi2001/mcp-terminal): A terminal-based interactive client for managing and communicating with MCP servers, supporting multiple transport methods and server configurations.
 - [Wh0am123/MCP-Kali-Server](https://github.com/Wh0am123/MCP-Kali-Server): A lightweight API bridge enabling AI-driven offensive security testing by connecting MCP clients to a Kali Linux machine for executing terminal commands and solving CTF challenges.
 - [andresthor/cmd-line-mcp](https://github.com/andresthor/cmd-line-mcp): A secure MCP server enabling AI assistants to execute Unix/macOS terminal commands with interactive permission management and command chaining support.
 - [jhead/macos-screen-mcp](https://github.com/jhead/macos-screen-mcp): Enables LLMs to capture and control macOS window screenshots and interactions.
+- [StanNieuwmans/mcp-bridge](https://github.com/StanNieuwmans/mcp-bridge): Facilitates communication between Claude Desktop and MCP-compatible backends by bridging STDIO and SSE protocols.
 - [t-suganuma/ssh-connect-mcp-server](https://github.com/t-suganuma/ssh-connect-mcp-server): Facilitates SSH connections and file operations through a robust MCP server interface.
-- [yansircc/remote-mcp-server](https://github.com/yansircc/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [niwaip/remote-mcp-server](https://github.com/niwaip/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [joe960913/remote-mcp-server](https://github.com/joe960913/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [RIKTESH89/mcp_client](https://github.com/RIKTESH89/mcp_client): A TypeScript bridge connecting local LLMs to MCP servers, enabling open-source models to utilize advanced tools for tasks like filesystem operations, web search, and email management.
+- [PWereh/claude-mcp-get](https://github.com/PWereh/claude-mcp-get): A toolkit for seamless installation and configuration of MCP servers on Windows, addressing common Node.js and path resolution issues.
+- [zjf2671/remote-mcp-server](https://github.com/zjf2671/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
 - [Pleasurecruise/linux-do-mcp](https://github.com/Pleasurecruise/linux-do-mcp): Facilitates interaction with the Linux DO community through a comprehensive MCP server, offering APIs for accessing and managing forum topics, notifications, and user-specific data.
-- [sangcnguyen/gridly-mcp-server](https://github.com/sangcnguyen/gridly-mcp-server): Facilitates project, grid, and database management through the Gridly API with comprehensive MCP server functionalities.
-- [stevearagonsite/PythonServerMcp](https://github.com/stevearagonsite/PythonServerMcp): Provides real-time cryptocurrency price information via an MCP server built with Python and Docker, integrating CoinMarketCap API for seamless data retrieval.
-- [yhwancha/mcp_server_starter_typescript](https://github.com/yhwancha/mcp_server_starter_typescript): A TypeScript starter template for building customizable Model Context Protocol servers with sample tool implementations.
-- [yava555/mcp-server-adb](https://github.com/yava555/mcp-server-adb): A TypeScript-based server enabling AI assistants to control Android devices via ADB commands for device management and diagnostics.
-- [younggeeks/remote-mcp-server](https://github.com/younggeeks/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [miludeerforest/remote-mcp-server](https://github.com/miludeerforest/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
 - [eschnou/gepetto](https://github.com/eschnou/gepetto): Gepetto is a CLI-based AI agent that automates browser tasks using MCP for seamless integration with third-party tools.
+- [antonum/mcp-server-bash](https://github.com/antonum/mcp-server-bash): A minimalistic bash script-based MCP server that facilitates basic arithmetic operations through JSON-RPC commands.
 - [CorrectRoadH/ZimaOS-MCP](https://github.com/CorrectRoadH/ZimaOS-MCP): ZimaOS-MCP leverages the mcp-framework to provide a robust server environment for Model Context Protocol operations.
 - [jasondsmith72/total-pc-control](https://github.com/jasondsmith72/total-pc-control): Control your screen, mouse, and keyboard programmatically using nut.js for seamless automation.
-- [rajyraman/genaiscript-pac-az-mcp](https://github.com/rajyraman/genaiscript-pac-az-mcp): Facilitates interaction with Azure CLI and Power Platform CLI through MCP tools, enabling seamless integration with AI models.
-- [sankhodeep/android-adb-controller](https://github.com/sankhodeep/android-adb-controller): Facilitates AI-driven control of Android devices through ADB commands, enabling functionalities like device listing and screen tapping.
+- [ArjAthreya/remote-mcp-server](https://github.com/ArjAthreya/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
+- [11im/python-mcp-remote-ssh](https://github.com/11im/python-mcp-remote-ssh): Facilitates remote file system management and command execution over SSH using the MCP protocol.
 - [Lewin671/shell-mcp](https://github.com/Lewin671/shell-mcp): Enables LLMs to securely execute and manage shell commands through a structured MCP interface.
-- [nguyenvanduocit/script-mcp](https://github.com/nguyenvanduocit/script-mcp): Facilitates the execution of command line scripts across multiple platforms with safety and error handling features.
+- [zhoulf1006/cf-remote-mcp-server](https://github.com/zhoulf1006/cf-remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [yannbam/simple-bash-mcp](https://github.com/yannbam/simple-bash-mcp): A secure Bash command execution server with multiple security layers, including command and directory whitelists, designed for safe and controlled command execution.
 - [21st-dev/cli](https://github.com/21st-dev/cli): Enhance AI IDEs with MagicMCP configuration for seamless integration and functionality.
+- [pashaydev/terminal.shop.mcp](https://github.com/pashaydev/terminal.shop.mcp): Facilitates seamless interaction with Terminal.shop for AI assistants, enabling product browsing, cart management, order placement, and subscription handling through a dedicated API.
 - [yoi-hibino/mcp-ssh-server](https://github.com/yoi-hibino/mcp-ssh-server): A Model Context Protocol (MCP) compatible SSH server designed for seamless integration with Windsurf IDE, supporting full MCP protocol for SSH operations.
 - [allenbijo/mcp-sysinfo](https://github.com/allenbijo/mcp-sysinfo): Provides real-time system information for monitoring and diagnostics.
 - [rishabkoul/iTerm-MCP-Server](https://github.com/rishabkoul/iTerm-MCP-Server): Facilitates AI assistant interactions with iTerm2 terminals via the Model Context Protocol.
 - [shuakami/mcp-ssh](https://github.com/shuakami/mcp-ssh): Facilitates AI-driven SSH management through a standardized MCP interface, enabling seamless remote operations without manual command input.
-- [moritalous/mcp-tools-cli](https://github.com/moritalous/mcp-tools-cli): A command-line client for interacting with Model Context Protocol (MCP) servers, enabling users to list and call tools on specified servers.
-- [fist-maestro/mcp-servers](https://github.com/fist-maestro/mcp-servers): A collection of MCP-based services supporting Cursor IDE's intelligent features, including demo and weather services.
-- [jonnadul/mcpsshclient](https://github.com/jonnadul/mcpsshclient): An MCP server SSHClient with an agentic security feature to detect and prevent unsafe SSH commands.
+- [iuill/mcp_sse_sample](https://github.com/iuill/mcp_sse_sample): A sample implementation of an MCP server using Server-Sent Events (SSE) to demonstrate various tools and logging capabilities.
 - [baryhuang/mcp-remote-macos-use](https://github.com/baryhuang/mcp-remote-macos-use): Empowers AI agents to autonomously control remote macOS systems with full desktop capabilities, eliminating the need for additional software installations.
 - [weidwonder/terminal-mcp-server](https://github.com/weidwonder/terminal-mcp-server): Terminal MCP Server enables AI models to execute system commands on local or remote hosts via SSH, with support for persistent sessions and environment variables.
 - [mkusaka/mcp-shell-server](https://github.com/mkusaka/mcp-shell-server): Facilitates AI agents in executing shell commands across various environments with robust error handling and logging.
-- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos): Provides real-time access to NixOS resources, ensuring AI assistants deliver accurate information about packages, system options, and configurations.
 - [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp): Facilitates interaction with iOS simulators by providing UI control and inspection capabilities.
-- [irvinebroque/remote-mcp-server](https://github.com/irvinebroque/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [YUZongmin/claude-mcp-manager](https://github.com/YUZongmin/claude-mcp-manager): A shell script for managing MCP profiles in Claude Desktop, enabling easy switching and configuration management.
-- [Abiorh001/mcp_omni_connect](https://github.com/Abiorh001/mcp_omni_connect): MCPOmni Connect is a versatile CLI client that facilitates seamless integration and management of multiple MCP servers and AI models, offering advanced tool orchestration and secure communication.
+- [gitcnd/easy_mcp](https://github.com/gitcnd/easy_mcp): A cross-platform Python module for creating MCP servers with SSE support, compatible with Windows, Mac, and Linux.
+- [The-Focus-AI/tezlab-cli](https://github.com/The-Focus-AI/tezlab-cli): Provides a standardized interface for accessing Tesla vehicle data and charging information.
 - [nickgnd/tmux-mcp](https://github.com/nickgnd/tmux-mcp): Facilitates AI interaction with tmux sessions, enabling command execution and session management through Claude Desktop.
 - [Zanedname/cursor-mcp-Servers-0.46-windows-cmd-test](https://github.com/Zanedname/cursor-mcp-Servers-0.46-windows-cmd-test): A comprehensive guide for configuring and using MCP Servers in Cursor IDE 0.46 on Windows, enabling AI assistants to leverage external tools and services.
 - [alxspiker/Windows-Command-Line-MCP-Server](https://github.com/alxspiker/Windows-Command-Line-MCP-Server): Facilitates secure interactions between AI models and Windows command-line operations, ensuring safe execution of system commands and development tasks.
-- [kunjanshah0811/MCP-Terminal-Server](https://github.com/kunjanshah0811/MCP-Terminal-Server): Facilitates shell command execution within a defined workspace using an MCP-compatible terminal server for seamless integration with Claude-AI.
 - [huhu415/macPilotCli](https://github.com/huhu415/macPilotCli): MacPilot CLI empowers LLMs to control macOS systems via MCP, offering tools for system operations like cursor movement, app launching, and screen capturing.
 - [zhongmingyuan/mcp-my-mac](https://github.com/zhongmingyuan/mcp-my-mac): A lightweight server that provides real-time Mac system information via a simple API for AI assistants like Claude.
-- [im2nguyen/mcp-cli](https://github.com/im2nguyen/mcp-cli): A versatile command-line interface for managing and interacting with AI-powered MCP servers, supporting both on-demand and long-running server processes.
-- [oleander/home-assistant-mcp-server](https://github.com/oleander/home-assistant-mcp-server): Integrates Home Assistant with LLMs for smart home control and querying via natural language.
+- [atom2ueki/mcp-server-ios-simulator](https://github.com/atom2ueki/mcp-server-ios-simulator): Facilitates programmatic control of iOS simulators using the Model Context Protocol for seamless integration with MCP-compatible clients.
+- [0xBruno/MCPExec](https://github.com/0xBruno/MCPExec): Facilitates the execution of local CLI commands through an MCP server setup.
 - [mario-andreschak/mcp-essentials-windows](https://github.com/mario-andreschak/mcp-essentials-windows): A robust MCP server for Windows enabling AI assistants to perform file operations, command execution, and web tasks.
 - [TSGCFO/wcgw-windows](https://github.com/TSGCFO/wcgw-windows): A cross-platform MCP server enabling autonomous shell and coding agents for Claude and ChatGPT, facilitating local code execution and project management.
-- [landicefu/android-adb-mcp-server](https://github.com/landicefu/android-adb-mcp-server): Facilitates AI-driven automation and management of Android devices via ADB, enhancing development and testing workflows.
 - [swairshah/claude-cli-mcp-client](https://github.com/swairshah/claude-cli-mcp-client): This repository provides a basic CLI client for interacting with MCP-compatible servers, featuring example configurations for Node.js and Python servers.
-- [jonrad/tmux-mcp](https://github.com/jonrad/tmux-mcp): Enables AI-driven programmatic control over tmux sessions through a Model Context Protocol server.
 - [codelion/dynamic-shell-server](https://github.com/codelion/dynamic-shell-server): Facilitates secure shell command execution with dynamic user approval and audit logging.
 - [kevinwatt/shell-mcp](https://github.com/kevinwatt/shell-mcp): Provides secure shell command execution for LLMs with resource and timeout controls.
 - [xkiranj/linux-command-mcp](https://github.com/xkiranj/linux-command-mcp): Facilitates secure remote execution of Linux commands using the Model Context Protocol.
@@ -63,27 +79,30 @@ Servers providing access to the host operating system's command line/shell, exec
 - [shane-kercheval/mcp-client-agent](https://github.com/shane-kercheval/mcp-client-agent): A CLI tool leveraging DSPy to autonomously interact with MCP servers using defined toolsets for task execution.
 - [spences10/mcp-wsl-exec](https://github.com/spences10/mcp-wsl-exec): Facilitates secure command execution within Windows Subsystem for Linux environments, incorporating safety features like command validation and shell injection protection.
 - [RinardNick/mcp-terminal](https://github.com/RinardNick/mcp-terminal): Provides secure terminal access for executing shell commands with robust security and resource controls.
-- [AItheLab/mcp-terminal-use](https://github.com/AItheLab/mcp-terminal-use): Facilitates terminal access for Claude by allowing interaction with specified directories through a Model Context Protocol server.
 - [dillip285/mcp-terminal](https://github.com/dillip285/mcp-terminal): A secure command-line interface server enabling AI models to interact with terminals while maintaining security and control.
 - [8bit-wraith/tmux-server](https://github.com/8bit-wraith/tmux-server): Enhance tmux sessions with real-time management and secure communication through Claude's MCP interface.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp): Facilitates command execution and REPL interaction within iTerm sessions, enhancing terminal control and CLI assistance.
-- [trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide](https://github.com/trevorwilkerson/Windows-MCP-Server-Installation-Verification-Guide): A detailed guide for verifying and troubleshooting MCP server installations on Windows, highlighting key differences from MacOS setups.
+- [lyuhau/claude-mcp-repl](https://github.com/lyuhau/claude-mcp-repl): Enhances Claude with Python execution, shell commands, and file manipulation capabilities through a Python-based REPL server.
 - [anton-107/server-run-commands](https://github.com/anton-107/server-run-commands): Facilitates command execution on the local OS via MCP, returning process results to the LLM.
 - [stat-guy/terminal](https://github.com/stat-guy/terminal): Facilitates terminal command execution via Claude Desktop with comprehensive output capture and error handling.
 - [odysseus0/mcp-server-shell](https://github.com/odysseus0/mcp-server-shell): Facilitates controlled shell command execution via Model Context Protocol, enabling LLMs to interact with system environments.
-- [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server): Facilitates secure remote execution of whitelisted shell commands with comprehensive output and timeout control.
+- [chelsea-zhou/mcp-init](https://github.com/chelsea-zhou/mcp-init): A TypeScript-based MCP server implementing a simple notes system with resources, tools, and prompts for note management and summarization.
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server): Facilitates secure command-line operations with customizable security policies for controlled CLI access in LLM applications.
+- [oakenai/mcp-edit-file-lines](https://github.com/oakenai/mcp-edit-file-lines): A TypeScript-based server for precise line-based text file edits using string or regex patterns, ensuring secure operations within specified directories.
+- [andybrandt/mcp-simple-textedit](https://github.com/andybrandt/mcp-simple-textedit): Enhances AI-driven text editing with pattern-based identification and content verification for secure and context-aware modifications.
 - [SimonB97/win-cli-mcp-server](https://github.com/SimonB97/win-cli-mcp-server): Facilitates secure command-line interactions on Windows systems with multi-shell and SSH support, offering robust security controls and configuration options.
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP): Empower Claude with terminal control and file system management for seamless code editing and process handling.
-- [mikegehard/isolated-commands-mcp-server](https://github.com/mikegehard/isolated-commands-mcp-server): A TypeScript-based MCP server for managing and summarizing text notes in an isolated environment.
 - [Cheffromspace/MCPControl](https://github.com/Cheffromspace/MCPControl): Facilitates programmatic control over Windows OS operations, including mouse, keyboard, and window management, through the Model Context Protocol.
+- [kentaro/mcp-local-command-server](https://github.com/kentaro/mcp-local-command-server): A TypeScript-based server that executes commands and returns structured outputs, designed for integration with Claude Desktop.
+- [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver): Enables Claude to access current local and UTC time through a simple MCP server.
+- [blazickjp/shell-mcp-server](https://github.com/blazickjp/shell-mcp-server): Facilitates secure shell command execution for AI applications, ensuring controlled access within specified directories.
 - [Zelaron/Pandoras-Shell](https://github.com/Zelaron/Pandoras-Shell): Pandora's Shell allows AI assistants to execute terminal commands securely through a shell interface, emphasizing controlled environments for safe usage.
 - [shaike1/mcp-server-ssh](https://github.com/shaike1/mcp-server-ssh): Facilitates secure remote command execution and file operations via SSH for MCP environments.
 - [non-dirty/mcp-server-restart](https://github.com/non-dirty/mcp-server-restart): Facilitates the seamless restart of Claude Desktop on Mac using MCP, ensuring tool installations take effect efficiently.
 - [gkctou/mcp-cli](https://github.com/gkctou/mcp-cli): A secure Node.js server implementing the Model Context Protocol with path whitelist validation for controlled file system operations and command execution.
-- [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli): A command-line interface for interacting with Model Context Provider servers, enabling seamless communication with LLMs through a robust tool system and advanced conversation management.
+- [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands): Facilitates command and script execution via the Model Context Protocol for integration with LLMs like Claude.
 - [Cheffromspace/windows-implementation](https://github.com/Cheffromspace/windows-implementation): Enables Claude to securely control Windows systems via a three-layer architecture, offering real-time desktop feedback and comprehensive system operations.
 - [g0t4/mcp-server-macos-defaults](https://github.com/g0t4/mcp-server-macos-defaults): Facilitates reading and writing macOS settings through a Model Context Protocol server.
+- [adhikasp/mcp-client-cli](https://github.com/adhikasp/mcp-client-cli): A command-line interface for executing LLM prompts and interacting with MCP-compatible servers.
 - [mlaugharn/cli-mcp](https://github.com/mlaugharn/cli-mcp): Facilitates interaction with command-line interfaces through a model context protocol, enabling command execution and resource management.
-- [MarkusPfundstein/cmd-line-executor-MCP](https://github.com/MarkusPfundstein/cmd-line-executor-MCP): Facilitates command line execution through an MCP server interface, returning execution results like stdout and status codes.
 
