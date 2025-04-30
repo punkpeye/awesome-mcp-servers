@@ -523,6 +523,8 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) 🏠 📇 - 기본적인 로컬 taskwarrior 사용(작업 추가, 업데이트, 제거)을 위한 MCP 서버
 - [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - Ankr Advanced API를 래핑하는 MCP 서버 구현. 이더리움, BSC, 폴리곤, 아발란체 등 여러 체인에서 NFT, 토큰 및 블록체인 데이터에 접근할 수 있습니다.
 - [Alfex4936/kogrammar](https://github.com/Alfex4936/Hangul-MCP) 📇 - 한국어 맞춤법/글자 수 세기 MCP 서버
+- [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - 로컬 사용자 프롬프트 및 채팅 기능을 MCP 루프에 직접 추가하여 대화형 LLM 워크플로를 활성화합니다.
+
 
 ## 프레임워크
 
