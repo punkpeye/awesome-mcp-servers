@@ -150,6 +150,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 
 スキーマ検査機能を備えた安全なデータベースアクセス。読み取り専用アクセスを含む構成可能なセキュリティ制御を使用してデータをクエリおよび分析することができます。
 
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 自動編集、コンテンツモデレーション、音声クローニング、ハイライト生成、検索可能なビデオモーメントなど、AI を活用したビデオワークフローを作成します。これらはすべて、シンプルな API と直感的なチャットベースのインターフェースを通じてアクセスできます。
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - 七牛クラウド製品に基づいて構築されたMCP、七牛クラウドストレージやインテリジェントマルチメディアサービスなどへのアクセスをサポートします。
 - [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) ☕ 🐍 ☁️ - テーブル ストア用の MC P サービスには、ドキュメントの追加、ドキュメント ベースのセマンティック検索、ドン ベクトル サンド スカラーがラグ フレンドリーでサーバー レスなどの機能があります。
 aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存储(Tablestore)的 MCP 服务器实现，特性包括添加文档、基于向量和标量进行语义搜索、RAG友好。
@@ -243,6 +244,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 ### 🔎 <a name="search"></a>検索
 
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 自動編集、コンテンツモデレーション、音声クローニング、ハイライト生成、検索可能なビデオモーメントなど、AI を活用したビデオワークフローを作成します。これらはすべて、シンプルな API と直感的なチャットベースのインターフェースを通じてアクセスできます。
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless Model Context Protocolサービスは、MCPエコシステム内で離れることなくWeb検索を可能にするGoogle SERP APIへのMCPサーバコネクタとして機能します。
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - Braveの検索APIを使用したWeb検索機能
 - [Dumpling-AI/mcp-server-dumplingai](https://github.com/Dumpling-AI/mcp-server-dumplingai) 🎖️ 📇 ☁️ - [Dumpling AI](https://www.dumplingai.com/) によるデータ取得、Webスクレイピング、ドキュメント変換API
@@ -294,6 +296,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>その他のツールと統合
 
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 自動編集、コンテンツモデレーション、音声クローニング、ハイライト生成、検索可能なビデオモーメントなど、AI を活用したビデオワークフローを作成します。これらはすべて、シンプルな API と直感的なチャットベースのインターフェースを通じてアクセスできます。
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 3,000以上の事前構築されたクラウドツール（Actors として知られる）を使用して、ウェブサイト、eコマース、ソーシャルメディア、検索エンジン、地図などからデータを抽出できます。
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - このサーバーは、LLMが計算機を使用して正確な数値計算を行えるようにします
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - ほぼすべてのファイルやウェブコンテンツをMarkdownに変換するMCPサーバー
