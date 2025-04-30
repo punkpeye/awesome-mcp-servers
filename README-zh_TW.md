@@ -115,6 +115,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 提供藝術收藏、文化遺產和博物館資料庫的訪問與探索。讓 AI 模型能夠搜尋和分析藝術文化內容。
 
+- [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 提供全面精準的八字排盤和測算信息
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - 從您的影片集合中添加、分析、搜尋和生成影片剪輯
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 荷蘭國立博物館 API 整合，支援藝術品搜尋、詳情查詢和收藏品瀏覽
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 整合 AniList API 獲取動畫和漫畫資訊的 MCP 伺服器
