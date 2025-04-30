@@ -127,6 +127,7 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - Integração de servidor MCP para DaVinci Resolve, fornecendo ferramentas poderosas para edição de vídeo, correção de cores, gerenciamento de mídia e controle de projeto
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - Um servidor MCP integrando a API do AniList para informações sobre anime e mangá
 - [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - Servidor MCP usando a API do Aseprite para criar pixel art
+- [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - Fornece análises abrangentes e precisas de Bazi (Quatro Pilares do Destino)
 
 ### 📂 <a name="automação-de-navegadores"></a>Automação de Navegadores
 
