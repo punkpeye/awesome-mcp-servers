@@ -251,6 +251,7 @@ Ferramentas e integrações que aprimoram o fluxo de trabalho de desenvolvimento
 - [admica/FileScopeMCP](https://github.com/admica/FileScopeMCP) 🐍 📇 🦀 - Analisa sua base de código identificando arquivos importantes com base em relacionamentos de dependência. Gera diagramas e pontuações de importância, ajudando assistentes de IA a entender a base de código.
 - [ambar/simctl-mcp](https://github.com/ambar/simctl-mcp) 📇 🏠 🍎 Uma implementação de servidor MCP para controle de Simulador iOS.
 - [api7/apisix-mcp](https://github.com/api7/apisix-mcp) 🎖️ 📇 🏠 Servidor MCP que oferece suporte à consulta e gerenciamento de todos os recursos no [Apache APISIX](https://github.com/apache/apisix).
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - Crie fluxos de trabalho de vídeo baseados em IA, incluindo edição automática, moderação de conteúdo, clonagem de voz, geração de destaques e momentos de vídeo pesquisáveis — tudo acessível por meio de APIs simples e interfaces intuitivas baseadas em chat.
 
 ### 🧮 <a name="ferramentas-de-ciência-de-dados"></a>Ferramentas de Ciência de Dados
 
@@ -422,7 +423,6 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) 🐍 🏠 - Exponha todas as intenções de voz do Home Assistant através de um servidor de Protocolo de Contexto de Modelo permitindo controle doméstico.
 - [Amazon Bedrock Nova Canvas](https://github.com/zxkane/mcp-server-amazon-bedrock) 📇 ☁️ - Use o modelo Amazon Nova Canvas para geração de imagens.
 - [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server) 🐍/📇 ☁️ - Envie solicitações para OpenAI, MistralAI, Anthropic, xAI, Google AI ou DeepSeek usando o protocolo MCP via ferramenta ou prompts predefinidos. Chave de API do fornecedor necessária
-- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - Crie fluxos de trabalho de vídeo baseados em IA, incluindo edição automática, moderação de conteúdo, clonagem de voz, geração de destaques e momentos de vídeo pesquisáveis — tudo acessível por meio de APIs simples e interfaces intuitivas baseadas em chat.
 
 ## Frameworks
 
