@@ -227,6 +227,7 @@
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - Azure Data Explorer 데이터베이스 쿼리 및 분석
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - Prometheus 오픈 소스 모니터링 시스템 쿼리 및 분석.
 - [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) 📇 ☁️ — Neon Serverless Postgres를 사용하여 Postgres 데이터베이스를 생성하고 관리하기 위한 MCP 서버
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 자동 편집, 콘텐츠 검토, 음성 복제, 하이라이트 생성, 검색 가능한 비디오 순간을 포함한 AI 기반 비디오 워크플로우를 생성하세요. 모든 기능은 간단한 API와 직관적인 채팅 기반 인터페이스를 통해 액세스할 수 있습니다.
 - [XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server) 📇 ☁️ — 텍스트-SQL LLM으로 XiyanSQL을 사용하여 자연어 쿼리로 데이터베이스에서 데이터를 가져오는 것을 지원하는 MCP 서버.
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) 📇 🏠 – 주요 데이터베이스를 지원하는 범용 데이터베이스 MCP 서버.
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - GreptimeDB 쿼리를 위한 MCP 서버.
@@ -366,6 +367,7 @@
 
 ### 🔎 <a name="search"></a>검색
 
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 자동 편집, 콘텐츠 검토, 음성 복제, 하이라이트 생성, 검색 가능한 비디오 순간을 포함한 AI 기반 비디오 워크플로우를 생성하세요. 모든 기능은 간단한 API와 직관적인 채팅 기반 인터페이스를 통해 액세스할 수 있습니다.
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless Model Context Protocol 서비스는 MCP 생태계 내에서 떠나지 않고 웹 검색을 가능하게 하는 Google SERP API에 대한 MCP 서버 커넥터 역할을 합니다.
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - Brave의 검색 API를 사용한 웹 검색 기능
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - NYTimes API를 사용하여 기사 검색
@@ -437,6 +439,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>기타 도구 및 통합
 
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 자동 편집, 콘텐츠 검토, 음성 복제, 하이라이트 생성, 검색 가능한 비디오 순간을 포함한 AI 기반 비디오 워크플로우를 생성하세요. 모든 기능은 간단한 API와 직관적인 채팅 기반 인터페이스를 통해 액세스할 수 있습니다.
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 액터라고 알려진 3,000개 이상의 사전 구축된 클라우드 도구를 사용하여 웹사이트, 전자 상거래, 소셜 미디어, 검색 엔진, 지도 등에서 데이터 추출
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - Contentful Space에서 콘텐츠, 콘텐츠 모델 및 에셋 업데이트, 생성, 삭제
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - OpenAI의 가장 똑똑한 모델과 채팅
