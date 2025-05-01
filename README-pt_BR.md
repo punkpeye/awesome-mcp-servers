@@ -382,6 +382,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 Servidor MCP para analisar resultados coletados do ROADrecon na enumeração de inquilino Azure
 - [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - Servidor MCP para dnstwist, uma poderosa ferramenta de fuzzing DNS que ajuda a detectar typosquatting, phishing e espionagem corporativa.
 - [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) 📇 🪟 ☁️ - Servidor MCP para maigret, uma poderosa ferramenta OSINT que coleta informações de contas de usuários de várias fontes públicas. Este servidor fornece ferramentas para pesquisar nomes de usuário em redes sociais e analisar URLs.
+- [stackloklabs/toolhive](https://github.com/StacklokLabs/toolhive) 🔒 🐝 - ToolHive (thv) é uma ferramenta leve desenvolvida para simplificar a implantação e o gerenciamento de servidores MCP (Model Context Protocol), garantindo facilidade de uso, consistência e segurança.
 
 ### 🏃 <a name="esportes"></a>Esportes
 

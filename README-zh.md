@@ -453,6 +453,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - 使用 ZoomEye API 搜索全球网络空间资产
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - 将OpenAI内置的`web_search`工具封转成MCP服务器使用.
 - [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) 🐍 🏠 - CVE-Search MCP服务器， 提供CVE漏洞信息查询、漏洞产品信息查询等功能。
+- [stackloklabs/toolhive](https://github.com/StacklokLabs/toolhive) 🔒 🐝 - ToolHive (thv) 是一个轻量级工具，旨在简化 MCP（模型上下文协议）服务器的部署与管理，确保易用性、一致性和安全性。
 
 ### 🎧 <a name="support-and-service-management"></a>客户支持与服务管理
 

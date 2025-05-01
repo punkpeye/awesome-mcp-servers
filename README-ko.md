@@ -420,6 +420,7 @@
 - [Security Audit MCP 서버](https://github.com/qianniuspace/mcp-security-audit) 📇 🛡️ ☁️ 보안 취약점에 대해 npm 패키지 의존성을 감사하는 강력한 MCP(모델 컨텍스트 프로토콜) 서버. 실시간 보안 검사를 위한 원격 npm 레지스트리 통합으로 구축됨.
 - [ROADRecon MCP 서버](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 Azure 테넌트 열거에서 ROADrecon 수집 결과 분석을 위한 MCP 서버
 - [VMS MCP 서버](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 VMS MCP 서버는 CCTV 녹화 프로그램(VMS)에 연결하여 녹화된 영상과 실시간 영상을 가져오며, 특정 채널의 특정 시간에 실시간 영상이나 재생 화면을 표시하는 등의 VMS 소프트웨어 제어 도구도 제공합니다.
+- [stackloklabs/toolhive](https://github.com/StacklokLabs/toolhive) 🔒 🐝 - ToolHive (thv)는 MCP(Model Context Protocol) 서버의 배포 및 관리를 간소화하도록 설계된 경량 유틸리티로, 사용의 용이성, 일관성, 보안을 보장합니다.
 - 
 ### 🏃 <a name="sports"></a>스포츠
 
