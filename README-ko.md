@@ -99,7 +99,10 @@
 단일 MCP 서버를 통해 많은 앱과 도구에 접근하기 위한 서버입니다.
 
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 웹 API를 10초 만에 MCP 서버로 전환하고 오픈 소스 레지스트리에 추가하세요: https://open-mcp.org
+- [tigranbs/mcgravity](https://github.com/krayniok/mcgravity) 📇 🏠 🪟 🐧 - 여러 MCP 서버를 단일 연결 포인트로 통합하여 프록시하는 도구로, 요청 부하를 분산하여 AI 도구를 확장합니다.
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP는 GUI를 통해 MCP 연결을 관리하는 통합 미들웨어 MCP 서버입니다.
+- [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - 서버 측 코드를 변경하지 않고 한 번의 클릭으로 웹 API를 MCP 서버로 변환합니다.
+- [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - MCP를 통해 Google의 Imagen 3.0 API를 사용하는 강력한 이미지 생성 도구. 고급 사진, 예술 및 사실적인 컨트롤로 텍스트 프롬프트에서 고품질 이미지를 생성합니다.
 
 ### 📂 <a name="browser-automation"></a>브라우저 자동화
 
@@ -115,11 +118,13 @@
 - [@co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🌐🔮 - SSE 전송을 지원하는 MCP 서버로 패키징된 browser-use. Docker에서 Chromium을 실행하기 위한 Dockerfile + VNC 서버 포함.
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Bilibili 콘텐츠 검색을 지원하는 MCP 서버. LangChain 통합 예제 및 테스트 스크립트 제공.
 - [@getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 🐍 🏠 - 모든 웹사이트에서 구조화된 데이터 추출. 프롬프트만 입력하면 JSON 획득.
+- [aircodelabs/grasp](https://github.com/aircodelabs/grasp) 📇 🏠 - MCP 및 A2A를 기본 지원하는 에이전트 기반의 자체 호스팅 브라우저
 
 ### 🎨 <a name="art-and-culture"></a>예술 및 문화
 
 예술 컬렉션, 문화 유산 및 박물관 데이터베이스에 접근하고 탐색합니다. AI 모델이 예술 및 문화 콘텐츠를 검색하고 분석할 수 있게 합니다.
 
+- [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 포괄적이고 정확한 사주팔자(八字) 분석과 해석 제공
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - Video Jungle 컬렉션에서 비디오 편집 추가, 분석, 검색 및 생성
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 작품 검색, 세부 정보 및 컬렉션을 위한 Rijksmuseum API 통합
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 애니메이션 및 만화 정보를 위한 AniList API를 통합하는 MCP 서버
@@ -132,6 +137,7 @@
 - [Cloudflare MCP 서버](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Workers, KV, R2 및 D1을 포함한 Cloudflare 서비스와의 통합
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - IPFS 스토리지 업로드 및 조작
 - [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - AI 어시스턴트가 AWS CLI 명령을 실행하고, 유닉스 파이프를 사용하며, 안전한 Docker 환경에서 일반적인 AWS 작업을 위한 프롬프트 템플릿을 멀티 아키텍처 지원으로 적용할 수 있게 하는 가볍지만 강력한 서버
+- [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) 🎖️ 🐍 ☁️ - 알리바바 클라우드에서 AI 어시스턴트가 리소스를 운영하고 관리할 수 있게 해주는 MCP 서버로, ECS, 클라우드 모니터링, OOS 및 기타 널리 사용되는 클라우드 제품들을 지원합니다.
 - [Kubernetes MCP 서버](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️/🏠 MCP를 통한 쿠버네티스 클러스터 운영
 - [@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 파드, 디플로이먼트, 서비스를 위한 쿠버네티스 클러스터 운영의 타입스크립트 구현
 - [@manusa/Kubernetes MCP 서버](https://github.com/manusa/kubernetes-mcp-server) - 🏎️ 🏠 OpenShift를 추가로 지원하는 강력한 쿠버네티스 MCP 서버. **모든** 쿠버네티스 리소스에 대한 CRUD 작업을 제공하는 것 외에도, 이 서버는 클러스터와 상호 작용하기 위한 전문 도구를 제공합니다.
@@ -163,9 +169,11 @@
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - Nostr과 상호 작용하여 노트 게시 등을 할 수 있는 Nostr MCP 서버.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) - 🐍 ☁️ - Inbox Zero를 위한 MCP 서버. 답장해야 할 이메일이나 후속 조치가 필요한 이메일을 찾는 등 Gmail 위에 기능을 추가합니다.
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) 🏠 🍎 🚀 - 모델 컨텍스트 프로토콜(MCP)을 통해 iMessage 데이터베이스와 안전하게 인터페이스하는 MCP 서버로, LLM이 iMessage 대화를 쿼리하고 분석할 수 있게 합니다. 강력한 전화번호 유효성 검사, 첨부 파일 처리, 연락처 관리, 그룹 채팅 처리 및 메시지 송수신 전체 지원을 포함합니다.
+- [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - LINE 공식 계정을 통합하는 MCP 서버
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 VRChat API와 상호 작용하기 위한 MCP 서버입니다. VRChat에서 친구, 월드, 아바타 등에 대한 정보를 검색할 수 있습니다.
 - [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks) - 📇 ☁️ - Google Tasks API와 인터페이스하기 위한 MCP 서버
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - YCloud 플랫폼을 통해 WhatsApp 비즈니스 메시지를 발송하는 MCP 서버입니다. 
+- [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt을 위한 MCP 서버. 트렌딩 게시물, 댓글, 컬렉션, 사용자 등과 상호 작용할 수 있습니다.
 
 ### 👤 <a name="customer-data-platforms"></a>고객 데이터 플랫폼
 
@@ -175,6 +183,7 @@
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - 모델 컨텍스트 프로토콜을 사용하여 모든 개방형 데이터를 모든 LLM에 연결합니다.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - 모든 MCP 클라이언트에서 Tinybird 워크스페이스와 상호 작용하기 위한 MCP 서버.
 - [@iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic) 🎖️ 📇 ☁️ - [iaptic](https://www.iaptic.com)과 연결하여 고객 구매, 거래 데이터 및 앱 수익 통계에 대해 질문합니다.
+- [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - [AntV](https://github.com/antvis) 를 기반으로 데이터 시각화 차트를 생성하는 MCP Server 플러그인.
 
 ### 📊 <a name="data-platforms"></a>데이터 플랫폼
 
@@ -202,7 +211,7 @@
 - [jovezhong/mcp-timeplus](https://github.com/jovezhong/mcp-timeplus) 🐍 ☁️ - Apache Kafka 및 Timeplus용 MCP 서버. Kafka 토픽 나열, Kafka 메시지 폴링, Kafka 데이터 로컬 저장 및 Timeplus를 통한 SQL로 스트리밍 데이터 쿼리 가능
 - [@fireproof-storage/mcp-database-server](https://github.com/fireproof-storage/mcp-database-server) 📇 ☁️ - 다중 사용자 동기화를 지원하는 Fireproof 원장 데이터베이스
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - 구성 가능한 접근 제어, 스키마 검사 및 포괄적인 보안 지침을 갖춘 MySQL 데이터베이스 통합
-- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) 🐍 🏠 - 안전한 MySQL 데이터베이스 운영을 제공하는 Node.js 기반 MySQL 데이터베이스 통합
+- [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) 📇 🏠 - 안전한 MySQL 데이터베이스 운영을 제공하는 Node.js 기반 MySQL 데이터베이스 통합
 - [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) 🏎️ 🏠 – Golang으로 구축된 고성능 다중 데이터베이스 MCP 서버, MySQL & PostgreSQL 지원 (NoSQL 곧 지원 예정). 쿼리 실행, 트랜잭션 관리, 스키마 탐색, 쿼리 빌딩 및 성능 분석을 위한 내장 도구 포함, 향상된 데이터베이스 워크플로우를 위한 원활한 Cursor 통합.
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📇 🏠 - 스키마 검사 및 쿼리 기능을 갖춘 PostgreSQL 데이터베이스 통합
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - 내장 분석 기능을 갖춘 SQLite 데이터베이스 운영
@@ -269,8 +278,10 @@
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - MCP를 사용한 Claude Code 기능 구현으로, 포괄적인 도구 지원을 통해 AI 코드 이해, 수정 및 프로젝트 분석 가능.
 - [gofireflyio/firefly-mcp](https://github.com/gofireflyio/firefly-mcp) 🎖️ 📇 ☁️ - [Firefly](https://firefly.ai)를 사용하여 클라우드 리소스를 통합, 검색, 관리 및 코드화합니다.
 - [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) 📇 🏠 - 에이전트가 학습되지 않은 API로 작업할 수 있도록 타입스크립트 API 정보를 효율적으로 제공하는 MCP 서버
+- [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) 📇 ☁️ 🏠 – Cursor AI 같은 코딩 에이전트를 강화하기 위해 설계된 프로그래밍 전용 작업 관리 시스템으로, 고급 작업 메모리, 자기 성찰, 의존성 관리 기능을 갖추고 있습니다. [ShrimpTaskManager](https://cjo4m06.github.io/mcp-shrimp-task-manager)
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - Docker를 통해 로컬로 코드를 실행하고 여러 프로그래밍 언어를 지원하는 MCP 서버입니다
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - EdgeOne Pages에 HTML 콘텐츠를 배포하고 공개적으로 접근 가능한 URL을 얻기 위한 MCP 서비스입니다.
+
 
 ### 🧮 데이터 과학 도구
 
@@ -315,6 +326,8 @@
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) 🐍 ☁️ - 여러 블록체인에서 ERC-20 토큰을 발행하는 도구를 AI 에이전트에게 제공하는 MCP 서버.
 - [kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp) 🐍 ☁️ - The Graph의 인덱싱된 블록체인 데이터로 AI 에이전트를 강화하는 MCP 서버.
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ - 암호화폐 가격을 가져오기 위한 Bitget API.
+- [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - baostock 기반 MCP 서버로 중국 주식 시장 데이터에 대한 액세스 및 분석 기능을 제공합니다.
+- [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - CRIC부동산AI 플랫폼에 접속하는 MCP 서버입니다. CRIC부동산AI는 커얼루이가 부동산 업계를 위해 특별히 개발한 지능형 AI 어시스턴트입니다.
 
 ### 🎮 <a name="gaming"></a>게임
 
@@ -323,6 +336,7 @@
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - Godot 게임 엔진과 상호 작용하기 위한 MCP 서버, Godot 프로젝트에서 장면 편집, 실행, 디버깅 및 관리 도구 제공.
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - 실시간 판타지 프리미어 리그 데이터 및 분석 도구를 위한 MCP 서버.
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - 게임 개발을 위한 Unity3d 게임 엔진 통합용 MCP 서버
+- [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) 📇 ☁️ - 리그 오브 레전드, TFT, 발로란트와 같은 인기 게임의 실시간 게임 데이터에 접근하여 챔피언 분석, e스포츠 일정, 메타 구성 및 캐릭터 통계를 제공합니다.
 
 ### 🧠 <a name="knowledge--memory"></a>지식 및 메모리
 
@@ -335,6 +349,7 @@
 - [mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI 요약 MCP 서버, 여러 콘텐츠 유형 지원: 일반 텍스트, 웹 페이지, PDF 문서, EPUB 책, HTML 콘텐츠
 - [graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - Slack, Discord, 웹사이트, Google Drive, Linear 또는 GitHub에서 무엇이든 Graphlit 프로젝트로 수집한 다음 Cursor, Windsurf 또는 Cline과 같은 MCP 클라이언트 내에서 관련 지식을 검색하고 검색합니다.
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 코딩 선호도 및 패턴 관리를 돕는 Mem0용 모델 컨텍스트 프로토콜 서버로, Cursor 및 Windsurf와 같은 IDE에서 코드 구현, 모범 사례 및 기술 문서를 저장, 검색 및 의미론적으로 처리하는 도구를 제공합니다.
+- [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - Google Drive, Notion, JIRA 등과 같은 통합 서비스에 연결된 [Ragie](https://www.ragie.ai) (RAG) 지식 베이스에서 컨텍스트를 검색합니다.
 
 ### 🗺️ <a name="location-services"></a>위치 서비스
 
@@ -357,6 +372,7 @@
 
 애플리케이션 모니터링 데이터 접근 및 분석. AI 모델이 오류 보고서 및 성능 지표를 검토할 수 있게 합니다.
 
+- [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - Grafana API를 통해 Loki 로그를 쿼리할 수 있는 MCP 서버입니다.
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - 오류 추적 및 성능 모니터링을 위한 Sentry.io 통합
 - [@MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - 충돌 보고 및 실제 사용자 모니터링을 위한 Raygun API V3 통합
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - Metoro로 모니터링되는 쿠버네티스 환경 쿼리 및 상호 작용
@@ -393,6 +409,7 @@
 - [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server/) ☁️ 📇 - 고급 검색, 비공개 심층 연구, 모든 것을 마크다운으로 변환하는 파일 추출 및 텍스트 청킹을 위한 [Vectorize](https://vectorize.io) MCP 서버.
 - [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) 📇 🏠 - Playwright 헤드리스 브라우저를 사용하여 웹 페이지 콘텐츠를 가져오는 MCP 서버, Javascript 렌더링 및 지능형 콘텐츠 추출 지원, 마크다운 또는 HTML 형식 출력.
 - [isnow890/naver-search-mcp](https://github.com/isnow890/naver-search-mcp) 📇 ☁️ - 네이버 검색 API를 통합한 MCP 서버로, 블로그, 뉴스, 쇼핑 검색 및 데이터랩 분석 기능을 제공합니다.
+- [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - 웹 플랫폼 API를 사용하여 Baseline 상태를 검색하는 MCP 서버
 
 ### 🔒 <a name="security"></a>보안
 
@@ -404,12 +421,14 @@
 - [ORKL MCP 서버](https://github.com/fr0gger/MCP_Security) 📇 🛡️ ☁️ - ORKL API 쿼리를 위한 MCP 서버. 이 서버는 위협 보고서 가져오기, 위협 행위자 분석 및 인텔리전스 소스 검색 도구를 제공합니다.
 - [Security Audit MCP 서버](https://github.com/qianniuspace/mcp-security-audit) 📇 🛡️ ☁️ 보안 취약점에 대해 npm 패키지 의존성을 감사하는 강력한 MCP(모델 컨텍스트 프로토콜) 서버. 실시간 보안 검사를 위한 원격 npm 레지스트리 통합으로 구축됨.
 - [ROADRecon MCP 서버](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 Azure 테넌트 열거에서 ROADrecon 수집 결과 분석을 위한 MCP 서버
-
+- [VMS MCP 서버](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 VMS MCP 서버는 CCTV 녹화 프로그램(VMS)에 연결하여 녹화된 영상과 실시간 영상을 가져오며, 특정 채널의 특정 시간에 실시간 영상이나 재생 화면을 표시하는 등의 VMS 소프트웨어 제어 도구도 제공합니다.
+- 
 ### 🏃 <a name="sports"></a>스포츠
 
 스포츠 관련 데이터, 결과 및 통계에 접근하기 위한 도구.
 
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - 자연어를 통해 사이클링 경주 데이터, 결과 및 통계에 접근합니다. firstcycling.com에서 출발 목록, 경주 결과 및 라이더 정보 검색 기능 포함.
+- [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - MCP 서버는 Squiggle API와 통합되어 호주 풋볼 리그 팀, 순위표, 경기 결과, 예측, 그리고 파워 랭킹에 대한 정보를 제공합니다.
 
 ### 🌎 <a name="translation-services"></a>번역 서비스
 
@@ -500,11 +519,16 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) - 🐍 화면 GUI 자동 조작.
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ AI 모델이 [Kibela](https://kibe.la/)와 상호 작용할 수 있도록 허용
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - AI가 GraphQL 서버를 쿼리할 수 있도록 허용
+- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - 일반 GraphQL 쿼리/변이 정의 도구를 사용하면 gqai가 자동으로 MCP 서버를 생성합니다.
 - [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - Replicate의 API를 통해 이미지 생성 기능 제공.
 - [kenliao94/mcp-server-rabbitmq](https://github.com/kenliao94/mcp-server-rabbitmq) 🐍 🏠 - RabbitMQ와의 상호 작용(관리 작업, 메시지 인큐/디큐) 가능
 - [marcelmarais/Spotify](https://github.com/marcelmarais/spotify-mcp-server) - 📇 🏠 Spotify 재생 제어 및 재생 목록 관리.
 - [NakaokaRei/swift-mcp-gui](https://github.com/NakaokaRei/swift-mcp-gui.git) 🏠 🍎 - 키보드 입력, 마우스 이동과 같은 명령을 실행할 수 있는 MCP 서버
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) 🏠 📇 - 기본적인 로컬 taskwarrior 사용(작업 추가, 업데이트, 제거)을 위한 MCP 서버
+- [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - Ankr Advanced API를 래핑하는 MCP 서버 구현. 이더리움, BSC, 폴리곤, 아발란체 등 여러 체인에서 NFT, 토큰 및 블록체인 데이터에 접근할 수 있습니다.
+- [Alfex4936/kogrammar](https://github.com/Alfex4936/Hangul-MCP) 📇 - 한국어 맞춤법/글자 수 세기 MCP 서버
+- [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - 로컬 사용자 프롬프트 및 채팅 기능을 MCP 루프에 직접 추가하여 대화형 LLM 워크플로를 활성화합니다.
+
 
 ## 프레임워크
 

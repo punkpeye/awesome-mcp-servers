@@ -112,6 +112,8 @@ Servidores para acessar muitos aplicativos e ferramentas por meio de um único s
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Transforme uma API web em um servidor MCP em 10 segundos e adicione-o ao registro de código aberto: https://open-mcp.org
 - [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy)  📇 🏠 - Um servidor proxy abrangente que combina vários servidores MCP em uma única interface com extensos recursos de visibilidade. Fornece descoberta e gerenciamento de ferramentas, prompts, recursos e modelos em todos os servidores, além de um playground para depuração ao construir servidores MCP.
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP é o servidor middleware MCP unificado que gerencia suas conexões MCP com GUI.
+- [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - Transforme um API web em um servidor MCP com um clique, sem fazer nenhuma alteração no código.
+- [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - Uma poderosa ferramenta de geração de imagens usando a API Imagen 3.0 do Google através do MCP. Gere imagens de alta qualidade a partir de prompts de texto com controles avançados de fotografia, artísticos e fotorrealistas.
 
 ### 🎨 <a name="arte-e-cultura"></a>Arte e Cultura
 
@@ -125,12 +127,14 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - Integração de servidor MCP para DaVinci Resolve, fornecendo ferramentas poderosas para edição de vídeo, correção de cores, gerenciamento de mídia e controle de projeto
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - Um servidor MCP integrando a API do AniList para informações sobre anime e mangá
 - [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - Servidor MCP usando a API do Aseprite para criar pixel art
+- [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - Fornece análises abrangentes e precisas de Bazi (Quatro Pilares do Destino)
 
 ### 📂 <a name="automação-de-navegadores"></a>Automação de Navegadores
 
 Acesso e recursos de automação de conteúdo web. Permite pesquisar, extrair e processar conteúdo web em formatos amigáveis para IA.
 
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Um servidor MCP que suporta a pesquisa de conteúdo do Bilibili. Fornece exemplos de integração com LangChain e scripts de teste.
+- [aircodelabs/grasp](https://github.com/aircodelabs/grasp) 📇 🏠 - Navegador autogerenciado com agente integrado, com suporte nativo a MCP e A2A.
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - Um servidor MCP para automação de navegador usando Playwright
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - Um servidor MCP em python usando Playwright para automação de navegador, mais adequado para LLM
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - Automatize interações do navegador na nuvem (por exemplo, navegação web, extração de dados, preenchimento de formulários e mais)
@@ -157,12 +161,14 @@ Integração de serviços de plataforma em nuvem. Permite o gerenciamento e inte
 - [VmLia/books-mcp-server](https://github.com/VmLia/books-mcp-server) 📇 ☁️ - Este é um servidor MCP usado para consultar livros, e pode ser aplicado em clientes MCP comuns, como Cherry Studio.
 - [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - Um servidor leve mas poderoso que permite assistentes de IA executarem comandos AWS CLI, usarem pipes Unix e aplicarem templates de prompt para tarefas comuns da AWS em um ambiente Docker seguro com suporte multi-arquitetura
 - [alexei-led/k8s-mcp-server](https://github.com/alexei-led/k8s-mcp-server) 🐍 - Um servidor robusto e leve que capacita assistentes de IA para executar com segurança comandos CLI do Kubernetes (`kubectl`, `helm`, `istioctl` e `argocd`) usando pipes Unix em um ambiente Docker seguro com suporte multi-arquitetura.
+- [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) 🎖️ 🐍 ☁️ - Um servidor MCP que permite que assistentes de IA gerenciem e operem recursos na Alibaba Cloud, com suporte para ECS, monitoramento de nuvem, OOS e outros diversos produtos em nuvem amplamente utilizados.
 - [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) 🐍 ☁️ - Um servidor de gerenciamento VMware ESXi/vCenter baseado em MCP (Model Control Protocol), fornecendo interfaces de API REST simples para gerenciamento de máquinas virtuais.
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Integração com serviços Cloudflare incluindo Workers, KV, R2 e D1
 - [flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 Implementação em TypeScript de operações de cluster Kubernetes para pods, deployments, serviços.
 - [hardik-id/azure-resource-graph-mcp-server](https://github.com/hardik-id/azure-resource-graph-mcp-server) - 📇 ☁️/🏠 - Um servidor de Protocolo de Contexto de Modelo para consultar e analisar recursos do Azure em escala usando o Azure Resource Graph, permitindo que assistentes de IA explorem e monitorem a infraestrutura do Azure.
 - [jdubois/azure-cli-mcp](https://github.com/jdubois/azure-cli-mcp) - Um wrapper em torno da linha de comando Azure CLI que permite conversar diretamente com o Azure
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - Um MCP para dar acesso a todos os componentes do Netskope Private Access dentro de ambientes Netskope Private Access, incluindo informações detalhadas de configuração e exemplos de LLM sobre uso.
+- [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) - 🏎️ ☁️/🏠 Um poderoso servidor MCP que permite que assistentes de IA interajam de forma integrada com instâncias do Portainer, fornecendo acesso em linguagem natural ao gerenciamento de contêineres, operações de implantação e recursos de monitoramento de infraestrutura.
 
 ### 👨‍💻 <a name="execução-de-código"></a>Execução de Código
 
@@ -205,7 +211,9 @@ Integração com plataformas de comunicação para gerenciamento de mensagens e 
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - Um servidor MCP que fornece acesso seguro ao seu banco de dados iMessage através do Protocolo de Contexto de Modelo (MCP), permitindo que LLMs consultem e analisem conversas iMessage com validação adequada de números de telefone e tratamento de anexos
 - [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host) 🐍 🏠 - Um servidor MCP junto com um host MCP que fornece acesso a equipes, canais e mensagens do Mattermost. O host MCP é integrado como um bot no Mattermost com acesso a servidores MCP que podem ser configurados.
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) 🐍 🏎️ - Um servidor MCP para pesquisar suas mensagens pessoais do WhatsApp, contatos e enviar mensagens para indivíduos ou grupos
+- [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - Servidor MCP para Integrar Contas Oficiais do LINE
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) 🐍 ☁️ - Integração com Gmail e Google Calendar.
+- [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Servidor MCP para o Product Hunt. Interaja com postagens em tendência, comentários, coleções, usuários e muito mais.
 
 ### 👤 <a name="plataformas-de-dados-do-cliente"></a>Plataformas de Dados do Cliente
 
@@ -215,6 +223,7 @@ Fornece acesso a perfis de clientes dentro de plataformas de dados de clientes
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - Conecte qualquer Dado Aberto a qualquer LLM com o Protocolo de Contexto de Modelo.
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - Um servidor MCP para acessar e atualizar perfis em um servidor CDP Apache Unomi.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - Um servidor MCP para interagir com um Workspace Tinybird a partir de qualquer cliente MCP.
+- [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - Um plugin do MCP Server baseado no [AntV](https://github.com/antvis) para gerar gráficos de visualização de dados.
 
 ### 🗄️ <a name="bancos-de-dados"></a>Bancos de Dados
 
@@ -295,6 +304,7 @@ Acesso a dados financeiros e ferramentas de análise. Permite que modelos de IA 
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - Pontuação de risco / participações de ativos de endereço de blockchain EVM (EOA, CA, ENS) e até mesmo nomes de domínio.
 - [bitteprotocol/mcp](https://github.com/BitteProtocol/mcp) 📇 - Integração com o Bitte Protocol para executar Agentes de IA em várias blockchains.
 - [chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 🎖️ 📇 ☁️ - Servidor MCP que conecta agentes de IA à [plataforma Chargebee](https://www.chargebee.com/).
+- [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - Servidor MCP conectado à plataforma CRIC Wuye AI. O CRIC Wuye AI é um assistente inteligente desenvolvido pela CRIC especialmente para o setor de gestão de propriedades.
 
 ### 🎮 <a name="jogos"></a>Jogos
 
@@ -303,6 +313,7 @@ Integração com dados relacionados a jogos, motores de jogos e serviços
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - Um servidor MCP para interagir com o motor de jogos Godot, fornecendo ferramentas para editar, executar, depurar e gerenciar cenas em projetos Godot.
 - [pab1ito/chess-mcp](https://github.com/pab1it0/chess-mcp) 🐍 ☁️ - Acesse dados de jogadores do Chess.com, registros de jogos e outras informações públicas através de interfaces MCP padronizadas, permitindo que assistentes de IA pesquisem e analisem informações de xadrez.
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - Um servidor MCP para dados e ferramentas de análise em tempo real do Fantasy Premier League.
+- [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) 📇 ☁️ - Acesse dados de jogos em tempo real em títulos populares como League of Legends, TFT e Valorant, oferecendo análises de campeões, calendários de esports, composições meta e estatísticas de personagens.
 
 ### 🧠 <a name="conhecimento--memória"></a>Conhecimento & Memória
 
@@ -316,6 +327,7 @@ Armazenamento de memória persistente usando estruturas de grafos de conheciment
 - [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - Um servidor de Protocolo de Contexto de Modelo para Mem0 que ajuda a gerenciar preferências e padrões de codificação, fornecendo ferramentas para armazenar, recuperar e lidar semanticamente com implementações de código, melhores práticas e documentação técnica em IDEs como Cursor e Windsurf
 - [modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Sistema de memória persistente baseado em grafo de conhecimento para manter contexto
 - [pinecone-io/assistant-mcp](https://github.com/pinecone-io/assistant-mcp) 🎖️ 🦀 ☁️ - Conecta-se ao seu Assistente Pinecone e dá ao agente contexto a partir do seu motor de conhecimento.
+- [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - Recupere contexto da sua base de conhecimento [Ragie](https://www.ragie.ai) (RAG) conectada a integrações como Google Drive, Notion, JIRA e muito mais.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - Gerenciador de memória para aplicativos de IA e Agentes usando vários armazenamentos de grafos e vetores e permitindo ingestão de mais de 30 fontes de dados
 - [unibaseio/membase-mcp](https://github.com/unibaseio/membase-mcp) 📇 ☁️ - Salve e consulte a memória do seu agente de forma distribuída pelo Membase
 - [entanglr/zettelkasten-mcp](https://github.com/entanglr/zettelkasten-mcp) 🐍 🏠 - Um servidor de Protocolo de Contexto de Modelo (MCP) que implementa a metodologia de gestão de conhecimento Zettelkasten, permitindo criar, vincular e pesquisar notas atômicas através de Claude e outros clientes compatíveis com MCP.
@@ -344,6 +356,7 @@ Ferramentas para criar e editar conteúdo de marketing, trabalhar com meta dados
 
 Acesse e analise dados de monitoramento de aplicações. Permite que modelos de IA revisem relatórios de erros e métricas de desempenho.
 
+- [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - Um servidor MCP que permite consultar logs do Loki através da API do Grafana.
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - Pesquise painéis, investigue incidentes e consulte fontes de dados em sua instância Grafana
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) 🐍 🏠 - Melhore a qualidade do código gerado por IA através de análise inteligente baseada em prompts em 10 dimensões críticas, de complexidade a vulnerabilidades de segurança
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) - Traga facilmente o contexto de produção em tempo real—logs, métricas e traces—para seu ambiente local para corrigir código automaticamente mais rápido
@@ -423,6 +436,8 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) 🐍 🏠 - Exponha todas as intenções de voz do Home Assistant através de um servidor de Protocolo de Contexto de Modelo permitindo controle doméstico.
 - [Amazon Bedrock Nova Canvas](https://github.com/zxkane/mcp-server-amazon-bedrock) 📇 ☁️ - Use o modelo Amazon Nova Canvas para geração de imagens.
 - [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server) 🐍/📇 ☁️ - Envie solicitações para OpenAI, MistralAI, Anthropic, xAI, Google AI ou DeepSeek usando o protocolo MCP via ferramenta ou prompts predefinidos. Chave de API do fornecedor necessária
+- [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - Use ferramentas regulares de definição de mutação/consulta GraphQL e o gqai gerará automaticamente um servidor MCP para você.
+- [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - Habilita fluxos de trabalho LLM interativos adicionando prompts de usuário local e recursos de chat diretamente no loop do MCP.
 
 ## Frameworks
 
@@ -451,6 +466,7 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 - [spring-projects-experimental/spring-ai-mcp](https://github.com/spring-projects-experimental/spring-ai-mcp) ☕ 🌱 - SDK Java e integração com Spring Framework para construir cliente MCP e servidores MCP com várias opções de transporte plugáveis.
 - [Template MCP Server](https://github.com/mcpdotdirect/template-mcp-server) 📇 - Uma ferramenta de linha de comando para criar um novo projeto de servidor de Protocolo de Contexto de Modelo com suporte a TypeScript, opções de transporte duplo e uma estrutura extensível
 - [sendaifun/solana-mcp-kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - SDK Solana MCP
+- [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - Uma implementação de servidor MCP que envolve a Ankr Advanced API. Acesso a NFT, token e dados de blockchain em várias redes, incluindo Ethereum, BSC, Polygon, Avalanche e mais.
 
 ## Utilitários
 
