@@ -218,6 +218,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 增強開發工作流程和環境管理的工具和集成。
 
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 創建 AI 驅動的影片工作流程，包括自動剪輯、內容審核、語音複製、精彩片段生成和可搜尋的影片時刻——全部可透過簡單的 API 和直觀的聊天式介面存取。
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - 與[QA Sphere](https://qasphere.com/)測試管理系統整合，使LLM能夠發現、總結和操作測試用例，並可直接從AI驅動的IDE訪問
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - 通過 MCP 進行 Docker 容器管理和操作
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - 一個靈活獲取 JSON、文本和 HTML 數據的 MCP 伺服器
@@ -322,6 +323,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - 一個 MCP 伺服器，允許透過 Grafana API 查詢 Loki 日誌。
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - 在 Grafana 實例中搜尋儀錶板、調查事件並查詢數據源
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) 🏎️ 🏠 - 監控系統 CPU、Memory、Disk、Network、Host、Process 等資訊，並與 LLM 進行交互
+
 ### 🔎 <a name="search"></a>搜尋
 
 - [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 創建 AI 驅動的影片工作流程，包括自動剪輯、內容審核、語音複製、精彩片段生成和可搜尋的影片時刻——全部可透過簡單的 API 和直觀的聊天式介面存取。
@@ -386,7 +388,6 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>其他工具和集成
 
-- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 創建 AI 驅動的影片工作流程，包括自動剪輯、內容審核、語音複製、精彩片段生成和可搜尋的影片時刻——全部可透過簡單的 API 和直觀的聊天式介面存取。
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 使用超過 3,000 個預構建的雲工具（稱為 Actors）從網站、電商、社交媒體、搜尋引擎、地圖等提取數據。
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - 使LLM能夠使用計算機進行精確的數值計算
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - 更新、創建、刪除 Contentful Space 中的內容、內容模型和資產

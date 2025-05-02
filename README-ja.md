@@ -194,6 +194,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 開発ワークフローと環境管理を強化するツールと統合。
 
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 自動編集、コンテンツモデレーション、音声クローニング、ハイライト生成、検索可能なビデオモーメントなど、AI を活用したビデオワークフローを作成します。これらはすべて、シンプルな API と直感的なチャットベースのインターフェースを通じてアクセスできます。
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - [QA Sphere](https://qasphere.com/)テスト管理システムとの統合。LLMがテストケースを発見、要約、操作できるようにし、AI搭載IDEから直接アクセス可能
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - MCPを通じたDockerコンテナの管理と操作
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - JSON、テキスト、HTMLデータを柔軟に取得するためのMCPサーバー
@@ -313,7 +314,6 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>その他のツールと統合
 
-- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 自動編集、コンテンツモデレーション、音声クローニング、ハイライト生成、検索可能なビデオモーメントなど、AI を活用したビデオワークフローを作成します。これらはすべて、シンプルな API と直感的なチャットベースのインターフェースを通じてアクセスできます。
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 3,000以上の事前構築されたクラウドツール（Actors として知られる）を使用して、ウェブサイト、eコマース、ソーシャルメディア、検索エンジン、地図などからデータを抽出できます。
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - このサーバーは、LLMが計算機を使用して正確な数値計算を行えるようにします
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - ほぼすべてのファイルやウェブコンテンツをMarkdownに変換するMCPサーバー
