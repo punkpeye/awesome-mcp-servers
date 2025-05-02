@@ -128,6 +128,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 提供艺术收藏、文化遗产和博物馆数据库的访问与探索。让 AI 模型能够搜索和分析艺术文化内容。
 
+- [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 提供全面精准的八字排盘和测算信息
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - 从您的视频集合中添加、分析、搜索和生成视频剪辑
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 荷兰国立博物馆 API 集成，支持艺术品搜索、详情查询和收藏品浏览
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 集成 AniList API 获取动画和漫画信息的 MCP 服务器
@@ -566,6 +567,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [pwh-pwh/cal-mcp](https://github.com/pwh-pwh/cal-mcp) - MCP服务器，可以计算数学表达式
 - [HenryHaoson/Yuque-MCP-Server](https://github.com/HenryHaoson/Yuque-MCP-Server) - 📇 ☁️ 用于与语雀API集成的Model-Context-Protocol (MCP)服务器，允许AI模型管理文档、与知识库交互、搜索内容以及访问语雀平台的统计数据。
 - [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - 包装Ankr Advanced API的MCP服务器实现。可以访问以太坊、BSC、Polygon、Avalanche等多条区块链上的NFT、代币和区块链数据。
+- [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - 通过在 MCP 循环中直接添加本地用户提示和聊天功能，启用交互式 LLM 工作流程。
 
 ## 框架
 
