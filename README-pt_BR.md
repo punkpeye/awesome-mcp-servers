@@ -240,6 +240,7 @@ Acesso seguro a banco de dados com recursos de inspeção de esquema. Permite co
 - [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) 🎖️ 🐍 ☁️ 🏠 - Servidor MCP do Chroma para acessar instâncias Chroma locais e em nuvem para recursos de recuperação
 - [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) 🐍 ☁️ - Integração do banco de dados ClickHouse com inspeção de esquema e recursos de consulta
 - [confluentinc/mcp-confluent](https://github.com/confluentinc/mcp-confluent) 🐍 ☁️ - Integração Confluent para interagir com as APIs REST do Confluent Kafka e Confluent Cloud.
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - Crie fluxos de trabalho de vídeo baseados em IA, incluindo edição automática, moderação de conteúdo, clonagem de voz, geração de destaques e momentos de vídeo pesquisáveis — tudo acessível por meio de APIs simples e interfaces intuitivas baseadas em chat.
 
 ### 📊 <a name="plataformas-de-dados"></a>Plataformas de Dados
 
@@ -259,6 +260,7 @@ Ferramentas e integrações que aprimoram o fluxo de trabalho de desenvolvimento
 - [admica/FileScopeMCP](https://github.com/admica/FileScopeMCP) 🐍 📇 🦀 - Analisa sua base de código identificando arquivos importantes com base em relacionamentos de dependência. Gera diagramas e pontuações de importância, ajudando assistentes de IA a entender a base de código.
 - [ambar/simctl-mcp](https://github.com/ambar/simctl-mcp) 📇 🏠 🍎 Uma implementação de servidor MCP para controle de Simulador iOS.
 - [api7/apisix-mcp](https://github.com/api7/apisix-mcp) 🎖️ 📇 🏠 Servidor MCP que oferece suporte à consulta e gerenciamento de todos os recursos no [Apache APISIX](https://github.com/apache/apisix).
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - Crie fluxos de trabalho de vídeo baseados em IA, incluindo edição automática, moderação de conteúdo, clonagem de voz, geração de destaques e momentos de vídeo pesquisáveis — tudo acessível por meio de APIs simples e interfaces intuitivas baseadas em chat.
 
 ### 🧮 <a name="ferramentas-de-ciência-de-dados"></a>Ferramentas de Ciência de Dados
 
@@ -375,7 +377,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Servidor MCP Clojars para informações atualizadas de dependências de bibliotecas Clojure
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Pesquise artigos de pesquisa do ArXiv
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - Integração com o Google News com categorização automática de tópicos, suporte multilíngue e recursos abrangentes de pesquisa, incluindo manchetes, histórias e tópicos relacionados através do [SerpAPI](https://serpapi.com/).
-
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - Crie fluxos de trabalho de vídeo baseados em IA, incluindo edição automática, moderação de conteúdo, clonagem de voz, geração de destaques e momentos de vídeo pesquisáveis — tudo acessível por meio de APIs simples e interfaces intuitivas baseadas em chat.
 ### 🔒 <a name="segurança"></a>Segurança
 
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - Servidor MCP para integrar Ghidra com assistentes de IA. Este plugin permite análise binária, fornecendo ferramentas para inspeção de funções, descompilação, exploração de memória e análise de importação/exportação via Protocolo de Contexto de Modelo.

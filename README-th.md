@@ -227,6 +227,7 @@
 - [TheRaLabs/legion-mcp](https://github.com/TheRaLabs/legion-mcp) 🐍 🏠 เซิร์ฟเวอร์ MCP ฐานข้อมูลสากลที่รองรับฐานข้อมูลหลายประเภท รวมถึง PostgreSQL, Redshift, CockroachDB, MySQL, RDS MySQL, Microsoft SQL Server, BigQuery, Oracle DB และ SQLite
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - การผสานรวม Tinybird พร้อมความสามารถในการสืบค้นและ API
 - [tradercjz/dolphindb-mcp-server](https://github.com/tradercjz/dolphindb-mcp-server) 🐍 ☁️ - การผสานรวมฐานข้อมูล TDolphinDB พร้อมความสามารถในการตรวจสอบสคีมาและการสืบค้น
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - สร้างเวิร์กโฟลว์วิดีโอที่ขับเคลื่อนด้วย AI รวมถึงการตัดต่ออัตโนมัติ การกลั่นกรองเนื้อหา การโคลนเสียง การสร้างไฮไลท์ และช่วงเวลาในวิดีโอที่ค้นหาได้—ทั้งหมดเข้าถึงได้ผ่าน API ที่ใช้งานง่ายและอินเทอร์เฟซแบบแชทที่ใช้งานง่าย
 - [weaviate/mcp-server-weaviate](https://github.com/weaviate/mcp-server-weaviate) 🐍 📇 ☁️ - เซิร์ฟเวอร์ MCP เพื่อเชื่อมต่อกับคอลเลกชัน Weaviate ของคุณเป็นฐานความรู้ รวมถึงการใช้ Weaviate เป็นที่เก็บหน่วยความจำแชท
 - [XGenerationLab/xiyan_mcp_server](https://github.com/XGenerationLab/xiyan_mcp_server) 📇 ☁️ — เซิร์ฟเวอร์ MCP ที่รองรับการดึงข้อมูลจากฐานข้อมูลโดยใช้คำสั่งภาษาธรรมชาติ ขับเคลื่อนโดย XiyanSQL เป็น LLM แบบ text-to-SQL
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - เซิร์ฟเวอร์ Model Context Protocol สำหรับโต้ตอบกับ Google Sheets เซิร์ฟเวอร์นี้มีเครื่องมือสำหรับสร้าง อ่าน อัปเดต และจัดการสเปรดชีตผ่าน Google Sheets API
@@ -284,6 +285,7 @@
 - [stass/lldb-mcp](https://github.com/stass/lldb-mcp) 🐍 🏠 🐧 🍎 - เซิร์ฟเวอร์ MCP สำหรับ LLDB เปิดใช้งานการวิเคราะห์ไบนารีและไฟล์คอร์ของ AI การดีบัก การแยกส่วนประกอบ
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - บริการ MCP สำหรับการปรับใช้เนื้อหา HTML บน EdgeOne Pages และรับ URL ที่สามารถเข้าถึงได้จากสาธารณะ
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) 🐍 🏠 - โปรแกรมแก้ไขไฟล์ข้อความแบบบรรทัดต่อบรรทัด ปรับให้เหมาะสมสำหรับเครื่องมือ LLM ด้วยการเข้าถึงไฟล์บางส่วนที่มีประสิทธิภาพเพื่อลดการใช้โทเค็น
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - สร้างเวิร์กโฟลว์วิดีโอที่ขับเคลื่อนด้วย AI รวมถึงการตัดต่ออัตโนมัติ การกลั่นกรองเนื้อหา การโคลนเสียง การสร้างไฮไลท์ และช่วงเวลาในวิดีโอที่ค้นหาได้—ทั้งหมดเข้าถึงได้ผ่าน API ที่ใช้งานง่ายและอินเทอร์เฟซแบบแชทที่ใช้งานง่าย
 - [vivekvells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - เซิร์ฟเวอร์ MCP สำหรับการแปลงรูปแบบเอกสารอย่างราบรื่นโดยใช้ Pandoc รองรับ Markdown, HTML, PDF, DOCX (.docx), csv และอื่นๆ
 - [VSCode Devtools](https://github.com/biegehydra/BifrostMCP) 📇 - เชื่อมต่อกับ VSCode ide และใช้เครื่องมือเชิงความหมายเช่น `find_usages`
 - [xcodebuild](https://github.com/ShenghaiWang/xcodebuild) 🍎 สร้าง iOS Xcode workspace/project และส่งข้อผิดพลาดกลับไปยัง llm
@@ -456,6 +458,7 @@
 - [tinyfish-io/agentql-mcp](https://github.com/tinyfish-io/agentql-mcp) 🎖️ 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่ให้ความสามารถในการดึงข้อมูลของ [AgentQL](https://agentql.com)
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) ☁️ 🐍 – API การค้นหา AI ของ Tavily
 - [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server/) ☁️ 📇 - เซิร์ฟเวอร์ MCP ของ [Vectorize](https://vectorize.io) สำหรับการดึงข้อมูลขั้นสูง การวิจัยเชิงลึกส่วนตัว การดึงไฟล์ Anything-to-Markdown และการแบ่งส่วนข้อความ
+- [VideoDB Director](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - สร้างเวิร์กโฟลว์วิดีโอที่ขับเคลื่อนด้วย AI รวมถึงการตัดต่ออัตโนมัติ การกลั่นกรองเนื้อหา การโคลนเสียง การสร้างไฮไลท์ และช่วงเวลาในวิดีโอที่ค้นหาได้—ทั้งหมดเข้าถึงได้ผ่าน API ที่ใช้งานง่ายและอินเทอร์เฟซแบบแชทที่ใช้งานง่าย
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - เซิร์ฟเวอร์ MCP ที่ใช้ TypeScript ซึ่งให้ฟังก์ชันการค้นหาของ DuckDuckGo
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - การสอบถามข้อมูลสินทรัพย์เครือข่ายโดยเซิร์ฟเวอร์ MCP ของ ZoomEye
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่ค้นหาสถานะ Baseline โดยใช้ Web Platform API
