@@ -100,4 +100,3 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [emiryasar/mcp_code_analyzer](https://github.com/emiryasar/mcp_code_analyzer): A comprehensive code analysis and management tool that integrates with Claude Desktop for natural language-driven code insights and modifications.
 - [dillip285/mcp-dev-server](https://github.com/dillip285/mcp-dev-server): Facilitates software development project management with comprehensive context awareness and code execution via Docker.
 - [y86/ex-mcp-test](https://github.com/y86/ex-mcp-test): An Elixir-based MCP server for testing and experimenting with the Model Context Protocol, featuring JSON-RPC 2.0 compliance and schema-driven validation.
-
