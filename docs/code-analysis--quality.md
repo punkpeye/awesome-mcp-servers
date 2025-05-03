@@ -2,6 +2,7 @@
 
 Servers focused on static analysis, linting, code metrics, security scanning, vulnerability checks, or code quality assessment.
 
+- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server): Helps MCP enabled clients navigate codebases more easily by giving them access to semantic tools like get definition, references, rename, and diagnostics.
 - [dhylan01/MCP_OA](https://github.com/dhylan01/MCP_OA): Facilitates AI assistants in analyzing code by identifying function usage within Python and TypeScript/TSX files.
 - [angrysky56/ast-mcp-server](https://github.com/angrysky56/ast-mcp-server): Provides code structure and semantic analysis using AST and ASG for multiple programming languages, enhancing code analysis capabilities in Claude Desktop.
 - [joaomj/code-reviewer-mcp](https://github.com/joaomj/code-reviewer-mcp): Automated GitHub pull request code reviews using AI models via MCP integration.
