@@ -197,7 +197,7 @@ Cloud platform service integration. Enables management and interaction with clou
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S is an AI-driven Kubernetes resource management tool that allows users to operate any resources in Kubernetes clusters through natural language interaction, including native resources (like Deployment, Service) and custom resources (CRD). No need to memorize complex commands - just describe your needs, and AI will accurately execute the corresponding cluster operations, greatly enhancing the usability of Kubernetes.
 - [redis/mcp-redis-cloud](https://github.com/redis/mcp-redis-cloud) 📇 ☁️ - Manage your Redis Cloud resources effortlessly using natural language. Create databases, monitor subscriptions, and configure cloud deployments with simple commands.
 - [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) - 🏎️ ☁️/🏠 A powerful MCP server that enables AI assistants to seamlessly interact with Portainer instances, providing natural language access to container management, deployment operations, and infrastructure monitoring capabilities.
-
+- [juspay/bedrock-mcp-connector](https://github.com/juspay/bedrock-mcp-connector) - A TypeScript client for interacting with AWS Bedrock and MCP (Model Context Protocol) servers. Support for Claude and other Bedrock Models. Connect to MCP servers to discover and use available tools
 ### 👨‍💻 <a name="code-execution"></a>Code Execution
 
 Code execution servers. Allow LLMs to execute code in a secure environment, e.g. for coding agents.
