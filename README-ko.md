@@ -412,6 +412,7 @@
 
 ### 🔒 <a name="security"></a>보안
 
+- [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) - 📇 🏠 🍎 🪟 🐧 AI 에이전트가 인증 앱과 상호 작용할 수 있도록 하는 보안 MCP(Model Context Protocol) 서버입니다.
 - [dnstwist MCP 서버](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - 타이포스쿼팅, 피싱 및 기업 스파이 활동 탐지를 돕는 강력한 DNS 퍼징 도구인 dnstwist용 MCP 서버.
 - [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary Ninja를 위한 MCP 서버 및 브릿지. 바이너리 분석 및 리버스 엔지니어링을 위한 도구를 제공합니다.
 - [Maigret MCP 서버](https://github.com/BurtTheCoder/mcp-maigret) 📇 🪟 ☁️ - 다양한 공개 소스에서 사용자 계정 정보를 수집하는 강력한 OSINT 도구인 maigret용 MCP 서버. 이 서버는 소셜 네트워크에서 사용자 이름 검색 및 URL 분석 도구를 제공합니다.
