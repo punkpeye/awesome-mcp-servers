@@ -316,6 +316,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - 支持对基于 .csv 的数据集进行自主数据探索，以最小的成本提供智能见解。
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - 一个 MCP 服务器，可将几乎任何文件或网络内容转换为 Markdown
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - 实现基于.csv数据集的自动数据探索，提供最少工作量的智能化洞察。
+- [DataEval/dingo](https://github.com/DataEval/dingo) 🎖️ 🐍 🏠 🍎 🪟 🐧 - Dingo 的 MCP 服务端。Dingo是一款全面的数据质量评估工具。支持与 Dingo 基于规则和 LLM 的评估功能进行交互以及列出可用规则和提示词。
 
 ### 📂 <a name="file-systems"></a>文件系统
 
