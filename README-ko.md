@@ -242,6 +242,7 @@
 - [idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server) 📇 ☁️ 🏠 - InfluxDB OSS API v2에 대한 쿼리 실행.
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - Google Sheets와 상호 작용하기 위한 모델 컨텍스트 프로토콜 서버. 이 서버는 Google Sheets API를 통해 스프레드시트를 생성, 읽기, 업데이트 및 관리하는 도구를 제공합니다.
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) 🐍 🏠 - Qdrant MCP 서버
+- [ydb/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – MCP 서버: [YDB](https://ydb.tech) 데이터베이스와 상호 작용하기 위한
 
 ### 💻 <a name="developer-tools"></a>개발자 도구
 
