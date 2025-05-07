@@ -358,7 +358,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [Shodan MCP Server](https://github.com/BurtTheCoder/mcp-shodan) 📇 ☁️ - MCP 伺服器用於查詢 Shodan API 和 Shodan CVEDB。此伺服器提供 IP 尋找、設備搜尋、DNS 尋找、漏洞查詢、CPE 尋找等工具。
 - [VirusTotal MCP Server](https://github.com/BurtTheCoder/mcp-virustotal) 📇 ☁️ - 用於查詢 VirusTotal API 的 MCP 伺服器。此伺服器提供用於掃描 URL、分析文件哈希和檢索 IP 地址報告的工具。
 - [ORKL MCP Server](https://github.com/fr0gger/MCP_Security) 📇🛡️☁️ - 用於查詢 ORKL API 的 MCP 伺服器。此伺服器提供獲取威脅報告、分析威脅行為者和檢索威脅情報來源的工具。
-- [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇🛡️☁️ – 個強大的 MCP (模型上下文協議) 伺服器，審計 npm 包依賴項的安全漏洞。內建遠端 npm 註冊表集成，以進行即時安全檢查。
+- [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇🛡️☁️ – 一個強大的 MCP (模型上下文協議) 伺服器，審計 npm 包依賴項的安全漏洞。內建遠端 npm 註冊表集成，以進行即時安全檢查。
 
 ### 🌎 <a name="translation-services"></a>翻譯服務
 
