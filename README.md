@@ -451,6 +451,8 @@ Tools and integrations that enhance the development workflow and environment man
 - [ryan0204/github-repo-mcp](https://github.com/Ryan0204/github-repo-mcp) 📇 ☁️ 🪟 🐧 🍎 - GitHub Repo MCP allow your AI assistants browse GitHub repositories, explore directories, and view file contents.
 - [alimo7amed93/webhook-tester-mcp](https://github.com/alimo7amed93/webhook-tester-mcp)  🐍 ☁️ – A FastMCP-based server for interacting with webhook-test.com. Enables users to create, retrieve, and delete webhooks locally using Claude.
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - The ROS MCP Server supports robot control by converting user-issued natural language commands into ROS or ROS2 control commands.
+- [Tidewave/tidewave-rails](https://github.com/tidewave/tidewave-rails) ♦️ 🪟 🐧 🍎 - For Rails. Speeds up development with an AI assistant that understands your web application, how it runs, and what it delivers
+- [Tidewave/tidewave-elixir](https://github.com/tidewave/tidewave-elixir) 💧 🪟 🐧 🍎 - For Phoenix. Speeds up development with an AI assistant that understands your web application, how it runs, and what it delivers
 
 ### 🔒 <a name="delivery"></a>Delivery
 
