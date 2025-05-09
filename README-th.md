@@ -91,6 +91,7 @@
 * 🔎 - [ค้นหาและสกัดข้อมูล](#search)
 * 🔒 - [ความปลอดภัย](#security)
 * 🏃 - [กีฬา](#sports)
+* 🎬 - [การสร้างวิดีโอ](#video-generation)
 * 🎧 - [การสนับสนุนและจัดการบริการ](#support-and-service-management)
 * 🌎 - [บริการแปลภาษา](#translation-services)
 * 🚆 - [การเดินทางและการขนส่ง](#travel-and-transportation)
@@ -484,6 +485,12 @@
 
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - เข้าถึงข้อมูลการแข่งขันจักรยาน ผลการแข่งขัน และสถิติผ่านภาษาธรรมชาติ คุณสมบัติรวมถึงการดึงรายชื่อผู้เริ่มต้น ผลการแข่งขัน และข้อมูลนักปั่นจาก firstcycling.com
 - [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - เซิร์ฟเวอร์ MCP ที่ผสานรวมกับ Squiggle API เพื่อให้ข้อมูลเกี่ยวกับทีมในลีกออสเตรเลียนฟุตบอล, ตารางอันดับ, ผลการแข่งขัน, การทำนายผล, และการจัดอันดับพลัง.
+
+### 🎬 <a name="video-generation"></a>การสร้างวิดีโอ
+
+เครื่องมือสำหรับสร้างวิดีโอจากข้อความ ภาพ และฟังก์ชันอื่น ๆ ที่เกี่ยวข้องกับการสร้างวิดีโอ
+
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎖️ 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์อย่างเป็นทางการของ MiniMax Model Context Protocol (MCP) ที่ช่วยให้สามารถโต้ตอบกับความสามารถด้าน AI อันทรงพลังของ MiniMax ได้ เช่น การสร้างภาพ วิดีโอ ข้อความเป็นเสียง และการโคลนนิ่งเสียงผ่าน API
 
 ### 🎧 <a name="support-and-service-management"></a>การสนับสนุนและการจัดการบริการ
 

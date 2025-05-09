@@ -96,6 +96,7 @@ Confira [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 
 * 🔎 - [Pesquisa & Extração de Dados](#pesquisa--extração-de-dados)
 * 🔒 - [Segurança](#segurança)
 * 🏃 - [Esportes](#esportes)
+* 🎬 - [Geração de Vídeo](#geração-de-vídeo)
 * 🎧 - [Suporte & Gestão de Serviços](#suporte--gestão-de-serviços)
 * 🌎 - [Serviços de Tradução](#serviços-de-tradução)
 * 🚆 - [Viagens & Transporte](#viagens--transporte)
@@ -395,6 +396,12 @@ Ferramentas para acessar dados, resultados e estatísticas relacionados a esport
 - [mikechao/balldontlie-mcp](https://github.com/mikechao/balldontlie-mcp) 📇 - Servidor MCP que integra a API balldontlie para fornecer informações sobre jogadores, times e jogos da NBA, NFL e MLB
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - Acesse dados de corridas de ciclismo, resultados e estatísticas através de linguagem natural. Os recursos incluem recuperação de listas de partida, resultados de corridas e informações sobre ciclistas de firstcycling.com.
 - [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) 📇 ☁️ - Um servidor de Protocolo de Contexto de Modelo (MCP) que se conecta à API Strava, fornecendo ferramentas para acessar dados Strava através de LLMs
+
+### 🎬 <a name="geração-de-vídeo"></a>Geração de Vídeo
+
+Ferramentas para transformar texto em vídeo, imagem em vídeo e outras funções de geração de vídeo.
+
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎖️ 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - Servidor oficial do MiniMax Model Context Protocol (MCP) que permite a interação com os poderosos recursos de IA da MiniMax, incluindo geração de imagens, geração de vídeos, conversão de texto em fala e clonagem de voz via API.
 
 ### 🎧 <a name="suporte--gestão-de-serviços"></a>Suporte & Gestão de Serviços
 
