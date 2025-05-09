@@ -43,4 +43,34 @@ Contributions are welcome and encouraged!  Whether you're fixing a typo, adding 
 * **One server per line:** List each server on a separate line for better readability.
 * **Clear descriptions:** Write concise and informative descriptions for each server.  Explain what the server does and what its key features are.
 
+## Contributing to the User Interface
+
+If you want to contribute to the user interface code, here are the steps to follow:
+
+1. **Fork the repository:** Click the "Fork" button in the top right corner of the GitHub page.
+
+2. **Create a new branch:** Create a new branch for your changes. This keeps your changes separate from the main project until they're ready to be merged. A good branch name describes the changes you're making, e.g., `add-ui-feature`.
+
+   ```bash
+   git checkout -b add-ui-feature
+   ```
+
+3. **Make your changes:** Edit the `src/user-interface.js` file to add or modify the user interface features. Ensure that your code follows the existing style and conventions.
+
+4. **Commit your changes:** Commit your changes with a clear and concise message explaining what you've done.
+
+   ```bash
+   git commit -m "Add new UI feature"
+   ```
+
+5. **Push your branch:** Push your branch to your forked repository.
+
+   ```bash
+   git push origin add-ui-feature
+   ```
+
+6. **Create a pull request:** Go to the original repository and click the "New pull request" button. Select your forked repository and branch. Provide a clear title and description of your changes in the pull request.
+
+7. **Review and merge:** Your pull request will be reviewed by the maintainers. They may suggest changes or ask for clarification. Once the review is complete, your changes will be merged into the main project.
+
 Thank you for contributing!
