@@ -1,0 +1,64 @@
+# Qwen3 LLM MCP Server
+
+This repository contains the implementation of the Qwen3 LLM MCP server. The Qwen3 LLM MCP server is designed to provide a robust and efficient platform for deploying and managing multiple large language models (LLMs) in a multi-card GPU environment.
+
+## Features
+
+- **Multi-Model Support**: The server supports multiple LLMs, allowing users to select and switch between different models as needed.
+- **File Uploads**: Users can upload document files, video files, audio files, and URLs for processing by the selected model.
+- **Real-Time Output**: The server provides real-time output, displaying results as they are processed.
+- **Source Links**: Each output includes source links to the original data, allowing users to verify the results.
+- **Error Handling**: Detailed error messages and logging for debugging and analysis.
+- **File Management**: Functions to delete uploaded files, list all uploaded files, and update metadata of uploaded files.
+- **Configuration**: Uses a configuration file for paths and other constants.
+- **Modular Design**: File operations are modularized into a dedicated module for better maintainability.
+
+## Installation
+
+To install the Qwen3 LLM MCP server, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/QwenLM/Qwen3.git
+   cd Qwen3
+   ```
+
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the server:
+   ```bash
+   npm start
+   ```
+
+## Usage
+
+### Uploading Files
+
+To upload a file, send a POST request to `/upload` with the file included in the request body. The server supports document files, video files, audio files, and URLs.
+
+### Selecting a Model
+
+To select a model, send a POST request to `/select-model` with the model name included in the request body.
+
+### Displaying Output
+
+To display the output, send a POST request to `/display-output` with the output and source links included in the request body.
+
+### File Management
+
+The server includes functions to delete uploaded files, list all uploaded files, and update metadata of uploaded files. These functions can be accessed through the appropriate endpoints.
+
+## Configuration
+
+The server uses a configuration file for paths and other constants. The configuration file is located at `src/config.js`.
+
+## Contributing
+
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
