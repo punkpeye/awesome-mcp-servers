@@ -584,7 +584,7 @@ Integration with gaming related data, game engines, and services
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
-
+- [alexander-zuev/kollektiv-mcp](https://github.com/alexander-zuev/kollektiv-mcp) 📇 ☁️ - Enables anyone to set up "RAG over private data" in two clicks. Upload documents and query them seamlessly from MCP clients like Cursor, Windsurf, and Claude Desktop without any infrastructure setup.
 - [CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - Enhanced graph-based memory with a focus on AI role-play and story generation
 - [graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - Ingest anything from Slack, Discord, websites, Google Drive, Linear or GitHub into a Graphlit project - and then search and retrieve relevant knowledge within an MCP client like Cursor, Windsurf or Cline.
 - [hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - An MCP server implementation that provides tools for retrieving and processing documentation through vector search, enabling AI assistants to augment their responses with relevant documentation context
