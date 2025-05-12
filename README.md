@@ -76,6 +76,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📂 - [Browser Automation](#browser-automation)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
 * 👨‍💻 - [Code Execution](#code-execution)
+* 🧪 - [Code Testing](#code-testing)
 * 🤖 - [Coding Agents](#coding-agents)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
@@ -209,6 +210,12 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 - [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) 🏎️ ☁️ - OpenAPI-MCP: Dockerized MCP Server to allow your AI agent to access any API with existing api docs.
 - [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) 📇 🏠 – A Node.js MCP server that spins up isolated Docker-based sandboxes for executing JavaScript snippets with on-the-fly npm dependency installation and clean teardown
 - [r33drichards/mcp-js](https://github.com/r33drichards/mcp-js) 🦀 🏠 🐧 🍎 - A Javascript code execution sandbox that uses v8 to isolate code to run AI generated javascript locally without fear. Supports heap snapshotting for persistent sessions. 
+
+### 🧪 <a name="code-testing"></a>Code Testing
+
+Services for test execution, management, debugging, and more.
+
+- [BrowserStack MCP](https://github.com/browserstack/mcp-server) 🎖️🤖☁️ – Unlock the full power of BrowserStack’s [Test Platform](https://www.browserstack.com/test-platform) through this MCP server, enabling seamless test automation and debugging via your favorite AI tools—making testing easier for developers and QA teams alike.
 
 ### 🤖 <a name="coding-agents"></a>Coding Agents
 
