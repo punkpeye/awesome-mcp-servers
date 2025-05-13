@@ -282,6 +282,7 @@
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - Docker를 통해 로컬로 코드를 실행하고 여러 프로그래밍 언어를 지원하는 MCP 서버입니다
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - EdgeOne Pages에 HTML 콘텐츠를 배포하고 공개적으로 접근 가능한 URL을 얻기 위한 MCP 서비스입니다.
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCP 서버는 사용자의 자연어 명령을 ROS 또는 ROS2 제어 명령으로 변환함으로써 로봇의 제어를 지원합니다.
+- [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP 서버는 MCP 기반으로 구축된 서버로, 사용자가 LLM이 해석한 자연어 명령을 통해 Unitree Go2 로봇을 제어할 수 있도록 해줍니다.
 
 
 ### 🧮 데이터 과학 도구
