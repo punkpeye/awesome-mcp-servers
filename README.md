@@ -762,7 +762,7 @@ Translation tools and services to enable AI assistants to translate content betw
 ### 🎧 <a name="text-to-speech"></a>Text-to-Speech
 
 Tools for converting text-to-speech and vice-versa
-
+- [DAISYS](https://github.com/daisys-ai/daisys-mcp) 🐍 🏠 🍎 🪟 🐧- Generate high-quality text-to-speech and text-to-voice outputs using the [DAISYS](https://www.daisys.ai/) platform and make it able to play and store audio generated.
 - [Kokoro TTS MCP](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - MCP Server that uses the open weight Kokoro TTS models to convert text-to-speech. Can convert text to MP3 on a local driver or auto-upload to an S3 bucket.
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
