@@ -300,6 +300,7 @@ AIアシスタントが異なる言語間でコンテンツを翻訳できるよ
 
 旅行および交通情報へのアクセス。スケジュール、ルート、およびリアルタイムの旅行データをクエリすることができます。
 
+- [CarrotAI-PRC-AirPrice](https://github.com/Xingsandesu/CarrotAI-PRC-AirPrice) 🐍 ☁️ - Streamable-HTTP ベースの航空券価格検索サービスで、中国主要都市間の航空券価格をリアルタイムで検索できます。最安値、往復、区間検索など多様なシナリオに対応。
 - [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server) 📇 ☁️ - オランダ鉄道（NS）の旅行情報、スケジュール、およびリアルタイムの更新にアクセス
 - [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) 📇 ☁️ - 米国国立公園局APIの統合で、米国国立公園の詳細情報、警報、ビジターセンター、キャンプ場、イベントの最新情報を提供
 
