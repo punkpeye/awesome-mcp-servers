@@ -482,6 +482,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 
 访问旅行和交通信息。可以查询时刻表、路线和实时旅行数据。
 
+- [CarrotAI-PRC-AirPrice](https://github.com/Xingsandesu/CarrotAI-PRC-AirPrice) 🐍 ☁️ - 一个基于Streamable-HTTP 的机票价格查询服务，它可实时查询中国主要城市间的机票价格，支持最低价、往返票、区间查询等多种场景。
 - [Airbnb MCP Server](https://github.com/openbnb-org/mcp-server-airbnb) 📇 ☁️ - 提供搜索Airbnb房源及获取详细信息的工具。
 - [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server) 📇 ☁️ - 了解荷兰铁路 (NS) 的旅行信息、时刻表和实时更新
 - [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) 📇 ☁️ - 美国国家公园管理局 API 集成，提供美国国家公园的详细信息、警报、游客中心、露营地和活动的最新信息
