@@ -498,6 +498,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps 集成，用于管理存储库、工作项目和管道
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - 使用 LLM 阅读和分析 GitHub 存储库
 - [kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp) 📇 ☁️ - 与 GitLab 项目问题和合并请求无缝互动。
+- [kaiyuanxiaobing/atomgit-mcp-server](https://github.com/kaiyuanxiaobing/atomgit-mcp-server) 📇 ☁️ - AtomGit API 集成用于仓库管理、问题、拉取请求等功能。
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>其他工具和集成
 
