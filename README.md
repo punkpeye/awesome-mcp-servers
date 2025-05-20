@@ -52,6 +52,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
   * 🦀 – Rust codebase
   * #️⃣ - C# Codebase
   * ☕ - Java codebase
+  * 🇯🇵 - Ruby codebase
+
 * scope
   * ☁️ - Cloud Service
   * 🏠 - Local Service
@@ -471,6 +473,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp) 🐍 ☁️ - Connects to Kaggle, ability to download and analyze datasets.
 - [kdqed/zaturn](https://github.com/kdqed/zaturn) 🐍 🏠 🪟 🐧 🍎 - Link multiple data sources (SQL, CSV, Parquet, etc.) and ask AI to analyze the data for insights and visualizations.
 - [mckinsey/vizro-mcp](https://github.com/mckinsey/vizro/tree/main/vizro-mcp) 🎖️ 🐍 🏠 - Tools and templates to create validated and maintainable data charts and dashboards.
+- [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) 🇯🇵 🏠 - Enables agents to query local information about dependencies in a Ruby project's `Gemfile`.
 
 ### 📟 <a name="embedded-system"></a>Embedded System
 
