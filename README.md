@@ -172,6 +172,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 
 Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
 
+- [awslabs/mcp](https://github.com/awslabs/mcp) 🎖️ ☁️ - AWS MCP servers for seamless integration with AWS services and resources.
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - A MCP built on Qiniu Cloud products, supporting access to Qiniu Cloud Storage, media processing services, etc.
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - upload and manipulation of IPFS storage
 - [VmLia/books-mcp-server](https://github.com/VmLia/books-mcp-server) 📇 ☁️ - This is an MCP server used for querying books, and it can be applied in common MCP clients, such as Cherry Studio.
@@ -660,6 +661,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
+- [Xyber-Labs/mcp-server-youtube](https://github.com/Xyber-Labs/mcp-servers/tree/main/mcp-server-youtube) 🐍 ☁️ - This repository implements an MCP (Model Context Protocol) server for YouTube search and transcript retrieval functionality. It allows language models or other agents to easily query YouTube content through a standardized protocol.
 - [ricocf/mcp-wolframalpha](https://github.com/ricocf/mcp-wolframalpha) 🐍 🏠 ☁️ - An MCP server lets AI assistants use the Wolfram Alpha API for real-time access to computational knowledge and data.
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - The Scrapeless Model Context Protocol service acts as an MCP server connector to the Google SERP API, enabling web search within the MCP ecosystem without leaving it.
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) 📇 🏠 - An MCP server for searching job listings with filters for date, keywords, remote work options, and more.
@@ -741,6 +743,8 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
 
 - [kunallunia/twitter-mcp](https://github.com/LuniaKunal/mcp-twitter) 🐍 🏠 - All-in-one Twitter management solution providing timeline access, user tweet retrieval, hashtag monitoring, conversation analysis, direct messaging, sentiment analysis of a post, and complete post lifecycle control - all through a streamlined API.
+- [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server) 🐍 ☁️ - Integrates with Facebook Pages to enable direct management of posts, comments, and engagement metrics through the Graph API for streamlined social media management.
+
 
 ### 🏃 <a name="sports"></a>Sports
 
@@ -793,6 +797,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) 📇 ☁️ 🏠 - GitLab platform integration for project management and CI/CD operations
 - [oschina/mcp-gitee](https://github.com/oschina/gitee) 🏎️ ☁️ 🏠 - Gitee API integration, repository, issue, and pull request management, and more.
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
+- [kaiyuanxiaobing/atomgit-mcp-server](https://github.com/kaiyuanxiaobing/atomgit-mcp-server) 📇 ☁️ - Official AtomGit server for integration with repository management, PRs, issues, branches, labels, and more.
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
