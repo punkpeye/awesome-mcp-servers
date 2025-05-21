@@ -671,6 +671,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 - [Foxy Contexts](https://github.com/strowk/foxy-contexts) 🏎️ - Golang library to write MCP Servers declaratively with functional testing included
+- [framework-rai-mcp](https://github.com/sebastianbuzdugan/framework-rai-mcp) 📇 - A responsible AI MCP server framework focused on ethical deployment in startups and enterprise prototypes.
 - [gabfr/waha-api-mcp-server](https://github.com/gabfr/waha-api-mcp-server) 📇 - An MCP server with openAPI specs for using the WhatsApp unnoficial API (https://waha.devlike.pro/ - also open source: https://github.com/devlikeapro/waha
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – Provides integration between [Genkit](https://github.com/firebase/genkit/tree/main) and the Model Context Protocol (MCP).
 - [http4k MCP SDK](https://mcp.http4k.org) 🐍 - Functional, testable Kotlin SDK based around the popular [http4k](https://http4k.org) Web toolkit. Supports new HTTP Streaming protocol.
