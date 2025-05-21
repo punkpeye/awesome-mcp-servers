@@ -155,6 +155,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - Apache Unomi CDPサーバー上のプロファイルにアクセスし、更新するためのMCPサーバー。
 - [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - [AntV](https://github.com/antvis) をベースにしたデータ可視化チャートを生成する MCP Server プラグイン。
+- [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - Cal.com 用の MCP サーバー。イベントタイプの管理、予約の作成、LLM を通じた Cal.com のスケジューリングデータへのアクセスが可能です。
 
 ### 🗄️ <a name="databases"></a>データベース
 
