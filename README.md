@@ -100,6 +100,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🏃 - [Sports](#sports)
 * 🎧 - [Support & Service Management](#support-and-service-management)
 * 🌎 - [Translation Services](#translation-services)
+* 🎬 - [Video Generation](#video-generation)
 * 🎧 - [Text-to-Speech](#text-to-speech)
 * 🚆 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
@@ -763,11 +764,19 @@ Translation tools and services to enable AI assistants to translate content betw
 
 - [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
 
+### 🎬 <a name="video-generation"></a>Video Generation
+
+Tools for text-to-video, image-to-video and other video generation functions.
+
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎖️ 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - Official MiniMax Model Context Protocol (MCP) server that enables interaction with MiniMax's powerful AI capabilities including image generation, video generation, text-to-speech, and voice cloning APIs.
+
 ### 🎧 <a name="text-to-speech"></a>Text-to-Speech
 
 Tools for converting text-to-speech and vice-versa
 
 - [Kokoro TTS MCP](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - MCP Server that uses the open weight Kokoro TTS models to convert text-to-speech. Can convert text to MP3 on a local driver or auto-upload to an S3 bucket.
+
+- [MiniMax-AI/MiniMax-MCP](https://github.com/MiniMax-AI/MiniMax-MCP) 🎖️ 🐍 📇 ☁️ 🏠 🍎 🪟 🐧- Official MiniMax Model Context Protocol (MCP) server that enables interaction with MiniMax's powerful AI capabilities including image generation, video generation, text-to-speech, and voice cloning APIs.
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
