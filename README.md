@@ -653,6 +653,9 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [video-creator/ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp.git) 🎥 🔊 - Using ffmpeg command line to achieve an mcp server, can be very convenient, through the dialogue to achieve the local video search, tailoring, stitching, playback and other functions
 - [stass/exif-mcp](https://github.com/stass/exif-mcp) 📇 🏠 🐧 🍎 🪟 - A MCP server that allows one to examine image metadata like EXIF, XMP, JFIF and GPS.  This provides foundation for LLM-powered search and analysis of photo librares and image collections.
 
+### 🔎 <a name="RAG"></a>end to end RAG platforms
+- [vectara/vectara-mcp](https://github.com/vectara/vectara-mcp) 🐍 🏠 ☁️ - An MCP server for accessing Vectara's trusted RAG-as-a-service platform.
+
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
 - [Xyber-Labs/mcp-server-youtube](https://github.com/Xyber-Labs/mcp-servers/tree/main/mcp-server-youtube) 🐍 ☁️ - This repository implements an MCP (Model Context Protocol) server for YouTube search and transcript retrieval functionality. It allows language models or other agents to easily query YouTube content through a standardized protocol.
