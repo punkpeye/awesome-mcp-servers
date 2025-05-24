@@ -305,6 +305,7 @@ Acesso a dados financeiros e ferramentas de análise. Permite que modelos de IA 
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - Pontuação de risco / participações de ativos de endereço de blockchain EVM (EOA, CA, ENS) e até mesmo nomes de domínio.
 - [bitteprotocol/mcp](https://github.com/BitteProtocol/mcp) 📇 - Integração com o Bitte Protocol para executar Agentes de IA em várias blockchains.
 - [chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 🎖️ 📇 ☁️ - Servidor MCP que conecta agentes de IA à [plataforma Chargebee](https://www.chargebee.com/).
+- [tp-lab/wallet-mcp](https://github.com/TP-Lab/mcp-marketplace/tree/master/apps/wallet-mcp) 🎖️ 📇 ☁️ - Um servidor MCP que fornece uma integração perfeita entre Clientes IA e carteiras de criptomoedas dos usuários.
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - Servidor MCP conectado à plataforma CRIC Wuye AI. O CRIC Wuye AI é um assistente inteligente desenvolvido pela CRIC especialmente para o setor de gestão de propriedades.
 
 ### 🎮 <a name="jogos"></a>Jogos
