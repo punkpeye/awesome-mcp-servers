@@ -155,6 +155,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - Apache Unomi CDPサーバー上のプロファイルにアクセスし、更新するためのMCPサーバー。
 - [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - [AntV](https://github.com/antvis) をベースにしたデータ可視化チャートを生成する MCP Server プラグイン。
+- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - AI が動的に <img src="https://mermaid.js.org/favicon.svg" height="14"/> [Mermaid](https://mermaid.js.org/) の構文を使用して可視化チャートMCPを生成します。 AI 动态生成 [Mermaid](https://mermaid.js.org/) 语法的可视化图表 MCP。
 
 ### 🗄️ <a name="databases"></a>データベース
 
