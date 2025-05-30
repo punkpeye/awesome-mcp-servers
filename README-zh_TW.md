@@ -371,7 +371,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 ### 🚆 <a name="travel-and-transportation"></a>旅行與交通
 
 訪問旅行和交通資訊。可以查詢時刻表、路線和即時旅行數據。
-
+- [CarrotAI-PRC-AirPrice](https://github.com/Xingsandesu/CarrotAI-PRC-AirPrice) 🐍 ☁️ - 一個基於Streamable-HTTP 的機票價格查詢服務，可即時查詢中國主要城市間的機票價格，支援最低價、來回票、區間查詢等多種場景。
 - [NS Travel Information MCP Server](https://github.com/r-huijts/ns-mcp-server) 📇 ☁️ - 了解荷蘭鐵路 (NS) 的旅行資訊、時刻表和即時更新
 - [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) 📇 ☁️ - 美國國家公園管理局 API 集成，提供美國國家公園的詳細資訊、警報、遊客中心、露營地和活動的最新資訊
 
