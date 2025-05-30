@@ -80,6 +80,7 @@ MCPをサポートするクライアントのリストです。
 * 📊 - [データプラットフォーム](#data-platforms)
 * 🛠️ - [開発者ツール](#developer-tools)
 * 📂 - [ファイルシステム](#file-systems)
+* 💰 - [金融とフィンテック](#finance--fintech)
 * 🎮 - [ ゲーミング](#gaming)
 * 🧠 - [知識と記憶](#knowledge--memory)
 * 🗺️ - [位置情報サービス](#location-services)
@@ -226,6 +227,12 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - ローカルファイルシステムアクセスのためのGolang実装。
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Apache OpenDAL™ でどのストレージにもアクセスできます
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 📇 🏠 - AI Chatの長さ制限に適応するファイルマージツール
+
+### 💰 <a name="finance--fintech"></a>金融・フィンテック
+
+金融データへのアクセスと分析ツール。AIモデルが市場データ、取引プラットフォーム、金融情報を扱えるようにします。
+
+- [tp-lab/wallet-mcp](https://github.com/TP-Lab/mcp-marketplace/tree/master/apps/wallet-mcp) 🎖️ 📇 ☁️ - AIクライアントとユーザーの暗号資産ウォレットをシームレスに統合するMCPサーバー
 
 ### 🎮 <a name="gaming"></a> ゲーミング
 
