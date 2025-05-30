@@ -8,7 +8,7 @@ MCP is like a USB-C port for AI. It’s an open protocol that standardizes how a
 
 ## Coverage
 
-This repo currently includes coverage for 7158 MCP servers as of April 28, 2025. Due to the limited space, we only show the most recent 30 servers in each category.
+This repo currently includes coverage for 7260 MCP servers as of May 30, 2025. Due to the limited space, we only show the most recent 30 servers in each category.
 For more, please click the category name in the next section.
 
 ## Server Categories
