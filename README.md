@@ -128,12 +128,13 @@ Servers for accessing many apps and tools through a single MCP server.
 
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
 
-- [3D Printing MCP](https://octoeverywhere.com/mcp) 📇 #️⃣ - OctoEverywhere is a 3D printing community project whose MCP server allows for querying live printer information, webcam snapshots, and printer control.
+
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - A local MCP server that generates animations using Manim.
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection
 - [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server) 📇 ☁️ - MCP server to interact with the Discogs API
 - [djalal/quran-mcp-server](https://github.com/djalal/quran-mcp-server) 📇 ☁️ MCP server to interact with Quran.com corpus via the official REST API v4.
 - [mikechao/metmuseum-mcp](https://github.com/mikechao/metmuseum-mcp) 📇 ☁️ - Metropolitan Museum of Art Collection API integration to search and display artworks in the collection.
+- [OctoEverywhere/mcp](https://github.com/OctoEverywhere/mcp) 📇 #️⃣ - A 3D printer MCP server that allows for getting live printer state, webcam snapshots, and printer control.
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - Rijksmuseum API integration for artwork search, details, and collections
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp) 📇 ☁️ - Oorlogsbronnen (War Sources) API integration for accessing historical WWII records, photographs, and documents from the Netherlands (1940-1945)
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - MCP server integration for DaVinci Resolve providing powerful tools for video editing, color grading, media management, and project control
