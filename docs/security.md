@@ -74,6 +74,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [xpn/mythic_mcp](https://github.com/xpn/mythic_mcp): A proof-of-concept MCP server that integrates Mythic for automated pentesting using LLMs.
 - [emeryray2002/mcp-secops-v3](https://github.com/emeryray2002/mcp-secops-v3): Facilitates interaction with Google's Chronicle Security Operations API for security event management and alert retrieval.
 - [semgrep/mcp](https://github.com/semgrep/mcp): Utilize Semgrep to efficiently scan code for security vulnerabilities through an MCP server interface.
+- [StacklokLabs/osv-mcp](https://github.com/StacklokLabs/osv-mcp): Access the OSV (Open Source Vulnerabilities) database for vulnerability information. Query vulnerabilities by package version or commit, batch query multiple packages, and get detailed vulnerability information by ID.
 - [mohitparmar1/Solana-Wallet-Security-Scanner](https://github.com/mohitparmar1/Solana-Wallet-Security-Scanner): A demo MCP server for Solana development, offering basic RPC methods and prompts to enhance Solana programming tasks.
 - [unmuktoai/Wazuh-MCP-Server](https://github.com/unmuktoai/Wazuh-MCP-Server): Integrates Wazuh security data with LLMs by transforming alerts into MCP-compliant JSON and exposing them via an HTTP endpoint.
 - [rad-security/mcp-server](https://github.com/rad-security/mcp-server): Provides AI-powered security insights for Kubernetes and cloud environments.
