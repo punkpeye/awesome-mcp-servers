@@ -916,6 +916,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
+- [@profullstack/mcp-server](https://github.com/profullstack/mcp-server) - A generic, modular server for implementing the Model Context Protocol (MCP). This server provides a framework for controlling and interacting with various models through a standardized API written in Node.js
 
 ## Tips and Tricks
 
