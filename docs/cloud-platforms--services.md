@@ -48,6 +48,7 @@ Servers integrating with major cloud providers or specific cloud services.
 - [CefBoud/kafka-mcp-server](https://github.com/CefBoud/kafka-mcp-server): Integrates Apache Kafka with natural language processing capabilities via the Model Context Protocol, enabling seamless interaction with Kafka clusters.
 - [ArchBlizzard/mcp-server](https://github.com/ArchBlizzard/mcp-server): Connects Claude AI with ElevenLabs for seamless voice-enabled conversations.
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server): Provides the baseline status of Web Platform API features using the Web Platform Dashboard API, facilitating integration with various AI models.
+- [StacklokLabs/mkp](https://github.com/StacklokLabs/mkp): Model Kontext Protocol Server for Kubernetes that allows LLM-powered applications to interact with Kubernetes clusters through native Go implementation with direct API integration and comprehensive resource management.
 - [kunwu/aliyun-manager-mcp](https://github.com/kunwu/aliyun-manager-mcp): Manage and monitor Alibaba Cloud resources with tools for ECS instance tracking and billing analysis via the MCP interface.
 - [Chenastron/remote-mcp-server](https://github.com/Chenastron/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with Claude Desktop and MCP Inspector.
 - [devilMing/yapi-mcp-server](https://github.com/devilMing/yapi-mcp-server): Facilitates access to YAPI interface details through a Model Context Protocol server.
