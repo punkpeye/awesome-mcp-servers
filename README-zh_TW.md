@@ -173,7 +173,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍☁️ - MCP 伺服器可從任何 MCP 用戶端與 Tinybird Workspace 進行交互。
 - [@iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic) 🎖️ 📇 ☁️ - 連接 [iaptic](https://www.iaptic.com) 平台，讓您輕鬆查詢客戶購買記錄、交易數據以及應用營收統計資訊。
 - [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - 一個基於 [AntV](https://github.com/antvis) 生成資料視覺化圖表的 MCP Server 插件。
-- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - <img src="https://mermaid.js.org/favicon.svg" height="14"/> AI 動態生成 [Mermaid](https://mermaid.js.org/) 語法的可視化圖表 MCP。
+- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - AI 動態生成 [Mermaid](https://mermaid.js.org/) 語法的可視化圖表 MCP。
 
 ### 🗄️ <a name="databases"></a>資料庫
 
