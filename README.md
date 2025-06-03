@@ -660,7 +660,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [stass/exif-mcp](https://github.com/stass/exif-mcp) 📇 🏠 🐧 🍎 🪟 - A MCP server that allows one to examine image metadata like EXIF, XMP, JFIF and GPS.  This provides foundation for LLM-powered search and analysis of photo librares and image collections.
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
-
+- [format37/youtube_mcp](https://github.com/format37/youtube_mcp) 🎬 ▶️ 🎙️ 🔤 🧠 🐋 🌐 A Docker-based MCP server that transcribes YouTube videos to English text. Uses yt-dlp to download audio and OpenAI's Whisper-1 for transcription. Simply provide a YouTube URL and get back the full transcript, automatically translated from any supported language to English.
 - [Xyber-Labs/mcp-server-youtube](https://github.com/Xyber-Labs/mcp-servers/tree/main/mcp-server-youtube) 🐍 ☁️ - This repository implements an MCP (Model Context Protocol) server for YouTube search and transcript retrieval functionality. It allows language models or other agents to easily query YouTube content through a standardized protocol.
 - [ricocf/mcp-wolframalpha](https://github.com/ricocf/mcp-wolframalpha) 🐍 🏠 ☁️ - An MCP server lets AI assistants use the Wolfram Alpha API for real-time access to computational knowledge and data.
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - The Scrapeless Model Context Protocol service acts as an MCP server connector to the Google SERP API, enabling web search within the MCP ecosystem without leaving it.
