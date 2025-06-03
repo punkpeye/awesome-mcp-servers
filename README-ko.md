@@ -184,7 +184,7 @@
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - 모든 MCP 클라이언트에서 Tinybird 워크스페이스와 상호 작용하기 위한 MCP 서버.
 - [@iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic) 🎖️ 📇 ☁️ - [iaptic](https://www.iaptic.com)과 연결하여 고객 구매, 거래 데이터 및 앱 수익 통계에 대해 질문합니다.
 - [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - [AntV](https://github.com/antvis) 를 기반으로 데이터 시각화 차트를 생성하는 MCP Server 플러그인.
-- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - AI는 <img src="https://mermaid.js.org/favicon.svg" height="14"/> [Mermaid](https://mermaid.js.org/) 문법을 사용하여 동적으로 시각화 차트 MCP를 생성합니다。
+- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - AI는 [Mermaid](https://mermaid.js.org/) 문법을 사용하여 동적으로 시각화 차트 MCP를 생성합니다。
 
 ### 📊 <a name="data-platforms"></a>데이터 플랫폼
 
