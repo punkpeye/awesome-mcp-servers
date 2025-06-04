@@ -818,6 +818,7 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [NaorAIdeas/hubspot-mcp-server](https://github.com/NaorAIdeas/hubspot-mcp-server): Facilitates seamless interaction with HubSpot's API through a standardized MCP interface, enhancing sales and project management workflows.
 - [cnych/seo-mcp](https://github.com/cnych/seo-mcp): Leverage Ahrefs data for comprehensive SEO analysis, including backlink and keyword research, through a Model Control Protocol service.
 - [edwardchoh/apollo-io-mcp-server](https://github.com/edwardchoh/apollo-io-mcp-server): Facilitates interaction with Apollo.io API through MCP tools for data enrichment and search functionalities.
+- [Offorte Proposal Software](https://github.com/offorte/offorte-mcp-server): The Offorte Proposal Software MCP server enables creation and sending of business proposals.
 
 ## 📡 Monitoring & Observability
 
