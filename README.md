@@ -910,6 +910,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - Enables interactive LLM workflows by adding local user prompts and chat capabilities directly into the MCP loop.
 - [olalonde/mcp-human](https://github.com/olalonde/mcp-human) 📇 ☁️ - When your LLM needs human assistance (through AWS Mechanical Turk)
 - [gwbischof/free-will-mcp](https://github.com/gwbischof/free-will-mcp) 🐍 🏠 - Give your AI free will tools. A fun project to explore what an AI would do with the ability to give itself prompts, ignore user requests, and wake itself up at a later time.
+- [Offorte Proposal Software MCP server](https://github.com/offorte/offorte-mcp-server) 🎖️📇☁️🍎🪟🐧 - The Offorte Proposal Software MCP server enables creation and sending of business proposals.
 
 ## Frameworks
 
