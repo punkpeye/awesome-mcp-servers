@@ -959,6 +959,7 @@ Servers integrating with project management and task tracking tools.
 - [GuilhermeBarroso-sys/trello-report-mcp](https://github.com/GuilhermeBarroso-sys/trello-report-mcp): Generate detailed Trello board reports by quarter or year, integrating seamlessly with AI assistants.
 - [larryhudson/linear-mcp-server-again](https://github.com/larryhudson/linear-mcp-server-again): Facilitates interaction between Claude and Linear for task management through a Model Context Protocol server.
 - [menma-at-here/calendar-mcp-server](https://github.com/menma-at-here/calendar-mcp-server): Facilitates retrieval of Google Calendar events through an MCP server interface.
+- [taskade/mcp](https://github.com/taskade/mcp) – Official Taskade MCP server: connect Taskade’s API to any MCP-compatible client (e.g. Claude or Cursor), enabling workspace loading, task retrieval, and interactive operations.
 
 ## 🔬 Science & Research
 
