@@ -241,6 +241,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- [Xyber-Labs/mcp-server-telegram](https://github.com/Xyber-Labs/mcp-servers/tree/main/mcp-server-telegram) 🐍 ☁️ - This server provides an API exposing a single MCP tool, post_to_telegram, designed to send messages to a pre-configured Telegram channel using a bot token. It handles interactions with the Telegram Bot API, including text formatting and message length constraints.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline
 - [agentmail-toolkit/mcp](https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp) 🐍 💬 - An MCP server to create inboxes on the fly to send, receive, and take actions on email. We aren't AI agents for email, but email for AI Agents.
