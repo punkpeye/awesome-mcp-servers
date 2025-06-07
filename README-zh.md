@@ -310,6 +310,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - 基于 EdgeOne Pages 的 MCP 服务器，支持代码部署为在线页面。
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - 查询 pkg.go.dev 上的 golang 包信息
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCP服务器通过将用户的自然语言指令转换为ROS或ROS2控制指令，以支持机器人的控制。
+- [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP服务器是一个基于MCP构建的服务器，允许用户通过由大语言模型解释的自然语言指令来控制Unitree Go2机器人。
 
 ### 🧮 <a name="data-science-tools"></a>数据科学工具
 
