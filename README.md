@@ -628,6 +628,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [ipfind/ipfind-mcp-server](https://github.com/ipfind/ipfind-mcp-server) 🐍 ☁️ - IP Address location service using the [IP Find](https://ipfind.com) API
 - [mahdin75/geoserver-mcp](https://github.com/mahdin75/geoserver-mcp) 🏠 – A Model Context Protocol (MCP) server implementation that connects LLMs to the GeoServer REST API, enabling AI assistants to interact with geospatial data and services.
 - [ipfred/aiwen-mcp-server-geoip](https://github.com/ipfred/aiwen-mcp-server-geoip) 🐍 📇 ☁️ – MCP Server for the Aiwen IP Location, Get user network IP location, get IP details (country, province, city, lat, lon, ISP, owner, etc.)
+- [TrackMage](https://github.com/trackmage/trackmage-mcp-server) - Shipment tracking api and logistics management capabilities through the [TrackMage API] (https://trackmage.com/)
 
 ### 🎯 <a name="marketing"></a>Marketing
 
