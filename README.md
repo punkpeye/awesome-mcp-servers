@@ -46,6 +46,7 @@ For more, please click the category name in the next section.
 - ✈️ - [Travel & Transportation](docs/travel--transportation.md)
 - 🔧 - [Utilities & Helpers](docs/utilities--helpers.md)
 - 🔄 - [Version Control](docs/version-control.md)
+- ⚽ - [Sport](docs/sport.md)
 
 
 
