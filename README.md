@@ -780,7 +780,7 @@ Translation tools and services to enable AI assistants to translate content betw
 
 - [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
 
-- [translated/lara-mcp](https://github.com/AlwaysSany/deepl-fastmcp-python-server) 🎖️ 📇 ☁️ - A Python based Model Context Protocol (MCP) server that provides translation capabilities using Python, FastMCP and DeepL API..
+- [AlwaysSany/deepl-fastmcp-python-server](https://github.com/AlwaysSany/deepl-fastmcp-python-server) 🎖️ 📇 ☁️ - A Python based Model Context Protocol (MCP) server that provides translation capabilities using Python, FastMCP and DeepL API..
 
 ### 🎧 <a name="text-to-speech"></a>Text-to-Speech
 
