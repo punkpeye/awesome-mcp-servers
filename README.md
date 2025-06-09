@@ -371,7 +371,6 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [rotatingshov/go-mcp-mysql](https://github.com/rotatingshov/go-mcp-mysql): Effortlessly manage MySQL databases with a Go-based MCP server, offering CRUD operations and automation without the need for Node.js or Python.
 - [datafe/maxcompute-mcp-server](https://github.com/datafe/maxcompute-mcp-server): Facilitates data querying and schema management on Alibaba Cloud's MaxCompute platform using MCP protocol.
 - [atcol/glue-mcp](https://github.com/atcol/glue-mcp): Facilitates interaction with AWS Glue Data Catalog through a model context protocol server.
-- [dhrbtjr0331/nba-stats-predictor-mcp](https://github.com/dhrbtjr0331/nba-stats-predictor-mcp): Generates NBA player performance forecasts using real-time data analysis and advanced statistical modeling.
 - [ronantakizawa/gis-dataconvertersion-mcp](https://github.com/ronantakizawa/gis-dataconvertersion-mcp): Facilitates geographic data conversion across multiple formats, enabling seamless integration with LLMs for spatial data manipulation.
 - [albertdow/mcp-datapi](https://github.com/albertdow/mcp-datapi): Facilitates access to ECMWF's Climate Data Store catalogues and job statuses through an MCP server interface.
 - [4R9UN/mcp-kql-server](https://github.com/4R9UN/mcp-kql-server): Facilitates the execution of KQL queries against Azure Data Explorer within Claude Desktop, leveraging Azure CLI for secure authentication and structured data output.
@@ -593,8 +592,6 @@ Servers interacting with game engines, game platforms/APIs, or providing game-re
 - [Jeremy-Min-Yang/minecraft-mcp-server-pixel](https://github.com/Jeremy-Min-Yang/minecraft-mcp-server-pixel): Enables AI-driven control of a Minecraft bot using the Mineflayer API for automated building and exploration.
 - [v9rt3x/cs2-rcon-mcp](https://github.com/v9rt3x/cs2-rcon-mcp): Facilitates remote management and monitoring of Counter-Strike 2 servers using RCON commands through a Model Context Protocol interface.
 - [passontw/slotdemo](https://github.com/passontw/slotdemo): A modern slot machine game built with native JavaScript, CSS animations, and Tailwind CSS, offering a smooth and interactive gaming experience.
-- [henryco23/NBA](https://github.com/henryco23/NBA): A Python server utilizing MCP to provide comprehensive access to NBA statistics and live game data through the NBA API.
-- [yeonupark/mcp-soccer-data](https://github.com/yeonupark/mcp-soccer-data): Delivers real-time football match data through natural language interactions using the SoccerDataAPI.
 - [andrzejsliwa/6510emu_in_c](https://github.com/andrzejsliwa/6510emu_in_c): A modern C implementation of a 6510/6502 CPU emulator with disassembly support, used in the Commodore 64.
 - [8tako8tako8/sample_mcp_pokemon](https://github.com/8tako8tako8/sample_mcp_pokemon): Retrieve Pokémon data using a dedicated MCP server that interfaces with PokeAPI.
 - [h0rv/d2-mcp](https://github.com/h0rv/d2-mcp): Facilitates the integration of D2 diagram creation and validation into development workflows, offering syntax validation and rendering capabilities.
@@ -1100,6 +1097,15 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [dabidstudio/youtubeinsights-mcp-server](https://github.com/dabidstudio/youtubeinsights-mcp-server): Facilitates insight extraction from YouTube videos, enabling subtitle parsing, keyword-based video discovery, and channel info retrieval.
 - [1282saa/news_se](https://github.com/1282saa/news_se): Facilitates AI model access to Seoul Economic Daily's stylebook data with advanced search and authentication features.
 - [tropical-362827/futaba-mcp](https://github.com/tropical-362827/futaba-mcp): A Python library enabling AI assistants to interact with ふたば☆ちゃんねる by retrieving and sorting thread data.
+
+## ⚽ Sports
+
+Servers providing access to sports-related APIs and analysis.
+
+- [dhrbtjr0331/nba-stats-predictor-mcp](https://github.com/dhrbtjr0331/nba-stats-predictor-mcp): Generates NBA player performance forecasts using real-time data analysis and advanced statistical modeling.
+- [henryco23/NBA](https://github.com/henryco23/NBA): A Python server utilizing MCP to provide comprehensive access to NBA statistics and live game data through the NBA API.
+- [yeonupark/mcp-soccer-data](https://github.com/yeonupark/mcp-soccer-data): Delivers real-time football match data through natural language interactions using the SoccerDataAPI.
+- [guillochon/mlb-api-mcp](https://github.com/guillochon/mlb-api-mcp): A Python MCP server that acts as a proxy to the freely available MLB API, which provides player info, stats, and game information.
 
 ## ✈️ Travel & Transportation
 
