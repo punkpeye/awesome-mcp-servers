@@ -519,7 +519,6 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [Sifu213/monad-mcp-magiceden](https://github.com/Sifu213/monad-mcp-magiceden): Facilitates interaction with NFT data on the Monad testnet, offering insights into holder addresses, total NFT value, and trending collections by sales and volume.
 - [MCPxLabs/mcpsol](https://github.com/MCPxLabs/mcpsol): Facilitates AI-driven interactions with the Solana blockchain, enabling seamless execution of transactions and management of wallets through a standardized interface.
 - [atompsv/my-red-envelope](https://github.com/atompsv/my-red-envelope): Facilitates querying MON token balances on the Monad testnet via an MCP server.
-- [richardadonnell/monarchmoney-mcp](https://github.com/richardadonnell/monarchmoney-mcp): Facilitates interaction with Monarch Money accounts through a FastMCP server, offering tools for account management, transaction tracking, and financial insights.
 - [lispking/monad-mcp-server](https://github.com/lispking/monad-mcp-server): Facilitates interactions with the Monad testnet, enabling token balance checks, transaction handling, and smart contract deployment.
 - [AyushRatan1/Onfinance-MCP-Polymarket](https://github.com/AyushRatan1/Onfinance-MCP-Polymarket): Facilitates real-time interaction with prediction markets using Claude Desktop and custom data analysis tools.
 - [AlexVagrant/monad-mcp](https://github.com/AlexVagrant/monad-mcp): Facilitates querying MON token balances on the Monad testnet through an MCP server integrated with Claude Desktop.
