@@ -443,6 +443,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [pwh-pwh/cal-mcp](https://github.com/pwh-pwh/cal-mcp) - MCP伺服器，可以計算數學表達式
 - [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - 包裝Ankr Advanced API的MCP伺服器實現。可以訪問以太坊、BSC、Polygon、Avalanche等多條區塊鏈上的NFT、代幣和區塊鏈數據。
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - 透過在 MCP 循環中直接加入本機使用者提示和聊天功能，啟用互動式 LLM 工作流程。
+- [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - 文顏 MCP Server，讓 AI 將 Markdown 文章自動排版後發佈至微信公眾號。
 
 ## 框架
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - 用於在 Python 中構建 MCP 伺服器的高級框架
