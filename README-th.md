@@ -371,6 +371,7 @@
 - [SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop.git) 🐍 ☁️ - เครื่องมือ MCP ที่ให้ข้อมูลตลาด cryptocurrency โดยใช้ CoinGecko API
 - [SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop.git) 🐍 ☁️ - เครื่องมือ MCP ที่ให้ข้อมูลตลาดหุ้นและการวิเคราะห์โดยใช้ Yahoo Finance API
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - เซิร์ฟเวอร์ MCP ที่ใช้ baostock เป็นฐาน ให้การเข้าถึงและวิเคราะห์ข้อมูลตลาดหุ้นจีน
+- [tp-lab/wallet-mcp](https://github.com/TP-Lab/mcp-marketplace/tree/master/apps/wallet-mcp) 🎖️ 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่ให้การผสานรวมแบบราบรื่นระหว่างไคลเอนต์ AI และกระเป๋าเงิน crypto ของผู้ใช้
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่เชื่อมต่อกับแพลตฟอร์ม CRIC Wuye AI โดย CRIC Wuye AI เป็นผู้ช่วย AI อัจฉริยะที่บริษัท CRIC พัฒนาขึ้นสำหรับอุตสาหกรรมการบริหารอสังหาริมทรัพย์
 
 ### 🎮 เกม

@@ -357,6 +357,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp) 🐍 ☁️ -  一个MCP服务器，通过The Graph提供的索引区块链数据为AI代理提供支持。
 - [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI 提供港美股等市场的股票实时行情数据，通过 MCP 提供 AI 接入分析、交易能力。
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ -  使用 Bitget 公共 API 去获取加密货币最新价格
+- [tp-lab/wallet-mcp](https://github.com/TP-Lab/mcp-marketplace/tree/master/apps/wallet-mcp) 🎖️ 📇 ☁️ - 一个 MCP 服务器，实现 AI 客户端与用户加密钱包的无缝对接，支持多链资产管理、交易签名和智能合约交互等功能。
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - 基于 baostock 的 MCP 服务器,提供对中国股票市场数据的访问和分析功能。
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - 接入 CRIC物业AI 平台的 MCP 服务器。CRIC物业AI 是克而瑞专为物业行业打造的智能 AI 助理。
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ -  一个获取专业级金融数据的MCP服务器，支持Tushare等多种数据供应商。

@@ -277,6 +277,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI 提供港美股等市場的股票即時行情數據，通過 MCP 提供 AI 接入分析、交易能力。
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ -  使用 Bitget 公共 API 去獲取加密貨幣最新價格
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - 基於 baostock 的 MCP 伺服器,提供對中國股票市場數據的訪問和分析功能。
+- [tp-lab/wallet-mcp](https://github.com/TP-Lab/mcp-marketplace/tree/master/apps/wallet-mcp) 🎖️ 📇 ☁️ - 提供 AI 客戶端與使用者加密貨幣錢包的無縫整合，支援錢包連接、資產查詢和交易簽名等功能。
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - 接入 CRIC物業AI 平台的 MCP 伺服器。CRIC物業AI 是克而瑞專為物業行業打造的智慧型 AI 助理。
 
 ### 🎮 <a name="gaming"></a>遊戲
