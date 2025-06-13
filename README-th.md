@@ -134,6 +134,7 @@
 
 การผสานรวมบริการแพลตฟอร์มคลาวด์ ช่วยให้สามารถจัดการและโต้ตอบกับโครงสร้างพื้นฐานและบริการคลาวด์
 
+- [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 การใช้งานเซิร์ฟเวอร์ MCP สำหรับ 4EVERLAND Hosting ที่ช่วยให้สามารถปรับใช้โค้ดที่สร้างด้วย AI บนเครือข่ายการจัดเก็บแบบกระจายศูนย์ เช่น Greenfield, IPFS และ Arweave ได้ทันที
 - [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - เซิร์ฟเวอร์ที่มีน้ำหนักเบาแต่ทรงพลังที่ช่วยให้ผู้ช่วย AI สามารถเรียกใช้คำสั่ง AWS CLI ใช้ท่อ Unix และใช้เทมเพลตพรอมต์สำหรับงาน AWS ทั่วไปในสภาพแวดล้อม Docker ที่ปลอดภัยพร้อมการสนับสนุนหลายสถาปัตยกรรม
 - [alexei-led/k8s-mcp-server](https://github.com/alexei-led/k8s-mcp-server) 🐍 - เซิร์ฟเวอร์ที่มีน้ำหนักเบาแต่แข็งแกร่งที่ช่วยให้ผู้ช่วย AI สามารถเรียกใช้คำสั่ง CLI ของ Kubernetes (`kubectl`, `helm`, `istioctl` และ `argocd`) โดยใช้ท่อ Unix ในสภาพแวดล้อม Docker ที่ปลอดภัยพร้อมการสนับสนุนหลายสถาปัตยกรรม
 - [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) 🎖️ 🐍 ☁️ - เซิร์ฟเวอร์ MCP ที่ช่วยให้ผู้ช่วย AI สามารถจัดการและดูแลทรัพยากรบน Alibaba Cloud ได้ โดยรองรับ ECS, การตรวจสอบคลาวด์, OOS และผลิตภัณฑ์คลาวด์อื่นๆ ที่มีการใช้งานอย่างแพร่หลาย

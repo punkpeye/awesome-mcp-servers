@@ -137,6 +137,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 云平台服务集成。实现与云基础设施和服务的管理和交互。
 
+- [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 面向4EVERLAND Hosting的MCP服务器实现，支持AI生成的代码快速部署到去中心化存储网络，如Greenfield、IPFS和Arweave。
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - 基于七牛云产品构建的 MCP，支持访问七牛云存储、智能多媒体服务等。
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - 与 Cloudflare 服务集成，包括 Workers、KV、R2 和 D1
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - 上传和操作 IPFS 存储
