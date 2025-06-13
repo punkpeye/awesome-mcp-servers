@@ -414,6 +414,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) 🎖️ 🐍 ☁️ - 通过Logfire提供对OpenTelemetry追踪和指标的访问
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) 🏎️ 🏠 - 一款通过模型上下文协议（MCP）暴露系统指标的监控工具。该工具允许大型语言模型通过兼容MCP的接口实时获取系统信息（支持CPU、内存、磁盘、网络、主机、进程）。
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) 🐍 🏠 - 通过基于提示的智能分析，从代码复杂度到安全漏洞等10个关键维度，提升AI生成代码的质量
+- [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🎖️ 🏎️ 🏠 - 与 [VictoriaMetrics API](https://docs.victoriametrics.com/victoriametrics/url-examples/) 和[文档](https://docs.victoriametrics.com/) 完整集成，监控你的 VictoriaMetrics 实例及排查问题。
 
 ### 🔎 <a name="search"></a>搜索
 
@@ -574,6 +575,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [HenryHaoson/Yuque-MCP-Server](https://github.com/HenryHaoson/Yuque-MCP-Server) - 📇 ☁️ 用于与语雀API集成的Model-Context-Protocol (MCP)服务器，允许AI模型管理文档、与知识库交互、搜索内容以及访问语雀平台的统计数据。
 - [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - 包装Ankr Advanced API的MCP服务器实现。可以访问以太坊、BSC、Polygon、Avalanche等多条区块链上的NFT、代币和区块链数据。
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - 通过在 MCP 循环中直接添加本地用户提示和聊天功能，启用交互式 LLM 工作流程。
+- [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - 文颜 MCP Server， 让 AI 将 Markdown 文章自动排版后发布至微信公众号。
 
 ## 框架
 
