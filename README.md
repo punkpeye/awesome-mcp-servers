@@ -765,7 +765,7 @@ Tools for accessing sports-related data, results, and statistics.
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - Access cycling race data, results, and statistics through natural language. Features include retrieving start lists, race results, and rider information from firstcycling.com.
 - [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) 📇 ☁️ - A Model Context Protocol (MCP) server that connects to Strava API, providing tools to access Strava data through LLMs
 - [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - MCP server that integrates with the Squiggle API to provide information on Australian Football League teams, ladder standings, results, tips, and power rankings.
-- [guillochon/mlb-api-mcp](https://github.com/guillochon/mlb-api-mcp): A Python MCP server that acts as a proxy to the freely available MLB API, which provides player info, stats, and game information.
+- [guillochon/mlb-api-mcp](https://github.com/guillochon/mlb-api-mcp): 🐍🏠 - MCP server that acts as a proxy to the freely available MLB API, which provides player info, stats, and game information.
 
 ### 🎧 <a name="support-and-service-management"></a>Support & Service Management
 
