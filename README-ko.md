@@ -244,6 +244,7 @@
 - [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) 📇 ☁️ - 포괄적인 읽기, 쓰기, 서식 지정 및 시트 관리 기능을 갖춘 Google Sheets API 통합 MCP 서버.
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) 🐍 🏠 - Qdrant MCP 서버
 - [ydb/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – MCP 서버: [YDB](https://ydb.tech) 데이터베이스와 상호 작용하기 위한
+- [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - [Intruder](https://www.intruder.io/)에 액세스할 수 있는 MCP 서버로, 인프라의 보안 취약점을 식별, 이해 및 해결하는 데 도움을 줍니다.
 
 ### 💻 <a name="developer-tools"></a>개발자 도구
 
@@ -425,7 +426,8 @@
 - [Security Audit MCP 서버](https://github.com/qianniuspace/mcp-security-audit) 📇 🛡️ ☁️ 보안 취약점에 대해 npm 패키지 의존성을 감사하는 강력한 MCP(모델 컨텍스트 프로토콜) 서버. 실시간 보안 검사를 위한 원격 npm 레지스트리 통합으로 구축됨.
 - [ROADRecon MCP 서버](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 Azure 테넌트 열거에서 ROADrecon 수집 결과 분석을 위한 MCP 서버
 - [VMS MCP 서버](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 VMS MCP 서버는 CCTV 녹화 프로그램(VMS)에 연결하여 녹화된 영상과 실시간 영상을 가져오며, 특정 채널의 특정 시간에 실시간 영상이나 재생 화면을 표시하는 등의 VMS 소프트웨어 제어 도구도 제공합니다.
-- 
+- [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - [Intruder](https://www.intruder.io/)에 액세스할 수 있는 MCP 서버로, 인프라의 보안 취약점을 식별, 이해 및 해결하는 데 도움을 줍니다.
+
 ### 🏃 <a name="sports"></a>스포츠
 
 스포츠 관련 데이터, 결과 및 통계에 접근하기 위한 도구.
