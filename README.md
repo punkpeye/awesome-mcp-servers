@@ -662,6 +662,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 
 - [video-creator/ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp.git) 🎥 🔊 - Using ffmpeg command line to achieve an mcp server, can be very convenient, through the dialogue to achieve the local video search, tailoring, stitching, playback and other functions
 - [stass/exif-mcp](https://github.com/stass/exif-mcp) 📇 🏠 🐧 🍎 🪟 - A MCP server that allows one to examine image metadata like EXIF, XMP, JFIF and GPS.  This provides foundation for LLM-powered search and analysis of photo librares and image collections.
+- [TSavo/creatify-mcp](https://github.com/TSavo/creatify-mcp) 📇 ☁️ - Enterprise-grade MCP server for Creatify AI with 12 tools covering complete video generation: avatar videos, URL-to-video, AI shorts, custom avatars, script generation, and advanced lip-sync with emotion control. 100% API coverage with semantic versioning.
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
