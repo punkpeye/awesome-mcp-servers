@@ -613,6 +613,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [kukapay/whoami-mcp](https://github.com/kukapay/whoami-mcp) 🐍 🏠 - 一款轻量级MCP服务器，能准确告诉你你的身份。
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇🖥️ - 基于命令行的客户端，用于与任何MCP服务器进行聊天和连接。在MCP服务器的开发与测试阶段非常实用。
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - 一个通过单个HTTP服务器聚合并服务多个MCP资源服务器的MCP代理服务器。
+- [isoftstone-data-intelligence-ai](https://github.com/isoftstone-data-intelligence-ai) 🐍☁🏠🍎🪟🐧- 开源通用型AI Agent平台，通过[efflux-desktop](https://github.com/isoftstone-data-intelligence-ai/efflux-desktop) 、[efflux-frontend](https://github.com/isoftstone-data-intelligence-ai/efflux-frontend) 、[efflux-backend](https://github.com/isoftstone-data-intelligence-ai/efflux-backend) 三大核心项目，提供全链路自主任务执行、工具调用和虚拟沙箱支持，赋能企业和个人高效实现AI生产力。
 
 ## 提示和技巧
 
