@@ -359,7 +359,7 @@
 
 지리 및 위치 기반 서비스 통합. 지도 데이터, 길찾기 및 장소 정보에 대한 접근을 가능하게 합니다.
 
-- [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📇 ☁️ - 위치 서비스, 경로 안내 및 장소 세부 정보를 위한 Google 지도 통합
+- [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps) 📇 ☁️ - 위치 서비스, 경로 안내 및 장소 세부 정보를 위한 Google 지도 통합
 - [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) 🐍 🏠 - 모든 시간대의 시간에 접근하고 현재 현지 시간 확인
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - nominatim, ArcGIS, Bing을 위한 지오코딩 MCP 서버
 - [@briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️  - IPInfo API를 사용한 IP 주소 지리 위치 및 네트워크 정보
