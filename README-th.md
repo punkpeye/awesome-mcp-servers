@@ -172,7 +172,7 @@
 - [iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic) 🎖️ 📇 ☁️ - เชื่อมต่อกับ [iaptic](https://www.iaptic.com) เพื่อถามเกี่ยวกับการซื้อของลูกค้า ข้อมูลธุรกรรม และสถิติรายได้ของแอป
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - เชื่อมต่อข้อมูลเปิดใดๆ กับ LLM ใดๆ ด้วย Model Context Protocol
 - [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - ปลั๊กอินสำหรับ MCP Server ที่สร้างขึ้นเพื่อสร้างแผนภูมิการมองเห็นข้อมูลโดยใช้ [AntV](https://github.com/antvis)
-
+- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 -  AI สร้างแผนภูมิที่มองเห็นได้แบบไดนามิกโดยใช้ไวยากรณ์ของ [Mermaid](ttps://mermaid.js.org/) MCP
 ### 🗄️ ฐานข้อมูล
 
 การเข้าถึงฐานข้อมูลอย่างปลอดภัยพร้อมความสามารถในการตรวจสอบสคีมา ช่วยให้สามารถสืบค้นและวิเคราะห์ข้อมูลด้วยการควบคุมความปลอดภัยที่กำหนดค่าได้ รวมถึงการเข้าถึงแบบอ่านอย่างเดียว
