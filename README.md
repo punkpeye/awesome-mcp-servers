@@ -714,7 +714,8 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - This is a TypeScript-based MCP server that provides DuckDuckGo search functionality.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - MCP server that searches Baseline status using Web Platform API
-- [longevity-genie/biothings-mcp](https://github.com/longevity-genie/biothings-mcp) 🐍 ☁️ - MCP server to interact with BioThings API, including genes, genetic variants, drugs, and taxonomic information 
+- [longevity-genie/biothings-mcp](https://github.com/longevity-genie/biothings-mcp) 🐍 ☁️ - MCP server to interact with BioThings API, including genes, genetic variants, drugs, and taxonomic information
+- [Axle-Bucamp/awesome-mcp-servers](https://github.com/Axle-Bucamp/Sci-Hub-MCP-Server) 🎖️ 🔍 - **Sci-Hub MCP Server**: Enables AI assistants to search, access, and analyze academic papers through Sci-Hub using a simple MCP interface. Search by DOI, title, or keywords, access metadata, and download PDFs programmatically.
 
 ### 🔒 <a name="security"></a>Security
 
@@ -929,6 +930,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
+- [MCPO] (https://github.com/open-webui/mcpo) 📇 - Fast and secure STRIO to HTTPS and open web ui mcp compatibility (mcp as api)
 
 ## Tips and Tricks
 
