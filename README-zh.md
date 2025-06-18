@@ -577,6 +577,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - 包装Ankr Advanced API的MCP服务器实现。可以访问以太坊、BSC、Polygon、Avalanche等多条区块链上的NFT、代币和区块链数据。
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - 通过在 MCP 循环中直接添加本地用户提示和聊天功能，启用交互式 LLM 工作流程。
 - [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - 文颜 MCP Server， 让 AI 将 Markdown 文章自动排版后发布至微信公众号。
+- [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - 与 GROWI API 集成的官方 MCP 服务器。
 
 ## 框架
 

@@ -363,6 +363,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [HenryHaoson/Yuque-MCP-Server](https://github.com/HenryHaoson/Yuque-MCP-Server) - 📇 ☁️ 語雀APIと統合するためのModel-Context-Protocol (MCP)サーバー。AIモデルがドキュメントを管理し、ナレッジベースと対話し、コンテンツを検索し、語雀プラットフォームの分析データにアクセスできるようにします。
 - [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - Ankr Advanced APIをラップするMCPサーバー実装。イーサリアム、BSC、ポリゴン、アバランチなど複数のブロックチェーンにわたるNFT、トークン、ブロックチェーンデータにアクセスできます。
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - ローカルユーザープロンプトとチャット機能を MCP ループに直接追加することで、インタラクティブな LLM ワークフローを有効にします。
+- [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - GROWI APIと統合するための公式MCPサーバー。
 
 ## フレームワーク
 
