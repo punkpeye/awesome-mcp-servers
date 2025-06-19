@@ -182,6 +182,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) 🐍 🏠 - PostgreSQL、MySQL、MariaDB、SQLite、Oracle、MS SQL Serverなど多数のデータベースをサポートするSQLAlchemyベースの汎用データベース統合。スキーマと関係の検査、大規模データセット分析機能を備えています。
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - GreptimeDBのMCPサービスにクエリを実行する。
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - Google Sheetsと対話するためのモデルコンテキストプロトコルサーバー。このサーバーはGoogle Sheets APIを通じてスプレッドシートの作成、読み取り、更新、管理のためのツールを提供します。
+- [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) 📇 ☁️ - 包括的な読み取り、書き込み、フォーマット、シート管理機能を備えたGoogle Sheets API統合のMCPサーバー。
 - [ydb/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – MCPサーバー：[YDB](https://ydb.tech)データベースと対話するための。
 
 ### 📊 <a name="data-platforms"></a>データプラットフォーム
@@ -289,6 +290,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary NinjaのためのMCPサーバーとブリッジ。バイナリ分析とリバースエンジニアリングのためのツールを提供します。
 - [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇 ☁️ 強力なモデルコンテキストプロトコル（MCP）サーバーで、npmパッケージ依存関係のセキュリティ脆弱性を監査します。リモートnpmレジストリ統合を備えたリアルタイムセキュリティチェックを使用して構築されています。
 - [GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - GhidraをAIアシスタントと統合するためのMCPサーバー。このプラグインはバイナリ分析を可能にし、モデルコンテキストプロトコルを通じて関数検査、逆コンパイル、メモリ探索、インポート/エクスポート分析などのツールを提供します。
+- [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - [Intruder](https://www.intruder.io/) にアクセスするためのMCPサーバー。インフラストラクチャのセキュリティ脆弱性の特定、理解、修正を支援します。
 
 ### 🌎 <a name="translation-services"></a>翻訳サービス
 
