@@ -639,6 +639,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
 - [nictuku/meta-ads-mcp](https://github.com/nictuku/meta-ads-mcp) 🐍 ☁️ 🏠 - Enables AI agents to monitor and optimize Meta ad performance, analyze campaign metrics, adjust audience targeting, manage creative assets, and make data-driven recommendations for ad spend and campaign settings through seamless Graph API integration.
 - [marketplaceadpros/amazon-ads-mcp-server](https://github.com/MarketplaceAdPros/amazon-ads-mcp-server) 📇 ☁️  - Enables tools to interact with Amazon Advertising, analyzing campaign metrics and configurations.
+- [trypeggy/facebook-ads-library-mcp](https://github.com/trypeggy/facebook-ads-library-mcp)  🐍 🏠 ☁️ 🍎 🪟 🐧 - see what ads your competitors are running on Meta's platforms
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
@@ -758,6 +759,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [kunallunia/twitter-mcp](https://github.com/LuniaKunal/mcp-twitter) 🐍 🏠 - All-in-one Twitter management solution providing timeline access, user tweet retrieval, hashtag monitoring, conversation analysis, direct messaging, sentiment analysis of a post, and complete post lifecycle control - all through a streamlined API.
 - [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server) 🐍 ☁️ - Integrates with Facebook Pages to enable direct management of posts, comments, and engagement metrics through the Graph API for streamlined social media management.
 - [gwbischof/bluesky-social-mcp](https://github.com/gwbischof/bluesky-social-mcp) 🐍 🏠 - An MCP server for interacting with Bluesky via the atproto client.
+- [trypeggy/instagram_dm_mcp](https://github.com/trypeggy/instagram_dm_mcp) 🐍 🏠 🍎 🪟 🐧 - Send Instagram DMs via your LLM
 
 
 ### 🏃 <a name="sports"></a>Sports
