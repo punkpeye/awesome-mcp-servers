@@ -300,6 +300,7 @@
 - [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) 📇 ☁️ 🏠 – ระบบจัดการงานที่ออกแบบมาสำหรับการเขียนโปรแกรมโดยเฉพาะ ช่วยเพิ่มประสิทธิภาพให้กับโค้ดดิ้งเอเจนต์อย่าง Cursor AI ด้วยหน่วยความจำงานขั้นสูง การสะท้อนตนเอง และการจัดการลำดับงาน [ShrimpTaskManager](https://cjo4m06.github.io/mcp-shrimp-task-manager)
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - เซิร์ฟเวอร์ MCP สำหรับการรันโค้ดในเครื่องผ่าน Docker และรองรับภาษาการเขียนโปรแกรมหลายภาษา
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ ROS MCP ช่วยควบคุมหุ่นยนต์โดยแปลงคำสั่งภาษาธรรมชาติของผู้ใช้ให้เป็นคำสั่งควบคุม ROS หรือ ROS2
+- [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - เซิร์ฟเวอร์ Unitree Go2 MCP เป็นเซิร์ฟเวอร์ที่พัฒนาขึ้นบน MCP ซึ่งช่วยให้ผู้ใช้สามารถควบคุมหุ่นยนต์ Unitree Go2 ได้โดยใช้คำสั่งภาษาธรรมชาติที่แปลโดยโมเดลภาษาขนาดใหญ่ (LLM)
 
 ### 🧮 เครื่องมือวิทยาศาสตร์ข้อมูล
 
