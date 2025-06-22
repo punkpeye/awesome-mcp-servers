@@ -262,6 +262,7 @@ Ferramentas e integrações que aprimoram o fluxo de trabalho de desenvolvimento
 - [ambar/simctl-mcp](https://github.com/ambar/simctl-mcp) 📇 🏠 🍎 Uma implementação de servidor MCP para controle de Simulador iOS.
 - [api7/apisix-mcp](https://github.com/api7/apisix-mcp) 🎖️ 📇 🏠 Servidor MCP que oferece suporte à consulta e gerenciamento de todos os recursos no [Apache APISIX](https://github.com/apache/apisix).
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - O servidor ROS MCP auxilia no controle de robôs convertendo comandos em linguagem natural do usuário em comandos de controle para ROS ou ROS2.
+- [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) 📇 🏠 - Extrai informações de componentes de sistemas de design Storybook. Fornece HTML, estilos, propriedades, dependências, tokens de tema e metadados de componentes para análise de sistemas de design com IA.
 
 ### 🧮 <a name="ferramentas-de-ciência-de-dados"></a>Ferramentas de Ciência de Dados
 
