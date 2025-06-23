@@ -382,6 +382,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 
 ### 🔒 <a name="segurança"></a>Segurança
 
+- [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - Servidor MCP focado em segurança que oferece diretrizes de segurança e análise de conteúdo para agentes de IA.
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – Um servidor MCP (Model Context Protocol) seguro que permite que agentes de IA interajam com o aplicativo autenticador.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - Servidor MCP para integrar Ghidra com assistentes de IA. Este plugin permite análise binária, fornecendo ferramentas para inspeção de funções, descompilação, exploração de memória e análise de importação/exportação via Protocolo de Contexto de Modelo.
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 Servidor MCP para analisar resultados coletados do ROADrecon na enumeração de inquilino Azure
