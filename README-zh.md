@@ -448,6 +448,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 ### 🔒 <a name="security"></a>安全
 
+- [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - 安全导向的 MCP 服务器，为 AI 代理提供安全指导和内容分析。
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – 一个安全的 MCP（Model Context Protocol）服务器，使 AI 代理能够与认证器应用程序交互。
 - [dnstwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - dnstwist 的 MCP 服务器，这是一个强大的 DNS 模糊测试工具，可帮助检测域名抢注、钓鱼和企业窃密行为
 - [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary Ninja 的 MCP 服务器和桥接器。提供二进制分析和逆向工程工具。
