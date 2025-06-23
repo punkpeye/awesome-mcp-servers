@@ -933,6 +933,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
+- [mxcp](http://github.com/raw-labs/mxcp) 🐍 🛢️ - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
 
 ## Tips and Tricks
 
