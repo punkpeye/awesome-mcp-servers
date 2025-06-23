@@ -156,6 +156,7 @@ Acesso e recursos de automação de conteúdo web. Permite pesquisar, extrair e 
 
 Integração de serviços de plataforma em nuvem. Permite o gerenciamento e interação com infraestrutura e serviços em nuvem.
 
+- [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 Uma implementação de servidor MCP para 4EVERLAND Hosting permitindo implantação instantânea de código gerado por IA em redes de armazenamento descentralizadas como Greenfield, IPFS e Arweave.
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - Um MCP construído com produtos Qiniu Cloud, suportando acesso ao Armazenamento Qiniu Cloud, serviços de processamento de mídia, etc.
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - Upload e manipulação de armazenamento IPFS
 - [VmLia/books-mcp-server](https://github.com/VmLia/books-mcp-server) 📇 ☁️ - Este é um servidor MCP usado para consultar livros, e pode ser aplicado em clientes MCP comuns, como Cherry Studio.
