@@ -443,6 +443,7 @@
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - การรวม Google News พร้อมการจัดหมวดหมู่หัวข้ออัตโนมัติ รองรับหลายภาษา และความสามารถในการค้นหาที่ครอบคลุม รวมถึงพาดหัว เรื่องราว และหัวข้อที่เกี่ยวข้องผ่าน [SerpAPI](https://serpapi.com/)
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - เซิร์ฟเวอร์ MCP ที่ใช้ Python ซึ่งให้เครื่องมือ `web_search` ในตัวของ OpenAI
 - [devflowinc/trieve](https://github.com/devflowinc/trieve/tree/main/clients/mcp-server) 🎖️ 📇 ☁️ 🏠 - คลานฝังตัว แบ่งส่วน ค้นหา และดึงข้อมูลจากชุดข้อมูลผ่าน [Trieve](https://trieve.ai)
+- [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - เซิร์ฟเวอร์ MCP ของ Dappier ช่วยให้ค้นหาเว็บแบบเรียลไทม์ได้อย่างรวดเร็วและฟรี พร้อมเข้าถึงข้อมูลระดับพรีเมียมจากแบรนด์สื่อที่เชื่อถือได้ เช่น ข่าว ตลาดการเงิน กีฬา บันเทิง สภาพอากาศ และอื่นๆ เพื่อสร้างเอเจนต์ AI อันทรงพลัง
 - [Dumpling-AI/mcp-server-dumplingai](https://github.com/Dumpling-AI/mcp-server-dumplingai) 🎖️ 📇 ☁️ - เข้าถึงข้อมูล การสแครปเว็บ และ API การแปลงเอกสารโดย [Dumpling AI](https://www.dumplingai.com/)
 - [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn) 🐍 ☁️ - เซิร์ฟเวอร์ MCP เพื่อค้นหา Hacker News รับเรื่องเด่น และอื่นๆ
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) 🎖️ 📇 ☁️ – เซิร์ฟเวอร์ Model Context Protocol (MCP) ที่ช่วยให้ผู้ช่วย AI เช่น Claude ใช้ Exa AI Search API ในการค้นหาเว็บ การตั้งค่านี้ช่วยให้โมเดล AI รับข้อมูลเว็บแบบเรียลไทม์ได้อย่างปลอดภัยและควบคุมได้
