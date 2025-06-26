@@ -358,6 +358,9 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [janswist/mcp-dexscreener](https://github.com/janswist/mcp-dexscreener) 📇 ☁️ - オープンで無料のDexscreener APIを使用したリアルタイムオンチェーン市場価格
 - [wowinter13/solscan-mcp](https://github.com/wowinter13/solscan-mcp) 🦀 🏠 - Solscan APIを使用してSolana取引を自然言語でクエリするMCPツール
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ - Tushareなどの複数のデータプロバイダーをサポートする、プロフェッショナル金融データにアクセスするためのMCPサーバー
+- [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️🏠 - MCP-K8Sは、AI駆動のKubernetesリソース管理ツールで、自然言語インタラクションを通じて、ユーザーがKubernetesクラスター内の任意のリソース（ネイティブリソース（DeploymentやServiceなど）やカスタムリソース（CRD）を含む）を操作できるようにします。複雑なコマンドを覚える必要はなく、要件を説明するだけで、AIが対応するクラスター操作を正確に実行し、Kubernetesの使いやすさを大幅に向上させます。
+- [redis/mcp-redis-cloud](https://github.com/redis/mcp-redis-cloud) 📇 ☁️ - 自然言語を使用してRedis Cloudリソースを簡単に管理。データベースの作成、サブスクリプションの監視、シンプルなコマンドでクラウドデプロイメントの設定。
+- [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) 🏎️ ☁️🏠 - 強力なMCPサーバーで、AIアシスタントがPortainerインスタンスとシームレスに連携し、コンテナ管理、デプロイメント操作、インフラストラクチャ監視機能に自然言語でアクセスできるようにします。
 
 ### 📂 <a name="file-systems"></a>ファイルシステム
 
@@ -530,6 +533,32 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - Ankr Advanced APIをラップするMCPサーバー実装。イーサリアム、BSC、ポリゴン、アバランチなど複数のブロックチェーンにわたるNFT、トークン、ブロックチェーンデータにアクセスできます。
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - ローカルユーザープロンプトとチャット機能を MCP ループに直接追加することで、インタラクティブな LLM ワークフローを有効にします。
 
+### 🌐 <a name="social-media"></a>ソーシャルメディア
+
+ソーシャルメディアプラットフォームとの統合により、投稿、アナリティクス、インタラクション管理を可能にします。ソーシャルプレゼンスのAI駆動自動化を実現します。
+
+- [macrocosm-os/macrocosmos-mcp](https://github.com/macrocosm-os/macrocosmos-mcp) 🎖️ 🐍 ☁️ - 検索フレーズ、ユーザー、日付フィルタリングでリアルタイムX/Reddit/YouTubeデータにLLMアプリケーション内で直接アクセス
+- [kunallunia/twitter-mcp](https://github.com/LuniaKunal/mcp-twitter) 🐍 🏠 - タイムラインアクセス、ユーザーツイート取得、ハッシュタグモニタリング、会話分析、ダイレクトメッセージング、投稿の感情分析、完全な投稿ライフサイクル制御を提供するオールインワンTwitter管理ソリューション
+- [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server) 🐍 ☁️ - Facebookページと統合し、Graph APIを通じて投稿、コメント、エンゲージメントメトリクスの直接管理を可能にして、ソーシャルメディア管理を効率化
+- [gwbischof/bluesky-social-mcp](https://github.com/gwbischof/bluesky-social-mcp) 🐍 🏠 - atprotoクライアント経由でBlueskyと対話するMCPサーバー
+
+### 🏃 <a name="sports"></a>スポーツ
+
+スポーツ関連データ、結果、統計にアクセスするためのツール。
+
+- [mikechao/balldontlie-mcp](https://github.com/mikechao/balldontlie-mcp) 📇 - balldontlie APIと統合してNBA、NFL、MLBの選手、チーム、試合情報を提供するMCPサーバー
+- [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - 自然言語でサイクリングレースデータ、結果、統計にアクセス。firstcycling.comからスタートリスト、レース結果、ライダー情報を取得する機能を含む
+- [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) 📇 ☁️ - Strava APIに接続し、LLMを通じてStravaデータにアクセスするツールを提供するModel Context Protocol（MCP）サーバー
+- [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - Squiggle APIと統合してオーストラリアンフットボールリーグのチーム、ラダー順位、結果、予想、パワーランキング情報を提供するMCPサーバー
+- [guillochon/mlb-api-mcp](https://github.com/guillochon/mlb-api-mcp) 🐍 🏠 - 自由に利用可能なMLB APIのプロキシとして機能し、選手情報、統計、試合情報を提供するMCPサーバー
+
+### 🎧 <a name="text-to-speech"></a>テキスト読み上げ
+
+テキストから音声への変換とその逆のためのツール。
+
+- [mberg/kokoro-tts-mcp](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - オープンウェイトKokoro TTSモデルを使用してテキストから音声に変換するMCPサーバー。ローカルドライブでMP3に変換するか、S3バケットに自動アップロード可能
+- [mbailey/voice-mcp](https://github.com/mbailey/voice-mcp) 🐍 🏠 - ローカルマイク、OpenAI互換API、LiveKit統合を通じて音声からテキスト、テキストから音声、リアルタイム音声会話をサポートする完全な音声インタラクションサーバー
+
 ## フレームワーク
 
 - [Genkit MCP](https://github.com/firebase/genkit/tree/main/js/plugins/mcp) 📇 – [Genkit](https://github.com/firebase/genkit/tree/main) とモデルコンテキストプロトコル（MCP）との統合を提供します。
@@ -550,7 +579,6 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [continuedev/continue](https://github.com/continuedev/continue) VSCodeの自動補完およびチャットツール（フル機能サポート）
 - [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) クラウドベースのAIサービスがローカルのStdioベースのMCPサーバーにHTTP/HTTPSリクエストでアクセスできるようにするツール
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - 複数のMCPリソースサーバーを、単一のHTTPサーバーを通して集約し、提供するMCPプロキシサーバー。
-
 
 ## ヒントとコツ
 
