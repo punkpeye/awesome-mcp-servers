@@ -257,6 +257,7 @@ Servers focused on static analysis, linting, code metrics, security scanning, vu
 - [DocNR/repo-explorer](https://github.com/DocNR/repo-explorer): Efficiently explore and analyze Git repositories with advanced caching and cross-repository code pattern search, integrating seamlessly with Claude AI.
 - [yy1588133/code-merge-mcp](https://github.com/yy1588133/code-merge-mcp): Facilitates code file extraction, merging, and analysis for large language models using the Model Context Protocol.
 - [davidleathers113/typescript-analyzer-mcp](https://github.com/davidleathers113/typescript-analyzer-mcp): Enhance TypeScript codebases by intelligently analyzing and replacing 'any' types with specific types, while offering React component interface generation and advanced error handling.
+- [Vulert](https://www.vulert.com): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
 - [priyankark/a11y-mcp](https://github.com/priyankark/a11y-mcp): Conducts comprehensive accessibility audits on webpages using axe-core, integrating seamlessly with AI assistants to address a11y issues.
 - [hanqizheng/unit-test-generator-mcp-server](https://github.com/hanqizheng/unit-test-generator-mcp-server): Generates unit tests for component libraries using the MCP protocol.
 - [crisschan/mcp-jacoco-reporter](https://github.com/crisschan/mcp-jacoco-reporter): Transforms JaCoCo code coverage reports into AI-friendly formats for enhanced analysis and insights.
