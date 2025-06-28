@@ -466,6 +466,7 @@
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - เซิร์ฟเวอร์ MCP ที่ใช้ TypeScript ซึ่งให้ฟังก์ชันการค้นหาของ DuckDuckGo
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - การสอบถามข้อมูลสินทรัพย์เครือข่ายโดยเซิร์ฟเวอร์ MCP ของ ZoomEye
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่ค้นหาสถานะ Baseline โดยใช้ Web Platform API
+- [Pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - เครื่องมือค้นหาบุคลากรที่ดีที่สุด ช่วยลดเวลาการค้นหาผู้มีความสามารถ
 
 ### 🔒 <a name="security"></a>ความปลอดภัย
 
