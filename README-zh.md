@@ -121,7 +121,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [@pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - 一个支持使用 Google 搜索结果进行免费网页搜索的 MCP 服务器，无需 API 密钥
 - [@co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🌐🔮 - browser-use是一个封装了SSE传输协议的MCP服务器。包含一个dockerfile用于在docker中运行chromium浏览器+VNC服务器。
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - 一个支持搜索 B站 内容的 MCP 服务器。提供LangChain调用示例、测试脚本。
-- [@getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 🐍 🏠 - 从任何网站提取结构化数据。只需输入提示即可获取JSON。
+- [@getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 📇 🏠 - 从任何网站提取结构化数据。只需输入提示即可获取JSON。
 - [aircodelabs/grasp](https://github.com/aircodelabs/grasp) 📇 🏠 - 可本地部署或自托管的浏览器自动化操作，原生支持 MCP 和 A2A。
 
 ### 🎨 <a name="art-and-culture"></a>艺术与文化
@@ -191,6 +191,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [teddyzxcv/ntfy-mcp](https://github.com/teddyzxcv/ntfy-mcp) 通过使用 ntfy 向手机发送通知，实时更新信息的 MCP 服务器。
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - 一个通过 YCloud 平台发送 WhatsApp Business 消息的 MCP 服务器。
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt 的 MCP 服务器。与热门帖子、评论、收藏集、用户等进行交互。
+- [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: 在 TypeScript 中实现的 Telegram + Claude，支持手机端访问本地工作区。随时随地读写代码并 vibe code！
 
 ### 👤 <a name="customer-data-platforms"></a>客户数据平台
 
@@ -284,6 +285,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - 与 [Postman API](https://www.postman.com/postman/postman-public-workspace/) 进行交互
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - 基于 Pandoc 的 MCP 服务器，支持 Markdown、HTML、PDF、DOCX（.docx）、csv 等格式之间的无缝转换
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - 这个 MCP 服务器提供了使用 wget 下载完整网站的工具，可保留网站结构并转换链接以支持本地访问
+- [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - 用于PTY操作的AI助手，使智能体能够通过有状态会话、SSH连接和后台进程管理来控制交互式终端
 - [@lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) 📇 🏠 🛠️ - 一种中间件服务器，允许多个相同MCP服务器的隔离实例以独立的命名空间和配置共存。
 - [j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) 🐍 - 基于 [SQLGlot](https://github.com/tobymao/sqlglot) 的 MCP 服务器，提供 SQL 分析、代码检查和方言转换功能
 - [@haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) 🐍 🏠 - 一个Excel操作服务器，提供工作簿创建、数据操作、格式设置及高级功能（图表、数据透视表、公式）。
@@ -460,6 +462,12 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - 将OpenAI内置的`web_search`工具封转成MCP服务器使用.
 - [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) 🐍 🏠 - CVE-Search MCP服务器， 提供CVE漏洞信息查询、漏洞产品信息查询等功能。
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - MCP 服务器用于访问 [Intruder](https://www.intruder.io/)，帮助你识别、理解并修复基础设施中的安全漏洞。
+
+### 📟 <a name="embedded-system"></a>嵌入式系统
+
+提供嵌入式设备工作文档和快捷方式的访问。
+
+- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - JavaScript驱动的M5Stack嵌入式超可爱机器人，具有MCP服务器功能，支持AI控制的交互和情感。
 
 ### 🎧 <a name="support-and-service-management"></a>客户支持与服务管理
 
