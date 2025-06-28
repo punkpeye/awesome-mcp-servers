@@ -277,6 +277,7 @@ Integrações e ferramentas desenvolvidas para simplificar a exploração de dad
 Fornece acesso a documentação e atalhos para trabalhar em dispositivos embarcados.
 
 - [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - Fluxo de trabalho para corrigir problemas de compilação em chips da série ESP32 usando ESP-IDF.
+- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - Um robô super kawaii embarcado em M5Stack com JavaScript e funcionalidade de servidor MCP para interações e emoções controladas por IA.
 
 ### 📂 <a name="sistemas-de-arquivos"></a>Sistemas de Arquivos
 
