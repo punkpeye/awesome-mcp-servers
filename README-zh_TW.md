@@ -160,9 +160,11 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - MCP伺服器 Tools 應用程式，用於向企業微信群機器人發送各種類型的消息。
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - Nostr MCP 伺服器，支援與 Nostr 交互，可發布筆記等功能。
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - 整合 LINE 官方帳號的 MCP 伺服器
+- [ztxtxwd/feishu-mcp-server](https://github.com/ztxtxwd/feishu-mcp-server) 📇 ☁️ 🏠 - 一個內建飛書OAuth認證的模型內容協議(MCP)伺服器，支援遠端連線並提供全面的飛書文件管理工具，包括區塊建立、內容更新和進階功能。
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 這是一個與VRChat API交互的MCP伺服器。您可以獲取VRChat的好友、世界、化身等資訊。
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - 透過 YCloud 平台發送 WhatsApp Business 訊息的 MCP 伺服器。  
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt 的 MCP 伺服器。可與熱門貼文、評論、收藏集、用戶等進行互動。
+- [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: 在 TypeScript 中實現的 Telegram + Claude，支援手機端存取本地工作區。隨時隨地讀寫程式碼並 vibe code！
 
 ### 👤 <a name="customer-data-platforms"></a>數據平台
 
@@ -232,6 +234,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - 與 [Postman API](https://www.postman.com/postman/postman-public-workspace/) 進行交互
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - 基於 Pandoc 的 MCP 伺服器，支援 Markdown、HTML、PDF、DOCX（.docx）、csv 等格式之間的無縫轉換
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - 這個 MCP 伺服器提供了使用 wget 下載完整網站的工具，可保留網站結構並轉換連結以支援本地訪問
+- [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - 用於PTY操作的AI助手，使智慧體能夠通過有狀態會話、SSH連接和後台進程管理來控制互動式終端
 - [j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) 🐍 - 基於 [SQLGlot](https://github.com/tobymao/sqlglot) 的 MCP 伺服器，提供 SQL 分析、代碼檢查和方言轉換功能
 - [Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) 🎖️🐍☁️🍎 - 用於事件管理平台 Rootly](https://rootly.com/) 的 MCP 伺服器
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - 用於生成漂亮互動式心智圖mindmap的模型上下文協議（MCP）伺服器。
@@ -245,6 +248,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - 一個MCP伺服器，用於在本地透過docker運行程式碼，並支援多種程式語言。
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - 基於 EdgeOne Pages 的 MCP 伺服器，支援代碼部署為在線頁面。
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCP伺服器透過將使用者的自然語言指令轉換為ROS或ROS2控制指令，以支援機器人的控制。
+- [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - 一個用於與 GitKraken API 互動的 CLI。透過 gk mcp 包含一個 MCP 伺服器，不僅包裝了 GitKraken API，還支援 Jira、GitHub、GitLab 等等。可搭配本地工具與遠端服務使用。
 
 ### 🧮 數據科學工具
 
@@ -252,6 +256,12 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - 支援對基於 .csv 的數據集進行自主數據探索，以最小的成本提供智慧見解。
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - 一個 MCP 伺服器，可將幾乎任何文件或網路內容轉換為 Markdown
+
+### 📟 <a name="embedded-system"></a>嵌入式系統
+
+提供對嵌入式設備工作的文檔和快捷方式的訪問。
+
+- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - JavaScript 驅動的 M5Stack 嵌入式超可愛機器人，具有 MCP 伺服器功能，支援 AI 控制的交互和情感。
 
 ### 📂 <a name="file-systems"></a>文件系統
 
@@ -447,6 +457,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - 包裝Ankr Advanced API的MCP伺服器實現。可以訪問以太坊、BSC、Polygon、Avalanche等多條區塊鏈上的NFT、代幣和區塊鏈數據。
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - 透過在 MCP 循環中直接加入本機使用者提示和聊天功能，啟用互動式 LLM 工作流程。
 - [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - 文顏 MCP Server，讓 AI 將 Markdown 文章自動排版後發佈至微信公眾號。
+- [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - 與 GROWI API 整合的官方 MCP 伺服器。
 
 ## 框架
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - 用於在 Python 中構建 MCP 伺服器的高級框架
