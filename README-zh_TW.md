@@ -253,6 +253,12 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - 支援對基於 .csv 的數據集進行自主數據探索，以最小的成本提供智慧見解。
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - 一個 MCP 伺服器，可將幾乎任何文件或網路內容轉換為 Markdown
 
+### 📟 <a name="embedded-system"></a>嵌入式系統
+
+提供對嵌入式設備工作的文檔和快捷方式的訪問。
+
+- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - JavaScript 驅動的 M5Stack 嵌入式超可愛機器人，具有 MCP 伺服器功能，支援 AI 控制的交互和情感。
+
 ### 📂 <a name="file-systems"></a>文件系統
 
 提供對本地文件系統的直接訪問，並具有可配置的權限。使 AI 模型能夠讀取、寫入和管理指定目錄中的文件。
