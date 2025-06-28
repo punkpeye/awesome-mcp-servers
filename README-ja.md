@@ -224,6 +224,7 @@ LLMがコードの読み取り、編集、実行を行い、一般的なプロ�
 - [teddyzxcv/ntfy-mcp](https://github.com/teddyzxcv/ntfy-mcp) ntfy を使用してスマートフォンに通知を送信し、情報を確実に伝達する MCP サーバーです。
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - YCloudプラットフォーム経由でWhatsAppビジネスメッセージを送信するためのMCPサーバー。
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Huntのための MCP サーバー。トレンド投稿、コメント、コレクション、ユーザーなどと対話できます。
+- [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: TypeScriptでスマートフォンからローカルワークスペースへアクセス可能なTelegram + Claude。移動中にコードを読み書きしてvibe code
 
 ### 👤 <a name="customer-data-platforms"></a>顧客データプラットフォーム
 
