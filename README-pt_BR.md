@@ -143,7 +143,7 @@ Acesso e recursos de automação de conteúdo web. Permite pesquisar, extrair e 
 - [executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 📇 - Um servidor MCP usando Playwright para automação de navegador e raspagem web
 - [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) 📇 🏠 - Um servidor MCP pareado com uma extensão de navegador que permite clientes LLM controlar o navegador do usuário (Firefox).
 - [fradser/mcp-server-apple-reminders](https://github.com/FradSer/mcp-server-apple-reminders) 📇 🏠 🍎 - Um servidor MCP para interagir com Lembretes da Apple no macOS
-- [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 🐍 🏠 - Extraia dados estruturados de qualquer site. Basta solicitar e obter JSON.
+- [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 📇 🏠 - Extraia dados estruturados de qualquer site. Basta solicitar e obter JSON.
 - [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Busque legendas e transcrições do YouTube para análise de IA
 - [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - Uma implementação `mínima` de servidor/cliente MCP usando Azure OpenAI e Playwright.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Servidor MCP oficial da Microsoft para Playwright, permitindo que LLMs interajam com páginas web através de snapshots de acessibilidade estruturados
@@ -215,6 +215,7 @@ Integração com plataformas de comunicação para gerenciamento de mensagens e 
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - Servidor MCP para Integrar Contas Oficiais do LINE
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) 🐍 ☁️ - Integração com Gmail e Google Calendar.
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Servidor MCP para o Product Hunt. Interaja com postagens em tendência, comentários, coleções, usuários e muito mais.
+- [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: Telegram + Claude com acesso ao workspace local no seu telefone em TypeScript. Leia, escreva e vibe code em movimento!
 
 ### 👤 <a name="plataformas-de-dados-do-cliente"></a>Plataformas de Dados do Cliente
 
@@ -261,6 +262,7 @@ Ferramentas e integrações que aprimoram o fluxo de trabalho de desenvolvimento
 - [admica/FileScopeMCP](https://github.com/admica/FileScopeMCP) 🐍 📇 🦀 - Analisa sua base de código identificando arquivos importantes com base em relacionamentos de dependência. Gera diagramas e pontuações de importância, ajudando assistentes de IA a entender a base de código.
 - [ambar/simctl-mcp](https://github.com/ambar/simctl-mcp) 📇 🏠 🍎 Uma implementação de servidor MCP para controle de Simulador iOS.
 - [api7/apisix-mcp](https://github.com/api7/apisix-mcp) 🎖️ 📇 🏠 Servidor MCP que oferece suporte à consulta e gerenciamento de todos os recursos no [Apache APISIX](https://github.com/apache/apisix).
+- [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - Piloto de IA para operações PTY que permite aos agentes controlar terminais interativos com sessões com estado, conexões SSH e gerenciamento de processos em segundo plano
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - O servidor ROS MCP auxilia no controle de robôs convertendo comandos em linguagem natural do usuário em comandos de controle para ROS ou ROS2.
 
 ### 🧮 <a name="ferramentas-de-ciência-de-dados"></a>Ferramentas de Ciência de Dados
@@ -277,6 +279,7 @@ Integrações e ferramentas desenvolvidas para simplificar a exploração de dad
 Fornece acesso a documentação e atalhos para trabalhar em dispositivos embarcados.
 
 - [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - Fluxo de trabalho para corrigir problemas de compilação em chips da série ESP32 usando ESP-IDF.
+- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - Um robô super kawaii embarcado em M5Stack com JavaScript e funcionalidade de servidor MCP para interações e emoções controladas por IA.
 
 ### 📂 <a name="sistemas-de-arquivos"></a>Sistemas de Arquivos
 
