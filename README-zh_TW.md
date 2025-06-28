@@ -232,6 +232,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - 與 [Postman API](https://www.postman.com/postman/postman-public-workspace/) 進行交互
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - 基於 Pandoc 的 MCP 伺服器，支援 Markdown、HTML、PDF、DOCX（.docx）、csv 等格式之間的無縫轉換
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - 這個 MCP 伺服器提供了使用 wget 下載完整網站的工具，可保留網站結構並轉換連結以支援本地訪問
+- [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - 用於PTY操作的AI助手，使智慧體能夠通過有狀態會話、SSH連接和後台進程管理來控制互動式終端
 - [j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) 🐍 - 基於 [SQLGlot](https://github.com/tobymao/sqlglot) 的 MCP 伺服器，提供 SQL 分析、代碼檢查和方言轉換功能
 - [Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) 🎖️🐍☁️🍎 - 用於事件管理平台 Rootly](https://rootly.com/) 的 MCP 伺服器
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - 用於生成漂亮互動式心智圖mindmap的模型上下文協議（MCP）伺服器。

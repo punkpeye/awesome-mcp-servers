@@ -284,6 +284,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - 与 [Postman API](https://www.postman.com/postman/postman-public-workspace/) 进行交互
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - 基于 Pandoc 的 MCP 服务器，支持 Markdown、HTML、PDF、DOCX（.docx）、csv 等格式之间的无缝转换
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - 这个 MCP 服务器提供了使用 wget 下载完整网站的工具，可保留网站结构并转换链接以支持本地访问
+- [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - 用于PTY操作的AI助手，使智能体能够通过有状态会话、SSH连接和后台进程管理来控制交互式终端
 - [@lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) 📇 🏠 🛠️ - 一种中间件服务器，允许多个相同MCP服务器的隔离实例以独立的命名空间和配置共存。
 - [j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) 🐍 - 基于 [SQLGlot](https://github.com/tobymao/sqlglot) 的 MCP 服务器，提供 SQL 分析、代码检查和方言转换功能
 - [@haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) 🐍 🏠 - 一个Excel操作服务器，提供工作簿创建、数据操作、格式设置及高级功能（图表、数据透视表、公式）。
