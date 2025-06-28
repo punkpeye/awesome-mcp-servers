@@ -451,6 +451,12 @@ AI 어시스턴트가 다양한 언어 간에 콘텐츠를 번역할 수 있게 
 - [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) 📇 ☁️ - 미국 국립 공원의 공원 세부 정보, 경고, 방문자 센터, 캠프장 및 이벤트에 대한 최신 정보를 제공하는 국립 공원 서비스 API 통합
 - [pab1it0/tripadvisor-mcp](https://github.com/pab1it0/tripadvisor-mcp) 📇 🐍 - LLM이 Tripadvisor API와 상호 작용할 수 있게 하는 MCP 서버로, 표준화된 MCP 인터페이스를 통해 위치 데이터, 리뷰 및 사진 지원
 
+### 📟 <a name="embedded-system"></a>임베디드 시스템
+
+임베디드 장치 작업을 위한 문서 및 바로가기에 대한 액세스를 제공합니다.
+
+- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - JavaScript 기반 M5Stack 임베디드 초귀여운 로봇으로, AI 제어 상호작용 및 감정 표현을 위한 MCP 서버 기능을 갖추고 있습니다.
+
 ### 🔄 <a name="version-control"></a>버전 관리
 
 Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표준화된 API를 통해 리포지토리 관리, 코드 분석, 풀 리퀘스트 처리, 이슈 추적 및 기타 버전 관리 작업을 가능하게 합니다.
