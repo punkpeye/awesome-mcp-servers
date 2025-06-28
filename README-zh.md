@@ -462,6 +462,12 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) 🐍 🏠 - CVE-Search MCP服务器， 提供CVE漏洞信息查询、漏洞产品信息查询等功能。
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - MCP 服务器用于访问 [Intruder](https://www.intruder.io/)，帮助你识别、理解并修复基础设施中的安全漏洞。
 
+### 📟 <a name="embedded-system"></a>嵌入式系统
+
+提供嵌入式设备工作文档和快捷方式的访问。
+
+- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - JavaScript驱动的M5Stack嵌入式超可爱机器人，具有MCP服务器功能，支持AI控制的交互和情感。
+
 ### 🎧 <a name="support-and-service-management"></a>客户支持与服务管理
 
 用于管理客户支持、IT服务管理和服务台操作的工具。
