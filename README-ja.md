@@ -261,6 +261,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - GreptimeDBのMCPサービスにクエリを実行する。
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - Google Sheetsと対話するためのモデルコンテキストプロトコルサーバー。このサーバーはGoogle Sheets APIを通じてスプレッドシートの作成、読み取り、更新、管理のためのツールを提供します。
 - [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) 📇 ☁️ - 包括的な読み取り、書き込み、フォーマット、シート管理機能を備えたGoogle Sheets API統合のMCPサーバー。
+- [prisma/mcp](https://github.com/prisma/mcp) 📇 ☁️ 🏠 - LLMがPrismaのPostgresデータベースを管理できるようにします（例：新しいデータベースを立ち上げ、マイグレーションやクエリを実行）
 - [ydb/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – MCPサーバー：[YDB](https://ydb.tech)データベースと対話するための。
 
 ### 📊 <a name="data-platforms"></a>データプラットフォーム
