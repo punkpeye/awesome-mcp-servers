@@ -304,6 +304,7 @@
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - เซิร์ฟเวอร์ MCP สำหรับการรันโค้ดในเครื่องผ่าน Docker และรองรับภาษาการเขียนโปรแกรมหลายภาษา
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ ROS MCP ช่วยควบคุมหุ่นยนต์โดยแปลงคำสั่งภาษาธรรมชาติของผู้ใช้ให้เป็นคำสั่งควบคุม ROS หรือ ROS2
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - CLI สำหรับโต้ตอบกับ GitKraken API โดยมีเซิร์ฟเวอร์ MCP ผ่าน gk mcp ซึ่งไม่เพียงแต่ครอบคลุม GitKraken API เท่านั้น แต่ยังรวมถึง Jira, GitHub, GitLab และอื่น ๆ อีกมากมาย รองรับการทำงานร่วมกับเครื่องมือในเครื่องและบริการระยะไกล.
+- [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - เซิร์ฟเวอร์ Unitree Go2 MCP เป็นเซิร์ฟเวอร์ที่พัฒนาขึ้นบน MCP ซึ่งช่วยให้ผู้ใช้สามารถควบคุมหุ่นยนต์ Unitree Go2 ได้โดยใช้คำสั่งภาษาธรรมชาติที่แปลโดยโมเดลภาษาขนาดใหญ่ (LLM)
 
 ### 🧮 เครื่องมือวิทยาศาสตร์ข้อมูล
 
