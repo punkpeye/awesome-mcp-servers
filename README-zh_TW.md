@@ -210,6 +210,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - 查詢 GreptimeDB 的 MCP 服務。
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - 一個用於與 Google Sheets 交互的模型上下文協議伺服器。該伺服器通過 Google Sheets API 提供創建、讀取、更新和管理電子表格的工具。
 - [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) 📇 ☁️ - 具有全面讀取、寫入、格式化和工作表管理功能的 Google Sheets API 整合 MCP 伺服器。
+- [prisma/mcp](https://github.com/prisma/mcp) 📇 ☁️ 🏠 - 使 LLM 能夠管理 Prisma Postgres 資料庫（例如啟動新資料庫並執行遷移或查詢）。
 - [ydb/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – MCP 伺服器：用於與 [YDB](https://ydb.tech) 資料庫互動。
 
 ### 📊 <a name="data-platforms"></a>數據平台
