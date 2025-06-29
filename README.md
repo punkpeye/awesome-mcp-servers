@@ -929,6 +929,7 @@ Access to travel and transportation information. Enables querying schedules, rou
 Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
 
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - Read and analyze GitHub repositories with your LLM
+- [kurdin/github-repos-manager-mcp](https://github.com/kurdin/github-repos-manager-mcp) 🚀 - GitHub Repos Manager MCP Server. Token-based GitHub automation management. No Docker for optimal performance, Flexible configuration for fine-grained control, 80+ tools with direct API integration.
 - [ddukbg/github-enterprise-mcp](https://github.com/ddukbg/github-enterprise-mcp) 📇 ☁️ 🏠 - MCP server for GitHub Enterprise API integration
 - [gitea/gitea-mcp](https://gitea.com/gitea/gitea-mcp) 🎖️ 🏎️ ☁️ 🏠 🍎 🪟 🐧 - Interactive with Gitea instances with MCP.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) 📇 ☁️ - Official GitHub server for integration with repository management, PRs, issues, and more.
