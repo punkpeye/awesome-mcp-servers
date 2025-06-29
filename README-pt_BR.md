@@ -216,6 +216,7 @@ Integração com plataformas de comunicação para gerenciamento de mensagens e 
 - [ztxtxwd/feishu-mcp-server](https://github.com/ztxtxwd/feishu-mcp-server) 📇 ☁️ 🏠 - Um servidor Model Context Protocol (MCP) com autenticação Feishu OAuth integrada, suportando conexões remotas e fornecendo ferramentas abrangentes de gerenciamento de documentos Feishu incluindo criação de blocos, atualizações de conteúdo e recursos avançados.
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) 🐍 ☁️ - Integração com Gmail e Google Calendar.
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Servidor MCP para o Product Hunt. Interaja com postagens em tendência, comentários, coleções, usuários e muito mais.
+- [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - Servidor MCP para o Cal.com. Gerencie tipos de eventos, crie agendamentos e acesse dados de agendamento do Cal.com por meio de LLMs.
 - [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: Telegram + Claude com acesso ao workspace local no seu telefone em TypeScript. Leia, escreva e vibe code em movimento!
 
 ### 👤 <a name="plataformas-de-dados-do-cliente"></a>Plataformas de Dados do Cliente

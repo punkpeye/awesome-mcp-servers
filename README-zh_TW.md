@@ -164,6 +164,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 這是一個與VRChat API交互的MCP伺服器。您可以獲取VRChat的好友、世界、化身等資訊。
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - 透過 YCloud 平台發送 WhatsApp Business 訊息的 MCP 伺服器。  
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt 的 MCP 伺服器。可與熱門貼文、評論、收藏集、用戶等進行互動。
+- [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - 適用於 Cal.com 的 MCP 伺服器。透過 LLM 管理事件類型、建立預約，並存取 Cal.com 的排程資料。
 - [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: 在 TypeScript 中實現的 Telegram + Claude，支援手機端存取本地工作區。隨時隨地讀寫程式碼並 vibe code！
 
 ### 👤 <a name="customer-data-platforms"></a>數據平台

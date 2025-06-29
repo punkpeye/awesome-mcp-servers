@@ -165,6 +165,7 @@
 - [ztxtxwd/feishu-mcp-server](https://github.com/ztxtxwd/feishu-mcp-server) 📇 ☁️ 🏠 - เซิร์ฟเวอร์ Model Context Protocol (MCP) ที่มีการรับรองความถูกต้อง Feishu OAuth ในตัว รองรับการเชื่อมต่อระยะไกลและให้เครื่องมือจัดการเอกสาร Feishu ที่ครอบคลุม รวมถึงการสร้างบล็อค การอัปเดตเนื้อหา และคุณสมบัติขั้นสูง
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - เซิร์ฟเวอร์ MCP สำหรับส่งข้อความ WhatsApp Business ผ่านแพลตฟอร์ม YCloud
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับ Product Hunt โต้ตอบกับโพสต์ที่กำลังเป็นที่นิยม ความคิดเห็น คอลเลกชัน ผู้ใช้ และอื่นๆ อีกมากมาย
+- [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับ Cal.com จัดการประเภทกิจกรรม สร้างการนัดหมาย และเข้าถึงข้อมูลตารางนัดของ Cal.com ผ่าน LLMs ได้
 - [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: Telegram + Claude พร้อมการเข้าถึงพื้นที่ทำงานในเครื่องบนโทรศัพท์ของคุณใน TypeScript อ่าน เขียน และ vibe code ระหว่างเดินทาง!
 
 ### 👤 แพลตฟอร์มข้อมูลลูกค้า

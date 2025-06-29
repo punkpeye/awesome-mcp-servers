@@ -192,6 +192,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [teddyzxcv/ntfy-mcp](https://github.com/teddyzxcv/ntfy-mcp) 通过使用 ntfy 向手机发送通知，实时更新信息的 MCP 服务器。
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - 一个通过 YCloud 平台发送 WhatsApp Business 消息的 MCP 服务器。
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt 的 MCP 服务器。与热门帖子、评论、收藏集、用户等进行交互。
+- [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - 用于 Cal.com 的 MCP 服务器。通过 LLM 管理事件类型、创建预约，并访问 Cal.com 的日程数据。
 - [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: 在 TypeScript 中实现的 Telegram + Claude，支持手机端访问本地工作区。随时随地读写代码并 vibe code！
 
 ### 👤 <a name="customer-data-platforms"></a>客户数据平台

@@ -175,6 +175,8 @@
 - [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks) - 📇 ☁️ - Google Tasks API와 인터페이스하기 위한 MCP 서버
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - YCloud 플랫폼을 통해 WhatsApp 비즈니스 메시지를 발송하는 MCP 서버입니다.
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt을 위한 MCP 서버. 트렌딩 게시물, 댓글, 컬렉션, 사용자 등과 상호 작용할 수 있습니다.
+- [
+peter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - Cal.com용 MCP 서버입니다. 이벤트 유형을 관리하고, 예약을 생성하며, LLM을 통해 Cal.com의 일정 데이터를 활용할 수 있습니다.
 - [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: TypeScript로 스마트폰에서 로컬 워크스페이스에 접근할 수 있는 Telegram + Claude. 이동 중에 코드를 읽고 쓰며 vibe code!
 
 ### 👤 <a name="customer-data-platforms"></a>고객 데이터 플랫폼
