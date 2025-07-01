@@ -238,11 +238,12 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 - [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) 📇 🏠 – A Node.js MCP server that spins up isolated Docker-based sandboxes for executing JavaScript snippets with on-the-fly npm dependency installation and clean teardown
 - [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) 🏎️ ☁️ - OpenAPI-MCP: Dockerized MCP Server to allow your AI agent to access any API with existing api docs.
 - [gwbischof/outsource-mcp](https://github.com/gwbischof/outsource-mcp) 🐍 ☁️ - Give your AI assistant its own AI assistants. For example: "Could you ask openai to generate an image of a dog?"
+- [hileamlakB/PRIMS](https://github.com/hileamlakB/PRIMS) 🐍🐳🏠 – A Python Runtime Interpreter MCP Server that executes user-submitted code in an isolated environment. Can run locally or inside a Docker container. Supports dependency installation, file mounting, artifact handling, and streamable output via FastMCP—ideal for sandboxed evaluation and coding agents.
 - [ouvreboite/openapi-to-mcp](https://github.com/ouvreboite/openapi-to-mcp) #️⃣ ☁️ - Lightweight MCP server to access any API using their OpenAPI specification. Supports OAuth2 and full JSON schema parameters and request body.
 - [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍 🏠 - Run Python code in a secure sandbox via MCP tool calls
 - [r33drichards/mcp-js](https://github.com/r33drichards/mcp-js) 🦀 🏠 🐧 🍎 - A Javascript code execution sandbox that uses v8 to isolate code to run AI generated javascript locally without fear. Supports heap snapshotting for persistent sessions.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
-- [hileamlakb/prims](https://github.com/hileamlakB/PRIMS) 🐍🐳🏠 – A Python Runtime Interpreter MCP Server that executes user-submitted code in an isolated environment. Can run locally or inside a container. Supports dependency installation, file mounting, artifact handling, and streamable output via FastMCP. Ideal for sandboxed evaluation and coding agents.
+
 
 
 ### 🤖 <a name="coding-agents"></a>Coding Agents
