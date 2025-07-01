@@ -242,6 +242,8 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 - [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍 🏠 - Run Python code in a secure sandbox via MCP tool calls
 - [r33drichards/mcp-js](https://github.com/r33drichards/mcp-js) 🦀 🏠 🐧 🍎 - A Javascript code execution sandbox that uses v8 to isolate code to run AI generated javascript locally without fear. Supports heap snapshotting for persistent sessions.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
+- [hileamlakb/prims](https://github.com/hileamlakB/PRIMS) 🐍🐳🏠 – A Python Runtime Interpreter MCP Server that executes user-submitted code in an isolated environment. Can run locally or inside a container. Supports dependency installation, file mounting, artifact handling, and streamable output via FastMCP. Ideal for sandboxed evaluation and coding agents.
+
 
 ### 🤖 <a name="coding-agents"></a>Coding Agents
 
