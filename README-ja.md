@@ -109,6 +109,7 @@
 
 単一のMCPサーバーを通じて多くのアプリやツールにアクセスするためのサーバー。
 
+- [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - 複数のMCPサーバーを1つのMCPサーバーに集約する統一的なモデルコンテキストプロトコルサーバー実装。
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Web APIを10秒でMCPサーバーに変換し、オープンソースレジストリに追加する: https://open-mcp.org
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - [MindsDBを単一のMCPサーバーとして](https://docs.mindsdb.com/mcp/overview)使用し、様々なプラットフォームとデータベース間でデータを接続・統合
 - [glenngillen/mcpmcp-server](https://github.com/glenngillen/mcpmcp-server) ☁️ 📇 🍎 🪟 🐧 - MCPサーバーのリストを提供し、日常のワークフローを改善するために使用できるサーバーをクライアントに問い合わせることができる
