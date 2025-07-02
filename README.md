@@ -244,8 +244,6 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 - [r33drichards/mcp-js](https://github.com/r33drichards/mcp-js) 🦀 🏠 🐧 🍎 - A Javascript code execution sandbox that uses v8 to isolate code to run AI generated javascript locally without fear. Supports heap snapshotting for persistent sessions.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
 
-
-
 ### 🤖 <a name="coding-agents"></a>Coding Agents
 
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
