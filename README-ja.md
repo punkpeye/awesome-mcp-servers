@@ -157,7 +157,6 @@
 - [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) 🐍 ☁️ - MCP（Model Control Protocol）に基づくVMware ESXi/vCenter管理サーバーで、仮想マシン管理のためのシンプルなREST APIインターフェースを提供。
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Workers、KV、R2、D1を含むCloudflareサービスとの統合
 - [cyclops-ui/mcp-cyclops](https://github.com/cyclops-ui/mcp-cyclops) 🎖️ 🏎️ ☁️ - AIエージェントがCyclops抽象化を通じてKubernetesリソースを管理できるようにするMCPサーバー
-- [jedisct1/fastly-mcp-server](https://github.com/jedisct1/fastly-openapi-schema) 🎖️ 📇 ☁️ - Fastlyサービスとの統合
 - [flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) 📇 ☁️🏠 - Pod、デプロイメント、サービスのKubernetesクラスター操作のTypeScript実装。
 - [hardik-id/azure-resource-graph-mcp-server](https://github.com/hardik-id/azure-resource-graph-mcp-server) 📇 ☁️🏠 - Azure Resource Graphを使用してAzureリソースを大規模にクエリおよび分析するためのModel Context Protocolサーバー。AIアシスタントがAzureインフラストラクチャを探索および監視できるようにします。
 - [jdubois/azure-cli-mcp](https://github.com/jdubois/azure-cli-mcp) - Azureと直接対話できるAzure CLIコマンドラインのラッパー
@@ -313,7 +312,6 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 データ分析、機械学習、統計計算のためのツールとプラットフォーム。
 
-- [baba786/phabricator-mcp-server](https://github.com/baba786/phabricator-mcp-server) 🐍 ☁️ - Phabricator APIとの対話
 - [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) 🐍 ☁️ - MCP（Model Control Protocol）に基づくVMware ESXi/vCenter管理サーバーで、仮想マシン管理のためのシンプルなREST APIインターフェースを提供
 - [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) 🐍 ☁️ - TiDBデータベースの統合、テーブル構造の作成（DDL）およびSQLの実行
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - Google BigQuery統合のためのサーバー実装で、直接的なBigQueryデータベースアクセスとクエリ機能を提供
@@ -529,7 +527,6 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [apinetwork/piapi-mcp-server](https://github.com/apinetwork/piapi-mcp-server) 📇 ☁️ - PiAPI MCPサーバーで、Midjourney/Flux/Kling/Hunyuan/Udio/TrellisでClaudeや他のMCP互換アプリから直接メディアコンテンツを生成可能
 - [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - ReplicateのAPIを通じて画像生成機能を提供
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) 🏠 📇 - 基本的なローカルtaskwarrior使用（タスクの追加、更新、削除）のためのMCPサーバー
-- [baba786/phabricator-mcp-server](https://github.com/baba786/phabricator-mcp-server) 🐍 ☁️ - Phabricator APIとの相互作用
 - [Badhansen/notion-mcp](https://github.com/Badhansen/notion-mcp) 🐍 ☁️ - NotionのAPIと統合してパーソナルToDoリストを効率的に管理するModel Context Protocol（MCP）サーバー
 - [bart6114/my-bear-mcp-server](https://github.com/bart6114/my-bear-mcp-server/) 📇 🏠 🍎 - BearのsqliteDBと直接統合してBear Note取得アプリのノートとタグを読み取り可能
 - [billster45/mcp-chatgpt-responses](https://github.com/billster45/mcp-chatgpt-responses) 🐍 ☁️ - ClaudeがChatGPTと通信してWeb検索機能を使用するためのMCPサーバー
@@ -537,7 +534,6 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📇 🏠 - Claude Desktop（または任意のMCPクライアント）がMarkdownノート（Obsidianボルトなど）を含むディレクトリを読み取り・検索できるコネクター
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) 🐍 🏠 - MCPサーバーテスト用のもう一つのCLIツール
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) 🐍 ☁️ - NotionのAPIと統合してパーソナルToDoリストを管理
-- [EKibort/wrike-mcp-server](https://github.com/EKibort/wrike-mcp-server) 🐍 🏠 - 公開API経由でWrikeタスクとやり取りするWrike MCPサーバーの軽量実装
 - [ekkyarmandi/ticktick-mcp](https://github.com/ekkyarmandi/ticktick-mcp) 🐍 ☁️ - [TickTick](https://ticktick.com/)のAPIと統合してパーソナルToDoプロジェクトとタスクを管理するTickTick MCPサーバー
 - [esignaturescom/mcp-server-esignatures](https://github.com/esignaturescom/mcp-server-esignatures) 🐍 ☁️ - eSignatures API経由で拘束力のある契約の起草、レビュー、送信を行う契約・テンプレート管理
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro) 📇 ☁️ - MIROホワイトボードにアクセス、アイテムの一括作成・読み取り。REST API用OAUTHキーが必要
@@ -640,7 +636,6 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - FastMCPベースのツールで、Bilibiliのトレンド動画を取得し、標準MCPインターフェースを通じて公開
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Bilibiliコンテンツの検索をサポートするMCPサーバー。LangChain連携のサンプルとテストスクリプトを提供
-- [aircodelabs/grasp](https://github.com/aircodelabs/grasp) 📇 🏠 - MCPとA2Aをネイティブにサポートする、エージェント駆動のセルフホスト型ブラウザ
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - Playwrightを使用したブラウザ自動化のためのMCPサーバー
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - Playwrightを使用したブラウザ自動化のためのMCP Pythonサーバー、LLMにより適している
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - クラウドでのブラウザ相互作用の自動化（ウェブナビゲーション、データ抽出、フォーム入力など）
