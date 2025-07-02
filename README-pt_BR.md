@@ -107,6 +107,7 @@ Confira [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 
 
 Servidores para acessar muitos aplicativos e ferramentas por meio de um único servidor MCP.
 
+- [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - Uma implementação de servidor MCP unificado que agrega vários servidores MCP em um único servidor.
 - [julien040/anyquery](https://github.com/julien040/anyquery) 🏎️ 🏠 ☁️ - Consulte mais de 40 aplicativos com um único binário usando SQL. Também pode se conectar ao seu banco de dados compatível com PostgreSQL, MySQL ou SQLite. Local primeiro e privado por design.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - Conecte-se a 2.500 APIs com mais de 8.000 ferramentas pré-construídas e gerencie servidores para seus usuários, em seu próprio aplicativo.
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Transforme uma API web em um servidor MCP em 10 segundos e adicione-o ao registro de código aberto: https://open-mcp.org
