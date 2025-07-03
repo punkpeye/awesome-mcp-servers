@@ -90,6 +90,7 @@
 
 通過單個MCP伺服器訪問多個應用程式和工具的伺服器。
 
+- [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - 一個統一的模型上下文協議伺服器實現，將多個MCP伺服器聚合為一個。
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 10秒內將Web API轉換為MCP伺服器並將其添加到開源註冊表中: https://open-mcp.org
 - [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) 📇 🏠 - 一個用於將多個MCP伺服器組合成一個統一端點的代理工具。通過在多個MCP伺服器之間進行負載平衡請求來擴展您的AI工具，類似於Nginx對Web伺服器的工作方式。
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一個統一的中間件MCP伺服器，通過GUI管理您的MCP連接。
@@ -109,7 +110,6 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - 使用 Azure OpenAI 和 Playwright 的“最小”伺服器/用戶端 MCP 實現。
 - [@pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - 一個支援使用 Google 搜尋結果進行免費網頁搜尋的 MCP 伺服器，無需 API 金鑰
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - 一個支援搜尋 B站 內容的 MCP 伺服器。提供LangChain呼叫範例、測試腳本。
-- [aircodelabs/grasp](https://github.com/aircodelabs/grasp) 📇 🏠 - 可本地部署或自托管的瀏覽器自動化操作，原生支持 MCP 和 A2A。
 
 ### 🎨 <a name="art-and-culture"></a>藝術與文化
 
@@ -124,6 +124,8 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 雲平台服務整合。實現與雲基礎設施和服務的管理和交互。
 
+- [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - 整合 fastmcp 函式庫，將 NebulaBlock 的所有 API 功能作為工具提供使用。
+- [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - 適用於4EVERLAND Hosting的MCP伺服器實現，能夠將AI生成的程式碼即時部署到去中心化儲存網路，如Greenfield、IPFS和Arweave。
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - 基於七牛雲產品構建的 MCP，支援存取七牛雲儲存、智能多媒體服務等。
 - [Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - 與 Cloudflare 服務整合，包括 Workers、KV、R2 和 D1
 - [Kubernetes MCP Server](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️ 通過 MCP 操作 Kubernetes 集群
@@ -160,9 +162,12 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - MCP伺服器 Tools 應用程式，用於向企業微信群機器人發送各種類型的消息。
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - Nostr MCP 伺服器，支援與 Nostr 交互，可發布筆記等功能。
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - 整合 LINE 官方帳號的 MCP 伺服器
+- [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) 📇 ☁️ 🏠 - 一個內建飛書OAuth認證的模型內容協議(MCP)伺服器，支援遠端連線並提供全面的飛書文件管理工具，包括區塊建立、內容更新和進階功能。
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 這是一個與VRChat API交互的MCP伺服器。您可以獲取VRChat的好友、世界、化身等資訊。
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - 透過 YCloud 平台發送 WhatsApp Business 訊息的 MCP 伺服器。  
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt 的 MCP 伺服器。可與熱門貼文、評論、收藏集、用戶等進行互動。
+- [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - 適用於 Cal.com 的 MCP 伺服器。透過 LLM 管理事件類型、建立預約，並存取 Cal.com 的排程資料。
+- [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: 在 TypeScript 中實現的 Telegram + Claude，支援手機端存取本地工作區。隨時隨地讀寫程式碼並 vibe code！
 
 ### 👤 <a name="customer-data-platforms"></a>數據平台
 
@@ -173,6 +178,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍☁️ - MCP 伺服器可從任何 MCP 用戶端與 Tinybird Workspace 進行交互。
 - [@iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic) 🎖️ 📇 ☁️ - 連接 [iaptic](https://www.iaptic.com) 平台，讓您輕鬆查詢客戶購買記錄、交易數據以及應用營收統計資訊。
 - [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - 一個基於 [AntV](https://github.com/antvis) 生成資料視覺化圖表的 MCP Server 插件。
+- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - AI 動態生成 [Mermaid](https://mermaid.js.org/) 語法的可視化圖表 MCP。
 
 ### 🗄️ <a name="databases"></a>資料庫
 
@@ -207,6 +213,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - 查詢 GreptimeDB 的 MCP 服務。
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - 一個用於與 Google Sheets 交互的模型上下文協議伺服器。該伺服器通過 Google Sheets API 提供創建、讀取、更新和管理電子表格的工具。
 - [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) 📇 ☁️ - 具有全面讀取、寫入、格式化和工作表管理功能的 Google Sheets API 整合 MCP 伺服器。
+- [prisma/mcp](https://github.com/prisma/mcp) 📇 ☁️ 🏠 - 使 LLM 能夠管理 Prisma Postgres 資料庫（例如啟動新資料庫並執行遷移或查詢）。
 - [ydb/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – MCP 伺服器：用於與 [YDB](https://ydb.tech) 資料庫互動。
 
 ### 📊 <a name="data-platforms"></a>數據平台
@@ -232,6 +239,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - 與 [Postman API](https://www.postman.com/postman/postman-public-workspace/) 進行交互
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - 基於 Pandoc 的 MCP 伺服器，支援 Markdown、HTML、PDF、DOCX（.docx）、csv 等格式之間的無縫轉換
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - 這個 MCP 伺服器提供了使用 wget 下載完整網站的工具，可保留網站結構並轉換連結以支援本地訪問
+- [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - 用於PTY操作的AI助手，使智慧體能夠通過有狀態會話、SSH連接和後台進程管理來控制互動式終端
 - [j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) 🐍 - 基於 [SQLGlot](https://github.com/tobymao/sqlglot) 的 MCP 伺服器，提供 SQL 分析、代碼檢查和方言轉換功能
 - [Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) 🎖️🐍☁️🍎 - 用於事件管理平台 Rootly](https://rootly.com/) 的 MCP 伺服器
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - 用於生成漂亮互動式心智圖mindmap的模型上下文協議（MCP）伺服器。
@@ -245,6 +253,8 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - 一個MCP伺服器，用於在本地透過docker運行程式碼，並支援多種程式語言。
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - 基於 EdgeOne Pages 的 MCP 伺服器，支援代碼部署為在線頁面。
 - [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCP伺服器透過將使用者的自然語言指令轉換為ROS或ROS2控制指令，以支援機器人的控制。
+- [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - 一個用於與 GitKraken API 互動的 CLI。透過 gk mcp 包含一個 MCP 伺服器，不僅包裝了 GitKraken API，還支援 Jira、GitHub、GitLab 等等。可搭配本地工具與遠端服務使用。
+- [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP伺服器是一個基於MCP構建的伺服器，允許使用者透過由大型語言模型解讀的自然語言指令來控制Unitree Go2機器人。
 
 ### 🧮 數據科學工具
 
@@ -252,6 +262,12 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - 支援對基於 .csv 的數據集進行自主數據探索，以最小的成本提供智慧見解。
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - 一個 MCP 伺服器，可將幾乎任何文件或網路內容轉換為 Markdown
+
+### 📟 <a name="embedded-system"></a>嵌入式系統
+
+提供對嵌入式設備工作的文檔和快捷方式的訪問。
+
+- [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - JavaScript 驅動的 M5Stack 嵌入式超可愛機器人，具有 MCP 伺服器功能，支援 AI 控制的交互和情感。
 
 ### 📂 <a name="file-systems"></a>文件系統
 
@@ -304,7 +320,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 地理和基於位置的服務集成。支援訪問地圖數據、方向和位置資訊。
 
-- [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) 📇 ☁️ - Google 地圖集成，提供位置服務、路線規劃和地點詳細資訊
+- [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps) 📇 ☁️ - Google 地圖集成，提供位置服務、路線規劃和地點詳細資訊
 - [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) 🐍 🏠 - 訪問任意時區的時間並獲取當前本地時間
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - 支援 nominatim、ArcGIS、Bing 的地理編碼 MCP 伺服器
 - [@briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️ - 使用 IPInfo API 獲取 IP 地址的地理位置和網路資訊
@@ -331,6 +347,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless模型上下文協議服務作為MCP伺服器連接器，連接到Google SERP API，使得在MCP生態系統內無需離開即可進行網頁搜索。
 - [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - 使用 Brave 的搜尋 API 實現網頁搜尋功能
+- [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - Dappier 的 MCP 伺服器可讓 AI 代理快速免費地進行即時網頁搜尋，並存取來自可靠媒體品牌的新聞、金融市場、體育、娛樂、天氣等高品質資料。
 - [Dumpling-AI/mcp-server-dumplingai](https://github.com/Dumpling-AI/mcp-server-dumplingai) 🎖️ 📇 ☁️ - 通過 [Dumpling AI](https://www.dumplingai.com/) 提供的數據訪問、網頁抓取與文件轉換 API
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - 使用 NYTimes API 搜尋文章
 - [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) 🐍 🏠 ☁️ - 高效獲取和處理網頁內容，供 AI 使用
@@ -357,6 +374,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 ### 🔒 <a name="security"></a>安全
 
+- [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - 安全導向的 MCP 伺服器，為 AI 代理提供安全指導和內容分析。
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – 個安全的 MCP（Model Context Protocol）伺服器，使 AI 代理能與驗證器應用程式互動。
 - [dnstwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) 📇🪟☁️ - dnstwist 的 MCP 伺服器，這是一個強大的 DNS 模糊測試工具，可幫助檢測域名搶註、釣魚和企業竊密行為
 - [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary Ninja 的 MCP 伺服器和橋接器。提供二進制分析和逆向工程工具。
@@ -400,7 +418,6 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - 高效的 Go 文件伺服器，讓 AI 助手可以智慧訪問包文件和類型，而無需閱讀整個源文件
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - 直接從Claude查詢OpenAI模型，使用MCP協議
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📇 🏠 - MCP伺服器，涵蓋MCP協議的所有功能
-- [baba786/phabricator-mcp-server](https://github.com/baba786/phabricator-mcp-server) 🐍 ☁️ - 與Phabricator API交互
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) 🐍 ☁️ 🏠 - 通過REST API與Obsidian交互
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📇 🏠 - 這是一個連接器，允許Claude Desktop（或任何MCP相容應用程式）讀取和搜尋包含Markdown筆記的目錄（如Obsidian庫）。
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) 📇 ☁️ - 獲取YouTube字幕
@@ -448,6 +465,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - 包裝Ankr Advanced API的MCP伺服器實現。可以訪問以太坊、BSC、Polygon、Avalanche等多條區塊鏈上的NFT、代幣和區塊鏈數據。
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - 透過在 MCP 循環中直接加入本機使用者提示和聊天功能，啟用互動式 LLM 工作流程。
 - [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - 文顏 MCP Server，讓 AI 將 Markdown 文章自動排版後發佈至微信公眾號。
+- [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - 與 GROWI API 整合的官方 MCP 伺服器。
 
 ## 框架
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - 用於在 Python 中構建 MCP 伺服器的高級框架
