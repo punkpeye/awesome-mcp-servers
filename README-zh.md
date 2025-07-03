@@ -525,6 +525,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>其他工具和集成
 
+- [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - QR码生成MCP服务器，可将任何文本（包括中文字符）转换为QR码，支持自定义颜色和base64编码输出。
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 使用超过 3,000 个预构建的云工具（称为 Actors）从网站、电商、社交媒体、搜索引擎、地图等提取数据。
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - 使LLM能够使用计算器进行精确的数值计算
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - 更新、创建、删除 Contentful Space 中的内容、内容模型和资产
