@@ -938,6 +938,7 @@ Tools for converting text-to-speech and vice-versa
 - [daisys-ai/daisys-mcp](https://github.com/daisys-ai/daisys-mcp) 🐍 🏠 🍎 🪟 🐧 - Generate high-quality text-to-speech and text-to-voice outputs using the [DAISYS](https://www.daisys.ai/) platform and make it able to play and store audio generated.
 - [mbailey/voice-mcp](https://github.com/mbailey/voice-mcp) 🐍 🏠 - Complete voice interaction server supporting speech-to-text, text-to-speech, and real-time voice conversations through local microphone, OpenAI-compatible APIs, and LiveKit integration
 - [mberg/kokoro-tts-mcp](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - MCP Server that uses the open weight Kokoro TTS models to convert text-to-speech. Can convert text to MP3 on a local driver or auto-upload to an S3 bucket.
+- [tylersuard/yell_at_the_clouds_MCP_server](https://github.com/Tylersuard/yell_at_the_clouds_MCP_server) 🐍 ☁️ - YATCaaS: Yell at the clouds as a service.  Send a message to an intern, who will go outside, shake his fist, and bellow your message at the clouds.
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
