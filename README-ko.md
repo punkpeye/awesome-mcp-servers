@@ -394,6 +394,7 @@
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) 🎖️ 🐍 ☁️ - Logfire를 통해 OpenTelemetry 추적 및 메트릭에 대한 접근 제공
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) 🏎️ 🏠 - 모델 컨텍스트 프로토콜(MCP)을 통해 시스템 메트릭을 노출하는 시스템 모니터링 도구. 이 도구를 사용하면 LLM이 MCP 호환 인터페이스를 통해 실시간 시스템 정보를 검색할 수 있습니다. (CPU, 메모리, 디스크, 네트워크, 호스트, 프로세스 지원)
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) 🐍 🏠 - 복잡성에서 보안 취약점에 이르기까지 10가지 중요한 차원에 걸쳐 지능적이고 프롬프트 기반 분석을 통해 AI 생성 코드 품질 향상
+- [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test) 🐍 ☁️ - 다운로드/업로드 속도, 레이턴시, 지터 분석, 지리적 매핑을 포함한 CDN 서버 감지를 포함한 네트워크 성능 지표를 통한 인터넷 속도 테스트
 
 ### 🔎 <a name="search"></a>검색
 
