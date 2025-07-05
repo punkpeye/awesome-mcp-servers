@@ -516,6 +516,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>その他のツールと統合
 
+- [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - 任意のテキスト（日本語文字を含む）をQRコードに変換し、カスタマイズ可能な色とbase64エンコード出力をサポートするQRコード生成MCPサーバー。
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ AIモデルがBitcoinと相互作用できるModel Context Protocol（MCP）サーバー。キー生成、アドレス検証、トランザクションデコード、ブロックチェーンクエリなどが可能
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - AIがBear Notes（macOSのみ）から読み取り可能にする
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) 🐍 🏠 - Model Context Protocolサーバーを通じてすべてのHome Assistant音声インテントを公開し、ホーム制御を可能にする
