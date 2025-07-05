@@ -340,6 +340,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - 查詢並與 Metoro 監控的 kubernetes 環境交互
 - [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - 一個 MCP 伺服器，允許透過 Grafana API 查詢 Loki 日誌。
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - 在 Grafana 實例中搜尋儀錶板、調查事件並查詢數據源
+- [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test) 🐍 ☁️ - 網路速度測試，包括下載/上傳速度、延遲、抖動分析和地理映射的CDN伺服器檢測等網路效能指標
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) 🏎️ 🏠 - 監控系統 CPU、Memory、Disk、Network、Host、Process 等資訊，並與 LLM 進行交互
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🎖️ 🏎️ 🏠 - 與 [VictoriaMetrics API](https://docs.victoriametrics.com/victoriametrics/url-examples/) 及[文檔](https://docs.victoriametrics.com/) 完整集成，監控你的 VictoriaMetrics 實例及排查問題。
 
