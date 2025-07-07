@@ -293,6 +293,7 @@ Fornece acesso a documentação e atalhos para trabalhar em dispositivos embarca
 
 Fornece acesso direto aos sistemas de arquivos locais com permissões configuráveis. Permite que modelos de IA leiam, escrevam e gerenciem arquivos dentro de diretórios especificados.
 
+- [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - Visualização de diretório nativa para IA com análise semântica, formatos ultra-comprimidos para consumo de IA e redução de tokens 10x. Suporta modo quântico-semântico com categorização inteligente de arquivos.
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) 🐍 🏠 - Compartilhe contexto de código com LLMs via MCP ou área de transferência
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 🏎️ 🏠 - Ferramenta de mesclagem de arquivos, adequada para limites de comprimento de chat de IA.
 - [filesystem@quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem) ☕ 🏠 - Um sistema de arquivos que permite navegar e editar arquivos implementado em Java usando Quarkus. Disponível como jar ou imagem nativa.
