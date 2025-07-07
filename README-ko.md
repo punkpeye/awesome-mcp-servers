@@ -482,6 +482,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>기타 도구 및 통합
 
+- [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - MCP 서버 통합을 갖춘 웹 기반 PlantUML 프론트엔드로, PlantUML 이미지 생성 및 구문 검증을 지원합니다.
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - 중국어 문자를 포함한 모든 텍스트를 QR 코드로 변환하고 사용자 정의 색상 및 base64 인코딩 출력을 지원하는 QR 코드 생성 MCP 서버.
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 액터라고 알려진 3,000개 이상의 사전 구축된 클라우드 도구를 사용하여 웹사이트, 전자 상거래, 소셜 미디어, 검색 엔진, 지도 등에서 데이터 추출
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - Contentful Space에서 콘텐츠, 콘텐츠 모델 및 에셋 업데이트, 생성, 삭제
