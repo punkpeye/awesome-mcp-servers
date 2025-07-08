@@ -449,6 +449,7 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 
 ### 🛠️ <a name="outras-ferramentas-e-integrações"></a>Outras Ferramentas e Integrações
 
+- [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - Um frontend PlantUML baseado na web com integração de servidor MCP, permitindo geração de imagens PlantUML e validação de sintaxe.
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - Servidor MCP de geração de código QR que converte qualquer texto (incluindo caracteres chineses) em códigos QR com cores personalizáveis e saída de codificação base64.
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ Um servidor de Protocolo de Contexto de Modelo (MCP) que permite que modelos de IA interajam com Bitcoin, permitindo gerar chaves, validar endereços, decodificar transações, consultar a blockchain e muito mais.
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - Permite que a IA leia de suas Notas Bear (somente macOS)
