@@ -107,6 +107,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🎧 - [Text-to-Speech](#text-to-speech)
 * 🚆 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
+* 🏢 - [Workspace Management] (#workspace-management)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 
@@ -994,6 +995,11 @@ Interact with Git repositories and version control platforms. Enables repository
 - [modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) 📇 ☁️ 🏠 - GitLab platform integration for project management and CI/CD operations
 - [QuentinCody/github-graphql-mcp-server](https://github.com/QuentinCody/github-graphql-mcp-server) 🐍 ☁️ - Unofficial GitHub MCP server that provides access to GitHub's GraphQL API, enabling more powerful and flexible queries for repository data, issues, pull requests, and other GitHub resources.
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
+
+
+### 🏢 <a name="workspace-management"></a>Workspace Management
+
+- [giuseppe-coco/Google-Workspace-MCP-Server](https://github.com/giuseppe-coco/Google-Workspace-MCP-Server) 🐍 ☁️ 🍎 🪟 🐧 - MCP server that seamlessly interacts with your Google Calendar, Gmail, Drive and so on.
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
