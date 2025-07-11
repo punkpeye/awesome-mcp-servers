@@ -333,6 +333,7 @@ Integração com dados relacionados a jogos, motores de jogos e serviços
 
 Armazenamento de memória persistente usando estruturas de grafos de conhecimento. Permite que modelos de IA mantenham e consultem informações estruturadas entre sessões.
 
+- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - Plataforma RAG de nível de produção combinando Graph RAG, busca vetorial e busca de texto completo. A melhor escolha para construir seu próprio Grafo de Conhecimento e para Engenharia de Contexto
 - [CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - Memória aprimorada baseada em grafos com foco em role-play de IA e geração de histórias
 - [graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - Ingira qualquer coisa do Slack, Discord, sites, Google Drive, Linear ou GitHub em um projeto Graphlit - e então pesquise e recupere conhecimento relevante dentro de um cliente MCP como Cursor, Windsurf ou Cline.
 - [hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - Uma implementação de servidor MCP que fornece ferramentas para recuperar e processar documentação através de pesquisa vetorial, permitindo que assistentes de IA aumentem suas respostas com contexto de documentação relevante
