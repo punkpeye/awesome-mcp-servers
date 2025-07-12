@@ -406,6 +406,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - Servidor MCP para dnstwist, uma poderosa ferramenta de fuzzing DNS que ajuda a detectar typosquatting, phishing e espionagem corporativa.
 - [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) 📇 🪟 ☁️ - Servidor MCP para maigret, uma poderosa ferramenta OSINT que coleta informações de contas de usuários de várias fontes públicas. Este servidor fornece ferramentas para pesquisar nomes de usuário em redes sociais e analisar URLs.
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - Servidor MCP para acessar o [Intruder](https://www.intruder.io/), ajudando você a identificar, entender e corrigir vulnerabilidades de segurança na sua infraestrutura.
+- [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ 🏠 - Um servidor nativo do Model Context Protocol para o Ghidra. Inclui configuração via interface gráfica, registro de logs, 31 ferramentas poderosas e nenhuma dependência externa.
 
 ### 🏃 <a name="esportes"></a>Esportes
 
