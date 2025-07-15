@@ -14,6 +14,12 @@ A comprehensive collection of Model Context Protocol (MCP) servers.
     </a>
 </div>
 
+<div style="text-align: left; margin: 20px 0;">
+    <a href="https://github.com/TensorBlock/forge" style="display: inline-block; padding: 10px 20px; background-color: #5865F2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+         ✨✨✨ Learn more about Forge - an open-source middleware service that simplifies AI model provider management. ✨✨✨
+    </a>
+</div>
+
 ## Model Context Protocol
 
 MCP is like a USB-C port for AI. It’s an open protocol that standardizes how applications provide context to language models — enabling them to securely connect to tools, databases, APIs, filesystems, and more.
