@@ -672,7 +672,7 @@ Financial data access and analysis tools. Enables AI models to work with market 
 - [minhyeoky/mcp-server-ledger](https://github.com/minhyeoky/mcp-server-ledger) 🐍 🏠 -  A ledger-cli integration for managing financial transactions and generating reports.
 - [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) 🐍 ☁️ - An MCP server that uses yfinance to obtain information from Yahoo Finance.
 - [OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server) 🐍 ☁️ - Octagon AI Agents to integrate private and public market data
-- [OpenBB MCP Server](https://github.com/OpenBB-finance/OpenBB/tree/main/openbb_platform/extensions/mcp_server) 🐍 ☁️ - An open-source finance data and analytics MCP server, providing access to financial datasets and analytics tools via the OpenBB platform.
+- [OpenBB MCP Server](https://github.com/OpenBB-finance/OpenBB/tree/main/openbb_platform/extensions/mcp_server) 🐍 ☁️ - An open-source finance data and analytics MCP server that aggregates multiple data providers, providing access to equities, options, crypto, forex, macroeconomic, fixed income, and more via the OpenBB platform.
 - [openMF/mcp-mifosx](https://github.com/openMF/mcp-mifosx) ☁️ 🏠 -  A core banking integration for managing clients, loans, savings, shares, financial transactions and generating financial reports.
 - [polygon-io/mcp_polygon)](https://github.com/polygon-io/mcp_polygon)) 🐍 ☁️ -  An MCP server that provides access to [Polygon.io](https://polygon.io/) financial market data APIs for stocks, indices, forex, options, and more.
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ -  Bitget API to fetch cryptocurrency price.
