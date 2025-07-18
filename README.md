@@ -275,6 +275,7 @@ Run commands, capture output and otherwise interact with shells and command line
 - [misiektoja/kill-process-mcp](https://github.com/misiektoja/kill-process-mcp) 🐍 🏠 🍎 🪟 🐧 - List and terminate OS processes via natural language queries
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - Command line interface with secure execution and customizable security policies
 - [OthmaneBlial/term_mcp_deepseek](https://github.com/OthmaneBlial/term_mcp_deepseek) 🐍 🏠 - A DeepSeek MCP-like Server for Terminal
+- [irskep/persistproc](https://github.com/irskep/persistproc) 🐍 🏠 - MCP server + command line tool that allows agents to see & control long-running processes like web servers. Start, stop, restart, read logs.
 - [sonirico/mcp-shell](https://github.com/sonirico/mcp-shell) - 🏎️ 🏠 🍎 🪟 🐧 Give hands to AI. MCP server to run shell commands securely, auditably, and on demand on isolated environments like docker.
 - [tufantunc/ssh-mcp](https://github.com/tufantunc/ssh-mcp) 📇 🏠 🐧 🪟 - MCP server exposing SSH control for Linux and Windows servers via Model Context Protocol. Securely execute remote shell commands with password or SSH key authentication.
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) - A secure shell command execution server implementing the Model Context Protocol (MCP)
