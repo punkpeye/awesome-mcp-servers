@@ -73,6 +73,7 @@
 * 🔗 - [Aggregators](#aggregators)
 * 📂 - [浏览器自动化](#browser-automation)
 * 🎨 - [艺术与文化](#art-and-culture)
+* 🧬 - [生物学、医学和生物信息学](#bio)
 * ☁️ - [云平台](#cloud-platforms)
 * 🤖 - [编程智能体](#coding-agents)
 * 🖥️ - [命令行](#command-line)
@@ -133,6 +134,15 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - 从您的视频集合中添加、分析、搜索和生成视频剪辑
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 荷兰国立博物馆 API 集成，支持艺术品搜索、详情查询和收藏品浏览
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 集成 AniList API 获取动画和漫画信息的 MCP 服务器
+
+### 🧬 <a name="bio"></a>生物学、医学和生物信息学
+
+- [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - 生物医学研究 MCP 服务器，提供 PubMed、ClinicalTrials.gov 和 MyVariant.info 的访问。
+- [longevity-genie/biothings-mcp](https://github.com/longevity-genie/biothings-mcp) 🐍 🏠 ☁️ - 与 BioThings API 交互的 MCP 服务器，包括基因、遗传变异、药物和分类信息。
+- [longevity-genie/gget-mcp](https://github.com/longevity-genie/gget-mcp) 🐍 🏠 ☁️ - 提供强大的生物信息学工具包的 MCP 服务器，用于基因组查询和分析，封装了流行的 `gget` 库。
+- [longevity-genie/opengenes-mcp](https://github.com/longevity-genie/opengenes-mcp) 🎖️ 🐍 🏠 ☁️ - OpenGenes 项目的衰老和长寿研究可查询数据库的 MCP 服务器。
+- [longevity-genie/synergy-age-mcp](https://github.com/longevity-genie/synergy-age-mcp) 🎖️ 🐍 🏠 ☁️ - 长寿中协同和拮抗遗传相互作用的 SynergyAge 数据库的 MCP 服务器。
+- [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - 快速医疗互操作性资源 (FHIR) API 的模型上下文协议服务器。提供与 FHIR 服务器的无缝集成，使 AI 助手能够在 SMART-on-FHIR 身份验证支持下搜索、检索、创建、更新和分析临床医疗数据。
 
 ### ☁️ <a name="cloud-platforms"></a>云平台
 
