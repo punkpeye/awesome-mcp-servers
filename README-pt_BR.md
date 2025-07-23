@@ -74,6 +74,7 @@ Confira [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 
 
 * 🔗 - [Agregadores](#agregadores)
 * 🎨 - [Arte e Cultura](#arte-e-cultura)
+* 🧬 - [Biologia, Medicina e Bioinformática](#biologia-medicina-bioinformatica)
 * 📂 - [Automação de Navegadores](#automação-de-navegadores)
 * ☁️ - [Plataformas em Nuvem](#plataformas-em-nuvem)
 * 👨‍💻 - [Execução de Código](#execução-de-código)
@@ -129,6 +130,15 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - Um servidor MCP integrando a API do AniList para informações sobre anime e mangá
 - [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - Servidor MCP usando a API do Aseprite para criar pixel art
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - Fornece análises abrangentes e precisas de Bazi (Quatro Pilares do Destino)
+
+### 🧬 <a name="biologia-medicina-bioinformatica"></a>Biologia, Medicina e Bioinformática
+
+- [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - Servidor MCP de pesquisa biomédica fornecendo acesso ao PubMed, ClinicalTrials.gov e MyVariant.info.
+- [longevity-genie/biothings-mcp](https://github.com/longevity-genie/biothings-mcp) 🐍 🏠 ☁️ - Servidor MCP para interagir com a API BioThings, incluindo genes, variantes genéticas, medicamentos e informações taxonômicas.
+- [longevity-genie/gget-mcp](https://github.com/longevity-genie/gget-mcp) 🐍 🏠 ☁️ - Servidor MCP fornecendo um toolkit poderoso de bioinformática para consultas e análises genômicas, envolvendo a popular biblioteca `gget`.
+- [longevity-genie/opengenes-mcp](https://github.com/longevity-genie/opengenes-mcp) 🎖️ 🐍 🏠 ☁️ - Servidor MCP para um banco de dados consultável para pesquisa de envelhecimento e longevidade do projeto OpenGenes.
+- [longevity-genie/synergy-age-mcp](https://github.com/longevity-genie/synergy-age-mcp) 🎖️ 🐍 🏠 ☁️ - Servidor MCP para o banco de dados SynergyAge de interações genéticas sinérgicas e antagônicas na longevidade.
+- [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Servidor de Protocolo de Contexto de Modelo para APIs de Recursos de Interoperabilidade de Saúde Rápida (FHIR). Fornece integração perfeita com servidores FHIR, permitindo que assistentes de IA pesquisem, recuperem, criem, atualizem e analisem dados clínicos de saúde com suporte de autenticação SMART-on-FHIR.
 
 ### 📂 <a name="automação-de-navegadores"></a>Automação de Navegadores
 
