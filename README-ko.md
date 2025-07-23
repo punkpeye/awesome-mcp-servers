@@ -558,6 +558,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [Alfex4936/kogrammar](https://github.com/Alfex4936/Hangul-MCP) 📇 - 한국어 맞춤법/글자 수 세기 MCP 서버
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - 로컬 사용자 프롬프트 및 채팅 기능을 MCP 루프에 직접 추가하여 대화형 LLM 워크플로를 활성화합니다.
 - [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - GROWI API와의 통합을 위한 공식 MCP 서버.
+- [PaddlePaddle/PaddleOCR](https://paddlepaddle.github.io/PaddleOCR/latest/en/version3.x/deployment/mcp_server.html) - AI 애플리케이션에 엔터프라이즈급 OCR 및 문서 분석 기능을 제공하는 MCP 서버.
 
 
 ## 프레임워크
