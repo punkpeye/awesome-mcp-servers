@@ -232,6 +232,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - 一個靈活獲取 JSON、文本和 HTML 數據的 MCP 伺服器
 - [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) 📇 🏠 🍎 - Xcode 集成，支援項目管理、文件操作和構建自動化
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - 使用開放 API 規範 (v3) 連接任何 HTTP/REST API 伺服器
+- [endorhq/cli](https://github.com/endorhq/cli) 📇 ☁️ 🏠 🪟 🐧 🍎 - Endor 讓您的 AI 代理程式在隔離沙盒中執行 MariaDB、Postgres、Redis、Memcached、Alpine 或 Valkey 等服務。取得預先配置的應用程序，啟動時間不到 5 秒.
 - [jetbrains/mcpProxy](https://github.com/JetBrains/mcpProxy) 🎖️ 📇 🏠 - 連接到 JetBrains IDE
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) 🐍 🏠 - 面向行的文本文件編輯器。針對 LLM 工具進行了最佳化，具有高效的部分文件訪問功能，可最大限度地減少令牌使用量。
 - [@joshuarileydev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server) 📇 🏠 - 用於控制 iOS 模擬器的 MCP 伺服器
