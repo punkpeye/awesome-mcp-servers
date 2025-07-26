@@ -464,6 +464,7 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 - [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - Use ferramentas regulares de definição de mutação/consulta GraphQL e o gqai gerará automaticamente um servidor MCP para você.
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - Habilita fluxos de trabalho LLM interativos adicionando prompts de usuário local e recursos de chat diretamente no loop do MCP.
 - [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - Servidor MCP oficial para integração com APIs do GROWI.
+- [PaddlePaddle/PaddleOCR](https://paddlepaddle.github.io/PaddleOCR/latest/en/version3.x/deployment/mcp_server.html) - Um servidor MCP que oferece recursos de OCR e análise de documentos em nível empresarial para aplicações de IA.
 
 ## Frameworks
 

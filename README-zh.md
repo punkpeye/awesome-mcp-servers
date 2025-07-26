@@ -608,6 +608,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [brianxiadong/ones-wiki-mcp-server](https://github.com/brianxiadong/ones-wiki-mcp-server) ☕ ☁️/🏠 - 一个基于 Spring AI MCP 的服务，用于检索 ONES Wiki 内容并将其转换为 AI 友好的文本格式。
 - [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - 文颜 MCP Server， 让 AI 将 Markdown 文章自动排版后发布至微信公众号。
 - [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - 与 GROWI API 集成的官方 MCP 服务器。
+- [PaddlePaddle/PaddleOCR](https://paddlepaddle.github.io/PaddleOCR/latest/version3.x/deployment/mcp_server.html) - 一个 MCP 服务器，为 AI 应用提供企业级的 OCR 和文档解析能力。
 
 ## 框架
 
