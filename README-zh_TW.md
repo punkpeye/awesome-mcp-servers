@@ -64,6 +64,7 @@
 
 * 🔗 - [Aggregators](#aggregators)
 * 📂 - [瀏覽器自動化](#browser-automation)
+* 🧬 - [生物學、醫學與生物資訊學](#biology-and-medicine)
 * 🎨 - [藝術與文化](#art-and-culture)
 * ☁️ - [雲端平台](#cloud-platforms)
 * 🖥️ - [命令行](#command-line)
@@ -111,6 +112,12 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - 使用 Azure OpenAI 和 Playwright 的“最小”伺服器/用戶端 MCP 實現。
 - [@pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - 一個支援使用 Google 搜尋結果進行免費網頁搜尋的 MCP 伺服器，無需 API 金鑰
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - 一個支援搜尋 B站 內容的 MCP 伺服器。提供LangChain呼叫範例、測試腳本。
+
+### 🧬 <a name="biology-and-medicine"></a>生物學、醫學與生物資訊學
+
+協助生物醫學研究、醫療保健數據交換和生物資訊學分析。提供對生物學和醫學數據庫、工具和標準的訪問。
+
+- [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - 與 FHIR R4 基準和實作指南整合，支援搜尋、讀取、建立、更新和刪除醫療資源
 
 ### 🎨 <a name="art-and-culture"></a>藝術與文化
 

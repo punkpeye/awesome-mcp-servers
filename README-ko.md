@@ -72,6 +72,7 @@
 * 🔗 - [Aggregators](#aggregators)
 * 📂 - [브라우저 자동화](#browser-automation)
 * 🎨 - [예술 및 문화](#art-and-culture)
+* 🧬 - [생물학, 의학 및 생물정보학](#bio)
 * ☁️ - [클라우드 플랫폼](#cloud-platforms)
 * 🖥️ - [커맨드 라인](#command-line)
 * 💬 - [커뮤니케이션](#communication)
@@ -128,6 +129,15 @@
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - Video Jungle 컬렉션에서 비디오 편집 추가, 분석, 검색 및 생성
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 작품 검색, 세부 정보 및 컬렉션을 위한 Rijksmuseum API 통합
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 애니메이션 및 만화 정보를 위한 AniList API를 통합하는 MCP 서버
+
+### 🧬 <a name="bio"></a>생물학, 의학 및 생물정보학
+
+- [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - PubMed, ClinicalTrials.gov, MyVariant.info에 대한 액세스를 제공하는 생의학 연구용 MCP 서버.
+- [longevity-genie/biothings-mcp](https://github.com/longevity-genie/biothings-mcp) 🐍 🏠 ☁️ - 유전자, 유전적 변이, 약물 및 분류학 정보를 포함한 BioThings API와 상호 작용하는 MCP 서버.
+- [longevity-genie/gget-mcp](https://github.com/longevity-genie/gget-mcp) 🐍 🏠 ☁️ - 인기있는 `gget` 라이브러리를 래핑하여 유전체학 쿼리 및 분석을 위한 강력한 생물정보학 도구키트를 제공하는 MCP 서버.
+- [longevity-genie/opengenes-mcp](https://github.com/longevity-genie/opengenes-mcp) 🎖️ 🐍 🏠 ☁️ - OpenGenes 프로젝트의 노화 및 수명 연구를 위한 쿼리 가능한 데이터베이스용 MCP 서버.
+- [longevity-genie/synergy-age-mcp](https://github.com/longevity-genie/synergy-age-mcp) 🎖️ 🐍 🏠 ☁️ - 수명에서의 상승적 및 길항적 유전적 상호작용의 SynergyAge 데이터베이스용 MCP 서버.
+- [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - 빠른 의료 상호운용성 리소스(FHIR) API용 모델 컨텍스트 프로토콜 서버. FHIR 서버와의 원활한 통합을 제공하여 AI 어시스턴트가 SMART-on-FHIR 인증 지원을 통해 임상 의료 데이터를 검색, 검색, 생성, 업데이트 및 분석할 수 있게 합니다.
 
 ### ☁️ <a name="cloud-platforms"></a>클라우드 플랫폼
 
