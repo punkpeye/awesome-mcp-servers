@@ -376,6 +376,8 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - 基于 baostock 的 MCP 服务器,提供对中国股票市场数据的访问和分析功能。
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - 接入 CRIC物业AI 平台的 MCP 服务器。CRIC物业AI 是克而瑞专为物业行业打造的智能 AI 助理。
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ -  一个获取专业级金融数据的MCP服务器，支持Tushare等多种数据供应商。
+- [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - 一个MCP服务器，提供来自Polymarket、PredictIt和Kalshi等多个平台的实时预测市场数据。使AI助手能够通过统一接口查询当前赔率、价格和市场信息。
+- [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - 一个MCP服务器，使AI模型能够查询比特币区块链。
 
 ### 🎮 <a name="gaming"></a>游戏
 
@@ -402,6 +404,8 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 用于 Mem0 的模型上下文协议服务器，帮助管理编码偏好和模式，提供工具用于存储、检索和语义处理代码实现、最佳实践和技术文档，适用于 Cursor 和 Windsurf 等 IDE
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - 从您的 [Ragie](https://www.ragie.ai) (RAG) 知识库中检索上下文，该知识库连接到 Google Drive、Notion、JIRA 等多种集成。
 - [@upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - 最新的LLM和AI代码编辑器的代码文档。
+- [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - 一个MCP服务器，使用MongoDB存储和检索来自多个LLM的记忆。提供保存、检索、添加和清除带有时间戳和LLM识别的对话记忆的工具。
+- [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 一个MCP服务器，实现跨LLM通信和记忆共享，使不同的AI模型能够在对话间协作和共享上下文。
 
 ### 🗺️ <a name="location-services"></a>位置服务
 
@@ -608,6 +612,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [brianxiadong/ones-wiki-mcp-server](https://github.com/brianxiadong/ones-wiki-mcp-server) ☕ ☁️/🏠 - 一个基于 Spring AI MCP 的服务，用于检索 ONES Wiki 内容并将其转换为 AI 友好的文本格式。
 - [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - 文颜 MCP Server， 让 AI 将 Markdown 文章自动排版后发布至微信公众号。
 - [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - 与 GROWI API 集成的官方 MCP 服务器。
+- [JamesANZ/medical-mcp](https://github.com/JamesANZ/medical-mcp) 📇 🏠 - 一个MCP服务器，提供对医疗信息、药物数据库和医疗保健资源的访问。使AI助手能够查询医疗数据、药物相互作用和临床指南。
 
 ## 框架
 
