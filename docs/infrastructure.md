@@ -152,4 +152,5 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server): Facilitates interaction with Kubernetes clusters via the Claude Desktop App, leveraging eBPF-based telemetry for deep observability.
 - [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes): Facilitates Kubernetes cluster management through a robust MCP server, enabling seamless interaction with Kubernetes resources and Helm charts.
 - [netcaster1/e2b-mcp](https://github.com/netcaster1/e2b-mcp): A secure sandbox environment for executing code using the Model Context Protocol, tailored for integration with Claude Desktop.
+- [kswap/consul-mcp](https://github.com/kswap/consul-mcp): Facilitates Consul service discovery and mesh integration through an MCP server interface.
 
