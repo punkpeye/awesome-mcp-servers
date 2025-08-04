@@ -192,6 +192,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - An MCP Server Integration with Apple Shortcuts
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
 - [imprvhub/mcp-browser-agent](https://github.com/imprvhub/mcp-browser-agent) 📇 🏠 - A Model Context Protocol (MCP) integration that provides Claude Desktop with autonomous browser automation capabilities.
+- [bitcoin.com/mcp-server](https://mcp.bitcoin.com/sse) - A comprehensive Model Context Protocol (MCP) server for serving Bitcoin.com's gambling/betting content with advanced i18n support, content discovery, and navigation tools.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
