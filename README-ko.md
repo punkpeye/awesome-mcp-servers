@@ -268,7 +268,7 @@
 
 개발 워크플로우 및 환경 관리를 향상시키는 도구 및 통합.
 
-- [Cleanup Crew](https://cleanupcrew.ai/install) ☁️ - 실시간 인간 AI 코딩 지원을 위한 MCP 서버
+- [cleanupcrew](https://cleanupcrew.ai/install) ☁️ - 실시간 인간 AI 코딩 지원을 위한 MCP 서버
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - 최고의 21st.dev 디자인 엔지니어에게서 영감을 받은 맞춤형 UI 컴포넌트 생성.
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - [QA Sphere](https://qasphere.com/) 테스트 관리 시스템과의 통합. LLM이 테스트 케이스를 발견, 요약, 상호작용할 수 있도록 하며 AI 기반 IDE에서 직접 접근 가능
 - [Coment-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp) 🎖️ 📇 ☁️ 🏠 - Opik이 캡처한 LLM 관찰 가능성, 추적 및 모니터링 데이터와 자연어로 대화합니다.
