@@ -173,6 +173,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 使大语言模型能够读取、编辑和执行代码，并自主解决各种编程任务。
 
+- [Cleanup Crew](https://cleanupcrew.ai/install) ☁️ - 用于实时人类AI编码协助的MCP服务器
 - [jinzcdev/leetcode-mcp-server](https://github.com/jinzcdev/leetcode-mcp-server) 📇 ☁️ - 一个专为 LeetCode(力扣) 设计的 MCP 服务，实现自动化获取编程题目、题解文章、提交记录等公开数据，并支持用户认证（用于笔记、解题进度等私有数据），同时支持 `leetcode.com`（国际版）和 `leetcode.cn`（中国版）双站点。
 
 ### 🖥️ <a name="command-line"></a>命令行

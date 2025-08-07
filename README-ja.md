@@ -201,6 +201,7 @@
 
 LLMがコードの読み取り、編集、実行を行い、一般的なプログラミングタスクを完全に自律的に解決できるフル機能のコーディングエージェント。
 
+- [Cleanup Crew](https://cleanupcrew.ai/install) ☁️ - リアルタイム人間AI コーディング支援のための MCP サーバー
 - [oraios/serena](https://github.com/oraios/serena)🐍🏠 - 言語サーバーを使用したシンボリックコード操作に依存するフル機能のコーディングエージェント。
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍🏠 - 基本的な読み取り、書き込み、コマンドラインツールを備えたコーディングエージェント。
 - [doggybee/mcp-server-leetcode](https://github.com/doggybee/mcp-server-leetcode) 📇 ☁️ - AIモデルがLeetCode問題を検索、取得、解決できるMCPサーバー。メタデータフィルタリング、ユーザープロファイル、提出、コンテストデータアクセスをサポート。
