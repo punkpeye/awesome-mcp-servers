@@ -521,6 +521,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [opslevel/opslevel-mcp](https://github.com/opslevel/opslevel-mcp) 🎖️ 🏎️ ☁️ 🪟 🍎 🐧 - Official MCP Server for [OpsLevel](https://www.opslevel.com)
 - [picahq/mcp](https://github.com/picahq/mcp) 🎖️ 🦀 📇 ☁️ - One MCP for all your integrations — powered by [Pica](https://www.picaos.com), the infrastructure for intelligent, collaborative agents.
 - [posthog/mcp](https://github.com/posthog/mcp) 🎖️ 📇 ☁️ - An MCP server for interacting with PostHog analytics, feature flags, error tracking and more.
+- [ilyaev/mcp-chat-ui](https://github.com/ilyaev/mcp-chat-ui) 📇 - Boilerplate and sandbox for building MCP servers and easily testing their capabilities by chatting with them.
 - [Pratyay/mac-monitor-mcp](https://github.com/Pratyay/mac-monitor-mcp) 🐍 🏠 🍎 - Identifies resource-intensive processes on macOS and provides performance improvement suggestions.
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - This MCP server provides a tool to download entire websites using wget. It preserves the website structure and converts links to work locally.
 - [qainsights/jmeter-mcp-server](https://github.com/QAInsights/jmeter-mcp-server) 🐍 🏠 - JMeter MCP Server for performance testing
