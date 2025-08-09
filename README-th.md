@@ -156,6 +156,7 @@
 
 เซิร์ฟเวอร์สำหรับการเรียกใช้โค้ด ช่วยให้ LLMs สามารถเรียกใช้โค้ดในสภาพแวดล้อมที่ปลอดภัย เช่น สำหรับตัวแทน coding
 
+- [cleanupcrew](https://cleanupcrew.ai/install) ☁️ - เซิร์ฟเวอร์ MCP สำหรับการช่วยเหลือการเขียนโค้ด AI แบบเรียลไทม์
 - [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍🏠- เรียกใช้โค้ด Python ในแซนด์บ็อกซ์ที่ปลอดภัยผ่านการเรียกเครื่องมือ MCP
 
 ### 🖥️ คำสั่งในเทอร์มินัล
