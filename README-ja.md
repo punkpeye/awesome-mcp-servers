@@ -451,6 +451,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test) 🐍 ☁️ - ダウンロード/アップロード速度、レイテンシ、ジッター分析、地理的マッピング付きCDNサーバー検出を含むネットワークパフォーマンスメトリクスによるインターネット速度テスト
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) - リアルタイム本番コンテキスト（ログ、メトリクス、トレース）をローカル環境にシームレスに持ち込み、コードをより高速に自動修正
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - Metoroによって監視されるKubernetes環境をクエリおよび対話
+- [mhajder/librenms-mcp](https://github.com/mhajder/librenms-mcp) 🐍 ☁️ 🍎 🪟 🐧 - LibreNMS管理用のMCPサーバー
 - [MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - クラッシュレポートとリアルユーザーモニタリングのためのRaygun API V3統合
 - [modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - エラートラッキングとパフォーマンス監視のためのSentry.io統合
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) 🎖️ 🐍 ☁️ - Logfireを通じてOpenTelemetryトレースとメトリクスへのアクセスを提供
