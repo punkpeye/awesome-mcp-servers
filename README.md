@@ -93,7 +93,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [Gaming](#gaming)
-* 🧠 - [Knowledge & Memory](#knowledge--memory)
+* 🧠 - [Memory](#knowledge--memory)
 * 🗺️ - [Location Services](#location-services)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
@@ -736,7 +736,7 @@ Integration with gaming related data, game engines, and services
 - [stefan-xyz/mcp-server-runescape](https://github.com/stefan-xyz/mcp-server-runescape) 📇 - An MCP server with tools for interacting with RuneScape (RS) and Old School RuneScape (OSRS) data, including item prices, player hiscores, and more.
 - [tomholford/mcp-tic-tac-toe](https://github.com/tomholford/mcp-tic-tac-toe) 🏎️ 🏠 - Play Tic Tac Toe against an AI opponent using this MCP server.
 
-### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
+### 🧠 <a name="knowledge--memory"></a>Memory
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
@@ -761,6 +761,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - Up-to-date code documentation for LLMs and AI code editors.
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - An MCP server that stores and retrieves memories from multiple LLMs using MongoDB. Provides tools for saving, retrieving, adding, and clearing conversation memories with timestamps and LLM identification.
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - An MCP server that enables cross-LLM communication and memory sharing, allowing different AI models to collaborate and share context across conversations.
+- [Willi MaKo Knowledge Service](https://mcp.stromhaltig.de) - A knowledge service for Germany's complex Energy Market Communications (MaKo) regulations.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
