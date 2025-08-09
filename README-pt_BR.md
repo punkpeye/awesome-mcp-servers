@@ -481,6 +481,7 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - Habilita fluxos de trabalho LLM interativos adicionando prompts de usuário local e recursos de chat diretamente no loop do MCP.
 - [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - Servidor MCP oficial para integração com APIs do GROWI.
 - [JamesANZ/medical-mcp](https://github.com/JamesANZ/medical-mcp) 📇 🏠 - Um servidor MCP que fornece acesso a informações médicas, bancos de dados de medicamentos e recursos de saúde. Permite que assistentes de IA consultem dados médicos, interações medicamentosas e diretrizes clínicas.
+- [PaddlePaddle/PaddleOCR](https://paddlepaddle.github.io/PaddleOCR/latest/en/version3.x/deployment/mcp_server.html) - Um servidor MCP que oferece recursos de OCR e análise de documentos em nível empresarial para aplicações de IA.
 
 ## Frameworks
 
