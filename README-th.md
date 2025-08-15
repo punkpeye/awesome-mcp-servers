@@ -339,6 +339,8 @@
 
 ให้การเข้าถึงเอกสารและทางลัดสำหรับการทำงานบนอุปกรณ์ฝังตัว
 
+- [adancurusul/embedded-debugger-mcp](https://github.com/adancurusul/embedded-debugger-mcp) 🦀 📟 - เซิร์ฟเวอร์โปรโตคอลบริบทโมเดลสำหรับการดีบักระบบฝังตัวด้วย probe-rs - รองรับการดีบัก ARM Cortex-M, RISC-V ผ่าน J-Link, ST-Link และอื่นๆ
+- [adancurusul/serial-mcp-server](https://github.com/adancurusul/serial-mcp-server) 🦀 📟 - เซิร์ฟเวอร์ MCP ที่ครอบคลุมสำหรับการสื่อสารพอร์ตอนุกรม
 - [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - เวิร์กโฟลว์สำหรับการแก้ไขปัญหาการสร้างในชิปซีรีส์ ESP32 โดยใช้ ESP-IDF
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - หุ่นยนต์น่ารักที่ขับเคลื่อนด้วย JavaScript บน M5Stack พร้อมฟังก์ชัน MCP server สำหรับการโต้ตอบและอารมณ์ที่ควบคุมด้วย AI
 
