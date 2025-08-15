@@ -207,6 +207,7 @@ LLMがコードの読み取り、編集、実行を行い、一般的なプロ�
 - [jinzcdev/leetcode-mcp-server](https://github.com/jinzcdev/leetcode-mcp-server) 📇 ☁️ - **LeetCode**のプログラミング問題、解答、提出、公開データへの自動アクセスを可能にするMCPサーバー。`leetcode.com`（グローバル）と`leetcode.cn`（中国）の両サイトをサポート。
 - [juehang/vscode-mcp-server](https://github.com/juehang/vscode-mcp-server) 📇 🏠 - ClaudeなどのAIがVS Codeワークスペースのディレクトリ構造を読み取り、リンター及び言語サーバーによって検出された問題を確認し、コードファイルを読み取り、編集を行うことを可能にするMCPサーバー。
 - [micl2e2/code-to-tree](https://github.com/micl2e2/code-to-tree) 🌊 🏠 📟 🐧 🪟 🍎 - 言語に関係なくソースコードをASTに変換する単一バイナリMCPサーバー。
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) 📇 ☁️ - AI駆動のコードベース理解を提供するセマンティックコード検索MCPサーバー。インテリジェントなコード発見、コンテキスト対応検索、大規模コードベースのスケーラブルなベクトルインデックスをサポート。
 
 ### 🖥️ <a name="command-line"></a>コマンドライン
 
