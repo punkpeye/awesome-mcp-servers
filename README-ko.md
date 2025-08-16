@@ -577,6 +577,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - 로컬 사용자 프롬프트 및 채팅 기능을 MCP 루프에 직접 추가하여 대화형 LLM 워크플로를 활성화합니다.
 - [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - GROWI API와의 통합을 위한 공식 MCP 서버.
 - [JamesANZ/medical-mcp](https://github.com/JamesANZ/medical-mcp) 📇 🏠 - 의료 정보, 약물 데이터베이스 및 의료 서비스 리소스에 대한 접근을 제공하는 MCP 서버. AI 어시스턴트가 의료 데이터, 약물 상호작용 및 임상 가이드라인을 쿼리할 수 있게 합니다.
+- [ShippingTracker](https://github.com/gws8820/ShippingTracker) - 📦 한국 택배 배송 조회 MCP 서버 
 
 
 ## 프레임워크
@@ -589,6 +590,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) 🏎️ - MCP 서버 및 클라이언트 구축을 위한 Golang SDK.
 - [mcp-framework](https://github.com/QuantGeekDev/mcp-framework) 📇 - MCP 서버 구축을 위한 빠르고 우아한 타입스크립트 프레임워크
 - [mcp-proxy](https://github.com/punkpeye/mcp-proxy) - 📇 `stdio` 전송을 사용하는 MCP 서버를 위한 타입스크립트 SSE 프록시.
+- [secure-mcp-proxy](https://github.com/gws8820/secure-mcp-proxy) - 📇 Token 기반 인증을 지원하는 SSE/StreamableHTTP to stdio 프록시
 - [mcp-rs-template](https://github.com/linux-china/mcp-rs-template) 🦀 - Rust용 MCP CLI 서버 템플릿
 - [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang) 🏎️ - 타입 안전성에 중점을 둔 MCP 서버 구축을 위한 Golang 프레임워크
 - [rectalogic/langchain-mcp](https://github.com/rectalogic/langchain-mcp) 🐍 - LangChain에서 MCP 도구 호출 지원을 제공하여 MCP 도구를 LangChain 워크플로우에 통합 가능.
