@@ -157,12 +157,24 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 
 ### <a name="bio"></a>Biology, Medicine and Bioinformatics
 
+- [QuentinCody/civic-mcp-server](https://github.com/QuentinCody/civic-mcp-server) 📇 ☁️ - Clinical Interpretation of Variants in Cancer (CIViC) MCP server for accessing clinical variant interpretation data and evidence.
+- [QuentinCody/datacite-mcp-server](https://github.com/QuentinCody/datacite-mcp-server) 📇 ☁️ - DataCite MCP server for accessing research data and publication metadata from the global research data infrastructure.
+- [QuentinCody/dgidb-mcp-server](https://github.com/QuentinCody/dgidb-mcp-server) 📇 ☁️ - Drug Gene Interaction Database (DGIdb) MCP server for querying drug-gene interactions and druggable genome data.
+- [QuentinCody/entrez-mcp-server](https://github.com/QuentinCody/entrez-mcp-server) 📇 ☁️ - NCBI Entrez MCP server providing access to biomedical databases including PubMed, GenBank, and other NCBI resources.
 - [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - Biomedical research MCP server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info.
 - [longevity-genie/biothings-mcp](https://github.com/longevity-genie/biothings-mcp) 🐍 🏠 ☁️ - MCP server to interact with the BioThings API, including genes, genetic variants, drugs, and taxonomic information.
 - [longevity-genie/gget-mcp](https://github.com/longevity-genie/gget-mcp) 🐍 🏠 ☁️ - MCP server providing a powerful bioinformatics toolkit for genomics queries and analysis, wrapping the popular `gget` library.
 - [longevity-genie/opengenes-mcp](https://github.com/longevity-genie/opengenes-mcp) 🎖️ 🐍 🏠 ☁️ - MCP server for a queryable database for aging and longevity research from the OpenGenes project.
 - [longevity-genie/synergy-age-mcp](https://github.com/longevity-genie/synergy-age-mcp) 🎖️ 🐍 🏠 ☁️ - MCP server for the SynergyAge database of synergistic and antagonistic genetic interactions in longevity.
+- [QuentinCody/nci-gdc-mcp-server](https://github.com/QuentinCody/nci-gdc-mcp-server) 📇 ☁️ - National Cancer Institute Genomic Data Commons (NCI GDC) MCP server for accessing cancer genomic and clinical data.
+- [QuentinCody/openneuro-mcp-server](https://github.com/QuentinCody/openneuro-mcp-server) 📇 ☁️ - OpenNeuro MCP server for accessing open neuroimaging datasets and brain imaging research data.
+- [QuentinCody/open-targets-mcp-server](https://github.com/QuentinCody/open-targets-mcp-server) 📇 ☁️ - Open Targets MCP server for querying target-disease associations and drug discovery data.
+- [QuentinCody/pharos-mcp-server](https://github.com/QuentinCody/pharos-mcp-server) 📇 ☁️ - Pharos MCP server providing access to target, drug, and disease information from the NCATS Pharos platform.
+- [QuentinCody/rcsb-pdb-mcp-server](https://github.com/QuentinCody/rcsb-pdb-mcp-server) 📇 ☁️ - Research Collaboratory for Structural Bioinformatics Protein Data Bank (RCSB PDB) MCP server for 3D protein structure data.
+- [QuentinCody/uniprot-mcp-server](https://github.com/QuentinCody/uniprot-mcp-server) 📇 ☁️ - UniProt MCP server for accessing protein sequence and functional data from the Universal Protein Resource.
+- [QuentinCody/wikidata-sparql-mcp-server](https://github.com/QuentinCody/wikidata-sparql-mcp-server) 📇 ☁️ - Wikidata SPARQL MCP server for structured knowledge queries and linked data access.
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs. Provides seamless integration with FHIR servers, enabling AI assistants to search, retrieve, create, update, and analyze clinical healthcare data with SMART-on-FHIR authentication support.
+- [QuentinCody/zincbind-mcp-server](https://github.com/QuentinCody/zincbind-mcp-server) 📇 ☁️ - ZincBind MCP server for accessing zinc binding sites in proteins and metalloproteome data.
 - [JamesANZ/medical-mcp](https://github.com/JamesANZ/medical-mcp) 📇 🏠 - An MCP server that provides access to medical information, drug databases, and healthcare resources. Enables AI assistants to query medical data, drug interactions, and clinical guidelines.
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
