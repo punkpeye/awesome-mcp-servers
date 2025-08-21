@@ -267,6 +267,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [stippi/code-assistant](https://github.com/stippi/code-assistant) 🦀 🏠 - Coding agent with basic list, read, replace_in_file, write, execute_command and web search tools. Supports multiple projects concurrently.
 - [tiianhk/MaxMSP-MCP-Server](https://github.com/tiianhk/MaxMSP-MCP-Server) 🐍 🏠 🎵 🎥 - A coding agent for Max (Max/MSP/Jitter), which is a visual programming language for music and multimedia.
 - [VertexStudio/developer](https://github.com/VertexStudio/developer) 🦀 🏠 🍎 🪟 🐧 - Comprehensive developer tools for file editing, shell command execution, and screen capture capabilities
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) 📇 ☁️ - MCP server for semantic code search with AI-powered codebase understanding, supporting intelligent code discovery, context-aware search, and scalable vector indexing for large codebases.
 
 ### 🖥️ <a name="command-line"></a>Command Line
 
