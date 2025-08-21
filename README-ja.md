@@ -318,7 +318,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) 📇 ☁️ 🏠 – Cursor AI のようなコーディングエージェントを強化するために設計された、プログラミング特化型のタスク管理システム。高度なタスク記憶、自省、依存関係の管理機能を備えています。[ShrimpTaskManager](https://cjo4m06.github.io/mcp-shrimp-task-manager)
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - Docker 経由でローカルにコードを実行し、複数のプログラミング言語をサポートする MCP サーバー
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - EdgeOne Pagesに HTMLコンテンツをデプロイし、公開アクセス可能なURLを取得するためのMCPサービスです。
-- [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCPサーバーは、ユーザーの自然言語コマンドをROSまたはROS2の制御コマンドに変換することで、ロボットの制御を支援します。
+- [robotmcp/ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCPサーバーは、ユーザーの自然言語コマンドをROSまたはROS2の制御コマンドに変換することで、ロボットの制御を支援します。
 - [HainanZhao/mcp-gitlab-jira](https://github.com/HainanZhao/mcp-gitlab-jira) 📇 ☁️ 🏠 - GitLabとJiraの統合MCPサーバー：AIエージェントでプロジェクト、マージリクエスト、ファイル、リリース、チケットを管理します。
 - [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) 📇 🏠 - Storybookデザインシステムからコンポーネント情報を抽出します。HTML、スタイル、props、依存関係、テーマトークン、コンポーネントメタデータを提供し、AIによるデザインシステム分析を可能にします。
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - GitKraken の API とやり取りするための CLI。gk mcp 経由で MCP サーバーも含まれており、GitKraken の API だけでなく、Jira、GitHub、GitLab などもラップします。ローカルツールやリモートサービスとも連携可能です。
