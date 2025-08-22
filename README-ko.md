@@ -154,6 +154,7 @@
 - [@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 파드, 디플로이먼트, 서비스를 위한 쿠버네티스 클러스터 운영의 타입스크립트 구현
 - [@manusa/Kubernetes MCP 서버](https://github.com/manusa/kubernetes-mcp-server) - 🏎️ 🏠 OpenShift를 추가로 지원하는 강력한 쿠버네티스 MCP 서버. **모든** 쿠버네티스 리소스에 대한 CRUD 작업을 제공하는 것 외에도, 이 서버는 클러스터와 상호 작용하기 위한 전문 도구를 제공합니다.
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 쿠버네티스 관리 및 클러스터, 애플리케이션 상태 분석을 위한 MCP 서버
+- [isnow890/data4library-mcp](https://github.com/isnow890/data4library-mcp) 📇☁️ - 한국 도서관 정보나루 API를 위한 MCP 서버로, 전국 공공도서관 데이터, 도서 검색, 대출 현황, 독서 통계, GPS 기반 주변 도서관 검색 등 포괄적인 도서관 서비스를 제공합니다.
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - Netskope Private Access 환경 내의 모든 Netskope Private Access 구성 요소에 대한 접근을 제공하는 MCP. 자세한 설정 정보와 사용법에 대한 LLM 예제 포함.
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - AI 어시스턴트가 Terraform 환경을 관리하고 운영할 수 있게 하는 Terraform MCP 서버. 구성 읽기, 계획 분석, 구성 적용 및 Terraform 상태 관리를 가능하게 합니다.
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S는 AI 기반 Kubernetes 리소스 관리 도구로, 자연어 상호작용을 통해 사용자가 Kubernetes 클러스터의 모든 리소스(네이티브 리소스(예: Deployment, Service) 및 사용자 정의 리소스(CRD) 포함)를 운영할 수 있게 합니다. 복잡한 명령어를 외울 필요 없이 요구사항만 설명하면 AI가 해당 클러스터 작업을 정확하게 실행하여 Kubernetes의 사용성을 크게 향상시킵니다.
