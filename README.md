@@ -134,6 +134,10 @@ Servers for accessing many apps and tools through a single MCP server.
 - [wegotdocs/open-mcp](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Turn a web API into an MCP server in 10 seconds and add it to the open source registry: https://open-mcp.org
 - [Data-Everything/mcp-server-templates](https://github.com/Data-Everything/mcp-server-templates) 📇 🏠 🍎 🪟 🐧 - One server. All tools. A unified MCP platform that connects many apps, tools, and services behind one powerful interface—ideal for local devs or production agents.
 
+### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
+
+- [IO-Aerospace-software-community/mcp-server](https://github.com/IO-Aerospace-software-engineering/mcp-server) #️⃣ ☁️/🏠 🐧 - IO Aerospace MCP Server: a .NET-based MCP server for aerospace & astrodynamics — ephemeris, orbital conversions, DSS tools, time conversions, and unit/math utilities. Supports STDIO and SSE transports; Docker and native .NET deployment documented.
+
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
