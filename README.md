@@ -834,6 +834,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [stass/exif-mcp](https://github.com/stass/exif-mcp) 📇 🏠 🐧 🍎 🪟 - A MCP server that allows one to examine image metadata like EXIF, XMP, JFIF and GPS.  This provides foundation for LLM-powered search and analysis of photo librares and image collections.
 - [sunriseapps/imagesorcery-mcp](https://github.com/sunriseapps/imagesorcery-mcp) 🐍 🏠 🐧 🍎 🪟 - ComputerVision-based 🪄 sorcery of image recognition and editing tools for AI assistants.
 - [video-creator/ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp.git) 🎥 🔊 - Using ffmpeg command line to achieve an mcp server, can be very convenient, through the dialogue to achieve the local video search, tailoring, stitching, playback and other functions
+- [video-edit-mcp](https://github.com/Aditya2755/video-edit-mcp) 🐍 🏠 🍎 🪟 - Comprehensive video and audio editing MCP server with advanced operations including trimming, merging, effects, overlays, format conversion, audio processing, YouTube downloads, and smart memory management for chaining operations without intermediate files
 
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
 
