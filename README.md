@@ -753,6 +753,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 
 
 - [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI Summarization MCP Server, Support for multiple content types: Plain text, Web pages, PDF documents, EPUB books, HTML content
+- [alizdavoodi/MCPDocSearch](https://github.com/alizdavoodi/MCPDocSearch) 🐍 🏠 - Crawl websites and generate searchable Markdown documentation with semantic search capabilities using vector embeddings and caching
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - Production-ready RAG platform combining Graph RAG, vector search, and full-text search. Best choice for building your own Knowledge Graph and for Context Engineering
 - [chatmcp/mcp-server-chatsum](https://github.com/chatmcp/mcp-server-chatsum) - Query and summarize your chat messages with AI prompts.
 - [CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - Enhanced graph-based memory with a focus on AI role-play and story generation
