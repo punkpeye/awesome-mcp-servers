@@ -923,6 +923,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [imprvhub/mcp-domain-availability](https://github.com/imprvhub/mcp-domain-availability) 🐍 ☁️ - A Model Context Protocol (MCP) server that enables Claude Desktop to check domain availability across 50+ TLDs. Features DNS/WHOIS verification, bulk checking, and smart suggestions. Zero-clone installation via uvx.
 - [imprvhub/mcp-claude-hackernews](https://github.com/imprvhub/mcp-claude-hackernews) 📇 🏠 ☁️ - An integration that allows Claude Desktop to interact with Hacker News using the Model Context Protocol (MCP).
 - [imprvhub/mcp-rss-aggregator](https://github.com/imprvhub/mcp-rss-aggregator) 📇 ☁️ 🏠 - Model Context Protocol Server for aggregating RSS feeds in Claude Desktop.
+- [boikot-xyz/boikot](https://github.com/boikot-xyz/boikot) 🦀☁️ - Model Context Protocol Server for looking up company ethics information. Learn about the ethical and unethical actions of major companies.
 
 ### 🔒 <a name="security"></a>Security
 
