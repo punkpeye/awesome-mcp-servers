@@ -77,6 +77,7 @@
 * ☁️ - [云平台](#cloud-platforms)
 * 🤖 - [编程智能体](#coding-agents)
 * 🖥️ - [命令行](#command-line)
+* 🌍 - [社区](#community)
 * 💬 - [社交](#communication)
 * 👤 - [客户数据平台](#customer-data-platforms)
 * 🗄️ - [数据库](#databases)
@@ -183,6 +184,12 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - 使用`run_command`和`run_script`工具运行任何命令。
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - 具有安全执行和可定制安全策略的命令行界面
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) 实现模型上下文协议 (MCP) 的安全 shell 命令执行服务器
+
+### 🌍 <a name="community"></a>社区
+
+与社区和社交平台集成，实现内容创作和互动。使AI模型能够与社区和社交媒体服务进行交互。
+
+- [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) 🐍 ☁️ - 小红书 MCP 服务器 - 支持登录、发布图文、获取推荐列表、搜索内容
 
 ### 💬 <a name="communication"></a>社交
 

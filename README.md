@@ -82,6 +82,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 👨‍💻 - [Code Execution](#code-execution)
 * 🤖 - [Coding Agents](#coding-agents)
 * 🖥️ - [Command Line](#command-line)
+* 🌍 - [Community](#community)
 * 💬 - [Communication](#communication)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
@@ -289,6 +290,12 @@ Run commands, capture output and otherwise interact with shells and command line
 - [tufantunc/ssh-mcp](https://github.com/tufantunc/ssh-mcp) 📇 🏠 🐧 🪟 - MCP server exposing SSH control for Linux and Windows servers via Model Context Protocol. Securely execute remote shell commands with password or SSH key authentication.
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) - A secure shell command execution server implementing the Model Context Protocol (MCP)
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇 🏠 🍎 🪟 🐧 - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files.
+
+### 🌍 <a name="community"></a>Community
+
+Integration with social and community platforms for content creation and interaction. Enables AI models to engage with community and social media services.
+
+- [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) 🐍 ☁️ - xiaohongshu/RedNote MCP server - Login, publish posts (text/image), get recommendations, search content
 
 ### 💬 <a name="communication"></a>Communication
 
