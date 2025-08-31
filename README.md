@@ -803,6 +803,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
+- [Agent Mindshare](https://agentmindshare.com) ☁️ - Track and monitor AI agent mindshare across platforms - measure brand visibility in AI conversations.
 - [gomarble-ai/facebook-ads-mcp-server](https://github.com/gomarble-ai/facebook-ads-mcp-server) 🐍 ☁️ - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - [gomarble-ai/google-ads-mcp-server](https://github.com/gomarble-ai/google-ads-mcp-server) 🐍 ☁️ - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
 - [marketplaceadpros/amazon-ads-mcp-server](https://github.com/MarketplaceAdPros/amazon-ads-mcp-server) 📇 ☁️  - Enables tools to interact with Amazon Advertising, analyzing campaign metrics and configurations.
