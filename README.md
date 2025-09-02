@@ -576,6 +576,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - An MCP server to flexibly fetch JSON, text, and HTML data
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
+- [linuxsuren/atest-mcp-server](https://github.com/LinuxSuRen/atest-mcp-server) 📇 🏠 🐧 - An MCP server to manage test suites and cases, which is an alternative to Postman.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
