@@ -1192,6 +1192,7 @@ Interact with Git repositories and version control platforms. Enables repository
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
 
+- [Django REST Framework MCP](https://github.com/zacharypodbela/djangorestframework-mcp) 🐍 ☁️ - Expose Django REST Framework APIs as MCP tools for LLMs and agentic applications
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 
