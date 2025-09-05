@@ -207,6 +207,8 @@
 데이터 통합, 변환 및 파이프라인 오케스트레이션을 위한 데이터 플랫폼.
 
 - [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - Flowcore와 상호 작용하여 작업을 수행하고, 데이터를 수집하고, 데이터 코어나 공개 데이터 코어에 있는 모든 데이터를 분석, 교차 참조하고 활용할 수 있습니다. 이 모든 작업은 인간 언어를 사용합니다.
+- [call518/MCP-Ambari-API](https://github.com/call518/MCP-Ambari-API) ⭐ Apache Ambari 운영을 AI/LLM으로 자동화: 자연어 명령으로 Hadoop 클러스터 관리, 서비스 제어, 설정 모니터링, 실시간 상태 추적을 Model Context Protocol(MCP) 도구를 통해 수행.
+- [call518/MCP-Airflow-API](https://github.com/call518/MCP-Airflow-API) ⭐ 복잡한 REST API 호출이나 웹 인터페이스 조작 대신, 자연어로 Apache Airflow 워크플로우를 관리할 수 있다면 얼마나 놀라울까요? MCP-Airflow-API는 이 목표를 현실로 만드는 혁신적인 오픈소스 프로젝트입니다.
 
 
 ### 🗄️ <a name="databases"></a>데이터베이스
@@ -216,6 +218,8 @@
 - [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) ☕ 🐍 ☁️ - Tablestore용 MCP 서비스, 문서 추가, 벡터 및 스칼라 기반 문서의 시맨틱 검색, RAG 친화적, 서버리스 기능 포함.
 - [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) 🐍 🏠 - Elasticsearch 상호 작용을 제공하는 MCP 서버 구현
 - [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) 🐍 🏠 - Postgres 개발 및 운영을 위한 올인원 MCP 서버로, 성능 분석, 튜닝 및 상태 점검을 위한 도구 제공
+- [call518/MCP-PostgreSQL-Ops](https://github.com/call518/MCP-PostgreSQL-Ops) ⭐ PostgreSQL 데이터베이스 운영, 모니터링, 관리를 위한 전문 MCP 서버. PostgreSQL 12~17을 지원하며, 자연어 질의를 통해 포괄적인 데이터베이스 분석, 성능 모니터링, 지능형 유지보수 권고를 제공합니다.
+- [call518/MCP-MySQL-Ops](https://github.com/call518/MCP-MySQL-Ops) ⭐ MCP MySQL Operations Server는 강력한 도구로, 자연어 질의를 통해 종합적인 MySQL 데이터베이스 모니터링 및 분석 기능을 제공합니다. 데이터베이스 관리, 성능 모니터링, 시스템 분석을 위한 19개의 특화된 도구를 포함합니다.
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) 📇 🏠 - 스키마 검사, 읽기 및 쓰기 기능을 갖춘 Airtable 데이터베이스 통합
 - [rashidazarang/airtable-mcp](https://github.com/rashidazarang/airtable-mcp) 🐍 ☁️ - AI 도구를 Airtable에 직접 연결합니다. 자연어를 사용하여 레코드를 쿼리, 생성, 업데이트 및 삭제합니다. 베이스 관리, 테이블 작업, 스키마 조작, 레코드 필터링 및 표준화된 MCP 인터페이스를 통한 데이터 마이그레이션 기능 포함.
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 ☁️ - 스키마 검사 및 쿼리 기능을 갖춘 BigQuery 데이터베이스 통합
