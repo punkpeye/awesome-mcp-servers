@@ -557,6 +557,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [abdulazeem-tk4vr/shardeum-mcp-server](https://github.com/abdulazeem-tk4vr/shardeum-mcp-server): Facilitates seamless interaction with the Shardeum blockchain using standardized RPC methods, enhancing AI and application integration.
 - [redDwarf03/archethic-uco-mcp](https://github.com/redDwarf03/archethic-uco-mcp): Provides real-time UCO token prices from the Archethic network's OracleChain via GraphQL API for AI agents and applications.
 - [AI-Strategy-Enablement/mcp-economic](https://github.com/AI-Strategy-Enablement/mcp-economic): Facilitates seamless interaction with e-conomic's API for comprehensive financial management through standardized MCP commands.
+- [hive-intel/hive-crypto-mcp](https://github.com/hive-intel/hive-crypto-mcp) 📇 ☁️ 🏠 - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics
 
 ## 🧰 Frameworks
 
