@@ -551,6 +551,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [sequa-ai/sequa-mcp](https://github.com/sequa-ai/sequa-mcp) 📇 ☁️ 🐧 🍎 🪟 - Stop stitching context for Copilot and Cursor. With Sequa MCP, your AI tools know your entire codebase and docs out of the box.
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - Connect any HTTP/REST API server using an Open API spec (v3)
 - [spacecode-ai/SpaceBridge-MCP](https://github.com/spacecode-ai/SpaceBridge-MCP) 🐍 🏠 🍎 🐧 - Bring structure and preserve context in vibe coding by automatically tracking issues.
+- [st3v3nmw/sourcerer-mcp](https://github.com/st3v3nmw/sourcerer-mcp) 🏎️ ☁️ - MCP for semantic code search & navigation that reduces token waste
 - [stass/lldb-mcp](https://github.com/stass/lldb-mcp) 🐍 🏠 🐧 🍎 - A MCP server for LLDB enabling AI binary and core file analysis, debugging, disassembling.
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 - [tgeselle/bugsnag-mcp](https://github.com/tgeselle/bugsnag-mcp) 📇 ☁️ - An MCP server for interacting with [Bugsnag](https://www.bugsnag.com/)
