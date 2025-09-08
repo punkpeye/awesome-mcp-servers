@@ -2,6 +2,7 @@
 
 Servers integrating with other AI models, AI platforms, RAG tools, prompt management, or agent frameworks.
 
+- [bh-rat/context-awesome](https://github.com/bh-rat/context-awesome) - MCP server for querying 8,500+ curated awesome lists (1M+ items) and fetching the best resources for your agent.
 - [comitest22/linear-mcp](https://github.com/comitest22/linear-mcp): Facilitates interaction with the Linear API through a Model Context Protocol server, offering tools for ticket management and prioritization.
 - [stephenlb/pubnub-mcp-server](https://github.com/stephenlb/pubnub-mcp-server): Facilitates access to PubNub SDK and Functions documentation within Cursor IDE using a CLI-based MCP server.
 - [Ankit2533/research](https://github.com/Ankit2533/research): A multi-agent deep researcher leveraging MCP to perform comprehensive web searches with Linkup and CrewAI orchestration.
