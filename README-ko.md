@@ -105,7 +105,7 @@
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP는 GUI를 통해 MCP 연결을 관리하는 통합 미들웨어 MCP 서버입니다.
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - 서버 측 코드를 변경하지 않고 한 번의 클릭으로 웹 API를 MCP 서버로 변환합니다.
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - MCP를 통해 Google의 Imagen 3.0 API를 사용하는 강력한 이미지 생성 도구. 고급 사진, 예술 및 사실적인 컨트롤로 텍스트 프롬프트에서 고품질 이미지를 생성합니다.
-- [YangLiangwei/PersonalHub](https://github.com/YangLiangwei/PersonalHub) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Steam, YouTube, Bilibili, Spotify, Reddit을 통합한 포괄적인 개인 데이터 집계 MCP 서버. OAuth2 인증, 자동 토큰 관리, 90+ 도구로 게임, 음악, 비디오, 소셜 플랫폼 데이터에 액세스.
+- [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Steam, YouTube, Bilibili, Spotify, Reddit 등 플랫폼을 통합한 포괄적인 개인 데이터 집계 MCP 서버. OAuth2 인증, 자동 토큰 관리, 90+ 도구로 게임, 음악, 비디오, 소셜 플랫폼 데이터에 액세스.
 
 ### 📂 <a name="browser-automation"></a>브라우저 자동화
 
