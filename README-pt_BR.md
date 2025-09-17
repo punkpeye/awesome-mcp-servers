@@ -116,7 +116,7 @@ Servidores para acessar muitos aplicativos e ferramentas por meio de um único s
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP é o servidor middleware MCP unificado que gerencia suas conexões MCP com GUI.
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - Transforme um API web em um servidor MCP com um clique, sem fazer nenhuma alteração no código.
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - Uma poderosa ferramenta de geração de imagens usando a API Imagen 3.0 do Google através do MCP. Gere imagens de alta qualidade a partir de prompts de texto com controles avançados de fotografia, artísticos e fotorrealistas.
-- [YangLiangwei/PersonalHub](https://github.com/YangLiangwei/PersonalHub) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Servidor MCP abrangente de agregação de dados pessoais com integrações Steam, YouTube, Bilibili, Spotify e Reddit. Possui autenticação OAuth2, gerenciamento automático de tokens e 90+ ferramentas para acesso a dados de jogos, música, vídeo e plataformas sociais.
+- [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Servidor MCP abrangente de agregação de dados pessoais com integrações Steam, YouTube, Bilibili, Spotify, Reddit e outras plataformas. Possui autenticação OAuth2, gerenciamento automático de tokens e 90+ ferramentas para acesso a dados de jogos, música, vídeo e plataformas sociais.
 
 ### 🎨 <a name="arte-e-cultura"></a>Arte e Cultura
 
