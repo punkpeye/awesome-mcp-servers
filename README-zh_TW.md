@@ -97,6 +97,7 @@
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一個統一的中間件MCP伺服器，通過GUI管理您的MCP連接。
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧  - 一鍵將Web API轉入MCP伺服器，而無需對程式碼進行任何修改。
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - 一個通過 MCP 使用 Google Imagen 3.0 API 的強大圖像生成工具。使用文本提示生成具有高級攝影、藝術和逼真控制的高質量圖像。
+- [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 全面的個人數據聚合MCP伺服器，整合Steam、YouTube、Bilibili、Spotify、Reddit等平台。具有OAuth2認證、自動令牌管理和90+工具，用於遊戲、音樂、影片和社交平台數據存取。
 
 ### 📂 <a name="browser-automation"></a>瀏覽器自動化
 

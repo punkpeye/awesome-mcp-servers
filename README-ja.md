@@ -122,6 +122,7 @@
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - サーバー側のコードに変更を加えることなく、Web API を 1 回のクリックで MCP サーバーに変換します。。
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - MCPを通じてGoogleのImagen 3.0 APIを使用する強力な画像生成ツール。高度な写真、芸術的、写実的なコントロールでテキストプロンプトから高品質な画像を生成します。
 - [SureScaleAI/openai-gpt-image-mcp](https://github.com/SureScaleAI/openai-gpt-image-mcp) 📇 ☁️ - OpenAI GPT画像生成・編集MCPサーバー
+- [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Steam、YouTube、Bilibili、Spotify、Redditなどのプラットフォームを統合した包括的な個人データ集約MCPサーバー。OAuth2認証、自動トークン管理、90+ツールでゲーム、音楽、動画、ソーシャルプラットフォームデータにアクセス。
 
 ### 🎨 <a name="art-and-culture"></a>芸術と文化
 
