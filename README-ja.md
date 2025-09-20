@@ -256,6 +256,8 @@ LLMがコードの読み取り、編集、実行を行い、一般的なプロ�
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - 七牛クラウド製品に基づいて構築されたMCP、七牛クラウドストレージ、メディア処理サービスなどへのアクセスをサポート。
 - [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) ☕ 🐍 ☁️ - テーブル ストア用の MC P サービスには、ドキュメントの追加、ドキュメント ベースのセマンティック検索、ドン ベクトル サンド スカラーがラグ フレンドリーでサーバー レスなどの機能があります。
 aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存储(Tablestore)的 MCP 服务器实现，特性包括添加文档、基于向量和标量进行语义搜索、RAG友好。
+- [call518/MCP-PostgreSQL-Ops](https://github.com/call518/MCP-PostgreSQL-Ops) ⭐ PostgreSQL データベースの運用、モニタリング、管理のためのプロフェッショナル MCP サーバー。PostgreSQL 12〜17 をサポートし、自然言語クエリを通じて包括的なデータベース分析、パフォーマンスモニタリング、インテリジェントなメンテナンス推奨を提供します。
+- [call518/MCP-MySQL-Ops](https://github.com/call518/MCP-MySQL-Ops) ⭐ MCP MySQL Operations Server は強力なツールで、自然言語クエリを通じて包括的な MySQL データベースのモニタリングと分析機能を提供します。データベース管理、パフォーマンスモニタリング、システム分析のための 19 の専用ツールを含みます。
 - [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) 🐍 🏠 - MCPサーバーの実装で、Elasticsearchとのインタラクションを提供します
 - [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) 🐍 🏠 - パフォーマンス分析、チューニング、ヘルスチェックのためのツールを備えた、Postgres開発と運用のためのオールインワンMCPサーバー
 - [domdomegg/airtable-mcp-server](https://github.com/domdomegg/airtable-mcp-server) 📇 🏠 - スキーマ検査、読み取り/書き込み機能を備えた Airtable データベース統合
@@ -283,6 +285,8 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 データ統合、変換、パイプライン オーケストレーションのためのデータ プラットフォーム。
 
+- [call518/MCP-Ambari-API](https://github.com/call518/MCP-Ambari-API) ⭐ Apache Ambari の運用を AI/LLM で自動化：自然言語コマンドを使って、Hadoop クラスター管理、サービス制御、設定モニタリング、リアルタイム状態追跡を Model Context Protocol(MCP) ツールを通じて実行。
+- [call518/MCP-Airflow-API](https://github.com/call518/MCP-Airflow-API) ⭐ 複雑な REST API 呼び出しや Web インターフェース操作の代わりに、自然言語で Apache Airflow のワークフローを管理できたらどんなに素晴らしいでしょうか？ MCP-Airflow-API はこの目標を現実にする革新的なオープンソースプロジェクトです。
 - [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - Flowcore と対話してアクションを実行し、データを取り込み、データ コア内またはパブリック データ コア内のあらゆるデータを分析、相互参照、活用します。これらはすべて人間の言語で実行できます。
 
 ### 🚚 <a name="delivery"></a>配送
