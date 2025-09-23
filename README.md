@@ -698,6 +698,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [kukapay/hyperliquid-whalealert-mcp](https://github.com/kukapay/hyperliquid-whalealert-mcp) 🐍 ☁️ - An MCP server that provides real-time whale alerts on Hyperliquid, flagging positions with a notional value exceeding $1 million.
 - [kukapay/jupiter-mcp](https://github.com/kukapay/jupiter-mcp) 🐍 ☁️ - An MCP server for executing token swaps on the Solana blockchain using Jupiter's new Ultra API.
 - [kukapay/pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp) 🐍 ☁️ -  An MCP server that tracks newly created pools on Pancake Swap.
+- [kukapay/polymarket-predictions-mcp](https://github.com/kukapay/polymarket-predictions-mcp) 🐍 ☁️ - An MCP server that delivers real-time market odds from Polymarket.
 - [kukapay/pumpswap-mcp](https://github.com/kukapay/pumpswap-mcp) 🐍 ☁️ - Enabling AI agents to interact with PumpSwap for real-time token swaps and automated on-chain trading.
 - [kukapay/raydium-launchlab-mcp](https://github.com/kukapay/raydium-launchlab-mcp) 🐍 ☁️ - An MCP server that enables AI agents to launch, buy, and sell tokens on the Raydium Launchpad(aka LaunchLab).
 - [kukapay/rug-check-mcp](https://github.com/kukapay/rug-check-mcp) 🐍 ☁️ - An MCP server that detects potential risks in Solana meme tokens.
