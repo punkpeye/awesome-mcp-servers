@@ -672,6 +672,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - MCP server based on baostock, providing access and analysis capabilities for Chinese stock market data.
 - [intentos-labs/beeper-mcp](https://github.com/intentos-labs/beeper-mcp) 🐍 - Beeper provides transactions on BSC, including balance/token transfers, token swaps in Pancakeswap and beeper reward claims.
 - [janswist/mcp-dexscreener](https://github.com/janswist/mcp-dexscreener) 📇 ☁️ - Real-time on-chain market prices using open and free Dexscreener API
+- [jjlabsio/korea-stock-mcp](https://github.com/jjlabsio/korea-stock-mcp) 📇 ☁️ - An MCP Server for Korean stock analysis using OPEN DART API and KRX API
 - [kukapay/binance-alpha-mcp](https://github.com/kukapay/binance-alpha-mcp) 🐍 ☁️ - An MCP server for tracking Binance Alpha trades, helping AI agents optimize alpha point accumulation.
 - [kukapay/blockbeats-mcp](https://github.com/kukapay/blockbeats-mcp) 🐍 ☁️ -  An MCP server that delivers blockchain news and in-depth articles from BlockBeats for AI agents.
 - [kukapay/blocknative-mcp](https://github.com/kukapay/blocknative-mcp) 🐍 ☁️ -  Providing real-time gas price predictions across multiple blockchains, powered by Blocknative.
