@@ -105,6 +105,7 @@
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP는 GUI를 통해 MCP 연결을 관리하는 통합 미들웨어 MCP 서버입니다.
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - 서버 측 코드를 변경하지 않고 한 번의 클릭으로 웹 API를 MCP 서버로 변환합니다.
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - MCP를 통해 Google의 Imagen 3.0 API를 사용하는 강력한 이미지 생성 도구. 고급 사진, 예술 및 사실적인 컨트롤로 텍스트 프롬프트에서 고품질 이미지를 생성합니다.
+- [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Steam, YouTube, Bilibili, Spotify, Reddit 등 플랫폼을 통합한 포괄적인 개인 데이터 집계 MCP 서버. OAuth2 인증, 자동 토큰 관리, 90+ 도구로 게임, 음악, 비디오, 소셜 플랫폼 데이터에 액세스.
 
 ### 📂 <a name="browser-automation"></a>브라우저 자동화
 
@@ -249,6 +250,7 @@
 - [hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server) 🐍 🏠 - 모델 컨텍스트 프로토콜(MCP)을 통해 SQLite 데이터베이스에 안전한 읽기 전용 접근을 제공하는 MCP 서버. 이 서버는 FastMCP 프레임워크로 구축되어 LLM이 내장된 안전 기능과 쿼리 유효성 검사로 SQLite 데이터베이스를 탐색하고 쿼리할 수 있도록 지원합니다.
 - [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) 🐍 ☁️ - 벡터 검색 기능을 갖춘 Pinecone 통합
 - [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) 🐍 🏠 - PostgreSQL, MySQL, MariaDB, SQLite, Oracle, MS SQL Server 등 다양한 데이터베이스를 지원하는 범용 SQLAlchemy 기반 데이터베이스 통합. 스키마 및 관계 검사, 대규모 데이터셋 분석 기능 제공.
+- [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) 🏎️ 🏠 - 자동 스트리밍, 읽기 전용 안전성 및 범용 데이터베이스 호환성을 갖춘 자연어 PostgreSQL 쿼리.
 - [mcp-server-jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) ☕ 🏠 - 모든 JDBC 호환 데이터베이스에 연결하여 쿼리, 삽입, 업데이트, 삭제 등을 수행합니다.
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - Azure Data Explorer 데이터베이스 쿼리 및 분석
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - Prometheus 오픈 소스 모니터링 시스템 쿼리 및 분석.
@@ -276,6 +278,7 @@
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - JSON, 텍스트, HTML 데이터를 유연하게 가져오는 MCP 서버
 - [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) 📇 🏠 🍎 - 프로젝트 관리, 파일 작업 및 빌드 자동화를 위한 Xcode 통합
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - Open API 사양(v3)을 사용하여 모든 HTTP/REST API 서버 연결
+- [davidan90/time-node-mcp](https://github.com/davidan90/time-node-mcp) 📇 🏠 - IANA 타임존, 타임존 변환 및 일광 절약 시간 처리를 지원하는 타임존 인식 날짜 및 시간 작업.
 - [endorhq/cli](https://github.com/endorhq/cli) 📇 ☁️ 🏠 🪟 🐧 🍎 - Endor를 사용하면 AI 에이전트가 MariaDB, Postgres, Redis, Memcached, Alpine, Valkey 등의 서비스를 격리된 샌드박스에서 실행할 수 있습니다. 5초 이내에 부팅되는 사전 구성된 애플리케이션을 이용하세요.
 - [jetbrains/mcpProxy](https://github.com/JetBrains/mcpProxy) 🎖️ 📇 🏠 - JetBrains IDE에 연결
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) 🐍 🏠 - 라인 지향 텍스트 파일 편집기. 토큰 사용량을 최소화하기 위해 효율적인 부분 파일 접근으로 LLM 도구에 최적화됨.
