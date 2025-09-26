@@ -113,6 +113,7 @@
 - [@blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🌐 - Playwright를 사용한 브라우저 자동화를 위한 MCP 파이썬 서버, llm에 더 적합
 - [@executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 🌐⚡️ - 브라우저 자동화 및 웹 스크래핑을 위해 Playwright를 사용하는 MCP 서버
 - [@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🌐 🖱️ - Playwright를 사용한 브라우저 자동화를 위한 MCP 서버
+- [@brutalzinn/simple-mcp-selenium](https://github.com/brutalzinn/simple-mcp-selenium) 📇 🏠 - Cursor IDE에서 자연어로 브라우저를 제어하기 위한 MCP Selenium 서버입니다. 테스트, 자동화, 다중 사용자 시나리오에 최적화되어 있습니다.
 - [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - 웹 스크래핑 및 상호 작용을 위한 브라우저 자동화
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - AI 분석을 위해 YouTube 자막 및 스크립트 가져오기
 - [@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - Apple Shortcuts와의 MCP 서버 통합
