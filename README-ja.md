@@ -297,6 +297,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 開発ワークフローと環境管理を強化するツールと統合。
 
+- [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOSコード品質分析とテスト自動化サーバー。包括的なXcodeテスト実行、SwiftLint統合、詳細な障害分析を提供。CLIとMCPサーバーモードの両方で動作し、直接開発者使用とAIアシスタント統合に対応。
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - [QA Sphere](https://qasphere.com/)テスト管理システムとの統合。LLMがテストケースを発見、要約、操作できるようにし、AI搭載IDEから直接アクセス可能
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - MCPを通じたDockerコンテナの管理と操作
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - JSON、テキスト、HTMLデータを柔軟に取得するためのMCPサーバー
