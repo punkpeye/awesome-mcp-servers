@@ -98,4 +98,5 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [adhikasp/mcp-youtube](https://github.com/adhikasp/mcp-youtube): Facilitates downloading YouTube video transcripts and integrating them with LLMs using the Model Context Protocol.
 - [laulauland/bluesky-context-server](https://github.com/laulauland/bluesky-context-server): Facilitates querying Bluesky instances through MCP client integration.
 - [Muralikrishankp/Twitter-MCP-Server-for-Claude](https://github.com/Muralikrishankp/Twitter-MCP-Server-for-Claude): Connects Twitter's trending topics with Claude's analysis capabilities to identify business opportunities.
+- [VibeMarketing](https://vibemarketing.ninja/mcp): Social media scheduling for X/Twitter and LinkedIn with AI-powered content generation. OAuth authentication, schedule posts, manage accounts, subscription tracking.
 
