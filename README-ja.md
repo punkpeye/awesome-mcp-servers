@@ -43,27 +43,27 @@
 
 ## 凡例
 
-* 🎖️ – 公式実装	
-* プログラミング言語 
-  * 🐍 – Pythonコードベース 
-  * 📇 – TypeScriptコードベース 
-  * 🏎️ – Goコードベース 
-  * 🦀 – Rustコードベース 
-  * #️⃣ – C#コードベース 
+* 🎖️ – 公式実装
+* プログラミング言語
+  * 🐍 – Pythonコードベース
+  * 📇 – TypeScriptコードベース
+  * 🏎️ – Goコードベース
+  * 🦀 – Rustコードベース
+  * #️⃣ – C#コードベース
   * ☕ – Javaコードベース
-  * 🌊 – C/C++コードベース 
-* スコープ 
-  * ☁️ – クラウドサービス 
-  * 🏠 – ローカルサービス 
-  * 📟 – 組み込みシステム 
-* 対応OS 
-  * 🍎 – macOS用 
-  * 🪟 – Windows用 
+  * 🌊 – C/C++コードベース
+* スコープ
+  * ☁️ – クラウドサービス
+  * 🏠 – ローカルサービス
+  * 📟 – 組み込みシステム
+* 対応OS
+  * 🍎 – macOS用
+  * 🪟 – Windows用
   * 🐧 – Linux用
 
 > [!NOTE]
-> ローカル 🏠 とクラウド ☁️ の違いに迷っていますか？ 
-> * MCPサーバーがローカルにインストールされたソフトウェアと通信する場合（例：Chromeブラウザの制御）には「ローカル 🏠」を使用してください。 
+> ローカル 🏠 とクラウド ☁️ の違いに迷っていますか？
+> * MCPサーバーがローカルにインストールされたソフトウェアと通信する場合（例：Chromeブラウザの制御）には「ローカル 🏠」を使用してください。
 > * MCPサーバーがリモートAPIと通信する場合（例：天気API）には「とクラウド ☁️」を使用してください。
 
 ## サーバー実装
@@ -433,6 +433,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 地理および位置ベースのサービス統合。地図データ、方向、および場所情報へのアクセスを提供します。
 
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps) 📇 ☁️ - 位置情報サービス、ルート計画、および場所の詳細のためのGoogle Maps統合
+- [isdaniel/mcp_weather_server](https://github.com/isdaniel/mcp_weather_server) 🐍 ☁️ - https://api.open-meteo.com API から天気情報を取得。
 
 ### 🎯 <a name="marketing"></a>マーケティング
 
