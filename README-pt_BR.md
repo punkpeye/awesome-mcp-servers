@@ -241,7 +241,7 @@ Fornece acesso a perfis de clientes dentro de plataformas de dados de clientes
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - Um servidor MCP para acessar e atualizar perfis em um servidor CDP Apache Unomi.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - Um servidor MCP para interagir com um Workspace Tinybird a partir de qualquer cliente MCP.
 - [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - Um plugin do MCP Server baseado no [AntV](https://github.com/antvis) para gerar gráficos de visualização de dados.
-- [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) 📇 🏠 - A ferramenta MCP gera dinamicamente gráficos visuais com sintaxe do [Apache ECharts](https://echarts.apache.org) usando IA. 
+- [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) 📇 🏠 - A ferramenta MCP gera dinamicamente gráficos visuais com sintaxe do [Apache ECharts](https://echarts.apache.org) usando IA.
 - [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - AI gera dinamicamente gráficos visuais usando a sintaxe [Mermaid](https://mermaid.js.org/) MCP.
 
 ### 🗄️ <a name="bancos-de-dados"></a>Bancos de Dados
@@ -373,6 +373,7 @@ Armazenamento de memória persistente usando estruturas de grafos de conheciment
 Serviços baseados em localização e ferramentas de mapeamento. Permite que modelos de IA trabalhem com dados geográficos, informações meteorológicas e análises baseadas em localização.
 
 - [briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️ - Geolocalização de endereço IP e informações de rede usando API IPInfo
+- [isdaniel/mcp_weather_server](https://github.com/isdaniel/mcp_weather_server) 🐍 ☁️ - Obter informações meteorológicas da API https://api.open-meteo.com.
 - [jagan-shanmugam/open-streetmap-mcp](https://github.com/jagan-shanmugam/open-streetmap-mcp) 🐍 🏠 - Um servidor MCP OpenStreetMap com serviços baseados em localização e dados geoespaciais.
 - [kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp) 🐍 ☁️ - Um servidor MCP para pesquisas de lugares próximos com detecção de localização baseada em IP.
 - [modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps) 📇 ☁️ - Integração com Google Maps para serviços de localização, rotas e detalhes de lugares
