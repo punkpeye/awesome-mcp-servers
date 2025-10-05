@@ -108,6 +108,7 @@
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一个统一的中间件MCP服务器，通过GUI管理您的MCP连接。
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧  - 一键将Web API转成为MCP服务器，而无需对服务器端代码进行任何修改。
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - 一个通过 MCP 使用 Google Imagen 3.0 API 的强大图像生成工具。使用文本提示生成具有高级摄影、艺术和逼真控制的高质量图像。
+- [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 全面的个人数据聚合MCP服务器，集成Steam、YouTube、Bilibili、Spotify、Reddit等平台。具有OAuth2认证、自动令牌管理和90+工具，用于游戏、音乐、视频和社交平台数据访问。
 
 ### 📂 <a name="browser-automation"></a>浏览器自动化
 
@@ -260,6 +261,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server) 🐍 🏠 - 一个 MCP 服务器，通过模型上下文协议 （MCP） 提供对 SQLite 数据库的安全只读访问。该服务器是使用 FastMCP 框架构建的，它使 LLM 能够探索和查询具有内置安全功能和查询验证的 SQLite 数据库。
 - [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) 🐍 ☁️ - Pinecone 与矢量搜索功能的集成
 - [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) 🐍 🏠 - 基于SQLAlchemy的通用数据库集成，支持PostgreSQL、MySQL、MariaDB、SQLite、Oracle、MS SQL Server等众多数据库。具有架构和关系检查以及大型数据集分析功能。
+- [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) 🏎️ 🏠 - 具有自动流传输、只读安全性和通用数据库兼容性的自然语言PostgreSQL查询。
 - [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql) 🏎️ 🏠 – 基于 Go 的开箱即用的 MySQL MCP 服务器，支持只读模式和自动 Schema 检查。
 - [mcp-server-jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) ☕ 🏠 - 连接到任何兼容JDBC的数据库，执行查询、插入、更新、删除等操作。
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - 查询和分析Azure Data Explorer数据库
@@ -428,7 +430,8 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps) 📇 ☁️ - Google 地图集成，提供位置服务、路线规划和地点详细信息
 - [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) 🐍 🏠 - 访问任意时区的时间并获取当前本地时间
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - 支持 nominatim、ArcGIS、Bing 的地理编码 MCP 服务器
-- [briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️ - 使用 IPInfo API 获取 IP 地址的地理位置和网络信息
+- [@briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️ - 使用 IPInfo API 获取 IP 地址的地理位置和网络信息
+- [isdaniel/mcp_weather_server](https://github.com/isdaniel/mcp_weather_server) 🐍 ☁️ - 从 https://api.open-meteo.com API 获取天气信息。
 - [QGIS MCP](https://github.com/jjsantos01/qgis_mcp) - 通过MCP将QGIS桌面端与Claude AI连接。该集成支持提示辅助的项目创建、图层加载、代码执行等功能。
 -  [kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp) 🐍 ☁️ - 一个基于IP定位检测的附近地点搜索MCP服务器。
 
