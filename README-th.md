@@ -461,6 +461,7 @@
 - [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test) 🐍 ☁️ - การทดสอบความเร็วอินเตอร์เน็ตด้วยเมตริกประสิทธิภาพเครือข่ายรวมถึงความเร็วดาวน์โหลด/อัพโหลด ความล่าช้า การวิเคราะห์จิตเตอร์ และการตรวจจับเซิร์ฟเวอร์ CDN ด้วยการแมพภูมิศาสตร์
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) - นำบริบทการผลิตแบบเรียลไทม์—บันทึก เมตริก และการติดตาม—เข้าสู่สภาพแวดล้อมในเครื่องของคุณเพื่อแก้ไขโค้ดอัตโนมัติได้เร็วขึ้น
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - สืบค้นและโต้ตอบกับสภาพแวดล้อม kubernetes ที่ตรวจสอบโดย Metoro
+- [mhajder/librenms-mcp](https://github.com/mhajder/librenms-mcp) 🐍 ☁️ 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP สำหรับการจัดการ LibreNMS
 - [modelcontextprotocol/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - การผสานรวม Raygun API V3 สำหรับการรายงานข้อขัดข้องและการตรวจสอบผู้ใช้จริง
 - [modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - การผสานรวม Sentry.io สำหรับการติดตามข้อผิดพลาดและการตรวจสอบประสิทธิภาพ
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) 🎖️ 🐍 ☁️ - ให้การเข้าถึงการติดตามและเมตริก OpenTelemetry ผ่าน Logfire
