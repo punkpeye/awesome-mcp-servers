@@ -368,4 +368,5 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [Jamespptsr/claude-mcp-windows-guide](https://github.com/Jamespptsr/claude-mcp-windows-guide): A comprehensive guide for setting up and troubleshooting the Claude Desktop MCP-GitHub integration on Windows.
 - [jtorreggiani/test-python-mcp-server](https://github.com/jtorreggiani/test-python-mcp-server): Facilitates note storage and summarization with a custom URI scheme and prompt-based summarization tool.
 - [kennethnym/claude-prompt-manager](https://github.com/kennethnym/claude-prompt-manager): A TypeScript-based CLI prompt manager for Claude utilizing the MCP protocol, enabling prompt creation and management from the command line.
+- [Kiln-AI](https://github.com/Kiln-AI/Kiln) Kiln is a free tool for building production-ready AI systems. It supports RAG pipelines, evaluations, agents, MCP tool-calling, synthetic data generation, and fine-tuning.
 
