@@ -298,6 +298,7 @@ Integrações e ferramentas desenvolvidas para simplificar a exploração de dad
 - [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - Permite exploração autônoma de dados em conjuntos de dados baseados em .csv, fornecendo insights inteligentes com esforço mínimo.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - Um servidor MCP para converter quase qualquer arquivo ou conteúdo web em Markdown
 - [jjsantos01/jupyter-notebook-mcp](https://github.com/jjsantos01/jupyter-notebook-mcp) 🐍 🏠 - conecta o Jupyter Notebook ao Claude AI, permitindo que o Claude interaja diretamente e controle Jupyter Notebooks.
+- [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - O motor de matemática definitivo que unifica SymPy, NumPy e Matplotlib em um servidor poderoso. Perfeito para desenvolvedores e pesquisadores que precisam de álgebra simbólica, computação numérica e visualização de dados.
 
 ### 📟 <a name="sistema-embarcado"></a>Sistema Embarcado
 
