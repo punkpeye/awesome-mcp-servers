@@ -348,6 +348,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - 一个 MCP 服务器，可将几乎任何文件或网络内容转换为 Markdown
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - 实现基于.csv数据集的自动数据探索，提供最少工作量的智能化洞察。
 - [DataEval/dingo](https://github.com/DataEval/dingo) 🎖️ 🐍 🏠 🍎 🪟 🐧 - Dingo 的 MCP 服务端。Dingo是一款全面的数据质量评估工具。支持与 Dingo 基于规则和 LLM 的评估功能进行交互以及列出可用规则和提示词。
+- [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - 终极数学引擎，将 SymPy、NumPy 和 Matplotlib 统一在一个强大的服务器中。非常适合需要符号代数、数值计算和数据可视化的开发人员和研究人员。
 
 ### 📂 <a name="file-systems"></a>文件系统
 
