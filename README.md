@@ -282,6 +282,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [tiianhk/MaxMSP-MCP-Server](https://github.com/tiianhk/MaxMSP-MCP-Server) 🐍 🏠 🎵 🎥 - A coding agent for Max (Max/MSP/Jitter), which is a visual programming language for music and multimedia.
 - [nesquikm/mcp-rubber-duck](https://github.com/nesquikm/mcp-rubber-duck) 📇 🏠 ☁️ - An MCP server that bridges to multiple OpenAI-compatible LLMs - your AI rubber duck debugging panel for explaining problems to various AI "ducks" and getting different perspectives
 - [VertexStudio/developer](https://github.com/VertexStudio/developer) 🦀 🏠 🍎 🪟 🐧 - Comprehensive developer tools for file editing, shell command execution, and screen capture capabilities
+- [x51xxx/codex-mcp-tool](https://github.com/x51xxx/codex-mcp-tool) 📇 ☁️ - MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
 
 ### 🖥️ <a name="command-line"></a>Command Line
 
