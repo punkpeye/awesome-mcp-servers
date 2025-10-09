@@ -352,6 +352,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 用於創建和編輯行銷內容、處理網頁元數據、產品定位和編輯指南的工具。
 
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - Open Strategy Partners 提供的行銷工具套件，包含寫作風格指南、編輯規範和產品行銷價值圖譜創建工具
+- [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - TikTok Ads API 整合的模型上下文協議伺服器，讓 AI 助手能夠透過 OAuth 認證流程管理廣告活動、分析績效指標、處理受眾和創意內容
 
 ### 📊 <a name="monitoring"></a>監測
 

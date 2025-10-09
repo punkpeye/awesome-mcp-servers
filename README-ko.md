@@ -406,6 +406,7 @@
 마케팅 콘텐츠 생성 및 편집, 웹 메타 데이터 작업, 제품 포지셔닝 및 편집 가이드 작업을 위한 도구.
 
 - [Open Strategy Partners 마케팅 도구](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - 글쓰기 스타일, 편집 코드, 제품 마케팅 가치 맵 생성을 포함한 Open Strategy Partners의 마케팅 도구 모음.
+- [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - TikTok Ads API 통합을 위한 Model Context Protocol 서버로, AI 어시스턴트가 OAuth 인증 플로우를 통해 캠페인 관리, 성능 분석, 오디언스 및 크리에이티브 처리를 수행할 수 있습니다.
 
 ### 📊 <a name="monitoring"></a>모니터링
 
