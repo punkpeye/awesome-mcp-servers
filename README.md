@@ -1220,6 +1220,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) - MCP server providing date and time functions in various formats
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
 - [imprvhub/mcp-claude-spotify](https://github.com/imprvhub/mcp-claude-spotify) 📇 ☁️ 🏠 - An integration that allows Claude Desktop to interact with Spotify using the Model Context Protocol (MCP).
+- [muammar-yacoob/GMail-Manager-MCP](https://github.com/muammar-yacoob/GMail-Manager-MCP#readme) 📇 ☁️ 🏠 🍎 🪟 🐧 - Connects Claude Desktop to your Gmail so you can start managing your inbox using natural language. Bulk delete promos & newsletters, organize labels and get useful insights.
 
 ## Frameworks
 
