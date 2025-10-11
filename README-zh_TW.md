@@ -360,6 +360,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Sentry.io 集成用於錯誤跟蹤和性能監控
 - [@MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - Raygun API V3 集成用於崩潰報告和真實用戶監控
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - 查詢並與 Metoro 監控的 kubernetes 環境交互
+- [mhajder/librenms-mcp](https://github.com/mhajder/librenms-mcp) 🐍 ☁️ 🍎 🪟 🐧 - 用於 LibreNMS 管理的 MCP 伺服器
 - [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - 一個 MCP 伺服器，允許透過 Grafana API 查詢 Loki 日誌。
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - 在 Grafana 實例中搜尋儀錶板、調查事件並查詢數據源
 - [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test) 🐍 ☁️ - 網路速度測試，包括下載/上傳速度、延遲、抖動分析和地理映射的CDN伺服器檢測等網路效能指標
