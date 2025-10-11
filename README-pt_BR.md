@@ -197,6 +197,7 @@ Agentes de codificação completos que permitem LLMs ler, editar e executar cód
 
 - [oraios/serena](https://github.com/oraios/serena)🐍🏠 - Um agente de codificação completo que depende de operações de código simbólico usando servidores de linguagem.
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍🏠 - Agente de codificação com ferramentas básicas de leitura, escrita e linha de comando.
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) 📇 ☁️ - Servidor MCP para busca semântica de código com compreensão de base de código alimentada por IA, suportando descoberta inteligente de código, busca sensível ao contexto e indexação vetorial escalável para grandes bases de código.
 
 ### 🖥️ <a name="linha-de-comando"></a>Linha de Comando
 
