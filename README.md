@@ -596,6 +596,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - An MCP server to flexibly fetch JSON, text, and HTML data
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
+- [granular-software/mcpresso](https://github.com/granular-software/mcpresso) - OAuth 2.1 authentication framework for MCP servers with user management, JWT tokens, and database-backed session management
 
 ### 🔒 <a name="delivery"></a>Delivery
 
