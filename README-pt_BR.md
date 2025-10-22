@@ -401,6 +401,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test) 🐍 ☁️ - Teste de velocidade de internet com métricas de desempenho de rede incluindo velocidade de download/upload, latência, análise de jitter e detecção de servidor CDN com mapeamento geográfico
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) - Traga facilmente o contexto de produção em tempo real—logs, métricas e traces—para seu ambiente local para corrigir código automaticamente mais rápido
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - Consulte e interaja com ambientes kubernetes monitorados por Metoro
+- [mhajder/librenms-mcp](https://github.com/mhajder/librenms-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Servidor MCP para gerenciamento do LibreNMS
 - [MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - Integração com a API V3 Raygun para relatórios de falhas e monitoramento de usuários reais
 - [modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Integração com Sentry.io para rastreamento de erros e monitoramento de desempenho
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) 🎖️ 🐍 ☁️ - Fornece acesso a traces e métricas OpenTelemetry através do Logfire
