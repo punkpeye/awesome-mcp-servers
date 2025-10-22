@@ -510,6 +510,8 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 提供嵌入式设备工作文档和快捷方式的访问。
 
+- [adancurusul/embedded-debugger-mcp](https://github.com/adancurusul/embedded-debugger-mcp) 🦀 📟 - 基于probe-rs的嵌入式调试模型上下文协议服务器 - 支持通过J-Link、ST-Link等进行ARM Cortex-M、RISC-V调试
+- [adancurusul/serial-mcp-server](https://github.com/adancurusul/serial-mcp-server) 🦀 📟 - 全面的串口通信MCP服务器
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - JavaScript驱动的M5Stack嵌入式超可爱机器人，具有MCP服务器功能，支持AI控制的交互和情感。
 
 ### 🎧 <a name="support-and-service-management"></a>客户支持与服务管理
