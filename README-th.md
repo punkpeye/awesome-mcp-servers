@@ -268,6 +268,7 @@
 เครื่องมือและการผสานรวมที่ปรับปรุงเวิร์กโฟลว์การพัฒนาและการจัดการสภาพแวดล้อม
 
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - สร้างส่วนประกอบ UI ที่สร้างขึ้นอย่างประณีตซึ่งได้รับแรงบันดาลใจจากวิศวกรออกแบบที่ดีที่สุดของ 21st.dev
+- [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - เซิร์ฟเวอร์สำหรับการวิเคราะห์คุณภาพโค้ด iOS และการทดสอบอัตโนมัติ ให้การดำเนินการทดสอบ Xcode อย่างครอบคลุม การผสานรวม SwiftLint และการวิเคราะห์ข้อผิดพลาดโดยละเอียด ทำงานในโหมด CLI และ MCP เซิร์ฟเวอร์ สำหรับการใช้งานโดยตรงของนักพัฒนาและการผสานรวมผู้ช่วย AI
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - การรวมกับระบบจัดการทดสอบ [QA Sphere](https://qasphere.com/) ช่วยให้ LLM สามารถค้นพบ สรุป และโต้ตอบกับกรณีทดสอบได้โดยตรงจาก IDE ที่ขับเคลื่อนด้วย AI
 - [admica/FileScopeMCP](https://github.com/admica/FileScopeMCP) 🐍 📇 🦀 - วิเคราะห์โค้ดเบสของคุณโดยระบุไฟล์สำคัญตามความสัมพันธ์ของการพึ่งพา สร้างไดอะแกรมและคะแนนความสำคัญ ช่วยให้ผู้ช่วย AI เข้าใจโค้ดเบส
 - [api7/apisix-mcp](https://github.com/api7/apisix-mcp) 🎖️ 📇 🏠 เซิร์ฟเวอร์ MCP ที่รองรับการสืบค้นและจัดการทรัพยากรทั้งหมดใน [Apache APISIX](https://github.com/apache/apisix)
