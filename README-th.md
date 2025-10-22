@@ -375,6 +375,7 @@
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - การผสานรวม Tastyworks API เพื่อจัดการกิจกรรมการซื้อขายบน Tastytrade
 - [getalby/nwc-mcp-server](https://github.com/getalby/nwc-mcp-server) 📇 🏠 - การผสานรวมกระเป๋าเงิน Bitcoin Lightning ขับเคลื่อนโดย Nostr Wallet Connect
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) 🎖️ ⛅️ 🏠 🐍 - เข้าถึงตัวแทน AI web3 เฉพาะทางสำหรับการวิเคราะห์บล็อกเชน การตรวจสอบความปลอดภัยของสัญญาอัจฉริยะ การประเมินเมตริกโทเค็น และการโต้ตอบบนเชนผ่านเครือข่าย Heurist Mesh ให้เครื่องมือที่ครอบคลุมสำหรับการวิเคราะห์ DeFi การประเมินมูลค่า NFT และการตรวจสอบธุรกรรมในบล็อกเชนหลายตัว
+- [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - การบันทึกบัญชีแบบ double entry ในรูปแบบข้อความล้วน ภายใน LLM ของคุณ! MCP นี้รองรับการเข้าถึงไฟล์ journal ของ [HLedger](https://hledger.org/) บนเครื่องในโหมดอ่านอย่างครบถ้วน และ (เลือกได้) การเขียนด้วย
 - [kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) 🐍 ☁️ - ให้ข้อมูลดัชนี Crypto Fear & Greed แบบเรียลไทม์และย้อนหลัง
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) 🐍 ☁️ - เซิร์ฟเวอร์ MCP ที่ให้ตัวบ่งชี้และกลยุทธ์การวิเคราะห์ทางเทคนิคของ cryptocurrency ที่หลากหลาย
 - [kukapay/crypto-sentiment-mcp](https://github.com/kukapay/crypto-sentiment-mcp) 🐍 ☁️ - เซิร์ฟเวอร์ MCP ที่ส่งการวิเคราะห์ความเชื่อมั่นของ cryptocurrency ให้กับตัวแทน AI
