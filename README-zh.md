@@ -631,6 +631,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - 文颜 MCP Server， 让 AI 将 Markdown 文章自动排版后发布至微信公众号。
 - [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - 与 GROWI API 集成的官方 MCP 服务器。
 - [JamesANZ/medical-mcp](https://github.com/JamesANZ/medical-mcp) 📇 🏠 - 一个MCP服务器，提供对医疗信息、药物数据库和医疗保健资源的访问。使AI助手能够查询医疗数据、药物相互作用和临床指南。
+- [PaddlePaddle/PaddleOCR](https://paddlepaddle.github.io/PaddleOCR/latest/version3.x/deployment/mcp_server.html) - 一个 MCP 服务器，为 AI 应用提供企业级的 OCR 和文档解析能力。
 
 ## 框架
 
