@@ -184,6 +184,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) - 🐍 ☁️ - Inbox Zero를 위한 MCP 서버. 답장해야 할 이메일이나 후속 조치가 필요한 이메일을 찾는 등 Gmail 위에 기능을 추가합니다.
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) 🏠 🍎 🚀 - 모델 컨텍스트 프로토콜(MCP)을 통해 iMessage 데이터베이스와 안전하게 인터페이스하는 MCP 서버로, LLM이 iMessage 대화를 쿼리하고 분석할 수 있게 합니다. 강력한 전화번호 유효성 검사, 첨부 파일 처리, 연락처 관리, 그룹 채팅 처리 및 메시지 송수신 전체 지원을 포함합니다.
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - LINE 공식 계정을 통합하는 MCP 서버
+- [team-telnyx/telnyx-mcp-server](https://github.com/team-telnyx/telnyx-mcp-server) 🎖️ 🐍 ☁️ 🏠 - AI 기반 통신 애플리케이션을 구축하기 위한 공식 MCP 서버. 음성 어시스턴트 생성, SMS 캠페인 전송, 전화번호 관리, 실시간 메시징을 기업급 신뢰성으로 통합. 원격 [streamable-http](https://api.telnyx.com/v2/mcp) 및 [sse](https://api.telnyx.com/mcp/sse) 서버 포함.
 - [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) 📇 ☁️ 🏠 - 내장된 Feishu OAuth 인증을 갖춘 Model Context Protocol(MCP) 서버로, 원격 연결을 지원하고 블록 생성, 콘텐츠 업데이트 및 고급 기능을 포함한 포괄적인 Feishu 문서 관리 도구를 제공합니다.
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 VRChat API와 상호 작용하기 위한 MCP 서버입니다. VRChat에서 친구, 월드, 아바타 등에 대한 정보를 검색할 수 있습니다.
 - [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks) - 📇 ☁️ - Google Tasks API와 인터페이스하기 위한 MCP 서버
