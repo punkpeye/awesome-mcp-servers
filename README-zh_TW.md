@@ -271,6 +271,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [HainanZhao/mcp-gitlab-jira](https://github.com/HainanZhao/mcp-gitlab-jira) 📇 ☁️ 🏠 - GitLab 和 Jira 的統一 MCP 伺服器：透過 AI 代理管理專案、合併請求、檔案、發行和票證。
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - 一個用於與 GitKraken API 互動的 CLI。透過 gk mcp 包含一個 MCP 伺服器，不僅包裝了 GitKraken API，還支援 Jira、GitHub、GitLab 等等。可搭配本地工具與遠端服務使用。
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP伺服器是一個基於MCP構建的伺服器，允許使用者透過由大型語言模型解讀的自然語言指令來控制Unitree Go2機器人。
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) 📇 ☁️ - 基於AI驅動的程式碼庫理解提供語意程式碼搜尋的MCP伺服器，支援智慧程式碼發現、情境感知搜尋和大型程式碼庫的可擴展向量索引。
 
 ### 🧮 數據科學工具
 

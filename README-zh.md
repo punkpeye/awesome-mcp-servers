@@ -176,6 +176,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 使大语言模型能够读取、编辑和执行代码，并自主解决各种编程任务。
 
 - [jinzcdev/leetcode-mcp-server](https://github.com/jinzcdev/leetcode-mcp-server) 📇 ☁️ - 一个专为 LeetCode(力扣) 设计的 MCP 服务，实现自动化获取编程题目、题解文章、提交记录等公开数据，并支持用户认证（用于笔记、解题进度等私有数据），同时支持 `leetcode.com`（国际版）和 `leetcode.cn`（中国版）双站点。
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) 📇 ☁️ - 基于AI驱动的语义代码搜索MCP服务器，支持智能代码发现、上下文感知搜索和大型代码库的可扩展向量索引。
 
 ### 🖥️ <a name="command-line"></a>命令行
 

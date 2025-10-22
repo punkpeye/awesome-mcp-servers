@@ -312,6 +312,7 @@
 - [HainanZhao/mcp-gitlab-jira](https://github.com/HainanZhao/mcp-gitlab-jira) 📇 ☁️ 🏠 - GitLab 및 Jira용 통합 MCP 서버: AI 에이전트로 프로젝트, 병합 요청, 파일, 릴리스 및 티켓을 관리합니다.
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - GitKraken API와 상호작용하기 위한 CLI입니다. gk mcp를 통해 MCP 서버를 포함하고 있으며, GitKraken API뿐만 아니라 Jira, GitHub, GitLab 등도 래핑합니다. 로컬 도구 및 원격 서비스와 함께 작동합니다.
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP 서버는 MCP 기반으로 구축된 서버로, 사용자가 LLM이 해석한 자연어 명령을 통해 Unitree Go2 로봇을 제어할 수 있도록 해줍니다.
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) 📇 ☁️ - AI 기반 코드베이스 이해를 제공하는 의미론적 코드 검색 MCP 서버로, 지능적인 코드 발견, 컨텍스트 인식 검색, 대규모 코드베이스를 위한 확장 가능한 벡터 인덱싱을 지원합니다.
 
 
 ### 🧮 데이터 과학 도구
