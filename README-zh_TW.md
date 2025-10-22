@@ -278,6 +278,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - 支援對基於 .csv 的數據集進行自主數據探索，以最小的成本提供智慧見解。
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - 一個 MCP 伺服器，可將幾乎任何文件或網路內容轉換為 Markdown
+- [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - 終極數學引擎，將 SymPy、NumPy 和 Matplotlib 統一在一個強大的伺服器中。非常適合需要符號代數、數值計算和資料視覺化的開發人員和研究人員。
 
 ### 📟 <a name="embedded-system"></a>嵌入式系統
 

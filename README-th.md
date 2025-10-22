@@ -333,6 +333,7 @@
 
 การผสานรวมและเครื่องมือที่ออกแบบมาเพื่อลดความซับซ้อนในการสำรวจข้อมูล การวิเคราะห์ และปรับปรุงเวิร์กโฟลว์วิทยาศาสตร์ข้อมูล
 
+- [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - เครื่องมือคณิตศาสตร์ที่ทรงพลังที่รวม SymPy, NumPy และ Matplotlib ไว้ในเซิร์ฟเวอร์เดียว เหมาะสำหรับนักพัฒนาและนักวิจัยที่ต้องการพีชคณิตเชิงสัญลักษณ์ การคำนวณเชิงตัวเลข และการแสดงภาพข้อมูล
 - [ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp) 🐍 ☁️ - ทำนายอะไรก็ได้ด้วยตัวแทนการพยากรณ์และการทำนายของ Chronulus AI
 - [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - เปิดใช้งานการสำรวจข้อมูลอัตโนมัติบนชุดข้อมูลที่ใช้ .csv ให้ข้อมูลเชิงลึกอัจฉริยะด้วยความพยายามน้อยที่สุด
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - เซิร์ฟเวอร์ MCP เพื่อแปลงไฟล์หรือเนื้อหาเว็บเกือบทุกชนิดเป็น Markdown
