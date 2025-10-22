@@ -275,6 +275,7 @@
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - [QA Sphere](https://qasphere.com/) 테스트 관리 시스템과의 통합. LLM이 테스트 케이스를 발견, 요약, 상호작용할 수 있도록 하며 AI 기반 IDE에서 직접 접근 가능
 - [Coment-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp) 🎖️ 📇 ☁️ 🏠 - Opik이 캡처한 LLM 관찰 가능성, 추적 및 모니터링 데이터와 자연어로 대화합니다.
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) 📇 🏠 - 코딩 에이전트가 Figma 데이터에 직접 접근하여 디자인 구현을 한 번에 완료하도록 돕습니다.
+- [mhmzdev/Figma-Flutter-MCP](https://github.com/mhmzdev/Figma-Flutter-MCP) 📇 🏠 - 코딩 에이전트가 Figma 데이터에 직접 접근하여 자산 내보내기, 위젯 유지보수, 전체 화면 구현을 포함한 앱 구축을 위한 Flutter 코드 작성을 도와줍니다.
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - MCP를 통한 Docker 컨테이너 관리 및 운영
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - JSON, 텍스트, HTML 데이터를 유연하게 가져오는 MCP 서버
 - [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) 📇 🏠 🍎 - 프로젝트 관리, 파일 작업 및 빌드 자동화를 위한 Xcode 통합

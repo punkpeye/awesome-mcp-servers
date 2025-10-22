@@ -279,6 +279,7 @@
 - [endorhq/cli](https://github.com/endorhq/cli) 📇 ☁️ 🏠 🪟 🐧 🍎 - Endor ช่วยให้เอเจนต์ AI ของคุณรันบริการต่างๆ เช่น MariaDB, Postgres, Redis, Memcached, Alpine หรือ Valkey ในแซนด์บ็อกซ์ที่แยกจากกัน รับแอปพลิเคชันที่กำหนดค่าไว้ล่วงหน้าซึ่งบูตได้ภายในเวลาไม่ถึง 5 วินาที. [ตรวจสอบเอกสารของเรา](https://docs.endor.dev/mcp/overview/).
 - [flipt-io/mcp-server-flipt](https://github.com/flipt-io/mcp-server-flipt) 📇 🏠 - ช่วยให้ผู้ช่วย AI สามารถโต้ตอบกับแฟล็กคุณสมบัติของคุณใน [Flipt](https://flipt.io)
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) 📇 🏠 - ให้ตัวแทน coding เข้าถึงข้อมูล Figma โดยตรงเพื่อช่วยในการใช้งานการออกแบบแบบ one-shot
+- [mhmzdev/Figma-Flutter-MCP](https://github.com/mhmzdev/Figma-Flutter-MCP) 📇 🏠 - ให้ตัวแทนการเขียนโค้ดเข้าถึงข้อมูล Figma โดยตรงเพื่อช่วยในการเขียนโค้ด Flutter สำหรับการสร้างแอปรวมถึงการส่งออกทรัพยากร การบำรุงรักษาวิดเจ็ต และการใช้งานหน้าจอแบบเต็ม
 - [gofireflyio/firefly-mcp](https://github.com/gofireflyio/firefly-mcp) 🎖️ 📇 ☁️ - ผสานรวม ค้นพบ จัดการ และเข้ารหัสทรัพยากรคลาวด์ด้วย [Firefly](https://firefly.ai)
 - [Govcraft/rust-docs-mcp-server](https://github.com/Govcraft/rust-docs-mcp-server) 🦀 🏠 - ให้บริบทเอกสารล่าสุดสำหรับ crate Rust เฉพาะแก่ LLMs ผ่านเครื่องมือ MCP โดยใช้การค้นหาเชิงความหมาย (embeddings) และการสรุป LLM
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) 🐍 🏠 - เซิร์ฟเวอร์จัดการ Excel ที่ให้การสร้างเวิร์กบุ๊ก การดำเนินการข้อมูล การจัดรูปแบบ และคุณสมบัติขั้นสูง (แผนภูมิ ตาราง Pivot สูตร)
