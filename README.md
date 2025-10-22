@@ -358,6 +358,8 @@ Provides access to customer profiles inside of customer data platforms
 
 ### 🗄️ <a name="databases"></a>Databases
 
+- [veloper/agemcp](https://github.com/veloper/agemcp) - 🐍 🏠 🍎 🐧 - Manage Apache AGE graphs on PostgreSQL with visualization support.
+
 Secure database access with schema inspection capabilities. Enables querying and analyzing data with configurable security controls including read-only access.
 
 - [Aiven-Open/mcp-aiven](https://github.com/Aiven-Open/mcp-aiven) - 🐍 ☁️ 🎖️ -  Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services
