@@ -196,6 +196,7 @@ Servidores de execução de código. Permitem que LLMs executem código em um am
 
 Agentes de codificação completos que permitem LLMs ler, editar e executar código e resolver tarefas gerais de programação de forma completamente autônoma.
 
+- [cleanupcrew](https://cleanupcrew.ai/install) ☁️ - Servidor MCP para assistência de codificação AI humana em tempo real
 - [oraios/serena](https://github.com/oraios/serena)🐍🏠 - Um agente de codificação completo que depende de operações de código simbólico usando servidores de linguagem.
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍🏠 - Agente de codificação com ferramentas básicas de leitura, escrita e linha de comando.
 
