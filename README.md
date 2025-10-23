@@ -1231,7 +1231,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [ws-mcp](https://github.com/nick1udwig/ws-mcp) - Wrap MCP servers with a WebSocket (for use with [kitbitz](https://github.com/nick1udwig/kibitz))
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - Allows AI models to interact with [HackMD](https://hackmd.io)
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) - MCP server providing date and time functions in various formats
-- [caspii/zip1.io](https://github.com/caspii/zip1.io) 🐍 ☁️ 🍎 🪟 🐧 - Free URL shortener with custom aliases, password protection, click analytics, emoji support, and max click limits. Production HTTP MCP endpoint at https://zip1.io/mcp with 30 req/min rate limit.
+- [zip1.io](https://zip1.io) 🐍 ☁️ 🍎 🪟 🐧 - Free URL shortener with custom aliases, password protection, click analytics, emoji support, and max click limits. Production HTTP MCP endpoint at https://zip1.io/mcp with 30 req/min rate limit.
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
 - [imprvhub/mcp-claude-spotify](https://github.com/imprvhub/mcp-claude-spotify) 📇 ☁️ 🏠 - An integration that allows Claude Desktop to interact with Spotify using the Model Context Protocol (MCP).
 - [nanana-app/mcp-server-nano-banana](https://github.com/nanana-app/mcp-server-nano-banana) 🐍 🏠 🍎 🪟 🐧 - AI image generation using Google Gemini's nano banana model.
