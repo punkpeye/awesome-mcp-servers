@@ -168,6 +168,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 提供 Kubernetes 集群资源管理, 深度分析集群和应用的健康状态
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - 提供对 Netskope Private Access 环境中所有组件的访问权限，包含详细的设置信息和 LLM 使用示例。
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - 🏎️ ☁️/🏠 提供MCP多集群k8s管理操作，提供管理界面、日志，内置近50种工具，覆盖常见运维开发场景，支持常规资源、CRD资源。
+- [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - 一个与 Tilt 集成的 Model Context Protocol 服务器，为 Kubernetes 开发环境提供对 Tilt 资源、日志和管理操作的程序化访问。
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S 是一个 AI 驱动的 Kubernetes 资源管理工具，通过自然语言交互方式，让用户能够轻松操作 Kubernetes 集群中的任意资源，包括原生资源（如 Deployment、Service）和自定义资源（CRD）。无需记忆复杂命令，只需描述需求，AI 就能准确执行对应的集群操作，大大提升了 Kubernetes 的易用性。
 - [portainer/portainer-mcp](https://github.com/portainer/mcp-server) 🏎️ ☁️/🏠 - 一个用于管理 Portainer 容器管理平台的 MCP 服务器，支持通过自然语言交互来管理容器、镜像、网络和卷等资源。
 
