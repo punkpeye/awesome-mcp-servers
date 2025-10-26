@@ -148,6 +148,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - 提供對 Netskope Private Access 環境中所有組件的訪問權限，包含詳細的設置資訊和 LLM 使用範例。
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - 🏎️ ☁️/🏠 提供MCP多集群k8s管理操作，提供管理界面、日誌，內建近50種工具，覆蓋常見運維開發場景，支援常規資源、CRD資源。
 - [weibaohui/kom](https://github.com/weibaohui/kom) - 🏎️ ☁️/🏠 提供MCP多集群k8s管理操作，可作為SDK集成到您自己的項目中，內建近50種工具，覆蓋常見運維開發場景，支援常規資源、CRD資源。
+- [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - 一個與 Tilt 整合的 Model Context Protocol 伺服器，為 Kubernetes 開發環境提供對 Tilt 資源、日誌和管理操作的程式化存取。
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S 是一個 AI 驅動的 Kubernetes 資源管理工具，通過自然語言交互方式，讓用戶能夠輕鬆操作 Kubernetes 集群中的任意資源，包括原生資源（如 Deployment、Service）和自定義資源（CRD）。無需記憶複雜命令，只需描述需求，AI 就能準確執行對應的集群操作，大大提升了 Kubernetes 的易用性。
 
 ### 🖥️ <a name="command-line"></a>Command Line
