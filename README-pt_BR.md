@@ -291,6 +291,7 @@ Ferramentas e integrações que aprimoram o fluxo de trabalho de desenvolvimento
 - [HainanZhao/mcp-gitlab-jira](https://github.com/HainanZhao/mcp-gitlab-jira) 📇 ☁️ 🏠 - Servidor MCP unificado para GitLab e Jira: gerencie projetos, merge requests, arquivos, releases e tickets com agentes de IA.
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - Uma CLI para interagir com as APIs do GitKraken. Inclui um servidor MCP via gk mcp que envolve não apenas as APIs do GitKraken, mas também Jira, GitHub, GitLab e outros. Funciona com ferramentas locais e serviços remotos.
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - O servidor Unitree Go2 MCP é um servidor construído sobre o MCP que permite aos usuários controlar o robô Unitree Go2 usando comandos em linguagem natural interpretados por um modelo de linguagem grande (LLM).
+- [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Servidor MCP de renderização de diagramas Mermaid para Claude Code com funcionalidade de recarga ao vivo, suportando múltiplos formatos de exportação (SVG, PNG, PDF) e temas.
 
 ### 🧮 <a name="ferramentas-de-ciência-de-dados"></a>Ferramentas de Ciência de Dados
 
