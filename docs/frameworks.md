@@ -2,6 +2,7 @@
 
 Toolkits, SDKs, starter templates, or code frameworks designed to help developers easily build MCP-compliant servers or applications.
 
+- [askbudi/roundtable](https://github.com/askbudi/roundtable): Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface, built on FastMCP framework.
 - [johnhenry/hackernews-mcp](https://github.com/johnhenry/hackernews-mcp): A template for creating new MCP servers with features like sandboxed JavaScript execution and debug logging.
 - [CristianCiubancan/YO-mcp](https://github.com/CristianCiubancan/YO-mcp): A CLI tool for quickly setting up an MCP server using FastMCP with dual transport support and TypeScript integration.
 - [macchen-yu/HSIPL_auto_fastmcp](https://github.com/macchen-yu/HSIPL_auto_fastmcp): Facilitates the setup and development of MCP servers using Python and uv on Windows PowerShell.
