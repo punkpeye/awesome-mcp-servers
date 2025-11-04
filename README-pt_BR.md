@@ -91,6 +91,7 @@ Confira [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 
 * 💰 - [Finanças & Fintech](#finanças--fintech)
 * 🎮 - [Jogos](#jogos)
 * 🧠 - [Conhecimento & Memória](#conhecimento--memória)
+* ⚖️ - [Legal](#legal)
 * 🗺️ - [Serviços de Localização](#serviços-de-localização)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoramento](#monitoramento)
@@ -370,6 +371,12 @@ Armazenamento de memória persistente usando estruturas de grafos de conheciment
 - [topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - Gerenciador de memória para aplicativos de IA e Agentes usando vários armazenamentos de grafos e vetores e permitindo ingestão de mais de 30 fontes de dados
 - [unibaseio/membase-mcp](https://github.com/unibaseio/membase-mcp) 📇 ☁️ - Salve e consulte a memória do seu agente de forma distribuída pelo Membase
 - [entanglr/zettelkasten-mcp](https://github.com/entanglr/zettelkasten-mcp) 🐍 🏠 - Um servidor de Protocolo de Contexto de Modelo (MCP) que implementa a metodologia de gestão de conhecimento Zettelkasten, permitindo criar, vincular e pesquisar notas atômicas através de Claude e outros clientes compatíveis com MCP.
+
+### ⚖️ <a name="legal"></a>Legal
+
+Acesso a informações jurídicas, legislação e bancos de dados jurídicos. Permite que modelos de IA pesquisem e analisem documentos jurídicos e informações regulatórias.
+
+- [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - Um servidor MCP que fornece legislação abrangente dos EUA.
 
 ### 🗺️ <a name="serviços-de-localização"></a>Serviços de Localização
 
