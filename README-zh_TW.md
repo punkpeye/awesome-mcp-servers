@@ -97,6 +97,7 @@
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一個統一的中間件MCP伺服器，通過GUI管理您的MCP連接。
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧  - 一鍵將Web API轉入MCP伺服器，而無需對程式碼進行任何修改。
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - 一個通過 MCP 使用 Google Imagen 3.0 API 的強大圖像生成工具。使用文本提示生成具有高級攝影、藝術和逼真控制的高質量圖像。
+- [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 全面的個人數據聚合MCP伺服器，整合Steam、YouTube、Bilibili、Spotify、Reddit等平台。具有OAuth2認證、自動令牌管理和90+工具，用於遊戲、音樂、影片和社交平台數據存取。
 
 ### 📂 <a name="browser-automation"></a>瀏覽器自動化
 
@@ -109,7 +110,8 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - 獲取 YouTube 字幕和文字記錄以供 AI 分析
 - [@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - MCP 伺服器與 Apple Shortcuts 的整合
 - [@fradser/mcp-server-apple-reminders](https://github.com/FradSer/mcp-server-apple-reminders) 📇 🏠 🍎 - macOS 上與 Apple Reminders 整合的 MCP 伺服器
-- [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - 使用 Azure OpenAI 和 Playwright 的“最小”伺服器/用戶端 MCP 實現。
+- [freema/firefox-devtools-mcp](https://github.com/freema/firefox-devtools-mcp) 📇 🏠 - 透過 WebDriver BiDi 進行 Firefox 瀏覽器自動化，用於測試、網頁抓取和瀏覽器控制。支援 snapshot/UID 為基礎的互動、網路監控、控制台擷取和螢幕截圖
+- [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - 使用 Azure OpenAI 和 Playwright 的"最小"伺服器/用戶端 MCP 實現。
 - [@pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - 一個支援使用 Google 搜尋結果進行免費網頁搜尋的 MCP 伺服器，無需 API 金鑰
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - 一個支援搜尋 B站 內容的 MCP 伺服器。提供LangChain呼叫範例、測試腳本。
 
@@ -146,6 +148,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - 提供對 Netskope Private Access 環境中所有組件的訪問權限，包含詳細的設置資訊和 LLM 使用範例。
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - 🏎️ ☁️/🏠 提供MCP多集群k8s管理操作，提供管理界面、日誌，內建近50種工具，覆蓋常見運維開發場景，支援常規資源、CRD資源。
 - [weibaohui/kom](https://github.com/weibaohui/kom) - 🏎️ ☁️/🏠 提供MCP多集群k8s管理操作，可作為SDK集成到您自己的項目中，內建近50種工具，覆蓋常見運維開發場景，支援常規資源、CRD資源。
+- [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - 一個與 Tilt 整合的 Model Context Protocol 伺服器，為 Kubernetes 開發環境提供對 Tilt 資源、日誌和管理操作的程式化存取。
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S 是一個 AI 驅動的 Kubernetes 資源管理工具，通過自然語言交互方式，讓用戶能夠輕鬆操作 Kubernetes 集群中的任意資源，包括原生資源（如 Deployment、Service）和自定義資源（CRD）。無需記憶複雜命令，只需描述需求，AI 就能準確執行對應的集群操作，大大提升了 Kubernetes 的易用性。
 
 ### 🖥️ <a name="command-line"></a>Command Line
@@ -219,6 +222,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [hannesrudolph/sqlite-explorer-fastmcp-mcp-server](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server) 🐍 🏠 - 一個 MCP 伺服器，通過模型上下文協議 （MCP） 提供對 SQLite 資料庫的安全只讀訪問。該伺服器是使用 FastMCP 框架構建的，它使 LLM 能夠探索和查詢具有內建安全功能和查詢驗證的 SQLite 資料庫。
 - [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) 🐍 ☁️ - Pinecone 與向量搜尋功能的集成
 - [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) 🐍 🏠 - 基於SQLAlchemy的通用資料庫集成，支援PostgreSQL、MySQL、MariaDB、SQLite、Oracle、MS SQL Server等眾多資料庫。具有架構和關係檢查以及大型數據集分析功能。
+- [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) 🏎️ 🏠 - 具有自動串流、唯讀安全性和通用資料庫相容性的自然語言PostgreSQL查詢。
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - 查詢 GreptimeDB 的 MCP 服務。
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - 一個用於與 Google Sheets 交互的模型上下文協議伺服器。該伺服器通過 Google Sheets API 提供創建、讀取、更新和管理電子表格的工具。
 - [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) 📇 ☁️ - 具有全面讀取、寫入、格式化和工作表管理功能的 Google Sheets API 整合 MCP 伺服器。
@@ -308,6 +312,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ -  使用 Bitget 公共 API 去獲取加密貨幣最新價格
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - 基於 baostock 的 MCP 伺服器,提供對中國股票市場數據的訪問和分析功能。
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - 接入 CRIC物業AI 平台的 MCP 伺服器。CRIC物業AI 是克而瑞專為物業行業打造的智慧型 AI 助理。
+- [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - 一個 MCP 伺服器，提供對以太坊虛擬機（EVM）JSON-RPC 方法的完整訪問。可與任何 EVM 相容的節點提供商配合使用，包括 Infura、Alchemy、QuickNode、本地節點等。
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - 一個 MCP 伺服器，提供來自 Polymarket、PredictIt 和 Kalshi 等多個平台的即時預測市場數據。使 AI 助手能夠通過統一介面查詢當前賠率、價格和市場資訊。
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - 一個 MCP 伺服器，使 AI 模型能夠查詢比特幣區塊鏈。
 
@@ -340,6 +345,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 地理和基於位置的服務集成。支援訪問地圖數據、方向和位置資訊。
 
 - [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps) 📇 ☁️ - Google 地圖集成，提供位置服務、路線規劃和地點詳細資訊
+- [isdaniel/mcp_weather_server](https://github.com/isdaniel/mcp_weather_server) 🐍 ☁️ - 從 https://api.open-meteo.com API 獲取天氣資訊。
 - [SecretiveShell/MCP-timeserver](https://github.com/SecretiveShell/MCP-timeserver) 🐍 🏠 - 訪問任意時區的時間並獲取當前本地時間
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - 支援 nominatim、ArcGIS、Bing 的地理編碼 MCP 伺服器
 - [@briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️ - 使用 IPInfo API 獲取 IP 地址的地理位置和網路資訊
@@ -366,7 +372,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 ### 🔎 <a name="search"></a>搜尋
 
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless模型上下文協議服務作為MCP伺服器連接器，連接到Google SERP API，使得在MCP生態系統內無需離開即可進行網頁搜索。
-- [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - 使用 Brave 的搜尋 API 實現網頁搜尋功能
+- [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) 📇 ☁️ - 使用 Brave 的搜尋 API 實現網頁搜尋功能
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - Dappier 的 MCP 伺服器可讓 AI 代理快速免費地進行即時網頁搜尋，並存取來自可靠媒體品牌的新聞、金融市場、體育、娛樂、天氣等高品質資料。
 - [Dumpling-AI/mcp-server-dumplingai](https://github.com/Dumpling-AI/mcp-server-dumplingai) 🎖️ 📇 ☁️ - 通過 [Dumpling AI](https://www.dumplingai.com/) 提供的數據訪問、網頁抓取與文件轉換 API
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - 使用 NYTimes API 搜尋文章
