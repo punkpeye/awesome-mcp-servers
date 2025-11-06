@@ -1050,6 +1050,8 @@ Tools for accessing sports-related data, results, and statistics.
 - [RobSpectre/mvf1](https://github.com/RobSpectre/mvf1) 🐍 ☁️ - MCP server that controls [MultiViewer](https://multiviewer.app), an app for watching motorsports like Formula 1, World Endurance Championship, IndyCar and others.
 - [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - MCP server that integrates with the Squiggle API to provide information on Australian Football League teams, ladder standings, results, tips, and power rankings.
 - [cloudbet/sports-mcp-server](https://github.com/cloudbet/sports-mcp-server) 🏎️ ☁️ – Access structured sports data via the Cloudbet API. Query upcoming events, live odds, stake limits, and market info across soccer, basketball, tennis, esports, and more.
+- [labeveryday/nba_mcp_server](https://github.com/labeveryday/nba_mcp_server) 🐍 🏠 - Access live and historical NBA statistics including
+  player stats, game scores, team data, and advanced analytics via Model Context Protocol
 
 
 ### 🎧 <a name="support-and-service-management"></a>Support & Service Management
