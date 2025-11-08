@@ -452,6 +452,7 @@
 
 เครื่องมือสำหรับสร้างและแก้ไขเนื้อหาทางการตลาด ทำงานกับข้อมูลเมตาเว็บ การวางตำแหน่งผลิตภัณฑ์ และคู่มือการแก้ไข
 
+- [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - เซิร์ฟเวอร์ Model Context Protocol สำหรับการผสานรวม TikTok Ads API ช่วยให้ผู้ช่วย AI สามารถจัดการแคมเปญ วิเคราะห์เมตริกประสิทธิภาพ จัดการกลุ่มเป้าหมายและสร้างสรรค์ผ่านการรับรองตัวตน OAuth
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - ชุดเครื่องมือทางการตลาดจาก Open Strategy Partners รวมถึงรูปแบบการเขียน รหัสการแก้ไข และการสร้างแผนที่มูลค่าการตลาดผลิตภัณฑ์
 
 ### 📊 การตรวจสอบ
