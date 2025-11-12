@@ -468,6 +468,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [mattijsdp/dbt-docs-mcp](https://github.com/mattijsdp/dbt-docs-mcp) 🐍 🏠 - MCP server for dbt-core (OSS) users as the official dbt MCP only supports dbt Cloud. Supports project metadata, model and column-level lineage and dbt documentation.
 - [yashshingvi/databricks-genie-MCP](https://github.com/yashshingvi/databricks-genie-MCP) 🐍 ☁️ - A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.
 - [alkemiai/alkemi-mcp](https://github.com/alkemi-ai/alkemi-mcp) 📇 ☁️ - MCP Server for natural language querying of Snowflake, Google BigQuery, and DataBricks Data Products through Alkemi.ai.
+- [paracetamol951/caisse-enregistreuse-mcp-server](https://github.com/paracetamol951/caisse-enregistreuse-mcp-server) 🏠 🐧 🍎 ☁️ - Allows you to automate or monitor business operations, sales recorder, POS software, CRM.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
@@ -612,6 +613,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - An MCP server to flexibly fetch JSON, text, and HTML data
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
+- [paracetamol951/P-Link-MCP](https://github.com/paracetamol951/P-Link-MCP) 🏠 🐧 🍎 ☁️ - Implementation of HTTP 402 (payment required http code) relying on Solana
 
 ### 🔒 <a name="delivery"></a>Delivery
 
