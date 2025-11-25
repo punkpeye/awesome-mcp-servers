@@ -263,6 +263,7 @@ Acesso seguro a banco de dados com recursos de inspeção de esquema. Permite co
 - [confluentinc/mcp-confluent](https://github.com/confluentinc/mcp-confluent) 🐍 ☁️ - Integração Confluent para interagir com as APIs REST do Confluent Kafka e Confluent Cloud.
 - [prisma/mcp](https://github.com/prisma/mcp) 📇 ☁️ 🏠 - Permite que LLMs gerenciem bancos de dados Prisma Postgres (ex.: criar novos bancos de dados e executar migrações ou consultas).
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) 🏎️ 🏠 - Consultas PostgreSQL em linguagem natural com streaming automático, segurança somente leitura e compatibilidade universal com bancos de dados.
+- [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍🗄️ - fornece recursos de ajuste de desempenho do PostgreSQL com IA.
 - [ydb/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – servidor MCP para interagir com bancos de dados [YDB](https://ydb.tech)
 
 ### 📊 <a name="plataformas-de-dados"></a>Plataformas de Dados
