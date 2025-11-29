@@ -1259,6 +1259,7 @@ Interact with Git repositories and version control platforms. Enables repository
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
 
+- [MCPForge](https://github.com/Richardmsbr/mcpforge) 📇 🐍 🏎️ 🦀 - Architecture patterns framework with CLI scaffolding for building MCP servers. Includes design patterns (Adapter, Gateway, Circuit Breaker) and production-ready templates.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 
