@@ -95,6 +95,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [Gaming](#gaming)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
+* ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
@@ -825,6 +826,12 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - Up-to-date code documentation for LLMs and AI code editors.
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - An MCP server that stores and retrieves memories from multiple LLMs using MongoDB. Provides tools for saving, retrieving, adding, and clearing conversation memories with timestamps and LLM identification.
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - An MCP server that enables cross-LLM communication and memory sharing, allowing different AI models to collaborate and share context across conversations.
+
+### ⚖️ <a name="legal"></a>Legal
+
+Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
+
+- [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
