@@ -330,6 +330,7 @@
 - [HainanZhao/mcp-gitlab-jira](https://github.com/HainanZhao/mcp-gitlab-jira) 📇 ☁️ 🏠 - เซิร์ฟเวอร์ MCP แบบรวมสำหรับ GitLab และ Jira: จัดการโปรเจกต์, merge request, ไฟล์, รีลีส และตั๋วด้วยเอเจนต์ AI
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - CLI สำหรับโต้ตอบกับ GitKraken API โดยมีเซิร์ฟเวอร์ MCP ผ่าน gk mcp ซึ่งไม่เพียงแต่ครอบคลุม GitKraken API เท่านั้น แต่ยังรวมถึง Jira, GitHub, GitLab และอื่น ๆ อีกมากมาย รองรับการทำงานร่วมกับเครื่องมือในเครื่องและบริการระยะไกล.
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - เซิร์ฟเวอร์ Unitree Go2 MCP เป็นเซิร์ฟเวอร์ที่พัฒนาขึ้นบน MCP ซึ่งช่วยให้ผู้ใช้สามารถควบคุมหุ่นยนต์ Unitree Go2 ได้โดยใช้คำสั่งภาษาธรรมชาติที่แปลโดยโมเดลภาษาขนาดใหญ่ (LLM)
+- [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP สำหรับการเรนเดอร์ไดอะแกรม Mermaid สำหรับ Claude Code พร้อมฟังก์ชันการโหลดสดและรองรับรูปแบบการส่งออกหลายแบบ (SVG, PNG, PDF) และธีม
 
 ### 🧮 เครื่องมือวิทยาศาสตร์ข้อมูล
 
