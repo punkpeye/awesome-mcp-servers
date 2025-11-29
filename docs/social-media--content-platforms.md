@@ -62,6 +62,7 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [Greg-Swiftomatic/substack-mcp](https://github.com/Greg-Swiftomatic/substack-mcp): Facilitates AI assistants' interaction with Substack content through a standardized protocol.
 - [AudienseCo/mcp-tweetbinder](https://github.com/AudienseCo/mcp-tweetbinder): Facilitates interaction between Claude and TweetBinder by Audiense for comprehensive Twitter analytics and reporting.
 - [VectorInstitute/mcp-goodnews](https://github.com/VectorInstitute/mcp-goodnews): Delivers curated positive news stories using a Cohere LLM for sentiment analysis and ranking.
+- [Xpoz MCP](https://xpoz.ai): Remote-only social media MCP server for Twitter/X, Instagram, and TikTok data & insights. 1.5B+ posts indexed. No installation required - just add endpoint URL (https://mcp.xpoz.ai). No API keys needed.
 - [nattyraz/youtube-mcp](https://github.com/nattyraz/youtube-mcp): Facilitates interaction with YouTube videos by extracting metadata and captions, converting them to markdown, and supporting search functionality.
 - [morinokami/mcp-server-hackernews](https://github.com/morinokami/mcp-server-hackernews): Fetches and processes Hacker News data using the Model Context Protocol.
 - [shimayuz/note-mcp-server](https://github.com/shimayuz/note-mcp-server): Facilitates interaction with note.com for content management and user engagement through Claude Desktop.
