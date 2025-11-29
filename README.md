@@ -1043,6 +1043,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [kunallunia/twitter-mcp](https://github.com/LuniaKunal/mcp-twitter) 🐍 🏠 - All-in-one Twitter management solution providing timeline access, user tweet retrieval, hashtag monitoring, conversation analysis, direct messaging, sentiment analysis of a post, and complete post lifecycle control - all through a streamlined API.
 - [macrocosm-os/macrocosmos-mcp](https://github.com/macrocosm-os/macrocosmos-mcp) - 🎖️ 🐍 ☁️ Access real-time X/Reddit/YouTube data directly in your LLM applications  with search phrases, users, and date filtering.
 - [sinanefeozler/reddit-summarizer-mcp](https://github.com/sinanefeozler/reddit-summarizer-mcp) 🐍 🏠 ☁️ - MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.
+- [Xpoz MCP](https://xpoz.ai) ☁️ - Remote-only social media MCP server for Twitter/X, Instagram, and TikTok data & insights. 1.5B+ posts indexed. No installation - just add endpoint URL. No API keys needed. (Endpoint: `https://mcp.xpoz.ai`)
 
 ### 🏃 <a name="sports"></a>Sports
 
