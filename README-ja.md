@@ -668,6 +668,7 @@ https://modelcontextprotocol.io/llms-full.txt
 
 Webコンテンツのアクセスと自動化機能。AIに優しい形式でWebコンテンツを検索、スクレイピング、処理することができます。
 
+- [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) 🦀 - Rust製で依存関係ゼロの軽量ブラウザ自動化 MCP サーバー。
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - FastMCPベースのツールで、Bilibiliのトレンド動画を取得し、標準MCPインターフェースを通じて公開
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Bilibiliコンテンツの検索をサポートするMCPサーバー。LangChain連携のサンプルとテストスクリプトを提供
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - Playwrightを使用したブラウザ自動化のためのMCPサーバー
