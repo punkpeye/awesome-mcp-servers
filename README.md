@@ -309,6 +309,7 @@ Run commands, capture output and otherwise interact with shells and command line
 - [tufantunc/ssh-mcp](https://github.com/tufantunc/ssh-mcp) 📇 🏠 🐧 🪟 - MCP server exposing SSH control for Linux and Windows servers via Model Context Protocol. Securely execute remote shell commands with password or SSH key authentication.
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) - A secure shell command execution server implementing the Model Context Protocol (MCP)
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇 🏠 🍎 🪟 🐧 - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files.
+- [nihalxkumar/arch-mcp](https://github.com/nihalxkumar/arch-mcp) 🐍 🏠 🐧 - Arch Linux MCP Server to the Arch Linux ecosystem of the Arch Wiki, AUR, and official repositories for AI-assisted Arch Linux usage on Arch and non-Arch systems. Features include searching Arch Wiki and AUR, getting package info, checking for updates, installing packages securely, and analyzing PKGBUILDs.
 
 ### 💬 <a name="communication"></a>Communication
 
