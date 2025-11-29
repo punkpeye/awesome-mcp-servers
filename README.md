@@ -955,6 +955,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) 🏠 🐍 - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. No APIs needed.
 - [nyxn-ai/NyxDocs](https://github.com/nyxn-ai/NyxDocs) 🐍 ☁️ 🏠 - Specialized MCP server for cryptocurrency project documentation management with multi-blockchain support (Ethereum, BSC, Polygon, Solana).
 - [OctagonAI/octagon-deep-research-mcp](https://github.com/OctagonAI/octagon-deep-research-mcp) 🎖️ 📇 ☁️ 🏠 - Lightning-Fast, High-Accuracy Deep Research Agent
+- [jhomen368/overseerr-mcp](https://github.com/jhomen368/overseerr-mcp) 📇 ☁️ 🏠 - Integrate AI assistants with Overseerr for automated media discovery, requests, and management in Plex ecosystems. Features batch operations, smart caching, and comprehensive tools for searching, requesting, and managing movies and TV shows with built-in validation and safety controls.
 - [parallel-web/search-mcp](https://github.com/parallel-web/search-mcp) ☁️ 🔎 - Highest Accuracy Web Search for AI
 - [parallel-web/task-mcp](https://github.com/parallel-web/task-mcp) ☁️ 🔎 - Highest Accuracy Deep Research and Batch Tasks MCP
 - [pragmar/mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) 🐍 🏠 - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
