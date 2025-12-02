@@ -158,6 +158,7 @@
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 쿠버네티스 관리 및 클러스터, 애플리케이션 상태 분석을 위한 MCP 서버
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - Netskope Private Access 환경 내의 모든 Netskope Private Access 구성 요소에 대한 접근을 제공하는 MCP. 자세한 설정 정보와 사용법에 대한 LLM 예제 포함.
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - AI 어시스턴트가 Terraform 환경을 관리하고 운영할 수 있게 하는 Terraform MCP 서버. 구성 읽기, 계획 분석, 구성 적용 및 Terraform 상태 관리를 가능하게 합니다.
+- [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - Tilt와 통합되어 Kubernetes 개발 환경을 위한 Tilt 리소스, 로그 및 관리 작업에 대한 프로그래밍 방식 액세스를 제공하는 Model Context Protocol 서버.
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S는 AI 기반 Kubernetes 리소스 관리 도구로, 자연어 상호작용을 통해 사용자가 Kubernetes 클러스터의 모든 리소스(네이티브 리소스(예: Deployment, Service) 및 사용자 정의 리소스(CRD) 포함)를 운영할 수 있게 합니다. 복잡한 명령어를 외울 필요 없이 요구사항만 설명하면 AI가 해당 클러스터 작업을 정확하게 실행하여 Kubernetes의 사용성을 크게 향상시킵니다.
 
 ### 🖥️ <a name="command-line"></a>커맨드 라인
@@ -252,6 +253,7 @@
 - [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) 🐍 ☁️ - 벡터 검색 기능을 갖춘 Pinecone 통합
 - [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) 🐍 🏠 - PostgreSQL, MySQL, MariaDB, SQLite, Oracle, MS SQL Server 등 다양한 데이터베이스를 지원하는 범용 SQLAlchemy 기반 데이터베이스 통합. 스키마 및 관계 검사, 대규모 데이터셋 분석 기능 제공.
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) 🏎️ 🏠 - 자동 스트리밍, 읽기 전용 안전성 및 범용 데이터베이스 호환성을 갖춘 자연어 PostgreSQL 쿼리.
+- [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍🗄️ - AI 기반 PostgreSQL 성능 튜닝 기능을 제공합니다.
 - [mcp-server-jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) ☕ 🏠 - 모든 JDBC 호환 데이터베이스에 연결하여 쿼리, 삽입, 업데이트, 삭제 등을 수행합니다.
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - Azure Data Explorer 데이터베이스 쿼리 및 분석
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - Prometheus 오픈 소스 모니터링 시스템 쿼리 및 분석.
