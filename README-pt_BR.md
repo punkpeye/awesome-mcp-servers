@@ -183,6 +183,7 @@ Integração de serviços de plataforma em nuvem. Permite o gerenciamento e inte
 - [jdubois/azure-cli-mcp](https://github.com/jdubois/azure-cli-mcp) - Um wrapper em torno da linha de comando Azure CLI que permite conversar diretamente com o Azure
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - Um MCP para dar acesso a todos os componentes do Netskope Private Access dentro de ambientes Netskope Private Access, incluindo informações detalhadas de configuração e exemplos de LLM sobre uso.
 - [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) 🏎️ ☁️/🏠 - Um poderoso servidor MCP que permite que assistentes de IA interajam de forma integrada com instâncias do Portainer, fornecendo acesso em linguagem natural ao gerenciamento de contêineres, operações de implantação e recursos de monitoramento de infraestrutura.
+- [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - Um servidor de Protocolo de Contexto de Modelo que se integra com o Tilt para fornecer acesso programático a recursos, logs e operações de gerenciamento do Tilt para ambientes de desenvolvimento Kubernetes.
 - [trilogy-group/aws-pricing-mcp](https://github.com/trilogy-group/aws-pricing-mcp) 🏎️ ☁️/🏠 - Obtenha informações de preços atualizadas do EC2 com uma única chamada. Rápido. Alimentado por um catálogo de preços da AWS pré-analisado.
 
 ### 👨‍💻 <a name="execução-de-código"></a>Execução de Código
@@ -262,6 +263,7 @@ Acesso seguro a banco de dados com recursos de inspeção de esquema. Permite co
 - [confluentinc/mcp-confluent](https://github.com/confluentinc/mcp-confluent) 🐍 ☁️ - Integração Confluent para interagir com as APIs REST do Confluent Kafka e Confluent Cloud.
 - [prisma/mcp](https://github.com/prisma/mcp) 📇 ☁️ 🏠 - Permite que LLMs gerenciem bancos de dados Prisma Postgres (ex.: criar novos bancos de dados e executar migrações ou consultas).
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) 🏎️ 🏠 - Consultas PostgreSQL em linguagem natural com streaming automático, segurança somente leitura e compatibilidade universal com bancos de dados.
+- [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍🗄️ - fornece recursos de ajuste de desempenho do PostgreSQL com IA.
 - [ydb/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – servidor MCP para interagir com bancos de dados [YDB](https://ydb.tech)
 
 ### 📊 <a name="plataformas-de-dados"></a>Plataformas de Dados
