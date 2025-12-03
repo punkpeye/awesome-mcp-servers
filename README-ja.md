@@ -685,6 +685,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - Webスクレイピングとインタラクションのためのブラウザ自動化
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - manifest v2互換ブラウザとの相互作用のためのMCPサーバー
 - [pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - APIキー不要でGoogleの検索結果を使った無料Web検索を可能にするMCPサーバー
+- [public-ui/kolibri](https://github.com/public-ui/kolibri) 📇 ☁️ 🏠 - ストリーミング対応KoliBri MCPサーバー（NPM: `@public-ui/mcp`）。ホストされたHTTPエンドポイントまたはローカルの`kolibri-mcp` CLI経由で、保証されたアクセシビリティを備えた200以上のWebコンポーネントのサンプル、仕様、ドキュメント、シナリオを提供。
 - [recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - Apple ShortcutsとのMCPサーバー統合
 
 ## フレームワーク
