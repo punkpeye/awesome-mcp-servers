@@ -936,6 +936,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
 
 - [vectara/vectara-mcp](https://github.com/vectara/vectara-mcp) 🐍 🏠 ☁️ - An MCP server for accessing Vectara's trusted RAG-as-a-service platform.
+- [poll-the-people/customgpt-mcp](https://github.com/Poll-The-People/customgpt-mcp) 🐍 🏠 ☁️ - An MCP server for accessing all of CustomGPT.ai's anti-hallucination RAG-as-a-service API endpoints.
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
