@@ -621,6 +621,8 @@ Tools and integrations that enhance the development workflow and environment man
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
 - [paracetamol951/P-Link-MCP](https://github.com/paracetamol951/P-Link-MCP) 🏠 🐧 🍎 ☁️ - Implementation of HTTP 402 (payment required http code) relying on Solana
+- [shadcn/studio MCP](https://shadcnstudio.com/mcp) - Integrate shadcn/studio MCP Server directly into your favorite IDE and craft stunning shadcn/ui Components, Blocks and Pages inspired by shadcn/studio.
+- [Flyonui MCP](https://flyonui.com/mcp) - Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
