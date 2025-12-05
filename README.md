@@ -463,6 +463,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [redis/mcp-redis](https://github.com/redis/mcp-redis) 🐍 🏠 - The Redis official MCP Server offers an interface to manage and search data in Redis.
 
 - [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) 🐍 🏠 - Universal SQLAlchemy-based database integration supporting PostgreSQL, MySQL, MariaDB, SQLite, Oracle, MS SQL Server and many more databases. Features schema and relationship inspection, and large dataset analysis capabilities.
+- [wenerme/wener-mssql-mcp](https://github.com/wenerme/wode/tree/develop/packages/wener-mssql-mcp) 📇 🏠 - MSSQL database integration with schema inspection and query capabilities
 - [s2-streamstore/s2-sdk-typescript](https://github.com/s2-streamstore/s2-sdk-typescript) 🎖️ 📇 ☁️ - Official MCP server for the S2.dev serverless stream platform.
 - [schemacrawler/SchemaCrawler-MCP-Server-Usage](https://github.com/schemacrawler/SchemaCrawler-MCP-Server-Usage) 🎖️ ☕ – Connect to any relational database, and be able to get valid SQL, and ask questions like what does a certain column prefix mean.
 - [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) 🐍 ☁️ - Pinecone integration with vector search capabilities
