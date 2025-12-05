@@ -1334,6 +1334,7 @@ Interact with Git repositories and version control platforms. Enables repository
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
 
+- [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK in Rust
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 
