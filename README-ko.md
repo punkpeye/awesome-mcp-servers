@@ -324,6 +324,7 @@
 ### 🧮 데이터 과학 도구
 
 데이터 탐색, 분석을 단순화하고 데이터 과학 워크플로우를 향상시키기 위해 설계된 통합 및 도구.
+- [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - SymPy, NumPy 및 Matplotlib를 하나의 강력한 서버로 통합한 궁극의 수학 엔진. 기호 대수, 수치 계산 및 데이터 시각화가 필요한 개발자 및 연구자에게 완벽합니다.
 - [ChronulusAI/chronulus-mcp](https://github.com/ChronulusAI/chronulus-mcp) 🐍 ☁️ - Chronulus AI 예측 및 예측 에이전트로 무엇이든 예측하세요.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - 거의 모든 파일이나 웹 콘텐츠를 마크다운으로 변환하는 MCP 서버
 - [@reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - .csv 기반 데이터셋에 대한 자율적인 데이터 탐색을 가능하게 하여 최소한의 노력으로 지능적인 통찰력 제공.
