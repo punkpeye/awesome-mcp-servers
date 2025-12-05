@@ -84,6 +84,7 @@
 * 💰 - [금융 및 핀테크](#finance--fintech)
 * 🎮 - [게임](#gaming)
 * 🧠 - [지식 및 메모리](#knowledge--memory)
+* ⚖️ - [법률](#legal)
 * 🗺️ - [위치 서비스](#location-services)
 * 🎯 - [마케팅](#marketing)
 * 📊 - [모니터링](#monitoring)
@@ -110,10 +111,11 @@
 ### 📂 <a name="browser-automation"></a>브라우저 자동화
 
 웹 콘텐츠 접근 및 자동화 기능. AI 친화적인 형식으로 웹 콘텐츠 검색, 스크래핑 및 처리를 가능하게 합니다.
+- [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) 🦀 - Rust로 작성된 의존성 없는 경량 브라우저 자동화 MCP 서버.
 - [@blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🌐 - Playwright를 사용한 브라우저 자동화를 위한 MCP 파이썬 서버, llm에 더 적합
 - [@executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 🌐⚡️ - 브라우저 자동화 및 웹 스크래핑을 위해 Playwright를 사용하는 MCP 서버
 - [@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🌐 🖱️ - Playwright를 사용한 브라우저 자동화를 위한 MCP 서버
-- [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - 웹 스크래핑 및 상호 작용을 위한 브라우저 자동화
+- [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) 📇 🏠 - 웹 스크래핑 및 상호 작용을 위한 브라우저 자동화
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - AI 분석을 위해 YouTube 자막 및 스크립트 가져오기
 - [@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - Apple Shortcuts와의 MCP 서버 통합
 - [@kimtth/mcp-aoai-web-Browse](https://github.com/kimtth/mcp-aoai-web-Browse) 🐍 🏠 - Azure OpenAI 및 Playwright를 사용하는 `최소한의` 서버/클라이언트 MCP 구현
@@ -121,6 +123,7 @@
 - [@co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🌐🔮 - SSE 전송을 지원하는 MCP 서버로 패키징된 browser-use. Docker에서 Chromium을 실행하기 위한 Dockerfile + VNC 서버 포함.
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Bilibili 콘텐츠 검색을 지원하는 MCP 서버. LangChain 통합 예제 및 테스트 스크립트 제공.
 - [@getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 📇 🏠 - 모든 웹사이트에서 구조화된 데이터 추출. 프롬프트만 입력하면 JSON 획득.
+- [freema/firefox-devtools-mcp](https://github.com/freema/firefox-devtools-mcp) 📇 🏠 - WebDriver BiDi를 통한 Firefox 브라우저 자동화. 테스트, 스크래핑 및 브라우저 제어 지원. 스냅샷/UID 기반 상호작용, 네트워크 모니터링, 콘솔 캡처 및 스크린샷 지원
 
 ### 🎨 <a name="art-and-culture"></a>예술 및 문화
 
@@ -157,6 +160,7 @@
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 쿠버네티스 관리 및 클러스터, 애플리케이션 상태 분석을 위한 MCP 서버
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - Netskope Private Access 환경 내의 모든 Netskope Private Access 구성 요소에 대한 접근을 제공하는 MCP. 자세한 설정 정보와 사용법에 대한 LLM 예제 포함.
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - AI 어시스턴트가 Terraform 환경을 관리하고 운영할 수 있게 하는 Terraform MCP 서버. 구성 읽기, 계획 분석, 구성 적용 및 Terraform 상태 관리를 가능하게 합니다.
+- [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - Tilt와 통합되어 Kubernetes 개발 환경을 위한 Tilt 리소스, 로그 및 관리 작업에 대한 프로그래밍 방식 액세스를 제공하는 Model Context Protocol 서버.
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S는 AI 기반 Kubernetes 리소스 관리 도구로, 자연어 상호작용을 통해 사용자가 Kubernetes 클러스터의 모든 리소스(네이티브 리소스(예: Deployment, Service) 및 사용자 정의 리소스(CRD) 포함)를 운영할 수 있게 합니다. 복잡한 명령어를 외울 필요 없이 요구사항만 설명하면 AI가 해당 클러스터 작업을 정확하게 실행하여 Kubernetes의 사용성을 크게 향상시킵니다.
 
 ### 🖥️ <a name="command-line"></a>커맨드 라인
@@ -231,8 +235,8 @@
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - 구성 가능한 접근 제어, 스키마 검사 및 포괄적인 보안 지침을 갖춘 MySQL 데이터베이스 통합
 - [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) 📇 🏠 - 안전한 MySQL 데이터베이스 운영을 제공하는 Node.js 기반 MySQL 데이터베이스 통합
 - [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) 🏎️ 🏠 – Golang으로 구축된 고성능 다중 데이터베이스 MCP 서버, MySQL & PostgreSQL 지원 (NoSQL 곧 지원 예정). 쿼리 실행, 트랜잭션 관리, 스키마 탐색, 쿼리 빌딩 및 성능 분석을 위한 내장 도구 포함, 향상된 데이터베이스 워크플로우를 위한 원활한 Cursor 통합.
-- [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📇 🏠 - 스키마 검사 및 쿼리 기능을 갖춘 PostgreSQL 데이터베이스 통합
-- [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - 내장 분석 기능을 갖춘 SQLite 데이터베이스 운영
+- [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres) 📇 🏠 - 스키마 검사 및 쿼리 기능을 갖춘 PostgreSQL 데이터베이스 통합
+- [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite) 🐍 🏠 - 내장 분석 기능을 갖춘 SQLite 데이터베이스 운영
 - [@joshuarileydev/supabase-mcp-server](https://github.com/joshuarileydev/supabase) - Supabase에서 프로젝트 및 조직을 관리하고 생성하기 위한 Supabase MCP 서버
 - [@alexanderzuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - SQL 쿼리 실행 및 데이터베이스 탐색 도구를 지원하는 Supabase MCP 서버
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - 스키마 검사 및 쿼리 기능을 갖춘 DuckDB 데이터베이스 통합
@@ -251,6 +255,7 @@
 - [sirmews/mcp-pinecone](https://github.com/sirmews/mcp-pinecone) 🐍 ☁️ - 벡터 검색 기능을 갖춘 Pinecone 통합
 - [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) 🐍 🏠 - PostgreSQL, MySQL, MariaDB, SQLite, Oracle, MS SQL Server 등 다양한 데이터베이스를 지원하는 범용 SQLAlchemy 기반 데이터베이스 통합. 스키마 및 관계 검사, 대규모 데이터셋 분석 기능 제공.
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) 🏎️ 🏠 - 자동 스트리밍, 읽기 전용 안전성 및 범용 데이터베이스 호환성을 갖춘 자연어 PostgreSQL 쿼리.
+- [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍🗄️ - AI 기반 PostgreSQL 성능 튜닝 기능을 제공합니다.
 - [mcp-server-jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) ☕ 🏠 - 모든 JDBC 호환 데이터베이스에 연결하여 쿼리, 삽입, 업데이트, 삭제 등을 수행합니다.
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - Azure Data Explorer 데이터베이스 쿼리 및 분석
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - Prometheus 오픈 소스 모니터링 시스템 쿼리 및 분석.
@@ -270,6 +275,7 @@
 
 개발 워크플로우 및 환경 관리를 향상시키는 도구 및 통합.
 
+- [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - 수많은 코딩 어시스턴트용 시스템 프롬프트를 MCP 도구로 제공하며, 모델 인식 추천과 페르소나 전환으로 Cursor와 Devin 같은 에이전트를 재현합니다.
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - 최고의 21st.dev 디자인 엔지니어에게서 영감을 받은 맞춤형 UI 컴포넌트 생성.
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - [QA Sphere](https://qasphere.com/) 테스트 관리 시스템과의 통합. LLM이 테스트 케이스를 발견, 요약, 상호작용할 수 있도록 하며 AI 기반 IDE에서 직접 접근 가능
 - [Coment-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp) 🎖️ 📇 ☁️ 🏠 - Opik이 캡처한 LLM 관찰 가능성, 추적 및 모니터링 데이터와 자연어로 대화합니다.
@@ -288,6 +294,7 @@
 - [@delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - [Postman API](https://www.postman.com/postman/postman-public-workspace/)와 상호 작용
 - [@vivekvells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - Pandoc을 사용하여 Markdown, HTML, PDF, DOCX(.docx), csv 등 원활한 문서 형식 변환을 위한 MCP 서버.
 - [@pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - 이 MCP 서버는 wget을 사용하여 전체 웹사이트를 다운로드하는 도구를 제공합니다. 웹사이트 구조를 보존하고 로컬에서 작동하도록 링크를 변환합니다.
+- [public-ui/kolibri](https://github.com/public-ui/kolibri) 📇 ☁️ 🏠 - 스트리밍 KoliBri MCP 서버(NPM: `@public-ui/mcp`). 호스팅된 HTTP 엔드포인트나 로컬 `kolibri-mcp` CLI를 통해 보장된 접근성을 갖춘 200개+ 웹 컴포넌트 샘플, 스펙, 문서, 시나리오를 제공합니다.
 - [@lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) 📇 🏠 🛠️ - 동일한 MCP 서버의 여러 격리된 인스턴스가 고유한 네임스페이스와 구성으로 독립적으로 공존할 수 있도록 하는 미들웨어 서버.
 - [@j4c0bs/mcp-server-sql-analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) 🐍 - [SQLGlot](https://github.com/tobymao/sqlglot)을 사용하여 SQL 분석, 린팅 및 방언 변환을 제공하는 MCP 서버
 - [@haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) 🐍 🏠 - 워크북 생성, 데이터 작업, 서식 지정 및 고급 기능(차트, 피벗 테이블, 수식)을 제공하는 Excel 조작 서버.
@@ -311,6 +318,7 @@
 - [HainanZhao/mcp-gitlab-jira](https://github.com/HainanZhao/mcp-gitlab-jira) 📇 ☁️ 🏠 - GitLab 및 Jira용 통합 MCP 서버: AI 에이전트로 프로젝트, 병합 요청, 파일, 릴리스 및 티켓을 관리합니다.
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - GitKraken API와 상호작용하기 위한 CLI입니다. gk mcp를 통해 MCP 서버를 포함하고 있으며, GitKraken API뿐만 아니라 Jira, GitHub, GitLab 등도 래핑합니다. 로컬 도구 및 원격 서비스와 함께 작동합니다.
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP 서버는 MCP 기반으로 구축된 서버로, 사용자가 LLM이 해석한 자연어 명령을 통해 Unitree Go2 로봇을 제어할 수 있도록 해줍니다.
+- [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Claude Code용 Mermaid 다이어그램 렌더링 MCP 서버. 라이브 리로드 기능을 갖추고 있으며 여러 내보내기 형식(SVG, PNG, PDF) 및 테마를 지원합니다.
 
 
 ### 🧮 데이터 과학 도구
@@ -324,7 +332,7 @@
 
 구성 가능한 권한으로 로컬 파일 시스템에 직접 접근을 제공합니다. AI 모델이 지정된 디렉토리 내에서 파일을 읽고, 쓰고, 관리할 수 있게 합니다.
 
-- [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - 로컬 파일 시스템 직접 접근.
+- [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/filesystem) 📇 🏠 - 로컬 파일 시스템 직접 접근.
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - 파일 목록 조회, 읽기 및 검색을 위한 Google Drive 통합
 - [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - AI 네이티브 디렉토리 시각화. 의미 분석, AI 소비를 위한 초압축 형식, 10배 토큰 감소 지원. 지능형 파일 분류를 갖춘 양자 의미 모드 지원.
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - 파일 목록 조회, 읽기 및 검색을 위한 Box 통합
@@ -359,6 +367,7 @@
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ - 암호화폐 가격을 가져오기 위한 Bitget API.
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - baostock 기반 MCP 서버로 중국 주식 시장 데이터에 대한 액세스 및 분석 기능을 제공합니다.
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - CRIC부동산AI 플랫폼에 접속하는 MCP 서버입니다. CRIC부동산AI는 커얼루이가 부동산 업계를 위해 특별히 개발한 지능형 AI 어시스턴트입니다.
+- [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - 이더리움 가상 머신(EVM) JSON-RPC 메서드에 대한 완전한 액세스를 제공하는 MCP 서버. Infura, Alchemy, QuickNode, 로컬 노드 등 모든 EVM 호환 노드 프로바이더와 함께 작동합니다.
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - Polymarket, PredictIt, Kalshi를 포함한 여러 플랫폼의 실시간 예측 시장 데이터를 제공하는 MCP 서버. AI 어시스턴트가 통합된 인터페이스를 통해 현재 배당률, 가격 및 시장 정보를 쿼리할 수 있게 합니다.
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - AI 모델이 비트코인 블록체인을 쿼리할 수 있게 하는 MCP 서버.
 
@@ -376,7 +385,7 @@
 지식 그래프 구조를 사용한 영구 메모리 저장. AI 모델이 세션 간에 구조화된 정보를 유지하고 쿼리할 수 있게 합니다.
 
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - Graph RAG, 벡터 검색, 전문 검색을 결합한 프로덕션급 RAG 플랫폼. 지식 그래프 구축과 컨텍스트 엔지니어링을 위한 최고의 선택
-- [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - 컨텍스트 유지를 위한 지식 그래프 기반 영구 메모리 시스템
+- [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/memory) 📇 🏠 - 컨텍스트 유지를 위한 지식 그래프 기반 영구 메모리 시스템
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - AI 역할극 및 스토리 생성에 중점을 둔 향상된 그래프 기반 메모리
 - [/topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - 다양한 그래프 및 벡터 저장소를 사용하고 30개 이상의 데이터 소스에서 수집을 허용하는 AI 앱 및 에이전트용 메모리 관리자
 - [@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - 벡터 검색을 통해 문서를 검색하고 처리하는 도구를 제공하는 MCP 서버 구현으로, AI 어시스턴트가 관련 문서 컨텍스트로 응답을 보강할 수 있도록 지원합니다.
@@ -388,6 +397,12 @@
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - Google Drive, Notion, JIRA 등과 같은 통합 서비스에 연결된 [Ragie](https://www.ragie.ai) (RAG) 지식 베이스에서 컨텍스트를 검색합니다.
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - MongoDB를 사용하여 여러 LLM의 메모리를 저장하고 검색하는 MCP 서버. 타임스탬프와 LLM 식별을 포함한 대화 메모리의 저장, 검색, 추가 및 삭제를 위한 도구를 제공합니다.
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 다른 AI 모델이 협력하고 대화 간에 컨텍스트를 공유할 수 있게 하는 크로스 LLM 통신 및 메모리 공유를 가능하게 하는 MCP 서버.
+
+### ⚖️ <a name="legal"></a>법률
+
+법적 정보, 법령 및 법률 데이터베이스에 대한 액세스. AI 모델이 법적 문서 및 규제 정보를 검색하고 분석할 수 있게 합니다.
+
+- [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - 포괄적인 미국 법령을 제공하는 MCP 서버.
 
 ### 🗺️ <a name="location-services"></a>위치 서비스
 
@@ -424,9 +439,9 @@
 ### 🔎 <a name="search"></a>검색
 
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless Model Context Protocol 서비스는 MCP 생태계 내에서 떠나지 않고 웹 검색을 가능하게 하는 Google SERP API에 대한 MCP 서버 커넥터 역할을 합니다.
-- [@modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search) 📇 ☁️ - Brave의 검색 API를 사용한 웹 검색 기능
+- [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) 📇 ☁️ - Brave의 검색 API를 사용한 웹 검색 기능
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - NYTimes API를 사용하여 기사 검색
-- [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) 🐍 🏠 ☁️ - AI 소비를 위한 효율적인 웹 콘텐츠 가져오기 및 처리
+- [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/fetch) 🐍 🏠 ☁️ - AI 소비를 위한 효율적인 웹 콘텐츠 가져오기 및 처리
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - Kagi 검색 API 통합
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - Dappier MCP 서버는 신뢰할 수 있는 미디어 브랜드의 뉴스, 금융 시장, 스포츠, 엔터테인먼트, 날씨 등의 프리미엄 데이터와 빠르고 무료인 실시간 웹 검색 기능을 AI 에이전트에 제공합니다.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) 🎖️ 📇 ☁️ – 모델 컨텍스트 프로토콜(MCP) 서버는 Claude와 같은 AI 어시스턴트가 웹 검색을 위해 Exa AI 검색 API를 사용할 수 있게 합니다. 이 설정은 AI 모델이 안전하고 통제된 방식으로 실시간 웹 정보를 얻을 수 있도록 합니다.
@@ -500,10 +515,10 @@ AI 어시스턴트가 다양한 언어 간에 콘텐츠를 번역할 수 있게 
 
 Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표준화된 API를 통해 리포지토리 관리, 코드 분석, 풀 리퀘스트 처리, 이슈 추적 및 기타 버전 관리 작업을 가능하게 합니다.
 
-- [@modelcontextprotocol/server-github](https://github.com/modelcontextprotocol/servers/tree/main/src/github) 📇 ☁️ - 리포지토리 관리, PR, 이슈 등을 위한 GitHub API 통합
-- [@modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) 📇 ☁️ 🏠 - 프로젝트 관리 및 CI/CD 운영을 위한 GitLab 플랫폼 통합
+- [@modelcontextprotocol/server-github](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github) 📇 ☁️ - 리포지토리 관리, PR, 이슈 등을 위한 GitHub API 통합
+- [@modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab) 📇 ☁️ 🏠 - 프로젝트 관리 및 CI/CD 운영을 위한 GitLab 플랫폼 통합
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps 통합, 리포지토리, 작업 항목 및 파이프라인 관리용
-- [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/src/git) 🐍 🏠 - 로컬 리포지토리 읽기, 검색 및 분석을 포함한 직접적인 Git 리포지토리 운영
+- [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/git) 🐍 🏠 - 로컬 리포지토리 읽기, 검색 및 분석을 포함한 직접적인 Git 리포지토리 운영
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - LLM으로 GitHub 리포지토리 읽기 및 분석
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>기타 도구 및 통합
