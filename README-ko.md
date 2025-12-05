@@ -84,6 +84,7 @@
 * 💰 - [금융 및 핀테크](#finance--fintech)
 * 🎮 - [게임](#gaming)
 * 🧠 - [지식 및 메모리](#knowledge--memory)
+* ⚖️ - [법률](#legal)
 * 🗺️ - [위치 서비스](#location-services)
 * 🎯 - [마케팅](#marketing)
 * 📊 - [모니터링](#monitoring)
@@ -395,6 +396,12 @@
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - Google Drive, Notion, JIRA 등과 같은 통합 서비스에 연결된 [Ragie](https://www.ragie.ai) (RAG) 지식 베이스에서 컨텍스트를 검색합니다.
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - MongoDB를 사용하여 여러 LLM의 메모리를 저장하고 검색하는 MCP 서버. 타임스탬프와 LLM 식별을 포함한 대화 메모리의 저장, 검색, 추가 및 삭제를 위한 도구를 제공합니다.
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 다른 AI 모델이 협력하고 대화 간에 컨텍스트를 공유할 수 있게 하는 크로스 LLM 통신 및 메모리 공유를 가능하게 하는 MCP 서버.
+
+### ⚖️ <a name="legal"></a>법률
+
+법적 정보, 법령 및 법률 데이터베이스에 대한 액세스. AI 모델이 법적 문서 및 규제 정보를 검색하고 분석할 수 있게 합니다.
+
+- [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - 포괄적인 미국 법령을 제공하는 MCP 서버.
 
 ### 🗺️ <a name="location-services"></a>위치 서비스
 

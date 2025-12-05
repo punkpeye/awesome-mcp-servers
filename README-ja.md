@@ -91,6 +91,7 @@
 * 💰 - [金融・フィンテック](#finance--fintech)
 * 🎮 - [ゲーミング](#gaming)
 * 🧠 - [知識と記憶](#knowledge--memory)
+* ⚖️ - [法律](#legal)
 * 🗺️ - [位置情報サービス](#location-services)
 * 🎯 - [マーケティング](#marketing)
 * 📊 - [監視](#monitoring)
@@ -431,6 +432,12 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - あなたの [Ragie](https://www.ragie.ai) (RAG) ナレッジベースから、Google Drive、Notion、JIRAなどの連携サービスに接続されたコンテキストを取得します。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - MongoDBを使用して複数のLLMからのメモリを保存・取得するMCPサーバー。タイムスタンプとLLM識別を含む会話メモリの保存、取得、追加、クリアのためのツールを提供します。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 異なるAIモデルが協力し、会話間でコンテキストを共有できるようにするクロスLLM通信とメモリ共有を可能にするMCPサーバー。
+
+### ⚖️ <a name="legal"></a>法律
+
+法的情報、法令、および法律データベースへのアクセス。AIモデルが法的文書や規制情報を検索・分析できるようにします。
+
+- [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - 包括的な米国法令を提供するMCPサーバー。
 
 ### 🗺️ <a name="location-services"></a>位置情報サービス
 
