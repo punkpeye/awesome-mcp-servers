@@ -404,6 +404,7 @@ Serviços baseados em localização e ferramentas de mapeamento. Permite que mod
 
 Ferramentas para criar e editar conteúdo de marketing, trabalhar com meta dados web, posicionamento de produto e guias de edição.
 
+- [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - Um servidor Model Context Protocol para integração com a API do TikTok Ads, permitindo que assistentes de IA gerenciem campanhas, analisem métricas de desempenho, lidem com audiências e criativos através do fluxo de autenticação OAuth.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - Um conjunto de ferramentas de marketing da Open Strategy Partners, incluindo estilo de escrita, códigos de edição e criação de mapa de valor de marketing de produto.
 
 ### 📊 <a name="monitoramento"></a>Monitoramento
