@@ -283,7 +283,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 ### 🤖 <a name="coding-agents"></a>Coding Agents
 
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
-- [Blind Auditor](https://github.com/Sim-xia/Blind-Auditor) - 🐍 🏠 🍎 🪟 🐧 A zero-cost MCP server that forces AI to self-correct generation messages using prompt injection, independent self-audition and context isolation.
+- [sim-xia/blind-auditor](https://github.com/Sim-xia/Blind-Auditor) - 🐍 🏠 🍎 🪟 🐧 A zero-cost MCP server that forces AI to self-correct generation messages using prompt injection, independent self-audition and context isolation.
 - [doggybee/mcp-server-leetcode](https://github.com/doggybee/mcp-server-leetcode) 📇 ☁️ - An MCP server that enables AI models to search, retrieve, and solve LeetCode problems. Supports metadata filtering, user profiles, submissions, and contest data access.
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍 🏠 - Coding agent with basic read, write and command line tools.
 - [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) 🦀 🏠 - A high-performance Rust reimplementation of WCGW for code agents, providing shell execution and advanced file management capabilities for LLMs via MCP.
