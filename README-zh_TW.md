@@ -77,6 +77,7 @@
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [遊戲](#gaming)
 * 🧠 - [知識與記憶](#knowledge--memory)
+* ⚖️ - [法律](#legal)
 * 🗺️ - [位置服務](#location-services)
 * 🎯 - [行銷](#marketing)
 * 📊 - [監測](#monitoring)
@@ -343,6 +344,12 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - 從您的 [Ragie](https://www.ragie.ai) (RAG) 知識庫中檢索上下文，可連接至 Google Drive、Notion、JIRA 等多種整合服務。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - 一個 MCP 伺服器，使用 MongoDB 儲存和檢索來自多個 LLM 的記憶。提供用於儲存、檢索、新增和清除帶有時間戳和 LLM 識別的對話記憶的工具。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 一個 MCP 伺服器，實現跨 LLM 通訊和記憶共享，使不同的 AI 模型能夠在對話間協作和共享上下文。
+
+### ⚖️ <a name="legal"></a>法律
+
+訪問法律資訊、法規和法律數據庫。使 AI 模型能夠搜尋和分析法律文件和監管資訊。
+
+- [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - 一個提供全面美國法規的 MCP 伺服器。
 
 ### 🗺️ <a name="location-services"></a>位置服務
 
