@@ -235,6 +235,7 @@
 - [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) 🏎️ 🏠 – Golang으로 구축된 고성능 다중 데이터베이스 MCP 서버, MySQL & PostgreSQL 지원 (NoSQL 곧 지원 예정). 쿼리 실행, 트랜잭션 관리, 스키마 탐색, 쿼리 빌딩 및 성능 분석을 위한 내장 도구 포함, 향상된 데이터베이스 워크플로우를 위한 원활한 Cursor 통합.
 - [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) 📇 🏠 - 스키마 검사 및 쿼리 기능을 갖춘 PostgreSQL 데이터베이스 통합
 - [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) 🐍 🏠 - 내장 분석 기능을 갖춘 SQLite 데이터베이스 운영
+- [mysqltuner_mcp](https://github.com/isdaniel/mysqltuner_mcp) 🐍🗄️ - MySQL MCP 성능 튜닝 서버 - AI 기반 MySQL 성능 튜닝 기능.
 - [@joshuarileydev/supabase-mcp-server](https://github.com/joshuarileydev/supabase) - Supabase에서 프로젝트 및 조직을 관리하고 생성하기 위한 Supabase MCP 서버
 - [@alexanderzuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - SQL 쿼리 실행 및 데이터베이스 탐색 도구를 지원하는 Supabase MCP 서버
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - 스키마 검사 및 쿼리 기능을 갖춘 DuckDB 데이터베이스 통합
