@@ -110,6 +110,7 @@
 ### 📂 <a name="browser-automation"></a>브라우저 자동화
 
 웹 콘텐츠 접근 및 자동화 기능. AI 친화적인 형식으로 웹 콘텐츠 검색, 스크래핑 및 처리를 가능하게 합니다.
+- [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) 🦀 - Rust로 작성된 의존성 없는 경량 브라우저 자동화 MCP 서버.
 - [@blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🌐 - Playwright를 사용한 브라우저 자동화를 위한 MCP 파이썬 서버, llm에 더 적합
 - [@executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 🌐⚡️ - 브라우저 자동화 및 웹 스크래핑을 위해 Playwright를 사용하는 MCP 서버
 - [@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🌐 🖱️ - Playwright를 사용한 브라우저 자동화를 위한 MCP 서버
