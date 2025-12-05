@@ -87,6 +87,7 @@
 * 💰 - [金融与金融科技](#finance--fintech)
 * 🎮 - [游戏](#gaming)
 * 🧠 - [知识与记忆](#knowledge--memory)
+* ⚖️ - [法律](#legal)
 * 🗺️ - [位置服务](#location-services)
 * 🎯 - [营销](#marketing)
 * 📊 - [监测](#monitoring)
@@ -428,6 +429,12 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [@upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - 最新的LLM和AI代码编辑器的代码文档。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - 一个MCP服务器，使用MongoDB存储和检索来自多个LLM的记忆。提供保存、检索、添加和清除带有时间戳和LLM识别的对话记忆的工具。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 一个MCP服务器，实现跨LLM通信和记忆共享，使不同的AI模型能够在对话间协作和共享上下文。
+
+### ⚖️ <a name="legal"></a>法律
+
+访问法律信息、法规和法律数据库。使 AI 模型能够搜索和分析法律文件和监管信息。
+
+- [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - 一个提供全面美国法规的 MCP 服务器。
 
 ### 🗺️ <a name="location-services"></a>位置服务
 
