@@ -102,6 +102,7 @@
 ### 📂 <a name="browser-automation"></a>瀏覽器自動化
 
 Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和處理 Web 內容。
+- [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) 🦀 - 由 Rust 打造的輕量級瀏覽器自動化 MCP 伺服器，無需任何外部相依。
 - [@blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🌐 - 使用 Playwright 進行瀏覽器自動化的 MCP 伺服器，更適合llm
 * [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) 🏎️ 🏠 🍎 🐧 🪟 - 全功能 YouTube MCP 伺服器和命令行工具，自動化 YouTube 營運
 - [@executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 🌐⚡️ - 使用 Playwright 進行瀏覽器自動化和網頁抓取的 MCP 伺服器
