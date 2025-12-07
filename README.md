@@ -1396,3 +1396,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+* [Tenets](https://github.com/jddunn/tenets) - Offline MCP server that runs locally on your machine. It looks through your codebase to find and rank relevant files using BM25, TF-IDF, embeddings and git metadata. It distills them into concise summaries for AI assistants and lets you set your own tenets (coding guidelines) which it adds to each prompt. Since it runs offline, your code never leaves your computer.
