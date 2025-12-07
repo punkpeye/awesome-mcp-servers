@@ -10,6 +10,9 @@
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
+> [!IMPORTANT]
+> Read [The State of MCP in 2025](https://glama.ai/blog/2025-12-07-the-state-of-mcp-in-2025) report.
+
 A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [What is MCP?](#what-is-mcp)
