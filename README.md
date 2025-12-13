@@ -521,6 +521,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 Tools and integrations that enhance the development workflow and environment management.
 
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - Create crafted UI components inspired by the best 21st.dev design engineers.
+- [AaronVick/ECHO_RIFT_MCP](https://github.com/AaronVick/ECHO_RIFT_MCP) 📇 ☁️ - MCP server for EchoRift infrastructure primitives (BlockWire, CronSynth, Switchboard, Arbiter). Makes EchoRift's agent infrastructure callable as MCP tools so any MCP client can treat EchoRift like a native capability layer.
 - [louis030195/gptzero-mcp](https://github.com/louis030195/gptzero-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI detection for text content with GPTZero API. Detect AI-generated text, get confidence scores, multilingual support (French/Spanish), and detailed probability breakdowns.
 - [aashari/mcp-server-atlassian-bitbucket](https://github.com/aashari/mcp-server-atlassian-bitbucket) 📇 ☁️ - Atlassian Bitbucket Cloud integration. Enables AI systems to interact with repositories, pull requests, workspaces, and code in real time.
 - [aashari/mcp-server-atlassian-confluence](https://github.com/aashari/mcp-server-atlassian-confluence) 📇 ☁️ - Atlassian Confluence Cloud integration. Enables AI systems to interact with Confluence spaces, pages, and content with automatic ADF to Markdown conversion.
