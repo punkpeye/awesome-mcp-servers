@@ -866,6 +866,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
+- [@tbusd/escrow-mcp](https://www.npmjs.com/package/@tbusd/escrow-mcp) 📇 ☁️ - Trustless escrow payments for AI agents on Base blockchain using TBUSD stablecoin. 9 tools for creating, funding, and releasing escrows programmatically.
 
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) #️⃣ 🏠 - MCP Server for Unity3d Game Engine integration for game development
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - A MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
