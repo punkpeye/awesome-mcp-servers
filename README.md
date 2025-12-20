@@ -447,6 +447,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [InfluxData/influxdb3_mcp_server](https://github.com/influxdata/influxdb3_mcp_server) 🎖️ 📇 🏠 ☁️ - Official MCP server for InfluxDB 3 Core/Enterprise/Cloud Dedicated
 - [isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server) 🐍 ☁️ - Snowflake integration implementing read and (optional) write operations as well as insight tracking
 - [iunera/druid-mcp-server](https://github.com/iunera/druid-mcp-server) ☕ ☁️ 🏠 - Comprehensive MCP server for Apache Druid that provides extensive tools, resources, and prompts for managing and analyzing Druid clusters.
+- [JaviMaligno/postgres_mcp](https://github.com/JaviMaligno/postgres_mcp) 🐍 🏠 - PostgreSQL MCP server with 14 tools for querying, schema exploration, and table analysis. Features security-first design with SQL injection prevention and read-only by default.
 - [yannbrrd/simple_snowflake_mcp](https://github.com/YannBrrd/simple_snowflake_mcp) 🐍 ☁️ - Simple Snowflake MCP server that works behind a corporate proxy. Read and write (optional) operations
 - [joshuarileydev/supabase-mcp-server](https://github.com/joshuarileydev/supabase) - Supabase MCP Server for managing and creating projects and organisations in Supabase
 - [jovezhong/mcp-timeplus](https://github.com/jovezhong/mcp-timeplus) 🐍 ☁️ - MCP server for Apache Kafka and Timeplus. Able to list Kafka topics, poll Kafka messages, save Kafka data locally and query streaming data with SQL via Timeplus
@@ -1231,6 +1232,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - Read and analyze GitHub repositories with your LLM
 - [ddukbg/github-enterprise-mcp](https://github.com/ddukbg/github-enterprise-mcp) 📇 ☁️ 🏠 - MCP server for GitHub Enterprise API integration
 - [gitea/gitea-mcp](https://gitea.com/gitea/gitea-mcp) 🎖️ 🏎️ ☁️ 🏠 🍎 🪟 🐧 - Interactive with Gitea instances with MCP.
+- [JaviMaligno/mcp-server-bitbucket](https://github.com/JaviMaligno/mcp-server-bitbucket) 🐍 ☁️ - Bitbucket MCP server with 58 tools for repository management, pull requests, pipelines, branches, commits, deployments, webhooks, tags, branch restrictions, and source browsing.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) 📇 ☁️ - Official GitHub server for integration with repository management, PRs, issues, and more.
 - [kaiyuanxiaobing/atomgit-mcp-server](https://github.com/kaiyuanxiaobing/atomgit-mcp-server) 📇 ☁️ - Official AtomGit server for integration with repository management, PRs, issues, branches, labels, and more.
 - [kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp) 📇 ☁️ - Interact seamlessly with issues and merge requests of your GitLab projects.
