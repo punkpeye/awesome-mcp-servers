@@ -1106,7 +1106,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [boikot-xyz/boikot](https://github.com/boikot-xyz/boikot) 🦀☁️ - Model Context Protocol Server for looking up company ethics information. Learn about the ethical and unethical actions of major companies.
 
 ### 🔒 <a name="security"></a>Security
-
+- [faalantir/mcp-agent-identity](https://github.com/faalantir/mcp-agent-identity) - Open standard for cryptographic provenance and attribution for AI Agents .
 - [82ch/MCP-Dandan](https://github.com/82ch/MCP-Dandan) 🐍 📇 🏠 🍎 🪟 🐧 - Real-time security framework for MCP servers that detects and blocks malicious AI agent behavior by analyzing tool call patterns and intent across multiple threat detection engines.
 - [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) ☁️ - Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the agent with tools it would never use in its normal work.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - MCP server for integrating Ghidra with AI assistants. This plugin enables binary analysis, providing tools for function inspection, decompilation, memory exploration, and import/export analysis via the Model Context Protocol.
