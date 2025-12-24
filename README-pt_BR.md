@@ -341,6 +341,7 @@ Acesso a dados financeiros e ferramentas de análise. Permite que modelos de IA 
 - [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) 📇 ☁️ - API Bankless Onchain para interagir com contratos inteligentes, consultar informações de transações e tokens
 - [base/base-mcp](https://github.com/base/base-mcp) 🎖️ 📇 ☁️ - Integração com a Rede Base para ferramentas onchain, permitindo interação com a Rede Base e API Coinbase para gerenciamento de carteiras, transferências de fundos, contratos inteligentes e operações DeFi
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Integração com a API Alpha Vantage para buscar informações tanto de ações quanto de criptomoedas
+- [defeatbeta-api MCP](https://github.com/defeat-beta/defeatbeta-api/tree/main/mcp) 🚀 💹 🤖 📊 - Defeat Beta API fornece gratuitamente e sem limites cotações e dados fundamentais ricos do mercado de ações dos EUA, acessíveis via interface MCP para análise e negociação por LLM AI.
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - Pontuação de risco / participações de ativos de endereço de blockchain EVM (EOA, CA, ENS) e até mesmo nomes de domínio.
 - [bitteprotocol/mcp](https://github.com/BitteProtocol/mcp) 📇 - Integração com o Bitte Protocol para executar Agentes de IA em várias blockchains.
 - [chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 🎖️ 📇 ☁️ - Servidor MCP que conecta agentes de IA à [plataforma Chargebee](https://www.chargebee.com/).
