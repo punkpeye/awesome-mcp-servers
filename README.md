@@ -1394,6 +1394,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK in Rust
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
+- [OPUS 67](https://github.com/icm-motion/gICM) - Skill management system with 593+ components. MCP tools for dynamic context loading and multi-step workflows.
 
 ## Tips and Tricks
 
