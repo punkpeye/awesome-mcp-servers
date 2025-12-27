@@ -666,6 +666,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [WiseVision/mcp_server_ros_2](https://github.com/wise-vision/mcp_server_ros_2) 🐍 🤖 - MCP server for ROS2 enabling AI-driven robotics applications and services.
 - [Wooonster/hocr_mcp_server](https://github.com/Wooonster/hocr_mcp_server) 🐍 🏠 – A fastAPI-based FastMCP server with a Vue frontend that sends uploaded images to VLM via the MCP to quickly extract handwritten mathematical formulas as clean LaTeX code.
 - [wn01011/llm-token-tracker](https://github.com/wn01011/llm-token-tracker) 📇 🏠 🍎 🪟 🐧 - Token usage tracker for OpenAI and Claude APIs with MCP support, real-time session tracking, and accurate pricing for 2025 models
+- [wyattjoh/jsr-mcp](https://github.com/wyattjoh/jsr-mcp) 📇 ☁️ - Model Context Protocol server for the JSR (JavaScript Registry)
 - [xcodebuild](https://github.com/ShenghaiWang/xcodebuild) 🍎 Build iOS Xcode workspace/project and feed back errors to llm.
 - [XixianLiang/HarmonyOS-mcp-server](https://github.com/XixianLiang/HarmonyOS-mcp-server) 🐍 🏠 - Control HarmonyOS-next devices with AI through MCP. Support device control and UI automation.
 - [xzq.xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) 📇 🏠  - An implementation project of a JVM-based MCP (Model Context Protocol) server.
