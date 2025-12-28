@@ -2,7 +2,7 @@
 
 Servers providing data or services related to flights, trains, transportation APIs, or travel planning.
 
-- [ckorhonen/mta-mcp](https://github.com/ckorhonen/mta-mcp): Provides real-time NYC subway arrivals, service status, alerts, station search, and trip planning capabilities. Live at [subwayinfo.nyc](https://subwayinfo.nyc)
+- [ckorhonen/mta-mcp](https://subwayinfo.nyc): Provides real-time NYC subway arrivals, service status, alerts, station search, and trip planning capabilities.
 - [RikGmee/searchAPI-mcp](https://github.com/RikGmee/searchAPI-mcp): Facilitates complex travel planning by integrating flight, hotel, and map services through a multi-context protocol server.
 - [achel-b8/rakuten-hotel-search-mcp](https://github.com/achel-b8/rakuten-hotel-search-mcp): Facilitates hotel availability searches using Rakuten Travel's API, providing results based on specified criteria such as check-in dates and location.
 - [ralf-boltshauser/sbb-mcp-server](https://github.com/ralf-boltshauser/sbb-mcp-server): A TypeScript starter project for building MCP servers with an echo server implementation, supporting both STDIO and SSE communication modes.
