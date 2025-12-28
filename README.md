@@ -1217,7 +1217,7 @@ Access to travel and transportation information. Enables querying schedules, rou
 
 - [campertunity/mcp-server](https://github.com/campertunity/mcp-server) 🎖️ 📇 🏠 - Search campgrounds around the world on campertunity, check availability, and provide booking links
 - [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) 🐍 🏠 - A Model Context Protocol (MCP) server that provides access to your TeslaMate database, allowing AI assistants to query Tesla vehicle data and analytics.
-- [ckorhonen/mta-mcp](https://github.com/ckorhonen/mta-mcp) 📇 ☁️ - Real-time NYC subway arrivals, service status, alerts, station search, and trip planning via MCP
+- [ckorhonen/mta-mcp](https://subwayinfo.nyc) 📇 ☁️ - Real-time NYC subway arrivals, service status, alerts, station search, and trip planning via MCP
 - [KyrieTangSheng/mcp-server-nationalparks](https://github.com/KyrieTangSheng/mcp-server-nationalparks) 📇 ☁️ - National Park Service API integration providing latest information of park details, alerts, visitor centers, campgrounds, and events for U.S. National Parks
 - [lucygoodchild/mcp-national-rail](https://github.com/lucygoodchild/mcp-national-rail) 📇 ☁️ - An MCP server for UK National Rail trains service, providing train schedules and live travel information, intergrating the Realtime Trains API
 - [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) 📇 ☁️ - Provides tools to search Airbnb and get listing details.
