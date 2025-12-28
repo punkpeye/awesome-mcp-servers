@@ -380,6 +380,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 金融数据访问和加密货币市场信息。支持查询实时市场数据、加密货币价格和财务分析。
 
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) 🎖️ ⛅️ 🏠 🐍 - 通过Heurist Mesh网络访问专业化的web3 AI代理，用于区块链分析、智能合约安全审计、代币指标评估及链上交互。提供全面的DeFi分析工具、NFT估值及跨多链交易监控功能
+- [hoqqun/stooq-mcp](https://github.com/hoqqun/stooq-mcp) 🦀 ☁️ - 无需API密钥即可从Stooq获取实时股票价格。支持全球市场（美国、日本、英国、德国）。
 - [iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - 在你的 LLM 中进行复式纯文本记账！这个 MCP 提供对本地 [HLedger](https://hledger.org/) 记账日记账的全面读取，以及（可选的）写入访问。
 - [@base/base-mcp](https://github.com/base/base-mcp) 🎖️ 📇 ☁️ - 集成Base网络的链上工具，支持与Base网络及Coinbase API交互，实现钱包管理、资金转账、智能合约和DeFi操作
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - 使用 CoinCap 的公共 API 集成实时加密货币市场数据，无需 API 密钥即可访问加密货币价格和市场信息
