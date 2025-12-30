@@ -425,6 +425,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - 增强基于图形的记忆，重点关注 AI 角色扮演和故事生成
 - [/topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - AI应用程序和Agent的内存管理器使用各种图存储和向量存储，并允许从 30 多个数据源提取数据
 - [@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - MCP 服务器实现提供了通过矢量搜索检索和处理文档的工具，使 AI 助手能够利用相关文档上下文来增强其响应能力
+- [Ideas-Net-Studio/mcp-shared-memory](https://github.com/Ideas-Net-Studio/mcp-shared-memory) 📇 🏠 🍎 🪟 🐧 - 一个可共享的内存管理系统，适用于 MCP 工具和团队。提供结构化内存存储，可跨多个 AI 工具和团队成员共享，具有 Git 集成功能，支持协作式内存构建和版本控制。
 - [@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) 📇 ☁️ - 为 LLM 提供的连接器，用于操作 Zotero Cloud 上的文献集合和资源
 - [mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI摘要生成MCP服务器，支持多种内容类型：纯文本、网页、PDF文档、EPUB电子书、HTML内容
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - 生产级RAG平台，结合Graph RAG、向量搜索和全文搜索。构建知识图谱和上下文工程的最佳选择
