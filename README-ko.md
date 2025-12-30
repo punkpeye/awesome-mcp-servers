@@ -393,6 +393,7 @@
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - AI 역할극 및 스토리 생성에 중점을 둔 향상된 그래프 기반 메모리
 - [/topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - 다양한 그래프 및 벡터 저장소를 사용하고 30개 이상의 데이터 소스에서 수집을 허용하는 AI 앱 및 에이전트용 메모리 관리자
 - [@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - 벡터 검색을 통해 문서를 검색하고 처리하는 도구를 제공하는 MCP 서버 구현으로, AI 어시스턴트가 관련 문서 컨텍스트로 응답을 보강할 수 있도록 지원합니다.
+- [Ideas-Net-Studio/mcp-shared-memory](https://github.com/Ideas-Net-Studio/mcp-shared-memory) 📇 🏠 🍎 🪟 🐧 - MCP 지원 도구 및 팀을 위한 공유 가능한 메모리 관리 시스템. 여러 AI 도구와 팀 구성원 간에 공유할 수 있는 구조화된 메모리 저장소를 제공하며, Git 통합을 통해 협업적인 메모리 구축 및 버전 관리를 지원합니다.
 - [jinzcdev/markmap-mcp-server](https://github.com/jinzcdev/markmap-mcp-server) 📇 🏠 - [markmap](https://github.com/markmap/markmap)을 기반으로 구축된 MCP 서버로, **Markdown**을 대화형 **마인드맵**으로 변환합니다. 다양한 형식(PNG/JPG/SVG) 내보내기, 브라우저 실시간 미리보기, 원클릭 Markdown 복사 및 동적 시각화 기능을 지원합니다.
 - [@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) 📇 ☁️ - LLM이 Zotero 클라우드의 컬렉션 및 소스와 함께 작업할 수 있도록 하는 커넥터
 - [mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI 요약 MCP 서버, 여러 콘텐츠 유형 지원: 일반 텍스트, 웹 페이지, PDF 문서, EPUB 책, HTML 콘텐츠

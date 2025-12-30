@@ -429,6 +429,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 知識グラフ構造を使用した永続的なメモリストレージ。セッション間で構造化情報を維持およびクエリすることができます。
 
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - Graph RAG、ベクトル検索、フルテキスト検索を組み合わせた本格的なRAGプラットフォーム。知識グラフ構築とコンテキストエンジニアリングに最適
+- [Ideas-Net-Studio/mcp-shared-memory](https://github.com/Ideas-Net-Studio/mcp-shared-memory) 📇 🏠 🍎 🪟 🐧 - MCP対応ツールとチーム向けの共有可能なメモリ管理システム。複数のAIツールとチームメンバー間で共有できる構造化メモリストレージを提供し、Git統合による協力的なメモリ構築とバージョン管理をサポートします。
 - [jinzcdev/markmap-mcp-server](https://github.com/jinzcdev/markmap-mcp-server) 📇 🏠 - [markmap](https://github.com/markmap/markmap) を基にしたMCPサーバーで、**Markdown**をインタラクティブな**マインドマップ**に変換します。複数のフォーマット（PNG/JPG/SVG）でのエクスポート、ブラウザでのリアルタイムプレビュー、ワンクリックでのMarkdownコピー、ダイナミックな視覚化機能をサポートしています。
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/memory) 📇 🏠 - コンテキストを維持するための知識グラフベースの長期記憶システム
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - AIロールプレイとストーリー生成に焦点を当てた強化されたグラフベースのメモリ
