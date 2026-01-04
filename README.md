@@ -746,7 +746,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Access any storage with Apache OpenDAL™
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
-
+- [ARUNMOZHI-27/subscription-intelligence](https://github.com/ARUNMOZHI-27/subscription-intelligence) 🧠 💸 – Autonomous subscription monitoring MCP server that detects billing risks, duplicate subscriptions, and budget overruns using rule-based logic, with LLM-powered human explanations.
 - [Regenerating-World/pix-mcp](https://github.com/Regenerating-World/pix-mcp) 📇 ☁️ - Generate Pix QR codes and copy-paste strings with fallback across multiple providers (Efí, Cielo, etc.) for Brazilian instant payments.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) 📇 ☁️ - Deep Research for crypto - free & fully local
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - Risk score / asset holdings of EVM blockchain address (EOA, CA, ENS) and even domain names.
@@ -971,6 +971,9 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [stape-io/stape-mcp-server](https://github.com/stape-io/stape-mcp-server) 📇 ☁️ – This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.
 - [stape-io/google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) 📇 ☁️ – This server supports remote MCP connections, includes built-in Google OAuth, and provide an interface to the Google Tag Manager API.
 - [tomba-io/tomba-mcp-server](https://github.com/tomba-io/tomba-mcp-server) 📇 ☁️ - Email discovery, verification, and enrichment tools. Find email addresses, verify deliverability, enrich contact data, discover authors and LinkedIn profiles, validate phone numbers, and analyze technology stacks.
+- **Subscription Intelligence MCP** – Autonomous subscription monitoring agent that detects billing risks, duplicate subscriptions, and budget overruns using rule-based logic, with LLM-powered explanations.  
+  https://github.com/ARUNMOZHI-27/subscription-intelligence
+- 
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
