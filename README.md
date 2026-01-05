@@ -1399,6 +1399,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK in Rust
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
+- [HasMCP](https://github.com/hasmcp/hasmcp-ce) 📇 ☁️ - API endpoints to MCP server in seconds. Convert your API to MCP server with built-in authentication, authorization, real-time request/response logs and metrics. HasMCP is a no-code, self-hosted API to MCP server bridge.
 
 ## Tips and Tricks
 
