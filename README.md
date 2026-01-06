@@ -665,6 +665,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [st3v3nmw/sourcerer-mcp](https://github.com/st3v3nmw/sourcerer-mcp) 🏎️ ☁️ - MCP for semantic code search & navigation that reduces token waste
 - [stass/lldb-mcp](https://github.com/stass/lldb-mcp) 🐍 🏠 🐧 🍎 - A MCP server for LLDB enabling AI binary and core file analysis, debugging, disassembling.
 - [storybookjs/addon-mcp](https://github.com/storybookjs/addon-mcp) 📇 🏠 - Help agents automatically write and test stories for your UI components.
+- [TamarEngel/jira-github-mcp](https://github.com/TamarEngel/jira-github-mcp) - MCP server that integrates Jira and GitHub to automate end-to-end developer workflows, from issue tracking to branches, commits, pull requests, and merges inside the IDE.
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 - [tgeselle/bugsnag-mcp](https://github.com/tgeselle/bugsnag-mcp) 📇 ☁️ - An MCP server for interacting with [Bugsnag](https://www.bugsnag.com/)
 - [Tommertom/awesome-ionic-mcp](https://github.com/Tommertom/awesome-ionic-mcp) 📇 🏠 - Your Ionic coding buddy enabled via MCP – build awesome mobile apps using React/Angular/Vue or even Vanilla JS!
