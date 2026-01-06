@@ -670,7 +670,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [Tommertom/awesome-ionic-mcp](https://github.com/Tommertom/awesome-ionic-mcp) 📇 🏠 - Your Ionic coding buddy enabled via MCP – build awesome mobile apps using React/Angular/Vue or even Vanilla JS!
 - [tipdotmd/tip-md-x402-mcp-server](https://github.com/tipdotmd/tip-md-x402-mcp-server) 📇 ☁️ - MCP server for cryptocurrency tipping through AI interfaces using x402 payment protocol and CDP Wallet.
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) 🐍 🏠 - A line-oriented text file editor. Optimized for LLM tools with efficient partial file access to minimize token usage.
-- [dorukardahan/twitterapi-docs-mcp](https://github.com/dorukardahan/twitterapi-docs-mcp) 📇 🏠 - Offline access to TwitterAPI.io documentation for AI assistants. 52 API endpoints, guides, pricing info, and authentication docs.
+- [dorukardahan/twitterapi-io-mcp](https://github.com/dorukardahan/twitterapi-io-mcp) 📇 🏠 - Offline-first MCP server for TwitterAPI.io docs (endpoints, pages, blogs) with fast fuzzy search. Deprecated wrapper: twitterapi-docs-mcp.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) 🐍 🏠 - MCP server providing accurate information about NixOS packages, system options, Home Manager configurations, and nix-darwin macOS settings to prevent AI hallucinations.
 - [valado/pantheon-mcp](https://github.com/valado/pantheon-mcp) 🤖 - MCP server providing task specific agentic instructions. No more outdated Markdown files and synchronisation overhead.
 - [var-gg/mcp](https://github.com/var-gg/mcp) 📇 ☁️ - Enforces team naming consistency for AI-generated code via Cursor MCP integration. [Guide ↗](https://var.gg)
