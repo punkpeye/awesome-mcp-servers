@@ -350,6 +350,7 @@
 금융 데이터 접근 및 암호화폐 시장 정보. 실시간 시장 데이터, 암호화폐 가격 및 금융 분석 쿼리를 가능하게 합니다.
 
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) 🎖️ ⛅️ 🏠 🐍 - Heurist Mesh 네트워크를 통해 블록체인 분석, 스마트 계약 보안 감사, 토큰 메트릭 평가 및 온체인 상호 작용을 위한 특화된 웹3 AI 에이전트에 접근합니다. 여러 블록체인에 걸쳐 DeFi 분석, NFT 가치 평가 및 트랜잭션 모니터링을 위한 포괄적인 도구를 제공합니다.
+- [hoqqun/stooq-mcp](https://github.com/hoqqun/stooq-mcp) 🦀 ☁️ - API 키 없이 Stooq에서 실시간 주식 가격을 가져옵니다. 글로벌 시장(미국, 일본, 영국, 독일)을 지원합니다.
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - LLM에서 바로 사용할 수 있는 더블 엔트리(복식부기) 순수 텍스트 회계! 이 MCP는 로컬 [HLedger](https://hledger.org/) 회계 저널에 대한 포괄적인 읽기 접근과 (선택적으로) 쓰기 접근을 제공합니다.
 - [@base/base-mcp](https://github.com/base/base-mcp) 🎖️ 📇 ☁️ - 온체인 도구를 위한 Base 네트워크 통합으로, Base 네트워크 및 Coinbase API와 상호 작용하여 지갑 관리, 자금 이체, 스마트 계약 및 DeFi 운영 가능
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - CoinCap의 공개 API를 사용한 실시간 암호화폐 시장 데이터 통합으로, API 키 없이 암호화폐 가격 및 시장 정보 접근 제공
