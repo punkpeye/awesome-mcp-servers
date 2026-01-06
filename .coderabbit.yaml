@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=https://coderabbit.ai/integrations/schema.v2.json
+# Documentation: https://docs.coderabbit.ai/reference/configuration
+language: "en-US"
+early_access: false
+reviews:
+  profile: "chill"
+  request_changes_workflow: false
+  high_level_summary: true
+  high_level_summary_instructions: |
+    Summary should always contains what and why and how part. 
+    Use the imperative mood ("Fix bug" vs. "Fixed bug").
+    Focus the body on the reason for the change rather than the technical implementation.
+  poem: true
+  review_status: true
+  collapse_walkthrough: true
+  auto_review:
+    enabled: false
+    drafts: false
+    labels: ["coderabbit-review", "!ignore-coderabbit"]
+chat:
+  auto_reply: true
