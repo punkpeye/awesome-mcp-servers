@@ -194,6 +194,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 
 ### <a name="bio"></a>Biology, Medicine and Bioinformatics
 
+- [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) 🐍 🏠 - MCP server for spatial transcriptomics analysis with 60+ integrated methods covering cell annotation, deconvolution, spatial statistics, and visualization.
 - [dnaerys/onekgp-mcp](https://github.com/dnaerys/onekgp-mcp) ☕ ☁️ - natural language access to 1000 Genomes Project dataset
 - [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - Biomedical research MCP server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info.
 - [hlydecker/ucsc-genome-mcp](https://github.com/hlydecker/ucsc-genome-mcp) 🐍 ☁️ - MCP server to interact with the UCSC Genome Browser API, letting you find genomes, chromosomes, and more.
