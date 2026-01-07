@@ -21,6 +21,7 @@ Servers accessing scientific databases, research platforms, or providing tools f
 - [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp): Facilitates interaction with Kaggle by providing tools for dataset search, download, and EDA notebook generation via the Model Context Protocol.
 - [mila-iqia/paperpal](https://github.com/mila-iqia/paperpal): Enhance your literature review process by integrating LLMs with arXiv and Hugging Face papers for seamless paper discussions and organization.
 - [huang-sh/scanpy-mcp](https://github.com/huang-sh/scanpy-mcp): Facilitates natural language-driven scRNA-Seq analysis using Scanpy, enabling seamless integration with AI clients and agent frameworks.
+- [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial): Enables spatial transcriptomics analysis through natural language, integrating 60+ methods for spatial domains, deconvolution, cell communication, and trajectory analysis across Visium, Xenium, MERFISH and more.
 - [datalayer/jupyter-earth-mcp-server](https://github.com/datalayer/jupyter-earth-mcp-server): Facilitates geospatial analysis in Jupyter notebooks by integrating NASA Earthdata with Model Context Protocol.
 - [fdmocho/mcp_server_nasa](https://github.com/fdmocho/mcp_server_nasa): Facilitates integration with NASA's Near Earth Object API, enabling date-specific data retrieval through an MCP server setup.
 - [hiyenwong/arxiv_mcp](https://github.com/hiyenwong/arxiv_mcp): Facilitates the search and interpretation of academic papers from arXiv using MCP technology.
