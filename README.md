@@ -1205,6 +1205,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 Tools for accessing sports-related data, results, and statistics.
 
 - [guillochon/mlb-api-mcp](https://github.com/guillochon/mlb-api-mcp) 🐍 🏠 - MCP server that acts as a proxy to the freely available MLB API, which provides player info, stats, and game information.
+- [JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp) 🐍 🏠 - Query TrainingPeaks workouts, analyze CTL/ATL/TSB fitness metrics, and compare power/pace PRs through Claude Desktop.
 - [mikechao/balldontlie-mcp](https://github.com/mikechao/balldontlie-mcp) 📇 - MCP server that integrates balldontlie api to provide information about players, teams and games for the NBA, NFL and MLB
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - Access cycling race data, results, and statistics through natural language. Features include retrieving start lists, race results, and rider information from firstcycling.com.
 - [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) 📇 ☁️ - A Model Context Protocol (MCP) server that connects to Strava API, providing tools to access Strava data through LLMs
