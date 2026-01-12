@@ -822,6 +822,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [kukapay/dao-proposals-mcp](https://github.com/kukapay/dao-proposals-mcp) 🐍 ☁️ - An MCP server that aggregates live governance proposals from major DAOs.
 - [kukapay/defi-yields-mcp](https://github.com/kukapay/defi-yields-mcp) 🐍 ☁️ - An MCP server for AI agents to explore DeFi yield opportunities.
 - [kukapay/dex-pools-mcp](https://github.com/kukapay/dex-pools-mcp) 🐍 ☁️ - An MCP server that provides AI agents with real-time access to DEX liquidity pool data.
+- [kukapay/dexscreener-trending-mcp](https://github.com/kukapay/dexscreener-trending-mcp) 📇 ☁️ - Provides real-time trending tokens from DexScreener.
 - [kukapay/dune-analytics-mcp](https://github.com/kukapay/dune-analytics-mcp) 🐍 ☁️ -  A mcp server that bridges Dune Analytics data to AI agents.
 - [kukapay/etf-flow-mcp](https://github.com/kukapay/etf-flow-mcp) 🐍 ☁️ -  Delivering crypto ETF flow data to power AI agents' decision-making.
 - [kukapay/ethereum-validator-queue-mcp](https://github.com/kukapay/ethereum-validator-queue-mcp) 🐍 ☁️ -  An MCP server that tracks Ethereum’s validator activation and exit queues in real time.
