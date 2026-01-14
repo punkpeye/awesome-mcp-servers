@@ -26,7 +26,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Server Implementations](#server-implementations)
 * [Frameworks](#frameworks)
 * [Tips & Tricks](#tips-and-tricks)
-
+* 
 ## What is MCP?
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
@@ -866,10 +866,11 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - Real-time cryptocurrency market data integration using CoinCap's public API, providing access to crypto prices and market information without API keys
 - [QuentinCody/braintree-mcp-server](https://github.com/QuentinCody/braintree-mcp-server) 🐍 - Unofficial PayPal Braintree payment gateway MCP Server for AI agents to process payments, manage customers, and handle transactions securely.
 - [RomThpt/xrpl-mcp-server](https://github.com/RomThpt/mcp-xrpl) 📇 ☁️ - MCP server for the XRP Ledger that provides access to account information, transaction history, and network data. Allows querying ledger objects, submitting transactions, and monitoring the XRPL network.
-- [SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop.git) 🐍 ☁️ - An MCP tool that provides cryptocurrency market data using the CoinGecko API.
-- [SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop.git) 🐍 ☁️ - An MCP tool that provides stock market data and analysis using the Yahoo Finance API.
-- [shareseer/shareseer-mcp-server](https://github.com/shareseer/shareseer-mcp-server) 🏎️ ☁️ - MCP to Access SEC filings, financials & insider trading data in real time using [ShareSeer](https://shareseer.com)
-- [tatumio/blockchain-mcp](https://github.com/tatumio/blockchain-mcp) ☁️ - MCP server for Blockchain Data. It provides access to Tatum's blockchain API across 130+ networks with tools including RPC Gateway and Blockchain Data insights.
+- [SaintDoreshCrypto-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop) 📇 ☁️ - An MCP tool that provides cryptocurrency market data using the CoinGecko API.
+- [SaintDoreshYFinance-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop) 📇 ☁️ - An MCP tool that provides stock market data and analysis using the Yahoo Finance API.
+- [shareseershareseer-mcp-server](https://github.com/shareseer/shareseer-mcp-server) 📇 ☁️ - MCP to Access SEC filings, financials insider trading data in real time using ShareSeer
+- [SunFlash12/apix420-mcp-server](https://github.com/SunFlash12/x402API) 📇 ☁️ - Universal API gateway for AI agents (100+ real-time data APIs: weather, crypto, news, geolocation, text analysis) with x402 micropayment billing. [npm](https://www.npmjs.com/package/apix420-mcp-server)
+- [tatumioblockchain-mcp](https://github.com/tatumio/blockchain-mcp) 📇 ☁️ - MCP server for Blockchain Data. It provides access to Tatums blockchain API across 130 networks with tools including RPC Gateway and Blockchain Data insights
 - [ThomasMarches/substrate-mcp-rs](https://github.com/ThomasMarches/substrate-mcp-rs) 🦀 🏠 - An MCP server implementation to interact with Substrate-based blockchains. Built with Rust and interfacing the [subxt](https://github.com/paritytech/subxt) crate.
 - [tooyipjee/yahoofinance-mcp](https://github.com/tooyipjee/yahoofinance-mcp.git) 📇 ☁️ - TS version of yahoo finance mcp.
 - [traceloop/opentelemetry-mcp-server](https://github.com/traceloop/opentelemetry-mcp-server.git) - 🐍🏠 - An MCP server for connecting to any OpenTelemetry backend (Datadog, Grafana, Dynatrace, Traceloop, etc.).
