@@ -452,6 +452,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/git) 🐍 🏠 - 直接的Git倉庫操作，包括讀取、搜尋和分析本地倉庫
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - 使用 LLM 閱讀和分析 GitHub 儲存庫
 - [kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp) 📇 ☁️ - 與 GitLab 項目問題和合併請求無縫互動。
+- [raohwork/forgejo-mcp](https://github.com/raohwork/forgejo-mcp) 🏎️ ☁️ - 讓 AI 協助你管理 Forgejo/Gitea 伺服器上的倉庫。
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps 集成，用於管理儲存庫、工作項目和管道。
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>其他工具和集成
