@@ -14,7 +14,10 @@
 > Read [The State of MCP in 2025](https://glama.ai/blog/2025-12-07-the-state-of-mcp-in-2025) report.
 
 > [!IMPORTANT]
-> [Awesome MCP Servers](https://glama.ai/mcp/servers) web directory
+> [Awesome MCP Servers](https://glama.ai/mcp/servers) web directory.
+
+> [!IMPORTANT]
+> Test servers using [MCP Inspector](https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D).
 
 A curated list of awesome Model Context Protocol (MCP) servers.
 
