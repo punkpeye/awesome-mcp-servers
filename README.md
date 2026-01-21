@@ -1058,6 +1058,8 @@ Servers providing web search capabilities or interfacing with specialized search
 - [zizzfizzix/mcp-server-indexnow](https://github.com/zizzfizzix/mcp-server-indexnow): Facilitates URL indexing requests via the IndexNow protocol, enhancing content discovery and indexing speed for MCP-compatible clients.
 - [preludeorg/windows-rs-mcp](https://github.com/preludeorg/windows-rs-mcp): Facilitates searching the Rust windows crate API documentation using Playwright for seamless interaction with the documentation website.
 - [isnow890/naver-search-mcp](https://github.com/isnow890/naver-search-mcp): Facilitates comprehensive search and data trend analysis across Naver services using the Naver Search and DataLab APIs.
+- [uju777/coupang-mcp](https://github.com/uju777/coupang-mcp): MCP server for Coupang (Korea's largest e-commerce) product search with Rocket Delivery filtering and affiliate link generation.
+- [uju777/mcp-server-naver-search](https://github.com/uju777/mcp-server-naver-search): MCP server for Naver Search (Shopping, Cafe, News). Essential for Korean users.
 
 ## 🔒 Security
 
