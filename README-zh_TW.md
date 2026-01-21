@@ -122,6 +122,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 協助生物醫學研究、醫療保健數據交換和生物資訊學分析。提供對生物學和醫學數據庫、工具和標準的訪問。
 
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - 與 FHIR R4 基準和實作指南整合，支援搜尋、讀取、建立、更新和刪除醫療資源
+- [healthymind-tech/Taiwan-Health-MCP](https://github.com/healthymind-tech/Taiwan-Health-MCP) 🐍 🏠 ☁️ - 提供台灣醫療資料（ICD-10、藥品資訊）的 MCP Server，支援 AI Agent 整合。
 
 ### 🎨 <a name="art-and-culture"></a>藝術與文化
 
