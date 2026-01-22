@@ -533,9 +533,9 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
-
 Tools and integrations that enhance the development workflow and environment management.
 
+- [https://codesherlock.ai/mcp](https://docs.codesherlock.ai/codesherlock-mcp-server/mcp/setup/guide) – CodeSherlock MCP Server is an AI-powered developer tool that performs deep static and contextual code analysis inside MCP-compatible AI coding environments such as Cursor, Claude Code, Windsurf, and GitHub Copilot etc. It analyzes: Unstaged Git changes, Commit diffs. By exposing these capabilities via MCP, CodeSherlock allows AI agents to reason about real project context, not just isolated files, significantly improving code reviews, refactoring suggestions, and PR validation workflows.
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - Create crafted UI components inspired by the best 21st.dev design engineers.
 - [louis030195/gptzero-mcp](https://github.com/louis030195/gptzero-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI detection for text content with GPTZero API. Detect AI-generated text, get confidence scores, multilingual support (French/Spanish), and detailed probability breakdowns.
 - [aashari/mcp-server-atlassian-bitbucket](https://github.com/aashari/mcp-server-atlassian-bitbucket) 📇 ☁️ - Atlassian Bitbucket Cloud integration. Enables AI systems to interact with repositories, pull requests, workspaces, and code in real time.
