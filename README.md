@@ -533,6 +533,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
+
 Tools and integrations that enhance the development workflow and environment management.
 
 - [https://codesherlock.ai/mcp](https://docs.codesherlock.ai/codesherlock-mcp-server/mcp/setup/guide) – CodeSherlock MCP Server is an AI-powered developer tool that performs deep static and contextual code analysis inside MCP-compatible AI coding environments such as Cursor, Claude Code, Windsurf, and GitHub Copilot etc. It analyzes: Unstaged Git changes, Commit diffs. By exposing these capabilities via MCP, CodeSherlock allows AI agents to reason about real project context, not just isolated files, significantly improving code reviews, refactoring suggestions, and PR validation workflows.
