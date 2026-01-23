@@ -94,6 +94,7 @@
 * 🛠️ - [ابزارهای توسعه‌دهنده](#developer-tools)
 * 🧮 - [ابزارهای علم داده](#data-science-tools)
 * 📟 - [سیستم تعبیه‌شده](#embedded-system)
+* 🌳 - [زیست بوم و طبیعت](#environment-and-nature)
 * 📂 - [سیستم‌های فایل](#file-systems)
 * 💰 - [مالی و فین‌تک](#finance--fintech)
 * 🎮 - [بازی](#gaming)
@@ -150,6 +151,7 @@
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 ☁️ - یک سرور MCP برای API کتابخانه باز که به دستیاران هوش مصنوعی امکان جستجوی اطلاعات کتاب را می‌دهد.
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - یک سرور MCP محلی که با استفاده از Manim انیمیشن تولید می‌کند.
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) 🐍 - سرور MCP برای کار با Blender
+- [aliafsahnoudeh/shahnameh-mcp-server](https://github.com/aliafsahnoudeh/shahnameh-mcp-server) 🐍 🏠 🍎 🪟 🐧 - یک ام سی پی سرور برای دسترسی به بخش ها و اشعار و توضیحات شاهنامه فردوسی حماسه بزرگ فارسی
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - اضافه کردن، تحلیل، جستجو و تولید ویرایش‌های ویدیویی از مجموعه Video Jungle شما
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - نمودار و تحلیل جامع و دقیق Bazi (طالع‌بینی چینی) را ارائه می‌دهد
 - [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server) 📇 ☁️ - سرور MCP برای تعامل با API Discogs
@@ -656,6 +658,12 @@
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - یک ربات فوق‌العاده-کاوایی تعبیه‌شده M5Stack مبتنی بر JavaScript با عملکرد سرور MCP برای تعاملات و احساسات کنترل شده توسط هوش مصنوعی.
 - [yoelbassin/gnuradioMCP](https://github.com/yoelbassin/gnuradioMCP) 🐍 📟 🏠 - یک سرور MCP برای GNU Radio که به LLMها امکان ایجاد و تغییر خودکار فلوچارت‌های RF `.grc` را می‌دهد.
 
+### 🌳 <a name="environment-and-nature"></a>زیست بوم و طبیعت
+
+دسترسی به داده‌های محیطی و ابزارها، خدمات و اطلاعات مرتبط با طبیعت را فراهم می‌کند.
+
+- [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - ،یک ام سی پی سرور برای شناسایی، نظارت و تحلیل آتش‌سوزی‌های احتمالی در سراسر جهان با استفاده از منابع داده متعدد از جمله NASA FIRMS، OpenWeatherMap و Google Earth Engine.
+
 ### 📂 <a name="file-systems"></a>سیستم‌های فایل
 
 دسترسی مستقیم به سیستم‌های فایل محلی با مجوزهای قابل تنظیم را فراهم می‌کند. به مدل‌های هوش مصنوعی امکان خواندن، نوشتن و مدیریت فایل‌ها در دایرکتوری‌های مشخص شده را می‌دهد.
@@ -701,6 +709,7 @@
 - [getalby/nwc-mcp-server](https://github.com/getalby/nwc-mcp-server) 📇 🏠 - یکپارچه‌سازی کیف پول Bitcoin Lightning با قدرت Nostr Wallet Connect
 - [glaksmono/finbud-data-mcp](https://github.com/glaksmono/finbud-data-mcp/tree/main/packages/mcp-server) 📇 ☁️ 🏠 - دسترسی به داده‌های مالی جامع و بی‌درنگ (سهام، آپشن‌ها، کریپتو، فارکس) از طریق APIهای توسعه‌دهنده-پسند و بومی هوش مصنوعی که ارزش بی‌نظیری ارائه می‌دهند.
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) 🎖️ ⛅️ 🏠 🐍 - دسترسی به عامل‌های هوش مصنوعی web3 تخصصی برای تحلیل بلاکچین، ممیزی امنیتی قراردادهای هوشمند، ارزیابی معیارهای توکن و تعاملات on-chain از طریق شبکه Heurist Mesh. ابزارهای جامعی برای تحلیل DeFi، ارزش‌گذاری NFT و نظارت بر تراکنش‌ها در چندین بلاکچین فراهم می‌کند
+- [hoqqun/stooq-mcp](https://github.com/hoqqun/stooq-mcp) 🦀 ☁️ - دریافت قیمت‌های لحظه‌ای سهام از Stooq بدون نیاز به کلید API. پشتیبانی از بازارهای جهانی (آمریکا، ژاپن، انگلستان، آلمان).
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - سرور MCP مبتنی بر baostock، که قابلیت‌های دسترسی و تحلیل داده‌های بازار سهام چین را فراهم می‌کند.
 - [intentos-labs/beeper-mcp](https://github.com/intentos-labs/beeper-mcp) 🐍 - Beeper تراکنش‌ها را در BSC فراهم می‌کند، شامل انتقال موجودی/توکن، سواپ توکن در Pancakeswap و ادعای پاداش beeper.
 - [janswist/mcp-dexscreener](https://github.com/janswist/mcp-dexscreener) 📇 ☁️ - قیمت‌های بازار on-chain بی‌درنگ با استفاده از API باز و رایگان Dexscreener
@@ -945,6 +954,7 @@
 - [just-every/mcp-screenshot-website-fast](https://github.com/just-every/mcp-screenshot-website-fast) 📇 🏠 - ابزار گرفتن اسکرین‌شات سریع بهینه‌سازی شده برای Claude Vision API. به طور خودکار صفحات کامل را به تکه‌های 1072x1072 برای پردازش بهینه هوش مصنوعی با viewportهای قابل تنظیم و استراتژی‌های انتظار برای محتوای پویا تقسیم می‌کند.
 - [kagisearch/kagimcp](https://github.com/kagisearch/kagimcp) ☁️ 📇 – سرور MCP رسمی Kagi Search
 - [kehvinbehvin/json-mcp-filter](https://github.com/kehvinbehvin/json-mcp-filter) ️🏠 📇 – از پر کردن زمینه LLM خود دست بردارید. فقط آنچه را که از فایل‌های JSON خود نیاز دارید، کوئری و استخراج کنید.
+- [Crawleo/Crawleo-MCP](https://github.com/Crawleo/Crawleo-MCP) ☁️ 🐍 – Crawleo Search & Crawl API
 - [kshern/mcp-tavily](https://github.com/kshern/mcp-tavily.git) ☁️ 📇 – Tavily AI search API
 - [leehanchung/bing-search-mcp](https://github.com/leehanchung/bing-search-mcp) 📇 ☁️ - قابلیت‌های جستجوی وب با استفاده از Microsoft Bing Search API
 - [lfnovo/content-core](https://github.com/lfnovo/content-core) 🐍 🏠 - استخراج محتوا از URLها، اسناد، ویدیوها و فایل‌های صوتی با استفاده از انتخاب خودکار هوشمند موتور. از صفحات وب، PDFها، اسناد Word، رونوشت‌های YouTube و موارد دیگر با پاسخ‌های JSON ساختاریافته پشتیبانی می‌کند.
