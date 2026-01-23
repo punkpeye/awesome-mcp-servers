@@ -355,6 +355,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 
 Run commands, capture output and otherwise interact with shells and command line tools.
 
+- [alpadalar/netops-mcp](https://github.com/alpadalar/netops-mcp) 🐍 🏠 - Comprehensive DevOps and networking MCP server providing standardized access to essential infrastructure tools. Features network monitoring, system diagnostics, automation workflows, and infrastructure management with AI-powered operational insights.
 - [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) - Cisco pyATS server enabling structured, model-driven interaction with network devices.
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) 📇 ☁️ 🏠 - A MCP Server that enhance your IDE with AI-powered assistance for Intlayer i18n / CMS tool: smart CLI access, access to the docs.
 - [aybelatchane/mcp-server-terminal](https://github.com/aybelatchane/mcp-server-terminal) 🦀 🏠 🍎 🪟 🐧 - Playwright for terminals - interact with TUI/CLI applications through structured Terminal State Tree representation with element detection.
