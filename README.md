@@ -1186,6 +1186,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [imprvhub/mcp-claude-hackernews](https://github.com/imprvhub/mcp-claude-hackernews) 📇 🏠 ☁️ - An integration that allows Claude Desktop to interact with Hacker News using the Model Context Protocol (MCP).
 - [imprvhub/mcp-rss-aggregator](https://github.com/imprvhub/mcp-rss-aggregator) 📇 ☁️ 🏠 - Model Context Protocol Server for aggregating RSS feeds in Claude Desktop.
 - [boikot-xyz/boikot](https://github.com/boikot-xyz/boikot) 🦀☁️ - Model Context Protocol Server for looking up company ethics information. Learn about the ethical and unethical actions of major companies.
+- [dorukardahan/domain-search-mcp](https://github.com/dorukardahan/domain-search-mcp) 📇 ☁️ - Fast domain availability aggregator with pricing. Checks Porkbun, Namecheap, GoDaddy, RDAP & WHOIS. Includes bulk search, registrar comparison, AI-powered suggestions, and social media handle checking.
 
 ### 🔒 <a name="security"></a>Security
 
