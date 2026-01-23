@@ -517,6 +517,8 @@ AI 어시스턴트가 다양한 언어 간에 콘텐츠를 번역할 수 있게 
 
 임베디드 장치 작업을 위한 문서 및 바로가기에 대한 액세스를 제공합니다.
 
+- [adancurusul/embedded-debugger-mcp](https://github.com/adancurusul/embedded-debugger-mcp) 🦀 📟 - probe-rs를 사용한 임베디드 디버깅용 모델 컨텍스트 프로토콜 서버 - J-Link, ST-Link 등을 통한 ARM Cortex-M, RISC-V 디버깅 지원
+- [adancurusul/serial-mcp-server](https://github.com/adancurusul/serial-mcp-server) 🦀 📟 - 시리얼 포트 통신용 포괄적인 MCP 서버
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - JavaScript 기반 M5Stack 임베디드 초귀여운 로봇으로, AI 제어 상호작용 및 감정 표현을 위한 MCP 서버 기능을 갖추고 있습니다.
 
 ### 🔄 <a name="version-control"></a>버전 관리
