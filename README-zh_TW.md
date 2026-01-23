@@ -244,6 +244,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 增強開發工作流程和環境管理的工具和集成。
 
+- [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOS程式碼品質分析與測試自動化伺服器。提供全面的Xcode測試執行、SwiftLint整合及詳細的故障分析。支援CLI和MCP伺服器兩種模式，適用於開發者直接使用和AI助手整合。
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - 將大量程式開發助手的系統提示轉為 MCP 工具，具備模型感知推薦與人格啟用，可模擬 Cursor、Devin 等代理。
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - 與[QA Sphere](https://qasphere.com/)測試管理系統整合，使LLM能夠發現、總結和操作測試用例，並可直接從AI驅動的IDE訪問
 - [mhmzdev/Figma-Flutter-MCP](https://github.com/mhmzdev/Figma-Flutter-MCP) 📇 🏠 - 為編碼代理提供直接訪問 Figma 數據的權限，協助他們編寫 Flutter 代碼來構建應用程序，包括資源導出、組件維護和全屏實現。
