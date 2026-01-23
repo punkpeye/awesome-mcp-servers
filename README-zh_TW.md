@@ -122,6 +122,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 協助生物醫學研究、醫療保健數據交換和生物資訊學分析。提供對生物學和醫學數據庫、工具和標準的訪問。
 
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - 與 FHIR R4 基準和實作指南整合，支援搜尋、讀取、建立、更新和刪除醫療資源
+- [healthymind-tech/Taiwan-Health-MCP](https://github.com/healthymind-tech/Taiwan-Health-MCP) 🐍 🏠 ☁️ - 提供台灣醫療資料（ICD-10、藥品資訊）的 MCP Server，支援 AI Agent 整合。
 
 ### 🎨 <a name="art-and-culture"></a>藝術與文化
 
@@ -320,6 +321,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI 提供港美股等市場的股票即時行情數據，通過 MCP 提供 AI 接入分析、交易能力。
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ -  使用 Bitget 公共 API 去獲取加密貨幣最新價格
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - 基於 baostock 的 MCP 伺服器,提供對中國股票市場數據的訪問和分析功能。
+- [hoqqun/stooq-mcp](https://github.com/hoqqun/stooq-mcp) 🦀 ☁️ - 無需API金鑰即可從Stooq獲取即時股票價格。支援全球市場（美國、日本、英國、德國）。
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - 接入 CRIC物業AI 平台的 MCP 伺服器。CRIC物業AI 是克而瑞專為物業行業打造的智慧型 AI 助理。
 - [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - 一個 MCP 伺服器，提供對以太坊虛擬機（EVM）JSON-RPC 方法的完整訪問。可與任何 EVM 相容的節點提供商配合使用，包括 Infura、Alchemy、QuickNode、本地節點等。
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - 一個 MCP 伺服器，提供來自 Polymarket、PredictIt 和 Kalshi 等多個平台的即時預測市場數據。使 AI 助手能夠通過統一介面查詢當前賠率、價格和市場資訊。
@@ -396,6 +398,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - Kagi 搜尋 API 集成
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) 🎖️ 📇 ☁️ – 模型上下文協議 (MCP) 伺服器讓 Claude 等 AI 助手可以使用 Exa AI Search API 進行網路搜尋。此設置允許 AI 模型以安全且可控的方式獲取即時網路資訊。
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) 📇 ☁️ - 通過 search1api 搜尋（需要付費 API 金鑰）
+- [Crawleo/Crawleo-MCP](https://github.com/Crawleo/Crawleo-MCP) ☁️ 🐍 – Crawleo Search & Crawl API
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) ☁️ 🐍 – Tavily AI 搜尋 API
 - [kshern/mcp-tavily](https://github.com/kshern/mcp-tavily.git) ☁️ 📇 – Tavily AI 搜尋 API
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - 搜尋 ArXiv 研究論文
