@@ -1301,7 +1301,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zboralski/ida-headless-mcp](https://github.com/zboralski/ida-headless-mcp) 🏎️ 🐍 🏠 🍎 🪟 🐧 - Headless IDA Pro binary analysis via MCP. Multi-session concurrency with Go orchestration and Python workers. Supports Il2CppDumper and Blutter metadata import for Unity and Flutter reverse engineering.
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) 🐍 🏠 - APKTool MCP Server is a MCP server for the Apk Tool to provide automation in reverse engineering of Android APKs.
 - [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) ☕ 🏠 - JADX-AI-MCP is a plugin and MCP Server for the JADX decompiler that integrates directly with Model Context Protocol (MCP) to provide live reverse engineering support with LLMs like Claude.
-- [Cyntrisec](https://github.com/cyntrisec/cyntrisec-cli) 🐍 🏠 - Local-first AWS security analyzer that discovers attack paths and generates remediations using graph theory.
+- [cyntrisec/cyntrisec-cli](https://github.com/cyntrisec/cyntrisec-cli) 🐍 🏠 - Local-first AWS security analyzer that discovers attack paths and generates remediations using graph theory.
   
 ### 🌐 <a name="social-media"></a>Social Media
 
