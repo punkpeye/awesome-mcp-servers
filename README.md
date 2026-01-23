@@ -794,6 +794,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 - [kukapay/opcua-mcp](https://github.com/kukapay/opcua-mcp) 🐍 📟 - An MCP server that connects to OPC UA-enabled industrial systems.
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - A JavaScript-driven M5Stack-embedded super-kawaii robot with MCP server functionality for AI-controlled interactions and emotions.
 - [yoelbassin/gnuradioMCP](https://github.com/yoelbassin/gnuradioMCP) 🐍 📟 🏠 - An MCP server for GNU Radio that enables LLMs to autonomously create and modify RF `.grc` flowcharts.
+- [0x1abin/matter-controller-mcp](https://github.com/0x1abin/matter-controller-mcp) 📇 📟 - An MCP server for Matter Controller, enabling AI agents to control and interact with Matter devices.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
