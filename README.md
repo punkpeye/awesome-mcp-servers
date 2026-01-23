@@ -1259,6 +1259,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) 📇 🪟 ☁️ - MCP server for querying the Shodan API and Shodan CVEDB. This server provides tools for IP lookups, device searches, DNS lookups, vulnerability queries, CPE lookups, and more.
 - [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) 📇 🪟 ☁️ - MCP server for querying the VirusTotal API. This server provides tools for scanning URLs, analyzing file hashes, and retrieving IP address reports.
 - [co-browser/attestable-mcp-server](https://github.com/co-browser/attestable-mcp-server) 🐍 🏠 ☁️ 🐧 - An MCP server running inside a trusted execution environment (TEE) via Gramine, showcasing remote attestation using [RA-TLS](https://gramine.readthedocs.io/en/stable/attestation.html). This allows an MCP client to verify the server before conencting.
+- [cyntrisec/cyntrisec-cli](https://github.com/cyntrisec/cyntrisec-cli) 🐍 🏠 - Local-first AWS security analyzer that discovers attack paths and generates remediations using graph theory.
 - [dkvdm/onepassword-mcp-server](https://github.com/dkvdm/onepassword-mcp-server) - An MCP server that enables secure credential retrieval from 1Password to be used by Agentic AI.
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – A secure MCP (Model Context Protocol) server that enables AI agents to interact with the Authenticator App.
 - [forest6511/secretctl](https://github.com/forest6511/secretctl) 🏎️ 🏠 🍎 🪟 🐧 - AI-safe secrets manager with MCP integration. Run commands with credentials injected as environment variables - AI agents never see plaintext secrets. Features output sanitization, AES-256-GCM encryption, and Argon2id key derivation.
@@ -1301,7 +1302,6 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zboralski/ida-headless-mcp](https://github.com/zboralski/ida-headless-mcp) 🏎️ 🐍 🏠 🍎 🪟 🐧 - Headless IDA Pro binary analysis via MCP. Multi-session concurrency with Go orchestration and Python workers. Supports Il2CppDumper and Blutter metadata import for Unity and Flutter reverse engineering.
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) 🐍 🏠 - APKTool MCP Server is a MCP server for the Apk Tool to provide automation in reverse engineering of Android APKs.
 - [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) ☕ 🏠 - JADX-AI-MCP is a plugin and MCP Server for the JADX decompiler that integrates directly with Model Context Protocol (MCP) to provide live reverse engineering support with LLMs like Claude.
-- [cyntrisec/cyntrisec-cli](https://github.com/cyntrisec/cyntrisec-cli) 🐍 🏠 - Local-first AWS security analyzer that discovers attack paths and generates remediations using graph theory.
   
 ### 🌐 <a name="social-media"></a>Social Media
 
