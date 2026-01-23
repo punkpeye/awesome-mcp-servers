@@ -1534,6 +1534,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Shopify/dev-mcp](https://github.com/Shopify/dev-mcp) 📇 ☁️ - Model Context Protocol (MCP) server that interacts with Shopify Dev.
 - [simonpainter/netbox-mcp](https://github.com/simonpainter/netbox-mcp) 🐍 ☁️ - MCP server for interacting with NetBox API.
 - [sirmews/apple-notes-mcp](https://github.com/sirmews/apple-notes-mcp) 🐍 🏠 - Allows the AI to read from your local Apple Notes database (macOS only)
+- [henilcalagiya/mcp-apple-notes](https://github.com/henilcalagiya/mcp-apple-notes) 🐍 🏠 - Powerful tools for automating Apple Notes using Model Context Protocol (MCP). Full CRUD support with HTML content, folder management, and search capabilities.
 - [disco-trooper/apple-notes-mcp](https://github.com/disco-trooper/apple-notes-mcp) 📇 🏠 🍎 - Apple Notes MCP with semantic search, hybrid vector+keyword search, full CRUD operations, and incremental indexing. Uses JXA for native macOS integration.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center. Provides comprehensive tools for searching, reading, creating, and managing content across Atlassian workspaces.
 - [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) 📇 🏠 - Interacting with Notion API
