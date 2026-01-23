@@ -909,6 +909,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - An MCP server that provides real-time prediction market data from multiple platforms including Polymarket, PredictIt, and Kalshi. Enables AI assistants to query current odds, prices, and market information through a unified interface.
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - An MCP server that enables AI models to query the Bitcoin blockchain.
 - [hive-intel/hive-crypto-mcp](https://github.com/hive-intel/hive-crypto-mcp) 📇 ☁️ 🏠 - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics
+- [etbars/vibetrader-mcp](https://github.com/etbars/vibetrader-mcp) 🐍 ☁️ - AI-powered trading bot platform. Create automated trading strategies with natural language via Alpaca brokerage.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
