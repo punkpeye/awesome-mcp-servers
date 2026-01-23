@@ -403,7 +403,7 @@ Integration with communication platforms for message management and channel oper
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - MCP server for WhatsApp Business Platform by YCloud.
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) 📇 ☁️ - An MCP server to Manage Google Tasks
 - [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) 📇 ☁️ 🏠 - A Model Context Protocol (MCP) server with built-in Feishu OAuth authentication, supporting remote connections and providing comprehensive Feishu document management tools including block creation, content updates, and advanced features.
-- [La-Palma-24/lapalma24-mcp](https://github.com/La-Palma-24/lapalma24-mcp) ☁️ - Search vacation rental properties in La Palma, Canary Islands with real-time availability and pricing.
+- [La-Palma-24/lapalma24-mcp](https://github.com/La-Palma-24/lapalma24-mcp) 📇 ☁️ - Search vacation rental properties in La Palma, Canary Islands with real-time availability and pricing.
 
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
