@@ -607,6 +607,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [ConfigCat/mcp-server](https://github.com/configcat/mcp-server) 🎖️ 📇 ☁️ - MCP server for interacting with ConfigCat feature flag platform. Supports managing feature flags, configs, environments, products and organizations.
 - [cqfn/aibolit-mcp-server](https://github.com/cqfn/aibolit-mcp-server) ☕ - Helping Your AI Agent Identify Hotspots for Refactoring; Help AI Understand How to 'Make Code Better'
 - [currents-dev/currents-mcp](https://github.com/currents-dev/currents-mcp) 🎖️ 📇 ☁️ Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
+- [mihaelamj/cupertino](https://github.com/mihaelamj/cupertino) 🏠 🍎 - Apple Documentation MCP Server. Search Apple developer docs, Swift Evolution proposals, and 600+ sample code projects with full-text search.
 - [Daghis/teamcity-mcp](https://github.com/Daghis/teamcity-mcp) 📇 ☁️ 🍎 🪟 🐧 - MCP server for JetBrains TeamCity with 87 tools for builds, tests, agents, and CI/CD pipeline management. Features dual-mode operation (dev/full) and runtime mode switching.
 - [davidan90/time-node-mcp](https://github.com/davidan90/time-node-mcp) 📇 🏠 - Timezone-aware date and time operations with support for IANA timezones, timezone conversion, and Daylight Saving Time handling.
 - [davidlin2k/pox-mcp-server](https://github.com/davidlin2k/pox-mcp-server) 🐍 🏠 - MCP server for the POX SDN controller to provides network control and management capabilities.
