@@ -469,7 +469,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - A Model Context Protocol Server for MongoDB
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - DuckDB database integration with schema inspection and query capabilities
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 ☁️ - BigQuery database integration with schema inspection and query capabilities
-- [Medical Terminologies](https://github.com/SidneyBissoli/medical-terminologies-mcp) 📇 ☁️ - Unified access to ICD-11, SNOMED CT, LOINC, RxNorm, and MeSH. 27 tools for medical coding, terminology lookup, and crosswalk mappings.
+- [SidneyBissoli/Medical Terminologies](https://github.com/SidneyBissoli/medical-terminologies-mcp) 📇 ☁️ - Unified access to ICD-11, SNOMED CT, LOINC, RxNorm, and MeSH. 27 tools for medical coding, terminology lookup, and crosswalk mappings.
 - [memgraph/mcp-memgraph](https://github.com/memgraph/ai-toolkit/tree/main/integrations/mcp-memgraph) 🐍 🏠 - Memgraph MCP Server - includes a tool to run a query against Memgraph and a schema resource.
 - [montumodi/mongodb-atlas-mcp-server](https://github.com/montumodi/mongodb-atlas-mcp-server) 📇 ☁️ 🪟 🍎 🐧 - A Model Context Protocol (MCP) that provides access to the MongoDB Atlas API. This server wraps the `mongodb-atlas-api-client` package to expose MongoDB Atlas functionality through MCP tools.
 - [modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres) 📇 🏠 - PostgreSQL database integration with schema inspection and query capabilities
