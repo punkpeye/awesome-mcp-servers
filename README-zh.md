@@ -296,6 +296,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - 将大量编码助手的系统提示提供为 MCP 工具，支持模型感知推荐与人格激活，可模拟 Cursor、Devin 等代理。
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - 打造受21世纪顶尖设计工程师启发的精致UI组件。
+- [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOS代码质量分析和测试自动化服务器。提供全面的Xcode测试执行、SwiftLint集成和详细的故障分析。支持CLI和MCP服务器两种模式，适用于开发者直接使用和AI助手集成。
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - 与[QA Sphere](https://qasphere.com/)测试管理系统集成，使LLM能够发现、总结和操作测试用例，并可直接从AI驱动的IDE访问
 - [Coment-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp) 🎖️ 📇 ☁️ 🏠 - 使用自然语言与您的LLM可观测性、Opik捕获的追踪和监控数据进行对话。
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) 📇 🏠 - 为编码代理提供直接访问Figma数据的权限，助力其一次性完成设计实现。
