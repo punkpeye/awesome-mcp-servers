@@ -717,6 +717,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [stass/lldb-mcp](https://github.com/stass/lldb-mcp) 🐍 🏠 🐧 🍎 - A MCP server for LLDB enabling AI binary and core file analysis, debugging, disassembling.
 - [storybookjs/addon-mcp](https://github.com/storybookjs/addon-mcp) 📇 🏠 - Help agents automatically write and test stories for your UI components.
 - [TamarEngel/jira-github-mcp](https://github.com/TamarEngel/jira-github-mcp) - MCP server that integrates Jira and GitHub to automate end-to-end developer workflows, from issue tracking to branches, commits, pull requests, and merges inside the IDE.
+- [TCSoftInc/testcollab-mcp-server](https://github.com/TCSoftInc/testcollab-mcp-server) ☁️ - Manage test cases in TestCollab directly from your AI coding assistant. List, create, and update test cases with filtering, sorting, and pagination support.
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - An MCP service for deploying HTML content to EdgeOne Pages and obtaining a publicly accessible URL.
 - [testdino-hq/testdino-mcp](https://github.com/testdino-hq/testdino-mcp) 🎖️ 📇 ☁️ - Connects your TestDino testrun/testcase data to AI agents so you can review runs, debug failures, and manage manual test cases using natural language.
 - [tgeselle/bugsnag-mcp](https://github.com/tgeselle/bugsnag-mcp) 📇 ☁️ - An MCP server for interacting with [Bugsnag](https://www.bugsnag.com/)
