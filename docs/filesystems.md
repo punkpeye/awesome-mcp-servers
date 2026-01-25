@@ -2,6 +2,7 @@
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
 
+- [raullenchai/vnsh-mcp](https://github.com/raullenchai/vnsh/tree/main/mcp): Ephemeral encrypted file sharing for AI workflows. Client-side AES-256 encryption with 24h auto-vaporization. Read vnsh URLs and share large outputs securely.
 - [MVA-MCP-servers/filesystem](https://github.com/MVA-MCP-servers/filesystem): Node.js server for advanced filesystem operations using Model Context Protocol, featuring smart file management and directory navigation.
 - [yinzhouzhi/filesystem-server](https://github.com/yinzhouzhi/filesystem-server): Facilitates local filesystem access and operations through a Model Context Protocol-based server.
 - [CyberT33N/mcp-filesystem-extended](https://github.com/CyberT33N/mcp-filesystem-extended): Node.js server for comprehensive filesystem operations using the Model Context Protocol.
