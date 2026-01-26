@@ -332,6 +332,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) 📇 🏠 - Storybookデザインシステムからコンポーネント情報を抽出します。HTML、スタイル、props、依存関係、テーマトークン、コンポーネントメタデータを提供し、AIによるデザインシステム分析を可能にします。
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - GitKraken の API とやり取りするための CLI。gk mcp 経由で MCP サーバーも含まれており、GitKraken の API だけでなく、Jira、GitHub、GitLab などもラップします。ローカルツールやリモートサービスとも連携可能です。
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCPサーバーは、MCP上に構築されたサーバーで、大規模言語モデル（LLM）によって解釈された自然言語コマンドを使用して、ユーザーがUnitree Go2ロボットを制御できるようにします。
+- [preloop/preloop](https://github.com/preloop/preloop) 🐍 ☁️ 🏠 🍎 🪟 🐧 - MCPプロキシに基づくイベント駆動型AI自動化プラットフォームで、human-in-the-loopの安全機能を内蔵しています。
 - [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Claude Code向けのMermaid図レンダリングMCPサーバー。ライブリロード機能を備え、複数のエクスポート形式（SVG、PNG、PDF）とテーマをサポート。
 
 ### 🧮 <a name="data-science-tools"></a>データサイエンスツール

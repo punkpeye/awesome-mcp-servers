@@ -316,6 +316,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [davidan90/time-node-mcp](https://github.com/davidan90/time-node-mcp) 📇 🏠 - 支持时区的日期和时间操作，支持 IANA 时区、时区转换和夏令时处理。
 - [delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - 与 [Postman API](https://www.postman.com/postman/postman-public-workspace/) 进行交互
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - 基于 Pandoc 的 MCP 服务器，支持 Markdown、HTML、PDF、DOCX（.docx）、csv 等格式之间的无缝转换
+- [preloop/preloop](https://github.com/preloop/preloop) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 基于MCP代理的事件驱动AI自动化平台，内置human-in-the-loop安全机制。
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - 这个 MCP 服务器提供了使用 wget 下载完整网站的工具，可保留网站结构并转换链接以支持本地访问
 - [public-ui/kolibri](https://github.com/public-ui/kolibri) 📇 ☁️ 🏠 - 流式 KoliBri MCP 服务器（NPM：`@public-ui/mcp`），通过托管的 HTTP 端点或本地 `kolibri-mcp` CLI 提供 200+ 份确保无障碍的 Web 组件示例、规范、文档和场景。
 - [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - 用于PTY操作的AI助手，使智能体能够通过有状态会话、SSH连接和后台进程管理来控制交互式终端
