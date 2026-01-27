@@ -1047,6 +1047,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - Up-to-date code documentation for LLMs and AI code editors.
 - [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) 🦀 🏠 - Cognitive memory for AI agents with Hebbian learning, 3-tier architecture, and knowledge graphs. Single ~15MB binary, runs offline on edge devices.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🐍 ☁️ 🏠 - Hindsight: Agent Memory That Works Like Human Memory - Built for AI Agents to manage Long Term Memory
+- [yuvalsuede/memory-mcp](https://github.com/yuvalsuede/memory-mcp) 📇 🏠 🍎 🪟 🐧 - Persistent memory for Claude Code CLI. Silent auto-capture via hooks, Haiku-powered extraction, smart dedup, confidence decay, and mid-session recall via MCP tools.
 
 ### ⚖️ <a name="legal"></a>Legal
 
