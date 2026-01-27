@@ -986,6 +986,7 @@ Integration with gaming related data, game engines, and services
 ### 🏠 <a name="home-automation"></a>Home Automation
 
 Control smart home devices, home network equipment, and automation systems.
+
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
 - [zorak1103/ha-mcp](https://github.com/zorak1103/ha-mcp) 🏠 - Provides AI assistants with access to Home Assistant, enabling smart home control and automation management. 
 
