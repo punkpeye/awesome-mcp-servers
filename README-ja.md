@@ -393,6 +393,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ - 暗号通貨価格を取得するためのBitget API
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - CoinCapのパブリックAPIを使用したリアルタイム暗号通貨市場データ統合、APIキー不要で暗号通貨価格と市場情報へのアクセスを提供
 - [SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop.git) 🐍 ☁️ - CoinGecko APIを使用して暗号通貨市場データを提供するMCPツール
+- [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) 🐍 ☁️ - 公式SEC EDGARデータベースに接続し、filingの検索・取得・解析ツールを提供するMCPサーバー
 - [tooyipjee/yahoofinance-mcp](https://github.com/tooyipjee/yahoofinance-mcp.git) 📇 ☁️ - Yahoo Finance MCP のTypeScript版
 - [SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop.git) 🐍 ☁️ - Yahoo Finance APIを使用して株式市場データと分析を提供するMCPツール
 - [RomThpt/xrpl-mcp-server](https://github.com/RomThpt/mcp-xrpl) 📇 ☁️ - アカウント情報、取引履歴、ネットワークデータへのアクセスを提供するXRP Ledger用MCPサーバー。台帳オブジェクトの照会、取引の送信、XRPLネットワークの監視が可能
