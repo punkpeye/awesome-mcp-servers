@@ -442,9 +442,7 @@ Provides access to customer profiles inside of customer data platforms
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
 
 ### 🗄️ <a name="databases"></a>Databases
-* [Oracle Connectorome](https://github.com/qualigenai/oracle-connectorome-mcp-servers) 📇 🏠 - Enterprise-grade Oracle Database connector for MCP with self-healing retries and AI-guided SQL.
-
-Secure database access with schema inspection capabilities. Enables querying and analyzing data with configurable security controls including read-only access.
+* [Oracle Connectorome](https://github.com/qualigenai/mcp-oracle-connector) 📇 🏠 - Enterprise-grade Oracle Database connector for MCP with self-healing retries and AI-guided SQL.
 
 - [Aiven-Open/mcp-aiven](https://github.com/Aiven-Open/mcp-aiven) - 🐍 ☁️ 🎖️ -  Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services
 - [alexanderzuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - Supabase MCP Server with support for SQL query execution and database exploration tools
