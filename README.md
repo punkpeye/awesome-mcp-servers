@@ -443,7 +443,6 @@ Provides access to customer profiles inside of customer data platforms
 
 ### 🗄️ <a name="databases"></a>Databases
 * [Oracle Connectorome](https://github.com/qualigenai/mcp-oracle-connector) 📇 🏠 - Enterprise-grade Oracle Database connector for MCP with self-healing retries and AI-guided SQL.
-
 - [Aiven-Open/mcp-aiven](https://github.com/Aiven-Open/mcp-aiven) - 🐍 ☁️ 🎖️ -  Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services
 - [alexanderzuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - Supabase MCP Server with support for SQL query execution and database exploration tools
 - [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) ☕ 🐍 ☁️ - MCP service for Tablestore, features include adding documents, semantic search for documents based on vectors and scalars, RAG-friendly, and serverless.
