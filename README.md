@@ -529,6 +529,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [fernikolic/clawdentials](https://github.com/fernikolic/clawdentials): Trust layer for agent commerce with escrow, reputation, and payments. Enables AI agents to accept paid tasks with guaranteed payment, build verifiable reputation, and earn money in USDC, USDT, or BTC.
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp): Access institutional-grade alternative financial data directly in your LLM workflows.
 - [ccassini/DEVNADS-Monad-TESNET-MCP-Tools](https://github.com/ccassini/DEVNADS-Monad-TESNET-MCP-Tools): Interact with the Monad blockchain testnet using a Model Context Protocol server for wallet management, network insights, and token operations.
 - [SheriffOladejo/mcp-monad](https://github.com/SheriffOladejo/mcp-monad): Facilitates querying MON token balances on the Monad testnet via an MCP server.
