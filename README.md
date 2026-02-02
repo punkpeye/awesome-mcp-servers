@@ -173,6 +173,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 ☁️ - A MCP server for the Open Library API that enables AI assistants to search for book information.
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - A local MCP server that generates animations using Manim.
+- [Adkr1989/cables-rl-mcp](https://github.com/Adkr1989/cables-rl-mcp) 📇 🏠 🍎 🪟 🐧 - Reinforcement learning integration for Cables.gl visual programming. Autonomous parameter optimization with PPO/SAC/TD3 algorithms, frame metrics analysis, and aesthetic reward functions for generative art exploration.
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) 🐍 - MCP server for working with Blender
 - [aliafsahnoudeh/shahnameh-mcp-server](https://github.com/aliafsahnoudeh/shahnameh-mcp-server) 🐍 🏠 🍎 🪟 🐧 - MCP server for accessing the Shahnameh (Book of Kings) Persian epic poem by Ferdowsi, including sections, verses and explanations.
 - [asmith26/jupytercad-mcp](https://github.com/asmith26/jupytercad-mcp) 🐍 🏠 🍎 🪟 🐧 - An MCP server for [JupyterCAD](https://github.com/jupytercad/JupyterCAD) that allows you to control it using LLMs/natural language.
