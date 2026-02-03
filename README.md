@@ -1033,6 +1033,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [pallaprolus/mendeley-mcp](https://github.com/pallaprolus/mendeley-mcp) 🐍 ☁️ - MCP server for Mendeley reference manager. Search your library, browse folders, get document metadata, search the global catalog, and add papers to your collection.
 - [Pantheon-Security/notebooklm-mcp-secure](https://github.com/Pantheon-Security/notebooklm-mcp-secure) 📇 🏠 🍎 🪟 🐧 - Security-hardened NotebookLM MCP with post-quantum encryption (ML-KEM-768), GDPR/SOC2/CSSF compliance, and 14 security layers. Query Google's Gemini-grounded research from Claude and AI agents.
 - [pi22by7/In-Memoria](https://github.com/pi22by7/In-Memoria) 📇 🦀 🏠 🍎 🐧 🪟 - Persistent intelligence infrastructure for agentic development that gives AI coding assistants cumulative memory and pattern learning. Hybrid TypeScript/Rust implementation with local-first storage using SQLite + SurrealDB for semantic analysis and incremental codebase understanding.
+- [penfieldlabs/penfield-mcp](https://github.com/penfieldlabs/penfield-mcp) - 🐍 ☁️ - Penfield: persistent memory with hybrid search (BM25 + vector + graph), 24 relationship types for knowledge graphs, context checkpoints for cognitive handoff, artifact storage, and personality system. Works across Claude, Cursor, Windsurf, and any MCP client.
 - [pinecone-io/assistant-mcp](https://github.com/pinecone-io/assistant-mcp) 🎖️ 🦀 ☁️ - Connects to your Pinecone Assistant and gives the agent context from its knowledge engine.
 - [pomazanbohdan/memory-mcp-1file](https://github.com/pomazanbohdan/memory-mcp-1file) 🦀 🏠 🍎 🪟 🐧 - A self-contained Memory server with single-binary architecture (embedded DB & models, no dependencies). Provides persistent semantic and graph-based memory for AI agents.
 - [ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - Retrieve context from your [Ragie](https://www.ragie.ai) (RAG) knowledge base connected to integrations like Google Drive, Notion, JIRA and more.
@@ -1048,7 +1049,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - Up-to-date code documentation for LLMs and AI code editors.
 - [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) 🦀 🏠 - Cognitive memory for AI agents with Hebbian learning, 3-tier architecture, and knowledge graphs. Single ~15MB binary, runs offline on edge devices.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🐍 ☁️ 🏠 - Hindsight: Agent Memory That Works Like Human Memory - Built for AI Agents to manage Long Term Memory
-- [penfieldlabs/penfield-mcp](https://github.com/penfieldlabs/penfield-mcp) - 🐍 ☁️ - Penfield: persistent memory with hybrid search (BM25 + vector + graph), 24 relationship types for knowledge graphs, context checkpoints for cognitive handoff, artifact storage, and personality system. Works across Claude, Cursor, Windsurf, and any MCP client.
+
 
 ### ⚖️ <a name="legal"></a>Legal
 
