@@ -1127,6 +1127,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [SecretiveShell/MCP-searxng](https://github.com/SecretiveShell/MCP-searxng) 🐍 🏠 - An MCP Server to connect to searXNG instances
 - [serkan-ozal/driflyte-mcp-server](https://github.com/serkan-ozal/driflyte-mcp-server) 🎖️ 📇 ☁️ 🏠 - The Driflyte MCP Server exposes tools that allow AI assistants to query and retrieve topic-specific knowledge from recursively crawled and indexed web pages.
 - [shopsavvy/shopsavvy-mcp-server](https://github.com/shopsavvy/shopsavvy-mcp-server) 🎖️ 📇 ☁️ - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more.
+- [SidneyBissoli/senado-br-mcp](https://github.com/SidneyBissoli/senado-br-mcp) 📇 - Access Brazilian Senate open data: legislators, bills, votes, committees, and legislative agenda.
 - [ssatama/rescuedogs-mcp-server](https://github.com/ssatama/rescuedogs-mcp-server) 📇 ☁️ - Search and discover rescue dogs from European and UK organizations with AI-powered personality matching and detailed profiles.
 - [takashiishida/arxiv-latex-mcp](https://github.com/takashiishida/arxiv-latex-mcp) 🐍 ☁️ - Get the LaTeX source of arXiv papers to handle mathematical content and equations
 - [the0807/GeekNews-MCP-Server](https://github.com/the0807/GeekNews-MCP-Server) 🐍 ☁️ - An MCP Server that retrieves and processes news data from the GeekNews site.
