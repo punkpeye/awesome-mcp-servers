@@ -1050,7 +1050,6 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) 🦀 🏠 - Cognitive memory for AI agents with Hebbian learning, 3-tier architecture, and knowledge graphs. Single ~15MB binary, runs offline on edge devices.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🐍 ☁️ 🏠 - Hindsight: Agent Memory That Works Like Human Memory - Built for AI Agents to manage Long Term Memory
 
-
 ### ⚖️ <a name="legal"></a>Legal
 
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
