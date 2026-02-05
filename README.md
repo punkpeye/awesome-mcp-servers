@@ -313,7 +313,6 @@ Cloud platform service integration. Enables management and interaction with clou
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) 🏎️ ☁️/🏠 - Provides MCP multi-cluster Kubernetes management and operations, featuring a management interface, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - [weibaohui/kom](https://github.com/weibaohui/kom) 🏎️ ☁️/🏠 - Provides MCP multi-cluster Kubernetes management and operations. It can be integrated as an SDK into your own project and includes nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 - MCP Server for kubernetes management, and analyze your cluster, application health
-- [Kunobi](https://kunobi.ninja) 📇 🏠 🍎 🪟 🐧 - Kubernetes desktop IDE with an embedded MCP server, providing visual oversight of AI-driven cluster operations. Supports FluxCD, ArgoCD, Helm, and expanding to infrastructure beyond Kubernetes.
 
 ### 👨‍💻 <a name="code-execution"></a>Code Execution
 
@@ -760,6 +759,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - An MCP server to flexibly fetch JSON, text, and HTML data
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
+- [Kunobi](https://kunobi.ninja) 📇 🏠 🍎 🪟 🐧 - Kubernetes desktop IDE with an embedded MCP server, providing visual oversight of AI-driven cluster operations. Supports FluxCD, ArgoCD, Helm, and expanding to infrastructure beyond Kubernetes.
 - [ztuskes/garmin-documentation-mcp-server](https://github.com/ztuskes/garmin-documentation-mcp-server) 📇 🏠 – Offline Garmin Connect IQ SDK documentation with comprehensive search and API examples
 
 ### 🔒 <a name="delivery"></a>Delivery
