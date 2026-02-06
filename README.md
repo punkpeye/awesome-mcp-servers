@@ -440,8 +440,8 @@ Provides access to customer profiles inside of customer data platforms
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - Connect any Open Data to any LLM with Model Context Protocol.
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - An MCP server to access and updates profiles on an Apache Unomi CDP server.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
-- [dchub-cloud/dchub-mcp](https://github.com/your-repo-url) 🐍 ☁️ - Data center industry intelligence MCP server providing facility search across 20,000+ data centers in 140+ countries, M&A tracking, capacity pipeline data, and energy infrastructure insights via DC Hub.
-
+- [azmartone67/Data-Center-Hub](https://github.com/azmartone67/Data-Center-Hub) 🐍 ☁️ - Data center industry intelligence MCP server providing facility search across 20,000+ data centers in 140+ countries, M&A tracking, capacity pipeline data, market analytics, and energy infrastructure insights via [DC Hub](https://dchub.cloud).
+  
 ### 🗄️ <a name="databases"></a>Databases
 
 Secure database access with schema inspection capabilities. Enables querying and analyzing data with configurable security controls including read-only access.
