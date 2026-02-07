@@ -441,6 +441,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - Integração com o Google News com categorização automática de tópicos, suporte multilíngue e recursos abrangentes de pesquisa, incluindo manchetes, histórias e tópicos relacionados através do [SerpAPI](https://serpapi.com/).
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - O servidor MCP da Dappier permite pesquisa web em tempo real rápida e gratuita, além de acesso a dados premium de marcas de mídia confiáveis — notícias, mercados financeiros, esportes, entretenimento, clima e muito mais — para construir agentes de IA poderosos.
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - O melhor motor de busca de pessoas que reduz o tempo gasto na descoberta de talentos
+- [ScrapeGraphAI/scrapegraph-mcp](https://github.com/ScrapeGraphAI/scrapegraph-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Web scraping com IA via API [ScrapeGraph AI](https://scrapegraphai.com/). Conversão Markdown, extração inteligente, busca, crawling multi-página e fluxos de agentes. Remoto ou local. Suporta Claude Desktop, Cursor e [Smithery](https://smithery.ai/server/@ScrapeGraphAI/scrapegraph-mcp).
 
 ### 🔒 <a name="segurança"></a>Segurança
 

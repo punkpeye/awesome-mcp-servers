@@ -492,6 +492,7 @@
 
 ### 🔎 <a name="search"></a>การค้นหาและการดึงข้อมูล
 
+- [ScrapeGraphAI/scrapegraph-mcp](https://github.com/ScrapeGraphAI/scrapegraph-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - เว็บสคราปด้วย AI ผ่าน [ScrapeGraph AI](https://scrapegraphai.com/) API การแปลง Markdown การสกัดอัจฉริยะ การค้นหา การสคราปหลายหน้า และเวิร์กโฟลว์ของเอเจนต์ Remote-first หรือ local รองรับ Claude Desktop, Cursor และ [Smithery](https://smithery.ai/server/@ScrapeGraphAI/scrapegraph-mcp)
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - บริการ Scrapeless Model Context Protocol ทำหน้าที่เป็นตัวเชื่อมเซิร์ฟเวอร์ MCP กับ Google SERP API ช่วยให้สามารถค้นหาเว็บภายในระบบนิเวศ MCP โดยไม่ต้องออกจากมัน
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - การรวม API การค้นหาของ Kagi
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️ MCP สำหรับ LLM เพื่อค้นหาและอ่านเอกสารจาก arXiv
