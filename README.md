@@ -203,6 +203,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 Design and visualize software architecture, system diagrams, and technical documentation. Enables AI models to generate professional diagrams and architectural documentation.
 
 - [betterhyq/mermaid-grammer-inspector-mcp](https://github.com/betterhyq/mermaid_grammer_inspector_mcp) 📇 🏠 🍎 🪟 🐧 - A Model Context Protocol (MCP) server for validating Mermaid diagram syntax and providing comprehensive grammar checking capabilities
+- [debu-sinha/excalidraw-mcp-server](https://github.com/debu-sinha/excalidraw-mcp-server) 📇 🏠 - Security-hardened Excalidraw MCP server with API key auth, rate limiting, real-time WebSocket sync, and 14 diagramming tools including Mermaid-to-Excalidraw conversion
 - [GittyBurstein/mermaid-mcp-server](https://github.com/GittyBurstein/mermaid-mcp-server) 🐍 ☁️ - MCP server that turns local projects or GitHub repositories into Mermaid diagrams and renders them via Kroki.
 - [Narasimhaponnada/mermaid-mcp](https://github.com/Narasimhaponnada/mermaid-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI-powered Mermaid diagram generation with 22+ diagram types including flowcharts, sequence diagrams, class diagrams, ER diagrams, architecture diagrams, state machines, and more. Features 50+ pre-built templates, advanced layout engines, SVG/PNG/PDF exports, and seamless integration with GitHub Copilot, Claude, and any MCP-compatible client. Install via NPM: `npm install -g @narasimhaponnada/mermaid-mcp-server`
 
