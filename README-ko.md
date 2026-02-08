@@ -169,7 +169,7 @@
 
 명령을 실행하고, 출력을 캡처하며, 셸 및 커맨드 라인 도구와 상호 작용합니다.
 
-- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) 📇 ☁️ 🏠 - MCP server for [OpenClaw](https://github.com/openclaw/openclaw) AI assistant integration. Enables Claude to delegate tasks to OpenClaw agents with sync/async tools, OAuth 2.1 auth, and SSE transport for Claude.ai.
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) 📇 ☁️ 🏠 - [OpenClaw](https://github.com/openclaw/openclaw) AI 어시스턴트 통합을 위한 MCP 서버. 동기/비동기 도구, OAuth 2.1 인증, Claude.ai용 SSE 전송을 통해 Claude가 OpenClaw 에이전트에게 작업을 위임할 수 있습니다.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - iTerm에 대한 접근을 제공하는 모델 컨텍스트 프로토콜 서버. 명령을 실행하고 iTerm 터미널에서 보이는 내용에 대해 질문할 수 있습니다.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - `run_command` 및 `run_script` 도구를 사용하여 모든 명령 실행.
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - 안전한 실행 및 사용자 정의 가능한 보안 정책을 갖춘 커맨드 라인 인터페이스
