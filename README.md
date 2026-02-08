@@ -1580,6 +1580,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK in Rust
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
+- [Photon](https://github.com/portel-dev/photon) 📇 - A TypeScript framework that turns a single class into an MCP server, CLI tool, and web dashboard. Includes a marketplace with 35 ready-made photons.
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 - AI Agents framework with 64+ built-in tools for search, memory, workflows, code execution, and file operations. Turn any AI assistant into a multi-agent system with MCP.
 
 ## Tips and Tricks
