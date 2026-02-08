@@ -221,6 +221,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [the-momentum/apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) 🐍 🏠 🍎 🪟 🐧 - An MCP server that provides access to exported data from Apple Health. Data analytics included.
 - [the-momentum/fhir-mcp-server](https://github.com/the-momentum/fhir-mcp-server) 🐍 🏠 ☁️ - MCP Server that connects AI agents to FHIR servers. One example use case is querying patient history in natural language.
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs. Provides seamless integration with FHIR servers, enabling AI assistants to search, retrieve, create, update, and analyze clinical healthcare data with SMART-on-FHIR authentication support.
+- [langcare/langcare-mcp-fhir](https://github.com/langcare/langcare-mcp-fhir) 🏎️ 🏠 ☁️ - Enterprise-grade MCP Server for FHIR-based EMRs like EPIC and Cerner, designed for robust deployments in agentic AI platforms. Fully written in Go with enterprise-grade security and generic FHIR operations that work with any FHIR R4 resource type. Also includes 40+ agent-agnostic clinical workflow guides that teach AI agents how to perform complex healthcare tasks using the MCP server's 4 FHIR tools (fhir_search, fhir_read, fhir_create, fhir_update).
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
