@@ -1412,7 +1412,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🏢 <a name="workplace-and-productivity"></a>Workplace & Productivity
 
-- [bifrost-mcp/rippling-mcp](https://github.com/bifrost-mcp/rippling-mcp) 📇 ☁️ 🍎 🪟 🐧 - Rippling HR/IT/Finance platform integration with 18 tools for managing employees, departments, leave requests, groups, and company operations.
+- [bifrost-mcp/rippling-mcp](https://github.com/bifrost-mcp/rippling-mcp) 📇 ☁️ 🍎 🪟 🐧 - Rippling HR/IT/Finance platform integration with 18 tools for managing employees, departments, payroll, benefits, time tracking, and company operations.
 - [bivex/kanboard-mcp](https://github.com/bivex/kanboard-mcp) 🏎️ ☁️ 🏠 - A Model Context Protocol (MCP) server written in Go that empowers AI agents and Large Language Models (LLMs) to seamlessly interact with Kanboard. It transforms natural language commands into Kanboard API calls, enabling intelligent automation of project, task, and user management, streamlining workflows, and enhancing productivity.
 - [bug-breeder/quip-mcp](https://github.com/bug-breeder/quip-mcp) 📇 ☁️ 🍎 🪟 🐧 - A Model Context Protocol (MCP) server providing AI assistants with comprehensive Quip document access and management. Enables document lifecycle management, smart search, comment management, and secure token-based authentication for both Quip.com and enterprise instances.
 - [devroopsaha744/TexMCP](https://github.com/devroopsaha744/TexMCP) 🐍 🏠 - An MCP server that converts LaTeX into high-quality PDF documents. It provides tools for rendering both raw LaTeX input and customizable templates, producing shareable, production-ready artifacts such as reports, resumes, and research papers.
