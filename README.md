@@ -917,6 +917,7 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [luebken/playlist-mcp](https://github.com/luebken/playlist-mcp): Provides access to YouTube playlist transcripts via an experimental MCP server, with initial support for KubeCon London 2025 content.
 - [sandst1/mcp-server-midi](https://github.com/sandst1/mcp-server-midi): Facilitates the transmission of MIDI sequences from an LLM to any MIDI-compatible software, enabling seamless integration with digital audio workstations and hardware synthesizers.
 - [falahgs/image-gen3-google-mcp-server](https://github.com/falahgs/image-gen3-google-mcp-server): Harness Google's Imagen 3.0 model via the Gemini API for high-quality image generation, seamlessly integrating with Claude Desktop and other MCP-compatible hosts.
+- [transloadit/node-sdk](https://github.com/transloadit/node-sdk/tree/main/packages/mcp-server): Agent-native media processing via Transloadit's 86+ Robots, supporting video encoding, image manipulation, document conversion, OCR, and speech transcription. Hosted or self-hosted via npx.
 
 ## 🖥️ Operating System & Command Line
 
