@@ -1046,6 +1046,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [topskychen/tilde](https://github.com/topskychen/tilde) 🐍 🏠 - Your AI agents' home directory — privacy-first MCP server for portable AI identity. Configure once, use everywhere. It supports profile management, skills, resume import, and team sync.
 - [unibaseio/membase-mcp](https://github.com/unibaseio/membase-mcp) 📇 ☁️ - Save and query your agent memory in distributed way by Membase
 - [upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - Up-to-date code documentation for LLMs and AI code editors.
+- [CoderDayton/verifiable-thinking-mcp](https://github.com/CoderDayton/verifiable-thinking-mcp) 📇 🏠 🍎 🪟 🐧 - Structured reasoning scratchpad with step verification, cognitive trap detection, confidence-drift analysis, and integrated math computation. Auto-verifies chains >3 steps, detects 12+ trap patterns (e.g. off-by-one, base-rate neglect), and compresses context 10× via telegraphic encoding.
 - [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) 🦀 🏠 - Cognitive memory for AI agents with Hebbian learning, 3-tier architecture, and knowledge graphs. Single ~15MB binary, runs offline on edge devices.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🐍 ☁️ 🏠 - Hindsight: Agent Memory That Works Like Human Memory - Built for AI Agents to manage Long Term Memory
 
