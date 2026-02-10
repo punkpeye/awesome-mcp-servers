@@ -603,6 +603,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [ConfigCat/mcp-server](https://github.com/configcat/mcp-server) 🎖️ 📇 ☁️ - MCP server for interacting with ConfigCat feature flag platform. Supports managing feature flags, configs, environments, products and organizations.
 - [cqfn/aibolit-mcp-server](https://github.com/cqfn/aibolit-mcp-server) ☕ - Helping Your AI Agent Identify Hotspots for Refactoring; Help AI Understand How to 'Make Code Better'
 - [currents-dev/currents-mcp](https://github.com/currents-dev/currents-mcp) 🎖️ 📇 ☁️ Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
+- [Dave-London/pare](https://github.com/Dave-London/pare) 📇 🏠 🍎 🪵 🐧 - 62 MCP tools wrapping git, npm, cargo, go, docker, python, lint, build, and test runners with structured, token-efficient JSON output optimized for AI agents
 - [Daghis/teamcity-mcp](https://github.com/Daghis/teamcity-mcp) 📇 ☁️ 🍎 🪟 🐧 - MCP server for JetBrains TeamCity with 87 tools for builds, tests, agents, and CI/CD pipeline management. Features dual-mode operation (dev/full) and runtime mode switching.
 - [dannote/figma-use](https://github.com/dannote/figma-use) 📇 🏠 - Full Figma control: create shapes, text, components, set styles, auto-layout, variables, export. 80+ tools.
 - [davidan90/time-node-mcp](https://github.com/davidan90/time-node-mcp) 📇 🏠 - Timezone-aware date and time operations with support for IANA timezones, timezone conversion, and Daylight Saving Time handling.
