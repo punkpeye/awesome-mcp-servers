@@ -1087,6 +1087,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - A Model Context Protocol server for TikTok Ads API integration, enabling AI assistants to manage campaigns, analyze performance metrics, handle audiences and creatives with OAuth authentication flow.
+- [Apple Search Ads MCP](https://github.com/ppcprophet/apple-ads-mcp) ☁️ - Apple Search Ads MCP server with 26 tools for campaign analytics, bid management, keyword optimization, and install attribution tracking.
 - [BlockRunAI/x-grow](https://github.com/BlockRunAI/x-grow) 📇 ☁️ - X/Twitter algorithm optimizer with post drafting, review scoring, and AI image generation for maximum engagement.
 - [gomarble-ai/facebook-ads-mcp-server](https://github.com/gomarble-ai/facebook-ads-mcp-server) 🐍 ☁️ - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - [gomarble-ai/google-ads-mcp-server](https://github.com/gomarble-ai/google-ads-mcp-server) 🐍 ☁️ - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
