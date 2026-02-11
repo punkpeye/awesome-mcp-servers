@@ -1147,11 +1147,11 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 Tools for conducting research, surveys, interviews, and data collection.
 
 - [Embassy-of-the-Free-Mind/sourcelibrary-v2](https://github.com/Embassy-of-the-Free-Mind/sourcelibrary-v2/tree/main/mcp-server) 📇 ☁️ - Search and cite rare historical texts (alchemy, Hermeticism, Renaissance philosophy) with DOI-backed academic citations from [Source Library](https://sourcelibrary.org)
+- [martinfrasch/researchtwin](https://github.com/martinfrasch/researchtwin/tree/master/mcp-server) 🐍 ☁️ - Discover researchers, publications, datasets, and code repositories across a federated network of researcher digital twins. Explore S-Index impact metrics (Quality × Impact × Collaboration) with data from Semantic Scholar, Google Scholar, GitHub, and Figshare.
 - [ovlabs/mcp-server-originalvoices](https://github.com/ovlabs/mcp-server-originalvoices) 📇 ☁️ - Instantly understand what real users think and why by querying our network of 1:1 Digital Twins - each representing a real person. Give your AI agents authentic human context to ground outputs, improve creative, and make smarter decisions.
 - [Pantheon-Security/notebooklm-mcp-secure](https://github.com/Pantheon-Security/notebooklm-mcp-secure) 📇 🏠 🍎 🪟 🐧 - Query Google NotebookLM from Claude/AI agents with 14 security hardening layers. Session-based conversations, notebook library management, and source-grounded research responses.
 - [pminervini/deep-research-mcp](https://github.com/pminervini/deep-research-mcp) 🐍 ☁️ 🏠 - Deep research MCP server for OpenAI Responses API or Open Deep Research (smolagents), with web search and code interpreter support.
 - [thinkchainai/agentinterviews_mcp](https://github.com/thinkchainai/agentinterviews_mcp) - Conduct AI-powered qualitative research interviews and surveys at scale with [Agent Interviews](https://agentinterviews.com). Create interviewers, manage research projects, recruit participants, and analyze interview data through MCP.
-
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
 
 - [poll-the-people/customgpt-mcp](https://github.com/Poll-The-People/customgpt-mcp) 🐍 🏠 ☁️ - An MCP server for accessing all of CustomGPT.ai's anti-hallucination RAG-as-a-service API endpoints.
