@@ -256,6 +256,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - An MCP server that enables free web searching using Google search results, with no API keys required.
 - [recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - An MCP Server Integration with Apple Shortcuts
 - [serkan-ozal/browser-devtools-mcp](https://github.com/serkan-ozal/browser-devtools-mcp) 📇 - An MCP Server enables AI assistants to autonomously test, debug, and validate web applications.
+- [dddabtc/winremote-mcp](https://github.com/dddabtc/winremote-mcp) 📇 🏠 🪟 - Windows remote desktop control and automation via MCP. 40+ tools for screenshots, mouse/keyboard control, file operations, registry, services, OCR, screen recording, and more.
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
