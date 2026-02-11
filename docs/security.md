@@ -99,4 +99,5 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [alexgoller/illumio-mcp-server](https://github.com/alexgoller/illumio-mcp-server): Enables programmatic interaction with Illumio PCE for workload management, label operations, and traffic flow analysis.
 - [Sladey01/github-snyk-server](https://github.com/Sladey01/github-snyk-server): Integrates GitHub repository access with Snyk security scanning for enhanced vulnerability analysis in Claude.
 - [fr0gger/MCP_Security](https://github.com/fr0gger/MCP_Security): A Model Context Protocol server for querying the ORKL API, providing tools for threat intelligence analysis and integration with MCP-compatible applications.
+- [imran-siddique/agent-os](https://github.com/imran-siddique/agent-os): Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
 
