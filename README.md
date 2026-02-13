@@ -1378,6 +1378,7 @@ Tools for converting text-to-speech and vice-versa
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
 
+- [astondg/aitrips-mcp](https://github.com/astondg/aitrips-mcp) 📇 ☁️ - AI-native trip planning platform enabling AI assistants to create and manage trips with itinerary items, locations, tasks, collaboration, and interactive map visualization.
 - [campertunity/mcp-server](https://github.com/campertunity/mcp-server) 🎖️ 📇 🏠 - Search campgrounds around the world on campertunity, check availability, and provide booking links
 - [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) 🐍 🏠 - A Model Context Protocol (MCP) server that provides access to your TeslaMate database, allowing AI assistants to query Tesla vehicle data and analytics.
 - [helpful-AIs/triplyfy-mcp](https://github.com/helpful-AIs/triplyfy-mcp) 📇 ☁️ - An MCP server that lets LLMs plan and manage itineraries with interactive maps in Triplyfy; manage itineraries, places and notes, and search/save flights.
