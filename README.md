@@ -1607,3 +1607,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
+- [AgentIndex](https://github.com/agentidx/agentindex) <a href='https://smithery.ai/server/agentidx/agentcrawl'><img alt='Smithery' src='https://smithery.ai/badge/agentidx/agentcrawl'></a> - Discovery service for 36,000+ AI agents. MCP server, REST API, and A2A protocol support.
