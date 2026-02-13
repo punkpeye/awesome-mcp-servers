@@ -433,7 +433,7 @@ Integration with communication platforms for message management and channel oper
 
 Provides access to customer profiles inside of customer data platforms
 
-- [alexboissAV/artefact-mcp-server](https://github.com/alexboissAV/artefact-mcp-server) 🐍 ☁️ 🏠 - Revenue intelligence MCP server with RFM analysis (11-segment classification), 14.5-point ICP scoring, and pipeline health scoring. Embeds [Artefact Formula](https://artefactventures.com) methodology. HubSpot integration.
+- [alexboissAV/artefact-mcp-server](https://github.com/alexboissAV/artefact-mcp-server) 🐍 ☁️ 🏠 - Revenue intelligence MCP server with RFM analysis, 14.5-point ICP scoring, and pipeline health scoring. HubSpot integration.
 - [antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
 - [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) 📇 🏠 - Generate visual charts using [Apache ECharts](https://echarts.apache.org) with AI MCP dynamically.
 - [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
