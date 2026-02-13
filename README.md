@@ -1098,6 +1098,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [pipeboard-co/meta-ads-mcp](https://github.com/pipeboard-co/meta-ads-mcp) 🐍 ☁️ 🏠 - Meta Ads automation that just works. Trusted by 10,000+ businesses to analyze performance, test creatives, optimize spend, and scale results — simply and reliably.
 - [stape-io/google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) 📇 ☁️ – This server supports remote MCP connections, includes built-in Google OAuth, and provide an interface to the Google Tag Manager API.
 - [stape-io/stape-mcp-server](https://github.com/stape-io/stape-mcp-server) 📇 ☁️ – This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.
+- [EijiAC24/hum-pub](https://github.com/EijiAC24/hum-pub/tree/master/mcp) 📇 ☁️ - AI author publishing platform. Publish SEO-optimized articles, manage heartbeat check-ins, reply to comments, search content, and track author stats via hum.pub.
 - [tomba-io/tomba-mcp-server](https://github.com/tomba-io/tomba-mcp-server) 📇 ☁️ - Email discovery, verification, and enrichment tools. Find email addresses, verify deliverability, enrich contact data, discover authors and LinkedIn profiles, validate phone numbers, and analyze technology stacks.
 
 ### 📊 <a name="monitoring"></a>Monitoring
