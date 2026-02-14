@@ -1048,6 +1048,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [unibaseio/membase-mcp](https://github.com/unibaseio/membase-mcp) 📇 ☁️ - Save and query your agent memory in distributed way by Membase
 - [upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - Up-to-date code documentation for LLMs and AI code editors.
 - [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) 🦀 🏠 - Cognitive memory for AI agents with Hebbian learning, 3-tier architecture, and knowledge graphs. Single ~15MB binary, runs offline on edge devices.
+- [varun369/SuperLocalMemoryV2](https://github.com/varun369/SuperLocalMemoryV2) 🐍 🏠 🍎 🪟 🐧 - Universal local-first AI memory system with 10-layer architecture: SQLite + FTS5 full-text search, knowledge graph (Leiden clustering), pattern learning, agent trust scoring, and real-time event streaming. Works with 17+ AI tools (Claude, Cursor, Windsurf, ChatGPT, VS Code, Codex, Gemini CLI, JetBrains) via MCP. 100% free, zero cloud dependencies.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🐍 ☁️ 🏠 - Hindsight: Agent Memory That Works Like Human Memory - Built for AI Agents to manage Long Term Memory
 
 ### ⚖️ <a name="legal"></a>Legal
