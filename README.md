@@ -838,7 +838,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) 📇 ☁️ - Deep Research for crypto - free & fully local
-- [agentc22/x402engine-mcp](https://github.com/agentc22/x402engine-mcp) 📇 ☁️ - 16 pay-per-call AI APIs (image gen, code execution, transcription, crypto data, blockchain analytics, IPFS) via HTTP 402 micropayments with USDC/USDm.
+- [agentc22/x402engine-mcp](https://github.com/agentc22/x402engine-mcp) 📇 ☁️ - 38 pay-per-call AI APIs (15 LLMs, image gen, code execution, TTS, transcription, crypto data, blockchain analytics, web scraping, IPFS) via HTTP 402 micropayments with USDC/USDm.
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp) 🎖️ 🐍 ☁️ 🏠 - Access institutional-grade alternative financial data directly in your LLM workflows.
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - Risk score / asset holdings of EVM blockchain address (EOA, CA, ENS) and even domain names.
 - [alchemy/alchemy-mcp-server](https://github.com/alchemyplatform/alchemy-mcp-server) 🎖️ 📇 ☁️ - Allow AI agents to interact with Alchemy's blockchain APIs.
