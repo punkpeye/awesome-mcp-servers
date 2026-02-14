@@ -856,6 +856,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [decidefyi/decide](https://github.com/decidefyi/decide) 📇 ☁️ - Deterministic refund eligibility notary MCP server. Returns ALLOWED / DENIED / UNKNOWN for subscription refunds (Adobe, Spotify, etc.) via a stateless rules engine.
 - [doggybee/mcp-server-ccxt](https://github.com/doggybee/mcp-server-ccxt) 📇 ☁️ - An MCP server for accessing real-time crypto market data and trading via 20+ exchanges using the CCXT library. Supports spot, futures, OHLCV, balances, orders, and more.
 - [etbars/vibetrader-mcp](https://github.com/etbars/vibetrader-mcp) 🐍 ☁️ - AI-powered trading bot platform. Create automated trading strategies with natural language via Alpaca brokerage.
+- [ExpertVagabond/ordinals-mcp](https://github.com/ExpertVagabond/ordinals-mcp) 📇 ☁️ - Bitcoin Ordinals MCP server with 24 tools for inscriptions, runes, BRC-20, collections, marketplace data, and rare sats. Multi-API fallback with intelligent caching.
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - Yahoo Finance integration to fetch stock market data including options recommendations
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API integration to handle trading activities on Tastytrade
 - [ferdousbhai/wsb-analyst-mcp](https://github.com/ferdousbhai/wsb-analyst-mcp) 🐍 ☁️ - Reddit integration to analyze content on WallStreetBets community
