@@ -151,6 +151,7 @@ Servers using tools for browser control, automation, and extracting content from
 - [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp): Fetches and converts Deepwiki content into Markdown for LLM consumption, ensuring domain safety and efficient crawling.
 - [yan5236/bing-cn-mcp-server](https://github.com/yan5236/bing-cn-mcp-server): A Chinese Bing search tool leveraging MCP for seamless integration with AI tools like Claude, enabling direct Bing searches and webpage content retrieval without an API key.
 - [w1561778301/mcp-playwright-test](https://github.com/w1561778301/mcp-playwright-test): Automates Playwright tests by generating and executing UI and API test cases with detailed reporting.
+- [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill): AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
 - [xinlei413/DOC-Server-MCP](https://github.com/xinlei413/DOC-Server-MCP): Fetches and searches third-party package documentation using versatile scraping and intelligent processing with hybrid search capabilities.
 - [kxkaloo/mcp](https://github.com/kxkaloo/mcp): Enables AI models to extract structured data from websites using the Scrapezy MCP server.
 - [eadm/grain-mcp-server](https://github.com/eadm/grain-mcp-server): Facilitates integration with Grain for meeting recording and transcription through browser automation, bypassing enterprise API restrictions.
