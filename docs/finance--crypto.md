@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [bnmbnmai/mcp-proxy](https://github.com/bnmbnmai/mcp-proxy): Apollo Intelligence MCP Server — 21 tools for AI agents including real-time crypto prices, trending tokens, web scraping via 190+ country residential proxy network, market sentiment, agentic trends, and curated intelligence feeds. Pay-per-request via x402 micropayments (USDC on Base). Install: `npm i -g @apollo_ai/mcp-proxy`
 - [RioTheGreat-ai/agentfund-mcp](https://github.com/RioTheGreat-ai/agentfund-mcp): Crowdfunding for AI agents with milestone-based escrow on Base chain. Create funding proposals, track projects, receive payments.
 - [trayders/trayd-mcp](https://github.com/trayders/trayd-mcp): Trade Robinhood stocks through natural language in Claude Code, with portfolio analysis, real-time quotes, and order execution.
 - [ccassini/DEVNADS-Monad-TESNET-MCP-Tools](https://github.com/ccassini/DEVNADS-Monad-TESNET-MCP-Tools): Interact with the Monad blockchain testnet using a Model Context Protocol server for wallet management, network insights, and token operations.
