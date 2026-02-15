@@ -1,0 +1,66 @@
+# awesome-mcp-servers.ai.index — Awesome MCP Servers Directory
+# Searchable index. Every entry is greppable. One line per item.
+# RULE: Every entry MUST have a verifiable reference — either:
+#   → path/file.py:LINE  (file + line number, validated by CI)
+#   | GREP: grep "pattern" file  (grep command, validated by CI)
+# Entries without verifiable refs will FAIL CI validation.
+# Validator: ci/validate-ai-index.sh (from lbf-templates)
+
+## Features (by version)
+# v1.0: Curated MCP server directory → README.md:21 | 500+ server implementations across 40+ categories
+
+## Log Signatures
+# [log] CONTRIBUTION_PATTERN: New server added | GREP: grep "Add new.*server" git log --oneline
+# [log] CATEGORY_EXPANSION: New category created | GREP: grep "add.*category" git log --oneline
+# [log] TRANSLATION_UPDATE: Multi-language sync | GREP: grep "README.*\.md" git status
+
+## Classes
+# [class] AwesomeDirectory → README.md:1 — Curated list of MCP server implementations
+# [class] ContributionGuide → CONTRIBUTING.md:1 — Workflow for community additions
+# [class] MultiLanguageSupport → README.md:3 — 8 language variants of the directory
+
+## Functions
+# [fn] awesome_list → README.md:21 — Main directory of categorized MCP servers
+# [fn] web_directory → README.md:16 — glama.ai web-based server browser
+# [fn] mcp_inspector → README.md:18 — Browser tool for server testing
+# [fn] contribution_workflow → CONTRIBUTING.md:7 — Fork-based addition process
+# [fn] quality_standards → CONTRIBUTING.md:32 — Guidelines for server listings
+
+## Constants / Config
+# [const] BADGE_AWESOME → README.md:1 — Official awesome list badge validation
+# [const] DISCORD_LINK → README.md:9 — Community Discord server integration
+# [const] REDDIT_COMMUNITY → README.md:10 — Subreddit for MCP discussions
+# [const] WEB_DIRECTORY → README.md:16 — glama.ai/mcp/servers interface
+# [const] INSPECTOR_TOOL → README.md:18 — MCP server testing platform
+
+## API Endpoints
+# [api] SERVER_DIRECTORY → README.md:16 — Web interface for browsing servers
+# [api] CLIENT_LIST → README.md:36 — Companion list of MCP clients
+# [api] GLAMA_CHAT → README.md:40 — Multi-modal AI client with MCP support
+
+## Test Suites
+# [test] ServerValidation → README.md:18 — MCP Inspector for live testing
+# [test] LinkValidation → CONTRIBUTING.md:32 — Accuracy and update verification
+
+## Behavioral Markers
+# [marker] MULTILINGUAL: 8 language variants | GREP: grep "README.*md$" ls -1
+# [marker] COMMUNITY_DRIVEN: Active Discord and Reddit | GREP: grep "discord\|reddit" README.md
+# [marker] WEB_INTEGRATION: glama.ai sync | GREP: grep "glama.ai" README.md
+# [marker] QUALITY_CONTROLLED: Contribution guidelines | GREP: grep "Guidelines" CONTRIBUTING.md
+# [marker] CATEGORIZED: Organized server sections | GREP: grep "## " README.md
+# [marker] AWESOME_COMPLIANT: Official badge | GREP: grep "awesome.re" README.md
+# [marker] FORK_WORKFLOW: Standard GitHub contribution | GREP: grep "Fork.*repository" CONTRIBUTING.md
+# [marker] ALPHABETICAL: Ordered within categories | GREP: grep "alphabetical" CONTRIBUTING.md
+
+## Key Patterns
+# [pattern] awesome_list → README.md:1 — Community-curated quality directory
+# [pattern] multi_language → README.md:3 — 8 synchronized language variants
+# [pattern] web_integration → README.md:16 — Browser-based discovery and testing
+# [pattern] community_validation → CONTRIBUTING.md:7 — PR-based quality assurance
+
+## Debugging Cheat Sheet
+# If you see [missing servers] → check new additions in recent PRs
+# If links are broken | GREP: grep "http.*404" curl validation
+# If translation sync fails | GREP: grep "outdated.*README" git status
+# If category is wrong → check alphabetical order per CONTRIBUTING.md guidelines
+# If tests fail → run MCP Inspector at glama.ai/mcp/inspector for validation
