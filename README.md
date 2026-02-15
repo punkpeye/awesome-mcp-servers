@@ -175,7 +175,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - A local MCP server that generates animations using Manim.
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) 🐍 - MCP server for working with Blender
 - [aliafsahnoudeh/shahnameh-mcp-server](https://github.com/aliafsahnoudeh/shahnameh-mcp-server) 🐍 🏠 🍎 🪟 🐧 - MCP server for accessing the Shahnameh (Book of Kings) Persian epic poem by Ferdowsi, including sections, verses and explanations.
-- [albertnahas/icogenie](https://github.com/albertnahas/icogenie-mcp) 📇 ☁️ - AI-powered SVG icon generation MCP server. Generate production-ready icons from text descriptions with support for single icons, bundles, style customization, and regeneration.
+- [albertnahas/icogenie-mcp](https://github.com/albertnahas/icogenie-mcp) 📇 ☁️ - AI-powered SVG icon generation MCP server. Generate production-ready icons from text descriptions with support for single icons, bundles, style customization, and regeneration.
 - [asmith26/jupytercad-mcp](https://github.com/asmith26/jupytercad-mcp) 🐍 🏠 🍎 🪟 🐧 - An MCP server for [JupyterCAD](https://github.com/jupytercad/JupyterCAD) that allows you to control it using LLMs/natural language.
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - Provides comprehensive and accurate Bazi (Chinese Astrology) charting and analysis
