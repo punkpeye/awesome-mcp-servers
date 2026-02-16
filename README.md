@@ -125,6 +125,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 
+- [debtstack-ai](https://pypi.org/project/debtstack-ai/) u{1F40D} u{2601}u{FE0F} - Corporate credit data API for AI agents - bonds, leverage, guarantors, and SEC filings across 200+ companies.
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
