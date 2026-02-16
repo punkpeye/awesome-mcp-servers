@@ -196,6 +196,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - 用于管理 Google Tasks 的 MCP 服务器
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - MCP 服务器通过模型上下文协议 (MCP) 提供对 iMessage 数据库的安全访问，使 LLM 能够通过适当的电话号码验证和附件处理来查询和分析 iMessage 对话
+- [FastAlertNow/mcp-server](https://github.com/FastAlertNow/mcp-server) 💬 ☁️ - FastAlert MCP 服务器 - FastAlert 的官方 Model Context Protocol (MCP) 服务器。该服务器允许 AI 代理（如 Claude、ChatGPT 和 Cursor）列出您的频道，并通过 FastAlert API 直接发送通知。 ![FastAlert 图标](https://fastalert.now/icons/favicon-32x32.png)
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - 用于频道管理和消息传递的 Slack 工作区集成
 - [@keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky 实例集成，用于查询和交互
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - 与 Gmail 和 Google 日历集成。
