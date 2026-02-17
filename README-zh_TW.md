@@ -262,6 +262,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@sammcj/mcp-package-version](https://github.com/sammcj/mcp-package-version) 📦 🏠 - MCP 伺服器可幫助 LLM 在編寫程式碼時建議最新的穩定套裝軟體版本。
 - [delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - 與 [Postman API](https://www.postman.com/postman/postman-public-workspace/) 進行交互
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - 基於 Pandoc 的 MCP 伺服器，支援 Markdown、HTML、PDF、DOCX（.docx）、csv 等格式之間的無縫轉換
+- [preloop/preloop](https://github.com/preloop/preloop) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 基於MCP代理的事件驅動AI自動化平台，內建human-in-the-loop安全機制。
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - 這個 MCP 伺服器提供了使用 wget 下載完整網站的工具，可保留網站結構並轉換連結以支援本地訪問
 - [public-ui/kolibri](https://github.com/public-ui/kolibri) 📇 ☁️ 🏠 - 串流式 KoliBri MCP 伺服器（NPM：`@public-ui/mcp`），透過託管的 HTTP 端點或本機 `kolibri-mcp` CLI 提供 200+ 份確保無障礙的網頁元件範例、規格、文件與情境。
 - [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - 用於PTY操作的AI助手，使智慧體能夠通過有狀態會話、SSH連接和後台進程管理來控制互動式終端
