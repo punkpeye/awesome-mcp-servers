@@ -715,6 +715,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - Connect any HTTP/REST API server using an Open API spec (v3)
 - [spacecode-ai/SpaceBridge-MCP](https://github.com/spacecode-ai/SpaceBridge-MCP) 🐍 🏠 🍎 🐧 - Bring structure and preserve context in vibe coding by automatically tracking issues.
 - [srijanshukla18/xray](https://github.com/srijanshukla18/xray) 🐍 🏠 - Progressive code-intelligence MCP server: map project structure, fuzzy-find symbols, and assess change-impact across Python, JS/TS, and Go (powered by `ast-grep`).
+- [automatikstudio/sitescore-mcp](https://github.com/automatikstudio/mcp-servers/tree/main/sitescore-mcp) 📇 ☁️ - Comprehensive website auditing for SEO, performance, accessibility, mobile-friendliness, and security using AI-powered analysis.
 - [st3v3nmw/sourcerer-mcp](https://github.com/st3v3nmw/sourcerer-mcp) 🏎️ ☁️ - MCP for semantic code search & navigation that reduces token waste
 - [stass/lldb-mcp](https://github.com/stass/lldb-mcp) 🐍 🏠 🐧 🍎 - A MCP server for LLDB enabling AI binary and core file analysis, debugging, disassembling.
 - [storybookjs/addon-mcp](https://github.com/storybookjs/addon-mcp) 📇 🏠 - Help agents automatically write and test stories for your UI components.
@@ -1055,6 +1056,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
+- [automatikstudio/legalforge-mcp](https://github.com/automatikstudio/mcp-servers/tree/main/legalforge-mcp) 📇 ☁️ - Generate professional legal documents including GDPR/CCPA compliant privacy policies, terms of service, and cookie policies using AI.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
@@ -1088,6 +1090,9 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - A Model Context Protocol server for TikTok Ads API integration, enabling AI assistants to manage campaigns, analyze performance metrics, handle audiences and creatives with OAuth authentication flow.
+- [automatikstudio/adcraft-mcp](https://github.com/automatikstudio/mcp-servers/tree/main/adcraft-mcp) 📇 ☁️ - Generate high-converting ad copy for multiple platforms including Google Ads, Facebook, LinkedIn, and more using AI-powered content creation.
+- [automatikstudio/brandsnap-mcp](https://github.com/automatikstudio/mcp-servers/tree/main/brandsnap-mcp) 📇 ☁️ - Generate comprehensive brand identity guidelines including brand voice, visual style, messaging framework, and brand positioning using AI.
+- [automatikstudio/copyforge-mcp](https://github.com/automatikstudio/mcp-servers/tree/main/copyforge-mcp) 📇 ☁️ - Generate professional e-commerce product copy including titles, descriptions, bullet points, and SEO-optimized content for online stores.
 - [BlockRunAI/x-grow](https://github.com/BlockRunAI/x-grow) 📇 ☁️ - X/Twitter algorithm optimizer with post drafting, review scoring, and AI image generation for maximum engagement.
 - [gomarble-ai/facebook-ads-mcp-server](https://github.com/gomarble-ai/facebook-ads-mcp-server) 🐍 ☁️ - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
 - [gomarble-ai/google-ads-mcp-server](https://github.com/gomarble-ai/google-ads-mcp-server) 🐍 ☁️ - MCP server acting as an interface to the Google Ads, enabling programmatic access to Google Ads data and management features.
@@ -1096,6 +1101,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [MatiousCorp/google-ad-manager-mcp](https://github.com/MatiousCorp/google-ad-manager-mcp) 🐍 ☁️ - Google Ad Manager API integration for managing campaigns, orders, line items, creatives, and advertisers with bulk upload support.
 - [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - A suite of marketing tools from Open Strategy Partners including writing style, editing codes, and product marketing value map creation.
 - [pipeboard-co/meta-ads-mcp](https://github.com/pipeboard-co/meta-ads-mcp) 🐍 ☁️ 🏠 - Meta Ads automation that just works. Trusted by 10,000+ businesses to analyze performance, test creatives, optimize spend, and scale results — simply and reliably.
+- [automatikstudio/proofbase-mcp](https://github.com/automatikstudio/mcp-servers/tree/main/proofbase-mcp) 📇 ☁️ - Generate realistic and compelling customer testimonials and social proof content using AI to enhance credibility and trust.
 - [stape-io/google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) 📇 ☁️ – This server supports remote MCP connections, includes built-in Google OAuth, and provide an interface to the Google Tag Manager API.
 - [stape-io/stape-mcp-server](https://github.com/stape-io/stape-mcp-server) 📇 ☁️ – This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.
 - [tomba-io/tomba-mcp-server](https://github.com/tomba-io/tomba-mcp-server) 📇 ☁️ - Email discovery, verification, and enrichment tools. Find email addresses, verify deliverability, enrich contact data, discover authors and LinkedIn profiles, validate phone numbers, and analyze technology stacks.
@@ -1317,6 +1323,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 
 - [anwerj/youtube-uploader-mcp](https://github.com/anwerj/youtube-uploader-mcp) 🏎️ ☁️ - AI‑powered YouTube uploader—no CLI, no YouTube Studio. Uploade videos directly from MCP clients with all AI capabilities.
 - [arjun1194/insta-mcp](https://github.com/arjun1194/insta-mcp) 📇 🏠 - Instagram MCP server for analytics and insights. Get account overviews, posts, followers, following lists, post insights, and search for users, hashtags, or places.
+- [automatikstudio/remixpost-mcp](https://github.com/automatikstudio/mcp-servers/tree/main/remixpost-mcp) 📇 ☁️ - Repurpose content across social media platforms. Transform articles, URLs, or text into platform-optimized content for Twitter threads, LinkedIn posts, Instagram captions, and newsletter introductions.
 - [gwbischof/bluesky-social-mcp](https://github.com/gwbischof/bluesky-social-mcp) 🐍 🏠 - An MCP server for interacting with Bluesky via the atproto client.
 - [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server) 🐍 ☁️ - Integrates with Facebook Pages to enable direct management of posts, comments, and engagement metrics through the Graph API for streamlined social media management.
 - [karanb192/reddit-mcp-buddy](https://github.com/karanb192/reddit-mcp-buddy) 📇 🏠 - Browse Reddit posts, search content, and analyze user activity without API keys. Works out-of-the-box with Claude Desktop.
@@ -1349,6 +1356,7 @@ Tools for accessing sports-related data, results, and statistics.
 Tools for managing customer support, IT service management, and helpdesk operations.
 
 - [aikts/yandex-tracker-mcp](https://github.com/aikts/yandex-tracker-mcp) 🐍 ☁️ 🏠 - MCP Server for Yandex Tracker. Provides tools for searching and retrieving information about issues, queues, users.
+- [automatikstudio/reviewreply-mcp](https://github.com/automatikstudio/mcp-servers/tree/main/reviewreply-mcp) 📇 ☁️ - Generate professional responses to customer reviews across multiple tones (professional, friendly, empathetic, grateful) for any business type using AI.
 - [Berckan/bugherd-mcp](https://github.com/Berckan/bugherd-mcp) 📇 ☁️ - MCP server for BugHerd bug tracking. List projects, view tasks with filtering by status/priority/tags, get task details, and read comments.
 - [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - MCP server that integrates with Freshdesk, enabling AI models to interact with Freshdesk modules and perform various support operations.
 - [incentivai/quickchat-ai-mcp](https://github.com/incentivai/quickchat-ai-mcp) 🐍 🏠 ☁️ - Launch your conversational Quickchat AI agent as an MCP to give AI apps real-time access to its Knowledge Base and conversational capabilities.
@@ -1418,10 +1426,13 @@ Interact with Git repositories and version control platforms. Enables repository
 - [devroopsaha744/TexMCP](https://github.com/devroopsaha744/TexMCP) 🐍 🏠 - An MCP server that converts LaTeX into high-quality PDF documents. It provides tools for rendering both raw LaTeX input and customizable templates, producing shareable, production-ready artifacts such as reports, resumes, and research papers.
 - [foxintheloop/UpTier](https://github.com/foxintheloop/UpTier) 📇 🏠 🪟 - Desktop task manager with clean To Do-style UI and 25+ MCP tools for prioritization, goal tracking, and multi-profile workflows.
 - [giuseppe-coco/Google-Workspace-MCP-Server](https://github.com/giuseppe-coco/Google-Workspace-MCP-Server) 🐍 ☁️ 🍎 🪟 🐧 - MCP server that seamlessly interacts with your Google Calendar, Gmail, Drive and so on.
+- [automatikstudio/hirescript-mcp](https://github.com/automatikstudio/mcp-servers/tree/main/hirescript-mcp) 📇 ☁️ - Generate bias-free, inclusive job descriptions that attract diverse talent while maintaining professional standards and compliance with employment guidelines.
 - [khaoss85/mcp-orchestro](https://github.com/khaoss85/mcp-orchestro) 📇 ☁️ 🍎 🪟 🐧 - Trello for Claude Code: AI-powered task management with 60 MCP tools, visual Kanban board, and intelligent orchestration for product teams and developers.
 - [louis030195/toggl-mcp](https://github.com/louis030195/toggl-mcp) 📇 ☁️ 🍎 🪟 🐧 - Time tracking integration with Toggl Track. Start/stop timers, manage time entries, track project time, and get today's summary. Perfect for productivity tracking and billing workflows.
 - [MarceauSolutions/amazon-seller-mcp](https://github.com/MarceauSolutions/amazon-seller-mcp) 🐍 ☁️ - Amazon Seller Central operations via SP-API - manage inventory, track orders, analyze sales, and optimize listings
 - [MarceauSolutions/hvac-quotes-mcp](https://github.com/MarceauSolutions/hvac-quotes-mcp) 🐍 🏠 ☁️ - HVAC equipment RFQ management for contractors - submit quotes to distributors, track responses, and compare pricing
+- [automatikstudio/pitchdeck-mcp](https://github.com/automatikstudio/mcp-servers/tree/main/pitchdeck-mcp) 📇 ☁️ - Generate compelling investor pitch decks with structured slides covering market analysis, business model, financial projections, and team introduction using AI.
+- [automatikstudio/proposalpilot-mcp](https://github.com/automatikstudio/mcp-servers/tree/main/proposalpilot-mcp) 📇 ☁️ - Generate professional freelance proposals tailored to client requirements, including project scope, timeline, pricing, and terms using AI-powered content creation.
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) 🐍 ☁️ - Integration with gmail and Google Calendar.
 - [takumi0706/google-calendar-mcp](https://github.com/takumi0706/google-calendar-mcp) 📇 ☁️ - An MCP server to interface with the Google Calendar API. Based on TypeScript.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) 🐍 ☁️ 🍎 🪟 🐧 - Comprehensive Google Workspace MCP server with full support for Google Calendar, Drive, Gmail, and Docs, Forms, Chats, Slides and Sheets over stdio, Streamable HTTP and SSE transports.
