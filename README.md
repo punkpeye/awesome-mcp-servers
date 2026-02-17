@@ -1607,3 +1607,6 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
+
+### AgentMarket
+- [AgentMarket MCP Server](https://agentmarket.cloud/mcp/) - B2A marketplace with MCP integration. Tools: discover, search_listings, get_categories, register_agent. Access 189+ APIs for energy, HVAC, maritime, fleet, drones.
