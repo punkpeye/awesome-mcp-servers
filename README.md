@@ -1084,6 +1084,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 
+- [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
 
 ### 🗺️ <a name="location-services"></a>Location Services
