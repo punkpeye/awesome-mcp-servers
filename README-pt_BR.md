@@ -353,6 +353,7 @@ Acesso a dados financeiros e ferramentas de análise. Permite que modelos de IA 
 - [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - Um servidor MCP que fornece acesso completo aos métodos JSON-RPC da Máquina Virtual Ethereum (EVM). Funciona com qualquer provedor de nó compatível com EVM, incluindo Infura, Alchemy, QuickNode, nós locais e muito mais.
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - Um servidor MCP que fornece dados de mercado de previsão em tempo real de múltiplas plataformas incluindo Polymarket, PredictIt e Kalshi. Permite que assistentes de IA consultem probabilidades atuais, preços e informações de mercado através de uma interface unificada.
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - Um servidor MCP que permite que modelos de IA consultem a blockchain Bitcoin.
+- [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) 🐍 ☁️ - Servidor MCP para o banco oficial SEC EDGAR com ferramentas para buscar, baixar e analisar filings.
 
 ### 🎮 <a name="jogos"></a>Jogos
 

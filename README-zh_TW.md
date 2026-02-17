@@ -330,6 +330,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - 一個 MCP 伺服器，提供對以太坊虛擬機（EVM）JSON-RPC 方法的完整訪問。可與任何 EVM 相容的節點提供商配合使用，包括 Infura、Alchemy、QuickNode、本地節點等。
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - 一個 MCP 伺服器，提供來自 Polymarket、PredictIt 和 Kalshi 等多個平台的即時預測市場數據。使 AI 助手能夠通過統一介面查詢當前賠率、價格和市場資訊。
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - 一個 MCP 伺服器，使 AI 模型能夠查詢比特幣區塊鏈。
+- [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) 🐍 ☁️ - 連接 SEC EDGAR 官方庫，提供公司查詢、申報文件（filings）檢索與解析等基礎工具的 MCP 伺服器。
 
 ### 🎮 <a name="gaming"></a>遊戲
 

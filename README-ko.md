@@ -378,6 +378,7 @@
 - [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - 이더리움 가상 머신(EVM) JSON-RPC 메서드에 대한 완전한 액세스를 제공하는 MCP 서버. Infura, Alchemy, QuickNode, 로컬 노드 등 모든 EVM 호환 노드 프로바이더와 함께 작동합니다.
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - Polymarket, PredictIt, Kalshi를 포함한 여러 플랫폼의 실시간 예측 시장 데이터를 제공하는 MCP 서버. AI 어시스턴트가 통합된 인터페이스를 통해 현재 배당률, 가격 및 시장 정보를 쿼리할 수 있게 합니다.
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - AI 모델이 비트코인 블록체인을 쿼리할 수 있게 하는 MCP 서버.
+- [stefanoamorelli/sec-edgar-mcp](https://github.com/stefanoamorelli/sec-edgar-mcp) 🐍 ☁️ - SEC EDGAR 공식 데이터베이스에 연결해 기업 조회, 공시(필링) 검색/가져오기/파싱 도구를 제공하는 MCP 서버.
 
 ### 🎮 <a name="gaming"></a>게임
 
