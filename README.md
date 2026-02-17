@@ -380,6 +380,8 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 ### 🖥️ <a name="command-line"></a>Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
 
+- [joemckenney/wake](https://github.com/joemckenney/wake) 🦀 🏠 🍎 🐧 - Terminal session recorder that captures commands and outputs to SQLite. Includes local LLM summarization (Qwen2.5-0.5B) and tiered retrieval tools for efficient context usage with Claude Code.
+
 ### 💬 <a name="communication"></a>Communication
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
