@@ -998,6 +998,7 @@ Servers integrating with project management and task tracking tools.
 ## 🔬 Science & Research
 
 Servers accessing scientific databases, research platforms, or providing tools for scientific computation/simulation.
+- [BGPT MCP API](https://github.com/connerlambden/bgpt-mcp): Search scientific papers with raw experimental data from full-text studies. Returns methods, results, quality scores, and 25+ metadata fields. 50 free searches, then $0.01/result.
 
 - [GreatApo/concrete-properties-mcp](https://github.com/GreatApo/concrete-properties-mcp): Facilitates AI-driven analysis of reinforced concrete sections by providing a unified API interface for calculating geometric and material properties.
 - [GooTec/NCBI-MCP](https://github.com/GooTec/NCBI-MCP): Facilitates access to NCBI Datasets through a modular MCP server with OpenAPI-driven endpoints for genome, gene, and taxonomy data.
