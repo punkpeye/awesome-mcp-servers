@@ -1390,6 +1390,7 @@ Access to travel and transportation information. Enables querying schedules, rou
 - [r-huijts/ns-mcp-server](https://github.com/r-huijts/ns-mcp-server) 📇 ☁️ - Access Dutch Railways (NS) travel information, schedules, and real-time updates
 - [skedgo/tripgo-mcp-server](https://github.com/skedgo/tripgo-mcp-server) 📇 ☁️ - Provides tools from the TripGo API for multi-modal trip planning, transport locations, and public transport departures, including real-time information.
 - [srinath1510/alltrails-mcp-server](https://github.com/srinath1510/alltrails-mcp-server) 🐍 ☁️ - A MCP server that provides access to AllTrails data, allowing you to search for hiking trails and get detailed trail information
+- [VOLO Private Aviation](https://flyvolo.ai) 📇 ☁️ - AI-native private jet charter platform with 7 MCP tools: flight search, aircraft comparison, cost estimation, destination browsing, and quote requests. 500+ aircraft, 100+ destinations, zero auth required. Discovery: `https://flyvolo.ai/.well-known/webmcp.json`
 
 ### 🔄 <a name="version-control"></a>Version Control
 
