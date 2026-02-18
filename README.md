@@ -1155,6 +1155,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [avivsinai/langfuse-mcp](https://github.com/avivsinai/langfuse-mcp) 🐍 ☁️ - Query Langfuse traces, debug exceptions, analyze sessions, and manage prompts. Full observability toolkit for LLM applications.
 - [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Leverage AI-driven observability, security, and automation to analyze anomalies, logs, traces, events, metrics.
 - [edgedelta/edgedelta-mcp-server](https://github.com/edgedelta/edgedelta-mcp-server) 🎖️ 🏎️ ☁️ – Interact with Edge Delta anomalies, query logs / patterns / events, and pinpoint root causes and optimize your pipelines.
+- [ejcho623/agent-breadcrumbs](https://github.com/ejcho623/agent-breadcrumbs) 📇 ☁️ 🏠 - Unified agent work logging and observability across ChatGPT, Claude, Cursor, Codex, and OpenClaw with config-first schemas and pluggable sinks.
 - [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) 🐍 ☁️ - Sentry.io integration for error tracking and performance monitoring
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - Search dashboards, investigate incidents and query datasources in your Grafana instance
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) 🐍 🏠 - Enhance AI-generated code quality through intelligent, prompt-based analysis across 10 critical dimensions from complexity to security vulnerabilities
