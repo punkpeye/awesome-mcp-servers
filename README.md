@@ -125,6 +125,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 
+- [claw-silhouette/botemail-mcp-server](https://github.com/claw-silhouette/botemail-mcp-server) 📇 ☁️ - Email infrastructure for autonomous agents. Create bot email accounts, monitor inboxes, and handle webhooks via BotEmail.ai.
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
