@@ -1254,6 +1254,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [dorukardahan/domain-search-mcp](https://github.com/dorukardahan/domain-search-mcp) 📇 ☁️ - Fast domain availability aggregator with pricing. Checks Porkbun, Namecheap, GoDaddy, RDAP & WHOIS. Includes bulk search, registrar comparison, AI-powered suggestions, and social media handle checking.
 - [Dumpling-AI/mcp-server-dumplingai](https://github.com/Dumpling-AI/mcp-server-dumplingai) 🎖️ 📇 ☁️ - Access data, web scraping, and document conversion APIs by [Dumpling AI](https://www.dumplingai.com/)
 - [emicklei/melrose-mcp](https://github.com/emicklei/melrose-mcp) 🏎️ 🏠 - Plays [Melrōse](https://melrōse.org) music expressions as MIDI
+- [echology-io/decompose](https://github.com/echology-io/decompose) 🐍 🏠 🍎 🪟 🐧 - Decompose text into classified semantic units with authority, risk, attention scores, and entity extraction. No LLM. Deterministic. Works as MCP server or CLI.
 - [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn) 🐍 ☁️ - An MCP server to search Hacker News, get top stories, and more.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) 🎖️ 📇 ☁️ – A Model Context Protocol (MCP) server lets AI assistants like Claude use the Exa AI Search API for web searches. This setup allows AI models to get real-time web information in a safe and controlled way.
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp) 📇 ☁️ - Search via search1api (requires paid API key)
