@@ -1212,6 +1212,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) 📇 🏠 - An MCP server for searching job listings with filters for date, keywords, remote work options, and more.
+- [hanselhansel/aeo-cli](https://github.com/hanselhansel/aeo-cli) 🐍 🏠 - Audit URLs for AI crawler readiness — checks robots.txt, llms.txt, JSON-LD schema, and content density with 0-100 AEO scoring.
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) 🐍 📇 ☁️ - Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - Kagi search API integration
 - [adawalli/nexus](https://github.com/adawalli/nexus) 📇 ☁️ - AI-powered web search server using Perplexity Sonar models with source citations. Zero-install setup via NPX.
