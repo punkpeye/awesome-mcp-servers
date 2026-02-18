@@ -1615,6 +1615,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [ujisati/anki-mcp](https://github.com/ujisati/anki-mcp) 🐍 🏠 - Manage your Anki collection with AnkiConnect & MCP
 - [UnitVectorY-Labs/mcp-graphql-forge](https://github.com/UnitVectorY-Labs/mcp-graphql-forge) 🏎️ ☁️ 🍎 🪟 🐧 - A lightweight, configuration-driven MCP server that exposes curated GraphQL queries as modular tools, enabling intentional API interactions from your agents.
 - [wanaku-ai/wanaku](https://github.com/wanaku-ai/wanaku) - ☁️ 🏠 The Wanaku MCP Router is a SSE-based MCP server that provides an extensible routing engine that allows integrating your enterprise systems with AI agents.
+- [megberts/mcp-websitepublisher-ai](https://github.com/megberts/mcp-websitepublisher-ai) ☁️ - Build and publish websites through AI conversation. 27 MCP tools for pages, assets, entities, records and integrations. Remote server with OAuth 2.1 auto-discovery, works with Claude, ChatGPT, Mistral/Le Chat and Cursor.
 - [wishfinity/wishfinity-mcp-plusw](https://github.com/wishfinity/wishfinity-mcp-plusw) 📇 ☁️ 🏠 - Universal wishlist for AI shopping experiences. Save any product URL from any store to a wishlist. Works with Claude, ChatGPT, LangChain, n8n, and any MCP client.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 📇 🏠 - CLI tool for testing MCP servers
 - [ws-mcp](https://github.com/nick1udwig/ws-mcp) - Wrap MCP servers with a WebSocket (for use with [kitbitz](https://github.com/nick1udwig/kibitz))
