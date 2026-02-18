@@ -895,6 +895,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [doggybee/mcp-server-ccxt](https://github.com/doggybee/mcp-server-ccxt) 📇 ☁️ - An MCP server for accessing real-time crypto market data and trading via 20+ exchanges using the CCXT library. Supports spot, futures, OHLCV, balances, orders, and more.
 - [Handshake58/DRAIN-marketplace](https://github.com/Handshake58/DRAIN-marketplace) 📇 ☁️ - Open marketplace for AI services — LLMs, image/video generation, web scraping, model hosting, data extraction, and more. Agents pay per use with USDC micropayments on Polygon. No API keys, no subscriptions.
 - [etbars/vibetrader-mcp](https://github.com/etbars/vibetrader-mcp) 🐍 ☁️ - AI-powered trading bot platform. Create automated trading strategies with natural language via Alpaca brokerage.
+- [Fan Token Intel MCP](https://github.com/BrunoPessoa22/chiliz-marketing-intel) 🐍 ☁️ - 67+ tools for fan token intelligence: whale flows, signal scores, sports calendar, backtesting, DEX trading, social sentiment. SSE transport with Bearer auth.
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - Yahoo Finance integration to fetch stock market data including options recommendations
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API integration to handle trading activities on Tastytrade
 - [ferdousbhai/wsb-analyst-mcp](https://github.com/ferdousbhai/wsb-analyst-mcp) 🐍 ☁️ - Reddit integration to analyze content on WallStreetBets community
