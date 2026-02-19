@@ -340,6 +340,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 - [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍 🏠 - Run Python code in a secure sandbox via MCP tool calls
 - [r33drichards/mcp-js](https://github.com/r33drichards/mcp-js) 🦀 🏠 🐧 🍎 - A Javascript code execution sandbox that uses v8 to isolate code to run AI generated javascript locally without fear. Supports heap snapshotting for persistent sessions.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
+- [keyboard-dev/keyboard-local](https://github.com/keyboard-dev/keyboard-local)  Execute any code generated from your favorite AI provider such as Claude or Cursor to your own secure private GitHub Codespace.  Add your API keys to your codespaces to allow Claude to execute tasks in any SaaS App with a REST API, while also using our controls that prevent prompt injection and oversharing of information.
 
 ### 🤖 <a name="coding-agents"></a>Coding Agents
 
