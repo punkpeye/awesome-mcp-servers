@@ -48,8 +48,9 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ## Community
 
-* [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [MCPList.site](https://mcplist.site) - Open directory of MCP servers with trust scores, security scanning, and user reviews
+* [r/mcp Reddit](https://www.reddit.com/r/mcp)
 
 ## Legend
 
