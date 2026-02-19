@@ -459,6 +459,7 @@ Provides access to customer profiles inside of customer data platforms
 - [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) 📇 ☁️ - Open-source customer feedback platform with built-in MCP server. Agents can search feedback, triage posts, update statuses, create and comment on posts, vote, manage roadmaps, merge duplicates, and publish changelogs.
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - An MCP server to access and updates profiles on an Apache Unomi CDP server.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
+- dchub-cloud/dchub-mcp 🐍 ☁️ - Data center industry intelligence MCP server providing facility search across 20,000+ data centers in 140+ countries, market analytics, M&A tracking, capacity pipeline data, and energy infrastructure insights.
 
 ### 🗄️ <a name="databases"></a>Databases
 
