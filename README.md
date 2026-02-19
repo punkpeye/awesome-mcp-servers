@@ -838,6 +838,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 - [0x1abin/matter-controller-mcp](https://github.com/0x1abin/matter-controller-mcp) 📇 📟 - An MCP server for Matter Controller, enabling AI agents to control and interact with Matter devices.
 - [adancurusul/embedded-debugger-mcp](https://github.com/adancurusul/embedded-debugger-mcp) 🦀 📟 - A Model Context Protocol server for embedded debugging with probe-rs - supports ARM Cortex-M, RISC-V debugging via J-Link, ST-Link, and more
 - [adancurusul/serial-mcp-server](https://github.com/adancurusul/serial-mcp-server) 🦀 📟 - A comprehensive MCP server for serial port communication
+- [codeofaxel/Kiln](https://github.com/codeofaxel/Kiln) 🐍 🏠 ☁️ - AI agent infrastructure for 3D printing — 230 MCP tools to control OctoPrint, Moonraker, Bambu Lab, Prusa Link, and Elegoo printers, manage fleets, slice STLs, search model marketplaces, and outsource to fulfillment centers.
 - [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - Workflow for fixing build issues in ESP32 series chips using ESP-IDF.
 - [kukapay/modbus-mcp](https://github.com/kukapay/modbus-mcp) 🐍 📟 - An MCP server that standardizes and contextualizes industrial Modbus data.
 - [kukapay/opcua-mcp](https://github.com/kukapay/opcua-mcp) 🐍 📟 - An MCP server that connects to OPC UA-enabled industrial systems.
