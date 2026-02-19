@@ -1210,6 +1210,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 
 Tools for conducting research, surveys, interviews, and data collection.
 
+- [antoinedelorme/gravity-swarm-mcp](https://github.com/antoinedelorme/gravity-swarm-mcp) 📇 ☁️ - Distributed compute and reputation network for AI agents. Solve deterministic tasks (FFT, SHA chain, Monte Carlo) and open-ended questions, earn ELO through peer-reviewed consensus. Nostr BIP-340 signing handled internally.
 - [Embassy-of-the-Free-Mind/sourcelibrary-v2](https://github.com/Embassy-of-the-Free-Mind/sourcelibrary-v2/tree/main/mcp-server) 📇 ☁️ - Search and cite rare historical texts (alchemy, Hermeticism, Renaissance philosophy) with DOI-backed academic citations from [Source Library](https://sourcelibrary.org)
 - [ovlabs/mcp-server-originalvoices](https://github.com/ovlabs/mcp-server-originalvoices) 📇 ☁️ - Instantly understand what real users think and why by querying our network of 1:1 Digital Twins - each representing a real person. Give your AI agents authentic human context to ground outputs, improve creative, and make smarter decisions.
 - [Pantheon-Security/notebooklm-mcp-secure](https://github.com/Pantheon-Security/notebooklm-mcp-secure) 📇 🏠 🍎 🪟 🐧 - Query Google NotebookLM from Claude/AI agents with 14 security hardening layers. Session-based conversations, notebook library management, and source-grounded research responses.
