@@ -1005,6 +1005,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [tooyipjee/yahoofinance-mcp](https://github.com/tooyipjee/yahoofinance-mcp.git) 📇 ☁️ - TS version of yahoo finance mcp.
 - [traceloop/opentelemetry-mcp-server](https://github.com/traceloop/opentelemetry-mcp-server.git) - 🐍🏠 - An MCP server for connecting to any OpenTelemetry backend (Datadog, Grafana, Dynatrace, Traceloop, etc.).
 - [Trade-Agent/trade-agent-mcp](https://github.com/Trade-Agent/trade-agent-mcp.git) 🎖️ ☁️ - Trade stocks and crypto on common brokerages (Robinhood, E*Trade, Coinbase, Kraken) via Trade Agent's MCP server.
+- [TradekixAI/tradekix-mcp-server](https://github.com/TradekixAI/tradekix-mcp-server) 📇 ☁️ - Financial market data for AI agents — stock prices, indices, forex, earnings, economic events, congressional trades with conflict detection, social sentiment, and news. Free developer tier (100 calls/day).
 - [trayders/trayd-mcp](https://github.com/trayders/trayd-mcp) 🐍 ☁️ - Trade Robinhood through natural language. Portfolio analysis, real-time quotes, and order execution via Claude Code.
 - [twelvedata/mcp](https://github.com/twelvedata/mcp) 🐍 ☁️ - Interact with [Twelve Data](https://twelvedata.com) APIs to access real-time and historical financial market data for your AI agents.
 - [wowinter13/solscan-mcp](https://github.com/wowinter13/solscan-mcp) 🦀 🏠 - An MCP tool for querying Solana transactions using natural language with Solscan API.
