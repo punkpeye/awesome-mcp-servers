@@ -346,7 +346,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [axliupore/mcp-code-runner](https://github.com/axliupore/mcp-code-runner) 📇 🏠 - 一个MCP服务器，用于在本地通过docker运行代码，并支持多种编程语言。
 - [TencentEdgeOne/edgeone-pages-mcp](https://github.com/TencentEdgeOne/edgeone-pages-mcp) 📇 ☁️ - 基于 EdgeOne Pages 的 MCP 服务器，支持代码部署为在线页面。
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - 查询 pkg.go.dev 上的 golang 包信息
-- [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCP服务器通过将用户的自然语言指令转换为ROS或ROS2控制指令，以支持机器人的控制。
+- [robotmcp/ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - ROS MCP服务器通过将用户的自然语言指令转换为ROS或ROS2控制指令，以支持机器人的控制。
 - [freema/mcp-design-system-extractor](https://github.com/freema/mcp-design-system-extractor) 📇 🏠 - 从 Storybook 设计系统中提取组件信息。提供 HTML、样式、props、依赖项、主题令牌和组件元数据，用于 AI 驱动的设计系统分析。
 - [HainanZhao/mcp-gitlab-jira](https://github.com/HainanZhao/mcp-gitlab-jira) 📇 ☁️ 🏠 - GitLab 和 Jira 的统一 MCP 服务器：通过 AI 代理管理项目、合并请求、文件、发布和工单。
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - 一個用於與 GitKraken API 互動的命令列工具（CLI）。通過 gk mcp 提供一個 MCP 伺服器，不僅封裝了 GitKraken API，還支援 Jira、GitHub、GitLab 等多種服務。可與本地工具和遠端服務協同運作。

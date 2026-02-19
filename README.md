@@ -689,7 +689,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [linuxsuren/atest-mcp-server](https://github.com/LinuxSuRen/atest-mcp-server) 📇 🏠 🐧 - An MCP server to manage test suites and cases, which is an alternative to Postman.
 - [linw1995/nvim-mcp](https://github.com/linw1995/nvim-mcp) 🦀 🏠 🍎 🪟 🐧  -  A MCP server to interact with Neovim
 - [louis030195/gptzero-mcp](https://github.com/louis030195/gptzero-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI detection for text content with GPTZero API. Detect AI-generated text, get confidence scores, multilingual support (French/Spanish), and detailed probability breakdowns.
-- [lpigeon/ros-mcp-server](https://github.com/lpigeon/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - The ROS MCP Server supports robot control by converting user-issued natural language commands into ROS or ROS2 control commands.
+- [robotmcp/ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) 🐍 🏠 🍎 🪟 🐧 - Connect AI models like Claude & GPT with robots using MCP and ROS.
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - The Unitree Go2 MCP Server is a server built on the MCP that enables users to control the Unitree Go2 robot using natural language commands interpreted by a LLM.
 - [madhan-g-p/DevDocs-MCP](https://github.com/madhan-g-p/DevDocs-MCP) 📇 🏠 🍎 🐧 - DevDocs-MCP is a MCP server that provides version-pinned, deterministic documentation sourced from [DevDocs.io](https://devdocs.io) in offline mode
 - [mattjegan/swarmia-mcp](https://github.com/mattjegan/swarmia-mcp) 🐍 🏠 🍎 🐧 - Read-only MCP server to help gather metrics from [Swarmia](swarmia.com) for quick reporting.
