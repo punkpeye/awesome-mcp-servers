@@ -1653,7 +1653,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - Allows AI models to interact with [HackMD](https://hackmd.io)
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) - MCP server providing date and time functions in various formats
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
-
+- [MolTrust](https://github.com/MoltyCel/moltrust-sdk/blob/main/mcp_server.py) — 9 trust tools for AI agents: register DIDs, verify identities, issue W3C Verifiable Credentials, query reputation scores.
 ## Frameworks
 
 > [!NOTE]
@@ -1685,5 +1685,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
- </picture>
+ </picture>- 
 </a>
