@@ -213,6 +213,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [betterhyq/mermaid-grammer-inspector-mcp](https://github.com/betterhyq/mermaid_grammer_inspector_mcp) 📇 🏠 🍎 🪟 🐧 - A Model Context Protocol (MCP) server for validating Mermaid diagram syntax and providing comprehensive grammar checking capabilities
 - [GittyBurstein/mermaid-mcp-server](https://github.com/GittyBurstein/mermaid-mcp-server) 🐍 ☁️ - MCP server that turns local projects or GitHub repositories into Mermaid diagrams and renders them via Kroki.
 - [Narasimhaponnada/mermaid-mcp](https://github.com/Narasimhaponnada/mermaid-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI-powered Mermaid diagram generation with 22+ diagram types including flowcharts, sequence diagrams, class diagrams, ER diagrams, architecture diagrams, state machines, and more. Features 50+ pre-built templates, advanced layout engines, SVG/PNG/PDF exports, and seamless integration with GitHub Copilot, Claude, and any MCP-compatible client. Install via NPM: `npm install -g @narasimhaponnada/mermaid-mcp-server`
+- [dmilad/ocp-viewer-mcp](https://github.com/dmilad/ocp-viewer-mcp) 🐍 🏠 - MCP server for capturing screenshots from OCP CAD Viewer — lets AI assistants see your 3D CAD models.
 
 ### <a name="bio"></a>Biology, Medicine and Bioinformatics
 
