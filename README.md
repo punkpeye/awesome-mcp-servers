@@ -111,6 +111,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
+* 📋 - [Product Management](#product-management)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
 * 🔒 - [Security](#security)
@@ -1215,6 +1216,12 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [video-creator/ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp.git) 🎥 🔊 - Using ffmpeg command line to achieve an mcp server, can be very convenient, through the dialogue to achieve the local video search, tailoring, stitching, playback and other functions
 - [video-edit-mcp](https://github.com/Aditya2755/video-edit-mcp) 🐍 🏠 🍎 🪟 - Comprehensive video and audio editing MCP server with advanced operations including trimming, merging, effects, overlays, format conversion, audio processing, YouTube downloads, and smart memory management for chaining operations without intermediate files
 - [TopazLabs/topaz-mcp](https://github.com/TopazLabs/topaz-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI image enhancement (upscaling, denoising, sharpening) via Topaz Labs API. Supports 8 models including Standard V2, Wonder 2, Bloom, and Recover 3.
+
+### 📋 <a name="product-management"></a>Product Management
+
+Tools for product planning, customer feedback analysis, and prioritization.
+
+- [dkships/pm-copilot](https://github.com/dkships/pm-copilot) 📇 ☁️ - Triangulates HelpScout support tickets and ProductLift feature requests to generate prioritized product plans. Scores themes by convergence (same signal in both sources = 2x boost), scrubs PII, and accepts business metrics from other MCP servers via `kpi_context` for composable prioritization.
 
 ### 🔬 <a name="research"></a>Research
 
