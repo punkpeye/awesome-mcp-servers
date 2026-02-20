@@ -1323,6 +1323,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [webpeel/webpeel](https://github.com/webpeel/webpeel) 📇 ☁️ 🏠 - Smart web fetcher for AI agents with auto-escalation from HTTP to headless browser to stealth mode. Includes 9 MCP tools: fetch, search, crawl, map, extract, batch, screenshot, jobs, and agent. Achieved 100% success rate on a 30-URL benchmark.
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - MCP server that searches Baseline status using Web Platform API
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - This is a TypeScript-based MCP server that provides DuckDuckGo search functionality.
+- [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 
 ### 🔒 <a name="security"></a>Security
