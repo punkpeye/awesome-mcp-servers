@@ -45,6 +45,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+* [MCP Servers para Claude: Guía de Configuración en Español](https://www.upliora.es/blog/mcp-servers-claude-guia-configuracion-espanol-2026) - Step-by-step Spanish guide to configure MCP Servers for Claude Code and Claude Desktop, with filesystem, GitHub, databases, and custom API examples.
 
 ## Community
 
