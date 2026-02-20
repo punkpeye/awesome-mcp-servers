@@ -565,6 +565,8 @@ Secure database access with schema inspection capabilities. Enables querying and
 
 Data Platforms for data integration, transformation and pipeline orchestration.
 
+- [ajtgjmdjp/tdnet-disclosure-mcp](https://github.com/ajtgjmdjp/tdnet-disclosure-mcp) 🐍 ☁️ - Access Japanese timely disclosures (TDNet) for 4,000+ listed companies. Retrieve earnings, dividends, forecast revisions, buybacks, and other filings with automatic category classification. No API key required.
+- [ajtgjmdjp/estat-mcp](https://github.com/ajtgjmdjp/estat-mcp) 🐍 ☁️ 🏠 - Access Japanese government statistics from [e-Stat](https://www.e-stat.go.jp/). Search and fetch data from 3,000+ statistical tables covering population, GDP, CPI, labor, trade, and regional data.
 - [alkemiai/alkemi-mcp](https://github.com/alkemi-ai/alkemi-mcp) 📇 ☁️ - MCP Server for natural language querying of Snowflake, Google BigQuery, and DataBricks Data Products through Alkemi.ai.
 - [avisangle/method-crm-mcp](https://github.com/avisangle/method-crm-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Production-ready MCP server for Method CRM API integration with 20 comprehensive tools for tables, files, users, events, and API key management. Features rate limiting, retry logic, and dual transport support (stdio/HTTP).
 - [aywengo/kafka-schema-reg-mcp](https://github.com/aywengo/kafka-schema-reg-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive Kafka Schema Registry MCP server with 48 tools for multi-registry management, schema migration, and enterprise features.
@@ -880,6 +882,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) 📇 ☁️ - Deep Research for crypto - free & fully local
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp) 🎖️ 🐍 ☁️ 🏠 - Access institutional-grade alternative financial data directly in your LLM workflows.
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - Risk score / asset holdings of EVM blockchain address (EOA, CA, ENS) and even domain names.
+- [ajtgjmdjp/edinet-mcp](https://github.com/ajtgjmdjp/edinet-mcp) 🐍 ☁️ - Access Japanese financial disclosures (EDINET). Search 5,000+ companies, retrieve normalized BS/PL/CF statements across J-GAAP/IFRS/US-GAAP, and calculate financial metrics.
 - [alchemy/alchemy-mcp-server](https://github.com/alchemyplatform/alchemy-mcp-server) 🎖️ 📇 ☁️ - Allow AI agents to interact with Alchemy's blockchain APIs.
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - Coinmarket API integration to fetch cryptocurrency listings and quotes
 - [araa47/jupiter-mcp](https://github.com/araa47/jupiter-mcp) 🐍 ☁️ - Jupiter API Access (allow AI to Trade Tokens on Solana + Access Balances + Search Tokens + Create Limit Orders )
