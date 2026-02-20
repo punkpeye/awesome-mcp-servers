@@ -674,6 +674,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [janreges/ai-distiller-mcp](https://github.com/janreges/ai-distiller) 🏎️ 🏠 - Extracts essential code structure from large codebases into AI-digestible format, helping AI agents write code that correctly uses existing APIs on the first attempt.
 - [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) 📇 🏠 - An MCP Server and VS Code Extension which enables (language agnostic) automatic debugging via breakpoints and expression evaluation.
 - [jaspertvdm/mcp-server-tibet](https://github.com/jaspertvdm/mcp-server-tibet) 🐍 ☁️ 🏠 - TIBET provenance tracking for AI decisions. Cryptographic audit trails with ERIN/ERAAN/EROMHEEN/ERACHTER intent logging for compliance.
+- [tersePrompts/jarp-mcp](https://github.com/tersePrompts/jarp-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - MCP server that gives AI agents "X-ray vision" into compiled Java code. Decompiles JAR/WAR files on-demand for analyzing proprietary/closed-source Java applications without source code access.
 - [jetbrains/mcpProxy](https://github.com/JetBrains/mcpProxy) 🎖️ 📇 🏠 - Connect to JetBrains IDE
 - [Jktfe/serveMyAPI](https://github.com/Jktfe/serveMyAPI) 📇 🏠 🍎 - A personal MCP (Model Context Protocol) server for securely storing and accessing API keys across projects using the macOS Keychain.
 - [jordandalton/restcsv-mcp-server](https://github.com/JordanDalton/RestCsvMcpServer) 📇 ☁️ - An MCP server for CSV files.
