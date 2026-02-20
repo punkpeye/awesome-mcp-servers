@@ -1436,6 +1436,7 @@ Tools for managing customer support, IT service management, and helpdesk operati
 
 Translation tools and services to enable AI assistants to translate content between different languages.
 
+- [intlpullhq/intlpull](https://github.com/intlpullhq/intlpull) 📇 ☁️ - AI-powered i18n platform with 50+ tools for translations, OTA releases, translation memory, glossaries, branches, and multi-format import/export (JSON, YAML, XLIFF, PO, Android XML, iOS Strings).
 - [mmntm/weblate-mcp](https://github.com/mmntm/weblate-mcp) 📇 ☁️ - Comprehensive Model Context Protocol server for Weblate translation management, enabling AI assistants to perform translation tasks, project management, and content discovery with smart format transformations.
 - [shuji-bonji/xcomet-mcp-server](https://github.com/shuji-bonji/xcomet-mcp-server) 📇 🏠 - Translation quality evaluation using xCOMET models. Provides quality scoring (0-1), error detection with severity levels (minor/major/critical), and optimized batch processing with 25x speedup.
 - [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
