@@ -972,7 +972,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [kukapay/wallet-inspector-mcp](https://github.com/kukapay/wallet-inspector-mcp) 🐍 ☁️ -  An MCP server that empowers AI agents to inspect any wallet’s balance and onchain activity across major EVM chains and Solana chain.
 - [kukapay/web3-jobs-mcp](https://github.com/kukapay/web3-jobs-mcp) 🐍 ☁️ -  An MCP server that provides AI agents with real-time access to curated Web3 jobs.
 - [kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp) 🐍 ☁️ -  A mcp server for tracking cryptocurrency whale transactions.
-- [klever-io/mcp-klever-vm](https://github.com/klever-io/mcp-klever-vm) 🎖️ 📇 ☁️ - Klever blockchain MCP server for smart contract development, on-chain data exploration, account and asset queries, transaction analysis, and contract deployment tooling. Public endpoint available at `https://mcp.klever.org/mcp`.
+- [klever-io/mcp-klever-vm](https://github.com/klever-io/mcp-klever-vm) 🎖️ 📇 ☁️ - Klever blockchain MCP server for smart contract development, on-chain data exploration, account and asset queries, transaction analysis, and contract deployment tooling.
 - [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) 🐍 ☁️ - An MCP Server for the Alpaca trading API to manage stock and crypto portfolios, place trades, and access market data.
 - [lightningfaucet/mcp-server](https://github.com/lightningfaucet/mcp-server) 📇 ☁️ - AI Agent Bitcoin wallet with L402 payments - operators fund agents, agents make autonomous Lightning Network payments.
 - [lnbits/LNbits-MCP-Server](https://github.com/lnbits/LNbits-MCP-Server) - Am MCP server for LNbits Lightning Network wallet integration.
