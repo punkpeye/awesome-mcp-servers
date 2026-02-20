@@ -986,6 +986,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [minhyeoky/mcp-server-ledger](https://github.com/minhyeoky/mcp-server-ledger) 🐍 🏠 -  A ledger-cli integration for managing financial transactions and generating reports.
 - [narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) 🐍 ☁️ - An MCP server that uses yfinance to obtain information from Yahoo Finance.
 - [nckhemanth0/subscription-tracker-mcp](https://github.com/nckhemanth0/subscription-tracker-mcp) 🐍 ☁️ 🏠 - MCP server for intelligent subscription management with Gmail + MySQL integration.
+- [nikicat/mcp-wallet-signer](https://github.com/nikicat/mcp-wallet-signer) 📇 🏠 - Non-custodial EVM wallet MCP — routes transactions to browser wallets (MetaMask, etc.) for signing. Private keys never leave the browser; every action requires explicit user approval via EIP-6963.
 - [OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server) 🐍 ☁️ - Octagon AI Agents to integrate private and public market data
 - [oerc-s/primordia](https://github.com/oerc-s/primordia) 📇 ☁️ - AI agent economic settlement. Verify receipts, emit meters (FREE). Net settlements, credit lines, audit-grade balance sheets (PAID/402).
 - [olgasafonova/gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server) 🏎️ ☁️ - Access the Global Legal Entity Identifier (LEI) database for company verification, KYC, and corporate ownership research via GLEIF's public API.
