@@ -675,6 +675,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [jasonjmcghee/claude-debugs-for-you](https://github.com/jasonjmcghee/claude-debugs-for-you) 📇 🏠 - An MCP Server and VS Code Extension which enables (language agnostic) automatic debugging via breakpoints and expression evaluation.
 - [jaspertvdm/mcp-server-tibet](https://github.com/jaspertvdm/mcp-server-tibet) 🐍 ☁️ 🏠 - TIBET provenance tracking for AI decisions. Cryptographic audit trails with ERIN/ERAAN/EROMHEEN/ERACHTER intent logging for compliance.
 - [jetbrains/mcpProxy](https://github.com/JetBrains/mcpProxy) 🎖️ 📇 🏠 - Connect to JetBrains IDE
+- [jkolo/debug-mcp](https://github.com/jkolo/debug-mcp) #️⃣ 🏠 🐧 - .NET debugging MCP server with 34 tools — launch processes, set breakpoints, step through code, inspect variables, and analyze exceptions via ICorDebug APIs.
 - [Jktfe/serveMyAPI](https://github.com/Jktfe/serveMyAPI) 📇 🏠 🍎 - A personal MCP (Model Context Protocol) server for securely storing and accessing API keys across projects using the macOS Keychain.
 - [jordandalton/restcsv-mcp-server](https://github.com/JordanDalton/RestCsvMcpServer) 📇 ☁️ - An MCP server for CSV files.
 - [joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) 📇 🏠 - An MCP server to communicate with the App Store Connect API for iOS Developers
