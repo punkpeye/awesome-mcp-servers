@@ -1112,6 +1112,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
+- [philrox/ris-mcp-ts](https://github.com/philrox/ris-mcp-ts) 📇 ☁️ - Access Austrian federal laws, state laws, court decisions, and legal documents via the RIS (Rechtsinformationssystem) API with 12 specialized tools.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
