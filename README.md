@@ -459,7 +459,8 @@ Provides access to customer profiles inside of customer data platforms
 - [QuackbackIO/quackback](https://github.com/QuackbackIO/quackback) 📇 ☁️ - Open-source customer feedback platform with built-in MCP server. Agents can search feedback, triage posts, update statuses, create and comment on posts, vote, manage roadmaps, merge duplicates, and publish changelogs.
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - An MCP server to access and updates profiles on an Apache Unomi CDP server.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
-
+- [azmartone67/Data-Center-Hub](https://github.com/azmartone67/Data-Center-Hub) 🐍 ☁️ - Data center industry intelligence MCP server providing facility search across 20,000+ data centers in 140+ countries, M&A tracking, capacity pipeline data, market analytics, and energy infrastructure insights via [DC Hub](https://dchub.cloud).
+  
 ### 🗄️ <a name="databases"></a>Databases
 
 Secure database access with schema inspection capabilities. Enables querying and analyzing data with configurable security controls including read-only access.
@@ -570,6 +571,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [aywengo/kafka-schema-reg-mcp](https://github.com/aywengo/kafka-schema-reg-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive Kafka Schema Registry MCP server with 48 tools for multi-registry management, schema migration, and enterprise features.
 - [bruno-portfolio/agrobr-mcp](https://github.com/bruno-portfolio/agrobr-mcp) 🐍 ☁️ - Brazilian agricultural data for LLMs — prices, crop estimates, climate, deforestation from 19 public sources via CEPEA, CONAB, IBGE, INPE and B3.
 - [dbt-labs/dbt-mcp](https://github.com/dbt-labs/dbt-mcp) 🎖️ 🐍 🏠 ☁️ - Official MCP server for [dbt (data build tool)](https://www.getdbt.com/product/what-is-dbt) providing integration with dbt Core/Cloud CLI, project metadata discovery, model information, and semantic layer querying capabilities.
+- [azmartone67/Data-Center-Hub](https://github.com/azmartone67/Data-Center-Hub) 🐍 ☁️ - Data center industry intelligence MCP server providing facility search across 20,000+ data centers in 140+ countries, M&A tracking, capacity pipeline data, market analytics, and energy infrastructure insights via [DC Hub](https://dchub.cloud).
 - [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️ 📇 ☁️ 🏠 - Interact with Flowcore to perform actions, ingest data, and analyse, cross reference and utilise any data in your data cores, or in public data cores; all with human language.
 - [JordiNei/mcp-databricks-server](https://github.com/JordiNeil/mcp-databricks-server) 🐍 ☁️ - Connect to Databricks API, allowing LLMs to run SQL queries, list jobs, and get job status.
 - [jwaxman19/qlik-mcp](https://github.com/jwaxman19/qlik-mcp) 📇 ☁️ - MCP Server for Qlik Cloud API that enables querying applications, sheets, and extracting data from visualizations with comprehensive authentication and rate limiting support.
