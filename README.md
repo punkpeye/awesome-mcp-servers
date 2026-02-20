@@ -545,7 +545,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 
 Data Platforms for data integration, transformation and pipeline orchestration.
 
-- [ajtgjmdjp/boj-mcp](https://github.com/ajtgjmdjp/boj-mcp) 🐍 ☁️ - Access Bank of Japan statistics (CGPI, TANKAN, Flow of Funds, Balance of Payments, BIS). 16 datasets with automatic Shift_JIS handling. No API key required.
+- [ajtgjmdjp/tdnet-disclosure-mcp](https://github.com/ajtgjmdjp/tdnet-disclosure-mcp) 🐍 ☁️ - Access Japanese timely disclosures (TDNet) for 4,000+ listed companies. Retrieve earnings, dividends, forecast revisions, buybacks, and other filings with automatic category classification. No API key required.
 - [ajtgjmdjp/estat-mcp](https://github.com/ajtgjmdjp/estat-mcp) 🐍 ☁️ 🏠 - Access Japanese government statistics from [e-Stat](https://www.e-stat.go.jp/). Search and fetch data from 3,000+ statistical tables covering population, GDP, CPI, labor, trade, and regional data.
 - [alkemiai/alkemi-mcp](https://github.com/alkemi-ai/alkemi-mcp) 📇 ☁️ - MCP Server for natural language querying of Snowflake, Google BigQuery, and DataBricks Data Products through Alkemi.ai.
 - [avisangle/method-crm-mcp](https://github.com/avisangle/method-crm-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Production-ready MCP server for Method CRM API integration with 20 comprehensive tools for tables, files, users, events, and API key management. Features rate limiting, retry logic, and dual transport support (stdio/HTTP).
