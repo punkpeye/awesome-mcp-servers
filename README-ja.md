@@ -491,6 +491,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 ### 🔎 <a name="search"></a>検索・データ抽出
 
+- [ScrapeGraphAI/scrapegraph-mcp](https://github.com/ScrapeGraphAI/scrapegraph-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - [ScrapeGraph AI](https://scrapegraphai.com/) APIによるAI駆動のウェブスクレイピング。Markdown変換、スマート抽出、検索、マルチページクローリング、エージェントワークフロー。リモート優先またはローカル。Claude Desktop、Cursor、[Smithery](https://smithery.ai/server/@ScrapeGraphAI/scrapegraph-mcp)対応。
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless Model Context Protocolサービスは、MCPエコシステム内で離れることなくWeb検索を可能にするGoogle SERP APIへのMCPサーバコネクタとして機能します。
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) 📇 ☁️ - Braveの検索APIを使用したWeb検索機能
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - DappierのMCPサーバーで、信頼できるメディアブランドからのニュース、金融市場、スポーツ、エンタメ、天気などのプレミアムデータへのリアルタイムアクセスと、高速なWeb検索をAIエージェントに提供します。

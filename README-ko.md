@@ -449,6 +449,7 @@
 
 ### 🔎 <a name="search"></a>검색
 
+- [ScrapeGraphAI/scrapegraph-mcp](https://github.com/ScrapeGraphAI/scrapegraph-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - [ScrapeGraph AI](https://scrapegraphai.com/) API를 통한 AI 기반 웹 스크래핑. Markdown 변환, 스마트 추출, 검색, 다중 페이지 크롤링 및 에이전트 워크플로. 원격 우선 또는 로컬. Claude Desktop, Cursor, [Smithery](https://smithery.ai/server/@ScrapeGraphAI/scrapegraph-mcp) 지원.
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless Model Context Protocol 서비스는 MCP 생태계 내에서 떠나지 않고 웹 검색을 가능하게 하는 Google SERP API에 대한 MCP 서버 커넥터 역할을 합니다.
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) 📇 ☁️ - Brave의 검색 API를 사용한 웹 검색 기능
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - NYTimes API를 사용하여 기사 검색
