@@ -1285,6 +1285,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [Linked-API/linkedapi-mcp](https://github.com/Linked-API/linkedapi-mcp) 🎖️ 📇 ☁️ - MCP server that lets AI assistants control LinkedIn accounts and retrieve real-time data.
 - [linxule/mineru-mcp](https://github.com/linxule/mineru-mcp) 📇 ☁️ - MCP server for MinerU document parsing API. Parse PDFs, images, DOCX, and PPTX with OCR (109 languages), batch processing (200 docs), page ranges, and local file upload. 73% token reduction with structured output.
 - [luminati-io/brightdata-mcp](https://github.com/luminati-io/brightdata-mcp) 📇 ☁️ - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
+- - [levslove/tat-mcp-server](https://github.com/levslove/tat-mcp-server) 📇 ☁️ – Agent economy news via The Agent Times. 6 tools for searching articles, browsing sections, real-time stats, wire feed, and editorial standards.
 - [mikechao/brave-search-mcp](https://github.com/mikechao/brave-search-mcp) 📇 ☁️ - Web, Image, News, Video, and Local Point of Interest search capabilities using Brave's Search API
 - [modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/fetch) 🐍 🏠 ☁️ - Efficient web content fetching and processing for AI consumption
 - [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) 🔍 📚 - Search Google and do deep web research on any topic
