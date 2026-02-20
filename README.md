@@ -225,6 +225,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [longevity-genie/gget-mcp](https://github.com/longevity-genie/gget-mcp) 🐍 🏠 ☁️ - MCP server providing a powerful bioinformatics toolkit for genomics queries and analysis, wrapping the popular `gget` library.
 - [longevity-genie/opengenes-mcp](https://github.com/longevity-genie/opengenes-mcp) 🎖️ 🐍 🏠 ☁️ - MCP server for a queryable database for aging and longevity research from the OpenGenes project.
 - [longevity-genie/synergy-age-mcp](https://github.com/longevity-genie/synergy-age-mcp) 🎖️ 🐍 🏠 ☁️ - MCP server for the SynergyAge database of synergistic and antagonistic genetic interactions in longevity.
+- [TruthStack1/truthstack-mcp](https://github.com/TruthStack1/truthstack-mcp) 🏠 ☁️ - Supplement-drug interaction safety checker with FDA FAERS adverse event signals, CYP450 pathway analysis, and fuzzy compound resolution across 584 aliases.
 - [OHNLP/omop_mcp](https://github.com/OHNLP/omop_mcp) 🐍 🏠 ☁️ - Map clinical terminology to OMOP concepts using LLMs for healthcare data standardization and interoperability.
 - [the-momentum/apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) 🐍 🏠 🍎 🪟 🐧 - An MCP server that provides access to exported data from Apple Health. Data analytics included.
 - [the-momentum/fhir-mcp-server](https://github.com/the-momentum/fhir-mcp-server) 🐍 🏠 ☁️ - MCP Server that connects AI agents to FHIR servers. One example use case is querying patient history in natural language.
