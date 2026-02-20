@@ -829,6 +829,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [pramod/kaggle](https://github.com/KrishnaPramodParupudi/kaggle-mcp-server) 🐍 - This Kaggle MCP Server makes Kaggle more accessible by letting you browse competitions, leaderboards, models, datasets, and kernels directly within MCP, streamlining discovery for data scientists and developers.
 - [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - Enables autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
 - [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) 💎 🏠 - Enables agents to query local information about dependencies in a Ruby project's `Gemfile`.
+- [wspringer/math-svg-mcp](https://github.com/wspringer/math-svg-mcp) 📇 🏠 - Convert LaTeX math expressions to crisp, scalable SVG images. Perfect for rendering formulas in documents, presentations, and design tools.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
 
 ### 📟 <a name="embedded-system"></a>Embedded System
