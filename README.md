@@ -361,6 +361,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍 🏠 - Coding agent with basic read, write and command line tools.
 - [elhamid/llm-council](https://github.com/elhamid/llm-council) 🐍 🏠 - Multi-LLM deliberation with anonymized peer review. Runs a 3-stage council: parallel responses → anonymous ranking → synthesis. Based on Andrej Karpathy's LLM Council concept.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - A Model Context Protocol server that provides access to iTerm. You can run commands and ask questions about what you see in the iTerm terminal.
+- [fraygeist/hivekit-mcp](https://github.com/fraygeist/hivekit-mcp) 📇 🏠 - Git-native agent swarm coordination via MCP. Task management, agent registration, heartbeats, and shared state for multi-agent systems.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - Run any command with `run_command` and `run_script` tools.
 - [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) 🦀 🏠 - A high-performance Rust reimplementation of WCGW for code agents, providing shell execution and advanced file management capabilities for LLMs via MCP.
 - [irskep/persistproc](https://github.com/irskep/persistproc) 🐍 🏠 - MCP server + command line tool that allows agents to see & control long-running processes like web servers. Start, stop, restart, read logs.
