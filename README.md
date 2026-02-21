@@ -855,6 +855,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 Provides access to environmental data and nature-related tools, services and information.
 
 - [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - MCP server for detecting, monitoring, and analyzing potential wildfires globally using multiple data sources including NASA FIRMS, OpenWeatherMap, and Google Earth Engine.
+- [WEMS (World Event Monitoring System)](https://github.com/heliosarchitect/wems-mcp-server) 🐍 ☁️ - Real-time global natural hazard monitoring with free and premium tiers. Track earthquakes, tsunamis, volcanoes, and solar events from authoritative sources (USGS, NOAA, Smithsonian GVP). Features: Free tier (earthquakes ≥4.5 magnitude, hour/day ranges), Premium tier ($29/mo) with full access to all events, enhanced filtering, and extended time ranges. Zero-config setup with webhook alerts and geographic filtering.
 
 ### 📂 <a name="file-systems"></a>File Systems
 

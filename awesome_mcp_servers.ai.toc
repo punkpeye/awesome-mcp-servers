@@ -1,0 +1,35 @@
+# awesome_mcp_servers.ai.toc — [Project Name]
+
+## What This Is
+[One paragraph. What does this project do? Who is it for?]
+
+## Quick Start
+[Minimum steps to run/use this project]
+
+## Directory Layout
+```
+├── src/              # [Core source code]
+├── tests/            # [Test suite]
+├── docs/             # [Documentation]
+├── config/           # [Configuration files]
+├── scripts/          # [Build/deploy/utility scripts]
+└── [other dirs]      # [Purpose]
+```
+
+## Entry Points
+- **Main**: `[path to main entry point]` — [what it does]
+- **CLI**: `[command]` — [what it does]
+- **Tests**: `[test command]` — [how to run]
+
+## Key Concepts
+- **[Concept 1]**: [One-line explanation]
+- **[Concept 2]**: [One-line explanation]
+
+## Dependencies
+- **Runtime**: [key dependencies]
+- **Dev**: [test/build dependencies]
+
+## Status
+- **Version**: [version]
+- **Tests**: [pass count] passing
+- **CI**: [CI status]

@@ -1,0 +1,61 @@
+# awesome_mcp_servers.ai.context — AI Navigation & Forensics System
+
+This project uses the **LBF AI Documentation Standard** — machine-readable files that help AI agents understand, navigate, debug, and trace behavior in this codebase.
+
+## Naming Convention
+
+Files follow `awesome_mcp_servers.ai.{type}` pattern (e.g., `augur.ai.register`, `wems.ai.toc`).
+Legacy projects may use `AI.{TYPE}` until migrated.
+
+## Files
+
+| File | Purpose | Read When |
+|------|---------|-----------|
+| `awesome_mcp_servers.ai.toc` | Project map — what this is, directory layout, entry points | First. Always start here. |
+| `awesome_mcp_servers.ai.index` | Searchable index — features, log signatures, grep patterns, API endpoints | Looking for something specific or debugging |
+| `awesome_mcp_servers.ai.register` | Version forensics — feature history, behavioral signatures, failure modes, rollback plans | Debugging, incident response, code review, version archaeology |
+
+## How to Use (for AI agents)
+
+1. **Start with `.ai.toc`** — understand what the project does and how it's organized
+2. **Search `.ai.index`** for specific features, log patterns, or behavioral markers
+3. **Check `.ai.register`** when debugging failures, tracing version history, or planning rollbacks
+
+## Forensic Principles
+
+Every feature increment documents:
+- **Behavioral signature**: Log patterns that identify this feature is active
+- **Failure mode**: What broken behavior looks like in logs
+- **Debugging hooks**: Specific grep commands to diagnose issues
+- **Rollback plan**: How to disable this feature and what breaks
+
+Every bug fix documents:
+- **Root cause**: Which feature(s) caused it
+- **Before/after**: Log signature changes
+- **Verification**: Test case that validates the fix
+- **Regression risks**: What might break from the fix
+
+## Success Criteria
+
+6 months from now, someone can:
+- `grep` their way to root cause of any production issue
+- Identify which version introduced a behavior
+- Disable suspect features for testing
+- Understand feature interactions without reading all the code
+
+## CI Validation
+
+`.ai.index` entries are **CI-enforced**. Every entry must include a verifiable reference:
+- `→ path/file.py:LINE` — file exists and has at least that many lines
+- `| GREP: grep "pattern" file` — grep command returns matches
+
+Run `ci/validate-ai-index.sh` locally or in CI. Stale docs = failed build.
+
+## Convention
+
+- Files are plain text/markdown, no special tooling required
+- No `.md` extension — files render as markdown on GitHub without it
+- `.ai.toc` should fit in ~500 tokens
+- `.ai.index` scales with project size, uses one-line entries with verifiable grep/file refs
+- `.ai.register` is the forensic trail — version history + behavioral signatures
+- Regenerate after significant refactors or feature additions

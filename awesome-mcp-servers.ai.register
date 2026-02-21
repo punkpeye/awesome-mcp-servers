@@ -1,0 +1,198 @@
+# Awesome MCP Servers — Version Forensics
+
+## Current State
+**VERSION**: v1.0.0 (Community Directory Fork)  
+**DEPLOYMENT**: GitHub repository fork for WEMS contribution  
+**LAST COMMIT**: Add WEMS (World Event Monitoring System) MCP server  
+**DATE**: 2026-02-14  
+
+## Active Features with Behavioral Signatures
+
+### FEATURE: "MCP Server Directory" (v1.0.0)
+**ADDED IN**: v1.0.0 (Original awesome list)
+
+**BEHAVIORAL SIGNATURE**:
+- Log pattern: Curated list of 500+ Model Context Protocol server implementations
+- Organization pattern: Categorized by functionality (databases, APIs, tools, etc.)
+- Response pattern: GitHub repository links with descriptions and metadata tags
+- Failure mode: Outdated links, server maintenance status changes
+
+**IMPLEMENTS**:
+- Changes to: Scattered MCP documentation → Centralized community directory
+- Adds decision branch: Discovery via awesome list vs individual server search
+- Modifies priority: Community curation over vendor-specific documentation
+
+**DEBUGGING HOOKS**:
+- If servers offline → check GitHub repository status and maintenance
+- If links broken → verify repository URLs and project status
+- Category organization → follow alphabetical ordering within sections
+
+**INTERACTS WITH**:
+- Depends on: GitHub hosting, community contributions, server maintainers
+- Conflicts with: None (read-only directory)
+- Modifies behavior of: MCP ecosystem discovery and adoption
+
+---
+
+### FEATURE: "Multi-Language Support" (v1.0.0)
+**ADDED IN**: v1.0.0 (Internationalization)
+
+**BEHAVIORAL SIGNATURE**:
+- Log pattern: 8 language versions of README (English, Chinese, Japanese, Korean, etc.)
+- Translation pattern: Synchronized content across language variants
+- Response pattern: Language badge navigation and localized descriptions
+- Failure mode: Translation drift, inconsistent updates across languages
+
+**IMPLEMENTS**:
+- Changes to: English-only documentation → Multi-language accessibility
+- Adds decision branch: Native language vs English comprehension
+- Modifies priority: Global accessibility over maintenance simplicity
+
+**LANGUAGE COVERAGE**:
+```
+- README.md (English - primary)
+- README-zh.md (Simplified Chinese)
+- README-zh_TW.md (Traditional Chinese)  
+- README-ja.md (Japanese)
+- README-ko.md (Korean)
+- README-th.md (Thai)
+- README-pt_BR.md (Portuguese Brazilian)
+- README-fa-ir.md (Persian/Farsi)
+```
+
+**DEBUGGING HOOKS**:
+- If translations outdated → check commit history for English updates
+- If language badge broken → verify README file existence
+- Content inconsistency → compare translation with English reference
+
+---
+
+### FEATURE: "WEMS Integration" (v1.0.1)
+**ADDED IN**: v1.0.1 (2026-02-14)
+
+**BEHAVIORAL SIGNATURE**:
+- Log pattern: Single commit adding WEMS to Environmental category
+- Entry format: Repository link + description + metadata tags (🐍 ☁️)
+- Response pattern: WEMS listed under Environmental section with full feature description
+- Failure mode: PR merge conflicts, categorization disputes
+
+**IMPLEMENTS**:
+- Changes to: Missing WEMS from directory → Featured in Environmental section
+- Adds decision branch: WEMS visibility via awesome list vs direct promotion
+- Modifies priority: Community contribution over self-promotion
+
+**WEMS ENTRY DETAILS**:
+```markdown
+- [WEMS (World Event Monitoring System)](https://github.com/heliosarchitect/wems-mcp-server) 
+  🐍 ☁️ - Real-time global natural hazard monitoring with free and premium tiers. 
+  Track earthquakes, tsunamis, volcanoes, and solar events from authoritative sources 
+  (USGS, NOAA, Smithsonian GVP). Features: Free tier (earthquakes ≥4.5 magnitude, 
+  hour/day ranges), Premium tier ($29/mo) with full access to all events, enhanced 
+  filtering, and extended time ranges. Zero-config setup with webhook alerts and 
+  geographic filtering.
+```
+
+**DEBUGGING HOOKS**:
+- If WEMS entry missing → check Environmental section around line 812
+- If link broken → verify https://github.com/heliosarchitect/wems-mcp-server
+- If description outdated → compare with WEMS repo current features
+
+**INTERACTS WITH**:
+- Depends on: WEMS MCP server repository maintenance
+- Conflicts with: Other environmental monitoring entries
+- Modifies behavior of: WEMS discovery via community directory
+
+---
+
+### FEATURE: "Web Directory Sync" (v1.0.0)
+**ADDED IN**: v1.0.0 (glama.ai integration)
+
+**BEHAVIORAL SIGNATURE**:
+- Log pattern: Repository synced with https://glama.ai/mcp/servers web directory
+- Sync pattern: GitHub markdown → Web-based searchable interface
+- Response pattern: Dual access via GitHub README and web directory
+- Failure mode: Sync delays, web directory out of date
+
+**IMPLEMENTS**:
+- Changes to: GitHub-only access → Dual GitHub + web directory access
+- Adds decision branch: Text-based vs web-based server discovery
+- Modifies priority: User experience over simple markdown files
+
+**WEB FEATURES**:
+- **Searchable Interface**: Filter by category, language, platform
+- **Inspector Tool**: Test MCP servers directly in browser
+- **Community Hub**: Discord integration and Reddit community links
+- **AI Client Integration**: Glama Chat with MCP support
+
+**DEBUGGING HOOKS**:
+- If web directory outdated → check glama.ai sync status
+- If inspector not working → verify MCP server endpoints
+- Community links broken → test Discord/Reddit integration
+
+---
+
+## MCP Ecosystem Context
+**MODEL CONTEXT PROTOCOL**: Open standard for AI model integration with external resources  
+**SERVER COUNT**: 500+ implementations across 40+ categories  
+**COMMUNITY**: Discord server, Reddit community, active GitHub contributions  
+**OFFICIAL SUPPORT**: Anthropic Claude Desktop, growing client ecosystem  
+
+## Feature Interaction Map
+
+```
+MCP Directory (v1.0.0) ←─── Server Discovery
+    ↓                        ↓
+Multi-Language (v1.0.0) ──→ Global Accessibility ──→ Web Directory Sync (v1.0.0)
+    ↓                        ↓                        ↓
+WEMS Integration (v1.0.1) ──→ Environmental Category ──→ Community Contribution
+
+AMPLIFIES: Directory + Web sync = Enhanced discoverability
+ENABLES: Multi-language support expands global adoption
+INTEGRATES: WEMS contribution demonstrates community process
+```
+
+## Repository Structure
+- **README.md** → Main directory (English, 7000+ lines, 500+ servers)
+- **README-*.md** → Localized versions (8 languages total)
+- **CONTRIBUTING.md** → Contribution guidelines for community additions
+- **LICENSE** → MIT license for open community curation
+
+## Server Categories (40+ categories)
+- **Environmental** → WEMS, wildfire monitoring, weather services
+- **Databases** → SQL, NoSQL, vector databases, ORMs
+- **Cloud Platforms** → AWS, GCP, Azure, Kubernetes integrations
+- **Developer Tools** → IDEs, version control, CI/CD, testing
+- **Communication** → Email, chat, social media, notifications
+
+## Contribution Process
+1. **Fork Repository** → Create feature branch for additions
+2. **Follow Format** → Maintain alphabetical order, consistent styling
+3. **Add Server Entry** → Repository link + description + metadata tags
+4. **Submit PR** → Community review process for quality assurance
+5. **Merge Integration** → Web directory automatically syncs updates
+
+## Quality Standards
+- **Accuracy Verification** → Links tested, descriptions validated
+- **Metadata Consistency** → Language tags (🐍📇🦀), scope (☁️🏠), platform (🍎🪟🐧)
+- **Alphabetical Organization** → Within categories for easy navigation
+- **Clear Descriptions** → Concise functionality explanation with key features
+- **Active Maintenance** → Regular community updates and curation
+
+## WEMS Contribution Context
+- **Purpose**: Add WEMS to Environmental monitoring category
+- **Process**: Standard community contribution via fork/PR workflow  
+- **Impact**: Increased WEMS visibility in MCP ecosystem
+- **Category Fit**: Appropriate placement with wildfire and weather servers
+- **Feature Completeness**: Full description including free/premium tiers
+
+## Rollback & Maintenance
+- **Content Issues**: Edit README.md and submit PR for corrections
+- **Translation Updates**: Synchronize changes across all language variants  
+- **Category Reorganization**: Maintain alphabetical order during restructuring
+- **Web Directory Sync**: glama.ai automatically pulls from GitHub repository
+- **Community Disputes**: Follow GitHub issue process for resolution
+
+---
+
+*Generated by Helios VERSION_FORENSICS framework — searchable, greppable, debuggable.*  
+*Community resource: Contributions welcome via GitHub PR process.*

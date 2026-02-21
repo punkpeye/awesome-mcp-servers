@@ -1,0 +1,54 @@
+# awesome_mcp_servers.ai.register — [Project Name]
+# Version forensics + external interfaces. Forensic trail for debugging 6 months from now.
+
+## Current Version
+# VERSION: X.Y.Z
+# LAST UPDATED: YYYY-MM-DD
+
+## Active Features
+# For each feature, document how to FIND IT in logs and how to DISABLE IT.
+#
+# FEATURE: [Short name] (vX.Y.Z)
+#   DESCRIPTION: What it does
+#   SIGNATURE: Log pattern when active | GREP: grep "pattern" logfile
+#   FAILURE MODE: What broken looks like | GREP: grep "error_pattern" logfile
+#   ROLLBACK: How to disable | SIDE EFFECTS: What breaks when disabled
+#   INTERACTS WITH: Which other features this depends on or modifies
+
+## Known Bugs
+# BUG: [Description]
+#   SUSPECTED FEATURE: [Which feature likely caused it]
+#   EVIDENCE: [What logs/data show]
+#   GREP: [Command to reproduce/verify]
+
+## Bug Fix History
+# VERSION: X.Y.Z → X.Y.Z+1
+#   BUG FIXED: [Specific broken behavior]
+#   ROOT CAUSE: [Which feature caused it]
+#   FIX: [What changed]
+#   VERIFICATION: grep "pattern" → should show [expected]
+#   REGRESSION RISKS: [What might break]
+
+## Environment Variables
+# [required] VAR_NAME — What it does (example: "abc123")
+# [optional] VAR_NAME — What it does (default: value)
+
+## API Endpoints
+# [endpoint] METHOD /path — Description
+#   Request: { field: type }
+#   Response: { field: type }
+
+## CLI Commands
+# [cmd] command --flag — What it does
+
+## Ports / Network
+# [port] NUMBER — What listens here
+
+## Secrets / Auth
+# [secret] NAME — Where to get it, what it authenticates
+
+## Integration Points
+# [integrates] Service/System — How this project connects to it
+
+## Data Sources
+# [source] Name — URL or path — What data it provides

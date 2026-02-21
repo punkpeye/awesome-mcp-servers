@@ -1,0 +1,88 @@
+# Awesome MCP Servers — Table of Contents
+
+## Core Directory
+- **Main Directory** (`README.md`) → Comprehensive list of 500+ MCP servers across 40+ categories
+- **Web Integration** → Synced with https://glama.ai/mcp/servers searchable interface
+- **Community Guidelines** (`CONTRIBUTING.md`) → Contribution process and quality standards
+- **License** (`LICENSE`) → MIT license for open community curation
+
+## Multi-Language Support
+- **English** (`README.md`) → Primary reference with 7000+ lines of server listings
+- **Simplified Chinese** (`README-zh.md`) → Localized version for Chinese developers
+- **Traditional Chinese** (`README-zh_TW.md`) → Taiwan/Hong Kong regional variant
+- **Japanese** (`README-ja.md`) → Japanese developer community access
+- **Korean** (`README-ko.md`) → Korean language localization
+- **Thai** (`README-th.md`) → Thai language community support
+- **Portuguese Brazilian** (`README-pt_BR.md`) → Brazilian Portuguese version
+- **Persian/Farsi** (`README-fa-ir.md`) → Persian language accessibility
+
+## MCP Server Categories
+
+### Core Infrastructure
+- **Aggregators** → Multi-service integration and data consolidation servers
+- **Cloud Platforms** → AWS, GCP, Azure, Kubernetes MCP integrations
+- **Databases** → SQL, NoSQL, vector databases, ORMs, and data persistence
+- **Developer Tools** → IDEs, version control, CI/CD, testing frameworks
+
+### AI & Machine Learning
+- **Coding Agents** → AI-powered development assistants and code generation
+- **Machine Learning** → Model serving, training pipelines, ML operations
+- **Vector Databases** → Embeddings storage, similarity search, RAG systems
+- **Knowledge & Memory** → Long-term memory, knowledge graphs, semantic search
+
+### Communication & Integration
+- **Communication** → Email, chat platforms, social media, notifications
+- **APIs & Services** → REST/GraphQL integrations, webhook systems
+- **Automation** → Workflow orchestration, task scheduling, process automation
+- **Browser Automation** → Web scraping, testing, headless browser control
+
+### Domain-Specific Services
+- **Environmental** → Weather monitoring, wildfire detection, **WEMS integration**
+- **Finance & Fintech** → Payment processing, trading APIs, financial data
+- **Healthcare** → Medical records, patient management, clinical decision support  
+- **Real Estate** → Property data, market analysis, listing management
+
+### Data & Analytics
+- **Data Platforms** → ETL pipelines, data warehouses, analytics tools
+- **Business Intelligence** → Reporting, dashboards, KPI monitoring
+- **Time Series** → IoT data, metrics collection, temporal analysis
+- **Geographic Information** → Mapping, geospatial analysis, location services
+
+### Entertainment & Media
+- **Gaming** → Game APIs, player management, leaderboards, analytics
+- **Music & Audio** → Streaming services, audio processing, metadata management
+- **Art & Culture** → Creative tools, museum APIs, cultural data access
+- **Social Media** → Platform integrations, content management, engagement metrics
+
+## Web Directory Features
+- **Search Interface** → Category filtering, language selection, platform targeting
+- **MCP Inspector** → Test server functionality directly in browser
+- **Community Hub** → Discord server, Reddit community, GitHub discussions
+- **Client Integration** → Glama Chat, Claude Desktop, and other MCP clients
+
+## Quality Assurance
+- **Metadata Standards** → Language tags (🐍📇🦀), scope (☁️🏠), platform tags (🍎🪟🐧)
+- **Content Verification** → Link validation, description accuracy, feature completeness
+- **Alphabetical Organization** → Consistent ordering within categories
+- **Translation Consistency** → Synchronized updates across language variants
+
+## Community Contribution
+- **Fork & PR Workflow** → Standard GitHub contribution process
+- **Review Process** → Community validation and quality assurance
+- **Category Guidelines** → Appropriate server placement and organization
+- **Style Standards** → Formatting consistency and clear descriptions
+
+## WEMS Contribution Context
+- **Integration Point** → Environmental monitoring category placement
+- **Feature Description** → Free/premium tier explanation, source attribution
+- **Metadata Tags** → Python (🐍), Cloud (☁️) indicators
+- **Community Validation** → PR review and merge process completion
+
+## External Integrations
+- **GitHub Ecosystem** → Repository hosting, community contributions, issue tracking
+- **glama.ai Platform** → Web directory sync, search functionality, client integration
+- **Discord Community** → Real-time discussions, support, announcements
+- **Reddit Community** → Long-form discussions, server showcases, troubleshooting
+
+---
+*Navigate by category or language. All paths relative to ~/Projects/awesome-mcp-servers/*
