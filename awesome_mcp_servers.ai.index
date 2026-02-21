@@ -1,0 +1,41 @@
+# awesome_mcp_servers.ai.index — [Project Name]
+# Searchable index. Every entry is greppable. One line per item.
+# RULE: Every entry MUST have a verifiable reference — either:
+#   → path/file.py:LINE  (file + line number, validated by CI)
+#   | GREP: grep "pattern" file  (grep command, validated by CI)
+# Entries without verifiable refs will FAIL CI validation.
+# Validator: ci/validate-ai-index.sh (from lbf-templates)
+
+## Features (by version)
+# vX.Y.Z: Feature name → src/feature.py:1 | GREP: grep "feature_flag" src/config.py
+
+## Log Signatures
+# [log] PATTERN_NAME: what it means | GREP: grep "pattern" logfile
+# [log] ERROR_NAME: what went wrong | GREP: grep "error" logfile
+
+## Classes
+# [class] ClassName → src/file.py:42 — What this class does
+
+## Functions
+# [fn] function_name → src/file.py:100 — What this function does
+
+## Constants / Config
+# [const] IMPORTANT_VALUE → src/config.py:10 — What this controls
+
+## API Endpoints
+# [api] METHOD /path → handler_file.py:50 — What it does
+
+## Test Suites
+# [test] TestClassName → tests/test_file.py:15 — What this tests
+
+## Behavioral Markers
+# [marker] MARKER_NAME: what it indicates | GREP: grep "pattern" logfile
+# [marker] HEALTH_CHECK: system is healthy | GREP: grep "OK\|healthy" logfile
+
+## Key Patterns
+# [pattern] name → src/file.py:200 — Brief description of architectural pattern used
+
+## Debugging Cheat Sheet
+# If you see [X] → check [Y feature] in .ai.register
+# If [A] is broken | GREP: grep "error_pattern" logfile
+# If tests fail → run [command] to isolate
