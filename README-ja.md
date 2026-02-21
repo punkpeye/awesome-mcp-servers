@@ -364,6 +364,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 - [A1X5H04/binance-mcp-server](https://github.com/A1X5H04/binance-mcp-server) 🐍 ☁️ - Binance APIとの統合で、暗号通貨価格、市場データ、口座情報へのアクセスを提供
 - [akdetrick/mcp-teller](https://github.com/akdetrick/mcp-teller) 🐍 🏠 - カナダのフィンテック企業Tellerのアカウント集約APIへのアクセス
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) 📇 🏠 ☁️ - deBridgeプロトコルを介したEVMおよびSolanaブロックチェーン間のクロスチェーンスワップとブリッジング。AIエージェントが最適なルートの発見、手数料の評価、ノンカストディアル取引の開始を可能にします。
 - [fatwang2/alpaca-trade-mcp](https://github.com/fatwang2/alpaca-trade-mcp) 📇 ☁️ - Alpaca取引プラットフォームとの統合
 - [fatwang2/coinbase-mcp](https://github.com/fatwang2/coinbase-mcp) 📇 ☁️ - Coinbase Advanced Trade APIとの統合
 - [fatwang2/robinhood-mcp](https://github.com/fatwang2/robinhood-mcp) 📇 ☁️ - Robinhood取引プラットフォームとの統合
