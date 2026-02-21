@@ -219,6 +219,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 
 ### <a name="bio"></a>Biology, Medicine and Bioinformatics
 
+- [bakhtiersizhaev/openevidence-mcp](https://github.com/bakhtiersizhaev/openevidence-mcp) 📇 ☁️ 🍎 🪟 🐧 - Unofficial MCP server for OpenEvidence with browser-session authentication via Playwright. Includes tools for auth status, history list, article fetch by ID, and question execution with polling.
 - [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) 🐍 🏠 - MCP server for spatial transcriptomics analysis with 60+ integrated methods covering cell annotation, deconvolution, spatial statistics, and visualization.
 - [dnaerys/onekgpd-mcp](https://github.com/dnaerys/onekgpd-mcp) ☕ ☁️ 🍎 🪟 🐧- real-time access to 1000 Genomes Project dataset
 - [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - Biomedical research MCP server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info.
