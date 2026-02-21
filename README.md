@@ -112,6 +112,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
 * 📋 - [Product Management](#product-management)
+* 🏠 - [Real Estate](#real-estate)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
 * 🔒 - [Security](#security)
@@ -1224,6 +1225,12 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 Tools for product planning, customer feedback analysis, and prioritization.
 
 - [dkships/pm-copilot](https://github.com/dkships/pm-copilot) 📇 ☁️ - Triangulates HelpScout support tickets and ProductLift feature requests to generate prioritized product plans. Scores themes by convergence (same signal in both sources = 2x boost), scrubs PII, and accepts business metrics from other MCP servers via `kpi_context` for composable prioritization.
+
+### 🏠 <a name="real-estate"></a>Real Estate
+
+MCP servers for real estate CRM, property management, and agent workflows.
+
+- [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
 
 ### 🔬 <a name="research"></a>Research
 
