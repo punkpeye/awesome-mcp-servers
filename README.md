@@ -1022,6 +1022,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server) 📇 ☁️ – An MCP server that integrates with Xero's API, allowing for standardized access to Xero's accounting and business features.
 - [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402) ☁️ - Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM chains.
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ - An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.
+- [zkoranges/crypto_minute](https://github.com/zkoranges/crypto_minute/tree/main/cmd/mcp) 🏎️ ☁️ - AI-powered crypto news intelligence MCP with 8 tools: news search, narrative analytics, AI-clustered stories, Reddit sentiment, YouTube engagement, historical prices, token metadata, and Telegram flash posts. Aggregates 50+ sources with significance scoring and sentiment analysis.
 - [zolo-ryan/MarketAuxMcpServer](https://github.com/Zolo-Ryan/MarketAuxMcpServer) 📇 ☁️ - MCP server for comprehensive market and financial news search with advanced filtering by symbols, industries, countries, and date ranges.
 
 ### 🎮 <a name="gaming"></a>Gaming
