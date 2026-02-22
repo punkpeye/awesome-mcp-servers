@@ -228,6 +228,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts.
 - [agent-infra/mcp-server-browser](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser) 📇 🏠 - Browser automation capabilities using Puppeteer, both support local and remote browser connection.
+- [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) 📇 🏠 🍎 🪟 🐧 - AI-powered E2E testing for 10 platforms (Flutter, React Native, iOS, Android, Web, Electron, Tauri, KMP, .NET MAUI) with 253 MCP tools. Zero config. Uses CDP Accessibility Tree for 95% token savings vs screenshots.
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - An MCP server for browser automation using Playwright
 - [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) 🦀 Lightweight browser automation MCP server in Rust with zero dependencies.
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - An MCP python server using Playwright for browser automation,more suitable for llm
