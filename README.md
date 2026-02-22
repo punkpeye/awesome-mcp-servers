@@ -1297,6 +1297,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [just-every/mcp-read-website-fast](https://github.com/just-every/mcp-read-website-fast) 📇 🏠 - Fast, token-efficient web content extraction for AI agents - converts websites to clean Markdown while preserving links. Features Mozilla Readability, smart caching, polite crawling with robots.txt support, and concurrent fetching.
 - [just-every/mcp-screenshot-website-fast](https://github.com/just-every/mcp-screenshot-website-fast) 📇 🏠 - Fast screenshot capture tool optimized for Claude Vision API. Automatically tiles full pages into 1072x1072 chunks for optimal AI processing with configurable viewports and wait strategies for dynamic content.
 - [kagisearch/kagimcp](https://github.com/kagisearch/kagimcp) ☁️ 📇 – Official Kagi Search MCP Server
+- [kc23go/anybrowse](https://github.com/kc23go/anybrowse) 📇 ☁️ - Convert any URL to LLM-ready Markdown via real Chrome browsers. 3 tools: scrape, crawl, search. Free via MCP, pay-per-use via x402. Remote MCP endpoint: `https://anybrowse.dev/mcp`
 - [kehvinbehvin/json-mcp-filter](https://github.com/kehvinbehvin/json-mcp-filter) ️🏠 📇 – Stop bloating your LLM context. Query & Extract only what you need from your JSON files.
 - [kimdonghwi94/Web-Analyzer-MCP](https://github.com/kimdonghwi94/web-analyzer-mcp) 🐍 🏠 🍎 🪟 🐧 - Extracts clean web content for RAG and provides Q&A about web pages.
 - [kshern/mcp-tavily](https://github.com/kshern/mcp-tavily.git) ☁️ 📇 – Tavily AI search API
