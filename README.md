@@ -1689,6 +1689,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 - AI Agents framework with 64+ built-in tools for search, memory, workflows, code execution, and file operations. Turn any AI assistant into a multi-agent system with MCP.
+- [openagents-org/openagents](https://github.com/openagents-org/openagents) 🐍 ☁️ 🏠 - Open-source platform for building AI agent networks with multi-protocol support (MCP, A2A, WebSocket, gRPC, HTTP).
 
 ## Tips and Tricks
 
