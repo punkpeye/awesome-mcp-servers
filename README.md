@@ -1041,7 +1041,7 @@ Integration with gaming related data, game engines, and services
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - An MCP server for real-time Fantasy Premier League data and analysis tools.
 - [sonirico/mcp-stockfish](https://github.com/sonirico/mcp-stockfish) - 🏎️ 🏠 🍎 🪟 🐧️ MCP server connecting AI systems to Stockfish chess engine.
 - [stefan-xyz/mcp-server-runescape](https://github.com/stefan-xyz/mcp-server-runescape) 📇 - An MCP server with tools for interacting with RuneScape (RS) and Old School RuneScape (OSRS) data, including item prices, player hiscores, and more.
-- [jhomen368/steam-reviews-mcp](https://github.com/jhomen368/steam-reviews-mcp) 📇 ☁️ - Search Steam games, fetch user reviews, and analyze sentiment with NLP-powered analysis and topic drill-down to make informed purchasing decisions.
+- [jhomen368/steam-reviews-mcp](https://github.com/jhomen368/steam-reviews-mcp) 📇 ☁️ - Search Steam games, fetch user reviews, and analyze sentiment with topic drill-down to make informed purchasing decisions.
 - [tomholford/mcp-tic-tac-toe](https://github.com/tomholford/mcp-tic-tac-toe) 🏎️ 🏠 - Play Tic Tac Toe against an AI opponent using this MCP server.
 
 ### 🏠 <a name="home-automation"></a>Home Automation
