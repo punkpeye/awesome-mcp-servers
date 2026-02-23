@@ -896,6 +896,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [bolivian-peru/baozi-mcp](https://github.com/bolivian-peru/baozi-mcp) 📇 ☁️ - 68 tools for AI agents to interact with Solana prediction markets on [Baozi.bet](https://baozi.bet) — browse markets, place bets, claim winnings, create markets, and earn affiliate commissions.
 - [base/base-mcp](https://github.com/base/base-mcp) 🎖️ 📇 ☁️ - Base Network integration for onchain tools, allowing interaction with Base Network and Coinbase API for wallet management, fund transfers, smart contracts, and DeFi operations
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API integration to fetch both stock and crypto information
+- [beee003/vynn-mcp](https://github.com/beee003/vynn-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Self-improving AI workflows with natural language backtesting, parameter sweeps, portfolio optimization, prompt optimization, and cron scheduling. 21 tools.
 - [bitteprotocol/mcp](https://github.com/BitteProtocol/mcp) 📇 - Bitte Protocol integration to run AI Agents on several blockchains.
 - [bubilife1202/crossfin](https://github.com/bubilife1202/crossfin) 📇 ☁️ - Korean & global crypto exchange routing, arbitrage signals, and x402 USDC micropayments for AI agents. 16 tools, 9 exchanges, 11 bridge coins.
 - [carsol/monarch-mcp-server](https://github.com/carsol/monarch-mcp-server) 🐍 ☁️ - MCP server providing read-only access to Monarch Money financial data, enabling AI assistants to analyze transactions, budgets, accounts, and cashflow data with MFA support.
@@ -1017,6 +1018,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [Trade-Agent/trade-agent-mcp](https://github.com/Trade-Agent/trade-agent-mcp.git) 🎖️ ☁️ - Trade stocks and crypto on common brokerages (Robinhood, E*Trade, Coinbase, Kraken) via Trade Agent's MCP server.
 - [trayders/trayd-mcp](https://github.com/trayders/trayd-mcp) 🐍 ☁️ - Trade Robinhood through natural language. Portfolio analysis, real-time quotes, and order execution via Claude Code.
 - [twelvedata/mcp](https://github.com/twelvedata/mcp) 🐍 ☁️ - Interact with [Twelve Data](https://twelvedata.com) APIs to access real-time and historical financial market data for your AI agents.
+- [beee003/vynn-mcp](https://github.com/beee003/vynn-mcp) 🐍 ☁️ - Self-improving AI workflows with strategy backtesting, portfolio optimization, prompt auto-optimization, cron scheduling, and webhook triggers. 21 tools for building and running LLM pipelines.
 - [wowinter13/solscan-mcp](https://github.com/wowinter13/solscan-mcp) 🦀 🏠 - An MCP tool for querying Solana transactions using natural language with Solscan API.
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - An MCP server that interact with capabilities of the CRIC Wuye AI platform, an intelligent assistant specifically for the property management industry.
 - [XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server) 📇 ☁️ – An MCP server that integrates with Xero's API, allowing for standardized access to Xero's accounting and business features.
