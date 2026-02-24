@@ -883,6 +883,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
+- [manuelariasfz/mcp-colombia](https://github.com/manuelariasfz/mcp-colombia) 📇 🏠 - Colombia financial tools: compare CDTs (certificates of deposit) across 10+ banks, simulate consumer loans, and compare savings accounts and digital wallets — all in Colombian pesos (COP).
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) 📇 ☁️ - Deep Research for crypto - free & fully local
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp) 🎖️ 🐍 ☁️ 🏠 - Access institutional-grade alternative financial data directly in your LLM workflows.
@@ -1479,6 +1480,7 @@ Tools for converting text-to-speech and vice-versa
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
+- [manuelariasfz/mcp-colombia](https://github.com/manuelariasfz/mcp-colombia) 📇 🏠 - Colombia travel tools: search hotels in Colombian cities via Booking.com, and find flights with Avianca, LATAM and Skyscanner.
 
 - [campertunity/mcp-server](https://github.com/campertunity/mcp-server) 🎖️ 📇 🏠 - Search campgrounds around the world on campertunity, check availability, and provide booking links
 - [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) 🐍 🏠 - A Model Context Protocol (MCP) server that provides access to your TeslaMate database, allowing AI assistants to query Tesla vehicle data and analytics.
