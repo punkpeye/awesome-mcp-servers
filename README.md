@@ -1311,6 +1311,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [luminati-io/brightdata-mcp](https://github.com/luminati-io/brightdata-mcp) 📇 ☁️ - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
 - [mikechao/brave-search-mcp](https://github.com/mikechao/brave-search-mcp) 📇 ☁️ - Web, Image, News, Video, and Local Point of Interest search capabilities using Brave's Search API
 - [modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/fetch) 🐍 🏠 ☁️ - Efficient web content fetching and processing for AI consumption
+- [mrjamesdoan/blueweb](https://github.com/mrjamesdoan/blueweb) 📇 ☁️ - Extract structured data from any website using AI. Provide a URL and natural language prompt, get clean JSON back.
 - [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) 🔍 📚 - Search Google and do deep web research on any topic
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) 🐍 ☁️ - Web search using DuckDuckGo
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) 🏠 🐍 - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. No APIs needed.
