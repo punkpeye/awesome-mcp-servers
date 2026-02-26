@@ -270,7 +270,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [Retio-ai/pagemap](https://github.com/Retio-ai/Retio-pagemap) 🐍 🏠 - Compresses ~100K-token HTML into 2-5K-token structured maps while preserving every actionable element. AI agents can read and interact with any web page at 97% fewer tokens.
 - [serkan-ozal/browser-devtools-mcp](https://github.com/serkan-ozal/browser-devtools-mcp) 📇 - An MCP Server enables AI assistants to autonomously test, debug, and validate web applications.
 - [softvoyagers/pageshot-api](https://github.com/softvoyagers/pageshot-api) 📇 ☁️ - Free webpage screenshot capture API with format, viewport, and dark mode options. No API key required.
-- [User0856/snaprender-mcp](https://github.com/User0856/snaprender-integrations/tree/main/mcp-server) 📇 ☁️ - Screenshot API for AI agents — capture any website as PNG, JPEG, WebP, or PDF with device emulation, dark mode, ad blocking, and cookie banner removal. Free tier included.
+- [User0856/snaprender-mcp](https://github.com/User0856/snaprender-integrations/tree/main/mcp-server) [glama](https://glama.ai/mcp/servers/@User0856/snaprender-mcp) 📇 ☁️ - Screenshot API for AI agents — capture any website as PNG, JPEG, WebP, or PDF with device emulation, dark mode, ad blocking, and cookie banner removal. Free tier included.
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
