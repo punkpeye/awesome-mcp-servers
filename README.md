@@ -898,6 +898,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [base/base-mcp](https://github.com/base/base-mcp) 🎖️ 📇 ☁️ - Base Network integration for onchain tools, allowing interaction with Base Network and Coinbase API for wallet management, fund transfers, smart contracts, and DeFi operations
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API integration to fetch both stock and crypto information
 - [bitteprotocol/mcp](https://github.com/BitteProtocol/mcp) 📇 - Bitte Protocol integration to run AI Agents on several blockchains.
+- [Blue-Gamma/BlueGamma](https://github.com/Blue-Gamma/BlueGamma) 🐍 ☁️ - MCP server providing real-time interest rate derivatives pricing, swap curves, FX rates, government yields, and 39+ benchmark index fixings (SOFR, EURIBOR, SONIA, and more) for AI-powered financial analysis.
 - [bubilife1202/crossfin](https://github.com/bubilife1202/crossfin) 📇 ☁️ - Korean & global crypto exchange routing, arbitrage signals, and x402 USDC micropayments for AI agents. 16 tools, 9 exchanges, 11 bridge coins.
 - [carsol/monarch-mcp-server](https://github.com/carsol/monarch-mcp-server) 🐍 ☁️ - MCP server providing read-only access to Monarch Money financial data, enabling AI assistants to analyze transactions, budgets, accounts, and cashflow data with MFA support.
 - [chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 🎖️ 📇 ☁️ - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com/).
