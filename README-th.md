@@ -386,7 +386,7 @@
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - การผสานรวม Alpha Vantage API เพื่อดึงข้อมูลทั้งหุ้นและ crypto
 - [bitteprotocol/mcp](https://github.com/BitteProtocol/mcp) 📇 - การผสานรวม Bitte Protocol เพื่อรันตัวแทน AI บนบล็อกเชนหลายตัว
 - [chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 🎖️ 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่เชื่อมต่อตัวแทน AI กับแพลตฟอร์ม [Chargebee](https://www.chargebee.com/)
-- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) 📇 🏠 ☁️ - การสลับข้ามเชนและการเชื่อมต่อระหว่างบล็อกเชน EVM และ Solana ผ่านโปรโตคอล deBridge ช่วยให้ตัวแทน AI ค้นหาเส้นทางที่เหมาะสมที่สุด ประเมินค่าธรรมเนียม และเริ่มต้นการซื้อขายแบบไม่ต้องฝากเงิน
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - การสลับข้ามเชนและการเชื่อมต่อระหว่างบล็อกเชน EVM และ Solana ผ่านโปรโตคอล deBridge ช่วยให้ตัวแทน AI ค้นหาเส้นทางที่เหมาะสมที่สุด ประเมินค่าธรรมเนียม และเริ่มต้นการซื้อขายแบบไม่ต้องฝากเงิน
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - การผสานรวม Yahoo Finance เพื่อดึงข้อมูลตลาดหุ้น รวมถึงคำแนะนำออปชัน
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - การผสานรวม Tastyworks API เพื่อจัดการกิจกรรมการซื้อขายบน Tastytrade
 - [getalby/nwc-mcp-server](https://github.com/getalby/nwc-mcp-server) 📇 🏠 - การผสานรวมกระเป๋าเงิน Bitcoin Lightning ขับเคลื่อนโดย Nostr Wallet Connect
