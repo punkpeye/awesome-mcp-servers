@@ -1227,7 +1227,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 Tools for product planning, customer feedback analysis, and prioritization.
 
 - [dkships/pm-copilot](https://github.com/dkships/pm-copilot) 📇 ☁️ - Triangulates HelpScout support tickets and ProductLift feature requests to generate prioritized product plans. Scores themes by convergence (same signal in both sources = 2x boost), scrubs PII, and accepts business metrics from other MCP servers via `kpi_context` for composable prioritization.
-- [spranab/saga-mcp](https://github.com/spranab/saga-mcp) 📇 🏠 🍎 🪟 🐧 - A Jira-like project tracker for AI agents with full hierarchy (Projects > Epics > Tasks > Subtasks), task dependencies with auto-block/unblock, threaded comments, reusable templates, activity logging, and a natural language dashboard. SQLite-backed, 31 tools.
+- [spranab/saga-mcp](https://github.com/spranab/saga-mcp) [glama](https://glama.ai/mcp/servers/@spranab/saga-mcp) 📇 🏠 🍎 🪟 🐧 - A Jira-like project tracker for AI agents with full hierarchy (Projects > Epics > Tasks > Subtasks), task dependencies with auto-block/unblock, threaded comments, reusable templates, activity logging, and a natural language dashboard. SQLite-backed, 31 tools.
 
 ### 🔬 <a name="research"></a>Research
 
