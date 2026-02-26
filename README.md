@@ -11,7 +11,7 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
 > [!IMPORTANT]
-> Read [The State of MCP in 2025](https://glama.ai/blog/2025-12-07-the-state-of-mcp-in-2025) report.
+> Read [The State of MCP in 2025](https://glama.ai/blog/2025-12-07-th-state-of-mcp-in-2025) report.
 
 > [!IMPORTANT]
 > [Awesome MCP Servers](https://glama.ai/mcp/servers) web directory.
@@ -159,6 +159,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
 - [portel-dev/ncp](https://github.com/portel-dev/ncp) 📇 ☁️ 🏠 🍎 🪟 🐧 - NCP orchestrates your entire MCP ecosystem through intelligent discovery, eliminating token overhead while maintaining 98.2% accuracy.
 - [profullstack/mcp-server](https://github.com/profullstack/mcp-server) 📇 ☁️ 🏠 🍎 🪟 🐧 - A comprehensive MCP server aggregating 20+ tools including SEO optimization, document conversion, domain lookup, email validation, QR generation, weather data, social media posting, security scanning, and more developer utilities.
+- [rupinder2/mcp-orchestrator](https://github.com/rupinder2/mcp-orchestrator) 🐍 🏠 🍎 🪩 🐧 - Central hub that aggregates tools from multiple MCP servers with unified BM25/regex search and deferred loading.
 - [sitbon/magg](https://github.com/sitbon/magg) 🍎 🪟 🐧 ☁️ 🏠 🐍 - Magg: A meta-MCP server that acts as a universal hub, allowing LLMs to autonomously discover, install, and orchestrate multiple MCP servers - essentially giving AI assistants the power to extend their own capabilities on-demand.
 - [sonnyflylock/voxie-ai-directory-mcp](https://github.com/sonnyflylock/voxie-ai-directory-mcp) 📇 ☁️ - AI Phone Number Directory providing access to AI services via webchat. Query Voxie AI personas and third-party services like ChatGPT, with instant webchat URLs for free interactions.
 - [SureScaleAI/openai-gpt-image-mcp](https://github.com/SureScaleAI/openai-gpt-image-mcp) 📇 ☁️ - OpenAI GPT image generation/editing MCP server.
