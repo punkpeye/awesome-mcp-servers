@@ -769,6 +769,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [tgeselle/bugsnag-mcp](https://github.com/tgeselle/bugsnag-mcp) 📇 ☁️ - An MCP server for interacting with [Bugsnag](https://www.bugsnag.com/)
 - [themesberg/flowbite-mcp](https://github.com/themesberg/flowbite-mcp) 📇 🏠 🍎 🪟 🐧 - MCP server that provides AI assistance for an open-source UI framework based on Tailwind CSS
 - [tipdotmd/tip-md-x402-mcp-server](https://github.com/tipdotmd/tip-md-x402-mcp-server) 📇 ☁️ - MCP server for cryptocurrency tipping through AI interfaces using x402 payment protocol and CDP Wallet.
+- [Time Complexity MCP](https://github.com/Luzgan/time-complexity-mcp) 📇 🏠 - Static Big-O time complexity analysis using tree-sitter AST parsing. Supports JavaScript, TypeScript, Python, Java, Kotlin, and Dart.
 - [Tommertom/awesome-ionic-mcp](https://github.com/Tommertom/awesome-ionic-mcp) 📇 🏠 - Your Ionic coding buddy enabled via MCP – build awesome mobile apps using React/Angular/Vue or even Vanilla JS!
 - [tosin2013/mcp-adr-analysis-server](https://github.com/tosin2013/mcp-adr-analysis-server) 📇 ☁️ 🏠 - AI-powered architectural analysis server for software projects. Provides technology stack detection, ADR management, security checks, enhanced TDD workflow, and deployment readiness validation with support for multiple AI models.
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) 🐍 🏠 - A line-oriented text file editor. Optimized for LLM tools with efficient partial file access to minimize token usage.
