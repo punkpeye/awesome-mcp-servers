@@ -304,7 +304,7 @@
 
 - [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) - سرور Cisco pyATS که تعامل ساختاریافته و مبتنی بر مدل با دستگاه‌های شبکه را امکان‌پذیر می‌کند.
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) 📇 ☁️ 🏠 - یک سرور MCP که IDE شما را با کمک‌های مبتنی بر هوش مصنوعی برای ابزار Intlayer i18n / CMS تقویت می‌کند: دسترسی هوشمند به CLI، دسترسی به مستندات.
-- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) 📇 ☁️ 🏠 - سرور MCP برای یکپارچه‌سازی دستیار هوش مصنوعی [OpenClaw](https://github.com/openclaw/openclaw). امکان واگذاری وظایف از Claude به عامل‌های OpenClaw با ابزارهای همگام/ناهمگام، احراز هویت OAuth 2.1 و انتقال SSE برای Claude.ai را فراهم می‌کند.
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - سرور MCP برای یکپارچه‌سازی دستیار هوش مصنوعی [OpenClaw](https://github.com/openclaw/openclaw). امکان واگذاری وظایف از Claude به عامل‌های OpenClaw با ابزارهای همگام/ناهمگام، احراز هویت OAuth 2.1 و انتقال SSE برای Claude.ai را فراهم می‌کند.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - یک سرور Model Context Protocol که دسترسی به iTerm را فراهم می‌کند. می‌توانید دستورات را اجرا کنید و در مورد آنچه در ترمینال iTerm می‌بینید سؤال بپرسید.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - اجرای هر دستوری با ابزارهای `run_command` و `run_script`.
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - مفسر Python امن مبتنی بر `LocalPythonExecutor` از HF Smolagents
