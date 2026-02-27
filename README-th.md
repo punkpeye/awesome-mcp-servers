@@ -168,7 +168,7 @@
 
 เรียกใช้คำสั่ง จับการแสดงผล และโต้ตอบกับเชลล์และเครื่องมือบรรทัดคำสั่ง
 
-- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) 📇 ☁️ 🏠 - เซิร์ฟเวอร์ MCP สำหรับการรวม AI assistant กับ [OpenClaw](https://github.com/openclaw/openclaw) ช่วยให้ Claude มอบหมายงานให้กับ OpenClaw agents ด้วยเครื่องมือแบบ sync/async, การยืนยันตัวตน OAuth 2.1 และ SSE transport สำหรับ Claude.ai
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - เซิร์ฟเวอร์ MCP สำหรับการรวม AI assistant กับ [OpenClaw](https://github.com/openclaw/openclaw) ช่วยให้ Claude มอบหมายงานให้กับ OpenClaw agents ด้วยเครื่องมือแบบ sync/async, การยืนยันตัวตน OAuth 2.1 และ SSE transport สำหรับ Claude.ai
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - เซิร์ฟเวอร์ Model Context Protocol ที่ให้การเข้าถึง iTerm คุณสามารถรันคำสั่งและถามคำถามเกี่ยวกับสิ่งที่คุณเห็นในเทอร์มินัล iTerm
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - รันคำสั่งใดๆ ด้วยเครื่องมือ `run_command` และ `run_script`
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - ตัวแปลภาษา Python ที่ปลอดภัยบนพื้นฐานของ HF Smolagents `LocalPythonExecutor`
