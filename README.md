@@ -1057,6 +1057,7 @@ Control smart home devices, home network equipment, and automation systems.
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
 - [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI Summarization MCP Server, Support for multiple content types: Plain text, Web pages, PDF documents, EPUB books, HTML content
+- [aayoawoyemi/Ori-Mnemos](https://github.com/aayoawoyemi/Ori-Mnemos) 📇 🏠 🍎 🪟 🐧 - Persistent memory infrastructure with agent identity layer, wiki-link knowledge graph, 3-signal retrieval (semantic + keyword + PageRank), vitality decay model, and guided onboarding. Agents wake up knowing who they are. No database, no cloud, no API keys required.
 - [20alexl/mini_claude](https://github.com/20alexl/mini_claude) 🐍 🏠 - Persistent memory and guardrails for Claude Code. Features mistake tracking, loop detection, scope guard, and hooks that block risky edits. Runs locally with Ollama.
 - [agentic-mcp-tools/memora](https://github.com/agentic-mcp-tools/memora) 🐍 🏠 ☁️ - Persistent memory with knowledge graph visualization, semantic/hybrid search, cloud sync (S3/R2), and cross-session context management.
 - [AgenticRevolution/memory-nexus-cloud](https://github.com/AgenticRevolution/memory-nexus-cloud) 📇 ☁️ - Cloud-hosted persistent semantic memory for AI agents. Semantic search, knowledge graphs, specialist expertise hats, and multi-tenant isolation. Free 7-day trial.
