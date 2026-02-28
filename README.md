@@ -1129,6 +1129,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 
+- [ark-forge/mcp-eu-ai-act](https://github.com/ark-forge/mcp-eu-ai-act) 📇 🏠 - EU AI Act compliance scanner for AI projects. Detects AI model usage, checks regulatory requirements by risk category, generates compliance reports with actionable recommendations. Also includes GDPR scanning.
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
 
