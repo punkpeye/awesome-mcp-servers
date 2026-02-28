@@ -595,6 +595,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 Tools and integrations that enhance the development workflow and environment management.
 
+
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - Create crafted UI components inspired by the best 21st.dev design engineers.
 - [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOS code quality analysis and test automation server. Provides comprehensive Xcode test execution, SwiftLint integration, and detailed failure analysis. Operates in both CLI and MCP server modes for direct developer usage and AI assistant integration.
 - [AaronVick/ECHO_RIFT_MCP](https://github.com/AaronVick/ECHO_RIFT_MCP) 📇 ☁️ - MCP server for EchoRift infrastructure primitives (BlockWire, CronSynth, Switchboard, Arbiter). Makes EchoRift's agent infrastructure callable as MCP tools so any MCP client can treat EchoRift like a native capability layer.
@@ -722,13 +723,13 @@ Tools and integrations that enhance the development workflow and environment man
 - [paracetamol951/P-Link-MCP](https://github.com/paracetamol951/P-Link-MCP) 🏠 🐧 🍎 ☁️ - Implementation of HTTP 402 (payment required http code) relying on Solana
 - [picahq/mcp](https://github.com/picahq/mcp) 🎖️ 🦀 📇 ☁️ - One MCP for all your integrations — powered by [Pica](https://www.picaos.com), the infrastructure for intelligent, collaborative agents.
 - [posthog/mcp](https://github.com/posthog/mcp) 🎖️ 📇 ☁️ - An MCP server for interacting with PostHog analytics, feature flags, error tracking and more.
-- [pylonapi/pylon-mcp](https://github.com/pylonapi/pylon-mcp) 📇 ☁️ - x402-native API gateway with 20+ capabilities (web-extract, web-search, translate, image-generate, screenshot, PDF, OCR, and more) payable with USDC on Base. No API keys — agents pay per call via HTTP 402.
 - [Pratyay/mac-monitor-mcp](https://github.com/Pratyay/mac-monitor-mcp) 🐍 🏠 🍎 - Identifies resource-intensive processes on macOS and provides performance improvement suggestions.
 - [PromptExecution/cratedocs-mcp](https://github.com/promptexecution/cratedocs-mcp) 🦀 🏠 - Outputs short-form Rust crate derived traits,interfaces, etc. from AST (uses same api as rust-analyzer), output limits (token estimation) & crate docs w/regex stripping.
 - [promptexecution/just-mcp](https://github.com/promptexecution/just-mcp) 🦀 🏠 - Justfile integration that enables LLMs to execute any CLI or script commands with parameters safely and easily, with environment variable support and comprehensive testing.
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - This MCP server provides a tool to download entire websites using wget. It preserves the website structure and converts links to work locally.
 - [PSU3D0/spreadsheet-mcp](https://github.com/PSU3D0/spreadsheet-mcp) 🦀 🏠 🪟 - High-performance, token-efficient spreadsheet analysis/editing (xlsx/xlsm) with region detection, structured reads, formula/style inspection, forking mechanics, and recalculation. Cross-platform.
 - [public-ui/kolibri](https://github.com/public-ui/kolibri) 📇 ☁️ 🏠 - Streaming KoliBri MCP server (NPM: `@public-ui/mcp`) delivering 200+ guaranteed accessible web component samples, specs, docs, and scenarios via hosted HTTP endpoint or local `kolibri-mcp` CLI.
+- [pylonapi/pylon-mcp](https://github.com/pylonapi/pylon-mcp) 📇 ☁️ - x402-native API gateway with 20+ capabilities (web-extract, web-search, translate, image-generate, screenshot, PDF, OCR, and more) payable with USDC on Base. No API keys — agents pay per call via HTTP 402.
 - [pzalutski-pixel/javalens-mcp](https://github.com/pzalutski-pixel/javalens-mcp) ☕ 🏠 - 56 semantic Java analysis tools via Eclipse JDT. Compiler-accurate navigation, refactoring, find references, call hierarchy, and code metrics for AI agents.
 - [pzalutski-pixel/sharplens-mcp](https://github.com/pzalutski-pixel/sharplens-mcp) #️⃣ 🏠 - 58 semantic C#/.NET analysis tools via Roslyn. Navigation, refactoring, find usages, and code intelligence for AI agents.
 - [qainsights/jmeter-mcp-server](https://github.com/QAInsights/jmeter-mcp-server) 🐍 🏠 - JMeter MCP Server for performance testing
@@ -795,6 +796,11 @@ Tools and integrations that enhance the development workflow and environment man
 - [xzq.xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) 📇 🏠  - An implementation project of a JVM-based MCP (Model Context Protocol) server.
 - [yangkyeongmo@/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) 🐍 🏠 - MCP server that connects to [Apache Airflow](https://airflow.apache.org/) using official client.
 - [yanmxa/scriptflow-mcp](https://github.com/yanmxa/scriptflow-mcp) 📇 🏠 - A script workflow management system that transforms complex, repetitive AI interactions into persistent, executable scripts. Supports multi-language execution (Bash, Python, Node.js, TypeScript) with guaranteed consistency and reduced hallucination risks.
+- [yedanyagamiai-cmd/color-palette-mcp](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/color-palette-mcp) 📇 ☁️ - Generate color palettes, WCAG contrast checks, CSS gradients, and Tailwind colors. [Remote MCP server](https://color-palette-mcp.yagami8095.workers.dev/mcp).
+- [yedanyagamiai-cmd/json-toolkit-mcp](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/json-toolkit-mcp) 📇 ☁️ - Format, validate, diff, query, transform JSON and generate schemas. [Remote MCP server](https://json-toolkit-mcp.yagami8095.workers.dev/mcp).
+- [yedanyagamiai-cmd/prompt-enhancer-mcp](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/prompt-enhancer-mcp) 📇 ☁️ - Enhance, analyze, and convert AI prompts with multiple enhancement styles. [Remote MCP server](https://prompt-enhancer-mcp.yagami8095.workers.dev/mcp).
+- [yedanyagamiai-cmd/regex-engine-mcp](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/regex-engine-mcp) 📇 ☁️ - Test, explain, and build regex patterns with match highlighting. [Remote MCP server](https://regex-engine-mcp.yagami8095.workers.dev/mcp).
+- [yedanyagamiai-cmd/timestamp-converter-mcp](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers/tree/main/timestamp-converter-mcp) 📇 ☁️ - Convert timestamps between formats, timezone conversion, and cron expression parsing. [Remote MCP server](https://timestamp-converter-mcp.yagami8095.workers.dev/mcp).
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - Query Go package information on pkg.go.dev
 - [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - AI pilot for PTY operations enabling agents to control interactive terminals with stateful sessions, SSH connections, and background process management
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - A Model Context Protocol (MCP) server for generating a beautiful interactive mindmap.
@@ -807,7 +813,6 @@ Tools and integrations that enhance the development workflow and environment man
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
 - [ztuskes/garmin-documentation-mcp-server](https://github.com/ztuskes/garmin-documentation-mcp-server) 📇 🏠 – Offline Garmin Connect IQ SDK documentation with comprehensive search and API examples
-
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
