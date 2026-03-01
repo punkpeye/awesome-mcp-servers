@@ -207,6 +207,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [raveenb/fal-mcp-server](https://github.com/raveenb/fal-mcp-server) 🐍 ☁️ - Generate AI images, videos, and music using Fal.ai models (FLUX, Stable Diffusion, MusicGen) directly in Claude Desktop
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - MCP server integration for DaVinci Resolve providing powerful tools for video editing, color grading, media management, and project control
 - [TwelveTake-Studios/reaper-mcp](https://github.com/TwelveTake-Studios/reaper-mcp) 🐍 🏠 🍎 🪟 🐧 - MCP server enabling AI assistants to control REAPER DAW for mixing, mastering, MIDI composition, and full music production with 129 tools
+- [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers#color-palette) 📇 ☁️ - Color Palette MCP: Generate color palettes, check WCAG contrast ratios, create CSS gradients, and convert between color formats (HEX, RGB, HSL).
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - A MCP server integrating AniList API for anime and manga information
 - [yuvalsuede/agent-media](https://github.com/yuvalsuede/agent-media) 📇 ☁️ 🍎 🪟 🐧 - CLI and MCP server for AI video and image generation with unified access to 7 models (Kling, Veo, Sora, Seedance, Flux, Grok Imagine). Provides 9 tools for generating, managing, and browsing media.
 
@@ -795,6 +796,11 @@ Tools and integrations that enhance the development workflow and environment man
 - [xzq.xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) 📇 🏠  - An implementation project of a JVM-based MCP (Model Context Protocol) server.
 - [yangkyeongmo@/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) 🐍 🏠 - MCP server that connects to [Apache Airflow](https://airflow.apache.org/) using official client.
 - [yanmxa/scriptflow-mcp](https://github.com/yanmxa/scriptflow-mcp) 📇 🏠 - A script workflow management system that transforms complex, repetitive AI interactions into persistent, executable scripts. Supports multi-language execution (Bash, Python, Node.js, TypeScript) with guaranteed consistency and reduced hallucination risks.
+- [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers#agentforge-compare) 📇 ☁️ - AgentForge Compare MCP: AI coding tool comparison engine. Compare features, pricing, and capabilities across AI coding assistants with real-time data.
+- [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers#json-toolkit) 📇 ☁️ - JSON Toolkit MCP: Format, validate, diff, query (JSONPath), and transform JSON data. Runs on Cloudflare Workers with Streamable HTTP transport.
+- [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers#prompt-enhancer) 📇 ☁️ - Prompt Enhancer MCP: AI prompt optimization and enhancement. Improve prompt clarity, structure, and effectiveness for better LLM outputs.
+- [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers#regex-engine) 📇 ☁️ - Regex Engine MCP: Test, explain, and build regex patterns with pattern matching, group extraction, and human-readable explanations.
+- [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers#timestamp-converter) 📇 ☁️ - Timestamp Converter MCP: Convert between timestamp formats (Unix, ISO 8601, RFC 2822) and perform timezone math across 400+ timezones.
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - Query Go package information on pkg.go.dev
 - [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - AI pilot for PTY operations enabling agents to control interactive terminals with stateful sessions, SSH connections, and background process management
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - A Model Context Protocol (MCP) server for generating a beautiful interactive mindmap.
@@ -1241,6 +1247,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [Pantheon-Security/notebooklm-mcp-secure](https://github.com/Pantheon-Security/notebooklm-mcp-secure) 📇 🏠 🍎 🪟 🐧 - Query Google NotebookLM from Claude/AI agents with 14 security hardening layers. Session-based conversations, notebook library management, and source-grounded research responses.
 - [pminervini/deep-research-mcp](https://github.com/pminervini/deep-research-mcp) 🐍 ☁️ 🏠 - Deep research MCP server for OpenAI Responses API or Open Deep Research (smolagents), with web search and code interpreter support.
 - [thinkchainai/agentinterviews_mcp](https://github.com/thinkchainai/agentinterviews_mcp) - Conduct AI-powered qualitative research interviews and surveys at scale with [Agent Interviews](https://agentinterviews.com). Create interviewers, manage research projects, recruit participants, and analyze interview data through MCP.
+- [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers#openclaw-intel) 📇 ☁️ - OpenClaw Intel MCP: AI market intelligence and trend analysis. Track AI industry developments, model releases, and ecosystem changes.
 
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
 
@@ -1432,6 +1439,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [MarceauSolutions/fitness-influencer-mcp](https://github.com/MarceauSolutions/fitness-influencer-mcp) 🐍 🏠 ☁️ - Fitness content creator workflow automation - video editing with jump cuts, revenue analytics, and branded content creation
 - [scrape-badger/scrapebadger-mcp](https://github.com/scrape-badger/scrapebadger-mcp) 🐍 ☁️ - Access Twitter/X data including user profiles, tweets, followers, trends, lists, and communities via the ScrapeBadger API.
 - [sinanefeozler/reddit-summarizer-mcp](https://github.com/sinanefeozler/reddit-summarizer-mcp) 🐍 🏠 ☁️ - MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.
+- [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers#moltbook-publisher) 📇 ☁️ - MoltBook Publisher MCP: Content publishing toolkit for MoltBook social platform. Create posts, manage content, and engage with the AI agent community.
 
 ### 🏃 <a name="sports"></a>Sports
 
@@ -1681,6 +1689,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [wishfinity/wishfinity-mcp-plusw](https://github.com/wishfinity/wishfinity-mcp-plusw) 📇 ☁️ 🏠 - Universal wishlist for AI shopping experiences. Save any product URL from any store to a wishlist. Works with Claude, ChatGPT, LangChain, n8n, and any MCP client.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 📇 🏠 - CLI tool for testing MCP servers
 - [ws-mcp](https://github.com/nick1udwig/ws-mcp) - Wrap MCP servers with a WebSocket (for use with [kitbitz](https://github.com/nick1udwig/kibitz))
+- [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers#fortune) 📇 ☁️ - Fortune MCP: Daily zodiac horoscope and tarot card readings. Provides personalized astrology insights and fortune-telling for AI agents.
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - Allows AI models to interact with [HackMD](https://hackmd.io)
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) - MCP server providing date and time functions in various formats
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
