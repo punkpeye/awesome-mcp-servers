@@ -273,6 +273,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [serkan-ozal/browser-devtools-mcp](https://github.com/serkan-ozal/browser-devtools-mcp) 📇 - An MCP Server enables AI assistants to autonomously test, debug, and validate web applications.
 - [softvoyagers/pageshot-api](https://github.com/softvoyagers/pageshot-api) 📇 ☁️ - Free webpage screenshot capture API with format, viewport, and dark mode options. No API key required.
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
+- [Anchor Browser](https://anchorbrowser.io) - Browser infrastructure for AI agents
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
