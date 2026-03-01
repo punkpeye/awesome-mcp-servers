@@ -1130,6 +1130,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
+- [GJB65/compliance-mcp-server](https://github.com/GJB65/compliance-mcp-server) 🐍 ☁️ - Access 692+ compliance frameworks, 13,700+ controls, and 280,000+ cross-framework mappings. Query ISO 27001, NIST CSF, GDPR, SOC 2, HIPAA, PCI DSS, and more with cross-framework control mapping and coverage analysis.
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
 
 ### 🗺️ <a name="location-services"></a>Location Services
