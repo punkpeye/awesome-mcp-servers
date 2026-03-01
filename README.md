@@ -593,6 +593,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
 
+- [IteraTools](https://github.com/fredpsantos33/iteratools-mcp) - 40+ production-ready tools for AI agents: QR codes, PDFs, text processing, TTS, web scraping, image generation and more. x402 micropayments on Base.
 Tools and integrations that enhance the development workflow and environment management.
 
 - [IteraTools](https://github.com/fredpsantos33/iteratools-mcp) - 40+ production-ready tools for AI agents: QR codes, PDFs, text processing, TTS, web scraping, image generation and more. x402 micropayments on Base.
