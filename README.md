@@ -1195,7 +1195,6 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [gemy411/multi-research-agents](https://github.com/gemy411/multi-agents-research) ☁️ - a KTOR server/ MCP server written in Kotlin applying multi-agents schools in a flexible research system to be used with coding or for research any general case.
 - [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - Biomedical research server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info.
 - [gregm711/agent-domain-service-mcp](https://github.com/gregm711/agent-domain-service-mcp) 📇 ☁️ - AI-powered domain brainstorming, analysis, and availability checking via AgentDomainService.com. Generate creative domain names from descriptions, get AI scoring for brandability/memorability, and check real-time availability with pricing. No API keys required.
-- [zoharbabin/google-researcher-mcp](https://github.com/zoharbabin/google-researcher-mcp) 📇 ☁️ 🏠 - Comprehensive research tools including Google Search (web, news, images), web scraping with JavaScript rendering, academic paper search (arXiv, PubMed, IEEE), patent search, and YouTube transcript extraction.
 - [hbg/mcp-paperswithcode](https://github.com/hbg/mcp-paperswithcode) - 🐍 ☁️ MCP to search through PapersWithCode API
 - [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server)) 🐍 ☁️ - A MCP server for Unsplash image search.
 - [Himalayas-App/himalayas-mcp](https://github.com/Himalayas-App/himalayas-mcp) 📇 ☁️ - Access tens of thousands of remote job listings and company information. This public MCP server provides real-time access to Himalayas' remote jobs database.
@@ -1253,6 +1252,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [webscraping-ai/webscraping-ai-mcp-server](https://github.com/webscraping-ai/webscraping-ai-mcp-server) 🎖️ 📇 ☁️ - Interact with [WebScraping.ai](https://webscraping.ai) for web data extraction and scraping.
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - MCP server that searches Baseline status using Web Platform API
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - This is a TypeScript-based MCP server that provides DuckDuckGo search functionality.
+- [zoharbabin/google-research-mcp](https://github.com/zoharbabin/google-research-mcp) [glama](https://glama.ai/mcp/servers/@zoharbabin/google-research-mcp) 📇 ☁️ 🏠 - Comprehensive research tools including Google Search (web, news, images), web scraping with JavaScript rendering, academic paper search (arXiv, PubMed, IEEE), patent search, and YouTube transcript extraction.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 
 ### 🔒 <a name="security"></a>Security
