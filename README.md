@@ -1252,7 +1252,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [webscraping-ai/webscraping-ai-mcp-server](https://github.com/webscraping-ai/webscraping-ai-mcp-server) 🎖️ 📇 ☁️ - Interact with [WebScraping.ai](https://webscraping.ai) for web data extraction and scraping.
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - MCP server that searches Baseline status using Web Platform API
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - This is a TypeScript-based MCP server that provides DuckDuckGo search functionality.
-- [zoharbabin/google-research-mcp](https://github.com/zoharbabin/google-research-mcp) [glama](https://glama.ai/mcp/servers/@zoharbabin/google-research-mcp) 📇 ☁️ 🏠 - Comprehensive research tools including Google Search (web, news, images), web scraping with JavaScript rendering, academic paper search (arXiv, PubMed, IEEE), patent search, and YouTube transcript extraction.
+- [zoharbabin/google-researcher-mcp](https://github.com/zoharbabin/google-researcher-mcp) [glama](https://glama.ai/mcp/servers/@zoharbabin/google-researcher-mcp) 📇 ☁️ 🏠 - Comprehensive research tools including Google Search (web, news, images), web scraping with JavaScript rendering, academic paper search (arXiv, PubMed, IEEE), patent search, and YouTube transcript extraction.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 
 ### 🔒 <a name="security"></a>Security
