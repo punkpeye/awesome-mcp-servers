@@ -836,6 +836,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [phuongrealmax/code-guardian](https://github.com/phuongrealmax/code-guardian) 📇 🏠 - AI-powered code refactor engine with 80+ MCP tools for code analysis, hotspot detection, complexity metrics, persistent memory, and automated refactoring plans.
 - [pramod/kaggle](https://github.com/KrishnaPramodParupudi/kaggle-mcp-server) 🐍 - This Kaggle MCP Server makes Kaggle more accessible by letting you browse competitions, leaderboards, models, datasets, and kernels directly within MCP, streamlining discovery for data scientists and developers.
 - [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - Enables autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
+- [ReNoUn MCP](https://github.com/98lukehall/renoun-mcp) - 17-channel structural pattern detection framework for analyzing recurrence, novelty, and uncertainty across datasets.
 - [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) 💎 🏠 - Enables agents to query local information about dependencies in a Ruby project's `Gemfile`.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
 
