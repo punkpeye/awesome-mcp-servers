@@ -1236,6 +1236,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 
 Tools for conducting research, surveys, interviews, and data collection.
 
+- [MLT-OSS/FirstData](https://github.com/MLT-OSS/FirstData) 🐍 ☁️ 🏠 - The world's most comprehensive open data source knowledge base with MCP integration. 132+ verified authoritative data sources (government, international organizations, research institutions) with structured metadata, 100% URL verification, and bilingual (EN/CN) support. AI-powered smart search to find the right primary source for any research query.
 - [Embassy-of-the-Free-Mind/sourcelibrary-v2](https://github.com/Embassy-of-the-Free-Mind/sourcelibrary-v2/tree/main/mcp-server) 📇 ☁️ - Search and cite rare historical texts (alchemy, Hermeticism, Renaissance philosophy) with DOI-backed academic citations from [Source Library](https://sourcelibrary.org)
 - [ovlabs/mcp-server-originalvoices](https://github.com/ovlabs/mcp-server-originalvoices) 📇 ☁️ - Instantly understand what real users think and why by querying our network of 1:1 Digital Twins - each representing a real person. Give your AI agents authentic human context to ground outputs, improve creative, and make smarter decisions.
 - [Pantheon-Security/notebooklm-mcp-secure](https://github.com/Pantheon-Security/notebooklm-mcp-secure) 📇 🏠 🍎 🪟 🐧 - Query Google NotebookLM from Claude/AI agents with 14 security hardening layers. Session-based conversations, notebook library management, and source-grounded research responses.
