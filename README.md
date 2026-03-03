@@ -1031,6 +1031,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 Integration with gaming related data, game engines, and services
 
+- [Signal-Loop/UnityCodeMCPServer](https://github.com/Signal-Loop/UnityCodeMCPServer): 🎮🎮🎮 Performs any task in Unity Editor by executing C# scripts. Full access to UnityEngine, UnityEditor APIs, and reflection. Use for manipulating GameObjects, scenes, components, or automating Unity Editor tasks.
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) #️⃣ 🏠 - MCP Server for Unity3d Game Engine integration for game development
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - A MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
 - [ddsky/gamebrain-api-clients](https://github.com/ddsky/gamebrain-api-clients) ☁️ - Search and discover hundreds of thousands of video games on any platform through the [GameBrain API](https://gamebrain.co/api).
