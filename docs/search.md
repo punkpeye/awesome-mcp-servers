@@ -154,3 +154,4 @@ Servers providing web search capabilities or interfacing with specialized search
 - [mybuddyandrew/rails_api_search](https://github.com/mybuddyandrew/rails_api_search): Facilitates efficient search across Rails API documentation with comprehensive support for all major framework components.
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp): Facilitates search and crawl operations using Search1API, offering seamless integration with various MCP clients.
 
+- [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp): Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
