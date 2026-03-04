@@ -1517,6 +1517,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [TamiShaks-2/git-context-mcp](https://github.com/TamiShaks-2/git-context-mcp) 🐍 🏠 - Local MCP server that provides structured Git repository analysis (project status, recent activity, code map, and risk hotspots) for AI coding agents.
 - [theonedev/tod](https://github.com/theonedev/tod/blob/main/mcp.md) 🏎️ 🏠 - A MCP server for OneDev for CI/CD pipeline editing, issue workflow automation, and pull request review
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
+- [zach-snell/bbkt](https://github.com/zach-snell/bbkt) 🏎️ ☁️ 🍎 🪟 🐧 - Bitbucket Cloud CLI and MCP server. Manages workspaces, repos, PRs, pipelines, issues, and source code. Token introspection hides tools the API key can't use.
 
 ### 🏢 <a name="workplace-and-productivity"></a>Workplace & Productivity
 
