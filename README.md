@@ -1520,6 +1520,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🏢 <a name="workplace-and-productivity"></a>Workplace & Productivity
 
+- [robot-rubik/scopeshield-mcp](https://github.com/robot-rubik/ceoclaw/tree/master/ceoclaw/scopeshield-mcp) 📇 🏠 🐧 🍎 🪟 - Freelancer scope creep tracker. Log deliverables, track client change requests, calculate scope delta, and generate one-click change orders. Helps freelancers prevent unpaid work.
 - [robot-rubik/scopeshield-mcp](https://github.com/robot-rubik/ceoclaw/tree/master/ceoclaw/scopeshield-mcp) 📇 🏠 - Scope creep tracker for freelancers. Log deliverables, track change requests, calculate scope delta, and generate one-click change orders. Helps AI agents manage freelance project scope.
 - [bivex/kanboard-mcp](https://github.com/bivex/kanboard-mcp) 🏎️ ☁️ 🏠 - A Model Context Protocol (MCP) server written in Go that empowers AI agents and Large Language Models (LLMs) to seamlessly interact with Kanboard. It transforms natural language commands into Kanboard API calls, enabling intelligent automation of project, task, and user management, streamlining workflows, and enhancing productivity.
 - [bug-breeder/quip-mcp](https://github.com/bug-breeder/quip-mcp) 📇 ☁️ 🍎 🪟 🐧 - A Model Context Protocol (MCP) server providing AI assistants with comprehensive Quip document access and management. Enables document lifecycle management, smart search, comment management, and secure token-based authentication for both Quip.com and enterprise instances.
