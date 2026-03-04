@@ -459,6 +459,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [RichardHFYU/MCP_Java_PSQL](https://github.com/RichardHFYU/MCP_Java_PSQL): A Spring Boot and Spring AI-based MCP server for inspecting PostgreSQL database schemas, supporting SSE transport for integration with Cursor and other MCP clients.
 - [Pratye/MEC-Postgres](https://github.com/Pratye/MEC-Postgres): Facilitates read and write operations on PostgreSQL databases, allowing LLMs to interact with database schemas and execute SQL queries.
 - [Malove86/mcp-mysql-server](https://github.com/Malove86/mcp-mysql-server): Facilitates AI model interactions with MySQL databases via a standardized interface, supporting both local and remote deployment modes.
+- [stucchi/db-mcp-server](https://github.com/stucchi/db-mcp-server): Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH tunneling support. Run queries, explore schemas, and manage data across multiple database types.
 
 ## 🛠️ Developer Productivity & Utilities
 
