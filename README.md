@@ -1228,6 +1228,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 
 ### 📋 <a name="product-management"></a>Product Management
 
+- [robot-rubik/ceoclaw](https://github.com/robot-rubik/ceoclaw/tree/master/ceoclaw/scopeshield-mcp) 📇 🏠 🍎 🪟 🐧 - ScopeShield: Scope creep tracker for freelancers. Track deliverables, log client change requests, calculate scope delta, and generate one-click change orders.
 Tools for product planning, customer feedback analysis, and prioritization.
 
 - [dkships/pm-copilot](https://github.com/dkships/pm-copilot) 📇 ☁️ - Triangulates HelpScout support tickets and ProductLift feature requests to generate prioritized product plans. Scores themes by convergence (same signal in both sources = 2x boost), scrubs PII, and accepts business metrics from other MCP servers via `kpi_context` for composable prioritization.
