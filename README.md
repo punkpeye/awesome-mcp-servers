@@ -854,6 +854,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [kukapay/web3-jobs-mcp](https://github.com/kukapay/web3-jobs-mcp) 🐍 ☁️ -  An MCP server that provides AI agents with real-time access to curated Web3 jobs.
 - [kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp) 🐍 ☁️ -  A mcp server for tracking cryptocurrency whale transactions.
 - [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) 🐍 ☁️ - An MCP Server for the Alpaca trading API to manage stock and crypto portfolios, place trades, and access market data.
+- [lightningfaucet/lightning-wallet-mcp](https://github.com/lightningfaucet/lightning-wallet-mcp) 📇 ☁️ - Give AI agents a Bitcoin Lightning wallet with L402/X402 paid API support, operator/agent hierarchy, budget controls, and CLI interface.
 - [logotype/fixparser](https://gitlab.com/logotype/fixparser) 🎖 📇 ☁️ 🏠 📟  - FIX Protocol (send orders, market data, etc.) written in TypeScript.
 - [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) 📇 ☁️ - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
