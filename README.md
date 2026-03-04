@@ -322,7 +322,6 @@ Servers designed to execute code snippets or scripts in various languages, often
 
 Servers for interacting with email, chat platforms, SMS, or notification services.
 
-- [jamesacklin/tlon-mcp-server](https://github.com/jamesacklin/tlon-mcp-server): Facilitates interaction with Tlon agents through direct messaging, contact management, and natural language support.
 - [varunwahi-plivo/plivo-mcp-server](https://github.com/varunwahi-plivo/plivo-mcp-server): Facilitates SMS messaging through Plivo's API using the Message Control Protocol.
 - [deuslirio/mcp-server-whatsapp-message](https://github.com/deuslirio/mcp-server-whatsapp-message): Facilitates sending WhatsApp messages through the Meta WhatsApp Business API using MCP.
 - [theo-nash/twitter-mcp-server](https://github.com/theo-nash/twitter-mcp-server): Facilitates AI-driven interactions with Twitter, enabling operations like tweeting, searching, and user management without direct API access.
@@ -353,6 +352,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [beylessai/hiworks-mcp](https://github.com/beylessai/hiworks-mcp): Facilitates email retrieval and sending through Hiworks Mail integration using MCP.
 - [team-telnyx/telnyx-mcp-server](https://github.com/team-telnyx/telnyx-mcp-server): Facilitates interaction with telephony, messaging, and AI assistant APIs, enabling MCP clients to manage communications and create AI-driven solutions.
 - [commune-sh/commune-mcp](https://github.com/commune-sh/commune-mcp): Provides email infrastructure for AI agents, enabling programmatic inbox creation, send/receive email, thread management across concurrent conversations, custom domains, structured extraction on inbound mail, and SMS.
+- [wazionapps/mcp-server](https://github.com/wazionapps/mcp-server): WAzion - WhatsApp Business platform with 244 MCP tools for messaging, CRM, campaigns, workflows, and AI automation. Supports Streamable HTTP and stdio transports.
 
 ## 📝 Content Management Systems
 
