@@ -2,6 +2,7 @@
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [0xsl1m/cerebrus-pulse-mcp](https://github.com/0xsl1m/cerebrus-pulse-mcp): Real-time crypto intelligence for Hyperliquid perpetuals — RSI, EMAs, Bollinger Bands, funding rates, and sentiment for 30+ assets. Pay-per-call via x402 micropayments (USDC on Base).
 - [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp): MCP server for the deBridge protocol, enabling AI agents to find optimal cross-chain swap routes, check fees and conditions, and initiate non-custodial trades across major blockchain networks.
 - [douglasborthwick-crypto/mcp-server-insumer](https://github.com/douglasborthwick-crypto/mcp-server-insumer): On-chain verification MCP server with 25 tools across 32 blockchains (EVM, Solana, XRPL). Provides ECDSA-signed boolean attestations of token balances, NFT ownership, EAS credentials, and wallet trust profiles. No Web3 libraries required. Used by DJD Agent Score (Coinbase x402).
 - [BrunoPessoa22/chiliz-marketing-intel](https://github.com/BrunoPessoa22/chiliz-marketing-intel): 67+ tools for fan token intelligence — whale flows, signal scores, sports calendar, backtesting, DEX trading, social sentiment. SSE with Bearer auth.

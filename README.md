@@ -539,6 +539,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [0xsl1m/cerebrus-pulse-mcp](https://github.com/0xsl1m/cerebrus-pulse-mcp): Real-time crypto intelligence for Hyperliquid perpetuals — RSI, EMAs, Bollinger Bands, funding rates, and sentiment for 30+ assets. Pay-per-call via x402 micropayments (USDC on Base).
 - [douglasborthwick-crypto/mcp-server-insumer](https://github.com/douglasborthwick-crypto/mcp-server-insumer): On-chain token verification and ECDSA-signed attestation across 31 EVM blockchains. 16 tools for AI agents to verify holdings, generate proofs, manage merchants, and process USDC payments.
 - [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp): MCP server for the deBridge protocol, enabling AI agents to find optimal cross-chain swap routes, check fees and conditions, and initiate non-custodial trades across major blockchain networks.
 - [OzorOwn/defi-mcp](https://github.com/OzorOwn/defi-mcp): DeFi MCP server providing 12 tools: token prices (CoinGecko), multi-chain wallet balances across 6 EVM chains, gas prices, and DEX swap quotes via 1inch (EVM) + Jupiter (Solana). No API key required for basic usage. MIT license.
