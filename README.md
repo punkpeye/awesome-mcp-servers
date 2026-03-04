@@ -626,6 +626,7 @@ Toolkits, SDKs, starter templates, or code frameworks designed to help developer
 
 Servers interacting with game engines, game platforms/APIs, or providing game-related tools.
 
+- [Signal-Loop/UnityCodeMCPServer](https://github.com/Signal-Loop/UnityCodeMCPServer): Performs any task in Unity Editor by executing C# scripts. Full access to UnityEngine, UnityEditor APIs, and reflection. Use for manipulating GameObjects, scenes, components, or automating Unity Editor tasks.
 - [sedyh/ebitengine-mcp](https://github.com/sedyh/ebitengine-mcp): Facilitates the integration of Ebitengine games with MCP servers for enhanced game control and management.
 - [ecovacs-ai/ecovacs-mcp](https://github.com/ecovacs-ai/ecovacs-mcp): Ecovacs MCP Server enables seamless integration of cleaning robot services into large models, facilitating device management and control operations like cleaning and recharging.
 - [ChadAragorn/defold-mcp](https://github.com/ChadAragorn/defold-mcp): An open-source MCP server that integrates the Defold game engine with modern developer tools and AI workflows, enabling automation and real-time project management.
