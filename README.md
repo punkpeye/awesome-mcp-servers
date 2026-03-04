@@ -99,6 +99,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🚚 - [Delivery](#delivery)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 🧮 - [Data Science Tools](#data-science-tools)
+* 🎓 - [Education](#education)
 * 📟 - [Embedded system](#embedded-system)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
@@ -838,6 +839,12 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - Enables autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
 - [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) 💎 🏠 - Enables agents to query local information about dependencies in a Ruby project's `Gemfile`.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
+
+### 🎓 <a name="education"></a>Education
+
+Access student portals, learning management systems, and academic tools.
+
+- [Beat-YT/omnivox-mcp](https://github.com/Beat-YT/omnivox-mcp) 📇 🏠 - Access Quebec college (CEGEP) student data through Omnivox — courses, grades, schedule, MIO messaging, documents, assignments, and more. Headless browser automation with delta tracking.
 
 ### 📟 <a name="embedded-system"></a>Embedded System
 
