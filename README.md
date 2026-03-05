@@ -1599,7 +1599,6 @@ Interact with Git repositories and version control platforms. Enables repository
 - [hmk/attio-mcp-server](https://github.com/hmk/attio-mcp-server) - 📇 ☁️ Allows AI clients to manage records and notes in Attio CRM
 - [imprvhub/mcp-claude-spotify](https://github.com/imprvhub/mcp-claude-spotify) 📇 ☁️ 🏠 - An integration that allows Claude Desktop to interact with Spotify using the Model Context Protocol (MCP).
 - [inkbytefo/screenmonitormcp](https://github.com/inkbytefo/screenmonitormcp) 🐍 🏠 🍎 🪟 🐧 - Real-time screen analysis, context-aware recording, and UI monitoring MCP server. Supports AI vision, event hooks, and multimodal agent workflows.
-- [W3Ship/w3ship-mcp-server](https://github.com/baskcart/w3ship) 📇 ☁️ 🏠 - AI-powered commerce MCP server with shopping cart (TMF663), orders (TMF622), shipment tracking (TMF621), and session booking. Passwordless via cryptographic identity (SLH-DSA/ECDSA).
 - [integromat/make-mcp-server](https://github.com/integromat/make-mcp-server) 🎖️ 📇 🏠 - Turn your [Make](https://www.make.com/) scenarios into callable tools for AI assistants.
 - [isaacwasserman/mcp-vegalite-server](https://github.com/isaacwasserman/mcp-vegalite-server) 🐍 🏠 - Generate visualizations from fetched data using the VegaLite format and renderer.
 - [ivnvxd/mcp-server-odoo](https://github.com/ivnvxd/mcp-server-odoo) 🐍 ☁️/🏠 - Connect AI assistants to Odoo ERP systems for business data access, record management, and workflow automation.
