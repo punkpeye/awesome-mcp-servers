@@ -353,6 +353,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [beylessai/hiworks-mcp](https://github.com/beylessai/hiworks-mcp): Facilitates email retrieval and sending through Hiworks Mail integration using MCP.
 - [team-telnyx/telnyx-mcp-server](https://github.com/team-telnyx/telnyx-mcp-server): Facilitates interaction with telephony, messaging, and AI assistant APIs, enabling MCP clients to manage communications and create AI-driven solutions.
 - [commune-sh/commune-mcp](https://github.com/commune-sh/commune-mcp): Provides email infrastructure for AI agents, enabling programmatic inbox creation, send/receive email, thread management across concurrent conversations, custom domains, structured extraction on inbound mail, and SMS.
+- [wazionapps/mcp-server](https://github.com/wazionapps/mcp-server): WAzion - WhatsApp Business platform with 244 MCP tools for messaging, CRM, campaigns, workflows, and AI automation. Supports Streamable HTTP and stdio transports.
 
 ## 📝 Content Management Systems
 
@@ -459,6 +460,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 - [RichardHFYU/MCP_Java_PSQL](https://github.com/RichardHFYU/MCP_Java_PSQL): A Spring Boot and Spring AI-based MCP server for inspecting PostgreSQL database schemas, supporting SSE transport for integration with Cursor and other MCP clients.
 - [Pratye/MEC-Postgres](https://github.com/Pratye/MEC-Postgres): Facilitates read and write operations on PostgreSQL databases, allowing LLMs to interact with database schemas and execute SQL queries.
 - [Malove86/mcp-mysql-server](https://github.com/Malove86/mcp-mysql-server): Facilitates AI model interactions with MySQL databases via a standardized interface, supporting both local and remote deployment modes.
+- [stucchi/db-mcp-server](https://github.com/stucchi/db-mcp-server): Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH tunneling support. Run queries, explore schemas, and manage data across multiple database types.
 
 ## 🛠️ Developer Productivity & Utilities
 
@@ -498,6 +500,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [urijan44/pr_creator_mcp](https://github.com/urijan44/pr_creator_mcp): Automates GitHub Pull Request creation with integration support for tools like Cursor and Claude.
 - [sbarbett/pihole-mcp-server](https://github.com/sbarbett/pihole-mcp-server): Facilitates AI assistants in managing and querying Pi-hole configurations and metrics through a Model Context Protocol server.
 - [HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy): Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary, zero dependencies.
+- [Agent Native Registry](https://agentnativeregistry.com): Remote MCP server with 100+ developer tools scored on AI agent compatibility (0-100). Tools: `search_tools`, `get_score`, `compare_tools`. Helps agents pick the right API for any task without trial-and-error.
 
 ## 📁 Filesystems
 
@@ -540,6 +543,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
 - [0xsl1m/cerebrus-pulse-mcp](https://github.com/0xsl1m/cerebrus-pulse-mcp): Real-time crypto intelligence for Hyperliquid perpetuals — RSI, EMAs, Bollinger Bands, funding rates, and sentiment for 30+ assets. Pay-per-call via x402 micropayments (USDC on Base).
+- [8144225309/superscalar-mcp](https://github.com/8144225309/superscalar-mcp): Bitcoin Lightning channel factory MCP server with 4 tools — protocol overview, UTXO savings estimator, architecture deep-dives (invalidation trees, timeout trees, MuSig2, watchtowers), and resource links. Based on SuperScalar, which onboards N users into one shared UTXO with no soft fork required.
 - [douglasborthwick-crypto/mcp-server-insumer](https://github.com/douglasborthwick-crypto/mcp-server-insumer): On-chain token verification and ECDSA-signed attestation across 31 EVM blockchains. 16 tools for AI agents to verify holdings, generate proofs, manage merchants, and process USDC payments.
 - [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp): MCP server for the deBridge protocol, enabling AI agents to find optimal cross-chain swap routes, check fees and conditions, and initiate non-custodial trades across major blockchain networks.
 - [OzorOwn/defi-mcp](https://github.com/OzorOwn/defi-mcp): DeFi MCP server providing 12 tools: token prices (CoinGecko), multi-chain wallet balances across 6 EVM chains, gas prices, and DEX swap quotes via 1inch (EVM) + Jupiter (Solana). No API key required for basic usage. MIT license.
@@ -762,6 +766,7 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 - [koudaiDemon/mcp-server-hand](https://github.com/koudaiDemon/mcp-server-hand): Enhances user shopping experiences by analyzing conversations to provide personalized product recommendations through intelligent tag matching.
 - [Humboldtian/remote-mcp-server](https://github.com/Humboldtian/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [mcpjungle/MCPJungle](https://github.com/mcpjungle/MCPJungle): Self-hosted MCP Registry and Gateway for AI Agents
+- [stucchi/mcp-advisor](https://github.com/stucchi/mcp-advisor): Browse, search, and discover 7,000+ MCP servers from the official registry. Search by name, tag, or transport, get install instructions for any client, and view trending servers.
 - [kswap/consul-mcp](https://github.com/kswap/consul-mcp): Facilitates Consul service discovery and mesh integration through an MCP server interface.
 
 ## 🧠 Knowledge Management & Memory
