@@ -185,6 +185,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 运行命令、捕获输出以及以其他方式与 shell 和命令行工具交互。
 
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - 用于 [OpenClaw](https://github.com/openclaw/openclaw) AI 助手集成的 MCP 服务器。通过同步/异步工具、OAuth 2.1 认证和面向 Claude.ai 的 SSE 传输，使 Claude 能够将任务委派给 OpenClaw 代理。
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - 一个为 iTerm 终端提供访问能力的 MCP 服务器。您可以执行命令，并就终端中看到的内容进行提问交互。
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - 使用`run_command`和`run_script`工具运行任何命令。
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - 具有安全执行和可定制安全策略的命令行界面
@@ -196,6 +197,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - 用于管理 Google Tasks 的 MCP 服务器
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - MCP 服务器通过模型上下文协议 (MCP) 提供对 iMessage 数据库的安全访问，使 LLM 能够通过适当的电话号码验证和附件处理来查询和分析 iMessage 对话
+- [FastAlertNow/mcp-server](https://github.com/FastAlertNow/mcp-server) 💬 ☁️ - FastAlert MCP 服务器 - FastAlert 的官方 Model Context Protocol (MCP) 服务器。该服务器允许 AI 代理（如 Claude、ChatGPT 和 Cursor）列出您的频道，并通过 FastAlert API 直接发送通知。 ![FastAlert 图标](https://fastalert.now/icons/favicon-32x32.png)
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - 用于频道管理和消息传递的 Slack 工作区集成
 - [@keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky 实例集成，用于查询和交互
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - 与 Gmail 和 Google 日历集成。
@@ -333,6 +335,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - 用于生成漂亮交互式思维导图mindmap的模型上下文协议（MCP）服务器。
 - [InhiblabCore/mcp-image-compression](https://github.com/InhiblabCore/mcp-image-compression) 🐍 🏠 - 用于本地压缩各种图片格式的 MCP 服务器。
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - 使用 MCP 实现的 Claude Code 功能，支持 AI 代码理解、修改和项目分析，并提供全面的工具支持。
+- [selvage-lab/selvage](https://github.com/selvage-lab/selvage) 🐍 🏠 - 基于 LLM 的代码审查 MCP 服务器，具备 AST 驱动的智能上下文提取功能，支持 Claude、GPT、Gemini 以及通过 OpenRouter 的 20 余种模型。
 - [IlyaGulya/gradle-mcp-server](https://github.com/IlyaGulya/gradle-mcp-server) 🏠 - 使用 Gradle Tooling API 来检查项目、执行任务并在每个测试的级别进行测试结果报告的 Gradle 集成
 - [gofireflyio/firefly-mcp](https://github.com/gofireflyio/firefly-mcp) 🎖️ 📇 ☁️ - 集成、发现、管理并通过[Firefly](https://firefly.ai)规范化云资源。
 - [api7/apisix-mcp](https://github.com/api7/apisix-mcp) 🎖️ 📇 🏠 支持对 [Apache APISIX](https://github.com/apache/apisix) 网关中所有资源进行查询和管理的 MCP 服务。
@@ -388,6 +391,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - 使用 CoinCap 的公共 API 集成实时加密货币市场数据，无需 API 密钥即可访问加密货币价格和市场信息
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - Coinmarket API 集成以获取加密货币列表和报价
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API 集成，用于获取股票和加密货币信息
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - 通过deBridge协议实现EVM和Solana区块链之间的跨链兑换和桥接。使AI代理能够发现最优路径、评估费用并发起非托管交易。
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API 集成，用于管理 Tastytrade 平台的交易活动
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - 整合雅虎财经以获取股市数据，包括期权推荐
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) 📇 ☁️ - 全面支持30多种EVM网络的区块链服务，涵盖原生代币、ERC20、NFT、智能合约、交易及ENS解析。
@@ -506,7 +510,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server)) 🐍 ☁️ - 用于集成 Unsplash 图片搜索功能
 - [devflowinc/trieve](https://github.com/devflowinc/trieve/tree/main/clients/mcp-server) 🎖️📇☁️🏠 - 通过 [Trieve](https://trieve.ai) 爬取、嵌入、分块、搜索和检索数据集中的信息
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) 🐍 ☁️ - 使用DuckDuckGo进行网络搜索
-- [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - 这是一个基于TypeScript的MCP服务器，提供DuckDuckGo搜索功能。
+- [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mcp-server/) 📇 🏠 ☁️ - 这是一个基于TypeScript的MCP服务器，提供DuckDuckGo搜索功能。
 - [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server/) ☁️ 📇 - [Vectorize](https://vectorize.io) 用于高级检索的MCP服务器，私有Deep Research，任意文件转Markdown提取及文本分块处理。
 - [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) 📇 🏠 - 用于通过Playwright无头浏览器获取网页内容的MCP服务器，支持JavaScript渲染与智能内容提取，并输出Markdown或HTML格式。
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - 使用Web平台API查询Baseline状态的MCP服务器
