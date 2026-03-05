@@ -1230,6 +1230,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 
 Tools for product planning, customer feedback analysis, and prioritization.
 
+- [chrismcdermut/proletariat](https://github.com/chrismcdermut/proletariat) 📇 🏠 🍎 🪟 🐧 - Agent orchestration platform with 100+ MCP tools for multi-agent spawning, ticket/project management, kanban boards, epics, specs, workflows, Docker container management, and tmux session control. Supports parallel development with git worktrees.
 - [dkships/pm-copilot](https://github.com/dkships/pm-copilot) 📇 ☁️ - Triangulates HelpScout support tickets and ProductLift feature requests to generate prioritized product plans. Scores themes by convergence (same signal in both sources = 2x boost), scrubs PII, and accepts business metrics from other MCP servers via `kpi_context` for composable prioritization.
 
 ### 🔬 <a name="research"></a>Research
