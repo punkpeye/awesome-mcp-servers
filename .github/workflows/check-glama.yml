@@ -39,9 +39,7 @@ jobs:
 
             Are you in the MCP [Discord](https://glama.ai/mcp/discord)? Let me know your Discord username and I will give you a **server-author** flair.
 
-            Also, make sure to claim your server on https://glama.ai/mcp/servers (click "Add Server" if it is not already there). Then update Dockerfile settings — this will make it available for anyone to use.
-
-            If you already have a remote server, you can list it under https://glama.ai/mcp/connectors`
+            If you also have a remote server, you can list it under https://glama.ai/mcp/connectors`
               });
             }
 
