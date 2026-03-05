@@ -59,6 +59,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [baranwang/mcp-deep-research](https://github.com/baranwang/mcp-deep-research): MCP Deep Research leverages the Tavily API to facilitate web searches through the Model Context Protocol, optimized for prompt-based MCP clients.
 - [chenxilol/perplexity-mcp-go](https://github.com/chenxilol/perplexity-mcp-go): A Go-based server enabling LLMs to access Perplexity's search API via MCP, supporting advanced search parameters and real-time results.
 - [habuvo/google-search](https://github.com/habuvo/google-search): Facilitates web searches for LLM applications using Google's Custom Search API.
+- [henu-wang/geoscore-mcp](https://github.com/henu-wang/geoscore-mcp): AI search optimization (GEO). Scan websites for AI search readiness, generate llms.txt, Schema.org fixes, and meta tag optimizations.
 - [Tex76/mcp-websearch](https://github.com/Tex76/mcp-websearch): Enables LLMs to perform web searches and extract dynamic content using Google and Puppeteer.
 - [gulihua10010/mcp-mianshiya-server](https://github.com/gulihua10010/mcp-mianshiya-server): A Java-based MCP server for searching interview questions on Mianshiya, compatible with various intelligent assistants.
 - [seohyunjun/opensearch-mcp-server](https://github.com/seohyunjun/opensearch-mcp-server): Facilitates document search, index analysis, and cluster management for Opensearch environments.
