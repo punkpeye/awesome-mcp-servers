@@ -92,7 +92,7 @@ jobs:
               '\u{1F3E0}',        // 🏠 Local
               '\u{1F4DF}',        // 📟 Embedded
               '\u{1F34E}',        // 🍎 macOS
-              '\u{1FAA9}',        // 🪟 Windows
+              '\u{1FA9F}',        // 🪟 Windows
               '\u{1F427}',        // 🐧 Linux
             ];
 
