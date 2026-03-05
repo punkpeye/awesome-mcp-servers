@@ -1562,6 +1562,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🏢 <a name="workplace-and-productivity"></a>Workplace & Productivity
 
+- [Archetype](https://github.com/rustafarian5/salesarchetype) ☁️ - Score sales candidates against a proprietary framework built over 10,000+ real interviews. Generate interview scripts and score transcripts with ADVANCE/HOLD/PASS verdicts and shareable scorecards.
 - [bivex/kanboard-mcp](https://github.com/bivex/kanboard-mcp) 🏎️ ☁️ 🏠 - A Model Context Protocol (MCP) server written in Go that empowers AI agents and Large Language Models (LLMs) to seamlessly interact with Kanboard. It transforms natural language commands into Kanboard API calls, enabling intelligent automation of project, task, and user management, streamlining workflows, and enhancing productivity.
 - [bug-breeder/quip-mcp](https://github.com/bug-breeder/quip-mcp) 📇 ☁️ 🍎 🪟 🐧 - A Model Context Protocol (MCP) server providing AI assistants with comprehensive Quip document access and management. Enables document lifecycle management, smart search, comment management, and secure token-based authentication for both Quip.com and enterprise instances.
 - [dearlordylord/huly-mcp](https://github.com/dearlordylord/huly-mcp) [glama](https://glama.ai/mcp/servers/@dearlordylord/huly-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - MCP server for Huly project management. Query issues, create and update tasks, manage labels and priorities.
