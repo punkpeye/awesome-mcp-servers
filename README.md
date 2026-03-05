@@ -1315,7 +1315,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [mikechao/brave-search-mcp](https://github.com/mikechao/brave-search-mcp) 📇 ☁️ - Web, Image, News, Video, and Local Point of Interest search capabilities using Brave's Search API
 - [modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/fetch) 🐍 🏠 ☁️ - Efficient web content fetching and processing for AI consumption
 - [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) 🔍 📚 - Search Google and do deep web research on any topic
-- [newsmcp/newsmcp](https://github.com/pranciskus/newsmcp) 📇 ☁️ - Real-time world news for AI agents — events clustered from hundreds of sources, classified by topic and geography, ranked by importance. Free, no API key. `npx -y @newsmcp/server`
+- [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp) [glama](https://glama.ai/mcp/servers/@pranciskus/news-mcp-world-news-for-ai-agents) 📇 ☁️ - Real-time world news for AI agents — events clustered from hundreds of sources, classified by topic and geography, ranked by importance. Free, no API key. `npx -y @newsmcp/server`
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) 🐍 ☁️ - Web search using DuckDuckGo
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) 🏠 🐍 - "primitive" RAG-like web search model context protocol (MCP) server that runs locally. No APIs needed.
 - [nyxn-ai/NyxDocs](https://github.com/nyxn-ai/NyxDocs) 🐍 ☁️ 🏠 - Specialized MCP server for cryptocurrency project documentation management with multi-blockchain support (Ethereum, BSC, Polygon, Solana).
