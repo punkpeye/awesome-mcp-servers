@@ -1124,7 +1124,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - Up-to-date code documentation for LLMs and AI code editors.
 - [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) 🦀 🏠 - Cognitive memory for AI agents with Hebbian learning, 3-tier architecture, and knowledge graphs. Single ~15MB binary, runs offline on edge devices.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🐍 ☁️ 🏠 - Hindsight: Agent Memory That Works Like Human Memory - Built for AI Agents to manage Long Term Memory
-- [AuraSDK MCP](https://github.com/teolex2020/AuraSDK) — Persistent cognitive memory for Claude Desktop. Sub-ms recall, offline, encrypted. 8 tools: recall, store, search, insights, consolidate.
+- [teolex2020/AuraSDK](https://github.com/teolex2020/AuraSDK) [glama](https://glama.ai/mcp/servers/teolex2020-aurasdk) 🐍 🏠 — Persistent cognitive memory for Claude Desktop. Sub-ms recall, offline, encrypted.
 
 ### ⚖️ <a name="legal"></a>Legal
 
