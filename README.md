@@ -885,6 +885,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [mickaelkerjean/filestash](https://github.com/mickael-kerjean/filestash/tree/master/server/plugin/plg_handler_mcp) 🏎️ ☁️ - Remote Storage Access: SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, azure blob, sharepoint, etc.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) 🎖️ 🐍 🏠 - MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.
 - [modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/filesystem) 📇 🏠 - Direct local file system access.
+- [mrorigo/hashfile-mcp](https://mrorigo.github.io/hashfile-mcp/) 🦀 🏠 - A surgical file editing tool with hash-anchored operations and AGENTS.md access control.
 - [willianpinho/large-file-mcp](https://github.com/willianpinho/large-file-mcp) 📇 🏠 🍎 🪟 🐧 - Production-ready MCP server for intelligent handling of large files with smart chunking, navigation, streaming capabilities, regex search, and built-in LRU caching.
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Access any storage with Apache OpenDAL™
 - [xxczaki/local-history-mcp](https://github.com/xxczaki/local-history/mcp) 📇 🏠 🍎 🪟 🐧  - MCP server for accessing VS Code/Cursor Local History
