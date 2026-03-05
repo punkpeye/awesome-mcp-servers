@@ -591,6 +591,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [AIProx MCP](https://github.com/unixlamadev-spec/aiprox-mcp) - MCP server for the AIProx open agent registry. Discover and connect to autonomous agents by capability and payment rail. DNS for the agent economy.
 - [LPXPoly MCP](https://github.com/unixlamadev-spec/lpxpoly-mcp) - AI-powered Polymarket analysis via Bitcoin Lightning micropayments. Find edge opportunities, analyze markets, get trading signals. Pay per analysis in sats.
 - [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers, tools, and resources for HTTP-native cryptocurrency payments using USDC on Base, Arbitrum, and other EVM chains.
+- [arcadia-finance/mcp-server](https://github.com/arcadia-finance/mcp-server): Manage Uniswap and Aerodrome liquidity positions with leverage, tomated rebalancing, and yield optimization on Base and Unichain.
 
 ## 🧰 Frameworks
 
