@@ -170,6 +170,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - 用於管理 Google Tasks 的 MCP 伺服器
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - MCP 伺服器通過模型上下文協議 (MCP) 提供對 iMessage 資料庫的安全訪問，使 LLM 能夠透過適當的電話號碼驗證和附件處理來查詢和分析 iMessage 對話
+- [FastAlertNow/mcp-server](https://github.com/FastAlertNow/mcp-server) 💬 ☁️ - FastAlert MCP 伺服器 - FastAlert 的官方 Model Context Protocol (MCP) 伺服器。此伺服器允許 AI 代理（如 Claude、ChatGPT 與 Cursor）列出您的頻道，並透過 FastAlert API 直接傳送通知。 ![FastAlert 圖示](https://fastalert.now/icons/favicon-32x32.png)
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - 用於頻道管理和消息傳遞的 Slack 工作區集成
 - [@keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky 實例集成，用於查詢和交互
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - 與 Gmail 和 Google 日曆集成。
@@ -270,6 +271,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - 用於生成漂亮互動式心智圖mindmap的模型上下文協議（MCP）伺服器。
 - [InhiblabCore/mcp-image-compression](https://github.com/InhiblabCore/mcp-image-compression) 🐍 🏠 - 用於本地壓縮各種圖片格式的 MCP 伺服器。
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - 使用 MCP 實現的 Claude Code 功能，支援 AI 代碼理解、修改和項目分析，並提供全面的工具支援。
+- [selvage-lab/selvage](https://github.com/selvage-lab/selvage) 🐍 🏠 - 基於 LLM 的程式碼審查 MCP 伺服器，具備 AST 驅動的智慧上下文提取功能，支援 Claude、GPT、Gemini 以及透過 OpenRouter 的 20 餘種模型。
 - [ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) 📇 🏠 🍎 - 用於與 iOS 模擬器交互的模型上下文協議 (MCP) 伺服器。此伺服器允許您通過獲取有關 iOS 模擬器的資訊、控制 UI 交互和檢查 UI 元素來與 iOS 模擬器交互。
 - [higress-group/higress-ops-mcp-server](https://github.com/higress-group/higress-ops-mcp-server) 🐍 🏠 - 支援對 [Higress](https://github.com/alibaba/higress/blob/main/README_ZH.md) 閘道器進行全面的配置和管理。
 - [ReAPI-com/mcp-openapi](https://github.com/ReAPI-com/mcp-openapi) 📇 🏠 - MCP伺服器讓LLM能夠了解您的OpenAPI規範的所有資訊，以發現、解釋和生成代碼/模擬數據
@@ -321,6 +323,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - 使用 CoinCap 的公共 API 集成即時加密貨幣市場數據，無需 API 金鑰即可訪問加密貨幣價格和市場資訊
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - Coinmarket API 集成以獲取加密貨幣列表和報價
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API 集成，用於獲取股票和加密貨幣資訊
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - 透過 deBridge 協議實現 EVM 和 Solana 區塊鏈之間的跨鏈兌換和橋接。使 AI 代理能夠發現最佳路徑、評估費用並發起非託管交易。
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API 集成，用於管理 Tastytrade 平台的交易活動
 - [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI 提供港美股等市場的股票即時行情數據，通過 MCP 提供 AI 接入分析、交易能力。
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ -  使用 Bitget 公共 API 去獲取加密貨幣最新價格
