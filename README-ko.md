@@ -361,6 +361,7 @@
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - CoinCap의 공개 API를 사용한 실시간 암호화폐 시장 데이터 통합으로, API 키 없이 암호화폐 가격 및 시장 정보 접근 제공
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - 암호화폐 목록 및 시세를 가져오기 위한 Coinmarket API 통합
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - 주식 및 암호화폐 정보를 모두 가져오기 위한 Alpha Vantage API 통합
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - deBridge 프로토콜을 통한 EVM 및 Solana 블록체인 간 크로스체인 스왑 및 브리징. AI 에이전트가 최적의 경로를 탐색하고 수수료를 평가하며 비수탁형 거래를 시작할 수 있습니다.
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastytrade에서의 거래 활동을 처리하기 위한 Tastyworks API 통합
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - 옵션 추천을 포함한 주식 시장 데이터를 가져오기 위한 Yahoo Finance 통합
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) 📇 ☁️ - 30개 이상의 EVM 네트워크를 위한 포괄적인 블록체인 서비스, 네이티브 토큰, ERC20, NFT, 스마트 계약, 트랜잭션 및 ENS 확인 지원.
