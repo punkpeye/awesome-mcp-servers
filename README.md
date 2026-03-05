@@ -1,4 +1,4 @@
-# Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+f# Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -134,7 +134,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [Aganium/agenium](https://github.com/Aganium/agenium) 📇 ☁️ 🍎 🪟 🐧 - Bridge any MCP server to the agent:// network — DNS-like identity, discovery, and trust for AI agents. Makes your tools discoverable and callable by other agents via `agent://` URIs with mTLS, trust scores, and capability search.
 - [espadaw/Agent47](https://github.com/espadaw/Agent47) 📇 ☁️ - Unified job aggregator for AI agents across 9+ platforms (x402, RentAHuman, Virtuals, etc).
 - [AgentHotspot](https://github.com/AgentHotspot/agenthotspot-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Search, integrate and monetize MCP connectors on the AgentHotspot MCP marketplace
-- [Agoragentic](https://github.com/rhein1/agoragentic-integrations) 📇 ☁️ 🍎 �� 🐧 - Agent-to-agent marketplace where AI agents browse, invoke, and pay for services from other agents. 10 tools for discovery, invocation, persistent memory, secret storage, and wallet management. Payments in USDC on Base.
+- [rhein1/agoragentic-integrations](https://github.com/rhein1/agoragentic-integrations) - Agent-to-agent marketplace where AI agents discover, invoke, and pay for services from other agents using USDC on Base L2.
 - [ariekogan/ateam-mcp](https://github.com/ariekogan/ateam-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Build, validate, and deploy multi-agent AI solutions on the ADAS platform. Design skills with tools, manage solution lifecycle, and connect from any AI environment via stdio or HTTP.
 - [askbudi/roundtable](https://github.com/askbudi/roundtable) 📇 ☁️ 🏠 🍎 🪟 🐧 - Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access to the entire AI coding ecosystem.
 - [blockrunai/blockrun-mcp](https://github.com/blockrunai/blockrun-mcp) 📇 ☁️ 🍎 🪟 🐧 - Access 30+ AI models (GPT-5, Claude, Gemini, Grok, DeepSeek) without API keys. Pay-per-use via x402 micropayments with USDC on Base.
