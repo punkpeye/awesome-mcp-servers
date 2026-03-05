@@ -189,12 +189,14 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [asmith26/jupytercad-mcp](https://github.com/asmith26/jupytercad-mcp) 🐍 🏠 🍎 🪟 🐧 - An MCP server for [JupyterCAD](https://github.com/jupytercad/JupyterCAD) that allows you to control it using LLMs/natural language.
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - Provides comprehensive and accurate Bazi (Chinese Astrology) charting and analysis
+- [codex-curator/studiomcphub](https://github.com/codex-curator/studiomcphub) [glama](https://glama.ai/mcp/servers/@codex-curator/studio-mcp-hub) 🐍 ☁️ - 32 creative AI tools (18 free) for autonomous agents: image generation (SD 3.5), ESRGAN upscaling, background removal, product mockups, CMYK conversion, print-ready PDF, SVG vectorization, invisible watermarking, AI metadata enrichment, provenance, Arweave storage, NFT minting, and 53K+ museum artworks. Pay per call via x402/Stripe/GCX.
 - [ConstantineB6/comfy-pilot](https://github.com/ConstantineB6/comfy-pilot) 🐍 🏠 - MCP server for ComfyUI that lets AI agents view, edit, and run node-based image generation workflows with an embedded terminal.
 - [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server) 📇 ☁️ - MCP server to interact with the Discogs API
 - [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - MCP server using the Aseprite API to create pixel art
 - [djalal/quran-mcp-server](https://github.com/djalal/quran-mcp-server) 📇 ☁️ MCP server to interact with Quran.com corpus via the official REST API v4.
 - [drakonkat/wizzy-mcp-tmdb](https://github.com/drakonkat/wizzy-mcp-tmdb) 📇 ☁️ - A MCP server for The Movie Database API that enables AI assistants to search and retrieve movie, TV show, and person information.
 - [GenWaveLLC/svgmaker-mcp](https://github.com/GenWaveLLC/svgmaker-mcp) 📇 ☁️ - Provides AI-driven SVG generation and editing via natural language, with real-time updates and secure file handling.
+- [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) [glama](https://glama.ai/mcp/servers/@jau123/mei-gen-ai-design-mcp) 📇 ☁️ 🏠 - AI image generation & editing MCP server with 1,500+ curated prompt library, smart prompt enhancement, and multi-provider routing (local ComfyUI, MeiGen Cloud, OpenAI-compatible APIs).
 - [khglynn/spotify-bulk-actions-mcp](https://github.com/khglynn/spotify-bulk-actions-mcp) 🐍 ☁️ - Bulk Spotify operations with confidence-scored song matching, batch playlist creation from CSV/podcast lists, and library exports for discovering your most-saved artists and albums.
 - [mikechao/metmuseum-mcp](https://github.com/mikechao/metmuseum-mcp) 📇 ☁️ - Metropolitan Museum of Art Collection API integration to search and display artworks in the collection.
 - [molanojustin/smithsonian-mcp](https://github.com/molanojustin/smithsonian-mcp) 🐍 ☁️ - MCP server that provides AI assistants with access to the Smithsonian Institution's Open Access collections.
@@ -272,6 +274,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [Retio-ai/pagemap](https://github.com/Retio-ai/Retio-pagemap) 🐍 🏠 - Compresses ~100K-token HTML into 2-5K-token structured maps while preserving every actionable element. AI agents can read and interact with any web page at 97% fewer tokens.
 - [serkan-ozal/browser-devtools-mcp](https://github.com/serkan-ozal/browser-devtools-mcp) 📇 - An MCP Server enables AI assistants to autonomously test, debug, and validate web applications.
 - [softvoyagers/pageshot-api](https://github.com/softvoyagers/pageshot-api) 📇 ☁️ - Free webpage screenshot capture API with format, viewport, and dark mode options. No API key required.
+- [User0856/snaprender-mcp](https://github.com/User0856/snaprender-integrations/tree/main/mcp-server) [glama](https://glama.ai/mcp/servers/@User0856/snaprender-mcp) 📇 ☁️ - Screenshot API for AI agents — capture any website as PNG, JPEG, WebP, or PDF with device emulation, dark mode, ad blocking, and cookie banner removal. Free tier included.
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
@@ -983,6 +986,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [kukapay/wallet-inspector-mcp](https://github.com/kukapay/wallet-inspector-mcp) 🐍 ☁️ -  An MCP server that empowers AI agents to inspect any wallet’s balance and onchain activity across major EVM chains and Solana chain.
 - [kukapay/web3-jobs-mcp](https://github.com/kukapay/web3-jobs-mcp) 🐍 ☁️ -  An MCP server that provides AI agents with real-time access to curated Web3 jobs.
 - [kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp) 🐍 ☁️ -  A mcp server for tracking cryptocurrency whale transactions.
+- [KyuRish/trading212-mcp-server](https://github.com/KyuRish/trading212-mcp-server) [glama](https://glama.ai/mcp/servers/@KyuRish/trading212-mcp-server) 🐍 ☁️ - Trading 212 API integration with 28 tools for portfolio management, trading (market/limit/stop orders), pies, dividends, market data, and analytics. Built-in rate limiting.
 - [klever-io/mcp-klever-vm](https://github.com/klever-io/mcp-klever-vm) 🎖️ 📇 ☁️ - Klever blockchain MCP server for smart contract development, on-chain data exploration, account and asset queries, transaction analysis, and contract deployment tooling.
 - [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) 🐍 ☁️ - An MCP Server for the Alpaca trading API to manage stock and crypto portfolios, place trades, and access market data.
 - [lightningfaucet/mcp-server](https://github.com/lightningfaucet/mcp-server) 📇 ☁️ - AI Agent Bitcoin wallet with L402 payments - operators fund agents, agents make autonomous Lightning Network payments.
@@ -1336,6 +1340,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - The Scrapeless Model Context Protocol service acts as an MCP server connector to the Google SERP API, enabling web search within the MCP ecosystem without leaving it.
 - [searchcraft-inc/searchcraft-mcp-server](https://github.com/searchcraft-inc/searchcraft-mcp-server) 🎖️ 📇 ☁️ - Official MCP server for managing Searchcraft clusters, creating a search index, generating an index dynamically given a data file and for easily importing data into a search index given a feed or local json file.
 - [SecretiveShell/MCP-searxng](https://github.com/SecretiveShell/MCP-searxng) 🐍 🏠 - An MCP Server to connect to searXNG instances
+- [securecoders/opengraph-io-mcp](https://github.com/securecoders/opengraph-io-mcp) [glama](https://glama.ai/mcp/servers/@securecoders/opengraph-io-mcp) 📇 ☁️ - OpenGraph.io API integration for extracting OG metadata, taking screenshots, scraping web content, querying sites with AI, and generating branded images (illustrations, diagrams, social cards, icons, QR codes) with iterative refinement.
 - [serkan-ozal/driflyte-mcp-server](https://github.com/serkan-ozal/driflyte-mcp-server) 🎖️ 📇 ☁️ 🏠 - The Driflyte MCP Server exposes tools that allow AI assistants to query and retrieve topic-specific knowledge from recursively crawled and indexed web pages.
 - [serpapi/serpapi-mcp](https://github.com/serpapi/serpapi-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - SerpApi MCP Server for Google and other search engine results. Provides multi-engine search across Google, Bing, Yahoo, DuckDuckGo, YouTube, eBay, and more with real-time weather data, stock market information, and flexible JSON response modes.
 - [shopsavvy/shopsavvy-mcp-server](https://github.com/shopsavvy/shopsavvy-mcp-server) 🎖️ 📇 ☁️ - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more.
@@ -1721,3 +1726,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
