@@ -344,5 +344,5 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server): Facilitates access to Coinmarket API endpoints for currency listings and token quotes via a custom URI scheme.
 - [Philidor-Labs/philidor-mcp](https://github.com/Philidor-Labs/philidor-mcp): Search 700+ DeFi vaults, compare risk scores, analyze protocol security. Multi-vector risk framework covering Morpho, Aave, Spark, Yearn, Beefy, Compound, Uniswap. Remote server — no API key needed. [mcp.philidor.io](https://mcp.philidor.io)
 - [VENTURE-AI-LABS/cryptodataapi-mcp](https://github.com/VENTURE-AI-LABS/cryptodataapi-mcp): Real-time crypto market data for AI agents — market health scores, derivatives, funding rates, ETF flows, cycle indicators, and 100+ endpoints via CryptoDataAPI.
-
 - [MarcinDudekDev/crypto-signals-mcp](https://github.com/MarcinDudekDev/crypto-signals-mcp): Real-time crypto volume anomaly detection across 50+ tokens. Detects unusual trading activity, whale movements, and pump signals via live API.
+- [arcadia-finance/mcp-server](https://github.com/arcadia-finance/mcp-server): Manage Uniswap and Aerodrome liquidity positions with leverage, automated rebalancing, and yield optimization on Base and Unichain.
