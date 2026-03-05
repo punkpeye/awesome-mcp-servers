@@ -320,4 +320,5 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server): Facilitates communication with AI models like OpenAI and Google AI using the MCP protocol, offering tools for code review, documentation, and explanation.
 - [sdairs/claudekeep](https://github.com/sdairs/claudekeep): ClaudeKeep enables saving and sharing AI conversations from Claude Desktop using an MCP server.
 - [speakeasy-api/bluesky-ts](https://github.com/speakeasy-api/bluesky-ts): A TypeScript SDK for Bluesky API, offering a developer-friendly, type-safe interface with MCP server capabilities for AI applications.
+- [wazionapps/mcp-server](https://github.com/wazionapps/mcp-server): WAzion - WhatsApp Business platform with 244 MCP tools for messaging, CRM, campaigns, workflows, and AI automation. Supports Streamable HTTP and stdio transports.
 
