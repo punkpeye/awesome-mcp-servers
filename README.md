@@ -1586,6 +1586,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [billster45/mcp-chatgpt-responses](https://github.com/billster45/mcp-chatgpt-responses) 🐍 ☁️ - MCP server for Claude to talk to ChatGPT and use its web search capability.
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - Allows the AI to query GraphQL servers
 - [boldsign/boldsign-mcp](https://github.com/boldsign/boldsign-mcp) 📇 ☁️ - Search, request, and manage e-signature contracts effortlessly with [BoldSign](https://boldsign.com/).
+- [spranab/brainstorm-mcp](https://github.com/spranab/brainstorm-mcp) [glama](https://glama.ai/mcp/servers/@spranab/brainstorm-mcp) 📇 🏠 🍎 🪟 🐧 - Multi-round AI brainstorming debates between multiple models (GPT, Gemini, DeepSeek, Groq, Ollama, etc.). Pit different LLMs against each other to explore ideas from diverse perspectives.
 - [brianxiadong/ones-wiki-mcp-server](https://github.com/brianxiadong/ones-wiki-mcp-server) ☕ ☁️/🏠 - A Spring AI MCP-based service for retrieving ONES Waiki content and converting it to AI-friendly text format.
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📇 🏠 - This is a connector to allow Claude Desktop (or any MCP client) to read and search any directory containing Markdown notes (such as an Obsidian vault).
 - [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - Wenyan MCP Server, which lets AI automatically format Markdown articles and publish them to WeChat GZH.
