@@ -124,6 +124,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+- [sats4ai/mcp](https://sats4ai.com/mcp) 📇 ☁️ - Bitcoin-powered AI tools via Lightning Network micropayments (L402). Image, text, video, music, speech, 3D, file conversion, and SMS.
 
 
 ### 🔗 <a name="aggregators"></a>Aggregators
