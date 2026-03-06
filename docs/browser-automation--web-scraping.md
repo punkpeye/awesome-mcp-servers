@@ -261,3 +261,4 @@ Servers using tools for browser control, automation, and extracting content from
 - [blazickjp/web-browser-mcp-server](https://github.com/blazickjp/web-browser-mcp-server): Empower AI models to navigate and extract data from websites using a streamlined MCP interface with advanced content targeting and error management.
 - [bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp): Screaming Frog SEO Spider integration for crawling websites, exporting SEO data, and managing crawl storage through AI assistants.
 
+- [ExceptionRegret/Kryfto](https://github.com/ExceptionRegret/Kryfto): Open-source web-browsing backend for AI agents with a 42-tool MCP server, REST API for n8n/Zapier/Make, federated multi-engine search, anti-bot stealth, and enterprise infrastructure (Postgres, Redis, BullMQ, MinIO).
