@@ -124,7 +124,6 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
-- [sats4ai/mcp](https://sats4ai.com/mcp) 📇 ☁️ - Bitcoin-powered AI tools via Lightning Network micropayments (L402). Image, text, video, music, speech, 3D, file conversion, and SMS.
 
 
 ### 🔗 <a name="aggregators"></a>Aggregators
@@ -1574,6 +1573,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📇 🏠 - This is a connector to allow Claude Desktop (or any MCP client) to read and search any directory containing Markdown notes (such as an Obsidian vault).
 - [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - Wenyan MCP Server, which lets AI automatically format Markdown articles and publish them to WeChat GZH.
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) 🐍 🏠 - Yet another CLI tool for testing MCP servers
+- [cnghockey/sats-for-ai](https://github.com/cnghockey/sats-for-ai) [glama](https://glama.ai/mcp/servers/@cnghockey/sats4ai) 📇 ☁️ - Bitcoin-powered AI tools via Lightning Network micropayments (L402). Image, text, video, music, speech, 3D model generation, file conversion, and SMS — no signup or API keys required.
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) 🐍 ☁️ - Integrates with Notion's API to manage personal todo lists
 - [danielkennedy1/pdf-tools-mcp](https://github.com/danielkennedy1/pdf-tools-mcp) 🐍 - PDF download, view & manipulation utilities.
 - [dev-mirzabicer/ticktick-sdk](https://github.com/dev-mirzabicer/ticktick-sdk) 🐍 ☁️ - Comprehensive async Python SDK for [TickTick](https://ticktick.com/) with MCP server support. Features 45 tools for tasks, projects, tags, habits, focus/pomodoro sessions, and user analytics.
