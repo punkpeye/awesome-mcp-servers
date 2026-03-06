@@ -304,6 +304,7 @@
 
 - [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) - سرور Cisco pyATS که تعامل ساختاریافته و مبتنی بر مدل با دستگاه‌های شبکه را امکان‌پذیر می‌کند.
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) 📇 ☁️ 🏠 - یک سرور MCP که IDE شما را با کمک‌های مبتنی بر هوش مصنوعی برای ابزار Intlayer i18n / CMS تقویت می‌کند: دسترسی هوشمند به CLI، دسترسی به مستندات.
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - سرور MCP برای یکپارچه‌سازی دستیار هوش مصنوعی [OpenClaw](https://github.com/openclaw/openclaw). امکان واگذاری وظایف از Claude به عامل‌های OpenClaw با ابزارهای همگام/ناهمگام، احراز هویت OAuth 2.1 و انتقال SSE برای Claude.ai را فراهم می‌کند.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - یک سرور Model Context Protocol که دسترسی به iTerm را فراهم می‌کند. می‌توانید دستورات را اجرا کنید و در مورد آنچه در ترمینال iTerm می‌بینید سؤال بپرسید.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - اجرای هر دستوری با ابزارهای `run_command` و `run_script`.
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - مفسر Python امن مبتنی بر `LocalPythonExecutor` از HF Smolagents
@@ -704,6 +705,7 @@
 - [chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 🎖️ 📇 ☁️ - سرور MCP که عامل‌های هوش مصنوعی را به [پلتفرم Chargebee](https://www.chargebee.com/) متصل می‌کند.
 - [codex-data/codex-mcp](https://github.com/Codex-Data/codex-mcp) 🎖️ 📇 ☁️ - یکپارچه‌سازی با [Codex API](https://www.codex.io) برای داده‌های بلاکچین و بازار غنی‌شده بی‌درنگ در بیش از ۶۰ شبکه
 - [coinpaprika/dexpaprika-mcp](https://github.com/coinpaprika/dexpaprika-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - سرور DexPaprika MCP Coinpaprika [DexPaprika API](https://docs.dexpaprika.com) با کارایی بالا را در معرض دید قرار می‌دهد که بیش از ۲۰ زنجیره و بیش از ۵ میلیون توکن را با قیمت‌گذاری بی‌درنگ، داده‌های استخر نقدینگی و داده‌های تاریخی OHLCV پوشش می‌دهد و به عامل‌های هوش مصنوعی دسترسی استاندارد به داده‌های جامع بازار از طریق Model Context Protocol را می‌دهد.
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - سواپ‌های زنجیره‌ای متقاطع و پل‌زنی بین بلاکچین‌های EVM و Solana از طریق پروتکل deBridge. به عامل‌های هوش مصنوعی امکان کشف مسیرهای بهینه، ارزیابی کارمزدها و آغاز معاملات غیرحضانتی را می‌دهد.
 - [doggybee/mcp-server-ccxt](https://github.com/doggybee/mcp-server-ccxt) 📇 ☁️ - یک سرور MCP برای دسترسی به داده‌های بازار کریپتو بی‌درنگ و معامله از طریق بیش از ۲۰ صرافی با استفاده از کتابخانه CCXT. از spot، futures، OHLCV، موجودی‌ها، سفارشات و موارد دیگر پشتیبانی می‌کند.
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - یکپارچه‌سازی با Yahoo Finance برای دریافت داده‌های بازار سهام شامل توصیه‌های آپشن‌ها
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - یکپارچه‌سازی با Tastyworks API برای مدیریت فعالیت‌های معاملاتی در Tastytrade
