@@ -1493,7 +1493,7 @@ Access to travel and transportation information. Enables querying schedules, rou
 - [r-huijts/ns-mcp-server](https://github.com/r-huijts/ns-mcp-server) 📇 ☁️ - Access Dutch Railways (NS) travel information, schedules, and real-time updates
 - [skedgo/tripgo-mcp-server](https://github.com/skedgo/tripgo-mcp-server) 📇 ☁️ - Provides tools from the TripGo API for multi-modal trip planning, transport locations, and public transport departures, including real-time information.
 - [srinath1510/alltrails-mcp-server](https://github.com/srinath1510/alltrails-mcp-server) 🐍 ☁️ - A MCP server that provides access to AllTrails data, allowing you to search for hiking trails and get detailed trail information
-- [vessel-api/vesselapi-mcp](https://github.com/vessel-api/vesselapi-mcp) 📇 ☁️ - Maritime vessel tracking via VesselAPI. Search vessels, get real-time positions, ETAs, port events, emissions, inspections, and NAVTEX safety messages.
+- [vessel-api/vesselapi-mcp](https://github.com/vessel-api/vesselapi-mcp) [glama](https://glama.ai/mcp/servers/@vessel-api/vessel-api-mcp-server) 📇 ☁️ - Maritime vessel tracking via VesselAPI. Search vessels, get real-time positions, ETAs, port events, emissions, inspections, and NAVTEX safety messages.
 
 ### 🔄 <a name="version-control"></a>Version Control
 
