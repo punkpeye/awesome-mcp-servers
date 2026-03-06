@@ -1080,6 +1080,7 @@ Integration with gaming related data, game engines, and services
 
 Control smart home devices, home network equipment, and automation systems.
 
+- [rmaher001/hass-mcp-plus](https://github.com/rmaher001/hass-mcp-plus) 🐍 🏠 🍎 🪟 🐧 - Enhanced Home Assistant MCP server with 24 tools for smart home control, automation trace debugging, entity registry management, CEL expression queries, and long-term statistics
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
