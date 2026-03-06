@@ -188,6 +188,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - A local MCP server that generates animations using Manim.
 - [austenstone/myinstants-mcp](https://github.com/austenstone/myinstants-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - A soundboard MCP server with millions of meme sounds from myinstants.com. Search, play, and browse categories — let your AI agent play vine boom when code compiles. `npx myinstants-mcp`
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) 🐍 - MCP server for working with Blender
+- [albertnahas/icogenie-mcp](https://github.com/albertnahas/icogenie-mcp) [glama](https://glama.ai/mcp/servers/@albertnahas/icogenie-mcp) 📇 ☁️ - AI-powered SVG icon generation MCP server. Generate production-ready SVG icons from text descriptions with customizable styles.
 - [aliafsahnoudeh/shahnameh-mcp-server](https://github.com/aliafsahnoudeh/shahnameh-mcp-server) 🐍 🏠 🍎 🪟 🐧 - MCP server for accessing the Shahnameh (Book of Kings) Persian epic poem by Ferdowsi, including sections, verses and explanations.
 - [asmith26/jupytercad-mcp](https://github.com/asmith26/jupytercad-mcp) 🐍 🏠 🍎 🪟 🐧 - An MCP server for [JupyterCAD](https://github.com/jupytercad/JupyterCAD) that allows you to control it using LLMs/natural language.
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection
