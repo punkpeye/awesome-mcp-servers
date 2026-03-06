@@ -1019,6 +1019,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [trayders/trayd-mcp](https://github.com/trayders/trayd-mcp) 🐍 ☁️ - Trade Robinhood through natural language. Portfolio analysis, real-time quotes, and order execution via Claude Code.
 - [twelvedata/mcp](https://github.com/twelvedata/mcp) 🐍 ☁️ - Interact with [Twelve Data](https://twelvedata.com) APIs to access real-time and historical financial market data for your AI agents.
 - [VENTURE-AI-LABS/cryptodataapi-mcp](https://github.com/VENTURE-AI-LABS/cryptodataapi-mcp) 📇 ☁️ - Real-time crypto market data for AI agents — market health scores, derivatives, funding rates, ETF flows, cycle indicators, and 100+ endpoints via CryptoDataAPI.
+- [vjrmuc/proofbets](https://github.com/vjrmuc/proofbets/tree/main/mcp-server) 📇 ☁️ - Query verified crypto casino reviews, bonus codes, prediction market fees, and sports betting odds. 13 tools with on-chain data verification via Etherscan.
 - [wowinter13/solscan-mcp](https://github.com/wowinter13/solscan-mcp) 🦀 🏠 - An MCP tool for querying Solana transactions using natural language with Solscan API.
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - An MCP server that interact with capabilities of the CRIC Wuye AI platform, an intelligent assistant specifically for the property management industry.
 - [XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server) 📇 ☁️ – An MCP server that integrates with Xero's API, allowing for standardized access to Xero's accounting and business features.
