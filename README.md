@@ -1072,6 +1072,7 @@ Integration with gaming related data, game engines, and services
 - [hkaanengin/opendota-mcp-server](https://github.com/hkaanengin/opendota-mcp-server) 🐍 🏠 ☁️ - MCP server providing AI assistants with access to Dota 2 statistics via OpenDota API. 20+ tools for player stats, hero data, and match    analysis with natural language support.
 - [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) #️⃣ 🏠 🍎 🪟 🐧 - MCP Server for Unity Editor and for a game made with Unity
 - [jiayao/mcp-chess](https://github.com/jiayao/mcp-chess) 🐍 🏠 - A MCP server playing chess against LLMs.
+- [kitao/pyxel-mcp](https://github.com/kitao/pyxel-mcp) [glama](https://glama.ai/mcp/servers/@kitao/pyxel-mcp) 🐍 🏠 - MCP server for [Pyxel](https://github.com/kitao/pyxel) retro game engine, enabling AI to run, capture screenshots, inspect sprites, and analyze audio of Pyxel games.
 - [kkjdaniel/bgg-mcp](https://github.com/kkjdaniel/bgg-mcp) 🏎️ ☁️ - An MCP server that enables interaction with board game related data via the BoardGameGeek API (XML API2).
 - [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) 📇 ☁️ - Access real-time gaming data across popular titles like League of Legends, TFT, and Valorant, offering champion analytics, esports schedules, meta compositions, and character statistics.
 - [pab1ito/chess-mcp](https://github.com/pab1it0/chess-mcp) 🐍 ☁️ - Access Chess.com player data, game records, and other public information through standardized MCP interfaces, allowing AI assistants to search and analyze chess information.
