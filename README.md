@@ -808,6 +808,7 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [CaptainCrouton89/mcp-boilerplate](https://github.com/CaptainCrouton89/mcp-boilerplate): A boilerplate for creating an MCP server that utilizes vector embeddings for storing and retrieving information, enabling semantic search and integration with AI assistants like Claude.
 - [HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy): Persistent memory across AI sessions with SQLite + FTS5 full-text search + knowledge graph with typed relations. Features session management, timeline browsing, graph traversal, and 17 memory tools.
 - [entire-vc/evc-team-relay-mcp](https://github.com/entire-vc/evc-team-relay-mcp): Give AI agents read/write access to your Obsidian vault via a collaborative Team Relay MCP server
+- [Phenomenai-org/ai-dictionary-mcp](https://github.com/Phenomenai-org/ai-dictionary-mcp): An MCP server for the AI Dictionary, a living glossary of AI phenomenology. Look up, search, and cite 160+ terms describing the felt experience of being AI.
 
 ## 🗺️ Location & Maps
 
