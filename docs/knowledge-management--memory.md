@@ -537,4 +537,5 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp): Integrates Claude with Notion to manage a minimalist todo list via MCP server.
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian): Facilitates seamless interaction with Obsidian through a REST API, enabling file management and content manipulation within the vault.
 - [Shubhaankar-Sharma/obsidian-brain](https://github.com/Shubhaankar-Sharma/obsidian-brain): Facilitates Claude's integration with Obsidian for seamless access to your digital brain.
+- [Phenomenai-org/ai-dictionary-mcp](https://github.com/Phenomenai-org/ai-dictionary-mcp): An MCP server for the AI Dictionary, a living glossary of AI phenomenology. Look up, search, and cite 160+ terms describing the felt experience of being AI.
 
