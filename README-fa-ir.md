@@ -94,6 +94,7 @@
 * 🛠️ - [ابزارهای توسعه‌دهنده](#developer-tools)
 * 🧮 - [ابزارهای علم داده](#data-science-tools)
 * 📟 - [سیستم تعبیه‌شده](#embedded-system)
+* 🌳 - [زیست بوم و طبیعت](#environment-and-nature)
 * 📂 - [سیستم‌های فایل](#file-systems)
 * 💰 - [مالی و فین‌تک](#finance--fintech)
 * 🎮 - [بازی](#gaming)
@@ -150,6 +151,7 @@
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 ☁️ - یک سرور MCP برای API کتابخانه باز که به دستیاران هوش مصنوعی امکان جستجوی اطلاعات کتاب را می‌دهد.
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - یک سرور MCP محلی که با استفاده از Manim انیمیشن تولید می‌کند.
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) 🐍 - سرور MCP برای کار با Blender
+- [aliafsahnoudeh/shahnameh-mcp-server](https://github.com/aliafsahnoudeh/shahnameh-mcp-server) 🐍 🏠 🍎 🪟 🐧 - یک ام سی پی سرور برای دسترسی به بخش ها و اشعار و توضیحات شاهنامه فردوسی حماسه بزرگ فارسی
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - اضافه کردن، تحلیل، جستجو و تولید ویرایش‌های ویدیویی از مجموعه Video Jungle شما
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - نمودار و تحلیل جامع و دقیق Bazi (طالع‌بینی چینی) را ارائه می‌دهد
 - [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server) 📇 ☁️ - سرور MCP برای تعامل با API Discogs
@@ -240,6 +242,7 @@
 - [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) 🐍 ☁️ - پیاده‌سازی سرور MCP برای پلتفرم هماهنگ‌سازی گردش کار [Kestra](https://kestra.io).
 - [liveblocks/liveblocks-mcp-server](https://github.com/liveblocks/liveblocks-mcp-server) 🎖️ 📇 ☁️ - ایجاد، تغییر و حذف جنبه‌های مختلف [Liveblocks](https://liveblocks.io) مانند اتاق‌ها، رشته‌ها، نظرات، اعلان‌ها و موارد دیگر. علاوه بر این، دسترسی خواندن به Storage و Yjs را دارد.
 - [manusa/Kubernetes MCP Server](https://github.com/manusa/kubernetes-mcp-server) 🏎️ 🏠 A - سرور قدرتمند Kubernetes MCP با پشتیبانی اضافی برای OpenShift. علاوه بر ارائه عملیات CRUD برای **هر** منبع Kubernetes، این سرور ابزارهای تخصصی برای تعامل با کلاستر شما فراهم می‌کند.
+- [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - سرور MCP برای اکوسیستم Rancher با عملیات Kubernetes چندکلاستری، مدیریت Harvester HCI (ماشین مجازی، ذخیره‌سازی، شبکه) و ابزارهای Fleet GitOps.
 - [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - با کتابخانه fastmcp یکپارچه می‌شود تا طیف کاملی از قابلیت‌های NebulaBlock API را به عنوان ابزارهای قابل دسترس در معرض دید قرار دهد
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - یک سرور Terraform MCP که به دستیاران هوش مصنوعی امکان مدیریت و عملیات محیط‌های Terraform را می‌دهد و خواندن پیکربندی‌ها، تحلیل planها، اعمال پیکربندی‌ها و مدیریت state Terraform را امکان‌پذیر می‌کند.
 - [openstack-kr/python-openstackmcp-server](https://github.com/openstack-kr/python-openstackmcp-server) 🐍 ☁️ - سرور MCP OpenStack برای مدیریت زیرساخت ابری مبتنی بر openstacksdk.
@@ -302,6 +305,7 @@
 
 - [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) - سرور Cisco pyATS که تعامل ساختاریافته و مبتنی بر مدل با دستگاه‌های شبکه را امکان‌پذیر می‌کند.
 - [aymericzip/intlayer](https://github.com/aymericzip/intlayer) 📇 ☁️ 🏠 - یک سرور MCP که IDE شما را با کمک‌های مبتنی بر هوش مصنوعی برای ابزار Intlayer i18n / CMS تقویت می‌کند: دسترسی هوشمند به CLI، دسترسی به مستندات.
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - سرور MCP برای یکپارچه‌سازی دستیار هوش مصنوعی [OpenClaw](https://github.com/openclaw/openclaw). امکان واگذاری وظایف از Claude به عامل‌های OpenClaw با ابزارهای همگام/ناهمگام، احراز هویت OAuth 2.1 و انتقال SSE برای Claude.ai را فراهم می‌کند.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - یک سرور Model Context Protocol که دسترسی به iTerm را فراهم می‌کند. می‌توانید دستورات را اجرا کنید و در مورد آنچه در ترمینال iTerm می‌بینید سؤال بپرسید.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - اجرای هر دستوری با ابزارهای `run_command` و `run_script`.
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - مفسر Python امن مبتنی بر `LocalPythonExecutor` از HF Smolagents
@@ -329,6 +333,7 @@
 - [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) 🐍 🏠 - یکپارچه‌سازی با Telegram API برای دسترسی به داده‌های کاربر، مدیریت گفتگوها (چت‌ها، کانال‌ها، گروه‌ها)، بازیابی پیام‌ها، ارسال پیام‌ها و مدیریت وضعیت خوانده شدن.
 - [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - سرور MCP برای Calcom. مدیریت انواع رویدادها، ایجاد رزروها و دسترسی به داده‌های زمان‌بندی Cal.com از طریق LLMها.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) 🐍 ☁️ - یک سرور MCP برای Inbox Zero. عملکردهایی را به Gmail اضافه می‌کند مانند پیدا کردن ایمیل‌هایی که باید به آنها پاسخ دهید یا باید آنها را پیگیری کنید.
+- [FastAlertNow/mcp-server](https://github.com/FastAlertNow/mcp-server) 🎖️ 📇 ☁️ - سرور MCP رسمی FastAlert. این سرور به عامل‌های هوش مصنوعی (مانند Claude، ChatGPT و Cursor) امکان می‌دهد لیست کانال‌های شما را مشاهده و مستقیماً از طریق API FastAlert اعلان ارسال کنند.
 - [gerkensm/callcenter.js-mcp](https://github.com/gerkensm/callcenter.js-mcp) 📇 ☁️ - یک سرور MCP برای برقراری تماس‌های تلفنی با استفاده از VoIP/SIP و Realtime API OpenAI و مشاهده رونوشت.
 - [gitmotion/ntfy-me-mcp](https://github.com/gitmotion/ntfy-me-mcp) 📇 ☁️ 🏠 - یک سرور MCP ntfy برای ارسال/دریافت اعلان‌های ntfy به سرور ntfy خودمیزبان شما از عامل‌های هوش مصنوعی 📤 (پشتیبانی از احراز هویت توکن امن و موارد دیگر - با npx یا docker استفاده کنید!)
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) 🚀 ☁️ - یک برنامه سرور MCP که انواع مختلف پیام‌ها را به ربات گروه WeCom ارسال می‌کند.
@@ -587,6 +592,7 @@
 - [sammcj/mcp-package-version](https://github.com/sammcj/mcp-package-version) 📇 🏠 - یک سرور MCP برای کمک به LLMها در پیشنهاد آخرین نسخه‌های پایدار بسته هنگام نوشتن کد.
 - [sapientpants/sonarqube-mcp-server](https://github.com/sapientpants/sonarqube-mcp-server) 🦀 ☁️ 🏠 - یک سرور Model Context Protocol (MCP) که با SonarQube یکپارچه می‌شود تا به دستیاران هوش مصنوعی دسترسی به معیارهای کیفیت کد، issueها و وضعیت‌های quality gate را بدهد
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - پیاده‌سازی قابلیت‌های Claude Code با استفاده از MCP، که درک، تغییر و تحلیل پروژه کد هوش مصنوعی را با پشتیبانی جامع ابزار امکان‌پذیر می‌کند.
+- [selvage-lab/selvage](https://github.com/selvage-lab/selvage) 🐍 🏠 - سرور MCP بررسی کد مبتنی بر LLM با استخراج هوشمند زمینه مبتنی بر AST. از Claude، GPT، Gemini و بیش از ۲۰ مدل از طریق OpenRouter پشتیبانی می‌کند.
 - [sequa-ai/sequa-mcp](https://github.com/sequa-ai/sequa-mcp) 📇 ☁️ 🐧 🍎 🪟 - از چسباندن زمینه برای Copilot و Cursor دست بردارید. با Sequa MCP، ابزارهای هوش مصنوعی شما کل کدبیس و مستندات شما را از ابتدا می‌شناسند.
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - اتصال هر سرور API HTTP/REST با استفاده از مشخصات Open API (v3)
 - [spacecode-ai/SpaceBridge-MCP](https://github.com/spacecode-ai/SpaceBridge-MCP) 🐍 🏠 🍎 🐧 - با ردیابی خودکار issueها، ساختار را به کدنویسی vibe بیاورید و زمینه را حفظ کنید.
@@ -656,6 +662,12 @@
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - یک ربات فوق‌العاده-کاوایی تعبیه‌شده M5Stack مبتنی بر JavaScript با عملکرد سرور MCP برای تعاملات و احساسات کنترل شده توسط هوش مصنوعی.
 - [yoelbassin/gnuradioMCP](https://github.com/yoelbassin/gnuradioMCP) 🐍 📟 🏠 - یک سرور MCP برای GNU Radio که به LLMها امکان ایجاد و تغییر خودکار فلوچارت‌های RF `.grc` را می‌دهد.
 
+### 🌳 <a name="environment-and-nature"></a>زیست بوم و طبیعت
+
+دسترسی به داده‌های محیطی و ابزارها، خدمات و اطلاعات مرتبط با طبیعت را فراهم می‌کند.
+
+- [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - ،یک ام سی پی سرور برای شناسایی، نظارت و تحلیل آتش‌سوزی‌های احتمالی در سراسر جهان با استفاده از منابع داده متعدد از جمله NASA FIRMS، OpenWeatherMap و Google Earth Engine.
+
 ### 📂 <a name="file-systems"></a>سیستم‌های فایل
 
 دسترسی مستقیم به سیستم‌های فایل محلی با مجوزهای قابل تنظیم را فراهم می‌کند. به مدل‌های هوش مصنوعی امکان خواندن، نوشتن و مدیریت فایل‌ها در دایرکتوری‌های مشخص شده را می‌دهد.
@@ -694,6 +706,7 @@
 - [chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 🎖️ 📇 ☁️ - سرور MCP که عامل‌های هوش مصنوعی را به [پلتفرم Chargebee](https://www.chargebee.com/) متصل می‌کند.
 - [codex-data/codex-mcp](https://github.com/Codex-Data/codex-mcp) 🎖️ 📇 ☁️ - یکپارچه‌سازی با [Codex API](https://www.codex.io) برای داده‌های بلاکچین و بازار غنی‌شده بی‌درنگ در بیش از ۶۰ شبکه
 - [coinpaprika/dexpaprika-mcp](https://github.com/coinpaprika/dexpaprika-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - سرور DexPaprika MCP Coinpaprika [DexPaprika API](https://docs.dexpaprika.com) با کارایی بالا را در معرض دید قرار می‌دهد که بیش از ۲۰ زنجیره و بیش از ۵ میلیون توکن را با قیمت‌گذاری بی‌درنگ، داده‌های استخر نقدینگی و داده‌های تاریخی OHLCV پوشش می‌دهد و به عامل‌های هوش مصنوعی دسترسی استاندارد به داده‌های جامع بازار از طریق Model Context Protocol را می‌دهد.
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - سواپ‌های زنجیره‌ای متقاطع و پل‌زنی بین بلاکچین‌های EVM و Solana از طریق پروتکل deBridge. به عامل‌های هوش مصنوعی امکان کشف مسیرهای بهینه، ارزیابی کارمزدها و آغاز معاملات غیرحضانتی را می‌دهد.
 - [doggybee/mcp-server-ccxt](https://github.com/doggybee/mcp-server-ccxt) 📇 ☁️ - یک سرور MCP برای دسترسی به داده‌های بازار کریپتو بی‌درنگ و معامله از طریق بیش از ۲۰ صرافی با استفاده از کتابخانه CCXT. از spot، futures، OHLCV، موجودی‌ها، سفارشات و موارد دیگر پشتیبانی می‌کند.
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - یکپارچه‌سازی با Yahoo Finance برای دریافت داده‌های بازار سهام شامل توصیه‌های آپشن‌ها
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - یکپارچه‌سازی با Tastyworks API برای مدیریت فعالیت‌های معاملاتی در Tastytrade
@@ -796,7 +809,7 @@
 - [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) 📇 ☁️ - به داده‌های بازی بی‌درنگ در عناوین محبوبی مانند League of Legends، TFT و Valorant دسترسی پیدا کنید و تحلیل‌های قهرمانان، برنامه‌های eSports، ترکیب‌های متا و آمار شخصیت‌ها را ارائه می‌دهد.
 - [pab1ito/chess-mcp](https://github.com/pab1it0/chess-mcp) 🐍 ☁️ - به داده‌های بازیکن Chess.com، سوابق بازی و سایر اطلاعات عمومی از طریق رابط‌های استاندارد MCP دسترسی پیدا کنید و به دستیاران هوش مصنوعی امکان جستجو و تحلیل اطلاعات شطرنج را می‌دهد.
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - یک سرور MCP برای داده‌های بی‌درنگ Fantasy Premier League و ابزارهای تحلیل.
-- [sonirico/mpc-stockfish](https://github.com/sonirico/mcp-stockfish) - 🏎️ 🏠 🍎 🪟 🐧️ سرور MCP که سیستم‌های هوش مصنوعی را به موتور شطرنج Stockfish متصل می‌کند.
+- [sonirico/mcp-stockfish](https://github.com/sonirico/mcp-stockfish) - 🏎️ 🏠 🍎 🪟 🐧️ سرور MCP که سیستم‌های هوش مصنوعی را به موتور شطرنج Stockfish متصل می‌کند.
 - [stefan-xyz/mcp-server-runescape](https://github.com/stefan-xyz/mcp-server-runescape) 📇 - یک سرور MCP با ابزارهایی برای تعامل با داده‌های RuneScape (RS) و Old School RuneScape (OSRS)، شامل قیمت آیتم‌ها، امتیازات بازیکنان و موارد دیگر.
 - [tomholford/mcp-tic-tac-toe](https://github.com/tomholford/mcp-tic-tac-toe) 🏎️ 🏠 - با استفاده از این سرور MCP در برابر یک حریف هوش مصنوعی Tic Tac Toe بازی کنید.
 
@@ -983,7 +996,7 @@
 - [kimdonghwi94/Web-Analyzer-MCP](https://github.com/kimdonghwi94/web-analyzer-mcp) 🐍 🏠 🍎 🪟 🐧 - محتوای وب تمیز را برای RAG استخراج می‌کند و پرسش و پاسخ در مورد صفحات وب را فراهم می‌کند.
 - [webscraping-ai/webscraping-ai-mcp-server](https://github.com/webscraping-ai/webscraping-ai-mcp-server) 🎖️ 📇 ☁️ - با [WebScraping.ai](https://webscraping.ai) برای استخراج و خراشیدن داده‌های وب تعامل داشته باشید.
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - سرور MCP که وضعیت Baseline را با استفاده از Web Platform API جستجو می‌کند
-- [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - این یک سرور MCP مبتنی بر TypeScript است که عملکرد جستجوی DuckDuckGo را فراهم می‌کند.
+- [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mcp-server/) 📇 🏠 ☁️ - این یک سرور MCP مبتنی بر TypeScript است که عملکرد جستجوی DuckDuckGo را فراهم می‌کند.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - کوئری اطلاعات دارایی شبکه توسط سرور MCP ZoomEye
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - بهترین موتور جستجوی افراد که زمان صرف شده برای کشف استعداد را کاهش می‌دهد
 - [imprvhub/mcp-domain-availability](https://github.com/imprvhub/mcp-domain-availability) 🐍 ☁️ - یک سرور Model Context Protocol (MCP) که به Claude Desktop امکان بررسی در دسترس بودن دامنه را در بیش از ۵۰ TLD می‌دهد. دارای تأیید DNS/WHOIS، بررسی دسته‌ای و پیشنهادات هوشمند است. نصب بدون-کلون از طریق uvx.
@@ -1226,7 +1239,7 @@
 - [quarkiverse/mcp-server-jfx](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jfx) ☕ 🏠 - روی بوم JavaFX نقاشی کنید.
 - [QuentinCody/shopify-storefront-mcp-server](https://github.com/QuentinCody/shopify-storefront-mcp-server) 🐍 ☁️ - سرور MCP غیر رسمی که به عامل‌های هوش مصنوعی امکان کشف ویترین‌های Shopify و تعامل با آنها را برای دریافت محصولات، مجموعه‌ها و سایر داده‌های فروشگاه از طریق Storefront API می‌دهد.
 - [r-huijts/ethics-check-mcp](https://github.com/r-huijts/ethics-check-mcp) 🐍 🏠 - سرور MCP برای تحلیل اخلاقی جامع مکالمات هوش مصنوعی، شناسایی سوگیری، محتوای مضر و ارائه ارزیابی‌های تفکر انتقادی با یادگیری الگوی خودکار
-- [rae-api-com/rae-mcp](https://github.com/rae-api-com/rae-mcp) - 🏎️ ☁️ 🍎 🪟 🐧 سرور MPC برای اتصال مدل مورد علاقه شما به https://rae-api.com، فرهنگ لغت آکادمی سلطنتی اسپانیا
+- [rae-api-com/rae-mcp](https://github.com/rae-api-com/rae-mcp) - 🏎️ ☁️ 🍎 🪟 🐧 سرور MCP برای اتصال مدل مورد علاقه شما به https://rae-api.com، فرهنگ لغت آکادمی سلطنتی اسپانیا
 - [Rai220/think-mcp](https://github.com/Rai220/think-mcp) 🐍 🏠 - قابلیت‌های استدلال هر عاملی را با یکپارچه‌سازی think-tools، همانطور که در [مقاله Anthropic](https://www.anthropic.com/engineering/claude-think-tool) توضیح داده شده است، افزایش می‌دهد.
 - [reeeeemo/ancestry-mcp](https://github.com/reeeeemo/ancestry-mcp) 🐍 🏠 - به هوش مصنوعی اجازه می‌دهد فایل‌های .ged و داده‌های ژنتیکی را بخواند
 - [rember/rember-mcp](https://github.com/rember/rember-mcp) 📇 🏠 - فلش‌کارت‌های تکرار با فاصله در [Rember](https://rember.com) ایجاد کنید تا هر چیزی را که در چت‌های خود یاد می‌گیرید به خاطر بسپارید.

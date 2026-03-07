@@ -152,6 +152,7 @@ Acesso e recursos de automação de conteúdo web. Permite pesquisar, extrair e 
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - Um servidor MCP em python usando Playwright para automação de navegador, mais adequado para LLM
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - Automatize interações do navegador na nuvem (por exemplo, navegação web, extração de dados, preenchimento de formulários e mais)
 - [browsermcp/mcp](https://github.com/browsermcp/mcp) 📇 🏠 - Automatize seu navegador Chrome local
+- [brutalzinn/simple-mcp-selenium](https://github.com/brutalzinn/simple-mcp-selenium) 📇 🏠 - Um servidor MCP Selenium para controlar navegadores usando linguagem natural no Cursor IDE. Perfeito para testes, automação e cenários multiusuário.
 - [co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🐍 - browser-use empacotado como um servidor MCP com transporte SSE. Inclui um dockerfile para executar o chromium em docker + um servidor vnc.
 - [executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 📇 - Um servidor MCP usando Playwright para automação de navegador e raspagem web
 - [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) 📇 🏠 - Um servidor MCP pareado com uma extensão de navegador que permite clientes LLM controlar o navegador do usuário (Firefox).
@@ -170,6 +171,7 @@ Acesso e recursos de automação de conteúdo web. Permite pesquisar, extrair e 
 
 Integração de serviços de plataforma em nuvem. Permite o gerenciamento e interação com infraestrutura e serviços em nuvem.
 
+- [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - Servidor MCP para o ecossistema Rancher com operações Kubernetes multi-cluster, gestão do Harvester HCI (VMs, armazenamento e redes) e ferramentas de Fleet GitOps.
 - [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - integra-se com a biblioteca fastmcp para expor toda a gama de funcionalidades da API NebulaBlock como ferramentas acessíveis。
 - [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - Uma implementação de servidor MCP para 4EVERLAND Hosting permitindo implantação instantânea de código gerado por IA em redes de armazenamento descentralizadas como Greenfield, IPFS e Arweave.
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - Um MCP construído com produtos Qiniu Cloud, suportando acesso ao Armazenamento Qiniu Cloud, serviços de processamento de mídia, etc.
@@ -206,6 +208,7 @@ Agentes de codificação completos que permitem LLMs ler, editar e executar cód
 
 Execute comandos, capture saída e interaja de outras formas com shells e ferramentas de linha de comando.
 
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - Servidor MCP para integração com o assistente de IA [OpenClaw](https://github.com/openclaw/openclaw). Permite que o Claude delegue tarefas a agentes OpenClaw com ferramentas síncronas/assíncronas, autenticação OAuth 2.1 e transporte SSE para Claude.ai.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - Um servidor de Protocolo de Contexto de Modelo que fornece acesso ao iTerm. Você pode executar comandos e fazer perguntas sobre o que você vê no terminal iTerm.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - Execute qualquer comando com as ferramentas `run_command` e `run_script`.
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - Interpretador Python seguro baseado no `LocalPythonExecutor` do HF Smolagents
@@ -225,6 +228,7 @@ Integração com plataformas de comunicação para gerenciamento de mensagens e 
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) 🏠 🍎 🚀 - Um servidor MCP que se conecta de forma segura ao seu banco de dados iMessage via Protocolo de Contexto de Modelo (MCP), permitindo que LLMs consultem e analisem conversas do iMessage. Inclui validação robusta de números de telefone, processamento de anexos, gerenciamento de contatos, manipulação de bate-papo em grupo e suporte completo para envio e recebimento de mensagens.
 - [chaindead/telegram-mcp](https://github.com/chaindead/telegram-mcp) 🏎️ 🏠 - Integração com a API do Telegram para acessar dados do usuário, gerenciar diálogos (chats, canais, grupos), recuperar mensagens e lidar com status de leitura
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) 🐍 ☁️ - Um servidor MCP para Inbox Zero. Adiciona funcionalidades ao Gmail, como descobrir quais e-mails você precisa responder ou acompanhar.
+- [FastAlertNow/mcp-server](https://github.com/FastAlertNow/mcp-server) 🎖️ 📇 ☁️ - Servidor oficial Model Context Protocol (MCP) para FastAlert. Este servidor permite que agentes de IA (como Claude, ChatGPT e Cursor) listem seus canais e enviem notificações diretamente através da API FastAlert.
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) 🚀 ☁️ - Uma aplicação servidora MCP que envia vários tipos de mensagens para o robô de grupo WeCom.
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - Um servidor MCP que fornece acesso seguro ao seu banco de dados iMessage através do Protocolo de Contexto de Modelo (MCP), permitindo que LLMs consultem e analisem conversas iMessage com validação adequada de números de telefone e tratamento de anexos
 - [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host) 🐍 🏠 - Um servidor MCP junto com um host MCP que fornece acesso a equipes, canais e mensagens do Mattermost. O host MCP é integrado como um bot no Mattermost com acesso a servidores MCP que podem ser configurados.
@@ -283,6 +287,7 @@ Ferramentas e integrações que aprimoram o fluxo de trabalho de desenvolvimento
 
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - Publica um amplo catálogo de prompts de assistentes de código como ferramentas MCP, com recomendações sensíveis ao modelo e ativação de persona para simular agentes como Cursor ou Devin.
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - Crie componentes UI refinados inspirados pelos melhores engenheiros de design da 21st.dev.
+- [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - Servidor de análise de qualidade de código iOS e automação de testes. Fornece execução abrangente de testes Xcode, integração SwiftLint e análise detalhada de falhas. Opera nos modos CLI e servidor MCP para uso direto por desenvolvedores e integração com assistentes de IA.
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - Integração com o sistema de gerenciamento de testes [QA Sphere](https://qasphere.com/), permitindo que LLMs descubram, resumam e interajam com casos de teste diretamente de IDEs com IA
 - [admica/FileScopeMCP](https://github.com/admica/FileScopeMCP) 🐍 📇 🦀 - Analisa sua base de código identificando arquivos importantes com base em relacionamentos de dependência. Gera diagramas e pontuações de importância, ajudando assistentes de IA a entender a base de código.
 - [ambar/simctl-mcp](https://github.com/ambar/simctl-mcp) 📇 🏠 🍎 Uma implementação de servidor MCP para controle de Simulador iOS.
@@ -298,6 +303,7 @@ Ferramentas e integrações que aprimoram o fluxo de trabalho de desenvolvimento
 - [public-ui/kolibri](https://github.com/public-ui/kolibri) 📇 ☁️ 🏠 - Servidor MCP KoliBri com streaming (NPM: `@public-ui/mcp`) que entrega mais de 200 exemplos, especificações, docs e cenários de componentes web com acessibilidade garantida via endpoint HTTP hospedado ou CLI local `kolibri-mcp`.
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - O servidor Unitree Go2 MCP é um servidor construído sobre o MCP que permite aos usuários controlar o robô Unitree Go2 usando comandos em linguagem natural interpretados por um modelo de linguagem grande (LLM).
 - [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Servidor MCP de renderização de diagramas Mermaid para Claude Code com funcionalidade de recarga ao vivo, suportando múltiplos formatos de exportação (SVG, PNG, PDF) e temas.
+- [selvage-lab/selvage](https://github.com/selvage-lab/selvage) 🐍 🏠 - Servidor MCP de revisão de código baseado em LLM com extração inteligente de contexto baseada em AST. Suporta Claude, GPT, Gemini e mais de 20 modelos via OpenRouter.
 
 ### 🧮 <a name="ferramentas-de-ciência-de-dados"></a>Ferramentas de Ciência de Dados
 
@@ -313,6 +319,8 @@ Integrações e ferramentas desenvolvidas para simplificar a exploração de dad
 
 Fornece acesso a documentação e atalhos para trabalhar em dispositivos embarcados.
 
+- [adancurusul/embedded-debugger-mcp](https://github.com/adancurusul/embedded-debugger-mcp) 🦀 📟 - Um servidor de protocolo de contexto de modelo para depuração embarcada com probe-rs - suporta depuração ARM Cortex-M, RISC-V via J-Link, ST-Link e mais
+- [adancurusul/serial-mcp-server](https://github.com/adancurusul/serial-mcp-server) 🦀 📟 - Um servidor MCP abrangente para comunicação de porta serial
 - [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - Fluxo de trabalho para corrigir problemas de compilação em chips da série ESP32 usando ESP-IDF.
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - Um robô super kawaii embarcado em M5Stack com JavaScript e funcionalidade de servidor MCP para interações e emoções controladas por IA.
 
@@ -345,6 +353,7 @@ Acesso a dados financeiros e ferramentas de análise. Permite que modelos de IA 
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - Pontuação de risco / participações de ativos de endereço de blockchain EVM (EOA, CA, ENS) e até mesmo nomes de domínio.
 - [bitteprotocol/mcp](https://github.com/BitteProtocol/mcp) 📇 - Integração com o Bitte Protocol para executar Agentes de IA em várias blockchains.
 - [chargebee/mcp](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) 🎖️ 📇 ☁️ - Servidor MCP que conecta agentes de IA à [plataforma Chargebee](https://www.chargebee.com/).
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - Swaps cross-chain e bridging entre blockchains EVM e Solana via protocolo deBridge. Permite que agentes de IA descubram rotas otimizadas, avaliem taxas e iniciem negociações sem custódia.
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - Servidor MCP conectado à plataforma CRIC Wuye AI. O CRIC Wuye AI é um assistente inteligente desenvolvido pela CRIC especialmente para o setor de gestão de propriedades.
 - [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - Um servidor MCP que fornece acesso completo aos métodos JSON-RPC da Máquina Virtual Ethereum (EVM). Funciona com qualquer provedor de nó compatível com EVM, incluindo Infura, Alchemy, QuickNode, nós locais e muito mais.
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - Um servidor MCP que fornece dados de mercado de previsão em tempo real de múltiplas plataformas incluindo Polymarket, PredictIt e Kalshi. Permite que assistentes de IA consultem probabilidades atuais, preços e informações de mercado através de uma interface unificada.
