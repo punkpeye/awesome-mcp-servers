@@ -343,6 +343,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp/) 🐍 ☁️ - 用於即時 Fantasy Premier League 數據和分析工具的 MCP 伺服器。
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) 📇 #️⃣ 🏠 - Unity3d 遊戲引擎集成 MCP 伺服器
 - [opgginc/opgg-mcp](https://github.com/opgginc/opgg-mcp) 📇 ☁️ - 訪問英雄聯盟、雲頂之弈、無界英雄等熱門遊戲的即時遊戲數據，提供英雄分析、電競賽程、元組合和角色統計。
+- [opanel-mc/opanel-mcp](https://github.com/opanel-mc/opanel-mcp) 📇 ☁️ - OPanel伺服器管理面板集成MCP伺服器，用於大模型輔助管理Minecraft伺服器
 
 ### 🧠 <a name="knowledge--memory"></a>知識與記憶
 
