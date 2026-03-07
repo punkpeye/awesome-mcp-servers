@@ -1779,7 +1779,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
-> - [Nyrok/flompt](https://github.com/Nyrok/flompt) 🐍 ☁️ - Visual AI prompt builder MCP server. Decompose any prompt into 12 semantic blocks and compile to Claude-optimized XML. Tools: `decompose_prompt`, `compile_prompt`. Setup: `claude mcp add flompt https://flompt.dev/mcp/`
+> - [Nyrok/flompt](https://github.com/Nyrok/flompt) [glama](https://glama.ai/mcp/servers/@nyrok/flompt) 🐍 ☁️ - Visual AI prompt builder MCP server. Decompose any prompt into 12 semantic blocks and compile to Claude-optimized XML. Tools: `decompose_prompt`, `compile_prompt`. Setup: `claude mcp add flompt https://flompt.dev/mcp/`
 
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK in Rust
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
