@@ -100,6 +100,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 🧮 - [Data Science Tools](#data-science-tools)
 * 📟 - [Embedded system](#embedded-system)
+* 🎓 - [Education](#education)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
@@ -883,6 +884,12 @@ Provides access to documentation and shortcuts for working on embedded devices.
 - [kukapay/opcua-mcp](https://github.com/kukapay/opcua-mcp) 🐍 📟 - An MCP server that connects to OPC UA-enabled industrial systems.
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - A JavaScript-driven M5Stack-embedded super-kawaii robot with MCP server functionality for AI-controlled interactions and emotions.
 - [yoelbassin/gnuradioMCP](https://github.com/yoelbassin/gnuradioMCP) 🐍 📟 🏠 - An MCP server for GNU Radio that enables LLMs to autonomously create and modify RF `.grc` flowcharts.
+
+### 🎓 <a name="education"></a>Education
+
+MCP servers for learning management systems (LMS) and educational tools.
+
+- [RohanMuppa/brightspace-mcp-server](https://github.com/RohanMuppa/brightspace-mcp-server) [glama](https://glama.ai/mcp/servers/@RohanMuppa/brightspace-mcp-server) 📇 🏠 🍎 🪟 🐧 - MCP server for D2L Brightspace LMS. Check grades, due dates, assignments, announcements, syllabus, rosters, discussions, and course content. Works with any school that uses Brightspace. Install via `npx brightspace-mcp-server@latest`.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
