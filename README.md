@@ -1811,3 +1811,5 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
+
+- **[Humanizer PRO](https://github.com/khadinakbaronline/humanizer-pro-mcp)** - AI text humanizer MCP server that transforms AI-generated content into natural, human-sounding text. Supports stealth, academic, and SEO modes with AI detection scanning. [Website](https://texthumanizer.pro)
