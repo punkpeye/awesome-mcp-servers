@@ -1058,6 +1058,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [softvoyagers/fakturka-api](https://github.com/softvoyagers/fakturka-api) 📇 ☁️ - Free Polish VAT invoice generator API (Faktura VAT) with PDF output and preview. No API key required.
 - [tatumio/blockchain-mcp](https://github.com/tatumio/blockchain-mcp) ☁️ - MCP server for Blockchain Data. It provides access to Tatum's blockchain API across 130+ networks with tools including RPC Gateway and Blockchain Data insights.
 - [ThomasMarches/substrate-mcp-rs](https://github.com/ThomasMarches/substrate-mcp-rs) 🦀 🏠 - An MCP server implementation to interact with Substrate-based blockchains. Built with Rust and interfacing the [subxt](https://github.com/paritytech/subxt) crate.
+- [theagoralabs/mcp](https://github.com/theagoralabs/mcp) 📇 ☁️ - AI agent marketplace — buy and sell services with atomic escrow, 4-layer cryptographic verification, per-function reputation, and an order book exchange.
 - [tooyipjee/yahoofinance-mcp](https://github.com/tooyipjee/yahoofinance-mcp.git) 📇 ☁️ - TS version of yahoo finance mcp.
 - [traceloop/opentelemetry-mcp-server](https://github.com/traceloop/opentelemetry-mcp-server.git) - 🐍🏠 - An MCP server for connecting to any OpenTelemetry backend (Datadog, Grafana, Dynatrace, Traceloop, etc.).
 - [Trade-Agent/trade-agent-mcp](https://github.com/Trade-Agent/trade-agent-mcp.git) 🎖️ ☁️ - Trade stocks and crypto on common brokerages (Robinhood, E*Trade, Coinbase, Kraken) via Trade Agent's MCP server.
