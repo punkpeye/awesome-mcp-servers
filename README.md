@@ -281,7 +281,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [softvoyagers/pageshot-api](https://github.com/softvoyagers/pageshot-api) 📇 ☁️ - Free webpage screenshot capture API with format, viewport, and dark mode options. No API key required.
 - [User0856/snaprender-mcp](https://github.com/User0856/snaprender-integrations/tree/main/mcp-server) [glama](https://glama.ai/mcp/servers/@User0856/snaprender-mcp) 📇 ☁️ - Screenshot API for AI agents — capture any website as PNG, JPEG, WebP, or PDF with device emulation, dark mode, ad blocking, and cookie banner removal. Free tier included.
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
-- [freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp) 📇 🏠 ☁️ - Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.
+- [PrinceGabriel-lgtm/freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp) [glama]((https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp)) - Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
 Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
