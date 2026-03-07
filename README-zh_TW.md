@@ -398,6 +398,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 ### 🔎 <a name="search"></a>搜尋
 
+- [ScrapeGraphAI/scrapegraph-mcp](https://github.com/ScrapeGraphAI/scrapegraph-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 透過 [ScrapeGraph AI](https://scrapegraphai.com/) API 實現 AI 驅動的網頁抓取。Markdown 轉換、智能提取、搜尋、多頁爬取和代理工作流。支援遠端優先或本機執行。相容 Claude Desktop、Cursor 和 [Smithery](https://smithery.ai/server/@ScrapeGraphAI/scrapegraph-mcp)。
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless模型上下文協議服務作為MCP伺服器連接器，連接到Google SERP API，使得在MCP生態系統內無需離開即可進行網頁搜索。
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) 📇 ☁️ - 使用 Brave 的搜尋 API 實現網頁搜尋功能
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - Dappier 的 MCP 伺服器可讓 AI 代理快速免費地進行即時網頁搜尋，並存取來自可靠媒體品牌的新聞、金融市場、體育、娛樂、天氣等高品質資料。
