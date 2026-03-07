@@ -1784,6 +1784,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - Allows AI models to interact with [HackMD](https://hackmd.io)
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) - MCP server providing date and time functions in various formats
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
+- [arthurpanhku/Arthor-Agent](https://github.com/arthurpanhku/Arthor-Agent) 🐍 - Security assessment agent built with LangChain, supporting RAG, local LLMs (Ollama), and MCP integration.
 ## Frameworks
 
 > [!NOTE]
