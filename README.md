@@ -104,6 +104,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [Gaming](#gaming)
+* 🏛️ - [Government & Public Data](#government-and-public-data)
 * 🏠 - [Home Automation](#home-automation)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
@@ -1097,6 +1098,23 @@ Integration with gaming related data, game engines, and services
 - [tomholford/mcp-tic-tac-toe](https://github.com/tomholford/mcp-tic-tac-toe) 🏎️ 🏠 - Play Tic Tac Toe against an AI opponent using this MCP server.
 - [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) 📇 🏠 🍎 🪟 🐧 - Premium MCP server for Godot game engine with 84 tools for scene editing, scripting, animation, tilemap, shader, input simulation, and runtime debugging.
 
+### 🏛️ <a name="government-and-public-data"></a>Government & Public Data
+
+Access US government APIs and public data sources. Enables AI models to query federal agencies for safety recalls, disaster alerts, financial filings, environmental data, and more.
+
+- [martc03/business-entity-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/business-entity-mcp) 📇 ☁️ - Company registries and SEC company search for business entity lookups.
+- [martc03/competitive-intel-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/competitive-intel-mcp) 📇 ☁️ - Competitive intelligence aggregating company filings, news, contracts, and profiles.
+- [martc03/court-records-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/court-records-mcp) 📇 ☁️ - Federal court opinions, dockets, and judge directory via CourtListener API.
+- [martc03/environmental-compliance-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/environmental-compliance-mcp) 📇 ☁️ - EPA air quality data and HUD foreclosure listings for environmental compliance.
+- [martc03/federal-financial-intel-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/federal-financial-intel-mcp) 📇 ☁️ - SEC EDGAR filings, BLS employment statistics, and USDA crop prices.
+- [martc03/gov-contracts-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/gov-contracts-mcp) 📇 ☁️ - SAM.gov contract opportunities, USAspending data, and entity lookup.
+- [martc03/grant-finder-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/grant-finder-mcp) 📇 ☁️ - Grants.gov opportunities, agency search, and funding filters.
+- [martc03/immigration-travel-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/immigration-travel-mcp) 📇 ☁️ - Visa wait times, border crossing times, and FAA airport delay data.
+- [martc03/natural-disaster-intel-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/natural-disaster-intel-mcp) 📇 ☁️ - FEMA disaster declarations, NOAA weather alerts, and USGS earthquake data.
+- [martc03/public-health-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/public-health-mcp) 📇 ☁️ - CDC open data and WHO health indicators for public health intelligence.
+- [martc03/regulatory-monitor-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/regulatory-monitor-mcp) 📇 ☁️ - Federal Register documents, public inspection, and agency listings for regulatory change monitoring.
+- [martc03/us-safety-recalls-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/us-safety-recalls-mcp) 📇 ☁️ - NHTSA vehicle recalls, FDA product recalls, and CFPB consumer complaints.
+
 ### 🏠 <a name="home-automation"></a>Home Automation
 
 Control smart home devices, home network equipment, and automation systems.
@@ -1473,6 +1491,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [ndl-systems/kevros-mcp](https://github.com/ndl-systems/kevros-mcp) [glama](https://glama.ai/mcp/servers/@ndl-systems/kevros-mcp) 🐍 ☁️ - Governance primitives for autonomous agents — verify actions against policy, record signed provenance, and bind intents cryptographically. Free tier: 100 calls/month.
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) ☕ 🏠 - A Model Context Protocol server for Ghidra that enables LLMs to autonomously reverse engineer applications. Provides tools for decompiling binaries, renaming methods and data, and listing methods, classes, imports, and exports.
 - [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) ☁️ - Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the agent with tools it would never use in its normal work.
+- [martc03/cybersecurity-vuln-mcp](https://github.com/martc03/gov-mcp-servers/tree/main/servers/cybersecurity-vuln-mcp) 📇 ☁️ - Enriched CVE lookup combining NIST NVD, CISA KEV, FIRST.org EPSS, and MITRE ATT&CK data in parallel for comprehensive vulnerability intelligence.
 - [mobb-dev/mobb-vibe-shield-mcp](https://github.com/mobb-dev/bugsy?tab=readme-ov-file#model-context-protocol-mcp-server) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - [Mobb Vibe Shield](https://vibe.mobb.ai/) identifies and remediates vulnerabilities in both human and AI-written code, ensuring your applications remain secure without slowing development.
 - [MoltyCel/moltrust-mcp-server](https://github.com/MoltyCel/moltrust-mcp-server) [glama](https://glama.ai/mcp/servers/@MoltyCel/moltrust-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - Trust infrastructure for AI agents — register DIDs, verify identities, query reputation scores, rate agents, manage W3C Verifiable Credentials, and handle USDC credit deposits on Base.
 - [msaad00/agent-bom](https://github.com/msaad00/agent-bom) [glama](https://glama.ai/mcp/servers/@msaad00/agent-bom) 🐍 🏠 ☁️ 🍎 🪟 🐧 - AI supply chain security scanner with 18 MCP tools. Auto-discovers 20 MCP clients, scans dependencies for CVEs (OSV/NVD/EPSS/CISA KEV), maps blast radius from vulnerabilities to exposed credentials and tools, runs CIS benchmarks, generates CycloneDX/SPDX SBOMs, and enforces compliance across OWASP LLM Top 10, MITRE ATLAS, NIST AI RMF, and EU AI Act.
