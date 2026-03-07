@@ -609,6 +609,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [Osseni94/oyemi-mcp](https://github.com/Osseni94/oyemi-mcp) 🐍 🏠 - Deterministic semantic word encoding and valence/sentiment analysis using 145K+ word lexicon. Provides word-to-code mapping, semantic similarity, synonym/antonym lookup with zero runtime NLP dependencies.
 - [paracetamol951/caisse-enregistreuse-mcp-server](https://github.com/paracetamol951/caisse-enregistreuse-mcp-server) 🏠 🐧 🍎 ☁️ - Allows you to automate or monitor business operations, sales recorder, POS software, CRM.
 - [saikiyusuke/registep-mcp](https://github.com/saikiyusuke/registep-mcp) 📇 ☁️ - AI-powered POS & sales analytics MCP server with 67 tools for Airレジ, スマレジ, and BASE EC integration. Provides store management, sales data querying, AI chat analysis, and weather correlation features.
+- [shailesht003/vesh-agents](https://github.com/shailesht003/vesh-agents) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Agentic revenue intelligence MCP server with 6 tools. Extract from CSV, Stripe, or Postgres; resolve entities across sources; compute SaaS metrics (MRR, churn, ARPU, NRR); detect anomalies; and explain root causes with any LLM.
 - [yashshingvi/databricks-genie-MCP](https://github.com/yashshingvi/databricks-genie-MCP) 🐍 ☁️ - A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.
 
 
