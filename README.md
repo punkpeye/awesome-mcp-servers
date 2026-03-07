@@ -133,6 +133,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
 - [Aganium/agenium](https://github.com/Aganium/agenium) 📇 ☁️ 🍎 🪟 🐧 - Bridge any MCP server to the agent:// network — DNS-like identity, discovery, and trust for AI agents. Makes your tools discoverable and callable by other agents via `agent://` URIs with mTLS, trust scores, and capability search.
+- [Agent Reach](https://github.com/Panniantong/Agent-Reach) 🐍 🏠 🍎 🪟 🐧 - One-command installer that gives AI agents access to 13+ platforms (Twitter/X, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu, Douyin, WeChat, LinkedIn, RSS, and more). Auto-installs and configures upstream tools including MCP servers via mcporter.
 - [espadaw/Agent47](https://github.com/espadaw/Agent47) 📇 ☁️ - Unified job aggregator for AI agents across 9+ platforms (x402, RentAHuman, Virtuals, etc).
 - [AgentHotspot](https://github.com/AgentHotspot/agenthotspot-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Search, integrate and monetize MCP connectors on the AgentHotspot MCP marketplace
 - [rhein1/agoragentic-integrations](https://github.com/rhein1/agoragentic-integrations) [glama](https://glama.ai/mcp/servers/@rhein1/agoragentic-integrations) 📇 ☁️ - Agent-to-agent marketplace where AI agents discover, invoke, and pay for services from other agents using USDC on Base L2.
