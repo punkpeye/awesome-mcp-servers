@@ -1108,6 +1108,7 @@ Control smart home devices, home network equipment, and automation systems.
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
+- [XiaoYijiang-c/lunar-mcp](https://github.com/XiaoYijiang-c/lunar-mcp) 🏎️ ☁️ 🏠 🐧 - 🍎 🪟 Chinese Calendar MCP Server with 28+ tools for lunar date, bazi (八字), fortune telling, I Ching (易经), and more. Perfect for AI agents needing traditional Chinese calendar capabilities.
 - [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI Summarization MCP Server, Support for multiple content types: Plain text, Web pages, PDF documents, EPUB books, HTML content
 - [20alexl/mini_claude](https://github.com/20alexl/mini_claude) 🐍 🏠 - Persistent memory and guardrails for Claude Code. Features mistake tracking, loop detection, scope guard, and hooks that block risky edits. Runs locally with Ollama.
 - [agentic-mcp-tools/memora](https://github.com/agentic-mcp-tools/memora) 🐍 🏠 ☁️ - Persistent memory with knowledge graph visualization, semantic/hybrid search, cloud sync (S3/R2), and cross-session context management.
