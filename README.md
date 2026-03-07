@@ -1500,6 +1500,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [takleb3rry/zitadel-mcp](https://github.com/takleb3rry/zitadel-mcp) 📇 ☁️ 🏠 - MCP server for Zitadel identity management — manage users, projects, OIDC apps, roles, and service accounts through natural language.
 - [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) ☕ 🏠 - JADX-AI-MCP is a plugin and MCP Server for the JADX decompiler that integrates directly with Model Context Protocol (MCP) to provide live reverse engineering support with LLMs like Claude.
 - [loglux/authmcp-gateway](https://github.com/loglux/authmcp-gateway) [glama](https://glama.ai/mcp/servers/@loglux/auth-mcp-gateway) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Auth proxy for MCP servers: OAuth2 + DCR, JWT, RBAC, rate limiting, multi-server aggregation, and monitoring dashboard.
+- [jstibal/openterms-mcp](https://github.com/jstibal/openterms-mcp) 🐍 ☁️ - Ed25519-signed consent receipts and programmable policy engine for AI agents. Spending caps, action whitelists, escalation thresholds, and JWKS-backed provider verification. Independently verifiable.
   
 ### 🌐 <a name="social-media"></a>Social Media
 
