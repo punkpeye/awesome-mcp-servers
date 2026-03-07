@@ -413,6 +413,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 Run commands, capture output and otherwise interact with shells and command line tools.
 
 - [danmartuszewski/hop](https://github.com/danmartuszewski/hop) 🏎️ 🖥️ - Fast SSH connection manager with TUI dashboard and MCP server for discovering, searching, and executing commands on remote hosts.
+- [ricardo-hdrn/mcp-await](https://github.com/ricardo-hdrn/mcp-await) 🦀 🏠 - Condition watcher for AI CLI assistants — block until a port opens, a file changes, a URL responds, a process exits, and more. Replaces sleep loops and polling scripts with a single MCP tool call.
 
 ### 💬 <a name="communication"></a>Communication
 
