@@ -1,4 +1,4 @@
-# Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -1578,6 +1578,7 @@ Interact with Git repositories and version control platforms. Enables repository
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
 
+- [Mattbusel/tokio-prompt-orchestrator](https://github.com/Mattbusel/tokio-prompt-orchestrator) 🦀 - Production-grade multi-core Tokio orchestrator for LLM pipelines with circuit breakers, deduplication, rate limiting, and backpressure — zero panics, 1.5:1 test ratio.
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK in Rust
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
