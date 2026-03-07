@@ -1353,6 +1353,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [dealx/mcp-server](https://github.com/DealExpress/mcp-server) ☁️ - MCP Server for DealX platform
 - [devflowinc/trieve](https://github.com/devflowinc/trieve/tree/main/clients/mcp-server) 🎖️ 📇 ☁️ 🏠 - Crawl, embed, chunk, search, and retrieve information from datasets through [Trieve](https://trieve.ai)
 - [dorukardahan/domain-search-mcp](https://github.com/dorukardahan/domain-search-mcp) 📇 ☁️ - Fast domain availability aggregator with pricing. Checks Porkbun, Namecheap, GoDaddy, RDAP & WHOIS. Includes bulk search, registrar comparison, AI-powered suggestions, and social media handle checking.
+- [dreamingms/kael-mcp-server](https://github.com/dreamingms/kael-mcp-server) 📇 ☁️ - AI-native tool server with 16 tools including web fetch, screenshot, search, PDF extract, DNS, WHOIS, IP geo, code execution, and more. Live SSE endpoint — designed for AI agents where cheap compute beats expensive tokens.
 - [Dumpling-AI/mcp-server-dumplingai](https://github.com/Dumpling-AI/mcp-server-dumplingai) 🎖️ 📇 ☁️ - Access data, web scraping, and document conversion APIs by [Dumpling AI](https://www.dumplingai.com/)
 - [emicklei/melrose-mcp](https://github.com/emicklei/melrose-mcp) 🏎️ 🏠 - Plays [Melrōse](https://melrōse.org) music expressions as MIDI
 - [echology-io/decompose](https://github.com/echology-io/decompose) 🐍 🏠 🍎 🪟 🐧 - Decompose text into classified semantic units with authority, risk, attention scores, and entity extraction. No LLM. Deterministic. Works as MCP server or CLI.
