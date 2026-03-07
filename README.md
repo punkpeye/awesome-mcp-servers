@@ -544,6 +544,7 @@ Servers focused on interacting with local or remote file systems for reading, wr
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
 
+- [HCS412/ventureautomated](https://github.com/HCS412/ventureautomated) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis): Remote venture intelligence MCP for autonomous agents with startup discovery, company scoring, monitoring, and enterprise workspace automation.
 - [0xsl1m/cerebrus-pulse-mcp](https://github.com/0xsl1m/cerebrus-pulse-mcp): Real-time crypto intelligence for Hyperliquid perpetuals — RSI, EMAs, Bollinger Bands, funding rates, and sentiment for 30+ assets. Pay-per-call via x402 micropayments (USDC on Base).
 - [8144225309/superscalar-mcp](https://github.com/8144225309/superscalar-mcp): Bitcoin Lightning channel factory MCP server with 4 tools — protocol overview, UTXO savings estimator, architecture deep-dives (invalidation trees, timeout trees, MuSig2, watchtowers), and resource links. Based on SuperScalar, which onboards N users into one shared UTXO with no soft fork required.
 - [douglasborthwick-crypto/mcp-server-insumer](https://github.com/douglasborthwick-crypto/mcp-server-insumer): On-chain token verification and ECDSA-signed attestation across 31 EVM blockchains. 16 tools for AI agents to verify holdings, generate proofs, manage merchants, and process USDC payments.
@@ -1291,6 +1292,5 @@ Servers interacting with version control systems and platforms for repository ma
 - [KarakuriAgent/karakuri_git_mcp](https://github.com/KarakuriAgent/karakuri_git_mcp): Facilitates Git repository interaction and automation through a Model Context Protocol server, enabling operations like reading, searching, and manipulating repositories via Large Language Models.
 - [kwanLeeFrmVi/mcp-git](https://github.com/kwanLeeFrmVi/mcp-git): Facilitates Git repository interaction and automation through a Model Context Protocol server, enabling operations like reading, searching, and manipulating repositories via Large Language Models.
 - [rahul-roy-glean/github-mcp-server](https://github.com/rahul-roy-glean/github-mcp-server): Facilitates seamless integration with GitHub's API for file operations, repository management, and search functionalities within CI workflows.
-
 
 
