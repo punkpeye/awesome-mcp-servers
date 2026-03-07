@@ -409,6 +409,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇 🏠 🍎 🪟 🐧 - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files.
 - [x51xxx/codex-mcp-tool](https://github.com/x51xxx/codex-mcp-tool) 📇 ☁️ - MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
 - [x51xxx/copilot-mcp-server](https://github.com/x51xxx/copilot-mcp-server) 📇 ☁️ - MCP server that connects your IDE or AI assistant to GitHub Copilot CLI for code analysis, review, and batch processing
+- [IgorGanapolsky/rlhf-feedback-loop](https://github.com/IgorGanapolsky/rlhf-feedback-loop) 📇 🏠 ☁️ - RLHF feedback loop for AI coding agents. Captures thumbs up/down feedback, blocks repeated mistakes with auto-generated prevention rules, exports DPO training pairs for fine-tuning. 11 MCP tools including recall, capture, and analytics. Works with Claude, Codex, Gemini, Amp, Cursor.
 ### 🖥️ <a name="command-line"></a>Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
 
