@@ -916,6 +916,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
+- [hifriendbot/agentwallet-mcp](https://github.com/hifriendbot/agentwallet-mcp) 📇 ☁️ - Permissionless wallet infrastructure for AI agents. Create wallets, sign and broadcast transactions on any EVM chain and Solana, pay and accept x402 payments, DeFi interactions. No KYC. 29 tools. 31% less expensive than Coinbase.
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) 📇 ☁️ - Deep Research for crypto - free & fully local
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp) 🎖️ 🐍 ☁️ 🏠 - Access institutional-grade alternative financial data directly in your LLM workflows.
