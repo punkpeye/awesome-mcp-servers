@@ -245,6 +245,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts.
 - [agent-infra/mcp-server-browser](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser) 📇 🏠 - Browser automation capabilities using Puppeteer, both support local and remote browser connection.
+- [aparajithn/agent-scraper-mcp](https://github.com/aparajithn/agent-scraper-mcp) [glama](https://glama.ai/mcp/servers/@aparajithn/agent-scraper-mcp) 🐍 ☁️ - Web scraping MCP server for AI agents. 6 tools: clean content extraction, structured scraping with CSS selectors, full-page screenshots via Playwright, link extraction, metadata extraction (OG/Twitter cards), and Google search. Free tier with x402 micropayments.
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - An MCP server for browser automation using Playwright
 - [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) 🦀 Lightweight browser automation MCP server in Rust with zero dependencies.
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - An MCP python server using Playwright for browser automation,more suitable for llm
