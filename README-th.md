@@ -148,6 +148,7 @@
 
 การผสานรวมบริการแพลตฟอร์มคลาวด์ ช่วยให้สามารถจัดการและโต้ตอบกับโครงสร้างพื้นฐานและบริการคลาวด์
 
+- [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - MCP server สำหรับระบบนิเวศ Rancher รองรับการดำเนินงาน Kubernetes แบบหลายคลัสเตอร์ การจัดการ Harvester HCI (VM, storage, network) และเครื่องมือ Fleet GitOps
 - [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - ผสานการทำงานกับไลบรารี fastmcp เพื่อให้สามารถเข้าถึงฟังก์ชัน API ทั้งหมดของ NebulaBlock ได้ผ่านเครื่องมือ。
 
 - [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - การใช้งานเซิร์ฟเวอร์ MCP สำหรับ 4EVERLAND Hosting ที่ช่วยให้สามารถปรับใช้โค้ดที่สร้างด้วย AI บนเครือข่ายการจัดเก็บแบบกระจายศูนย์ เช่น Greenfield, IPFS และ Arweave ได้ทันที
