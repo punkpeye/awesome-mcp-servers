@@ -210,6 +210,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [omni-mcp/isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp) 📇 ☁️ - A MCP Server and an extension enables natural language control of NVIDIA Isaac Sim, Lab, OpenUSD and etc.
 - [PatrickPalmer/MayaMCP](https://github.com/PatrickPalmer/MayaMCP) 🐍 🏠 - MCP server for Autodesk Maya
 - [peek-travel/mcp-intro](https://github.com/peek-travel/mcp-intro) ☁️ 🍎 🪟 🐧 - Remote MCP Server for discovering and planning experiences, at home and on vacation
+- [doctorm333/promptpilot-mcp-server](https://github.com/doctorm333/promptpilot-mcp-server) 📇 ☁️ - Generate images, video, and audio via 20+ AI models (Flux, GPT-Image-1, Imagen 4, Grok, Seedance, ElevenLabs). Prompt builder with styles, lighting, camera, mood presets. Batch generation support.
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp) 📇 ☁️ - Oorlogsbronnen (War Sources) API integration for accessing historical WWII records, photographs, and documents from the Netherlands (1940-1945)
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - Rijksmuseum API integration for artwork search, details, and collections
 - [raveenb/fal-mcp-server](https://github.com/raveenb/fal-mcp-server) 🐍 ☁️ - Generate AI images, videos, and music using Fal.ai models (FLUX, Stable Diffusion, MusicGen) directly in Claude Desktop
