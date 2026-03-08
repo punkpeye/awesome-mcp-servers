@@ -172,6 +172,7 @@ Acesso e recursos de automação de conteúdo web. Permite pesquisar, extrair e 
 
 Integração de serviços de plataforma em nuvem. Permite o gerenciamento e interação com infraestrutura e serviços em nuvem.
 
+- [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - Servidor MCP para o ecossistema Rancher com operações Kubernetes multi-cluster, gestão do Harvester HCI (VMs, armazenamento e redes) e ferramentas de Fleet GitOps.
 - [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - integra-se com a biblioteca fastmcp para expor toda a gama de funcionalidades da API NebulaBlock como ferramentas acessíveis。
 - [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - Uma implementação de servidor MCP para 4EVERLAND Hosting permitindo implantação instantânea de código gerado por IA em redes de armazenamento descentralizadas como Greenfield, IPFS e Arweave.
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - Um MCP construído com produtos Qiniu Cloud, suportando acesso ao Armazenamento Qiniu Cloud, serviços de processamento de mídia, etc.
@@ -456,6 +457,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - Servidor MCP para dnstwist, uma poderosa ferramenta de fuzzing DNS que ajuda a detectar typosquatting, phishing e espionagem corporativa.
 - [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) 📇 🪟 ☁️ - Servidor MCP para maigret, uma poderosa ferramenta OSINT que coleta informações de contas de usuários de várias fontes públicas. Este servidor fornece ferramentas para pesquisar nomes de usuário em redes sociais e analisar URLs.
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - Servidor MCP para acessar o [Intruder](https://www.intruder.io/), ajudando você a identificar, entender e corrigir vulnerabilidades de segurança na sua infraestrutura.
+- [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ 🏠 - Um servidor nativo do Model Context Protocol para o Ghidra. Inclui configuração via interface gráfica, registro de logs, 31 ferramentas poderosas e nenhuma dependência externa.
 
 ### 🏃 <a name="esportes"></a>Esportes
