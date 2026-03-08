@@ -1818,6 +1818,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK in Rust
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
+- [junna-legal/mcp-starter-kit](https://github.com/junna-legal/mcp-starter-kit) 📇 - A production-ready MCP server template with authentication (API key + JWT), security hardening (SSRF, SQLi, path traversal protection), sql.js database layer (no native builds), and 250+ tests.
 - [vinkius-labs/mcp-fusion](https://github.com/vinkius-labs/mcp-fusion) 📇 [![Glama](https://glama.ai/mcp/servers/badge/@vinkius-labs/mcp-fusion)](https://glama.ai/mcp/servers/@vinkius-labs/mcp-fusion) - A TypeScript framework for building production-ready MCP servers with automatic tool discovery, multi-transport support (stdio/SSE/HTTP), built-in validation, and zero-config setup.
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 - AI Agents framework with 64+ built-in tools for search, memory, workflows, code execution, and file operations. Turn any AI assistant into a multi-agent system with MCP.
 
