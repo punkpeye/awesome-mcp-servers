@@ -497,6 +497,7 @@
 - [ROADRecon MCP 서버](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 Azure 테넌트 열거에서 ROADrecon 수집 결과 분석을 위한 MCP 서버
 - [VMS MCP 서버](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 VMS MCP 서버는 CCTV 녹화 프로그램(VMS)에 연결하여 녹화된 영상과 실시간 영상을 가져오며, 특정 채널의 특정 시간에 실시간 영상이나 재생 화면을 표시하는 등의 VMS 소프트웨어 제어 도구도 제공합니다.
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - [Intruder](https://www.intruder.io/)에 액세스할 수 있는 MCP 서버로, 인프라의 보안 취약점을 식별, 이해 및 해결하는 데 도움을 줍니다.
+- [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
 
 ### 🏃 <a name="sports"></a>스포츠
 
