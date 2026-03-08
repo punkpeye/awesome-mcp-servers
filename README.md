@@ -1573,6 +1573,7 @@ Access to travel and transportation information. Enables querying schedules, rou
 - [r-huijts/ns-mcp-server](https://github.com/r-huijts/ns-mcp-server) 📇 ☁️ - Access Dutch Railways (NS) travel information, schedules, and real-time updates
 - [skedgo/tripgo-mcp-server](https://github.com/skedgo/tripgo-mcp-server) 📇 ☁️ - Provides tools from the TripGo API for multi-modal trip planning, transport locations, and public transport departures, including real-time information.
 - [srinath1510/alltrails-mcp-server](https://github.com/srinath1510/alltrails-mcp-server) 🐍 ☁️ - A MCP server that provides access to AllTrails data, allowing you to search for hiking trails and get detailed trail information
+- [arthurpanhku/DragonMCP](https://github.com/arthurpanhku/DragonMCP) [glama](https://glama.ai/mcp/servers/arthurpanhku/dragon-mcp) 📇 🐍🏠 🇨🇳 🇭🇰 - MCP server for Greater China local life services: Meituan/Ele.me food delivery, Didi/Meituan ride-hailing, WeChat Pay/Alipay, Amap/Baidu Maps, 12306 high-speed rail, Taobao/JD/Xianyu e-commerce, Hong Kong government e-services, and more.
 
 ### 🔄 <a name="version-control"></a>Version Control
 
