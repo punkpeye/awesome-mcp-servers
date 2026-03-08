@@ -1681,6 +1681,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [wishfinity/wishfinity-mcp-plusw](https://github.com/wishfinity/wishfinity-mcp-plusw) 📇 ☁️ 🏠 - Universal wishlist for AI shopping experiences. Save any product URL from any store to a wishlist. Works with Claude, ChatGPT, LangChain, n8n, and any MCP client.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 📇 🏠 - CLI tool for testing MCP servers
 - [ws-mcp](https://github.com/nick1udwig/ws-mcp) - Wrap MCP servers with a WebSocket (for use with [kitbitz](https://github.com/nick1udwig/kibitz))
+- [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers#fortune) 📇 ☁️ - Fortune MCP: Daily zodiac horoscopes and tarot card readings powered by AI on Cloudflare Workers.
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - Allows AI models to interact with [HackMD](https://hackmd.io)
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) - MCP server providing date and time functions in various formats
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
