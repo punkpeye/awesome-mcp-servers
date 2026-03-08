@@ -1353,6 +1353,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️  MCP for LLM to search and read papers from arXiv
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️  MCP to search and read medical / life sciences papers from PubMed.
 - [angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - Search articles using the NYTimes API
+- [kc23go/anybrowse](https://github.com/kc23go/anybrowse) 📇 ☁️ - MCP-native web scraping and search API for AI agents. 84% success rate including Cloudflare-protected sites. Real-time search via Brave Search API. CAPTCHA solving built-in. 10 free scrapes/day or pay-per-use from $0.002. [[MIT](https://github.com/kc23go/anybrowse/blob/main/LICENSE)] [[Glama](https://glama.ai/mcp/servers/@kc23go/anybrowse)]
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - An MCP server for Apify's open-source RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown.
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Clojars MCP Server for upto date dependency information of Clojure libraries
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Search ArXiv research papers
