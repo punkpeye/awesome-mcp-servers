@@ -1259,6 +1259,7 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [veithly/ipfs-uploader](https://github.com/veithly/ipfs-uploader): A TypeScript-based MCP server for uploading images to IPFS, featuring a simple notes system with text note creation and summarization tools.
 - [OpenSourceGuru776/consist](https://github.com/OpenSourceGuru776/consist): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 
+- [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.
 ## 🔄 Version Control
 
 Servers interacting with version control systems and platforms for repository management, issues, pull requests, etc.
