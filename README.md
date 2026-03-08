@@ -354,7 +354,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [team-telnyx/telnyx-mcp-server](https://github.com/team-telnyx/telnyx-mcp-server): Facilitates interaction with telephony, messaging, and AI assistant APIs, enabling MCP clients to manage communications and create AI-driven solutions.
 - [commune-sh/commune-mcp](https://github.com/commune-sh/commune-mcp): Provides email infrastructure for AI agents, enabling programmatic inbox creation, send/receive email, thread management across concurrent conversations, custom domains, structured extraction on inbound mail, and SMS.
 - [wazionapps/mcp-server](https://github.com/wazionapps/mcp-server): WAzion - WhatsApp Business platform with 244 MCP tools for messaging, CRM, campaigns, workflows, and AI automation. Supports Streamable HTTP and stdio transports.
-- [littlebearapps/outlook-mcp](https://github.com/littlebearapps/outlook-mcp): MCP server for Microsoft Outlook with 20 consolidated tools for email, calendar, contacts, and mailbox management via Graph API. Features dry-run preview, session rate limiting, and recipient allowlists for safe email sending.
+- [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant): MCP server for Microsoft Outlook with 20 consolidated tools for email, calendar, contacts, and mailbox management via Graph API. Features dry-run preview, session rate limiting, and recipient allowlists for safe email sending.
 
 ## 📝 Content Management Systems
 
