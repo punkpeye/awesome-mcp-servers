@@ -503,6 +503,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [sbarbett/pihole-mcp-server](https://github.com/sbarbett/pihole-mcp-server): Facilitates AI assistants in managing and querying Pi-hole configurations and metrics through a Model Context Protocol server.
 - [HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy): Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary, zero dependencies.
 - [Agent Native Registry](https://agentnativeregistry.com): Remote MCP server with 100+ developer tools scored on AI agent compatibility (0-100). Tools: `search_tools`, `get_score`, `compare_tools`. Helps agents pick the right API for any task without trial-and-error.
+- [Dave-London/Pare](https://github.com/Dave-London/Pare): Suite of 16 MCP servers wrapping 240+ CLI developer tools (git, npm, Docker, test runners, build tools, linters, Python, Cargo, Go, GitHub, K8s) with structured JSON output via `outputSchema` + `structuredContent`. Up to 92% fewer tokens vs raw CLI output. MIT licensed, 1,850+ tests.
 
 ## 📁 Filesystems
 
