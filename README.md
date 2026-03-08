@@ -1122,6 +1122,7 @@ Control smart home devices, home network equipment, and automation systems.
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
+- [strangeadvancedmarketing/adam-framework](https://github.com/strangeadvancedmarketing/Adam) 📝 🏠 - 5-layer persistent memory and coherence architecture for AI agents. Solves AI amnesia (blank-slate restarts) and within-session drift. Vault-based identity injection, neural graph with 12K+ neurons, nightly reconciliation, and a coherence monitor. The memory lives in plain files — swap the model, keep the memory. Validated over 353 sessions on a live business.
 - [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI Summarization MCP Server, Support for multiple content types: Plain text, Web pages, PDF documents, EPUB books, HTML content
 - [20alexl/mini_claude](https://github.com/20alexl/mini_claude) 🐍 🏠 - Persistent memory and guardrails for Claude Code. Features mistake tracking, loop detection, scope guard, and hooks that block risky edits. Runs locally with Ollama.
 - [agentic-mcp-tools/memora](https://github.com/agentic-mcp-tools/memora) 🐍 🏠 ☁️ - Persistent memory with knowledge graph visualization, semantic/hybrid search, cloud sync (S3/R2), and cross-session context management.
