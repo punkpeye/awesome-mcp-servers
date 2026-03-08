@@ -1258,6 +1258,8 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [stape-io/google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) 📇 ☁️ – This server supports remote MCP connections, includes built-in Google OAuth, and provide an interface to the Google Tag Manager API.
 - [stape-io/stape-mcp-server](https://github.com/stape-io/stape-mcp-server) 📇 ☁️ – This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.
 - [tomba-io/tomba-mcp-server](https://github.com/tomba-io/tomba-mcp-server) 📇 ☁️ - Email discovery, verification, and enrichment tools. Find email addresses, verify deliverability, enrich contact data, discover authors and LinkedIn profiles, validate phone numbers, and analyze technology stacks.
+- [Phos Labs Commerce Intelligence](https://mcp.phoslabs.io) - Commerce intelligence for AI agents: diagnose customer
+  drop-offs, fix checkout flows, optimize pricing, predict churn, and run behavioral experiments. 23 tools, pay-per-use
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
