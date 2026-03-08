@@ -1073,6 +1073,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop.git) 🐍 ☁️ - An MCP tool that provides stock market data and analysis using the Yahoo Finance API.
 - [shareseer/shareseer-mcp-server](https://github.com/shareseer/shareseer-mcp-server) 🏎️ ☁️ - MCP to Access SEC filings, financials & insider trading data in real time using [ShareSeer](https://shareseer.com)
 - [softvoyagers/fakturka-api](https://github.com/softvoyagers/fakturka-api) 📇 ☁️ - Free Polish VAT invoice generator API (Faktura VAT) with PDF output and preview. No API key required.
+- [suwappu/mcp-server](https://github.com/0xSoftBoi/suwappubot/tree/main/packages/mcp-server) 📇 ☁️ - Cross-chain DEX for AI agents. Swap tokens, get quotes, check prices and portfolio across 7+ chains (Ethereum, Base, Arbitrum, Polygon, BSC, Optimism, Solana).
 - [tatumio/blockchain-mcp](https://github.com/tatumio/blockchain-mcp) ☁️ - MCP server for Blockchain Data. It provides access to Tatum's blockchain API across 130+ networks with tools including RPC Gateway and Blockchain Data insights.
 - [ThomasMarches/substrate-mcp-rs](https://github.com/ThomasMarches/substrate-mcp-rs) 🦀 🏠 - An MCP server implementation to interact with Substrate-based blockchains. Built with Rust and interfacing the [subxt](https://github.com/paritytech/subxt) crate.
 - [tooyipjee/yahoofinance-mcp](https://github.com/tooyipjee/yahoofinance-mcp.git) 📇 ☁️ - TS version of yahoo finance mcp.
