@@ -893,6 +893,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 MCP servers for learning management systems (LMS) and educational tools.
 
 - [RohanMuppa/brightspace-mcp-server](https://github.com/RohanMuppa/brightspace-mcp-server) [glama](https://glama.ai/mcp/servers/@RohanMuppa/brightspace-mcp-server) 📇 🏠 🍎 🪟 🐧 - MCP server for D2L Brightspace LMS. Check grades, due dates, assignments, announcements, syllabus, rosters, discussions, and course content. Works with any school that uses Brightspace. Install via `npx brightspace-mcp-server@latest`.
+- [nicoletterankin/word-orb](https://github.com/nicoletterankin/word-orb) ☁️ - The Daily Lesson MCP server — 162K words, 226K structured lessons, 21K assessments, and a 30K-edge knowledge graph across 47 languages. Remote Streamable HTTP server at `https://mcp.thedailylesson.com/mcp`. Free tier available.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
