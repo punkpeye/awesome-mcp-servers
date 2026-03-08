@@ -1661,6 +1661,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [vasylenko/claude-desktop-extension-bear-notes](https://github.com/vasylenko/claude-desktop-extension-bear-notes) 📇 🏠 🍎 - Search, read, create, and update Bear Notes directly from Claude. Local-only with complete privacy.
 - [wyattjoh/calendar-mcp](https://github.com/wyattjoh/calendar-mcp) 📇 🏠 🍎 - MCP server for accessing macOS Calendar events
 - [yuvalsuede/claudia](https://github.com/yuvalsuede/claudia) 📇 🏠 🍎 🪟 🐧 - AI-native task management system for Claude agents. Hierarchical tasks, dependencies, sprints, acceptance criteria, multi-agent coordination, and MCP server integration.
+- [arthurpanhku/job-pilot](https://github.com/arthurpanhku/job-pilot) 📇 🏠 ☁️ 🍎 🪟 - Intelligent AI Career Co-Pilot powered by MCP. Automates job search on LinkedIn/Indeed with stealth-mode application filing, context-aware resume optimization, and a centralized application tracking dashboard.
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
