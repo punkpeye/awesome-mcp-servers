@@ -137,7 +137,7 @@
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 芸術作品検索、詳細、コレクションのためのライクスミュージアムAPI統合
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp) 📇 ☁️ - オランダの歴史的第二次大戦記録、写真、文書（1940-1945）にアクセスするためのOorlogsbronnen（War Sources）API統合
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - 動画編集、カラーグレーディング、メディア管理、プロジェクト制御の強力なツールを提供するDaVinci Resolve用MCPサーバー統合
-- [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - Google Gemini（Nano Banana 2 / Pro）で画像アセットを生成するローカルMCPサーバー。透過PNG/WebP出力、正確なリサイズ/クロップ、最大14枚の参照画像、Google検索グラウンディングに対応。
+- [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - Google Gemini（Nano Banana 2 / Pro）で画像アセットを生成するローカルMCPサーバー。透過PNG/WebP出力、正確なリサイズ/クロップ、最大14枚の参照画像、Google検索グラウンディングに対応。
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - アニメとマンガの情報をAniList APIと連携するMCPサーバー
 - [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - Aseprite APIを使用してピクセルアートを作成するMCPサーバー
 - [omni-mcp/isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp) 📇 ☁️ - NVIDIA Isaac Sim、Lab、OpenUSDなどの自然言語制御を可能にするMCPサーバーと拡張機能
