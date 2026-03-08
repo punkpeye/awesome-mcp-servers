@@ -163,6 +163,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [Kubernetes MCP Server](https://github.com/strowk/mcp-k8s-go) - 🏎️ ☁️ 通过 MCP 操作 Kubernetes 集群
 - [@flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - 📇 ☁️/🏠 使用 Typescript 实现 Kubernetes 集群中针对 pod、部署、服务的操作。
 - [@manusa/Kubernetes MCP Server](https://github.com/manusa/kubernetes-mcp-server) - 🏎️ 🏠 一个功能强大的Kubernetes MCP服务器，额外支持OpenShift。除了为**任何**Kubernetes资源提供CRUD操作外，该服务器还提供专用工具与您的集群进行交互。
+- [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - 面向 Rancher 生态的 MCP 服务器，支持多集群 Kubernetes 操作、Harvester HCI 管理（虚拟机、存储、网络）以及 Fleet GitOps 工具。
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 提供 Kubernetes 集群资源管理, 深度分析集群和应用的健康状态
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - 提供对 Netskope Private Access 环境中所有组件的访问权限，包含详细的设置信息和 LLM 使用示例。
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - 一个Terraform MCP服务器，允许AI助手管理和操作Terraform环境，实现读取配置、分析计划、应用配置以及管理Terraform状态的功能。
@@ -185,6 +186,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 运行命令、捕获输出以及以其他方式与 shell 和命令行工具交互。
 
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - 用于 [OpenClaw](https://github.com/openclaw/openclaw) AI 助手集成的 MCP 服务器。通过同步/异步工具、OAuth 2.1 认证和面向 Claude.ai 的 SSE 传输，使 Claude 能够将任务委派给 OpenClaw 代理。
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - 一个为 iTerm 终端提供访问能力的 MCP 服务器。您可以执行命令，并就终端中看到的内容进行提问交互。
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - 使用`run_command`和`run_script`工具运行任何命令。
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - 具有安全执行和可定制安全策略的命令行界面
@@ -390,6 +392,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - 使用 CoinCap 的公共 API 集成实时加密货币市场数据，无需 API 密钥即可访问加密货币价格和市场信息
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - Coinmarket API 集成以获取加密货币列表和报价
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API 集成，用于获取股票和加密货币信息
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - 通过deBridge协议实现EVM和Solana区块链之间的跨链兑换和桥接。使AI代理能够发现最优路径、评估费用并发起非托管交易。
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API 集成，用于管理 Tastytrade 平台的交易活动
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - 整合雅虎财经以获取股市数据，包括期权推荐
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) 📇 ☁️ - 全面支持30多种EVM网络的区块链服务，涵盖原生代币、ERC20、NFT、智能合约、交易及ENS解析。
@@ -530,6 +533,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - 将OpenAI内置的`web_search`工具封转成MCP服务器使用.
 - [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) 🐍 🏠 - CVE-Search MCP服务器， 提供CVE漏洞信息查询、漏洞产品信息查询等功能。
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - MCP 服务器用于访问 [Intruder](https://www.intruder.io/)，帮助你识别、理解并修复基础设施中的安全漏洞。
+- [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
 
 ### 📟 <a name="embedded-system"></a>嵌入式系统
 
