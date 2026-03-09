@@ -132,6 +132,7 @@
 
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 포괄적이고 정확한 사주팔자(八字) 분석과 해석 제공
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - Video Jungle 컬렉션에서 비디오 편집 추가, 분석, 검색 및 생성
+- [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - 취향 기반 추천, 시청 분석, 소셜 도구 및 전체 목록 관리를 제공하는 AniList MCP 서버
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 작품 검색, 세부 정보 및 컬렉션을 위한 Rijksmuseum API 통합
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 애니메이션 및 만화 정보를 위한 AniList API를 통합하는 MCP 서버
 
