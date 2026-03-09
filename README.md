@@ -674,7 +674,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [dannote/figma-use](https://github.com/dannote/figma-use) 📇 🏠 - Full Figma control: create shapes, text, components, set styles, auto-layout, variables, export. 80+ tools.
 - [davidan90/time-node-mcp](https://github.com/davidan90/time-node-mcp) 📇 🏠 - Timezone-aware date and time operations with support for IANA timezones, timezone conversion, and Daylight Saving Time handling.
 - [davidlin2k/pox-mcp-server](https://github.com/davidlin2k/pox-mcp-server) 🐍 🏠 - MCP server for the POX SDN controller to provides network control and management capabilities.
-- [darktw/chatpipe-mcp](https://github.com/darktw/chatpipe-mcp) 📇 ☁️ - Publish live web pages from AI coding agents. Instant shareable URLs for dashboards, landing pages, reports. Password protection, update in place.
+- [darktw/chatpipe-mcp](https://github.com/darktw/chatpipe-mcp) [glama](https://glama.ai/mcp/servers/darktw/chatpipe-mcp) 📇 ☁️ - Publish live web pages from AI coding agents. Instant shareable URLs for dashboards, landing pages, reports. Password protection, update in place.
 - [delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - Interact with [Postman API](https://www.postman.com/postman/postman-public-workspace/)
 - [deploy-mcp/deploy-mcp](https://github.com/alexpota/deploy-mcp) 📇 ☁️ 🏠 - Universal deployment tracker for AI assistants with live status badges and deployment monitoring
 - [docker/hub-mcp](https://github.com/docker/hub-mcp) 🎖️ 📇 ☁️ 🏠 - Official MCP server to interact with Docker Hub, providing access to repositories, hub search and Docker Hardened Images
