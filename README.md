@@ -229,7 +229,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [Narasimhaponnada/mermaid-mcp](https://github.com/Narasimhaponnada/mermaid-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI-powered Mermaid diagram generation with 22+ diagram types including flowcharts, sequence diagrams, class diagrams, ER diagrams, architecture diagrams, state machines, and more. Features 50+ pre-built templates, advanced layout engines, SVG/PNG/PDF exports, and seamless integration with GitHub Copilot, Claude, and any MCP-compatible client. Install via NPM: `npm install -g @narasimhaponnada/mermaid-mcp-server`
 
 ### <a name="bio"></a>Biology, Medicine and Bioinformatics
-
+- [ammawla/encode-toolkit](https://github.com/ammawla/encode-toolkit) 🐧 - MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit — search, download, track, and analyze functional genomics experiments.
 - [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) 🐍 🏠 - MCP server for spatial transcriptomics analysis with 60+ integrated methods covering cell annotation, deconvolution, spatial statistics, and visualization.
 - [dnaerys/onekgpd-mcp](https://github.com/dnaerys/onekgpd-mcp) ☕ ☁️ 🍎 🪟 🐧- real-time access to 1000 Genomes Project dataset
 - [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - Biomedical research MCP server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info.
