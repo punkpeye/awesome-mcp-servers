@@ -100,4 +100,5 @@ Servers interacting with social networks, content platforms, or feed aggregators
 - [laulauland/bluesky-context-server](https://github.com/laulauland/bluesky-context-server): Facilitates querying Bluesky instances through MCP client integration.
 - [Muralikrishankp/Twitter-MCP-Server-for-Claude](https://github.com/Muralikrishankp/Twitter-MCP-Server-for-Claude): Connects Twitter's trending topics with Claude's analysis capabilities to identify business opportunities.
 - [VibeMarketing](https://vibemarketing.ninja/mcp): Social media scheduling for X/Twitter and LinkedIn with AI-powered content generation. OAuth authentication, schedule posts, manage accounts, subscription tracking.
+- [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper): X/Twitter data platform — MCP server with StreamableHTTP transport, 76 REST API endpoints, 20 extraction tools.
 
