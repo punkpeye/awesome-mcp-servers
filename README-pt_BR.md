@@ -126,6 +126,7 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - Um servidor MCP local que gera animações usando Manim.
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - Adicione, Analise, Pesquise e Gere Edições de Vídeo da sua Coleção de Vídeos
 - [djalal/quran-mcp-server](https://github.com/djalal/quran-mcp-server) 📇 ☁️ Servidor MCP para interagir com o corpus do Quran.com através da API REST oficial v4.
+- [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) 📇 🏠 - Servidor MCP para AniList com recomendações baseadas em gosto, análise de visualização, ferramentas sociais e gerenciamento completo de listas.
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - Integração da API do Rijksmuseum para pesquisa, detalhes e coleções de obras de arte
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp) 📇 ☁️ - Integração da API de Oorlogsbronnen (Fontes de Guerra) para acessar registros históricos, fotografias e documentos da Segunda Guerra Mundial da Holanda (1940-1945)
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - Integração de servidor MCP para DaVinci Resolve, fornecendo ferramentas poderosas para edição de vídeo, correção de cores, gerenciamento de mídia e controle de projeto
