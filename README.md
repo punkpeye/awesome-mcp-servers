@@ -223,7 +223,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 
 - [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) 🐍 🏠 - MCP server for spatial transcriptomics analysis with 60+ integrated methods covering cell annotation, deconvolution, spatial statistics, and visualization.
 - [dnaerys/onekgpd-mcp](https://github.com/dnaerys/onekgpd-mcp) ☕ ☁️ 🍎 🪟 🐧- real-time access to 1000 Genomes Project dataset
-- [fulcradynamics/fulcra-context-mcp](https://github.com/fulcradynamics/fulcra-context-mcp) 🐍 ☁️ - MCP server for accessing personal health and biometric data including sleep stages, heart rate, HRV, glucose, workouts, calendar, and location via the Fulcra Life API with OAuth2 consent.
+- [fulcradynamics/fulcra-context-mcp](https://github.com/fulcradynamics/fulcra-context-mcp) [glama](https://glama.ai/mcp/servers/fulcradynamics/fulcra-context-mcp) 🐍 ☁️ - MCP server for accessing personal health and biometric data including sleep stages, heart rate, HRV, glucose, workouts, calendar, and location via the Fulcra Life API with OAuth2 consent.
 - [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - Biomedical research MCP server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info.
 - [hlydecker/ucsc-genome-mcp](https://github.com/hlydecker/ucsc-genome-mcp) 🐍 ☁️ - MCP server to interact with the UCSC Genome Browser API, letting you find genomes, chromosomes, and more.
 - [JamesANZ/medical-mcp](https://github.com/JamesANZ/medical-mcp) 📇 🏠 - An MCP server that provides access to medical information, drug databases, and healthcare resources. Enables AI assistants to query medical data, drug interactions, and clinical guidelines.
