@@ -177,6 +177,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [wegotdocs/open-mcp](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Turn a web API into an MCP server in 10 seconds and add it to the open source registry: https://open-mcp.org
 - [rplryan/x402-discovery-mcp](https://github.com/rplryan/x402-discovery-mcp) [glama](https://glama.ai/mcp/servers/@rplryan/x402-discovery-mcp) 🐍 ☁️ - Runtime discovery layer for x402-payable APIs. Agents discover and route to pay-per-call x402 endpoints by capability, get quality-ranked results with trust scores (0-100), and pay per query via x402. Includes MCP server, Python SDK, and CLI (npm install -g x402scout).
 - [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive personal data aggregation MCP server with Steam, YouTube, Bilibili, Spotify, Reddit and other platforms integrations. Features OAuth2 authentication, automatic token management, and 90+ tools for gaming, music, video, and social platform data access.
+- [DocBrain](https://github.com/docbrain-ai/docbrain) 🦀 🏠 🐧 - Self-improving documentation engine that ingests Slack and GitHub PRs to detect knowledge gaps.
 
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
