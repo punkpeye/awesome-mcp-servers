@@ -138,6 +138,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 雲平台服務整合。實現與雲基礎設施和服務的管理和交互。
 
+- [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - 面向 Rancher 生態系的 MCP 伺服器，支援多叢集 Kubernetes 操作、Harvester HCI 管理（虛擬機、儲存、網路）與 Fleet GitOps 工具。
 - [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - 整合 fastmcp 函式庫，將 NebulaBlock 的所有 API 功能作為工具提供使用。
 - [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - 適用於4EVERLAND Hosting的MCP伺服器實現，能夠將AI生成的程式碼即時部署到去中心化儲存網路，如Greenfield、IPFS和Arweave。
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - 基於七牛雲產品構建的 MCP，支援存取七牛雲儲存、智能多媒體服務等。
@@ -159,6 +160,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 運行命令、捕獲輸出以及以其他方式與 shell 和命令行工具交互。
 
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - 用於 [OpenClaw](https://github.com/openclaw/openclaw) AI 助手整合的 MCP 伺服器。透過同步/非同步工具、OAuth 2.1 認證和面向 Claude.ai 的 SSE 傳輸，使 Claude 能夠將任務委派給 OpenClaw 代理。
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - 一個為 iTerm 終端提供訪問能力的 MCP 伺服器。您可以執行命令，並就終端中看到的內容進行提問交互。
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - 使用“run_command”和“run_script”工具運行任何命令。
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - 具有安全執行和可訂製安全策略的命令行界面
@@ -323,6 +325,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - 使用 CoinCap 的公共 API 集成即時加密貨幣市場數據，無需 API 金鑰即可訪問加密貨幣價格和市場資訊
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - Coinmarket API 集成以獲取加密貨幣列表和報價
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API 集成，用於獲取股票和加密貨幣資訊
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - 透過 deBridge 協議實現 EVM 和 Solana 區塊鏈之間的跨鏈兌換和橋接。使 AI 代理能夠發現最佳路徑、評估費用並發起非託管交易。
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API 集成，用於管理 Tastytrade 平台的交易活動
 - [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI 提供港美股等市場的股票即時行情數據，通過 MCP 提供 AI 接入分析、交易能力。
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ -  使用 Bitget 公共 API 去獲取加密貨幣最新價格
@@ -436,6 +439,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [ORKL MCP Server](https://github.com/fr0gger/MCP_Security) 📇🛡️☁️ - 用於查詢 ORKL API 的 MCP 伺服器。此伺服器提供獲取威脅報告、分析威脅行為者和檢索威脅情報來源的工具。
 - [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇🛡️☁️ – 一個強大的 MCP (模型上下文協議) 伺服器，審計 npm 包依賴項的安全漏洞。內建遠端 npm 註冊表集成，以進行即時安全檢查。
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - MCP 伺服器可存取 [Intruder](https://www.intruder.io/)，協助你識別、理解並修復基礎設施中的安全漏洞。
+- [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
 
 ### 🌎 <a name="translation-services"></a>翻譯服務
 
