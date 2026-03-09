@@ -608,6 +608,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [avisangle/method-crm-mcp](https://github.com/avisangle/method-crm-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Production-ready MCP server for Method CRM API integration with 20 comprehensive tools for tables, files, users, events, and API key management. Features rate limiting, retry logic, and dual transport support (stdio/HTTP).
 - [aywengo/kafka-schema-reg-mcp](https://github.com/aywengo/kafka-schema-reg-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive Kafka Schema Registry MCP server with 48 tools for multi-registry management, schema migration, and enterprise features.
 - [bruno-portfolio/agrobr-mcp](https://github.com/bruno-portfolio/agrobr-mcp) 🐍 ☁️ - Brazilian agricultural data for LLMs — prices, crop estimates, climate, deforestation from 19 public sources via CEPEA, CONAB, IBGE, INPE and B3.
+- [crashstory/crashstory-platform](https://github.com/crashstory/crashstory-platform/tree/main/mcp-server) 📇 ☁️ - Colorado car accident data platform with 15 MCP tools. Search 594K+ crash records, compare 600+ personal injury attorneys with AI-analyzed review intelligence from 25K+ client reviews. Hosted Streamable HTTP server.
 - [dan1d/mercadolibre-mcp](https://github.com/dan1d/mercadolibre-mcp) [glama](https://glama.ai/mcp/servers/dan1d/mercadolibre-mcp) 📇 ☁️ - MercadoLibre marketplace integration for AI agents. Search products, get item details, browse categories, track trends, and convert currencies across Latin America (Argentina, Brazil, Mexico, Chile, Colombia).
 - [dbt-labs/dbt-mcp](https://github.com/dbt-labs/dbt-mcp) 🎖️ 🐍 🏠 ☁️ - Official MCP server for [dbt (data build tool)](https://www.getdbt.com/product/what-is-dbt) providing integration with dbt Core/Cloud CLI, project metadata discovery, model information, and semantic layer querying capabilities.
 - [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️ 📇 ☁️ 🏠 - Interact with Flowcore to perform actions, ingest data, and analyse, cross reference and utilise any data in your data cores, or in public data cores; all with human language.
@@ -1865,4 +1866,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
 
