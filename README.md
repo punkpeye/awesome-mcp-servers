@@ -1,3 +1,4 @@
+<img width="2559" height="1356" alt="image" src="https://github.com/user-attachments/assets/3765dee6-9c7c-4da8-9fc8-cce4d2202412" />
 # Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
@@ -999,7 +1000,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [20alexl/mini_claude](https://github.com/20alexl/mini_claude) 🐍 🏠 - Persistent memory and guardrails for Claude Code. Features mistake tracking, loop detection, scope guard, and hooks that block risky edits. Runs locally with Ollama.
 - [agentic-mcp-tools/memora](https://github.com/agentic-mcp-tools/memora) 🐍 🏠 ☁️ - Persistent memory with knowledge graph visualization, semantic/hybrid search, cloud sync (S3/R2), and cross-session context management.
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - Production-ready RAG platform combining Graph RAG, vector search, and full-text search. Best choice for building your own Knowledge Graph and for Context Engineering
-- [AVIDS2/memorix](https://github.com/AVIDS2/memorix) 📇 🏠 🍎 🪟 🐧 - Cross-agent memory bridge for AI coding agents. Shares knowledge graphs, observations, and project context across Windsurf, Cursor, Claude Code, Codex, Copilot, and Antigravity via MCP. Features 3-layer progressive disclosure search, auto-memory hooks, workspace sync (MCP configs, rules, skills), memory retention with decay scoring, and a visual web dashboard.
+- [AVIDS2/memorix](https://github.com/AVIDS2/memorix) [glama](https://glama.ai/mcp/servers/@AVIDS2/memorix) 📇 🏠 🍎 🪟 🐧 - Cross-agent memory bridge for AI coding agents. Persistent knowledge graph shared across 10 IDEs via MCP. 22 tools including team collaboration, auto-cleanup, mini-skills, session management, and workspace sync. 753 tests. 100% local, zero API keys required.
 - [bh-rat/context-awesome](https://github.com/bh-rat/context-awesome) 📇 ☁️ 🏠 - MCP server for querying 8,500+ curated awesome lists (1M+ items) and fetching the best resources for your agent.
 - [bitbonsai/mcp-obsidian](https://github.com/bitbonsai/mcp-obsidian) 📇 🏠 🍎 🪟 🐧 - Universal AI bridge for Obsidian vaults using MCP. Provides safe read/write access to notes with 11 comprehensive methods for vault operations including search, batch operations, tag management, and frontmatter handling. Works with Claude, ChatGPT, and any MCP-compatible AI assistant.
 - [bluzername/lennys-quotes](https://github.com/bluzername/lennys-quotes) 📇 🏠 - Query 269 episodes of Lenny's Podcast for product management wisdom. Search 51,000+ transcript segments with YouTube timestamps. Perfect for PRDs, strategy, and PM career advice.
