@@ -331,6 +331,8 @@ Cloud platform service integration. Enables management and interaction with clou
 - [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - integrates with the fastmcp library to expose the full range of NebulaBlock API functionalities as accessible tools
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.
 - [openstack-kr/python-openstackmcp-server](https://github.com/openstack-kr/python-openstackmcp-server) 🐍 ☁️ - OpenStack MCP server for cloud infrastructure management based on openstacksdk.
+- [ofershap/mcp-server-cloudflare](https://github.com/ofershap/mcp-server-cloudflare) 📇 ☁️ - Manage Cloudflare Workers, KV, R2, Pages, DNS, and cache from your IDE.
+- [ofershap/mcp-server-s3](https://github.com/ofershap/mcp-server-s3) 📇 ☁️ - AWS S3 operations — list buckets, browse objects, upload/download files, and generate presigned URLs.
 - [pibblokto/cert-manager-mcp-server](https://github.com/pibblokto/cert-manager-mcp-server) 🐍 🍎/🐧 ☁️ - mcp server for [cert-manager](https://github.com/cert-manager/cert-manager) management and troubleshooting
 - [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) 🏎️ ☁️/🏠 - A powerful MCP server that enables AI assistants to seamlessly interact with Portainer instances, providing natural language access to container management, deployment operations, and infrastructure monitoring capabilities.
 - [pulumi/mcp-server](https://github.com/pulumi/mcp-server) 🎖️ 📇 🏠 - MCP server for interacting with Pulumi using the Pulumi Automation API and Pulumi Cloud API. Enables MCP clients to perform Pulumi operations like retrieving package information, previewing changes, deploying updates, and retrieving stack outputs programmatically.
@@ -571,6 +573,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [openlink/mcp-server-jdbc](https://github.com/OpenLinkSoftware/mcp-jdbc-server) 🐍 🏠 - An MCP server for generic Database Management System (DBMS) Connectivity via the Java Database Connectivity (JDBC) protocol
 - [openlink/mcp-server-odbc](https://github.com/OpenLinkSoftware/mcp-odbc-server) 🐍 🏠 - An MCP server for generic Database Management System (DBMS) Connectivity via the Open Database Connectivity (ODBC) protocol
 - [openlink/mcp-server-sqlalchemy](https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server) 🐍 🏠 - An MCP server for generic Database Management System (DBMS) Connectivity via SQLAlchemy using Python ODBC (pyodbc)
+- [ofershap/mcp-server-sqlite](https://github.com/ofershap/mcp-server-sqlite) 📇 🏠 - SQLite operations — query databases, inspect schemas, explain queries, and export data.
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - Query and analyze Azure Data Explorer databases
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ -  Query and analyze Prometheus, open-source monitoring system.
 - [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍🗄️ - provides AI-powered PostgreSQL performance tuning capabilities.
@@ -766,6 +769,14 @@ Tools and integrations that enhance the development workflow and environment man
 - [neilberkman/editorconfig_mcp](https://github.com/neilberkman/editorconfig_mcp) 📇 🏠 - Formats files using `.editorconfig` rules, acting as a proactive formatting gatekeeper to ensure AI-generated code adheres to project-specific formatting standards from the start.
 - [Neo1228/spring-boot-starter-swagger-mcp](https://github.com/Neo1228/spring-boot-starter-swagger-mcp) ☕ ☁️ 🏠 - Turn your Spring Boot application into an MCP server instantly by reusing existing Swagger/OpenAPI documentation.
 - [OctoMind-dev/octomind-mcp](https://github.com/OctoMind-dev/octomind-mcp) 📇 ☁️ - lets your preferred AI agent create & run fully managed [Octomind](https://www.octomind.dev/) end-to-end tests from your codebase or other data sources like Jira, Slack or TestRail.
+- [ofershap/mcp-server-devutils](https://github.com/ofershap/mcp-server-devutils) 📇 🏠 - Zero-auth developer utilities: base64, UUID, hash, JWT decode, cron parse, timestamps, JSON, and regex.
+- [ofershap/mcp-server-dns](https://github.com/ofershap/mcp-server-dns) 📇 🏠 - DNS lookups, reverse DNS, WHOIS, and domain availability checks. Zero auth, zero config.
+- [ofershap/mcp-server-docker](https://github.com/ofershap/mcp-server-docker) 📇 🏠 - Docker operations — manage containers, images, volumes, networks, and compose services.
+- [ofershap/mcp-server-github-actions](https://github.com/ofershap/mcp-server-github-actions) 📇 ☁️ - GitHub Actions — view workflow runs, read logs, re-run failed jobs, and manage CI/CD.
+- [ofershap/mcp-server-github-gist](https://github.com/ofershap/mcp-server-github-gist) 📇 ☁️ - Create, read, update, list, and search GitHub Gists from your IDE.
+- [ofershap/mcp-server-markdown](https://github.com/ofershap/mcp-server-markdown) 📇 🏠 - Search, extract sections, list headings, and find code blocks across markdown files.
+- [ofershap/mcp-server-npm-plus](https://github.com/ofershap/mcp-server-npm-plus) 📇 ☁️ - npm intelligence — search packages, check bundle sizes, scan vulnerabilities, compare downloads.
+- [ofershap/mcp-server-scraper](https://github.com/ofershap/mcp-server-scraper) 📇 ☁️ - Web scraping — extract clean markdown, links, and metadata from any URL. Free Firecrawl alternative.
 - [ooples/token-optimizer-mcp](https://github.com/ooples/token-optimizer-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - Intelligent token optimization achieving 95%+ reduction through caching, compression, and 80+ smart tools for API optimization, code analysis, and real-time monitoring.
 - [OpenZeppelin/contracts-wizard](https://github.com/OpenZeppelin/contracts-wizard/tree/master/packages/mcp) - A Model Context Protocol (MCP) server that allows AI agents to generate secure smart contracts in multiples languages based on [OpenZeppelin Wizard templates](https://wizard.openzeppelin.com/).
 - [opslevel/opslevel-mcp](https://github.com/opslevel/opslevel-mcp) 🎖️ 🏎️ ☁️ 🪟 🍎 🐧 - Official MCP Server for [OpsLevel](https://www.opslevel.com)
