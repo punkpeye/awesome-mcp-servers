@@ -663,6 +663,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [ckanthony/gin-mcp](https://github.com/ckanthony/gin-mcp) 🏎️ ☁️ 📟 🪟 🐧 🍎 - A zero-configuration Go library to automatically expose existing Gin web framework APIs as MCP tools.
 - [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker) 🐍 🏠 - Integrate with Docker to manage containers, images, volumes, and networks.
 - [ClaudeCodeNavi/claudecodenavi-mcp](https://github.com/saikiyusuke/claudecodenavi-mcp) 📇 ☁️ - Claude Code knowledge platform & marketplace MCP server. Search and share snippets, prompts, Q&A solutions, error fixes, and MCP server configurations from the ClaudeCodeNavi community.
+- [Credit Optimizer for Manus AI](https://github.com/rafsilva85/manus-credit-optimizer) 🐍 ☁️ - MCP server that automatically optimizes Manus AI credit usage through smart model routing, context hygiene, and prompt optimization. Saves 30-75% on credits with zero quality loss.
 - [PatrickSys/codebase-context](https://github.com/PatrickSys/codebase-context) [glama](https://glama.ai/mcp/servers/@PatrickSys/codebase-context) 📇 🏠 🍎 🪟 🐧 - Local MCP server that shows AI agents which patterns your team actually uses, what files a change will affect, and when there is not enough context to trust an edit. 30+ languages, fully local.
 - [CodeLogicIncEngineering/codelogic-mcp-server](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - Official MCP server for CodeLogic, providing access to code dependency analytics, architectural risk analysis, and impact assessment tools.
 - [Comet-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp) 🎖️ 📇 ☁️ 🏠 - Use natural language to explore LLM observability, traces, and monitoring data captured by Opik.
@@ -1842,7 +1843,6 @@ Interact with Git repositories and version control platforms. Enables repository
 - [vinkius-labs/mcp-fusion](https://github.com/vinkius-labs/mcp-fusion) 📇 [![Glama](https://glama.ai/mcp/servers/badge/@vinkius-labs/mcp-fusion)](https://glama.ai/mcp/servers/@vinkius-labs/mcp-fusion) - A TypeScript framework for building production-ready MCP servers with automatic tool discovery, multi-transport support (stdio/SSE/HTTP), built-in validation, and zero-config setup.
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 - AI Agents framework with 64+ built-in tools for search, memory, workflows, code execution, and file operations. Turn any AI assistant into a multi-agent system with MCP.
 
-- [Credit Optimizer for Manus AI](https://github.com/rafaelsilva85/manus-credit-optimizer) - MCP server that automatically optimizes Manus AI credit usage through smart model routing, context hygiene, and prompt optimization. Saves 30-75% on credits with zero quality loss.
 ## Tips and Tricks
 
 ### Official prompt to inform LLMs how to use MCP
