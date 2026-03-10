@@ -3,6 +3,7 @@
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
 - [gdcc/mcp-dataverse](https://github.com/gdcc/mcp-dataverse): Facilitates multilingual data integration and exploration in Dataverse using Croissant ML.
+- [singularityjason/lightning-memory](https://github.com/singularityjason/lightning-memory): Persistent agent memory for the Lightning economy. Vendor reputation tracking, spending anomaly detection, Nostr identity (BIP-340), and L402 payment gateway for agent-to-agent knowledge markets. Local-first SQLite with FTS5 search.
 - [digila/linear-mcp](https://github.com/digila/linear-mcp): A TypeScript-based MCP server for managing and summarizing text notes with URI-based access and LLM integration.
 - [xsp52Hz/cognigraph-mcp-server](https://github.com/xsp52Hz/cognigraph-mcp-server): CogniGraph MCP Server generates mind maps, relationship graphs, and knowledge graphs using CLI tools and AI analysis, compatible with various local MCP clients.
 - [johnhenry/mcp-server-ipfs-context](https://github.com/johnhenry/mcp-server-ipfs-context): Facilitates storing and retrieving conversational context using IPFS for seamless session continuity.
