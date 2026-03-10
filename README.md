@@ -669,7 +669,6 @@ Tools and integrations that enhance the development workflow and environment man
 - [conan-io/conan-mcp](https://github.com/conan-io/conan-mcp) 🎖️ 🐍 🏠 🍎 🪟 🐧 - Official MCP server for Conan C/C++ package manager. Create projects, manage dependencies, check licenses, and scan for security vulnerabilities.
 - [ConfigCat/mcp-server](https://github.com/configcat/mcp-server) 🎖️ 📇 ☁️ - MCP server for interacting with ConfigCat feature flag platform. Supports managing feature flags, configs, environments, products and organizations.
 - [context-rot-detection](https://github.com/milos-product-maker/context-rot-detection) 📇 🏠 - Gives AI agents self-awareness about their cognitive state. Monitors token utilization, context quality degradation, and session fatigue. Returns health scores (0-100) and recovery recommendations based on model-specific degradation curves.
-- [rafsilva85/manus-credit-optimizer](https://github.com/rafsilva85/manus-credit-optimizer) 📇 🏠 - AI-powered credit optimization skill for Manus AI agents. Automatically analyzes prompts and applies intelligent routing (Standard/Max models), smart testing, section-by-section processing, and context hygiene to save 30-75% on Manus AI credits without quality loss. Includes 12 vulnerability patches and 22 scenario audits.
 - [cqfn/aibolit-mcp-server](https://github.com/cqfn/aibolit-mcp-server) ☕ - Helping Your AI Agent Identify Hotspots for Refactoring; Help AI Understand How to 'Make Code Better'
 - [currents-dev/currents-mcp](https://github.com/currents-dev/currents-mcp) 🎖️ 📇 ☁️ Enable AI Agents to fix Playwright test failures reported to [Currents](https://currents.dev).
 - [Daghis/teamcity-mcp](https://github.com/Daghis/teamcity-mcp) 📇 ☁️ 🍎 🪟 🐧 - MCP server for JetBrains TeamCity with 87 tools for builds, tests, agents, and CI/CD pipeline management. Features dual-mode operation (dev/full) and runtime mode switching.
@@ -1843,6 +1842,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [vinkius-labs/mcp-fusion](https://github.com/vinkius-labs/mcp-fusion) 📇 [![Glama](https://glama.ai/mcp/servers/badge/@vinkius-labs/mcp-fusion)](https://glama.ai/mcp/servers/@vinkius-labs/mcp-fusion) - A TypeScript framework for building production-ready MCP servers with automatic tool discovery, multi-transport support (stdio/SSE/HTTP), built-in validation, and zero-config setup.
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 - AI Agents framework with 64+ built-in tools for search, memory, workflows, code execution, and file operations. Turn any AI assistant into a multi-agent system with MCP.
 
+- [Credit Optimizer for Manus AI](https://github.com/rafaelsilva85/manus-credit-optimizer) - MCP server that automatically optimizes Manus AI credit usage through smart model routing, context hygiene, and prompt optimization. Saves 30-75% on credits with zero quality loss.
 ## Tips and Tricks
 
 ### Official prompt to inform LLMs how to use MCP
