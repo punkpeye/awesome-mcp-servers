@@ -74,6 +74,7 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 
 - [bh-rat/context-awesome](https://github.com/bh-rat/context-awesome) - MCP server for querying 8,500+ curated awesome lists (1M+ items) and fetching the best resources for your agent.
 - [spranab/brainstorm-mcp](https://github.com/spranab/brainstorm-mcp) - Multi-round AI brainstorming debates between multiple models (GPT, DeepSeek, Groq, Ollama, etc.). Pit different LLMs against each other to explore ideas from diverse perspectives.
+- [deadpixel/roundtable-dashboard](https://github.com/deadpixel/roundtable-dashboard): Multi-model AI debate platform with remote MCP server. GPT-4o, Claude, Gemini and 200+ models discuss prompts in structured rounds and synthesize collective insight via Streamable HTTP at `https://mcp.roundtable.now/mcp`.
 - [comitest22/linear-mcp](https://github.com/comitest22/linear-mcp): Facilitates interaction with the Linear API through a Model Context Protocol server, offering tools for ticket management and prioritization.
 - [stephenlb/pubnub-mcp-server](https://github.com/stephenlb/pubnub-mcp-server): Facilitates access to PubNub SDK and Functions documentation within Cursor IDE using a CLI-based MCP server.
 - [Ankit2533/research](https://github.com/Ankit2533/research): A multi-agent deep researcher leveraging MCP to perform comprehensive web searches with Linkup and CrewAI orchestration.
@@ -1295,5 +1296,3 @@ Servers interacting with version control systems and platforms for repository ma
 - [KarakuriAgent/karakuri_git_mcp](https://github.com/KarakuriAgent/karakuri_git_mcp): Facilitates Git repository interaction and automation through a Model Context Protocol server, enabling operations like reading, searching, and manipulating repositories via Large Language Models.
 - [kwanLeeFrmVi/mcp-git](https://github.com/kwanLeeFrmVi/mcp-git): Facilitates Git repository interaction and automation through a Model Context Protocol server, enabling operations like reading, searching, and manipulating repositories via Large Language Models.
 - [rahul-roy-glean/github-mcp-server](https://github.com/rahul-roy-glean/github-mcp-server): Facilitates seamless integration with GitHub's API for file operations, repository management, and search functionalities within CI workflows.
-
-
