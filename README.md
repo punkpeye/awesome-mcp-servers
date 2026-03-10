@@ -937,6 +937,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
+- [NodusAI MCP Server](https://github.com/NodusAI-Your-Prediction-Broker/nodusai-mcp) - AI-powered Oracle signals for Polymarket and Kalshi prediction markets. Pay $1 USDC on Base → get 3 signals via Gemini 2.5 Flash with real-time web grounding. Built by [@luacantu](https://github.com/luacantu)
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) 📇 ☁️ - Deep Research for crypto - free & fully local
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp) 🎖️ 🐍 ☁️ 🏠 - Access institutional-grade alternative financial data directly in your LLM workflows.
