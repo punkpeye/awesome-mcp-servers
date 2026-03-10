@@ -883,6 +883,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [98lukehall/renoun-mcp](https://github.com/98lukehall/renoun-mcp) [glama](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp) 🐍 ☁️ - Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence across 17 channels without analyzing content.
 - [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) 💎 🏠 - Enables agents to query local information about dependencies in a Ruby project's `Gemfile`.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
+- [msrtarit/Antigravity-Kaggle-MCP-setup-guide](https://github.com/msrtarit/Antigravity-Kaggle-MCP-setup-guide) 🏠 🪟 🍎 - Comprehensive guide and configuration for integrating Kaggle's datasets and kernels into Antigravity.
 
 ### 📟 <a name="embedded-system"></a>Embedded System
 
