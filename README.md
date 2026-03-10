@@ -938,6 +938,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
+- [gabrielmahia/mpesa-mcp](https://github.com/gabrielmahia/mpesa-mcp) 🐍 ☁️ 🐧 🍎 🪟 - M-Pesa (Safaricom Daraja) and Africa's Talking MCP server for East African fintech. 5 tools: STK Push payments, transaction status, SMS to 20+ African networks, and airtime top-up. Covers Kenya, Nigeria, Ghana, Uganda, Tanzania and more. Sandbox-safe.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) 📇 ☁️ - Deep Research for crypto - free & fully local
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp) 🎖️ 🐍 ☁️ 🏠 - Access institutional-grade alternative financial data directly in your LLM workflows.
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - Risk score / asset holdings of EVM blockchain address (EOA, CA, ENS) and even domain names.
