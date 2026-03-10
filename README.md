@@ -613,7 +613,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [Osseni94/oyemi-mcp](https://github.com/Osseni94/oyemi-mcp) 🐍 🏠 - Deterministic semantic word encoding and valence/sentiment analysis using 145K+ word lexicon. Provides word-to-code mapping, semantic similarity, synonym/antonym lookup with zero runtime NLP dependencies.
 - [paracetamol951/caisse-enregistreuse-mcp-server](https://github.com/paracetamol951/caisse-enregistreuse-mcp-server) 🏠 🐧 🍎 ☁️ - Allows you to automate or monitor business operations, sales recorder, POS software, CRM.
 - [saikiyusuke/registep-mcp](https://github.com/saikiyusuke/registep-mcp) 📇 ☁️ - AI-powered POS & sales analytics MCP server with 67 tools for Airレジ, スマレジ, and BASE EC integration. Provides store management, sales data querying, AI chat analysis, and weather correlation features.
-- [vikramgorla/mcp-swiss](https://github.com/vikramgorla/mcp-swiss) 📇 ☁️ - 68 tools for Swiss open data: transport, weather, geodata, companies, parliament, and more. Zero API keys required.
+- [vikramgorla/mcp-swiss](https://github.com/vikramgorla/mcp-swiss) [glama](https://glama.ai/mcp/servers/vikramgorla/mcp-swiss) 📇 ☁️ - 68 tools for Swiss open data: transport, weather, geodata, companies, parliament, and more. Zero API keys required.
 - [yashshingvi/databricks-genie-MCP](https://github.com/yashshingvi/databricks-genie-MCP) 🐍 ☁️ - A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.
 
 
