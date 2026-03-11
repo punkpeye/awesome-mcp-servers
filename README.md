@@ -1829,6 +1829,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) - MCP server providing date and time functions in various formats
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
 - [SPL-BGU/PlanningCopilot](https://github.com/SPL-BGU/PlanningCopilot) [glama](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot) 🐍🏠 - A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.
+- [@humantext/mcp-server](https://github.com/humantextpro/mcp-server) - AI text detection and humanization via humantext.pro
+
 
 ## Frameworks
 
