@@ -1564,6 +1564,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 
 Tools for accessing sports-related data, results, and statistics.
 
+- [arenatwo/uponly-mcp](https://github.com/arenatwo/uponly-mcp) 📇 ☁️ - Free-to-play Premier League prediction game. Predict match outcomes, check leaderboards, lock picks, and manage gameweeks through natural conversation. No API keys needed.
 - [cloudbet/sports-mcp-server](https://github.com/cloudbet/sports-mcp-server) 🏎️ ☁️ – Access structured sports data via the Cloudbet API. Query upcoming events, live odds, stake limits, and market info across soccer, basketball, tennis, esports, and more.
 - [csjoblom/musclesworked-mcp](https://github.com/csjoblom/musclesworked-mcp) 📇 ☁️ - Exercise-to-muscle mapping MCP server. Look up muscles worked by 856 exercises across 65 muscles and 14 muscle groups, analyze workouts for gaps, and find alternative exercises ranked by muscle overlap.
 - [guillochon/mlb-api-mcp](https://github.com/guillochon/mlb-api-mcp) 🐍 🏠 - MCP server that acts as a proxy to the freely available MLB API, which provides player info, stats, and game information.
