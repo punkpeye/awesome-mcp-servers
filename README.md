@@ -264,6 +264,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
 - [browsermcp/mcp](https://github.com/browsermcp/mcp) 📇 🏠 - Automate your local Chrome browser
 - [brutalzinn/simple-mcp-selenium](https://github.com/brutalzinn/simple-mcp-selenium) 📇 🏠 - An MCP Selenium Server for controlling browsers using natural language in Cursor IDE. Perfect for testing, automation, and multi-user scenarios.
+- [redf0x1/camofox-mcp](https://github.com/redf0x1/camofox-mcp) 📇 🏠 - Anti-detection browser automation for AI agents. 18 tools wrapping CamoFox REST API with stealth fingerprinting that passes bot detection.
 - [co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🐍 - browser-use packaged as an MCP server with SSE transport. includes a dockerfile to run chromium in docker + a vnc server.
 - [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) 🏎️ 🏠 🍎 🐧 🪟 - A fully functional MCP server and CLI for YouTube to automate YouTube operation
 - [executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 📇 - An MCP server using Playwright for browser automation and webscrapping
