@@ -1052,7 +1052,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 
-- [olgasafonova/nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server) 🏎️ ☁️ - Access Nordic business registries (Norway, Denmark, Finland, Sweden). Search companies, verify registration, check board members and signing authority.
+- [olgasafonova/nordic-registry-mcp-server](https://github.com/olgasafonova/nordic-registry-mcp-server) [glama](https://glama.ai/mcp/servers/olgasafonova/nordic-registry-mcp-server) 🏎️ ☁️ - Access Nordic business registries (Norway, Denmark, Finland, Sweden). Search companies, verify registration, check board members and signing authority.
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
 
 ### 🗺️ <a name="location-services"></a>Location Services
