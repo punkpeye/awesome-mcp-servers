@@ -952,6 +952,8 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
+- [robot-rubik/scopeshield-mcp](https://github.com/robot-rubik/ceoclaw/tree/master/ceoclaw/scopeshield-mcp) 🐍 🏠 - MCP server for freelancer scope creep management. Detects client change requests, logs them to a tracker, and drafts professional change-order responses to protect freelance income.
+
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) 📇 ☁️ - Deep Research for crypto - free & fully local
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp) 🎖️ 🐍 ☁️ 🏠 - Access institutional-grade alternative financial data directly in your LLM workflows.
