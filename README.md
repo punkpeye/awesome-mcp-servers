@@ -940,6 +940,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
+- [manuelariasfz/mcp-colombia](https://github.com/manuelariasfz/mcp-colombia) 📇 🏠 - Colombia financial tools: compare CDTs (certificates of deposit) across 10+ banks, simulate consumer loans, and compare savings accounts and digital wallets — all in Colombian pesos (COP).
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) 📇 ☁️ - Deep Research for crypto - free & fully local
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp) 🎖️ 🐍 ☁️ 🏠 - Access institutional-grade alternative financial data directly in your LLM workflows.
@@ -1542,6 +1543,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [semgrep/mcp](https://github.com/semgrep/mcp) 📇 ☁️ Allow AI agents to scan code for security vulnerabilites using [Semgrep](https://semgrep.dev).
 - [slouchd/cyberchef-api-mcp-server](https://github.com/slouchd/cyberchef-api-mcp-server) 🐍 ☁️ - MCP server for interacting with the CyberChef server API which will allow an MCP client to utilise the CyberChef operations.
 - [snyk/studio-mcp](https://github.com/snyk/studio-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Embeds Snyk's security engines into agentic workflows. Secures AI-generated code in real-time and accelerates the fixing vulnerability backlogs.
+- [manuelariasfz/soulprint](https://github.com/manuelariasfz/soulprint) 📇 🏠 🍎 🪟 🐧 - 🔐 Decentralized KYC middleware for AI agents. ZK proof that a real human is behind any bot. 3-line MCP/Express integration. Anti-Sybil via biometric nullifier. `npm i soulprint-mcp`
 - [StacklokLabs/osv-mcp](https://github.com/StacklokLabs/osv-mcp) 🏎️ ☁️ - Access the OSV (Open Source Vulnerabilities) database for vulnerability information. Query vulnerabilities by package version or commit, batch query multiple packages, and get detailed vulnerability information by ID.
 - [vespo92/OPNSenseMCP](https://github.com/vespo92/OPNSenseMCP) 📇 🏠 - MCP Server for managing & interacting with Open Source NGFW OPNSense via Natural Language
 - [zboralski/ida-headless-mcp](https://github.com/zboralski/ida-headless-mcp) 🏎️ 🐍 🏠 🍎 🪟 🐧 - Headless IDA Pro binary analysis via MCP. Multi-session concurrency with Go orchestration and Python workers. Supports Il2CppDumper and Blutter metadata import for Unity and Flutter reverse engineering.
@@ -1620,6 +1622,7 @@ Tools for converting text-to-speech and vice-versa
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
+- [manuelariasfz/mcp-colombia](https://github.com/manuelariasfz/mcp-colombia) 📇 🏠 - Colombia travel tools: search hotels in Colombian cities via Booking.com, and find flights with Avianca, LATAM and Skyscanner.
 
 - [campertunity/mcp-server](https://github.com/campertunity/mcp-server) 🎖️ 📇 🏠 - Search campgrounds around the world on campertunity, check availability, and provide booking links
 - [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) 🐍 🏠 - A Model Context Protocol (MCP) server that provides access to your TeslaMate database, allowing AI assistants to query Tesla vehicle data and analytics.
