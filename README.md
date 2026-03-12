@@ -547,6 +547,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [hydrolix/mcp-hydrolix](https://github.com/hydrolix/mcp-hydrolix) 🎖️ 🐍 ☁️ - Hydrolix time-series datalake integration providing schema exploration and query capabilities to LLM-based workflows.
 - [idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server) 📇 ☁️ 🏠 - Run queries against InfluxDB OSS API v2.
 - [InfluxData/influxdb3_mcp_server](https://github.com/influxdata/influxdb3_mcp_server) 🎖️ 📇 🏠 ☁️ - Official MCP server for InfluxDB 3 Core/Enterprise/Cloud Dedicated
+- [izzzzzi/izTolkMcp](https://github.com/izzzzzi/izTolkMcp) [glama](https://glama.ai/mcp/servers/izzzzzi/iz-tolk-mcp) 📇 🏠 - MCP server for the Tolk smart contract compiler on TON blockchain. Compile, syntax-check, and generate deployment deeplinks for TON contracts directly from AI assistants.
 - [isaacwasserman/mcp-snowflake-server](https://github.com/isaacwasserman/mcp-snowflake-server) 🐍 ☁️ - Snowflake integration implementing read and (optional) write operations as well as insight tracking
 - [iunera/druid-mcp-server](https://github.com/iunera/druid-mcp-server) ☕ ☁️ 🏠 - Comprehensive MCP server for Apache Druid that provides extensive tools, resources, and prompts for managing and analyzing Druid clusters.
 - [JaviMaligno/postgres_mcp](https://github.com/JaviMaligno/postgres_mcp) 🐍 🏠 - PostgreSQL MCP server with 14 tools for querying, schema exploration, and table analysis. Features security-first design with SQL injection prevention and read-only by default.
