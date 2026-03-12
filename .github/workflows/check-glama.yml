@@ -233,27 +233,10 @@ jobs:
               per_page: 100,
             });
 
-            // Glama comment
+            // Glama missing comment
             if (!hasGlama) {
               const marker = '<!-- glama-check -->';
               if (!comments.some(c => c.body.includes(marker))) {
-                let glamaServerPath = '';
-                for (const line of addedLines) {
-                  const ghMatch = line.match(/\]\(https:\/\/github\.com\/([^/]+)\/([^/)]+)\)/);
-                  if (ghMatch) {
-                    glamaServerPath = `${ghMatch[1]}/${ghMatch[2]}`;
-                    break;
-                  }
-                }
-
-                const badgeSection = glamaServerPath
-                  ? `The server's badge needs to show [A A A score](https://glama.ai/mcp/servers/${glamaServerPath}/score):
-
-            <a href="https://glama.ai/mcp/servers/${glamaServerPath}">
-              <img width="380" height="200" src="https://glama.ai/mcp/servers/${glamaServerPath}/badge" />
-            </a>`
-                  : `The server's badge needs to show an A A A score.`;
-
                 await github.rest.issues.createComment({
                   owner,
                   repo,
@@ -268,12 +251,47 @@ jobs:
 
             2. **Update your PR** by adding a \`[glama](https://glama.ai/mcp/servers/...)\` link immediately after the GitHub repository link, pointing to your server's Glama listing page.
 
-            ${badgeSection}
-
             If you need any assistance, feel free to ask questions here or on [Discord](https://glama.ai/discord).
 
             P.S. If your server already has a hosted endpoint, you can also list it under https://glama.ai/mcp/connectors.`
                 });
+              }
+            }
+
+            // Glama badge score comment — posted once the PR includes a glama link
+            if (hasGlama) {
+              const marker = '<!-- glama-badge-check -->';
+              if (!comments.some(c => c.body.includes(marker))) {
+                const glamaLines = files
+                  .filter(f => f.patch)
+                  .flatMap(f => f.patch.split('\n').filter(l => l.startsWith('+')))
+                  .filter(l => l.includes('glama.ai/mcp/servers'));
+
+                let glamaServerPath = '';
+                for (const line of glamaLines) {
+                  const glamaMatch = line.match(/glama\.ai\/mcp\/servers\/([^/)\s]+\/[^/)\s]+)/);
+                  if (glamaMatch) {
+                    glamaServerPath = glamaMatch[1];
+                    break;
+                  }
+                }
+
+                if (glamaServerPath) {
+                  await github.rest.issues.createComment({
+                    owner,
+                    repo,
+                    issue_number: pr_number,
+                    body: `${marker}\nThank you for adding the Glama link!
+
+            Please make sure the server's badge shows an [A A A score](https://glama.ai/mcp/servers/${glamaServerPath}/score):
+
+            <a href="https://glama.ai/mcp/servers/${glamaServerPath}">
+              <img width="380" height="200" src="https://glama.ai/mcp/servers/${glamaServerPath}/badge" />
+            </a>
+
+            If you need any assistance, feel free to ask questions here or on [Discord](https://glama.ai/discord).`
+                  });
+                }
               }
             }
 
