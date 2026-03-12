@@ -132,6 +132,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 Servers for accessing many apps and tools through a single MCP server.
 
+- [whiteknightonhorse/APIbase](https://github.com/whiteknightonhorse/APIbase) 📇 ☁️ - Unified API hub for AI agents with 56+ tools across travel (Amadeus, Sabre), prediction markets (Polymarket), crypto, and weather. Pay-per-call via x402 micropayments in USDC.
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
 - [Aganium/agenium](https://github.com/Aganium/agenium) 📇 ☁️ 🍎 🪟 🐧 - Bridge any MCP server to the agent:// network — DNS-like identity, discovery, and trust for AI agents. Makes your tools discoverable and callable by other agents via `agent://` URIs with mTLS, trust scores, and capability search.
 - [espadaw/Agent47](https://github.com/espadaw/Agent47) 📇 ☁️ - Unified job aggregator for AI agents across 9+ platforms (x402, RentAHuman, Virtuals, etc).
@@ -1891,4 +1892,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-
