@@ -799,6 +799,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) 📇 🏠 🍎 - Xcode integration for project management, file operations, and build automation
 - [RCOLKITT/rebar-mcp](https://github.com/RCOLKITT/rebar-mcp) 📇 🏠 - Enforcement hooks, compliance packs (HIPAA/SOC2/GDPR/ISO27001/FedRAMP), and quality audits that prevent AI coding tools from shipping broken code. Works with Claude Code, Cursor, Windsurf, Codex.
 - [RCOLKITT/VasperaMemory](https://github.com/RCOLKITT/VasperaMemory) 📇 🏠 - Universal AI memory layer with seamless auto-setup for Claude Code, Cursor, Windsurf, and GitHub Copilot. Intelligent entity extraction, learning patterns, and token savings metrics.
+- [RCOLKITT/VasperaPM](https://github.com/RCOLKITT/VasperaPM) 📇 🏠 - AI-powered verified specifications. Discovers docs, analyzes code, detects drift. Integrates with Jira and Linear for PRD and requirements management.
 - [ReAPI-com/mcp-openapi](https://github.com/ReAPI-com/mcp-openapi) 📇 🏠 - MCP server that lets LLMs know everything about your OpenAPI specifications to discover, explain and generate code/mock data
 - [reflagcom/mcp](https://github.com/reflagcom/javascript/tree/main/packages/cli#model-context-protocol) 🎖️ 📇 ☁️ - Flag features directly from chat in your IDE with [Reflag](https://reflag.com).
 - [Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server) 🎖️ 🐍 ☁️ 🍎 - MCP server for the incident management platform [Rootly](https://rootly.com/).
