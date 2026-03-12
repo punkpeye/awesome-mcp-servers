@@ -237,6 +237,23 @@ jobs:
             if (!hasGlama) {
               const marker = '<!-- glama-check -->';
               if (!comments.some(c => c.body.includes(marker))) {
+                let glamaServerPath = '';
+                for (const line of addedLines) {
+                  const ghMatch = line.match(/\]\(https:\/\/github\.com\/([^/]+)\/([^/)]+)\)/);
+                  if (ghMatch) {
+                    glamaServerPath = `${ghMatch[1]}/${ghMatch[2]}`;
+                    break;
+                  }
+                }
+
+                const badgeSection = glamaServerPath
+                  ? `The server's badge needs to show [A A A score](https://glama.ai/mcp/servers/${glamaServerPath}/score):
+
+            <a href="https://glama.ai/mcp/servers/${glamaServerPath}">
+              <img width="380" height="200" src="https://glama.ai/mcp/servers/${glamaServerPath}/badge" />
+            </a>`
+                  : `The server's badge needs to show an A A A score.`;
+
                 await github.rest.issues.createComment({
                   owner,
                   repo,
@@ -250,6 +267,8 @@ jobs:
             1. **Ensure your server is listed on Glama.** If it isn't already, submit it at https://glama.ai/mcp/servers and verify that it passes all checks (including a successfully built Docker image and a release).
 
             2. **Update your PR** by adding a \`[glama](https://glama.ai/mcp/servers/...)\` link immediately after the GitHub repository link, pointing to your server's Glama listing page.
+
+            ${badgeSection}
 
             If you need any assistance, feel free to ask questions here or on [Discord](https://glama.ai/discord).
 
