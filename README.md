@@ -797,6 +797,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [qainsights/locust-mcp-server](https://github.com/QAInsights/locust-mcp-server) 🐍 🏠 - Locust MCP Server for performance testing
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - Docker container management and operations through MCP
 - [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) 📇 🏠 🍎 - Xcode integration for project management, file operations, and build automation
+- [RCOLKITT/AccountingQB-MCP](https://github.com/RCOLKITT/AccountingQB-MCP) 🐍 🏠 - QuickBooks Online MCP server with 80 tools for bookkeeping, tax prep, reconciliation, 1099 reporting, anomaly detection, and cash flow forecasting. Built for sole proprietors and small businesses.
 - [RCOLKITT/rebar-mcp](https://github.com/RCOLKITT/rebar-mcp) 📇 🏠 - Enforcement hooks, compliance packs (HIPAA/SOC2/GDPR/ISO27001/FedRAMP), and quality audits that prevent AI coding tools from shipping broken code. Works with Claude Code, Cursor, Windsurf, Codex.
 - [RCOLKITT/VasperaMemory](https://github.com/RCOLKITT/VasperaMemory) 📇 🏠 - Universal AI memory layer with seamless auto-setup for Claude Code, Cursor, Windsurf, and GitHub Copilot. Intelligent entity extraction, learning patterns, and token savings metrics.
 - [RCOLKITT/VasperaPM](https://github.com/RCOLKITT/VasperaPM) 📇 🏠 - AI-powered verified specifications. Discovers docs, analyzes code, detects drift. Integrates with Jira and Linear for PRD and requirements management.
