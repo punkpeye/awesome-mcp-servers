@@ -892,6 +892,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 - [adancurusul/embedded-debugger-mcp](https://github.com/adancurusul/embedded-debugger-mcp) 🦀 📟 - A Model Context Protocol server for embedded debugging with probe-rs - supports ARM Cortex-M, RISC-V debugging via J-Link, ST-Link, and more
 - [adancurusul/serial-mcp-server](https://github.com/adancurusul/serial-mcp-server) 🦀 📟 - A comprehensive MCP server for serial port communication
 - [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - Workflow for fixing build issues in ESP32 series chips using ESP-IDF.
+- [ormastes/simple](https://github.com/ormastes/simple/tree/main/examples/10_tooling/trace32_tools) 🌊 📟 🏠 🐧 🪟 - Two MCP servers for Lauterbach TRACE32 hardware debuggers: `t32-mcp-server` (20 tools — session management, command execution, window capture, register/memory inspection) and `t32-lsp-mcp-server` (6 tools — CMM/PRACTICE script parsing, diagnostics, completions, hover). Pre-built binaries available.
 - [kukapay/modbus-mcp](https://github.com/kukapay/modbus-mcp) 🐍 📟 - An MCP server that standardizes and contextualizes industrial Modbus data.
 - [kukapay/opcua-mcp](https://github.com/kukapay/opcua-mcp) 🐍 📟 - An MCP server that connects to OPC UA-enabled industrial systems.
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - A JavaScript-driven M5Stack-embedded super-kawaii robot with MCP server functionality for AI-controlled interactions and emotions.
