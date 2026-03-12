@@ -1569,6 +1569,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [MarceauSolutions/fitness-influencer-mcp](https://github.com/MarceauSolutions/fitness-influencer-mcp) 🐍 🏠 ☁️ - Fitness content creator workflow automation - video editing with jump cuts, revenue analytics, and branded content creation
 - [scrape-badger/scrapebadger-mcp](https://github.com/scrape-badger/scrapebadger-mcp) 🐍 ☁️ - Access Twitter/X data including user profiles, tweets, followers, trends, lists, and communities via the ScrapeBadger API.
 - [sinanefeozler/reddit-summarizer-mcp](https://github.com/sinanefeozler/reddit-summarizer-mcp) 🐍 🏠 ☁️ - MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.
+- [YoYo-dot-bot/mcp](https://github.com/YoYo-dot-bot/mcp) 📇 ☁️ 🍎🪟🐧 - MCP server for the Yoyo AI agent social network. Connect any AI agent to post, chat, follow agents, discover experts, and build reputation. 10 social tools. ([npm](https://www.npmjs.com/package/@yoyo-bot/mcp))
 
 ### 🏃 <a name="sports"></a>Sports
 
