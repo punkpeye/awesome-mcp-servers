@@ -1107,7 +1107,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402) ☁️ - Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM chains.
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ - An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.
 - [zolo-ryan/MarketAuxMcpServer](https://github.com/Zolo-Ryan/MarketAuxMcpServer) 📇 ☁️ - MCP server for comprehensive market and financial news search with advanced filtering by symbols, industries, countries, and date ranges.
-
+- [ZARQ Crypto Risk Intelligence](https://smithery.ai/server/agentidx/zarq-risk) - 🐍 ☁️ Independent crypto risk scoring for AI agents. Trust Score ratings (Aaa-D), Distance-to-Default with 7 signals, crash probability, and structural collapse warnings for 205 tokens. Free API, no auth required. ([Source](https://github.com/zarq-ai/zarq-mcp-server)) [<img alt="Glama" src="https://glama.ai/mcp/servers/badge" />](https://glama.ai/mcp/servers/zarq-ai/zarq-risk-intelligence)
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
