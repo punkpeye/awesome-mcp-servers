@@ -1454,6 +1454,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [OctagonAI/octagon-deep-research-mcp](https://github.com/OctagonAI/octagon-deep-research-mcp) 🎖️ 📇 ☁️ 🏠 - Lightning-Fast, High-Accuracy Deep Research Agent
 - [olostep/olostep-mcp-server](https://github.com/olostep/olostep-mcp-server) 📇 ☁️ - API to search, extract and structure web data. Web scraping, AI-powered answers with citations, batch processing (10k URLs), and autonomous site crawling.
 - [parallel-web/search-mcp](https://github.com/parallel-web/search-mcp) ☁️ 🔎 - Highest Accuracy Web Search for AI
+- [FayAndXan/spectrawl](https://github.com/FayAndXan/spectrawl) ([glama](https://glama.ai/mcp/servers/FayAndXan/spectrawl)) 📇 🏠 - Unified web layer for AI agents. Search (8 engines), stealth browse, cookie auth, and act on 24 platforms. 5,000 free searches/month via Gemini Grounded Search.
 - [parallel-web/task-mcp](https://github.com/parallel-web/task-mcp) ☁️ 🔎 - Highest Accuracy Deep Research and Batch Tasks MCP
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - Best people search engine that reduces the time spent on talent discovery
 - [peter-j-thompson/semanticapi-mcp](https://github.com/peter-j-thompson/semanticapi-mcp) 🐍 ☁️ - Natural language API discovery — search 700+ API capabilities, get endpoints, auth setup, and code snippets. Supports auto-discovery of new APIs.
