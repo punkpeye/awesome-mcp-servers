@@ -115,9 +115,11 @@
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - เซิร์ฟเวอร์ MCP ในเครื่องที่สร้างภาพเคลื่อนไหวด้วย Manim
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - เพิ่ม วิเคราะห์ ค้นหา และสร้างการตัดต่อวิดีโอจากคอลเลกชันวิดีโอของคุณ
 - [djalal/quran-mcp-server](https://github.com/djalal/quran-mcp-server) 📇 🏠 - เซิร์ฟเวอร์ MCP เพื่อโต้ตอบกับคลังข้อมูลอัลกุรอาน ผ่าน REST API v4 อย่างเป็นทางการ
+- [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - เซิร์ฟเวอร์ MCP สำหรับ AniList พร้อมการแนะนำตามรสนิยม การวิเคราะห์การรับชม เครื่องมือโซเชียล และการจัดการรายการแบบครบวงจร
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - การผสานรวม API พิพิธภัณฑ์ Rijksmuseum สำหรับค้นหางานศิลปะ รายละเอียด และคอลเลกชัน
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp) 📇 ☁️ - การผสานรวม API Oorlogsbronnen (แหล่งข้อมูลสงคราม) สำหรับเข้าถึงบันทึกทางประวัติศาสตร์ ภาพถ่าย และเอกสารจากเนเธอร์แลนด์ในช่วงสงครามโลกครั้งที่ 2 (1940-1945)
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - การผสานรวมเซิร์ฟเวอร์ MCP สำหรับ DaVinci Resolve ที่ให้เครื่องมือทรงพลังสำหรับการตัดต่อวิดีโอ ปรับสี จัดการสื่อ และควบคุมโปรเจ็กต์
+- [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP แบบโลคัลสำหรับสร้างแอสเซ็ตรูปภาพด้วย Google Gemini (Nano Banana 2 / Pro) รองรับเอาต์พุต PNG/WebP แบบโปร่งใส การปรับขนาด/ครอบภาพอย่างแม่นยำ รูปอ้างอิงได้สูงสุด 14 รูป และการอ้างอิงข้อมูลด้วย Google Search
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่ผสานรวม AniList API สำหรับข้อมูลอนิเมะและมังงะ
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - ให้บริการจัดทำแผนภูมิปาจื้อ (八字) และการวิเคราะห์ที่ครอบคลุมและแม่นยำ
 
@@ -538,6 +540,7 @@
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP ที่มุ่งเน้นความปลอดภัย ให้แนวทางความปลอดภัยและการวิเคราะห์เนื้อหาสำหรับตัวแทน AI
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - เซิร์ฟเวอร์ MCP สำหรับการรวม Ghidra กับผู้ช่วย AI ปลั๊กอินนี้ช่วยให้สามารถวิเคราะห์ไบนารีได้ โดยมีเครื่องมือสำหรับการตรวจสอบฟังก์ชัน การดีคอมไพล์ การสำรวจหน่วยความจำ และการวิเคราะห์การนำเข้า/ส่งออกผ่าน Model Context Protocol
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 – เซิร์ฟเวอร์ MCP สำหรับวิเคราะห์ผลการรวบรวม ROADrecon จากการแจงนับผู้เช่า Azure
+- [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับวิเคราะห์แพ็กเก็ตเครือข่าย Wireshark พร้อมความสามารถในการดักจับ สถิติโปรโตคอล การแยกฟิลด์ และการวิเคราะห์ความปลอดภัย
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – เซิร์ฟเวอร์ MCP (Model Context Protocol) ที่ปลอดภัย ช่วยให้ตัวแทน AI สามารถโต้ตอบกับแอปยืนยันตัวตนได้
 - [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ dnstwist เครื่องมือ fuzzing DNS อันทรงพลังที่ช่วยตรวจจับการพิมพ์ผิด การฟิชชิ่ง และการจารกรรมองค์กร
 - [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) 📇 🪟 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ maigret เครื่องมือ OSINT อันทรงพลังที่รวบรวมข้อมูลบัญชีผู้ใช้จากแหล่งสาธารณะต่างๆ เซิร์ฟเวอร์นี้มีเครื่องมือสำหรับค้นหาชื่อผู้ใช้ในโซเชียลเน็ตเวิร์กและวิเคราะห์ URL

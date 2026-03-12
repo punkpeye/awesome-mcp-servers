@@ -132,7 +132,9 @@
 
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 포괄적이고 정확한 사주팔자(八字) 분석과 해석 제공
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - Video Jungle 컬렉션에서 비디오 편집 추가, 분석, 검색 및 생성
+- [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - 취향 기반 추천, 시청 분석, 소셜 도구 및 전체 목록 관리를 제공하는 AniList MCP 서버
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 작품 검색, 세부 정보 및 컬렉션을 위한 Rijksmuseum API 통합
+- [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - Google Gemini(Nano Banana 2 / Pro)로 이미지 에셋을 생성하는 로컬 MCP 서버. 투명 PNG/WebP 출력, 정확한 리사이즈/크롭, 최대 14개의 참조 이미지, Google Search 그라운딩을 지원합니다.
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 애니메이션 및 만화 정보를 위한 AniList API를 통합하는 MCP 서버
 
 ### 🧬 <a name="bio"></a>생물학, 의학 및 생물정보학
@@ -485,6 +487,7 @@
 ### 🔒 <a name="security"></a>보안
 
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - AI 에이전트를 위한 안전 가이드라인과 콘텐츠 분석을 제공하는 보안 중심의 MCP 서버.
+- [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - 캡처, 프로토콜 통계, 필드 추출 및 보안 분석 기능을 갖춘 Wireshark 네트워크 패킷 분석 MCP 서버.
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – AI 에이전트가 인증 앱과 상호 작용할 수 있도록 하는 보안 MCP(Model Context Protocol) 서버입니다.
 - [dnstwist MCP 서버](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - 타이포스쿼팅, 피싱 및 기업 스파이 활동 탐지를 돕는 강력한 DNS 퍼징 도구인 dnstwist용 MCP 서버.
 - [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary Ninja를 위한 MCP 서버 및 브릿지. 바이너리 분석 및 리버스 엔지니어링을 위한 도구를 제공합니다.
