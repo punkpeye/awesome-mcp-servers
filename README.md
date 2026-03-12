@@ -246,7 +246,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [the-momentum/apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) 🐍 🏠 🍎 🪟 🐧 - An MCP server that provides access to exported data from Apple Health. Data analytics included.
 - [the-momentum/fhir-mcp-server](https://github.com/the-momentum/fhir-mcp-server) 🐍 🏠 ☁️ - MCP Server that connects AI agents to FHIR servers. One example use case is querying patient history in natural language.
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs. Provides seamless integration with FHIR servers, enabling AI assistants to search, retrieve, create, update, and analyze clinical healthcare data with SMART-on-FHIR authentication support.
-- [fcggamou/autoicd-mcp](https://github.com/fcggamou/autoicd-mcp) 📇 ☁️ - MCP server for automated ICD-10 medical coding. Code clinical text to ICD-10-CM diagnoses, search 74,000+ codes, and de-identify PHI via the AutoICD API.
+- [fcggamou/autoicd-mcp](https://github.com/fcggamou/autoicd-mcp) [glama](https://glama.ai/mcp/servers/fcggamou/autoicd-mcp) 📇 ☁️ - MCP server for automated ICD-10 medical coding. Code clinical text to ICD-10-CM diagnoses, search 74,000+ codes, and de-identify PHI via the AutoICD API.
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
