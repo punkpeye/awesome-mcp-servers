@@ -1390,6 +1390,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️  MCP to search and read medical / life sciences papers from PubMed.
 - [angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - Search articles using the NYTimes API
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - An MCP server for Apify's open-source RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown.
+- [idapixl/idapixl-web-research-mcp](https://github.com/idapixl/idapixl-web-research-mcp) [glama](https://glama.ai/mcp/servers/idapixl-web-research-mcp) 📇 ☁️ - Pay-per-use web research for AI agents on Apify. Search (Brave + DuckDuckGo), fetch pages to clean markdown, and multi-step research with relevance scoring and key fact extraction.
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Clojars MCP Server for upto date dependency information of Clojure libraries
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Search ArXiv research papers
 - [boikot-xyz/boikot](https://github.com/boikot-xyz/boikot) 🦀☁️ - Model Context Protocol Server for looking up company ethics information. Learn about the ethical and unethical actions of major companies.
