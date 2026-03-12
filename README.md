@@ -477,7 +477,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) ☕ 🐍 ☁️ - MCP service for Tablestore, features include adding documents, semantic search for documents based on vectors and scalars, RAG-friendly, and serverless.
 - [amineelkouhen/mcp-cockroachdb](https://github.com/amineelkouhen/mcp-cockroachdb) 🐍 ☁️ - A Model Context Protocol server for managing, monitoring, and querying data in [CockroachDB](https://cockroachlabs.com).
 - [benborla29/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) ☁️ 🏠 - MySQL database integration in NodeJS with configurable access controls and schema inspection
-- [bonnard-data/bonnard](https://github.com/bonnard-data/bonnard) 📇 ☁️ 🏠 - Agentic schema for reliable querying and data apps. Define metrics once and query governed data from any warehouse (Snowflake, BigQuery, Databricks, PostgreSQL, DuckDB) via MCP.
+- [bonnard-data/bonnard](https://github.com/bonnard-data/bonnard) [glama](https://glama.ai/mcp/servers/bonnard-data/bonnard) 📇 ☁️ 🏠 - Agentic schema for reliable querying and data apps. Define metrics once and query governed data from any warehouse (Snowflake, BigQuery, Databricks, PostgreSQL, DuckDB) via MCP.
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow database integration with table search, list, and row create, read, update, and delete capabilities.
 - [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) 🐍 ☁️ - TiDB database integration with schema inspection and query capabilities
 - [Canner/wren-engine](https://github.com/Canner/wren-engine) 🐍 🦀 🏠 - The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents
