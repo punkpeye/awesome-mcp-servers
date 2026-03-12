@@ -9,6 +9,15 @@
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
+> [!IMPORTANT]
+> 阅读 [2025 年 MCP 状态报告](https://glama.ai/blog/2025-12-07-the-state-of-mcp-in-2025)。
+
+> [!IMPORTANT]
+> [Awesome MCP 服务器](https://glama.ai/mcp/servers) 网页目录。
+
+> [!IMPORTANT]
+> 使用 [MCP Inspector](https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D) 测试服务器。
+
 精选的优秀模型上下文协议 (MCP) 服务器列表。
 
 * [什么是MCP？](#什么是MCP？)
