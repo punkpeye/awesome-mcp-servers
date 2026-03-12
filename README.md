@@ -1255,6 +1255,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) 🐍 📇 ☁️ - Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - Kagi search API integration
 - [adawalli/nexus](https://github.com/adawalli/nexus) 📇 ☁️ - AI-powered web search server using Perplexity Sonar models with source citations. Zero-install setup via NPX.
+- [agenthustler/the-data-collector](https://github.com/agenthustler/the-data-collector) 🐍 ☁️ - Search Bluesky, Substack, and Hacker News via MCP. Pay-per-call with USDC on Base (x402). No API key needed.
 - [ananddtyagi/webpage-screenshot-mcp](https://github.com/ananddtyagi/webpage-screenshot-mcp) 📇 🏠 - A MCP server for taking screenshots of webpages to use as feedback during UI developement.
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️  MCP for LLM to search and read papers from arXiv
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️  MCP to search and read medical / life sciences papers from PubMed.
