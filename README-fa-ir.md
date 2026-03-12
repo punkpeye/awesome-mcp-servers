@@ -166,6 +166,7 @@
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp) 📇 ☁️ - یکپارچه‌سازی با API Oorlogsbronnen (منابع جنگ) برای دسترسی به سوابق تاریخی جنگ جهانی دوم، عکس‌ها و اسناد از هلند (۱۹۴۰-۱۹۴۵)
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - یکپارچه‌سازی با API Rijksmuseum برای جستجوی آثار هنری، جزئیات و مجموعه‌ها
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - یکپارچه‌سازی سرور MCP برای DaVinci Resolve که ابزارهای قدرتمندی برای ویرایش ویدیو، درجه‌بندی رنگ، مدیریت رسانه و کنترل پروژه فراهم می‌کند
+- [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - سرور MCP محلی برای تولید دارایی‌های تصویری با Google Gemini (Nano Banana 2 / Pro). از خروجی شفاف PNG/WebP، تغییر اندازه/برش دقیق، حداکثر ۱۴ تصویر مرجع و grounding با Google Search پشتیبانی می‌کند.
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - یک سرور MCP که API AniList را برای اطلاعات انیمه و مانگا یکپارچه می‌کند
 
 
@@ -1005,6 +1006,7 @@
 
 ### 🔒 <a name="security"></a>امنیت
 
+- [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - سرور MCP برای تحلیل بسته‌های شبکه Wireshark با قابلیت‌های ضبط، آمار پروتکل، استخراج فیلد و تحلیل امنیتی.
 - [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) ☁️ - Beelzebub یک چارچوب honeypot است که به شما امکان می‌دهد ابزارهای honeypot را با استفاده از MCP بسازید. هدف آن شناسایی تزریق پرامپت یا رفتار عامل مخرب است. ایده اصلی این است که به عامل ابزارهایی بدهید که در کار عادی خود هرگز از آنها استفاده نمی‌کند.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - سرور MCP برای یکپارچه‌سازی Ghidra با دستیاران هوش مصنوعی. این پلاگین تحلیل باینری را امکان‌پذیر می‌کند و ابزارهایی برای بازرسی تابع، دکامپایل، کاوش حافظه و تحلیل import/export از طریق Model Context Protocol فراهم می‌کند.
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - سرور MCP متمرکز بر امنیت که دستورالعمل‌های ایمنی و تحلیل محتوا را برای عامل‌های هوش مصنوعی فراهم می‌کند.
