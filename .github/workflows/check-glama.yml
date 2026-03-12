@@ -96,18 +96,20 @@ jobs:
               '\u{1F427}',        // 🐧 Linux
             ];
 
-            // Only check added lines (starting with +) for glama link
-            const hasGlama = files.some(file =>
-              file.patch && file.patch.split('\n')
-                .filter(line => line.startsWith('+'))
-                .some(line => line.includes('glama.ai/mcp/servers'))
-            );
-
-            // Check added lines for emoji usage
+            // All added lines with GitHub links (includes stale diff noise)
             const addedLines = files
               .filter(f => f.patch)
               .flatMap(f => f.patch.split('\n').filter(line => line.startsWith('+')))
               .filter(line => line.includes('](https://github.com/'));
+
+            // Filter to only genuinely new entries (not already in the base README)
+            const newAddedLines = addedLines.filter(line => {
+              const ghMatch = line.match(/\(https:\/\/github\.com\/[^)]+\)/i);
+              return !ghMatch || !existingUrls.has(ghMatch[0].toLowerCase());
+            });
+
+            // Only check new entries for glama link
+            const hasGlama = newAddedLines.some(line => line.includes('glama.ai/mcp/servers'));
 
             let hasValidEmoji = false;
             let hasInvalidEmoji = false;
@@ -142,16 +144,14 @@ jobs:
               }
             }
 
-            for (const line of addedLines) {
+            for (const line of newAddedLines) {
               const usedPermitted = permittedEmojis.filter(e => line.includes(e));
               if (usedPermitted.length > 0) {
                 hasValidEmoji = true;
               } else {
-                // Line with a GitHub link but no permitted emoji
                 invalidLines.push(line.replace(/^\+/, '').trim());
               }
 
-              // Check for emojis that aren't in the permitted list
               const emojiRegex = /\p{Emoji_Presentation}|\p{Emoji}\uFE0F/gu;
               const allEmojis = line.match(emojiRegex) || [];
               const unknownEmojis = allEmojis.filter(e => !permittedEmojis.some(p => p.includes(e) || e.includes(p)));
@@ -159,21 +159,18 @@ jobs:
                 hasInvalidEmoji = true;
               }
 
-              // Check that the link text uses full owner/repo format
-              // Pattern: [link-text](https://github.com/owner/repo)
               const entryRegex = /\[([^\]]+)\]\(https:\/\/github\.com\/([^/]+)\/([^/)]+)\)/;
               const match = line.match(entryRegex);
               if (match) {
                 const linkText = match[1];
                 const expectedName = `${match[2]}/${match[3]}`;
-                // Link text should contain owner/repo (case-insensitive)
                 if (!linkText.toLowerCase().includes('/')) {
                   badNameLines.push({ linkText, expectedName });
                 }
               }
             }
 
-            const emojiOk = addedLines.length === 0 || (hasValidEmoji && !hasInvalidEmoji && invalidLines.length === 0);
+            const emojiOk = newAddedLines.length === 0 || (hasValidEmoji && !hasInvalidEmoji && invalidLines.length === 0);
             const nameOk = badNameLines.length === 0;
             const noDuplicates = duplicateUrls.length === 0;
             const allGithub = nonGithubUrls.length === 0;
@@ -265,7 +262,11 @@ jobs:
                 const glamaLines = files
                   .filter(f => f.patch)
                   .flatMap(f => f.patch.split('\n').filter(l => l.startsWith('+')))
-                  .filter(l => l.includes('glama.ai/mcp/servers'));
+                  .filter(l => l.includes('glama.ai/mcp/servers'))
+                  .filter(l => {
+                    const ghMatch = l.match(/\(https:\/\/github\.com\/[^)]+\)/i);
+                    return !ghMatch || !existingUrls.has(ghMatch[0].toLowerCase());
+                  });
 
                 let glamaServerPath = '';
                 for (const line of glamaLines) {
@@ -296,7 +297,7 @@ jobs:
             }
 
             // Emoji comment
-            if (!emojiOk && addedLines.length > 0) {
+            if (!emojiOk && newAddedLines.length > 0) {
               const marker = '<!-- emoji-check -->';
               if (!comments.some(c => c.body.includes(marker))) {
                 const emojiList = [
