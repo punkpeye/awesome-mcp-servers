@@ -245,6 +245,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [OHNLP/omop_mcp](https://github.com/OHNLP/omop_mcp) 🐍 🏠 ☁️ - Map clinical terminology to OMOP concepts using LLMs for healthcare data standardization and interoperability.
 - [the-momentum/apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) 🐍 🏠 🍎 🪟 🐧 - An MCP server that provides access to exported data from Apple Health. Data analytics included.
 - [the-momentum/fhir-mcp-server](https://github.com/the-momentum/fhir-mcp-server) 🐍 🏠 ☁️ - MCP Server that connects AI agents to FHIR servers. One example use case is querying patient history in natural language.
+- [tamerh/biobtree](https://github.com/tamerh/biobtree) 🐍 🏎️ ☁️ - Unified biomedical graph database integrating 50+ data sources (genes, proteins, compounds, diseases, pathways) into a queryable graph with billions of cross-reference edges and intuitive chain query syntax.
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs. Provides seamless integration with FHIR servers, enabling AI assistants to search, retrieve, create, update, and analyze clinical healthcare data with SMART-on-FHIR authentication support.
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
