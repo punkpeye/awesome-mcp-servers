@@ -897,6 +897,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [jjsantos01/jupyter-notebook-mcp](https://github.com/jjsantos01/jupyter-notebook-mcp) 🐍 🏠 - connects Jupyter Notebook to Claude AI, allowing Claude to directly interact with and control Jupyter Notebooks.
 - [kdqed/zaturn](https://github.com/kdqed/zaturn) 🐍 🏠 🪟 🐧 🍎 - Link multiple data sources (SQL, CSV, Parquet, etc.) and ask AI to analyze the data for insights and visualizations.
 - [mckinsey/vizro-mcp](https://github.com/mckinsey/vizro/tree/main/vizro-mcp) 🎖️ 🐍 🏠 - Tools and templates to create validated and maintainable data charts and dashboards.
+- [oogunbiyi21/stats-compass-mcp](https://github.com/oogunbiyi21/stats-compass-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 50+ pandas-powered data analysis tools for loading, cleaning, transforming, visualizing, and ML workflows. Supports local, remote HTTP, and cloud deployments.
 - [optuna/optuna-mcp](https://github.com/optuna/optuna-mcp) 🎖️ 🐍 🏠 🐧 🍎 - Official MCP server enabling seamless orchestration of hyperparameter search and other optimization tasks with [Optuna](https://optuna.org/).
 - [phisanti/MCPR](https://github.com/phisanti/MCPR) 🏠 🍎 🪟 🐧 - Model Context Protocol for R: enables AI agents to participate in interactive live R sessions.
 - [phuongrealmax/code-guardian](https://github.com/phuongrealmax/code-guardian) 📇 🏠 - AI-powered code refactor engine with 80+ MCP tools for code analysis, hotspot detection, complexity metrics, persistent memory, and automated refactoring plans.
