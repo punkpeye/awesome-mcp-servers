@@ -1144,7 +1144,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [stoyky/mitre-attack-mcp](https://github.com/stoyky/mitre-attack-mcp): Facilitates querying and visualizing the MITRE ATT&CK knowledge base, enabling threat actor and malware attribution through a Model-Context Protocol server.
 - [stevenyu113228/BloodHound-MCP](https://github.com/stevenyu113228/BloodHound-MCP): BloodHound MCP enables LLMs to interact with and analyze Active Directory environments using natural language queries, enhancing the BloodHound tool's capabilities.
 - [Ludok-4/Ghidra](https://github.com/Ludok-4/Ghidra): ghidraMCP enables LLMs to autonomously reverse engineer applications by integrating Ghidra's decompilation and analysis tools with MCP clients.
-- [imran-siddique/agent-os](https://github.com/imran-siddique/agent-os): Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
+- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit): Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
 
 ## 📱 Social Media & Content Platforms
 
