@@ -1407,6 +1407,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - An MCP server for Apify's open-source RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown.
 - [idapixl/idapixl-web-research-mcp](https://github.com/idapixl/idapixl-web-research-mcp) [glama](https://glama.ai/mcp/servers/idapixl-web-research-mcp) 📇 ☁️ - Pay-per-use web research for AI agents on Apify. Search (Brave + DuckDuckGo), fetch pages to clean markdown, and multi-step research with relevance scoring and key fact extraction.
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Clojars MCP Server for upto date dependency information of Clojure libraries
+- [bamchi/scrapi-mcp-server](https://github.com/bamchi/scrapi-mcp-server) 📇 ☁️ - Web scraping for AI agents. Bypass anti-bot systems and get clean, LLM-ready Markdown via MCP. Supports both stdio and Streamable HTTP transports.
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Search ArXiv research papers
 - [boikot-xyz/boikot](https://github.com/boikot-xyz/boikot) 🦀☁️ - Model Context Protocol Server for looking up company ethics information. Learn about the ethical and unethical actions of major companies.
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) 📇 ☁️ - Web search capabilities using Brave's Search API
