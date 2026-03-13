@@ -376,6 +376,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
 
+- [AdaL](https://sylph.ai) 📇 🐍 🏠 🍎 🪟 🐧 - Self-evolving AI coding agent with full MCP support. Compatible with Claude Code skills and plugins. Features multi-model support, web research, and autonomous code editing.
 - [agentic-mcp-tools/owlex](https://github.com/agentic-mcp-tools/owlex) 🐍 🏠 🍎 🪟 🐧 - AI council server: query CLI agents (Claude Code, Codex, Gemini, and OpenCode) in parallel with deliberation rounds
 - [alpadalar/netops-mcp](https://github.com/alpadalar/netops-mcp) 🐍 🏠 - Comprehensive DevOps and networking MCP server providing standardized access to essential infrastructure tools. Features network monitoring, system diagnostics, automation workflows, and infrastructure management with AI-powered operational insights.
 - [askbudi/roundtable](https://github.com/askbudi/roundtable) 🐍 🏠 - Zero-configuration MCP server that unifies multiple AI coding assistants (Claude Code, Cursor, Codex) through intelligent auto-discovery and standardized interface. Essential infrastructure for autonomous agent development and multi-AI collaboration workflows.
