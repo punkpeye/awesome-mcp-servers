@@ -1006,6 +1006,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) 🎖️ ⛅️ 🏠 🐍 - Access specialized web3 AI agents for blockchain analysis, smart contract security auditing, token metrics evaluation, and on-chain interactions through the Heurist Mesh network. Provides comprehensive tools for DeFi analysis, NFT valuation, and transaction monitoring across multiple blockchains
 - [hive-intel/hive-crypto-mcp](https://github.com/hive-intel/hive-crypto-mcp) 📇 ☁️ 🏠 - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics
 - [hoqqun/stooq-mcp](https://github.com/hoqqun/stooq-mcp) 🦀 ☁️ - Fetch real-time stock prices from Stooq without API keys. Supports global markets (US, Japan, UK, Germany).
+- [HCS412/ventureautomated](https://github.com/HCS412/ventureautomated) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis) 📇 ☁️ - Venture intelligence for autonomous agents with startup discovery, company scoring, monitoring webhooks, and private workspace automation.
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - MCP server based on baostock, providing access and analysis capabilities for Chinese stock market data.
 - [IndigoProtocol/indigo-mcp](https://github.com/IndigoProtocol/indigo-mcp) [glama](https://glama.ai/mcp/servers/IndigoProtocol/indigo-mcp) 📇 ☁️ 🏠 - MCP server for Indigo Protocol on Cardano — iAsset prices, CDP/loan analytics, stability pools, INDY staking, governance, and DEX data for LLM agents
 - [IndigoProtocol/cardano-mcp](https://github.com/IndigoProtocol/cardano-mcp) [glama](https://glama.ai/mcp/servers/IndigoProtocol/cardano-mcp) 📇 ☁️ 🏠 - Cardano blockchain MCP server for wallet interactions — submit transactions, fetch addresses, read UTxOs, check balances, resolve ADAHandles, and check stake delegation
@@ -1901,4 +1902,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-
