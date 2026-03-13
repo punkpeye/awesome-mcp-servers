@@ -431,6 +431,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 Run commands, capture output and otherwise interact with shells and command line tools.
 
 - [danmartuszewski/hop](https://github.com/danmartuszewski/hop) 🏎️ 🖥️ - Fast SSH connection manager with TUI dashboard and MCP server for discovering, searching, and executing commands on remote hosts.
+- [nvms/tui-mcp](https://github.com/nvms/tui-mcp) 📇 🏠 🍎 🪟 🐧 - What Chrome DevTools MCP is for the browser, tui-mcp is for the terminal. Launch, screenshot, and interact with any TUI app.
 - [ferodrigop/forge](https://github.com/ferodrigop/forge) ([glama](https://glama.ai/mcp/servers/ferodrigop/forge)) 📇 🏠 - Terminal MCP server for AI coding agents with persistent PTY sessions, ring-buffer incremental reads, headless xterm screen capture, multi-agent orchestration, and a real-time web dashboard.
 
 ### 💬 <a name="communication"></a>Communication
