@@ -127,7 +127,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
-
+- chaoui-ahmed/rever-mcp-server 🐍 - An open-source MCP server to extend AI agent capabilities and automate specific workflows.
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
