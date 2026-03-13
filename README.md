@@ -1254,7 +1254,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
-
+- [jeremytuite/aop-mcp-server](https://github.com/jeremytuite/aop-mcp-server) 📇 ☁️ - Agent-executable compliance documentation for the Colorado AI Act (SB 24-205) — protocol browsing, schema retrieval, compliance assessment, and deployer classification.
 ### 🗺️ <a name="location-services"></a>Location Services
 
 Location-based services and mapping tools. Enables AI models to work with geographic data, weather information, and location-based analytics.
