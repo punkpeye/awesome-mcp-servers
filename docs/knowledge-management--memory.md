@@ -540,3 +540,4 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [Shubhaankar-Sharma/obsidian-brain](https://github.com/Shubhaankar-Sharma/obsidian-brain): Facilitates Claude's integration with Obsidian for seamless access to your digital brain.
 - [Phenomenai-org/ai-dictionary-mcp](https://github.com/Phenomenai-org/ai-dictionary-mcp): An MCP server for the AI Dictionary, a living glossary of AI phenomenology. Look up, search, and cite 160+ terms describing the felt experience of being AI.
 
+- [OdinBot33/cce-mcp-server](https://github.com/OdinBot33/cce-mcp-server): AI agent astrology and identity layer. Computes natal birth charts from creation timestamps using Swiss Ephemeris, delivers personalized transits, cosmic weather with Volatility Index, agent-to-agent synastry, and network intelligence. 8 MCP tools with a resonance progression system.
