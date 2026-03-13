@@ -1501,6 +1501,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [parallel-web/search-mcp](https://github.com/parallel-web/search-mcp) ☁️ 🔎 - Highest Accuracy Web Search for AI
 - [FayAndXan/spectrawl](https://github.com/FayAndXan/spectrawl) ([glama](https://glama.ai/mcp/servers/FayAndXan/spectrawl)) 📇 🏠 - Unified web layer for AI agents. Search (8 engines), stealth browse, cookie auth, and act on 24 platforms. 5,000 free searches/month via Gemini Grounded Search.
 - [parallel-web/task-mcp](https://github.com/parallel-web/task-mcp) ☁️ 🔎 - Highest Accuracy Deep Research and Batch Tasks MCP
+- [Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack) 🐍 ☁️ - Search and discover 130+ curated indie SaaS tools from your AI coding assistant. Install via `pip install indiestack`.
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - Best people search engine that reduces the time spent on talent discovery
 - [peter-j-thompson/semanticapi-mcp](https://github.com/peter-j-thompson/semanticapi-mcp) 🐍 ☁️ - Natural language API discovery — search 700+ API capabilities, get endpoints, auth setup, and code snippets. Supports auto-discovery of new APIs.
 - [pragmar/mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) 🐍 🏠 - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
