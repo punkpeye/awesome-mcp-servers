@@ -733,6 +733,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [jaspertvdm/mcp-server-tibet](https://github.com/jaspertvdm/mcp-server-tibet) 🐍 ☁️ 🏠 - TIBET provenance tracking for AI decisions. Cryptographic audit trails with ERIN/ERAAN/EROMHEEN/ERACHTER intent logging for compliance.
 - [jetbrains/mcpProxy](https://github.com/JetBrains/mcpProxy) 🎖️ 📇 🏠 - Connect to JetBrains IDE
 - [Jktfe/serveMyAPI](https://github.com/Jktfe/serveMyAPI) 📇 🏠 🍎 - A personal MCP (Model Context Protocol) server for securely storing and accessing API keys across projects using the macOS Keychain.
+- [jonradoff/lightcms](https://github.com/jonradoff/lightcms) 🏎️ ☁️ - AI-native CMS with 41 MCP tools for managing websites through natural language. Create pages, templates, assets, themes, collections, redirects, and more with full content versioning.
 - [jordandalton/restcsv-mcp-server](https://github.com/JordanDalton/RestCsvMcpServer) 📇 ☁️ - An MCP server for CSV files.
 - [joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) 📇 🏠 - An MCP server to communicate with the App Store Connect API for iOS Developers
 - [joshuarileydev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server) 📇 🏠 - An MCP server to control iOS Simulators
