@@ -634,8 +634,10 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
 
+- [IteraTools](https://github.com/fredpsantos33/iteratools-mcp) - 40+ production-ready tools for AI agents: QR codes, PDFs, text processing, TTS, web scraping, image generation and more. x402 micropayments on Base.
 Tools and integrations that enhance the development workflow and environment management.
 
+- [IteraTools](https://github.com/fredpsantos33/iteratools-mcp) - 40+ production-ready tools for AI agents: QR codes, PDFs, text processing, TTS, web scraping, image generation and more. x402 micropayments on Base.
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - Create crafted UI components inspired by the best 21st.dev design engineers.
 - [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOS code quality analysis and test automation server. Provides comprehensive Xcode test execution, SwiftLint integration, and detailed failure analysis. Operates in both CLI and MCP server modes for direct developer usage and AI assistant integration.
 - [AaronVick/ECHO_RIFT_MCP](https://github.com/AaronVick/ECHO_RIFT_MCP) 📇 ☁️ - MCP server for EchoRift infrastructure primitives (BlockWire, CronSynth, Switchboard, Arbiter). Makes EchoRift's agent infrastructure callable as MCP tools so any MCP client can treat EchoRift like a native capability layer.
