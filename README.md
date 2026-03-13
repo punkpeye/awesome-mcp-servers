@@ -930,6 +930,7 @@ MCP servers for learning management systems (LMS) and educational tools.
 Provides access to environmental data and nature-related tools, services and information.
 
 - [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - MCP server for detecting, monitoring, and analyzing potential wildfires globally using multiple data sources including NASA FIRMS, OpenWeatherMap, and Google Earth Engine.
+- [mcmurrym/virga-mcp](https://github.com/mcmurrym/virga-mcp) 📇 ☁️ - Agent-first Weather API with autonomous onboarding, prepaid credits, and normalized weather data. Agents can self-register, accept terms, and query current, forecast, and historical weather via MCP.
 
 ### 📂 <a name="file-systems"></a>File Systems
 
