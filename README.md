@@ -81,6 +81,14 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ## Server Implementations
 
+### Agent Matrix (ClawForge)
+- [ClawForge Suite](https://github.com/jackjin1997/ClawForge) - A comprehensive matrix of agent skills, MCP servers, and optimized workflows including GitHub Trending analysis, DDD modeling, and LangChain 1.0 primitives.
+
+
+### GitHub Trending
+- [GitHub Trending Analyzer](https://github.com/jackjin1997/ClawForge/tree/main/skills/github-trending-analyzer) - A specialized tool for fetching and categorizing GitHub Trending projects across daily/weekly/monthly spans.
+
+
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
