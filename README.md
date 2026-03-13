@@ -244,7 +244,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [hanzili/comet-mcp](https://github.com/hanzili/comet-mcp) 📇 🏠 🍎 - Connect to Perplexity Comet browser for agentic web browsing, deep research, and real-time task monitoring.
 - [imprvhub/mcp-browser-agent](https://github.com/imprvhub/mcp-browser-agent) 📇 🏠 - A Model Context Protocol (MCP) integration that provides Claude Desktop with autonomous browser automation capabilities.
 - [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Fetch YouTube subtitles and transcripts for AI analysis
-- [samson-art/transcriptor-mcp](https://github.com/samson-art/transcriptor-mcp) 📇 ☁️ - Transcriptor MCP is your choice when you need transcripts and metadata for AI, summarization, or content analysis 
+- [samson-art/transcriptor-mcp](https://github.com/samson-art/transcriptor-mcp) [glama](https://glama.ai/mcp/servers/samson-art/transcriptor-mcp) 📇 ☁️ - Transcriptor MCP is your choice when you need transcripts and metadata for AI, summarization, or content analysis 
 - [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - A `minimal` server/client MCP implementation using Azure OpenAI and Playwright.
 - [lightpanda-io/gomcp](https://github.com/lightpanda-io/gomcp) 🏎 🏠/☁️ 🐧/🍎 - An MCP server in Go for Lightpanda, the ultra fast headless browser designed for web automation
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility snapshots
