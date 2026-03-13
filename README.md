@@ -1715,6 +1715,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [UnMarkdown/mcp-server](https://github.com/UnMarkdown/mcp-server) [glama](https://glama.ai/mcp/servers/@UnMarkdown/mcp-server) 📇 ☁️ - The document publishing layer for AI tools. Convert markdown to formatted documents for Google Docs, Word, Slack, OneNote, Email, and Plain Text with 62 templates.
 - [vakharwalad23/google-mcp](https://github.com/vakharwalad23/google-mcp) 📇 ☁️ - Collection of Google-native tools (Gmail, Calendar, Drive, Tasks) for MCP with OAuth management, automated token refresh, and auto re-authentication capabilities.
 - [vasylenko/claude-desktop-extension-bear-notes](https://github.com/vasylenko/claude-desktop-extension-bear-notes) 📇 🏠 🍎 - Search, read, create, and update Bear Notes directly from Claude. Local-only with complete privacy.
+- [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) 📇 ☁️ 🏠 - Open-source meeting bot API with native MCP server. Search and query meeting transcripts, get summaries, and access conversation history from Google Meet, Zoom, and Teams directly in Claude Desktop or Cursor.
 - [wyattjoh/calendar-mcp](https://github.com/wyattjoh/calendar-mcp) 📇 🏠 🍎 - MCP server for accessing macOS Calendar events
 - [yuvalsuede/claudia](https://github.com/yuvalsuede/claudia) 📇 🏠 🍎 🪟 🐧 - AI-native task management system for Claude agents. Hierarchical tasks, dependencies, sprints, acceptance criteria, multi-agent coordination, and MCP server integration.
 
