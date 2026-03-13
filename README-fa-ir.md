@@ -166,6 +166,7 @@
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp) 📇 ☁️ - یکپارچه‌سازی با API Oorlogsbronnen (منابع جنگ) برای دسترسی به سوابق تاریخی جنگ جهانی دوم، عکس‌ها و اسناد از هلند (۱۹۴۰-۱۹۴۵)
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - یکپارچه‌سازی با API Rijksmuseum برای جستجوی آثار هنری، جزئیات و مجموعه‌ها
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - یکپارچه‌سازی سرور MCP برای DaVinci Resolve که ابزارهای قدرتمندی برای ویرایش ویدیو، درجه‌بندی رنگ، مدیریت رسانه و کنترل پروژه فراهم می‌کند
+- [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - سرور MCP محلی برای تولید دارایی‌های تصویری با Google Gemini (Nano Banana 2 / Pro). از خروجی شفاف PNG/WebP، تغییر اندازه/برش دقیق، حداکثر ۱۴ تصویر مرجع و grounding با Google Search پشتیبانی می‌کند.
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - یک سرور MCP که API AniList را برای اطلاعات انیمه و مانگا یکپارچه می‌کند
 
 
@@ -242,6 +243,7 @@
 - [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) 🐍 ☁️ - پیاده‌سازی سرور MCP برای پلتفرم هماهنگ‌سازی گردش کار [Kestra](https://kestra.io).
 - [liveblocks/liveblocks-mcp-server](https://github.com/liveblocks/liveblocks-mcp-server) 🎖️ 📇 ☁️ - ایجاد، تغییر و حذف جنبه‌های مختلف [Liveblocks](https://liveblocks.io) مانند اتاق‌ها، رشته‌ها، نظرات، اعلان‌ها و موارد دیگر. علاوه بر این، دسترسی خواندن به Storage و Yjs را دارد.
 - [manusa/Kubernetes MCP Server](https://github.com/manusa/kubernetes-mcp-server) 🏎️ 🏠 A - سرور قدرتمند Kubernetes MCP با پشتیبانی اضافی برای OpenShift. علاوه بر ارائه عملیات CRUD برای **هر** منبع Kubernetes، این سرور ابزارهای تخصصی برای تعامل با کلاستر شما فراهم می‌کند.
+- [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - سرور MCP برای اکوسیستم Rancher با عملیات Kubernetes چندکلاستری، مدیریت Harvester HCI (ماشین مجازی، ذخیره‌سازی، شبکه) و ابزارهای Fleet GitOps.
 - [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - با کتابخانه fastmcp یکپارچه می‌شود تا طیف کاملی از قابلیت‌های NebulaBlock API را به عنوان ابزارهای قابل دسترس در معرض دید قرار دهد
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - یک سرور Terraform MCP که به دستیاران هوش مصنوعی امکان مدیریت و عملیات محیط‌های Terraform را می‌دهد و خواندن پیکربندی‌ها، تحلیل planها، اعمال پیکربندی‌ها و مدیریت state Terraform را امکان‌پذیر می‌کند.
 - [openstack-kr/python-openstackmcp-server](https://github.com/openstack-kr/python-openstackmcp-server) 🐍 ☁️ - سرور MCP OpenStack برای مدیریت زیرساخت ابری مبتنی بر openstacksdk.
@@ -1004,6 +1006,7 @@
 
 ### 🔒 <a name="security"></a>امنیت
 
+- [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - سرور MCP برای تحلیل بسته‌های شبکه Wireshark با قابلیت‌های ضبط، آمار پروتکل، استخراج فیلد و تحلیل امنیتی.
 - [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) ☁️ - Beelzebub یک چارچوب honeypot است که به شما امکان می‌دهد ابزارهای honeypot را با استفاده از MCP بسازید. هدف آن شناسایی تزریق پرامپت یا رفتار عامل مخرب است. ایده اصلی این است که به عامل ابزارهایی بدهید که در کار عادی خود هرگز از آنها استفاده نمی‌کند.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - سرور MCP برای یکپارچه‌سازی Ghidra با دستیاران هوش مصنوعی. این پلاگین تحلیل باینری را امکان‌پذیر می‌کند و ابزارهایی برای بازرسی تابع، دکامپایل، کاوش حافظه و تحلیل import/export از طریق Model Context Protocol فراهم می‌کند.
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - سرور MCP متمرکز بر امنیت که دستورالعمل‌های ایمنی و تحلیل محتوا را برای عامل‌های هوش مصنوعی فراهم می‌کند.
@@ -1023,6 +1026,7 @@
 - [gbrigandi/mcp-server-wazuh](https://github.com/gbrigandi/mcp-server-wazuh) 🦀 🏠 🚨 🍎 🪟 🐧 - یک سرور MCP مبتنی بر Rust که Wazuh SIEM را به دستیاران هوش مصنوعی متصل می‌کند و هشدارهای امنیتی بی‌درنگ و داده‌های رویداد را برای درک متنی پیشرفته فراهم می‌کند.
 - [hieutran/entraid-mcp-server](https://github.com/hieuttmmo/entraid-mcp-server) 🐍 ☁️ - یک سرور MCP برای دایرکتوری Microsoft Entra ID (Azure AD)، کاربر، گروه، دستگاه، ورود به سیستم و عملیات امنیتی از طریق Microsoft Graph Python SDK.
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - سرور MCP برای دسترسی به [Intruder](https://www.intruder.io/)، که به شما در شناسایی، درک و رفع آسیب‌پذیری‌های امنیتی در زیرساخت خود کمک می‌کند.
+- [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ 🏠 - یک سرور Model Context Protocol بومی برای Ghidra. شامل پیکربندی و لاگ‌گیری GUI، ۳۱ ابزار قدرتمند و بدون وابستگی خارجی است.
 - [jyjune/mcp_vms](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 - یک سرور Model Context Protocol (MCP) که برای اتصال به یک برنامه ضبط CCTV (VMS) برای بازیابی جریان‌های ویدیویی ضبط شده و زنده طراحی شده است. همچنین ابزارهایی برای کنترل نرم‌افزار VMS فراهم می‌کند، مانند نمایش دیالوگ‌های زنده یا پخش برای کانال‌های خاص در زمان‌های مشخص.
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) ☕ 🏠 - یک سرور Model Context Protocol برای Ghidra که به LLMها امکان مهندسی معکوس خودکار برنامه‌ها را می‌دهد. ابزارهایی برای دکامپایل باینری‌ها، تغییر نام متدها و داده‌ها و لیست کردن متدها، کلاس‌ها، importها و exportها فراهم می‌کند.
