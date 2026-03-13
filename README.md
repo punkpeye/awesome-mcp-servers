@@ -918,6 +918,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 - [kukapay/opcua-mcp](https://github.com/kukapay/opcua-mcp) 🐍 📟 - An MCP server that connects to OPC UA-enabled industrial systems.
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - A JavaScript-driven M5Stack-embedded super-kawaii robot with MCP server functionality for AI-controlled interactions and emotions.
 - [yoelbassin/gnuradioMCP](https://github.com/yoelbassin/gnuradioMCP) 🐍 📟 🏠 - An MCP server for GNU Radio that enables LLMs to autonomously create and modify RF `.grc` flowcharts.
+- [stass/blew](https://github.com/stass/blew)  📟 🏠 🍎 - An MCP server to scan, connect and communicate with Bluetooth Low Energy (BLE) devices.
 
 ### 🎓 <a name="education"></a>Education
 
