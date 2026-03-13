@@ -1254,6 +1254,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
+- [mrmolt/workclear](https://github.com/mrmolt/workclear) 📇 ☁️ - Australian contractor licence verification across 7 states — 1.3M+ records from official government registers. Search, verify, and check licence status via WorkClear API.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
