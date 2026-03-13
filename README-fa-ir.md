@@ -579,6 +579,7 @@
 - [ooples/token-optimizer-mcp](https://github.com/ooples/token-optimizer-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - بهینه‌سازی هوشمند توکن با کاهش بیش از ۹۵٪ از طریق کشینگ، فشرده‌سازی و بیش از ۸۰ ابزار هوشمند برای بهینه‌سازی API، تحلیل کد و نظارت بی‌درنگ.
 - [picahq/mcp](https://github.com/picahq/mcp) 🎖️ 🦀 📇 ☁️ - یک MCP برای تمام یکپارچه‌سازی‌های شما — با قدرت [Pica](https://www.picaos.com)، زیرساخت برای عامل‌های هوشمند و همکار.
 - [posthog/mcp](https://github.com/posthog/mcp) 🎖️ 📇 ☁️ - یک سرور MCP برای تعامل با تحلیل‌های PostHog، feature flagها، ردیابی خطا و موارد دیگر.
+- [preloop/preloop](https://github.com/preloop/preloop) 🐍 ☁️ 🏠 🍎 🪟 🐧 - پلتفرم اتوماسیون هوش مصنوعی رویدادمحور با ایمنی داخلی human-in-the-loop مبتنی بر پروکسی MCP.
 - [Pratyay/mac-monitor-mcp](https://github.com/Pratyay/mac-monitor-mcp) 🐍 🏠 🍎 - فرآیندهای پرمصرف منابع را در macOS شناسایی می‌کند و پیشنهاداتی برای بهبود عملکرد ارائه می‌دهد.
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - این سرور MCP ابزاری برای دانلود کل وب‌سایت‌ها با استفاده از wget فراهم می‌کند. ساختار وب‌سایت را حفظ کرده و لینک‌ها را برای کار به صورت محلی تبدیل می‌کند.
 - [qainsights/jmeter-mcp-server](https://github.com/QAInsights/jmeter-mcp-server) 🐍 🏠 - سرور MCP JMeter برای تست عملکرد

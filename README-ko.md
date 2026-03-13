@@ -303,6 +303,7 @@
 - [@sammcj/mcp-package-version](https://github.com/sammcj/mcp-package-version) 📇 🏠 - LLM이 코드를 작성할 때 최신 안정 패키지 버전을 제안하도록 돕는 MCP 서버.
 - [@delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - [Postman API](https://www.postman.com/postman/postman-public-workspace/)와 상호 작용
 - [@vivekvells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) 🗄️ 🚀 - Pandoc을 사용하여 Markdown, HTML, PDF, DOCX(.docx), csv 등 원활한 문서 형식 변환을 위한 MCP 서버.
+- [preloop/preloop](https://github.com/preloop/preloop) 🐍 ☁️ 🏠 🍎 🪟 🐧 - MCP 프록싱 기반의 이벤트 기반 AI 자동화 플랫폼으로 human-in-the-loop 안전 기능이 내장되어 있습니다.
 - [@pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - 이 MCP 서버는 wget을 사용하여 전체 웹사이트를 다운로드하는 도구를 제공합니다. 웹사이트 구조를 보존하고 로컬에서 작동하도록 링크를 변환합니다.
 - [public-ui/kolibri](https://github.com/public-ui/kolibri) 📇 ☁️ 🏠 - 스트리밍 KoliBri MCP 서버(NPM: `@public-ui/mcp`). 호스팅된 HTTP 엔드포인트나 로컬 `kolibri-mcp` CLI를 통해 보장된 접근성을 갖춘 200개+ 웹 컴포넌트 샘플, 스펙, 문서, 시나리오를 제공합니다.
 - [@lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) 📇 🏠 🛠️ - 동일한 MCP 서버의 여러 격리된 인스턴스가 고유한 네임스페이스와 구성으로 독립적으로 공존할 수 있도록 하는 미들웨어 서버.
