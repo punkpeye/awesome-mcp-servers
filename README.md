@@ -1646,6 +1646,7 @@ Tools for converting text-to-speech and vice-versa
 - [mberg/kokoro-tts-mcp](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - MCP Server that uses the open weight Kokoro TTS models to convert text-to-speech. Can convert text to MP3 on a local driver or auto-upload to an S3 bucket.
 - [transcribe-app/mcp-transcribe](https://github.com/transcribe-app/mcp-transcribe) 📇 🏠 - This service provides fast and reliable transcriptions for audio/video files and voice memos. It allows LLMs to interact with the text content of audio/video file.
 - [ybouhjira/claude-code-tts](https://github.com/ybouhjira/claude-code-tts) 🏎️ ☁️ 🍎 🪟 🐧 - MCP server plugin for Claude Code that converts text to speech using OpenAI's TTS API. Features 6 voices, worker pool architecture, mutex-protected playback, and cross-platform support.
+- [TodiwalaVentures/phantom-voices-api](https://github.com/TodiwalaVentures/phantom-voices-api) 📇 ☁️ 🍎 🪟 🐧 - MCP server for discovering and recommending 10 free professional AI voice clones via ElevenLabs. AI-powered voice matching for 29 platforms (Vapi, Retell AI, Bland AI, LangChain, HeyGen, etc). Multilingual (9+ languages). Zero cost, commercial rights cleared. Install: `npx phantom-voices-mcp`.
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
