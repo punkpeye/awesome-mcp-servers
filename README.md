@@ -441,6 +441,9 @@ Integration with communication platforms for message management and channel oper
 - [chaindead/telegram-mcp](https://github.com/chaindead/telegram-mcp) 🏎️ 🏠 - Telegram API integration for accessing user data, managing dialogs (chats, channels, groups), retrieving messages, and handling read status
 - [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) 🐍 🏠 - Telegram API integration for accessing user data, managing dialogs (chats, channels, groups), retrieving messages, sending messages and handling read status.
 - [codefuturist/email-mcp](https://github.com/codefuturist/email-mcp) 📇 ☁️ 🍎 🪟 🐧 - IMAP/SMTP email MCP server with 42 tools for reading, searching, sending, scheduling, and managing emails across multiple accounts. Supports IMAP IDLE push, AI triage, desktop notifications, and auto-detects providers like Gmail, Outlook, and iCloud.
+- [StartupHub-AI/email-finder-mcp](https://github.com/StartupHub-AI/email-finder-mcp) 📇 ☁️ - Find and validate
+  anyone's work email from name + company domain or LinkedIn profile or personal email. No API key, no signup, completely free. Built on a
+   custom discovery engine (not Hunter.io or Apollo).
 - [conarti/mattermost-mcp](https://github.com/conarti/mattermost-mcp) 📇 ☁️ - MCP server for Mattermost API. List channels, read/post messages, manage threads and reactions, monitor topics. Supports flexible configuration via CLI args, environment variables, or config files.
 - [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - MCP server for Calcom. Manage event types, create bookings, and access Cal.com scheduling data through LLMs.
 - [discourse/discourse-mcp](https://github.com/discourse/discourse-mcp) 🎖️ 💎 ☁️ 🏠 💬 🍎 🪟 🐧 - Official Discourse MCP server for forum integration. Search topics, read posts, manage categories and tags, discover users, and interact with Discourse communities.
