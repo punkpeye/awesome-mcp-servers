@@ -1,4 +1,4 @@
-<img width="2559" height="1356" alt="image" src="https://github.com/user-attachments/assets/3765dee6-9c7c-4da8-9fc8-cce4d2202412" />
+<img width="2736" height="1824" alt="image" src="https://github.com/user-attachments/assets/6d6a931d-b5d5-4ccc-90e1-544dbef353c4" /><img width="2559" height="1356" alt="image" src="https://github.com/user-attachments/assets/3765dee6-9c7c-4da8-9fc8-cce4d2202412" />
 # Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
@@ -1308,7 +1308,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 
 Exact arithmetic and mathematical computation tools for AI agents.
 
-- [Arithym](https://arithym.xyz) - 🔢 Exact arithmetic MCP server for AI agents. 62 tools, zero hallucination math via exact fractional arithmetic. 61% cheaper than Python code execution. ([GitHub](https://github.com/Arithym-io/arithym)
+- [Arithym](https://github.com/Arithym-io/arithym) 🐍 ☁️ - Exact arithmetic MCP server for AI agents. 62 tools, zero hallucination math via exact fractional arithmetic. 61% cheaper than Python code execution. ([glama](https://glama.ai/mcp/connectors/xyz.arithym/arithym)) ([Website](https://arithym.xyz))
 
 -  
 ### 📊 <a name="monitoring"></a>Monitoring
