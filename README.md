@@ -883,6 +883,7 @@ Tools and integrations that enhance the development workflow and environment man
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
 
 - [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - The ultimate math engine unifying SymPy, NumPy & Matplotlib in one powerful server. Perfect for developers & researchers needing symbolic algebra, numerical computing, and data visualization.
+- [ahmadsl/chartpane](https://github.com/ahmadsl/chartpane) 📇 ☁️ - MCP App that renders interactive Chart.js charts and dashboards inline in AI conversations. Supports bar, line, area, pie, doughnut, scatter, and radar charts.
 - [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp) 🐍 ☁️ - Connects to Kaggle, ability to download and analyze datasets.
 - [avisangle/calculator-server](https://github.com/avisangle/calculator-server) 🏎️ 🏠 - A comprehensive Go-based MCP server for mathematical computations, implementing 13 mathematical tools across basic arithmetic, advanced functions, statistical analysis, unit conversions, and financial calculations.
 - [bradleylab/stella-mcp](https://github.com/bradleylab/stella-mcp) 🐍 🏠 - Create, read, validate, and save Stella system dynamics models (.stmx files in XMILE format) for scientific simulation and modeling.
