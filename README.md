@@ -94,6 +94,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🤖 - [Coding Agents](#coding-agents)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
+* 🏗️ - [Construction & AEC](#construction-and-aec)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
 * 📊 - [Data Platforms](#data-platforms)
@@ -488,6 +489,13 @@ Integration with communication platforms for message management and channel oper
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) 📇 ☁️ - An MCP server to Manage Google Tasks
 - [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) 📇 ☁️ 🏠 - A Model Context Protocol (MCP) server with built-in Feishu OAuth authentication, supporting remote connections and providing comprehensive Feishu document management tools including block creation, content updates, and advanced features.
 - [loglux/whatsapp-mcp-stream](https://github.com/loglux/whatsapp-mcp-stream) [glama](https://glama.ai/mcp/servers/@loglux/whatsapp-mcp-stream) 📇 🏠 🍎 🪟 🐧 - WhatsApp MCP server over Streamable HTTP with web admin UI (QR/status/settings), bidirectional media upload/download, and SQLite persistence.
+
+
+### 🏗️ <a name="construction-and-aec"></a>Construction & AEC
+
+Construction project management, estimating, and AEC (Architecture, Engineering & Construction) industry tools.
+
+- [LordQueso/MCP-construction](https://github.com/LordQueso/MCP-construction) 📇 ☁️ - 50-tool construction project management server with estimates, RFIs, change orders, daily logs, budgets, schedules, safety tracking, subcontractor management, and AI-enhanced reporting. OAuth 2.1 + PKCE auth, multi-tenant, Stripe billing. Live hosted at cmcp.us.
 
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
