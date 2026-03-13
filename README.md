@@ -260,6 +260,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [apireno/DOMShell](https://github.com/apireno/DOMShell) [glama](https://glama.ai/mcp/servers/@apireno/domshell) 📇 🏠 - Browse the web using filesystem commands (ls, cd, grep, click). 38 MCP tools map Chrome's Accessibility Tree to a virtual filesystem via a Chrome Extension.
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - An MCP server for browser automation using Playwright
 - [BB-fat/browser-use-rs](https://github.com/BB-fat/browser-use-rs) 🦀 Lightweight browser automation MCP server in Rust with zero dependencies.
+- [bighippoman/intercept-mcp](https://github.com/bighippoman/intercept-mcp) 📇 🏠 - Multi-tier fallback chain for fetching web content as clean markdown. Handles tweets, YouTube, arXiv, PDFs, and regular pages with 9 fallback strategies.
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - An MCP python server using Playwright for browser automation,more suitable for llm
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
 - [browsermcp/mcp](https://github.com/browsermcp/mcp) 📇 🏠 - Automate your local Chrome browser
