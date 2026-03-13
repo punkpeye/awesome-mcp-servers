@@ -1259,6 +1259,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 
 Location-based services and mapping tools. Enables AI models to work with geographic data, weather information, and location-based analytics.
 
+- [agentweb-mcp](https://github.com/zerabic/agentweb-mcp) 📇 ☁️ - Search 11M+ businesses across 195 countries with geo search, phone numbers, emails, hours, and trust scores via [AgentWeb](https://agentweb.live)
 - [briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️  - IP address geolocation and network information using IPInfo API
 - [cqtrinv/trinvmcp](https://github.com/cqtrinv/trinvmcp) 📇 ☁️ - Explore French communes and cadastral parcels based on name and surface
 - [devilcoder01/weather-mcp-server](https://github.com/devilcoder01/weather-mcp-server) 🐍 ☁️ - Access real-time weather data for any location using the WeatherAPI.com API, providing detailed forecasts and current conditions.
