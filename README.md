@@ -1417,6 +1417,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [chasesaurabh/mcp-page-capture](https://github.com/chasesaurabh/mcp-page-capture) 📇 🏠 - MCP server that captures webpage screenshots, with viewport or full-page options and base64 PNG output.
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - This is a Python-based MCP server that provides OpenAI `web_search` build-in tool.
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - This is a Python-based MCP server that provides OpenAI `web_search` built-in tool.
+- [contentapi-mcp-server](https://www.npmjs.com/package/contentapi-mcp-server) 📇 ☁️ - Extract content from YouTube (transcripts, summaries, chapters), web pages, Twitter/X threads, and Reddit posts for AI agents and RAG pipelines via [ContentAPI](https://getcontentapi.com). Supports batch processing, structured data extraction, and website crawling.
 - [Crawleo/Crawleo-MCP](https://github.com/Crawleo/Crawleo-MCP) ☁️ 🐍 – Crawleo Search & Crawl API
 - [Crawleo/Crawleo-MCP](https://github.com/Crawleo/Crawleo-MCP) ☁️ 🐍 – Crawleo search & Crawling API
 - [czottmann/kagi-ken-mcp](https://github.com/czottmann/kagi-ken-mcp) 📇 ☁️ - Work with Kagi *without* API access (you'll need to be a customer, tho). Searches and summarizes. Uses Kagi session token for easy authentication.
