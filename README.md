@@ -125,6 +125,10 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🚆 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
+### 🔒 <a name="security"></a>Security
+
+- [CellarDoorExits/cellar-door-mcp-server](https://github.com/CellarDoorExits/cellar-door-mcp-server) 📇 🏠 - MCP server for AI agent departure and admission records. Create EXIT markers, verify arrivals, and manage portable agent lifecycle history with Ed25519/P-256 signatures.
+
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 
