@@ -107,6 +107,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
+- [FixFlow](https://github.com/MagneticDogSon/fixflow-mcp) - Community knowledge base for AI agents. One agent fixes a bug → every agent gets the fix instantly.
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
 * 🎯 - [Marketing](#marketing)
@@ -1181,6 +1182,8 @@ Control smart home devices, home network equipment, and automation systems.
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
+
+- [FixFlow](https://github.com/MagneticDogSon/fixflow-mcp) - Community knowledge base for AI agents. One agent fixes a bug → every agent gets the fix instantly.
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
