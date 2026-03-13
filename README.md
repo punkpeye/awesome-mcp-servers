@@ -1414,7 +1414,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [pminervini/deep-research-mcp](https://github.com/pminervini/deep-research-mcp) 🐍 ☁️ 🏠 - Deep research MCP server for OpenAI Responses API or Open Deep Research (smolagents), with web search and code interpreter support.
 - [sh-patterson/legiscan-mcp](https://github.com/sh-patterson/legiscan-mcp) [glama](https://glama.ai/mcp/servers/ggstefivzf) 📇 ☁️ - Access legislative data from all 50 US states and Congress — search bills, get full text, track votes, and look up legislators via the LegiScan API.
 - [thinkchainai/agentinterviews_mcp](https://github.com/thinkchainai/agentinterviews_mcp) - Conduct AI-powered qualitative research interviews and surveys at scale with [Agent Interviews](https://agentinterviews.com). Create interviewers, manage research projects, recruit participants, and analyze interview data through MCP.
-- [yusong652/pfc-mcp](https://github.com/yusong652/pfc-mcp) 🐍 🏠 🪟 - MCP server for [ITASCA PFC](https://www.itascacg.com/software/pfc) discrete element simulation — browse documentation, execute scripts, capture plots, and manage long-running tasks via a WebSocket bridge to the PFC GUI.
+- [yusong652/pfc-mcp](https://github.com/yusong652/pfc-mcp) [glama](https://glama.ai/mcp/servers/yusong652/pfc-mcp) 🐍 🏠 🪟 - MCP server for [ITASCA PFC](https://www.itascacg.com/software/pfc) discrete element simulation — browse documentation, execute scripts, capture plots, and manage long-running tasks via a WebSocket bridge to the PFC GUI.
 
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
 
