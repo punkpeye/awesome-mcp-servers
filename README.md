@@ -80,6 +80,10 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ## Server Implementations
 
+### GitHub Trending
+- [GitHub Trending Analyzer](https://github.com/jackjin1997/ClawForge/tree/main/skills/github-trending-analyzer) - A specialized tool for fetching and categorizing GitHub Trending projects across daily/weekly/monthly spans.
+
+
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
