@@ -961,6 +961,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [@frihet/mcp-server](https://github.com/berthelius/frihet-mcp) [glama](https://glama.ai/mcp/servers/berthelius/frihet-mcp) 📇 ☁️ - AI-native business management — invoices, expenses, clients, products, and quotes. 31 tools for Claude, Cursor, Windsurf, and Cline.
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) 📇 ☁️ - Deep Research for crypto - free & fully local
+- [AUTHENSOR/defi-shield](https://github.com/AUTHENSOR/defi-shield) 📇 ☁️ - 67 DeFi security intelligence tools for AI agents — contract risk scoring, wallet profiling, MEV analysis, protocol risk, NFT wash trading detection, and real-time monitoring. Pay-per-use via x402 (USDC on Base). npm: `devsecure-mcp`
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp) 🎖️ 🐍 ☁️ 🏠 - Access institutional-grade alternative financial data directly in your LLM workflows.
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - Risk score / asset holdings of EVM blockchain address (EOA, CA, ENS) and even domain names.
 - [alchemy/alchemy-mcp-server](https://github.com/alchemyplatform/alchemy-mcp-server) 🎖️ 📇 ☁️ - Allow AI agents to interact with Alchemy's blockchain APIs.
