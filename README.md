@@ -819,6 +819,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [softvoyagers/pagedrop-api](https://github.com/softvoyagers/pagedrop-api) 📇 ☁️ - Free instant HTML hosting API with paste, file upload, and ZIP deploy support. No API key required.
 - [softvoyagers/pdfspark-api](https://github.com/softvoyagers/pdfspark-api) 📇 ☁️ - Free HTML/URL to PDF conversion API powered by Playwright. No API key required.
 - [softvoyagers/qrmint-api](https://github.com/softvoyagers/qrmint-api) 📇 ☁️ - Free styled QR code generator API with custom colors, logos, frames, and batch generation. No API key required.
+- [soul-spec-mcp](https://github.com/clawsouls/soul-spec-mcp) 📇 ☁️ - Browse, install, and apply AI agent personas via [Soul Spec](https://clawsouls.ai/spec). Search 80+ personas, preview as CLAUDE.md, and switch identity instantly with `apply_persona`.
 - [spacecode-ai/SpaceBridge-MCP](https://github.com/spacecode-ai/SpaceBridge-MCP) 🐍 🏠 🍎 🐧 - Bring structure and preserve context in vibe coding by automatically tracking issues.
 - [srijanshukla18/xray](https://github.com/srijanshukla18/xray) 🐍 🏠 - Progressive code-intelligence MCP server: map project structure, fuzzy-find symbols, and assess change-impact across Python, JS/TS, and Go (powered by `ast-grep`).
 - [srclight/srclight](https://github.com/srclight/srclight) [glama](https://glama.ai/mcp/servers/@srclight/srclight) 🐍 🏠 - Deep code indexing MCP server with SQLite FTS5, tree-sitter, and embeddings. 29 tools for symbol search, call graphs, git intelligence, and hybrid semantic search.
