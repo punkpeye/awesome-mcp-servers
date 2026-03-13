@@ -460,6 +460,7 @@ Integration with communication platforms for message management and channel oper
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - MCP server for Product Hunt. Interact with trending posts, comments, collections, users, and more.
 - [jaspertvdm/mcp-server-rabel](https://github.com/jaspertvdm/mcp-server-rabel) 🐍 ☁️ 🏠 - AI-to-AI messaging via I-Poll protocol and AInternet. Enables agents to communicate using .aint domains, semantic messaging, and trust-based routing.
 - [joinly-ai/joinly](https://github.com/joinly-ai/joinly) 🐍☁️ - MCP server to interact with browser-based meeting platforms (Zoom, Teams, Google Meet). Enables AI agents to send bots to online meetings, gather live transcripts, speak text, and send messages in the meeting chat.
+- [groupthinkai/mcp-meeting-server](https://github.com/groupthinkai/mcp-meeting-server) 📇 ☁️ 🍎 🪟 🐧 - Join Google Meet, Zoom, or Teams meetings as a named AI participant. Listen to transcripts, speak via TTS, send chat messages, and save per-agent meeting notes.
 - [jtalk22/slack-mcp-server](https://github.com/jtalk22/slack-mcp-server) 📇 ☁️ 🏠 🍎 🪟 🐧 - Your complete Slack context for Claude—DMs, channels, threads, search. No OAuth apps, no admin approval. `--setup` and done, 11 tools, auto-refresh.
 - [keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky instance integration for querying and interaction
 - [khan2a/telephony-mcp-server](https://github.com/khan2a/telephony-mcp-server) 🐍 💬 - MCP Telephony server for automating voice calls with Speech-to-Text and Speech Recognition to summarize call conversations. Send and receive SMS, detect voicemail, and integrate with Vonage APIs for advanced telephony workflows.
@@ -1158,6 +1159,7 @@ Control smart home devices, home network equipment, and automation systems.
 
 - [apiarya/wemo-mcp-server](https://github.com/apiarya/wemo-mcp-server) - [glama](https://glama.ai/mcp/servers/@apiarya/wemo-mcp-server) 🐍 🏠 🍎 🪟 🐧 - Control WeMo smart home devices via AI assistants using natural language. Built on pywemo for 100% local control — no cloud dependency. Supports dimmer brightness, device rename, HomeKit codes, and multi-phase discovery.
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
+- [project-dwellsmith/mcp-server](https://github.com/project-dwellsmith/mcp-server) 📇 ☁️ 🏠 🍎 🪟 🐧 - Manage household tasks, relationships, helpers, and home maintenance through natural language. The human layer of home management — tasks, contacts, and coordination rather than device control.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
