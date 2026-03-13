@@ -687,6 +687,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [dannote/figma-use](https://github.com/dannote/figma-use) 📇 🏠 - Full Figma control: create shapes, text, components, set styles, auto-layout, variables, export. 80+ tools.
 - [davidan90/time-node-mcp](https://github.com/davidan90/time-node-mcp) 📇 🏠 - Timezone-aware date and time operations with support for IANA timezones, timezone conversion, and Daylight Saving Time handling.
 - [davidlin2k/pox-mcp-server](https://github.com/davidlin2k/pox-mcp-server) 🐍 🏠 - MCP server for the POX SDN controller to provides network control and management capabilities.
+- [deashidle-stack/siteproof-mcp](https://github.com/deashidle-stack/siteproof-mcp) 📇 ☁️ - WCAG accessibility, AEO (AI Engine Optimization), and AI agent security scanning for websites. Returns scores, grades, categorized issues, and framework-specific fix recipes (React, Vue, Angular, Svelte, Next.js). Remote MCP server — no install needed.
 - [delano/postman-mcp-server](https://github.com/delano/postman-mcp-server) 📇 ☁️ - Interact with [Postman API](https://www.postman.com/postman/postman-public-workspace/)
 - [deploy-mcp/deploy-mcp](https://github.com/alexpota/deploy-mcp) 📇 ☁️ 🏠 - Universal deployment tracker for AI assistants with live status badges and deployment monitoring
 - [docker/hub-mcp](https://github.com/docker/hub-mcp) 🎖️ 📇 ☁️ 🏠 - Official MCP server to interact with Docker Hub, providing access to repositories, hub search and Docker Hardened Images
