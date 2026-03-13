@@ -132,7 +132,9 @@
 
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 포괄적이고 정확한 사주팔자(八字) 분석과 해석 제공
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - Video Jungle 컬렉션에서 비디오 편집 추가, 분석, 검색 및 생성
+- [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - 취향 기반 추천, 시청 분석, 소셜 도구 및 전체 목록 관리를 제공하는 AniList MCP 서버
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 작품 검색, 세부 정보 및 컬렉션을 위한 Rijksmuseum API 통합
+- [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - Google Gemini(Nano Banana 2 / Pro)로 이미지 에셋을 생성하는 로컬 MCP 서버. 투명 PNG/WebP 출력, 정확한 리사이즈/크롭, 최대 14개의 참조 이미지, Google Search 그라운딩을 지원합니다.
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 애니메이션 및 만화 정보를 위한 AniList API를 통합하는 MCP 서버
 
 ### 🧬 <a name="bio"></a>생물학, 의학 및 생물정보학
@@ -148,6 +150,7 @@
 
 클라우드 플랫폼 서비스 통합. 클라우드 인프라 및 서비스의 관리 및 상호 작용을 가능하게 합니다.
 
+- [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - Rancher 생태계를 위한 MCP 서버로, 멀티 클러스터 Kubernetes 운영, Harvester HCI 관리(VM, 스토리지, 네트워크), Fleet GitOps 도구를 제공합니다.
 - [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - fastmcp 라이브러리와 통합하여 NebulaBlock의 모든 API 기능을 도구로 제공합니다。
 - [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - Greenfield, IPFS, Arweave와 같은 분산 스토리지 네트워크에 AI 생성 코드를 즉시 배포할 수 있는 4EVERLAND Hosting용 MCP 서버 구현.
 - [qiniu/qiniu-mcp-server](https://github.com/qiniu/qiniu-mcp-server) 🐍 ☁️ - 치니우안(七牛云) 제품으로 구축된 MCP는 치니우안 스토리지, 지능형 멀티미디어 서비스 등에 접근할 수 있습니다.
@@ -169,6 +172,7 @@
 
 명령을 실행하고, 출력을 캡처하며, 셸 및 커맨드 라인 도구와 상호 작용합니다.
 
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - [OpenClaw](https://github.com/openclaw/openclaw) AI 어시스턴트 통합을 위한 MCP 서버. 동기/비동기 도구, OAuth 2.1 인증, Claude.ai용 SSE 전송을 통해 Claude가 OpenClaw 에이전트에게 작업을 위임할 수 있습니다.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - iTerm에 대한 접근을 제공하는 모델 컨텍스트 프로토콜 서버. 명령을 실행하고 iTerm 터미널에서 보이는 내용에 대해 질문할 수 있습니다.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - `run_command` 및 `run_script` 도구를 사용하여 모든 명령 실행.
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - 안전한 실행 및 사용자 정의 가능한 보안 정책을 갖춘 커맨드 라인 인터페이스
@@ -361,6 +365,7 @@
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - CoinCap의 공개 API를 사용한 실시간 암호화폐 시장 데이터 통합으로, API 키 없이 암호화폐 가격 및 시장 정보 접근 제공
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - 암호화폐 목록 및 시세를 가져오기 위한 Coinmarket API 통합
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - 주식 및 암호화폐 정보를 모두 가져오기 위한 Alpha Vantage API 통합
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - deBridge 프로토콜을 통한 EVM 및 Solana 블록체인 간 크로스체인 스왑 및 브리징. AI 에이전트가 최적의 경로를 탐색하고 수수료를 평가하며 비수탁형 거래를 시작할 수 있습니다.
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastytrade에서의 거래 활동을 처리하기 위한 Tastyworks API 통합
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - 옵션 추천을 포함한 주식 시장 데이터를 가져오기 위한 Yahoo Finance 통합
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) 📇 ☁️ - 30개 이상의 EVM 네트워크를 위한 포괄적인 블록체인 서비스, 네이티브 토큰, ERC20, NFT, 스마트 계약, 트랜잭션 및 ENS 확인 지원.
@@ -482,6 +487,7 @@
 ### 🔒 <a name="security"></a>보안
 
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - AI 에이전트를 위한 안전 가이드라인과 콘텐츠 분석을 제공하는 보안 중심의 MCP 서버.
+- [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - 캡처, 프로토콜 통계, 필드 추출 및 보안 분석 기능을 갖춘 Wireshark 네트워크 패킷 분석 MCP 서버.
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – AI 에이전트가 인증 앱과 상호 작용할 수 있도록 하는 보안 MCP(Model Context Protocol) 서버입니다.
 - [dnstwist MCP 서버](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - 타이포스쿼팅, 피싱 및 기업 스파이 활동 탐지를 돕는 강력한 DNS 퍼징 도구인 dnstwist용 MCP 서버.
 - [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary Ninja를 위한 MCP 서버 및 브릿지. 바이너리 분석 및 리버스 엔지니어링을 위한 도구를 제공합니다.
@@ -494,6 +500,7 @@
 - [ROADRecon MCP 서버](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 Azure 테넌트 열거에서 ROADrecon 수집 결과 분석을 위한 MCP 서버
 - [VMS MCP 서버](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 VMS MCP 서버는 CCTV 녹화 프로그램(VMS)에 연결하여 녹화된 영상과 실시간 영상을 가져오며, 특정 채널의 특정 시간에 실시간 영상이나 재생 화면을 표시하는 등의 VMS 소프트웨어 제어 도구도 제공합니다.
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - [Intruder](https://www.intruder.io/)에 액세스할 수 있는 MCP 서버로, 인프라의 보안 취약점을 식별, 이해 및 해결하는 데 도움을 줍니다.
+- [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
 
 ### 🏃 <a name="sports"></a>스포츠
 
