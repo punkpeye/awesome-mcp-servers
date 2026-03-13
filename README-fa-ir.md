@@ -941,6 +941,7 @@
 - [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) 📇 🏠 - سرور MCP محلی برای جستجوی بیش از ۳۰۰,۰۰۰ غذا، اطلاعات تغذیه‌ای و بارکد از پایگاه داده OpenNutrition.
 - [dealx/mcp-server](https://github.com/DealExpress/mcp-server) ☁️ - سرور MCP برای پلتفرم DealX
 - [devflowinc/trieve](https://github.com/devflowinc/trieve/tree/main/clients/mcp-server) 🎖️ 📇 ☁️ 🏠 - خزیدن، embedding، chunk کردن، جستجو و بازیابی اطلاعات از مجموعه داده‌ها از طریق [Trieve](https://trieve.ai)
+- [dotnetpower/infomesh](https://github.com/dotnetpower/infomesh) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Fully decentralized P2P web search engine for LLMs. No API key, no billing, unlimited free search via MCP. Crawls, indexes, and searches the web through a peer-to-peer network with offline local search, credit-based incentives, and privacy-first design.
 - [Dumpling-AI/mcp-server-dumplingai](https://github.com/Dumpling-AI/mcp-server-dumplingai) 🎖️ 📇 ☁️ - دسترسی به داده‌ها، استخراج وب و APIهای تبدیل اسناد توسط [Dumpling AI](https://www.dumplingai.com/)
 - [emicklei/melrose-mcp](https://github.com/emicklei/melrose-mcp) 🏎️ 🏠 - عبارات موسیقی [Melrōse](https://melrōse.org) را به عنوان MIDI پخش می‌کند
 - [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn) 🐍 ☁️ - یک سرور MCP برای جستجوی Hacker News، دریافت داستان‌های برتر و موارد دیگر.
