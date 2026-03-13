@@ -1254,6 +1254,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
+- [LegalEngineering/sk-registers-mcp](https://github.com/LegalEngineering/sk-registers-mcp) 🐍 ☁️ - Access Slovakia's central reference register (RPO) aggregating 100+ source registers. Query 1.4M+ legal entities, entrepreneurs, and public authorities by name, IČO, or municipality.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
