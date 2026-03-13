@@ -1437,6 +1437,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [gregm711/agent-domain-service-mcp](https://github.com/gregm711/agent-domain-service-mcp) 📇 ☁️ - AI-powered domain brainstorming, analysis, and availability checking via AgentDomainService.com. Generate creative domain names from descriptions, get AI scoring for brandability/memorability, and check real-time availability with pricing. No API keys required.
 - [hbg/mcp-paperswithcode](https://github.com/hbg/mcp-paperswithcode) - 🐍 ☁️ MCP to search through PapersWithCode API
 - [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server)) 🐍 ☁️ - A MCP server for Unsplash image search.
+- [henu-wang/geoscore-mcp](https://github.com/henu-wang/geoscore-mcp) 📇 ☁️ - AI search optimization (GEO). Scan websites for AI search readiness, generate llms.txt, Schema.org fixes, meta tag optimizations, and track AI visibility.
 - [Himalayas-App/himalayas-mcp](https://github.com/Himalayas-App/himalayas-mcp) 📇 ☁️ - Access tens of thousands of remote job listings and company information. This public MCP server provides real-time access to Himalayas' remote jobs database.
 - [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) 📇 🏠/☁️ - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
 - [imprvhub/mcp-claude-hackernews](https://github.com/imprvhub/mcp-claude-hackernews) 📇 🏠 ☁️ - An integration that allows Claude Desktop to interact with Hacker News using the Model Context Protocol (MCP).
