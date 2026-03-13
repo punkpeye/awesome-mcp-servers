@@ -1281,6 +1281,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 - [ark-forge/mcp-eu-ai-act](https://github.com/ark-forge/mcp-eu-ai-act) [glama](https://glama.ai/mcp/servers/@ark-forge/mcp-eu-ai-act) 📇 ☁️ - EU AI Act compliance scanner that detects regulatory violations in AI codebases with risk classification and remediation guidance.
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
+- [signbee/mcp](https://github.com/signbee/mcp) 📇 ☁️ - Document signing for AI agents. Send markdown or PDF for two-party e-signing with SHA-256 certified delivery.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
