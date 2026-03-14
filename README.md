@@ -1796,6 +1796,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [boldsign/boldsign-mcp](https://github.com/boldsign/boldsign-mcp) 📇 ☁️ - Search, request, and manage e-signature contracts effortlessly with [BoldSign](https://boldsign.com/).
 - [spranab/brainstorm-mcp](https://github.com/spranab/brainstorm-mcp) [glama](https://glama.ai/mcp/servers/@spranab/brainstorm-mcp) 📇 🏠 🍎 🪟 🐧 - Multi-round AI brainstorming debates between multiple models (GPT, Gemini, DeepSeek, Groq, Ollama, etc.). Pit different LLMs against each other to explore ideas from diverse perspectives.
 - [brianxiadong/ones-wiki-mcp-server](https://github.com/brianxiadong/ones-wiki-mcp-server) ☕ ☁️/🏠 - A Spring AI MCP-based service for retrieving ONES Waiki content and converting it to AI-friendly text format.
+- [coo-quack/calc-mcp](https://github.com/coo-quack/calc-mcp) 📇 🏠 - 21 tools for things AI is bad at — deterministic math, cryptographic randomness, date arithmetic, hashing, encoding, unit conversion, and more.
 - [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📇 🏠 - This is a connector to allow Claude Desktop (or any MCP client) to read and search any directory containing Markdown notes (such as an Obsidian vault).
 - [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - Wenyan MCP Server, which lets AI automatically format Markdown articles and publish them to WeChat GZH.
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) 🐍 🏠 - Yet another CLI tool for testing MCP servers
