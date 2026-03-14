@@ -889,6 +889,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
 - [ztuskes/garmin-documentation-mcp-server](https://github.com/ztuskes/garmin-documentation-mcp-server) 📇 🏠 – Offline Garmin Connect IQ SDK documentation with comprehensive search and API examples
+- [kznr02/OpenTester](https://github.com/kznr02/OpenTester) 🐍 📇🏠 🪟 - OpenTester is a testing execution engine designed for AI coding tools, AI Agents Can Now Test Like Humans.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
