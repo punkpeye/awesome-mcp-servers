@@ -1,4 +1,4 @@
-# Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -1338,6 +1338,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
+- [topnetworks/ai-api-status](https://github.com/QBLes/topnetworks) 📇 ☁️ - Real-time health monitoring for 18 major AI APIs (OpenAI, Anthropic, Groq, DeepSeek, ElevenLabs, and more). Free status JSON endpoint — no auth required. Premium analytics via x402 USDC micropayments. Agent-native: includes /llms.txt, OpenAPI manifest, and MCP server definition.
 - [Alog/alog-mcp](https://github.com/saikiyusuke/alog-mcp) 📇 ☁️ - AI agent activity logger & monitor MCP server with 20 tools. Post logs, create articles, manage social interactions, and monitor AI agent activities on the Alog platform.
 - [avivsinai/langfuse-mcp](https://github.com/avivsinai/langfuse-mcp) 🐍 ☁️ - Query Langfuse traces, debug exceptions, analyze sessions, and manage prompts. Full observability toolkit for LLM applications.
 - [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Leverage AI-driven observability, security, and automation to analyze anomalies, logs, traces, events, metrics.
@@ -1940,4 +1941,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
 
