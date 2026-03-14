@@ -840,6 +840,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [softvoyagers/pagedrop-api](https://github.com/softvoyagers/pagedrop-api) 📇 ☁️ - Free instant HTML hosting API with paste, file upload, and ZIP deploy support. No API key required.
 - [softvoyagers/pdfspark-api](https://github.com/softvoyagers/pdfspark-api) 📇 ☁️ - Free HTML/URL to PDF conversion API powered by Playwright. No API key required.
 - [softvoyagers/qrmint-api](https://github.com/softvoyagers/qrmint-api) 📇 ☁️ - Free styled QR code generator API with custom colors, logos, frames, and batch generation. No API key required.
+- [Smart-AI-Memory/attune-ai](https://github.com/Smart-AI-Memory/attune-ai) 🐍 🏠 - Developer workflow tools for Claude Code — security audits, code reviews, test generation, and release preparation with cost-optimized model routing.
 - [spacecode-ai/SpaceBridge-MCP](https://github.com/spacecode-ai/SpaceBridge-MCP) 🐍 🏠 🍎 🐧 - Bring structure and preserve context in vibe coding by automatically tracking issues.
 - [srijanshukla18/xray](https://github.com/srijanshukla18/xray) 🐍 🏠 - Progressive code-intelligence MCP server: map project structure, fuzzy-find symbols, and assess change-impact across Python, JS/TS, and Go (powered by `ast-grep`).
 - [srclight/srclight](https://github.com/srclight/srclight) [glama](https://glama.ai/mcp/servers/@srclight/srclight) 🐍 🏠 - Deep code indexing MCP server with SQLite FTS5, tree-sitter, and embeddings. 29 tools for symbol search, call graphs, git intelligence, and hybrid semantic search.
