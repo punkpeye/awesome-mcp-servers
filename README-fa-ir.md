@@ -153,6 +153,7 @@
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) 🐍 - سرور MCP برای کار با Blender
 - [aliafsahnoudeh/shahnameh-mcp-server](https://github.com/aliafsahnoudeh/shahnameh-mcp-server) 🐍 🏠 🍎 🪟 🐧 - یک ام سی پی سرور برای دسترسی به بخش ها و اشعار و توضیحات شاهنامه فردوسی حماسه بزرگ فارسی
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - اضافه کردن، تحلیل، جستجو و تولید ویرایش‌های ویدیویی از مجموعه Video Jungle شما
+- [JamesANZ/video-toolkit-mcp](https://github.com/JamesANZ/video-toolkit-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - جعبه ابزار ویدیو برای رونوشت‌ها، دانلودها و تولید زیرنویس با هوش مصنوعی. دریافت رونوشت از YouTube/Vimeo/Bilibili، دانلود ویدیو با yt-dlp و تولید خودکار زیرنویس با OpenAI Whisper یا whisper محلی.
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - نمودار و تحلیل جامع و دقیق Bazi (طالع‌بینی چینی) را ارائه می‌دهد
 - [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server) 📇 ☁️ - سرور MCP برای تعامل با API Discogs
 - [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - سرور MCP با استفاده از API Aseprite برای ایجاد هنر پیکسلی

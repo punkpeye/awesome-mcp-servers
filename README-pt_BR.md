@@ -125,6 +125,7 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - Um servidor MCP local que gera animações usando Manim.
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - Adicione, Analise, Pesquise e Gere Edições de Vídeo da sua Coleção de Vídeos
+- [JamesANZ/video-toolkit-mcp](https://github.com/JamesANZ/video-toolkit-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Kit de ferramentas de vídeo para transcrições, downloads e geração de legendas com IA. Obtenha transcrições do YouTube/Vimeo/Bilibili, baixe vídeos via yt-dlp e gere legendas automaticamente usando OpenAI Whisper ou whisper local.
 - [djalal/quran-mcp-server](https://github.com/djalal/quran-mcp-server) 📇 ☁️ Servidor MCP para interagir com o corpus do Quran.com através da API REST oficial v4.
 - [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - Servidor MCP para AniList com recomendações baseadas em gosto, análise de visualização, ferramentas sociais e gerenciamento completo de listas.
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - Integração da API do Rijksmuseum para pesquisa, detalhes e coleções de obras de arte
