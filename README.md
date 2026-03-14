@@ -922,6 +922,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - Enables autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
 - [98lukehall/renoun-mcp](https://github.com/98lukehall/renoun-mcp) [glama](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp) 🐍 ☁️ - Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence across 17 channels without analyzing content.
 - [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) 💎 🏠 - Enables agents to query local information about dependencies in a Ruby project's `Gemfile`.
+- [word-cloud.net](https://word-cloud.net/ai.html) ☁️ - Generate word clouds from text with custom fonts, colors, gradients, backgrounds, and shape masks. Export browser rendered embeddable links, WebP, SVG, PDF, and HTML.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
 
 ### 📟 <a name="embedded-system"></a>Embedded System
