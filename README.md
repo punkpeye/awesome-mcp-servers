@@ -1940,3 +1940,24 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
+
+### DeFi & Crypto (by [Junct](https://junct.dev))
+
+- [Blockscout MCP](https://github.com/junct-bot/blockscout-mcp) ☁️ - Blockscout MCP server (56 tools). Hosted, no setup required. [`blockscout.mcp.junct.dev/mcp`](https://blockscout.mcp.junct.dev/mcp)
+- [Stargate MCP](https://github.com/junct-bot/stargate-mcp) ☁️ - Stargate MCP server (42 tools). Hosted, no setup required. [`stargate.mcp.junct.dev/mcp`](https://stargate.mcp.junct.dev/mcp)
+- [Synthetix MCP](https://github.com/junct-bot/synthetix-mcp) ☁️ - Synthetix MCP server (22 tools). Hosted, no setup required. [`synthetix.mcp.junct.dev/mcp`](https://synthetix.mcp.junct.dev/mcp)
+- [Gmx MCP](https://github.com/junct-bot/gmx-mcp) ☁️ - Gmx MCP server (139 tools). Hosted, no setup required. [`gmx.mcp.junct.dev/mcp`](https://gmx.mcp.junct.dev/mcp)
+- [Maker MCP](https://github.com/junct-bot/maker-mcp) ☁️ - Maker MCP server (10 tools). Hosted, no setup required. [`maker.mcp.junct.dev/mcp`](https://maker.mcp.junct.dev/mcp)
+- [Ens MCP](https://github.com/junct-bot/ens-mcp) ☁️ - Ens MCP server (23 tools). Hosted, no setup required. [`ens.mcp.junct.dev/mcp`](https://ens.mcp.junct.dev/mcp)
+- [Eigenlayer MCP](https://github.com/junct-bot/eigenlayer-mcp) ☁️ - Eigenlayer MCP server (8 tools). Hosted, no setup required. [`eigenlayer.mcp.junct.dev/mcp`](https://eigenlayer.mcp.junct.dev/mcp)
+- [Chainlink MCP](https://github.com/junct-bot/chainlink-mcp) ☁️ - Chainlink MCP server (27 tools). Hosted, no setup required. [`chainlink.mcp.junct.dev/mcp`](https://chainlink.mcp.junct.dev/mcp)
+- [Lido MCP](https://github.com/junct-bot/lido-mcp) ☁️ - Lido MCP server (6 tools). Hosted, no setup required. [`lido.mcp.junct.dev/mcp`](https://lido.mcp.junct.dev/mcp)
+- [Compound MCP](https://github.com/junct-bot/compound-mcp) ☁️ - Compound MCP server (8 tools). Hosted, no setup required. [`compound.mcp.junct.dev/mcp`](https://compound.mcp.junct.dev/mcp)
+- [Aave MCP](https://github.com/junct-bot/aave-mcp) ☁️ - Aave MCP server (6 tools). Hosted, no setup required. [`aave.mcp.junct.dev/mcp`](https://aave.mcp.junct.dev/mcp)
+- [Beefy MCP](https://github.com/junct-bot/beefy-mcp) ☁️ - Beefy MCP server (10 tools). Hosted, no setup required. [`beefy.mcp.junct.dev/mcp`](https://beefy.mcp.junct.dev/mcp)
+- [Curve MCP](https://github.com/junct-bot/curve-mcp) ☁️ - Curve MCP server (43 tools). Hosted, no setup required. [`curve.mcp.junct.dev/mcp`](https://curve.mcp.junct.dev/mcp)
+- [Jupiter MCP](https://github.com/junct-bot/jupiter-mcp) ☁️ - Jupiter MCP server (4 tools). Hosted, no setup required. [`jupiter.mcp.junct.dev/mcp`](https://jupiter.mcp.junct.dev/mcp)
+- [Binance MCP](https://github.com/junct-bot/binance-mcp) ☁️ - Binance MCP server (340 tools). Hosted, no setup required. [`binance.mcp.junct.dev/mcp`](https://binance.mcp.junct.dev/mcp)
+- [Aarna MCP](https://github.com/junct-bot/aarna-mcp) ☁️ - Aarna MCP server (138 tools). Hosted, no setup required. [`aarna.mcp.junct.dev/mcp`](https://aarna.mcp.junct.dev/mcp)
+- [Coingecko MCP](https://github.com/junct-bot/coingecko-mcp) ☁️ - Coingecko MCP server (1 tools). Hosted, no setup required. [`coingecko.mcp.junct.dev/mcp`](https://coingecko.mcp.junct.dev/mcp)
+- [Euler MCP](https://github.com/junct-bot/euler-mcp) ☁️ - Euler MCP server (16 tools). Hosted, no setup required. [`euler.mcp.junct.dev/mcp`](https://euler.mcp.junct.dev/mcp)
