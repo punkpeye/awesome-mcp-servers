@@ -109,7 +109,7 @@ jobs:
             });
 
             // Only check new entries for glama link
-            const hasGlama = newAddedLines.some(line => line.includes('glama.ai/mcp/servers'));
+            const hasGlama = newAddedLines.some(line => line.includes('glama.ai/mcp/servers/') && line.includes('/badges/score.svg'));
 
             let hasValidEmoji = false;
             let hasInvalidEmoji = false;
@@ -246,7 +246,11 @@ jobs:
 
             1. **Ensure your server is listed on Glama.** If it isn't already, submit it at https://glama.ai/mcp/servers and verify that it passes all checks (including a successfully built Docker image and a release).
 
-            2. **Update your PR** by adding a \`[glama](https://glama.ai/mcp/servers/...)\` link immediately after the GitHub repository link, pointing to your server's Glama listing page.
+            2. **Update your PR** by adding a Glama score badge after the server description, using this format:
+
+            \`[![OWNER/REPO MCP server](https://glama.ai/mcp/servers/OWNER/REPO/badges/score.svg)](https://glama.ai/mcp/servers/OWNER/REPO)\`
+
+            Replace \`OWNER/REPO\` with your server's Glama path.
 
             If you need any assistance, feel free to ask questions here or on [Discord](https://glama.ai/discord).
 
@@ -262,7 +266,7 @@ jobs:
                 const glamaLines = files
                   .filter(f => f.patch)
                   .flatMap(f => f.patch.split('\n').filter(l => l.startsWith('+')))
-                  .filter(l => l.includes('glama.ai/mcp/servers'))
+                  .filter(l => l.includes('glama.ai/mcp/servers/') && l.includes('/badges/score.svg'))
                   .filter(l => {
                     const ghMatch = l.match(/\(https:\/\/github\.com\/[^)]+\)/i);
                     return !ghMatch || !existingUrls.has(ghMatch[0].toLowerCase());
@@ -282,13 +286,11 @@ jobs:
                     owner,
                     repo,
                     issue_number: pr_number,
-                    body: `${marker}\nThank you for adding the Glama link!
+                    body: `${marker}\nThank you for adding the Glama badge!
 
             Please make sure the server's badge shows an [A A A score](https://glama.ai/mcp/servers/${glamaServerPath}/score):
 
-            <a href="https://glama.ai/mcp/servers/${glamaServerPath}">
-              <img width="380" height="200" src="https://glama.ai/mcp/servers/${glamaServerPath}/badge" />
-            </a>
+            [![${glamaServerPath} MCP server](https://glama.ai/mcp/servers/${glamaServerPath}/badges/score.svg)](https://glama.ai/mcp/servers/${glamaServerPath})
 
             If you need any assistance, feel free to ask questions here or on [Discord](https://glama.ai/discord).`
                   });
