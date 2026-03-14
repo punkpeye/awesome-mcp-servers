@@ -495,6 +495,7 @@ Integration with communication platforms for message management and channel oper
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - MCP server for WhatsApp Business Platform by YCloud.
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) 📇 ☁️ - An MCP server to Manage Google Tasks
 - [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) 📇 ☁️ 🏠 - A Model Context Protocol (MCP) server with built-in Feishu OAuth authentication, supporting remote connections and providing comprehensive Feishu document management tools including block creation, content updates, and advanced features.
+- [rodrigoramosrs/FlowStepMCP](https://github.com/rodrigoramosrs/FlowStepMCP) #️⃣ 🏠 🪟 - FlowStepMCP: Multi-modal MCP server for notifications, confirmations, forms, and progress tracking across CLI, Desktop GUI (Avalonia), and Telegram Bot. Tools: NotifyUserAsync, ConfirmAsync, ChooseOptionAsync, ChooseMultipleOptionsAsync, AskUserForTextAsync, ChooseWithCustomTextAsync, ShowProgressAsync. Hierarchical config via args, environment variables, or appsettings.json.
 - [loglux/whatsapp-mcp-stream](https://github.com/loglux/whatsapp-mcp-stream) [glama](https://glama.ai/mcp/servers/@loglux/whatsapp-mcp-stream) 📇 🏠 🍎 🪟 🐧 - WhatsApp MCP server over Streamable HTTP with web admin UI (QR/status/settings), bidirectional media upload/download, and SQLite persistence.
 
 
