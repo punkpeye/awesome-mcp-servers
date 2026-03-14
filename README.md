@@ -942,6 +942,8 @@ MCP servers for learning management systems (LMS) and educational tools.
 
 - [RohanMuppa/brightspace-mcp-server](https://github.com/RohanMuppa/brightspace-mcp-server) [glama](https://glama.ai/mcp/servers/@RohanMuppa/brightspace-mcp-server) 📇 🏠 🍎 🪟 🐧 - MCP server for D2L Brightspace LMS. Check grades, due dates, assignments, announcements, syllabus, rosters, discussions, and course content. Works with any school that uses Brightspace. Install via `npx brightspace-mcp-server@latest`.
 
+- [genyk1p/learning-hub-mcp](https://github.com/genyk1p/learning-hub-mcp) 🐍 🏠 - AI-powered learning assistant for families. Manages game time rewards based on school grades, homework, and bonus tasks. Syncs with EduPage/PRONOTE. 78 MCP tools with instruction workflows.
+
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
 Provides access to environmental data and nature-related tools, services and information.
