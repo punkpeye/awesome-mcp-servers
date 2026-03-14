@@ -1304,6 +1304,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️  - IP address geolocation and network information using IPInfo API
 - [cqtrinv/trinvmcp](https://github.com/cqtrinv/trinvmcp) 📇 ☁️ - Explore French communes and cadastral parcels based on name and surface
 - [devilcoder01/weather-mcp-server](https://github.com/devilcoder01/weather-mcp-server) 🐍 ☁️ - Access real-time weather data for any location using the WeatherAPI.com API, providing detailed forecasts and current conditions.
+- [gaopengbin/cesium-mcp](https://github.com/gaopengbin/cesium-mcp) 📇 🏠 🍎 🪟 🐧 - AI-powered 3D globe control via MCP. Connect any MCP-compatible AI agent to CesiumJS — camera flight, GeoJSON/3D Tiles layers, markers, spatial analysis, heatmaps, and more through 19 natural language tools.
 - [ip2location/mcp-ip2location-io](https://github.com/ip2location/mcp-ip2location-io) 🐍 ☁️  - Official IP2Location.io MCP server to obtain the geolocation, proxy and network information of an IP address utilizing IP2Location.io API.
 - [ipfind/ipfind-mcp-server](https://github.com/ipfind/ipfind-mcp-server) 🐍 ☁️ - IP Address location service using the [IP Find](https://ipfind.com) API
 - [ipfred/aiwen-mcp-server-geoip](https://github.com/ipfred/aiwen-mcp-server-geoip) 🐍 📇 ☁️ – MCP Server for the Aiwen IP Location, Get user network IP location, get IP details (country, province, city, lat, lon, ISP, owner, etc.)
