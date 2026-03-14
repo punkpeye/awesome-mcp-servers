@@ -178,6 +178,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [ViperJuice/mcp-gateway](https://github.com/ViperJuice/mcp-gateway) 🐍 🏠 🍎 🪟 🐧 - A meta-server for minimal Claude Code tool bloat with progressive disclosure and dynamic server provisioning. Exposes 9 stable meta-tools, auto-starts Playwright and Context7, and can dynamically provision 25+ MCP servers on-demand from a curated manifest.
 - [WayStation-ai/mcp](https://github.com/waystation-ai/mcp) ☁️ 🍎 🪟 - Seamlessly and securely connect Claude Desktop and other MCP hosts to your favorite apps (Notion, Slack, Monday, Airtable, etc.). Takes less than 90 secs.
 - [wegotdocs/open-mcp](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Turn a web API into an MCP server in 10 seconds and add it to the open source registry: https://open-mcp.org
+- [whiteknightonhorse/APIbase](https://github.com/whiteknightonhorse/APIbase) [glama](https://glama.ai/mcp/servers/whiteknightonhorse/APIbase) 📇 ☁️ - Unified API hub for AI agents with 56+ tools across travel (Amadeus, Sabre), prediction markets (Polymarket), crypto, and weather. Pay-per-call via x402 micropayments in USDC.
 - [rplryan/x402-discovery-mcp](https://github.com/rplryan/x402-discovery-mcp) [glama](https://glama.ai/mcp/servers/@rplryan/x402-discovery-mcp) 🐍 ☁️ - Runtime discovery layer for x402-payable APIs. Agents discover and route to pay-per-call x402 endpoints by capability, get quality-ranked results with trust scores (0-100), and pay per query via x402. Includes MCP server, Python SDK, and CLI (npm install -g x402scout).
 - [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive personal data aggregation MCP server with Steam, YouTube, Bilibili, Spotify, Reddit and other platforms integrations. Features OAuth2 authentication, automatic token management, and 90+ tools for gaming, music, video, and social platform data access.
 
@@ -1945,4 +1946,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-
