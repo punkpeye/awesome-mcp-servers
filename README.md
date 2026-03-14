@@ -1634,6 +1634,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [scrape-badger/scrapebadger-mcp](https://github.com/scrape-badger/scrapebadger-mcp) 🐍 ☁️ - Access Twitter/X data including user profiles, tweets, followers, trends, lists, and communities via the ScrapeBadger API.
 - [sinanefeozler/reddit-summarizer-mcp](https://github.com/sinanefeozler/reddit-summarizer-mcp) 🐍 🏠 ☁️ - MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.
 - [bulatko/vk-mcp-server](https://github.com/bulatko/vk-mcp-server) [glama](https://glama.ai/mcp/servers/bulatko/vk-mcp-server) 📇 ☁️ - MCP server for VK (VKontakte) social network API. Access users, walls, groups, friends, newsfeed, photos, and community stats.
+- [Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw) 📇 ☁️ - Remote X (Twitter) MCP server with 40+ endpoints via 2 tools. Post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways, and monitor accounts. StreamableHTTP at xquik.com/mcp with API key auth.
 
 ### 🏃 <a name="sports"></a>Sports
 
