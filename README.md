@@ -1449,6 +1449,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [Crawleo/Crawleo-MCP](https://github.com/Crawleo/Crawleo-MCP) ☁️ 🐍 – Crawleo Search & Crawl API
 - [Crawleo/Crawleo-MCP](https://github.com/Crawleo/Crawleo-MCP) ☁️ 🐍 – Crawleo search & Crawling API
 - [czottmann/kagi-ken-mcp](https://github.com/czottmann/kagi-ken-mcp) 📇 ☁️ - Work with Kagi *without* API access (you'll need to be a customer, tho). Searches and summarizes. Uses Kagi session token for easy authentication.
+- [daniel-coldstate/coldstate-mcp](https://github.com/daniel-coldstate/coldstate-mcp) 📇 ☁️ - Semantic search over 64.6M knowledge entries. The structured alternative to web search APIs and web scraping for LLM agents — no crawling, no rate limits, sub-3s responses.
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - Enable fast, free real-time web search and access premium data from trusted media brands—news, financial markets, sports, entertainment, weather, and more. Build powerful AI agents with Dappier.
 - [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) 📇 🏠 - Local MCP server for searching 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database.
 - [dealx/mcp-server](https://github.com/DealExpress/mcp-server) ☁️ - MCP Server for DealX platform
