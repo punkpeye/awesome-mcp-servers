@@ -440,12 +440,6 @@ Provides access to customer profiles inside of customer data platforms
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - Connect any Open Data to any LLM with Model Context Protocol.
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - An MCP server to access and updates profiles on an Apache Unomi CDP server.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
-- [azmartone67/Data-Center-Hub](https://github.com/azmartone67/Data-Center-Hub) 🐍 ☁️ - Data center industry intelligence MCP server providing facility search across 20,000+ data centers in 140+ countries, M&A tracking, capacity pipeline data, market analytics, and energy infrastructure insights via [DC Hub](https://dchub.cloud).
-  
-### 🗄️ <a name="databases"></a>Databases
-
-Secure database access with schema inspection capabilities. Enables querying and analyzing data with configurable security controls including read-only access.
-
 - [Aiven-Open/mcp-aiven](https://github.com/Aiven-Open/mcp-aiven) - 🐍 ☁️ 🎖️ -  Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services
 - [alexanderzuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - Supabase MCP Server with support for SQL query execution and database exploration tools
 - [aliyun/alibabacloud-tablestore-mcp-server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) ☕ 🐍 ☁️ - MCP service for Tablestore, features include adding documents, semantic search for documents based on vectors and scalars, RAG-friendly, and serverless.
@@ -548,8 +542,8 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [alkemiai/alkemi-mcp](https://github.com/alkemi-ai/alkemi-mcp) 📇 ☁️ - MCP Server for natural language querying of Snowflake, Google BigQuery, and DataBricks Data Products through Alkemi.ai.
 - [avisangle/method-crm-mcp](https://github.com/avisangle/method-crm-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Production-ready MCP server for Method CRM API integration with 20 comprehensive tools for tables, files, users, events, and API key management. Features rate limiting, retry logic, and dual transport support (stdio/HTTP).
 - [aywengo/kafka-schema-reg-mcp](https://github.com/aywengo/kafka-schema-reg-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive Kafka Schema Registry MCP server with 48 tools for multi-registry management, schema migration, and enterprise features.
+- [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) ([glama](https://glama.ai/mcp/servers/cloud.dchub/dchub-mcp-server)) 🐍 ☁️ - Data center intelligence with 50,000+ global facilities, M&A tracking, capacity pipeline, site scoring, and energy grid data. 10 tools via Streamable HTTP, free tier included.
 - [dbt-labs/dbt-mcp](https://github.com/dbt-labs/dbt-mcp) 🎖️ 🐍 🏠 ☁️ - Official MCP server for [dbt (data build tool)](https://www.getdbt.com/product/what-is-dbt) providing integration with dbt Core/Cloud CLI, project metadata discovery, model information, and semantic layer querying capabilities.
-- [azmartone67/Data-Center-Hub](https://github.com/azmartone67/Data-Center-Hub) 🐍 ☁️ - Data center industry intelligence MCP server providing facility search across 20,000+ data centers in 140+ countries, M&A tracking, capacity pipeline data, market analytics, and energy infrastructure insights via [DC Hub](https://dchub.cloud).
 - [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️ 📇 ☁️ 🏠 - Interact with Flowcore to perform actions, ingest data, and analyse, cross reference and utilise any data in your data cores, or in public data cores; all with human language.
 - [JordiNei/mcp-databricks-server](https://github.com/JordiNeil/mcp-databricks-server) 🐍 ☁️ - Connect to Databricks API, allowing LLMs to run SQL queries, list jobs, and get job status.
 - [jwaxman19/qlik-mcp](https://github.com/jwaxman19/qlik-mcp) 📇 ☁️ - MCP Server for Qlik Cloud API that enables querying applications, sheets, and extracting data from visualizations with comprehensive authentication and rate limiting support.
