@@ -1655,13 +1655,10 @@ Tools for accessing sports-related data, results, and statistics.
 - [r-huijts/firstcycling-mcp](https://github.com/r-huijts/firstcycling-mcp) 📇 ☁️ - Access cycling race data, results, and statistics through natural language. Features include retrieving start lists, race results, and rider information from firstcycling.com.
 - [r-huijts/strava-mcp](https://github.com/r-huijts/strava-mcp) 📇 ☁️ - A Model Context Protocol (MCP) server that connects to Strava API, providing tools to access Strava data through LLMs
 - [RobSpectre/mvf1](https://github.com/RobSpectre/mvf1) 🐍 ☁️ - MCP server that controls [MultiViewer](https://multiviewer.app), an app for watching motorsports like Formula 1, World Endurance Championship, IndyCar and others.
+  - [seang1121/sports-betting-mcp](https://github.com/seang1121/sports-betting-mcp) [glama](https://glama.ai/mcp/servers/seang1121/sports-betting-mcp) 🐍 ☁️ 🍎 🪟 🐧 - AI sports betting picks, odds, injuries & line movement for NBA, NHL, NCAAB and MLB giving you visual bet slip cards with edges.
 - [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - MCP server that integrates with the Squiggle API to provide information on Australian Football League teams, ladder standings, results, tips, and power rankings.
-
-
 ### 🎧 <a name="support-and-service-management"></a>Support & Service Management
-
 Tools for managing customer support, IT service management, and helpdesk operations.
-
 - [aikts/yandex-tracker-mcp](https://github.com/aikts/yandex-tracker-mcp) 🐍 ☁️ 🏠 - MCP Server for Yandex Tracker. Provides tools for searching and retrieving information about issues, queues, users.
 - [Berckan/bugherd-mcp](https://github.com/Berckan/bugherd-mcp) 📇 ☁️ - MCP server for BugHerd bug tracking. List projects, view tasks with filtering by status/priority/tags, get task details, and read comments.
 - [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - MCP server that integrates with Freshdesk, enabling AI models to interact with Freshdesk modules and perform various support operations.
