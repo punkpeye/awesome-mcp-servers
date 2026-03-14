@@ -1942,22 +1942,23 @@ Now Claude can answer questions about writing MCP servers and how they work
 
 
 
+
 ### DeFi & Crypto
 
-- [junct-bot/binance-mcp](https://github.com/junct-bot/binance-mcp) - Binance exchange data — spot trading, market data, klines, order book. Hosted at binance.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/gmx-mcp](https://github.com/junct-bot/gmx-mcp) - GMX perpetuals DEX on Arbitrum — positions, swaps, vault data. Hosted at gmx.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/blockscout-mcp](https://github.com/junct-bot/blockscout-mcp) - Block explorer — transactions, addresses, tokens, smart contracts. Hosted at blockscout.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/curve-mcp](https://github.com/junct-bot/curve-mcp) - Curve stableswap — pools, TVL, volume, gauges. Hosted at curve.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/stargate-mcp](https://github.com/junct-bot/stargate-mcp) - Stargate cross-chain bridge — liquidity, swaps, chain paths. Hosted at stargate.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/coingecko-mcp](https://github.com/junct-bot/coingecko-mcp) - CoinGecko market data — prices, market caps, volumes, trending. Hosted at coingecko.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/chainlink-mcp](https://github.com/junct-bot/chainlink-mcp) - Chainlink oracle — price feeds, round data, aggregator. Hosted at chainlink.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/ens-mcp](https://github.com/junct-bot/ens-mcp) - ENS name service — domain resolution, lookups. Hosted at ens.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/synthetix-mcp](https://github.com/junct-bot/synthetix-mcp) - Synthetix — synthetic assets, SNX token, staking. Hosted at synthetix.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/defillama-mcp](https://github.com/junct-bot/defillama-mcp) - DefiLlama analytics — TVL, protocol data, token prices, yields. Hosted at defillama.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/beefy-mcp](https://github.com/junct-bot/beefy-mcp) - Beefy yield optimizer — multi-chain vaults, APY data. Hosted at beefy.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/maker-mcp](https://github.com/junct-bot/maker-mcp) - MakerDAO — DAI savings rate, DSR manager. Hosted at maker.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/compound-mcp](https://github.com/junct-bot/compound-mcp) - Compound V3 — supply, borrow, markets. Hosted at compound.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/eigenlayer-mcp](https://github.com/junct-bot/eigenlayer-mcp) - EigenLayer restaking — delegation, operators. Hosted at eigenlayer.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/aave-mcp](https://github.com/junct-bot/aave-mcp) - Aave V3 lending — supply, borrow, reserves, rates. Hosted at aave.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/lido-mcp](https://github.com/junct-bot/lido-mcp) - Lido liquid staking — stETH, rates, allowances. Hosted at lido.mcp.junct.dev/mcp, no setup required.
-- [junct-bot/jupiter-mcp](https://github.com/junct-bot/jupiter-mcp) - Jupiter Solana DEX aggregator — quotes, swaps. Hosted at jupiter.mcp.junct.dev/mcp, no setup required.
+- [junct-bot/binance-mcp](https://github.com/junct-bot/binance-mcp) 📇 ☁️ - Binance exchange — spot trading, market data, klines, order book. Hosted, no setup required.
+- [junct-bot/gmx-mcp](https://github.com/junct-bot/gmx-mcp) 📇 ☁️ - GMX perpetuals DEX — positions, swaps, vault data. Hosted, no setup required.
+- [junct-bot/blockscout-mcp](https://github.com/junct-bot/blockscout-mcp) 📇 ☁️ - Block explorer — transactions, addresses, tokens, contracts. Hosted, no setup required.
+- [junct-bot/curve-mcp](https://github.com/junct-bot/curve-mcp) 📇 ☁️ - Curve stableswap — pools, TVL, volume, gauges. Hosted, no setup required.
+- [junct-bot/stargate-mcp](https://github.com/junct-bot/stargate-mcp) 📇 ☁️ - Stargate cross-chain bridge — liquidity, swaps. Hosted, no setup required.
+- [junct-bot/coingecko-mcp](https://github.com/junct-bot/coingecko-mcp) 📇 ☁️ - CoinGecko market data — prices, volumes, trending. Hosted, no setup required.
+- [junct-bot/chainlink-mcp](https://github.com/junct-bot/chainlink-mcp) 📇 ☁️ - Chainlink oracle — price feeds, round data. Hosted, no setup required.
+- [junct-bot/ens-mcp](https://github.com/junct-bot/ens-mcp) 📇 ☁️ - ENS name service — domain resolution, lookups. Hosted, no setup required.
+- [junct-bot/synthetix-mcp](https://github.com/junct-bot/synthetix-mcp) 📇 ☁️ - Synthetix — synthetic assets, staking. Hosted, no setup required.
+- [junct-bot/defillama-mcp](https://github.com/junct-bot/defillama-mcp) 📇 ☁️ - DefiLlama analytics — TVL, protocol data, yields. Hosted, no setup required.
+- [junct-bot/beefy-mcp](https://github.com/junct-bot/beefy-mcp) 📇 ☁️ - Beefy yield optimizer — multi-chain vaults. Hosted, no setup required.
+- [junct-bot/maker-mcp](https://github.com/junct-bot/maker-mcp) 📇 ☁️ - MakerDAO — DAI savings rate. Hosted, no setup required.
+- [junct-bot/compound-mcp](https://github.com/junct-bot/compound-mcp) 📇 ☁️ - Compound V3 — supply, borrow, markets. Hosted, no setup required.
+- [junct-bot/eigenlayer-mcp](https://github.com/junct-bot/eigenlayer-mcp) 📇 ☁️ - EigenLayer restaking — delegation, operators. Hosted, no setup required.
+- [junct-bot/aave-mcp](https://github.com/junct-bot/aave-mcp) 📇 ☁️ - Aave V3 lending — supply, borrow, reserves. Hosted, no setup required.
+- [junct-bot/lido-mcp](https://github.com/junct-bot/lido-mcp) 📇 ☁️ - Lido liquid staking — stETH, rates. Hosted, no setup required.
+- [junct-bot/jupiter-mcp](https://github.com/junct-bot/jupiter-mcp) 📇 ☁️ - Jupiter Solana DEX aggregator — quotes, swaps. Hosted, no setup required.
