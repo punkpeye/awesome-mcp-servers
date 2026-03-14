@@ -178,7 +178,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [ViperJuice/mcp-gateway](https://github.com/ViperJuice/mcp-gateway) 🐍 🏠 🍎 🪟 🐧 - A meta-server for minimal Claude Code tool bloat with progressive disclosure and dynamic server provisioning. Exposes 9 stable meta-tools, auto-starts Playwright and Context7, and can dynamically provision 25+ MCP servers on-demand from a curated manifest.
 - [WayStation-ai/mcp](https://github.com/waystation-ai/mcp) ☁️ 🍎 🪟 - Seamlessly and securely connect Claude Desktop and other MCP hosts to your favorite apps (Notion, Slack, Monday, Airtable, etc.). Takes less than 90 secs.
 - [wegotdocs/open-mcp](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Turn a web API into an MCP server in 10 seconds and add it to the open source registry: https://open-mcp.org
-- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 980+ AI tools in one MCP server — web scraping, lead gen, finance, media, research, and dev tools from 30+ providers. Pay $0.01/call in USDC via x402. No API keys needed.
+- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) [glama](https://glama.ai/mcp/connectors/sh.xpay.mcp/xpay-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 980+ AI tools in one MCP server — web scraping, lead gen, finance, media, research, and dev tools from 30+ providers. Pay $0.01/call in USDC via x402. No API keys needed.
 - [rplryan/x402-discovery-mcp](https://github.com/rplryan/x402-discovery-mcp) [glama](https://glama.ai/mcp/servers/@rplryan/x402-discovery-mcp) 🐍 ☁️ - Runtime discovery layer for x402-payable APIs. Agents discover and route to pay-per-call x402 endpoints by capability, get quality-ranked results with trust scores (0-100), and pay per query via x402. Includes MCP server, Python SDK, and CLI (npm install -g x402scout).
 - [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive personal data aggregation MCP server with Steam, YouTube, Bilibili, Spotify, Reddit and other platforms integrations. Features OAuth2 authentication, automatic token management, and 90+ tools for gaming, music, video, and social platform data access.
 
@@ -884,7 +884,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [Yutarop/ros-mcp](https://github.com/Yutarop/ros-mcp) 🐍 🏠 🐧 - MCP server that supports ROS2 topics, services, and actions communication, and controls robots using natural language.
 - [yWorks/mcp-typescribe](https://github.com/yWorks/mcp-typescribe) 📇 🏠 - MCP server that provides Typescript API information efficiently to the agent to enable it to work with untrained APIs
 - [zaizaizhao/mcp-swagger-server](https://github.com/zaizaizhao/mcp-swagger-server) 📇 ☁️ 🏠 - A Model Context Protocol (MCP) server that converts OpenAPI/Swagger specifications to MCP format, enabling AI assistants to interact with REST APIs through standardized protocol.
-- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 30+ developer tools as an MCP server — Context7 docs lookup, code execution (Python/JS), npm vulnerability scanning, PlantUML diagrams, and Microsoft Learn search. $0.01/call via x402.
+- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) [glama](https://glama.ai/mcp/connectors/sh.xpay.mcp/xpay-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 30+ developer tools as an MCP server — Context7 docs lookup, code execution (Python/JS), npm vulnerability scanning, PlantUML diagrams, and Microsoft Learn search. $0.01/call via x402.
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - An MCP server to flexibly fetch JSON, text, and HTML data
 - [zelentsov-dev/asc-mcp](https://github.com/zelentsov-dev/asc-mcp) 🏠 🍎 - App Store Connect API server with 208 tools for managing apps, builds, TestFlight, subscriptions, reviews, and more — directly from any MCP client.
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
@@ -1149,7 +1149,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server) 📇 ☁️ – An MCP server that integrates with Xero's API, allowing for standardized access to Xero's accounting and business features.
 - [yamariki-hub/japan-corporate-mcp](https://github.com/yamariki-hub/japan-corporate-mcp) 🐍 ☁️ - Japanese corporate data via government APIs (gBizINFO, EDINET, e-Stat). Search companies, financials, patents, subsidies, procurement, and government statistics.
 - [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402) ☁️ - Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM chains.
-- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 253 finance tools as an MCP server — stock data, forex, financial statements, prediction markets, and DCF valuations from FMP, Alpha Vantage, AkShare, and Polymarket. $0.01/call via x402.
+- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) [glama](https://glama.ai/mcp/connectors/sh.xpay.mcp/xpay-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 253 finance tools as an MCP server — stock data, forex, financial statements, prediction markets, and DCF valuations from FMP, Alpha Vantage, AkShare, and Polymarket. $0.01/call via x402.
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ - An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.
 - [zolo-ryan/MarketAuxMcpServer](https://github.com/Zolo-Ryan/MarketAuxMcpServer) 📇 ☁️ - MCP server for comprehensive market and financial news search with advanced filtering by symbols, industries, countries, and date ranges.
 - [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) [Glama](https://glama.ai/mcp/servers/mnemox-ai/tradememory-protocol) 🐍 🏠 - Structured 3-layer memory system (trades → patterns → strategy) for AI trading agents. Supports MT5, Binance, and Alpaca.
@@ -1335,7 +1335,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [stape-io/google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) 📇 ☁️ – This server supports remote MCP connections, includes built-in Google OAuth, and provide an interface to the Google Tag Manager API.
 - [stape-io/stape-mcp-server](https://github.com/stape-io/stape-mcp-server) 📇 ☁️ – This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.
 - [tomba-io/tomba-mcp-server](https://github.com/tomba-io/tomba-mcp-server) 📇 ☁️ - Email discovery, verification, and enrichment tools. Find email addresses, verify deliverability, enrich contact data, discover authors and LinkedIn profiles, validate phone numbers, and analyze technology stacks.
-- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 50+ lead gen tools (Hunter, Apollo, Tomba, Nyne) and 40+ competitive intel tools (Brand.dev, Coresignal, Keywords Everywhere) in dedicated MCP servers. $0.01/call via x402, no API keys.
+- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) [glama](https://glama.ai/mcp/connectors/sh.xpay.mcp/xpay-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 50+ lead gen tools (Hunter, Apollo, Tomba, Nyne) and 40+ competitive intel tools (Brand.dev, Coresignal, Keywords Everywhere) in dedicated MCP servers. $0.01/call via x402, no API keys.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
@@ -1392,7 +1392,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [video-creator/ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp.git) 🎥 🔊 - Using ffmpeg command line to achieve an mcp server, can be very convenient, through the dialogue to achieve the local video search, tailoring, stitching, playback and other functions
 - [video-edit-mcp](https://github.com/Aditya2755/video-edit-mcp) 🐍 🏠 🍎 🪟 - Comprehensive video and audio editing MCP server with advanced operations including trimming, merging, effects, overlays, format conversion, audio processing, YouTube downloads, and smart memory management for chaining operations without intermediate files
 - [TopazLabs/topaz-mcp](https://github.com/TopazLabs/topaz-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI image enhancement (upscaling, denoising, sharpening) via Topaz Labs API. Supports 8 models including Standard V2, Wonder 2, Bloom, and Recover 3.
-- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 25+ AI media tools — FLUX Pro, Ideogram v3, Recraft v3, Stable Diffusion XL, MiniMax video, and Kokoro TTS. One MCP server, all models, $0.01/call via x402.
+- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) [glama](https://glama.ai/mcp/connectors/sh.xpay.mcp/xpay-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 25+ AI media tools — FLUX Pro, Ideogram v3, Recraft v3, Stable Diffusion XL, MiniMax video, and Kokoro TTS. One MCP server, all models, $0.01/call via x402.
 
 ### 📋 <a name="product-management"></a>Product Management
 
@@ -1419,7 +1419,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [pminervini/deep-research-mcp](https://github.com/pminervini/deep-research-mcp) 🐍 ☁️ 🏠 - Deep research MCP server for OpenAI Responses API or Open Deep Research (smolagents), with web search and code interpreter support.
 - [sh-patterson/legiscan-mcp](https://github.com/sh-patterson/legiscan-mcp) [glama](https://glama.ai/mcp/servers/ggstefivzf) 📇 ☁️ - Access legislative data from all 50 US states and Congress — search bills, get full text, track votes, and look up legislators via the LegiScan API.
 - [thinkchainai/agentinterviews_mcp](https://github.com/thinkchainai/agentinterviews_mcp) - Conduct AI-powered qualitative research interviews and surveys at scale with [Agent Interviews](https://agentinterviews.com). Create interviewers, manage research projects, recruit participants, and analyze interview data through MCP.
-- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 30+ academic research tools — Semantic Scholar, Google Scholar, arXiv, PubMed, and clinical trial search as an MCP server. $0.01/call via x402.
+- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) [glama](https://glama.ai/mcp/connectors/sh.xpay.mcp/xpay-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 30+ academic research tools — Semantic Scholar, Google Scholar, arXiv, PubMed, and clinical trial search as an MCP server. $0.01/call via x402.
 
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
 
@@ -1542,7 +1542,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zhsama/duckduckgo-mcp-server](https://github.com/zhsama/duckduckgo-mpc-server/) 📇 🏠 ☁️ - This is a TypeScript-based MCP server that provides DuckDuckGo search functionality.
 - [zoharbabin/google-researcher-mcp](https://github.com/zoharbabin/google-researcher-mcp) [glama](https://glama.ai/mcp/servers/@zoharbabin/google-researcher-mcp) 📇 ☁️ 🏠 - Comprehensive research tools including Google Search (web, news, images), web scraping with JavaScript rendering, academic paper search (arXiv, PubMed, IEEE), patent search, and YouTube transcript extraction.
 - [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
-- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 35+ web scraping tools (Firecrawl, Bright Data, Jina, ScrapeGraph) and 40+ content research tools (Perplexity, Tavily, Semantic Scholar) as MCP servers. $0.01/call via x402.
+- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) [glama](https://glama.ai/mcp/connectors/sh.xpay.mcp/xpay-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 35+ web scraping tools (Firecrawl, Bright Data, Jina, ScrapeGraph) and 40+ content research tools (Perplexity, Tavily, Semantic Scholar) as MCP servers. $0.01/call via x402.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 
 ### 🔒 <a name="security"></a>Security
@@ -1638,7 +1638,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [scrape-badger/scrapebadger-mcp](https://github.com/scrape-badger/scrapebadger-mcp) 🐍 ☁️ - Access Twitter/X data including user profiles, tweets, followers, trends, lists, and communities via the ScrapeBadger API.
 - [sinanefeozler/reddit-summarizer-mcp](https://github.com/sinanefeozler/reddit-summarizer-mcp) 🐍 🏠 ☁️ - MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.
 - [bulatko/vk-mcp-server](https://github.com/bulatko/vk-mcp-server) [glama](https://glama.ai/mcp/servers/bulatko/vk-mcp-server) 📇 ☁️ - MCP server for VK (VKontakte) social network API. Access users, walls, groups, friends, newsfeed, photos, and community stats.
-- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 96 social media scraping tools — Instagram, TikTok, YouTube, LinkedIn, Twitter/X, Reddit, and Facebook. Extract profiles, posts, and analytics. $0.01/call via x402.
+- [xpaysh/mcp-server](https://github.com/xpaysh/mcp-server) [glama](https://glama.ai/mcp/connectors/sh.xpay.mcp/xpay-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - 96 social media scraping tools — Instagram, TikTok, YouTube, LinkedIn, Twitter/X, Reddit, and Facebook. Extract profiles, posts, and analytics. $0.01/call via x402.
 
 ### 🏃 <a name="sports"></a>Sports
 
