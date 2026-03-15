@@ -99,6 +99,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🚚 - [Delivery](#delivery)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 🧮 - [Data Science Tools](#data-science-tools)
+* 📊 - [Data Visualization](#data-visualization)
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
 * 🌳 - [Environment & Nature](#environment-and-nature)
@@ -930,6 +931,12 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [98lukehall/renoun-mcp](https://github.com/98lukehall/renoun-mcp) [![renoun-mcp MCP server](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp) 🐍 ☁️ - Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence across 17 channels without analyzing content.
 - [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) 💎 🏠 - Enables agents to query local information about dependencies in a Ruby project's `Gemfile`.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
+
+### 📊 <a name="data-visualization"></a>Data Visualization
+
+Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
+
+- [KyuRish/mcp-dashboards](https://github.com/KyuRish/mcp-dashboards) [![mcp-dashboards MCP server](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards/badges/score.svg)](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards) 📇 🏠 🍎 🪟 🐧 - 45+ interactive chart types (bar, line, pie, candlestick, sankey, geo, radar, funnel, treemap, and more), dashboards with KPI cards, drill-down navigation, live API polling, 20 themes, and export to PNG/PPT/A4. Built on MCP Apps.
 
 ### 📟 <a name="embedded-system"></a>Embedded System
 
