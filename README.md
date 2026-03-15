@@ -1777,6 +1777,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [vakharwalad23/google-mcp](https://github.com/vakharwalad23/google-mcp) 📇 ☁️ - Collection of Google-native tools (Gmail, Calendar, Drive, Tasks) for MCP with OAuth management, automated token refresh, and auto re-authentication capabilities.
 - [vasylenko/claude-desktop-extension-bear-notes](https://github.com/vasylenko/claude-desktop-extension-bear-notes) 📇 🏠 🍎 - Search, read, create, and update Bear Notes directly from Claude. Local-only with complete privacy.
 - [wyattjoh/calendar-mcp](https://github.com/wyattjoh/calendar-mcp) 📇 🏠 🍎 - MCP server for accessing macOS Calendar events
+- [Writbase/writbase](https://github.com/Writbase/writbase) 📇 ☁️ 🏠 🍎 🪟 🐧 - MCP-native task management for AI agent fleets. Multi-agent permissions, full provenance, inter-agent task delegation with assignment tracking, delegation safety, webhook notifications, and A2A protocol alignment. Supabase-backed with 11 MCP tools.
 - [yuvalsuede/claudia](https://github.com/yuvalsuede/claudia) 📇 🏠 🍎 🪟 🐧 - AI-native task management system for Claude agents. Hierarchical tasks, dependencies, sprints, acceptance criteria, multi-agent coordination, and MCP server integration.
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
