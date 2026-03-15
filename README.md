@@ -490,7 +490,7 @@ Integration with communication platforms for message management and channel oper
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 This is an MCP server for interacting with the VRChat API. You can retrieve information about friends, worlds, avatars, and more in VRChat.
 - [softeria/ms-365-mcp-server](https://github.com/softeria/ms-365-mcp-server) 📇 ☁️ - MCP server that connects to Microsoft Office and the whole Microsoft 365 suite using Graph API (including Outlook, mail, files, Excel, calendar)
 - [teddyzxcv/ntfy-mcp](https://github.com/teddyzxcv/ntfy-mcp) - The MCP server that keeps you informed by sending the notification on phone using ntfy
-- [timkulbaev/mcp-gmail](https://github.com/timkulbaev/mcp-gmail) 📇 ☁️ - Full Gmail operations via Unipile API: send, reply, list, read, delete, search, manage labels, attachments, and drafts. Dry-run by default on destructive actions.
+- [timkulbaev/mcp-gmail](https://github.com/timkulbaev/mcp-gmail) [![mcp-gmail MCP server](https://glama.ai/mcp/servers/timkulbaev/mcp-gmail/badges/score.svg)](https://glama.ai/mcp/servers/timkulbaev/mcp-gmail) 📇 ☁️ - Full Gmail operations via Unipile API: send, reply, list, read, delete, search, manage labels, attachments, and drafts. Dry-run by default on destructive actions.
 - [trycourier/courier-mcp](https://github.com/trycourier/courier-mcp) 🎖️ 💬 ☁️ 🛠️ 📇 🤖 - Build multi-channel notifications into your product, send messages, update lists, invoke automations, all without leaving your AI coding space.
 - [userad/didlogic_mcp](https://github.com/UserAd/didlogic_mcp) 🐍 ☁️ - An MCP server for [DIDLogic](https://didlogic.com). Adds functionality to manage SIP endpoints, numbers and destinations.
 - [wyattjoh/imessage-mcp](https://github.com/wyattjoh/imessage-mcp) 📇 🏠 🍎 - A Model Context Protocol server for reading iMessage data from macOS.
@@ -1658,7 +1658,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [scrape-badger/scrapebadger-mcp](https://github.com/scrape-badger/scrapebadger-mcp) 🐍 ☁️ - Access Twitter/X data including user profiles, tweets, followers, trends, lists, and communities via the ScrapeBadger API.
 - [sinanefeozler/reddit-summarizer-mcp](https://github.com/sinanefeozler/reddit-summarizer-mcp) 🐍 🏠 ☁️ - MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.
 - [bulatko/vk-mcp-server](https://github.com/bulatko/vk-mcp-server) [![vk-mcp-server MCP server](https://glama.ai/mcp/servers/bulatko/vk-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/bulatko/vk-mcp-server) 📇 ☁️ - MCP server for VK (VKontakte) social network API. Access users, walls, groups, friends, newsfeed, photos, and community stats.
-- [timkulbaev/mcp-linkedin](https://github.com/timkulbaev/mcp-linkedin) 📇 ☁️ - LinkedIn publishing, commenting, and reacting via Unipile API. Dry-run by default, SKILL.md included, CLI-first design for AI automation workflows.
+- [timkulbaev/mcp-linkedin](https://github.com/timkulbaev/mcp-linkedin) [![mcp-linkedin MCP server](https://glama.ai/mcp/servers/timkulbaev/mcp-linkedin/badges/score.svg)](https://glama.ai/mcp/servers/timkulbaev/mcp-linkedin) 📇 ☁️ - LinkedIn publishing, commenting, and reacting via Unipile API. Dry-run by default, SKILL.md included, CLI-first design for AI automation workflows.
 
 ### 🏃 <a name="sports"></a>Sports
 
