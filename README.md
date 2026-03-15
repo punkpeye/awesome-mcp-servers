@@ -1505,6 +1505,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [kimdonghwi94/Web-Analyzer-MCP](https://github.com/kimdonghwi94/web-analyzer-mcp) 🐍 🏠 🍎 🪟 🐧 - Extracts clean web content for RAG and provides Q&A about web pages.
 - [kshern/mcp-tavily](https://github.com/kshern/mcp-tavily.git) ☁️ 📇 – Tavily AI search API
 - [leehanchung/bing-search-mcp](https://github.com/leehanchung/bing-search-mcp) 📇 ☁️ - Web search capabilities using Microsoft Bing Search API
+- [leadbrain/korean-data-mcp](https://github.com/leadbrain/korean-data-mcp) 🐍 ☁️ - Real-time Korean web data — Naver place reviews, Melon music chart, Daangn/Bunjang marketplace listings, Naver news, Musinsa fashion rankings. 7 tools powered by Apify actors. Requires APIFY_TOKEN.
 - [lfnovo/content-core](https://github.com/lfnovo/content-core) 🐍 🏠 - Extract content from URLs, documents, videos, and audio files using intelligent auto-engine selection. Supports web pages, PDFs, Word docs, YouTube transcripts, and more with structured JSON responses.
 - [Linked-API/linkedapi-mcp](https://github.com/Linked-API/linkedapi-mcp) 🎖️ 📇 ☁️ - MCP server that lets AI assistants control LinkedIn accounts and retrieve real-time data.
 - [linxule/mineru-mcp](https://github.com/linxule/mineru-mcp) 📇 ☁️ - MCP server for MinerU document parsing API. Parse PDFs, images, DOCX, and PPTX with OCR (109 languages), batch processing (200 docs), page ranges, and local file upload. 73% token reduction with structured output.
