@@ -1388,6 +1388,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [utapyngo/sentry-mcp-rs](https://github.com/utapyngo/sentry-mcp-rs) 🦀 ☁️ - Fast and minimal Sentry MCP server written in Rust
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🎖️ 🏎️ 🏠 - Provides comprehensive integration with your [VictoriaMetrics instance APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances
 - [yshngg/pmcp](https://github.com/yshngg/pmcp) 🏎️ ☁️ 🏠 🍎 🪟 🐧 - A Prometheus Model Context Protocol Server.
+- [flashus/detrix](https://github.com/flashus/detrix) [glama](https://glama.ai/mcp/servers/flashus/detrix) 🦀 🐍 🏎️ 🍎 🐧 🪟 🏠 ☁️ - Observe any variable in running code via DAP logpoints — no code changes, no restarts. Works locally and in Docker/cloud. Python, Go, Rust. Extensible to new languages.
 
 ### 🎥 <a name="multimedia-process"></a>Multimedia Process
 
