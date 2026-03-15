@@ -2,6 +2,7 @@
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
+- [ark-forge/arkforge-mcp](https://github.com/ark-forge/arkforge-mcp): Certifying proxy for AI agent API calls. Every tool call becomes a signed, timestamped Agent Action Receipt (AAR). Model-agnostic and vendor-independent — works across any LLM provider or infrastructure.
 - [MoltyCel/moltrust-mcp-server](https://github.com/MoltyCel/moltrust-mcp-server): Decentralized agent identity and reputation toolkit — DID creation, trust scoring, credential verification, and ERC-8004 on-chain identity integration. 11 tools for verifying AI agent identities and managing trust on Base (Ethereum L2).
 - [ndl-systems/kevros-copilot](https://github.com/ndl-systems/kevros-copilot): Precision decisioning for autonomous agents — cryptographic ALLOW/CLAMP/DENY authorization with HMAC-signed release tokens and hash-chained provenance. Free tier: 100 calls/month. [Live gateway](https://governance.taskhawktech.com)
 - [slowmist/MasterMCP](https://github.com/slowmist/MasterMCP): MasterMCP demonstrates security vulnerabilities in MCP frameworks through practical attack examples, aiding developers in understanding and mitigating potential risks.
