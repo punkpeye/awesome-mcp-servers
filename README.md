@@ -319,6 +319,7 @@ Cloud platform service integration. Enables management and interaction with clou
 - [cyclops-ui/mcp-cyclops](https://github.com/cyclops-ui/mcp-cyclops) 🎖️ 🏎️ ☁️ - An MCP server that allows AI agents to manage Kubernetes resources through Cyclops abstraction
 - [elementfm/mcp](https://gitlab.com/elementfm/mcp) 🎖️ 🐍 📇 🏠 ☁️ - Open source podcast hosting platform
 - [elevy99927/devops-mcp-webui](https://github.com/elevy99927/devops-mcp-webui) 🐍 ☁️/🏠 - MCP Server for Kubernetes integrated with Open-WebUI, bridging the gap between DevOps and non-technical teams. Supports `kubectl` and `helm` operations through natural-language commands.
+- [vitas/evidra](https://github.com/vitas/evidra) 🏎️ 🏠 - Flight recorder for AI infrastructure agents that captures signed evidence around `kubectl`, `helm`, `terraform`, `docker`, `oc`, and `argocd` operations with local-first storage and optional self-hosted forwarding.
 - [erikhoward/adls-mcp-server](https://github.com/erikhoward/adls-mcp-server) 🐍 ☁️/🏠 - MCP Server for Azure Data Lake Storage. It can perform manage containers, read/write/upload/download operations on container files and manage file metadata.
 - [espressif/esp-rainmaker-mcp](https://github.com/espressif/esp-rainmaker-mcp) 🎖️ 🐍 🏠 ☁️ 📟 - Official Espressif MCP Server to manage and control ESP RainMaker Devices.
 - [flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) 📇 ☁️/🏠 - Typescript implementation of Kubernetes cluster operations for pods, deployments, services.
