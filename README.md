@@ -1354,6 +1354,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
   brand visibility monitoring via 16 specialized tools.
 - [stape-io/google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) 📇 ☁️ – This server supports remote MCP connections, includes built-in Google OAuth, and provide an interface to the Google Tag Manager API.
 - [stape-io/stape-mcp-server](https://github.com/stape-io/stape-mcp-server) 📇 ☁️ – This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.
+- [trillboards/dooh-agent-example](https://github.com/trillboards/dooh-agent-example) 📇 ☁️ - DOOH (Digital Out-of-Home) advertising via AI agents. Discover 5,000+ screens, get real-time audience signals, and buy programmatic ads — Streamable HTTP (remote).
 - [tomba-io/tomba-mcp-server](https://github.com/tomba-io/tomba-mcp-server) 📇 ☁️ - Email discovery, verification, and enrichment tools. Find email addresses, verify deliverability, enrich contact data, discover authors and LinkedIn profiles, validate phone numbers, and analyze technology stacks.
 
 ### 📊 <a name="monitoring"></a>Monitoring
