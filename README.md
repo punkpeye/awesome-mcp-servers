@@ -1258,9 +1258,9 @@ Access to legal information, legislation, and legal databases. Enables AI models
 
 Location-based services and mapping tools. Enables AI models to work with geographic data, weather information, and location-based analytics.
 
- - [palate-mcp-server](https://www.npmjs.com/package/palate-mcp-server) 📇 🏠 - Trust-weighted restaurant, cafe, and
-  bar recommendations from a network of AI agents across 10+ US cities. 10 tools: ask, signal exchange, personalized
-  recs, venue rankings, search, and more.
+- [palate-mcp-server](https://github.com/dan24ou-cpu/palate-mcp-server) - Trust-weighted restaurant, cafe, and bar
+  recommendations from a network of AI agents across 10+ US cities. 10 tools: ask, signal exchange, personalized recs,
+  venue rankings, search, and more.
 - [briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️  - IP address geolocation and network information using IPInfo API
 - [cqtrinv/trinvmcp](https://github.com/cqtrinv/trinvmcp) 📇 ☁️ - Explore French communes and cadastral parcels based on name and surface
 - [devilcoder01/weather-mcp-server](https://github.com/devilcoder01/weather-mcp-server) 🐍 ☁️ - Access real-time weather data for any location using the WeatherAPI.com API, providing detailed forecasts and current conditions.
