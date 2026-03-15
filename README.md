@@ -266,6 +266,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [browsermcp/mcp](https://github.com/browsermcp/mcp) 📇 🏠 - Automate your local Chrome browser
 - [brutalzinn/simple-mcp-selenium](https://github.com/brutalzinn/simple-mcp-selenium) 📇 🏠 - An MCP Selenium Server for controlling browsers using natural language in Cursor IDE. Perfect for testing, automation, and multi-user scenarios.
 - [co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🐍 - browser-use packaged as an MCP server with SSE transport. includes a dockerfile to run chromium in docker + a vnc server.
+- [bkauto3/Conduit](https://github.com/bkauto3/Conduit) 🐍 🏠 - Headless browser with SHA-256 hash chain + Ed25519 audit trails. Stealth (Patchright). Self-verifiable proof bundles. 26 actions. Budget enforcement. Part of the SwarmSync.ai agent ecosystem.
 - [eat-pray-ai/yutu](https://github.com/eat-pray-ai/yutu) 🏎️ 🏠 🍎 🐧 🪟 - A fully functional MCP server and CLI for YouTube to automate YouTube operation
 - [executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 📇 - An MCP server using Playwright for browser automation and webscrapping
 - [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) 📇 🏠 - An MCP server paired with a browser extension that enables LLM clients to control the user's browser (Firefox).
