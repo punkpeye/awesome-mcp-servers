@@ -132,6 +132,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 Servers for accessing many apps and tools through a single MCP server.
 
+- [0nork/0nMCP](https://github.com/0nork/0nMCP) 📇 ☁️ 🍎 🪟 🐧 - Universal AI API Orchestrator with 850 tools across 53 services. $0.10/execution, no subscription. Connect Claude, GPT, or Gemini to Stripe, Slack, GitHub, Cloudflare, and 49+ more via natural language. Patent Pending (USPTO #63/990,046). `npm install 0nmcp`
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
 - [Aganium/agenium](https://github.com/Aganium/agenium) 📇 ☁️ 🍎 🪟 🐧 - Bridge any MCP server to the agent:// network — DNS-like identity, discovery, and trust for AI agents. Makes your tools discoverable and callable by other agents via `agent://` URIs with mTLS, trust scores, and capability search.
 - [espadaw/Agent47](https://github.com/espadaw/Agent47) 📇 ☁️ - Unified job aggregator for AI agents across 9+ platforms (x402, RentAHuman, Virtuals, etc).
