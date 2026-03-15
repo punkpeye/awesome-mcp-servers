@@ -114,6 +114,7 @@
 
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - เซิร์ฟเวอร์ MCP ในเครื่องที่สร้างภาพเคลื่อนไหวด้วย Manim
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - เพิ่ม วิเคราะห์ ค้นหา และสร้างการตัดต่อวิดีโอจากคอลเลกชันวิดีโอของคุณ
+- [JamesANZ/video-toolkit-mcp](https://github.com/JamesANZ/video-toolkit-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - ชุดเครื่องมือวิดีโอสำหรับทรานสคริปต์ ดาวน์โหลด และสร้างคำบรรยายด้วย AI ดึงทรานสคริปต์จาก YouTube/Vimeo/Bilibili ดาวน์โหลดวิดีโอผ่าน yt-dlp และสร้างคำบรรยายอัตโนมัติด้วย OpenAI Whisper หรือ whisper ในเครื่อง
 - [djalal/quran-mcp-server](https://github.com/djalal/quran-mcp-server) 📇 🏠 - เซิร์ฟเวอร์ MCP เพื่อโต้ตอบกับคลังข้อมูลอัลกุรอาน ผ่าน REST API v4 อย่างเป็นทางการ
 - [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - เซิร์ฟเวอร์ MCP สำหรับ AniList พร้อมการแนะนำตามรสนิยม การวิเคราะห์การรับชม เครื่องมือโซเชียล และการจัดการรายการแบบครบวงจร
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - การผสานรวม API พิพิธภัณฑ์ Rijksmuseum สำหรับค้นหางานศิลปะ รายละเอียด และคอลเลกชัน

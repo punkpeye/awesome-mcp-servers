@@ -1411,6 +1411,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [torrentclaw/torrentclaw-mcp](https://github.com/torrentclaw/torrentclaw-mcp) 🎖️ 📇 ☁️ - Search and discover movies and TV shows with torrent links, quality scoring, streaming availability, and cast/crew metadata.
 - [video-creator/ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp.git) 🎥 🔊 - Using ffmpeg command line to achieve an mcp server, can be very convenient, through the dialogue to achieve the local video search, tailoring, stitching, playback and other functions
 - [video-edit-mcp](https://github.com/Aditya2755/video-edit-mcp) 🐍 🏠 🍎 🪟 - Comprehensive video and audio editing MCP server with advanced operations including trimming, merging, effects, overlays, format conversion, audio processing, YouTube downloads, and smart memory management for chaining operations without intermediate files
+- [JamesANZ/video-toolkit-mcp](https://github.com/JamesANZ/video-toolkit-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Video toolkit for transcripts, downloads, and AI subtitle generation. Fetch transcripts from YouTube/Vimeo/Bilibili, download videos via yt-dlp, and auto-generate subtitles using OpenAI Whisper or local whisper.
 - [TopazLabs/topaz-mcp](https://github.com/TopazLabs/topaz-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI image enhancement (upscaling, denoising, sharpening) via Topaz Labs API. Supports 8 models including Standard V2, Wonder 2, Bloom, and Recover 3.
 
 ### 📋 <a name="product-management"></a>Product Management
