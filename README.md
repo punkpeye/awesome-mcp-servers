@@ -1106,6 +1106,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [klever-io/mcp-klever-vm](https://github.com/klever-io/mcp-klever-vm) 🎖️ 📇 ☁️ - Klever blockchain MCP server for smart contract development, on-chain data exploration, account and asset queries, transaction analysis, and contract deployment tooling.
 - [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) 🐍 ☁️ - An MCP Server for the Alpaca trading API to manage stock and crypto portfolios, place trades, and access market data.
 - [lightningfaucet/mcp-server](https://github.com/lightningfaucet/mcp-server) 📇 ☁️ - AI Agent Bitcoin wallet with L402 payments - operators fund agents, agents make autonomous Lightning Network payments.
+- [unixlamadev-spec/lightningprox-mcp](https://github.com/unixlamadev-spec/lightningprox-mcp) 📇 🏎️ - MCP server for LightningProx — pay-per-request AI access via Bitcoin Lightning. Supports vision/multimodal. - [Glama](https://glama.ai/mcp/servers/unixlamadev-spec/lightningprox-mcp)
 - [lnbits/LNbits-MCP-Server](https://github.com/lnbits/LNbits-MCP-Server) - Am MCP server for LNbits Lightning Network wallet integration.
 - [logotype/fixparser](https://gitlab.com/logotype/fixparser) 🎖 📇 ☁️ 🏠 📟  - FIX Protocol (send orders, market data, etc.) written in TypeScript.
 - [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
