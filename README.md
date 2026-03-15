@@ -572,6 +572,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - A Model Context Protocol Server for MongoDB
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - DuckDB database integration with schema inspection and query capabilities
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 ☁️ - BigQuery database integration with schema inspection and query capabilities
+- [manticoresoftware/mcp-manticore](https://github.com/manticoresoftware/mcp-manticore) [glama](https://glama.ai/mcp/servers/manticoresoftware/mcp-manticore) 🐍 🏠 ☁️ - MCP server for Manticore Search — enables AI assistants to query and manage Manticore Search databases directly.
 - [memgraph/mcp-memgraph](https://github.com/memgraph/ai-toolkit/tree/main/integrations/mcp-memgraph) 🐍 🏠 - Memgraph MCP Server - includes a tool to run a query against Memgraph and a schema resource.
 - [mbentham/SqlAugur](https://github.com/mbentham/SqlAugur) #️⃣ 🏠 🪟 🐧 - SQL Server MCP server with AST-based query validation, read-only safety, schema exploration, ER diagram generation, and DBA toolkit integration (First Responder Kit, DarlingData, sp_WhoIsActive).
 - [modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres) 📇 🏠 - PostgreSQL database integration with schema inspection and query capabilities
