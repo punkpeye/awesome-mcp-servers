@@ -1310,6 +1310,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 - [bamwor-dev/bamwor-mcp-server](https://github.com/bamwor-dev/bamwor-mcp-server) [![bamwor-mcp-server MCP server](https://glama.ai/mcp/servers/bamwor-dev/bamwor-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/bamwor-dev/bamwor-mcp-server) 📇 ☁️ - World geographic data for AI agents. 261 countries with 20+ statistics and 13.4M cities with population, coordinates, and timezone. Powered by Bamwor API.
 - [briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️  - IP address geolocation and network information using IPInfo API
+- [bigdatacloudapi/bigdatacloud-mcp-server](https://github.com/bigdatacloudapi/bigdatacloud-mcp-server) 🎖️ 📇 ☁️ - IP geolocation, reverse geocoding, ASN/network lookup, timezone, phone/email validation, security assessment, and Tor exit nodes — powered by patented technology with daily public accuracy benchmarks.
 - [cqtrinv/trinvmcp](https://github.com/cqtrinv/trinvmcp) 📇 ☁️ - Explore French communes and cadastral parcels based on name and surface
 - [devilcoder01/weather-mcp-server](https://github.com/devilcoder01/weather-mcp-server) 🐍 ☁️ - Access real-time weather data for any location using the WeatherAPI.com API, providing detailed forecasts and current conditions.
 - [ip2location/mcp-ip2location-io](https://github.com/ip2location/mcp-ip2location-io) 🐍 ☁️  - Official IP2Location.io MCP server to obtain the geolocation, proxy and network information of an IP address utilizing IP2Location.io API.
