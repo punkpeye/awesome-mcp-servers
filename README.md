@@ -11,7 +11,7 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
 > [!IMPORTANT]
-> Read [The State of MCP in 2025](https://glama.ai/blog/2025-12-07-the-state-of-mcp-in-2025) report.
+> Read [The State of MCP in 2025](https://glama.ai/blog/2025-12-07-the-state-of-mcp-in-hh2025) report.
 
 > [!IMPORTANT]
 > [Awesome MCP Servers](https://glama.ai/mcp/servers) web directory.
@@ -19,7 +19,7 @@
 > [!IMPORTANT]
 > Test servers using [MCP Inspector](https://glama.ai/mcp/inspector?servers=%5B%7B%22id%22%3A%22test%22%2C%22name%22%3A%22test%22%2C%22requestTimeout%22%3A10000%2C%22url%22%3A%22https%3A%2F%2Fmcp-test.glama.ai%2Fmcp%22%7D%5D).
 
-A curated list of awesome Model Context Protocol (MCP) servers.
+A curated list of awesome Model Context Protocol (MCP) servers.h
 
 * [What is MCP?](#what-is-mcp)
 * [Clients](#clients)
@@ -1010,7 +1010,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [CryptoRugMunch/rug-munch-mcp](https://github.com/CryptoRugMunch/rug-munch-mcp) [![rug-munch-intelligence MCP server](https://glama.ai/mcp/servers/@CryptoRugMunch/rug-munch-intelligence/badges/score.svg)](https://glama.ai/mcp/servers/@CryptoRugMunch/rug-munch-intelligence) 🐍 ☁️ - 19 crypto token risk intelligence tools for AI agents. Rug pull detection, honeypot scoring, deployer tracking, holder deep-dive, KOL shill detection, social OSINT, and LLM forensic analysis. Free tier (1 call/day) + API keys + x402 USDC micropayments. Remote SSE transport available.
 - [codex-data/codex-mcp](https://github.com/Codex-Data/codex-mcp) 🎖️ 📇 ☁️ - [Codex API](https://www.codex.io) integration for real-time enriched blockchain and market data on 60+ networks
 - [coinpaprika/dexpaprika-mcp](https://github.com/coinpaprika/dexpaprika-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Coinpaprika's DexPaprika MCP server exposes high-performance [DexPaprika API](https://docs.dexpaprika.com) covering 20+ chains and 5M+ tokens with real time pricing, liquidity pool data & historical OHLCV data, providing AI agents standardized access to comprehensive market data through Model Context Protocol.
-- [dan1d/cobroya](https://github.com/dan1d/mercadopago-tool) [![cobroya MCP server](https://glama.ai/mcp/servers/dan1d/cobroya/badges/score.svg)](https://glama.ai/mcp/servers/dan1d/cobroya) 📇 ☁️ 🍎 🪟 🐧 - Mercado Pago payments for AI agents — create payment links, search payments, and issue refunds. Built for LATAM merchants.
+- [dan1d/cobroya](https://github.com/dan1d/mercadopago-tool) [![cobroya MCP server](https://glama.ai/mcp/servers/dan1d/cobroya/badges/score.svg)](https://glama.ai/mcp/servers/dan1d/cobroya) 📇 ☁️ 🍎 🪟 🐧 - Mercado Pago payments for AI agents — create payment links, search payments, and issue refunds. Built for LATAM merchants.h
 - [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [![de-bridge MCP server](https://glama.ai/mcp/servers/@debridge-finance/de-bridge/badges/score.svg)](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - Cross-chain swaps and bridging across EVM and Solana blockchains via the deBridge protocol. Enables AI agents to discover optimal routes, evaluate fees, and initiate non-custodial trades.
 - [decidefyi/decide](https://github.com/decidefyi/decide) 📇 ☁️ - Deterministic refund eligibility notary MCP server. Returns ALLOWED / DENIED / UNKNOWN for subscription refunds (Adobe, Spotify, etc.) via a stateless rules engine.
 - [debtstack-ai/debtstack-python](https://github.com/debtstack-ai/debtstack-python) 🐍 ☁️ - Corporate debt structure data for AI agents. Search 250+ issuers, 5,000+ bonds with leverage ratios, seniority, covenants, guarantor chains, and FINRA TRACE pricing.
@@ -1021,7 +1021,8 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [Handshake58/DRAIN-marketplace](https://github.com/Handshake58/DRAIN-marketplace) 📇 ☁️ - Open marketplace for AI services — LLMs, image/video generation, web scraping, model hosting, data extraction, and more. Agents pay per use with USDC micropayments on Polygon. No API keys, no subscriptions.
 - [etbars/vibetrader-mcp](https://github.com/etbars/vibetrader-mcp) 🐍 ☁️ - AI-powered trading bot platform. Create automated trading strategies with natural language via Alpaca brokerage.
 - [Fan Token Intel MCP](https://github.com/BrunoPessoa22/chiliz-marketing-intel) 🐍 ☁️ - 67+ tools for fan token intelligence: whale flows, signal scores, sports calendar, backtesting, DEX trading, social sentiment. SSE transport with Bearer auth.
-- [fernsugi/x402-api-server](https://github.com/fernsugi/x402-api-server/tree/main/mcp-server) [![x402-api MCP server](https://glama.ai/mcp/servers/fernsugi/x402-api/badges/score.svg)](https://glama.ai/mcp/servers/fernsugi/x402-api) 📇 ☁️ - Pay-per-call DeFi data API for AI agents via x402 micropayments (USDC on Base). 8 endpoints: price feeds, gas tracker, DEX quotes, whale tracker, yield scanner, funding rates, token scanner, wallet profiler. No API keys needed.
+- [feedoracle/feedoracle-mcp](https://github.com/feedoracle/feedoracle-mcp) 🐍 ☁️ - 53 regulatory compliance evidence tools across 3 MCP servers (Compliance 27, Stablecoin Risk 13, Macro 13). MiCA status, DORA evidence, stablecoin risk scoring (105+ tokens), macro intelligence (86 FRED series). Every response ECDSA-signed, blockchain-anchored, audit-ready. Free tier (100 calls/day), OAuth 2.0, streamable HTTP.
+- - [fernsugi/x402-api-server](https://github.com/fernsugi/x402-api-server/tree/main/mcp-server) [![x402-api MCP server](https://glama.ai/mcp/servers/fernsugi/x402-api/badges/score.svg)](https://glama.ai/mcp/servers/fernsugi/x402-api) 📇 ☁️ - Pay-per-call DeFi data API for AI agents via x402 micropayments (USDC on Base). 8 endpoints: price feeds, gas tracker, DEX quotes, whale tracker, yield scanner, funding rates, token scanner, wallet profiler. No API keys needed.
 - [ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent) 🐍 ☁️ - Yahoo Finance integration to fetch stock market data including options recommendations
 - [sh-patterson/fec-mcp-server](https://github.com/sh-patterson/fec-mcp-server) [![fec-mcp-server MCP server](https://glama.ai/mcp/servers/@sh-patterson/fec-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@sh-patterson/fec-mcp-server) 📇 ☁️ - Query FEC campaign finance data — search candidates, track donations, analyze spending, and monitor Super PAC activity via the OpenFEC API.
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API integration to handle trading activities on Tastytrade
