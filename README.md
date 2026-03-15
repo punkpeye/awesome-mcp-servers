@@ -378,6 +378,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 - [ouvreboite/openapi-to-mcp](https://github.com/ouvreboite/openapi-to-mcp) #️⃣ ☁️ - Lightweight MCP server to access any API using their OpenAPI specification. Supports OAuth2 and full JSON schema parameters and request body.
 - [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍 🏠 - Run Python code in a secure sandbox via MCP tool calls
 - [r33drichards/mcp-js](https://github.com/r33drichards/mcp-js) 🦀 🏠 🐧 🍎 - A Javascript code execution sandbox that uses v8 to isolate code to run AI generated javascript locally without fear. Supports heap snapshotting for persistent sessions.
+- [Sowiedu/Edict](https://github.com/Sowiedu/Edict) ([glama](https://glama.ai/mcp/servers/sowiedu/edict)) 📇 🏠 – Agent-first programming language: agents produce JSON AST, the compiler validates, type-checks, effect-checks, verifies contracts via Z3/SMT, and compiles to WASM. 19 MCP tools for the full compile-and-execute loop.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
 
 ### 🤖 <a name="coding-agents"></a>Coding Agents
