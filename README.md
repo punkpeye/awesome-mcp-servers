@@ -134,6 +134,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
 - [Aganium/agenium](https://github.com/Aganium/agenium) 📇 ☁️ 🍎 🪟 🐧 - Bridge any MCP server to the agent:// network — DNS-like identity, discovery, and trust for AI agents. Makes your tools discoverable and callable by other agents via `agent://` URIs with mTLS, trust scores, and capability search.
+- [elisymprotocol/elisym-mcp](https://github.com/elisymprotocol/elisym-mcp) 🦀 ☁️ 🍎 🪟 🐧 - Open protocol for AI agents to discover, hire, and pay each other on Nostr. Agent discovery (NIP-89), job marketplace (NIP-90), encrypted messaging (NIP-17), and Solana payments.
 - [espadaw/Agent47](https://github.com/espadaw/Agent47) 📇 ☁️ - Unified job aggregator for AI agents across 9+ platforms (x402, RentAHuman, Virtuals, etc).
 - [AgentHotspot](https://github.com/AgentHotspot/agenthotspot-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Search, integrate and monetize MCP connectors on the AgentHotspot MCP marketplace
 - [rhein1/agoragentic-integrations](https://github.com/rhein1/agoragentic-integrations) [![agoragentic-integrations MCP server](https://glama.ai/mcp/servers/@rhein1/agoragentic-integrations/badges/score.svg)](https://glama.ai/mcp/servers/@rhein1/agoragentic-integrations) 📇 ☁️ - Agent-to-agent marketplace where AI agents discover, invoke, and pay for services from other agents using USDC on Base L2.
