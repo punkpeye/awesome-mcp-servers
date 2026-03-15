@@ -1652,6 +1652,7 @@ Access to travel and transportation information. Enables querying schedules, rou
 - [srinath1510/alltrails-mcp-server](https://github.com/srinath1510/alltrails-mcp-server) 🐍 ☁️ - A MCP server that provides access to AllTrails data, allowing you to search for hiking trails and get detailed trail information
 - [vessel-api/vesselapi-mcp](https://github.com/vessel-api/vesselapi-mcp) [glama](https://glama.ai/mcp/servers/@vessel-api/vessel-api-mcp-server) 📇 ☁️ - Maritime vessel tracking via VesselAPI. Search vessels, get real-time positions, ETAs, port events, emissions, inspections, and NAVTEX safety messages.
 
+- [whiteknightonhorse/APIbase](https://github.com/whiteknightonhorse/APIbase) [glama](https://glama.ai/mcp/servers/whiteknightonhorse/APIbase) 📇 ☁️ - Real-time flight search and pricing via Amadeus and Sabre GDS — 11 aviation tools for AI agents via MCP. Airport search, route discovery, flight status, price confirmation.
 ### 🔄 <a name="version-control"></a>Version Control
 
 Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
@@ -1891,4 +1892,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-
