@@ -117,6 +117,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
 * 🔒 - [Security](#security)
+* 🔒 - [Security](#security)
 * 🌐 - [Social Media](#social-media)
 * 🏃 - [Sports](#sports)
 * 🎧 - [Support & Service Management](#support-and-service-management)
@@ -1784,6 +1785,10 @@ Interact with Git repositories and version control platforms. Enables repository
 - [vasylenko/claude-desktop-extension-bear-notes](https://github.com/vasylenko/claude-desktop-extension-bear-notes) 📇 🏠 🍎 - Search, read, create, and update Bear Notes directly from Claude. Local-only with complete privacy.
 - [wyattjoh/calendar-mcp](https://github.com/wyattjoh/calendar-mcp) 📇 🏠 🍎 - MCP server for accessing macOS Calendar events
 - [yuvalsuede/claudia](https://github.com/yuvalsuede/claudia) 📇 🏠 🍎 🪟 🐧 - AI-native task management system for Claude agents. Hierarchical tasks, dependencies, sprints, acceptance criteria, multi-agent coordination, and MCP server integration.
+
+### 🔒 <a name="security"></a>Security
+
+- [CellarDoorExits/cellar-door-mcp-server](https://github.com/CellarDoorExits/cellar-door-mcp-server) 📇 🏠 - MCP server for AI agent departure and admission records. Create cryptographic EXIT markers, verify arrivals, and manage portable agent lifecycle history with Ed25519/P-256 signatures. Part of the [Passage Protocol](https://cellar-door.dev).
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
