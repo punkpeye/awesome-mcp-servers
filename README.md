@@ -271,6 +271,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) 📇 🏠 - An MCP server paired with a browser extension that enables LLM clients to control the user's browser (Firefox).
 - [fradser/mcp-server-apple-reminders](https://github.com/FradSer/mcp-server-apple-reminders) 📇 🏠 🍎 - An MCP server for interacting with Apple Reminders on macOS
 - [freema/firefox-devtools-mcp](https://github.com/freema/firefox-devtools-mcp) 📇 🏠 - Firefox browser automation via WebDriver BiDi for testing, scraping, and browser control. Supports snapshot/UID-based interactions, network monitoring, console capture, and screenshots.
+- [sh6drack/zen-mcp](https://github.com/sh6drack/zen-mcp) 📇 🏠 - Zen Browser automation via WebDriver BiDi. 20 tools for navigation, form filling, screenshots, and JavaScript evaluation. No Selenium or Playwright required.
 - [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 📇 🏠 - Extract structured data from any website. Just prompt and get JSON.
 - [hanzili/comet-mcp](https://github.com/hanzili/comet-mcp) 📇 🏠 🍎 - Connect to Perplexity Comet browser for agentic web browsing, deep research, and real-time task monitoring.
 - [LarryWalkerDEV/mcp-immostage](https://github.com/LarryWalkerDEV/mcp-immostage) 📇 ☁️ - AI virtual staging for real estate. Stage empty rooms, beautify floor plans into 3D renders, classify room images, generate property descriptions, and get style recommendations.
