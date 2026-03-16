@@ -550,6 +550,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [edwinbernadus/nocodb-mcp-server](https://github.com/edwinbernadus/nocodb-mcp-server) 📇 ☁️ - Nocodb database integration, read and write capabilities
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - Server implementation for Google BigQuery integration that enables direct BigQuery database access and querying capabilities
 - [f4ww4z/mcp-mysql-server](https://github.com/f4ww4z/mcp-mysql-server) 📇 🏠 - Node.js-based MySQL database integration that provides secure MySQL database operations
+- [ExpertVagabond/chromadb-mcp](https://github.com/ExpertVagabond/chromadb-mcp) [![ExpertVagabond/chromadb-mcp MCP server](https://glama.ai/mcp/servers/ExpertVagabond/chromadb-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ExpertVagabond/chromadb-mcp) 📇 ☁️ - ChromaDB vector database — collection management, document CRUD, semantic search, and embedding operations.
 - [ferrants/memvid-mcp-server](https://github.com/ferrants/memvid-mcp-server) 🐍 🏠 - Python Streamable HTTP Server you can run locally to interact with [memvid](https://github.com/Olow304/memvid) storage and semantic search.
 - [fireproof-storage/mcp-database-server](https://github.com/fireproof-storage/mcp-database-server) 📇 ☁️ - Fireproof ledger database with multi-user sync
 - [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) 📇 ☁️ - MCP server for Google Sheets API integration with comprehensive reading, writing, formatting, and sheet management capabilities.
