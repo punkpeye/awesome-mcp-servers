@@ -1433,6 +1433,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 
 Tools for product planning, customer feedback analysis, and prioritization.
 
+- [INGIPSA/kitsu-mcp-server](https://github.com/INGIPSA/kitsu-mcp-server) 🐍 🏠 🍎 🪟 🐧 - Manage animation, VFX, and game production in Kitsu. Create and track projects, assets, shots, sequences, tasks, comments, and casting via the Gazu Python client. 30 tools covering the full production pipeline.
 - [dkships/pm-copilot](https://github.com/dkships/pm-copilot) 📇 ☁️ - Triangulates HelpScout support tickets and ProductLift feature requests to generate prioritized product plans. Scores themes by convergence (same signal in both sources = 2x boost), scrubs PII, and accepts business metrics from other MCP servers via `kpi_context` for composable prioritization.
 - [spranab/saga-mcp](https://github.com/spranab/saga-mcp) [![saga-mcp MCP server](https://glama.ai/mcp/servers/@spranab/saga-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@spranab/saga-mcp) 📇 🏠 🍎 🪟 🐧 - A Jira-like project tracker for AI agents with full hierarchy (Projects > Epics > Tasks > Subtasks), task dependencies with auto-block/unblock, threaded comments, reusable templates, activity logging, and a natural language dashboard. SQLite-backed, 31 tools.
 
