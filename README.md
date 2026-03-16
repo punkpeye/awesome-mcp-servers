@@ -438,6 +438,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 Run commands, capture output and otherwise interact with shells and command line tools.
 
 - [danmartuszewski/hop](https://github.com/danmartuszewski/hop) 🏎️ 🖥️ - Fast SSH connection manager with TUI dashboard and MCP server for discovering, searching, and executing commands on remote hosts.
+- [ExpertVagabond/macos-mcp](https://github.com/ExpertVagabond/macos-mcp) [![ExpertVagabond/macos-mcp MCP server](https://glama.ai/mcp/servers/ExpertVagabond/macos-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ExpertVagabond/macos-mcp) 📇 🏠 🍎 - macOS automation via AppleScript — 20 tools for Contacts, Notes, Reminders, Safari, Music, FaceTime, Finder/AirDrop, brightness, and WiFi.
 - [ferodrigop/forge](https://github.com/ferodrigop/forge) [![forge MCP server](https://glama.ai/mcp/servers/ferodrigop/forge/badges/score.svg)](https://glama.ai/mcp/servers/ferodrigop/forge) 📇 🏠 - Terminal MCP server for AI coding agents with persistent PTY sessions, ring-buffer incremental reads, headless xterm screen capture, multi-agent orchestration, and a real-time web dashboard.
 
 ### 💬 <a name="communication"></a>Communication
