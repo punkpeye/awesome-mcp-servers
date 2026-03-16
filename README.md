@@ -1800,8 +1800,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [universalamateur/reclaim-mcp-server](https://github.com/universalamateur/reclaim-mcp-server) 🐍 ☁️ - Reclaim.ai calendar integration with 40 tools for tasks, habits, focus time, scheduling links, and productivity analytics.
 - [UnMarkdown/mcp-server](https://github.com/UnMarkdown/mcp-server) [![mcp-server MCP server](https://glama.ai/mcp/servers/@UnMarkdown/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@UnMarkdown/mcp-server) 📇 ☁️ - The document publishing layer for AI tools. Convert markdown to formatted documents for Google Docs, Word, Slack, OneNote, Email, and Plain Text with 62 templates.
 - [vakharwalad23/google-mcp](https://github.com/vakharwalad23/google-mcp) 📇 ☁️ - Collection of Google-native tools (Gmail, Calendar, Drive, Tasks) for MCP with OAuth management, automated token refresh, and auto re-authentication capabilities.
-- [vasylenko/claude-desktop-extension-bear-notes](https://github.com/vasylenko/claude-desktop-extension-bear-notes) 📇 🏠 🍎 - Search, read, create, and update Bear Notes directly from Claude. Local-only with complete privacy.
-- [wyattjoh/calendar-mcp](https://github.com/wyattjoh/calendar-mcp) 📇 🏠 🍎 - MCP server for accessing macOS Calendar events
+- [drknowhow/C3](https://github.com/drknowhow/C3) 🐍 🏠 🪟 🐧 🍎 - A local context layer for AI agents. Provides surgical code retrieval, token-efficient structural mapping, and automated context budget management.
 - [yuvalsuede/claudia](https://github.com/yuvalsuede/claudia) 📇 🏠 🍎 🪟 🐧 - AI-native task management system for Claude agents. Hierarchical tasks, dependencies, sprints, acceptance criteria, multi-agent coordination, and MCP server integration.
 -  [drknowhow/C3](https://github.com/drknowhow/C3) 🐍 🏠 🪟 🐧 🍎 - A local context layer for AI agents. Provides surgical code retrieval,
   token-efficient structural mapping, and automated context budget management.
