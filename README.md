@@ -1107,6 +1107,8 @@ Servers providing web search capabilities or interfacing with specialized search
 - [uju777/coupang-mcp](https://github.com/uju777/coupang-mcp): MCP server for Coupang (Korea's largest e-commerce) product search with Rocket Delivery filtering and affiliate link generation.
 - [uju777/mcp-server-naver-search](https://github.com/uju777/mcp-server-naver-search): MCP server for Naver Search (Shopping, Cafe, News). Essential for Korean users.
 
+- [entire-vc/evc-spark-mcp](https://github.com/entire-vc/evc-spark-mcp): MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog - search 200+ tools, get install configs, browse curated bundles.
+
 ## 🔒 Security
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
