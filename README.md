@@ -1804,6 +1804,7 @@ Interact with Git repositories and version control platforms. Enables repository
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
 - [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - A web-based PlantUML frontend with MCP server integration, enable plantuml image generation and plantuml syntax validation.
+- [ExpertVagabond/shopify-mcp](https://github.com/ExpertVagabond/shopify-mcp) [![ExpertVagabond/shopify-mcp MCP server](https://glama.ai/mcp/servers/ExpertVagabond/shopify-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ExpertVagabond/shopify-mcp) 📇 ☁️ - Shopify store management — products, orders, inventory, customers, collections, webhooks, discounts, fulfillments, and metafields.
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - A QR code generation MCP server that converts any text (including Chinese characters) to QR codes with customizable colors and base64 encoding output.
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ A Model Context Protocol (MCP) server that enables AI models to interact with Bitcoin, allowing them to generate keys, validate addresses, decode transactions, query the blockchain, and more.
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - Allows the AI to read from your Bear Notes (macOS only)
