@@ -472,6 +472,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [isdaniel/mcp_weather_server](https://github.com/isdaniel/mcp_weather_server) 🐍 ☁️ - 从 https://api.open-meteo.com API 获取天气信息。
 - [QGIS MCP](https://github.com/jjsantos01/qgis_mcp) - 通过MCP将QGIS桌面端与Claude AI连接。该集成支持提示辅助的项目创建、图层加载、代码执行等功能。
 -  [kukapay/nearby-search-mcp](https://github.com/kukapay/nearby-search-mcp) 🐍 ☁️ - 一个基于IP定位检测的附近地点搜索MCP服务器。
+- [gaopengbin/cesium-mcp](https://github.com/gaopengbin/cesium-mcp) [![gaopengbin/cesium-mcp MCP server](https://glama.ai/mcp/servers/gaopengbin/cesium-mcp/badges/score.svg)](https://glama.ai/mcp/servers/gaopengbin/cesium-mcp) 📇 🏠 🍎 🪟 🐧 - 通过 MCP 用 AI 操控三维地球。将任何 MCP 兼容的 AI 智能体接入 CesiumJS — 相机飞行、GeoJSON/3D Tiles 图层、标记点、空间分析、热力图等 19 个自然语言工具。
 
 ### 🎯 <a name="marketing"></a>营销
 
