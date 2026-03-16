@@ -844,7 +844,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 
 Access student portals, learning management systems, and academic tools.
 
-- [Beat-YT/omnivox-mcp](https://github.com/Beat-YT/omnivox-mcp) 📇 🏠 - Access Quebec college (CEGEP) student data through Omnivox — courses, grades, schedule, MIO messaging, documents, assignments, and more. Headless browser automation with delta tracking.
+- [Beat-YT/omnivox-mcp](https://github.com/Beat-YT/omnivox-mcp) [glama](https://glama.ai/mcp/servers/Beat-YT/omnivox-mcp) 📇 🏠 - Access Quebec college (CEGEP) student data through Omnivox — courses, grades, schedule, MIO messaging, documents, assignments, and more. Headless browser automation with delta tracking.
 
 ### 📟 <a name="embedded-system"></a>Embedded System
 
