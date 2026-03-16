@@ -181,6 +181,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [whiteknightonhorse/APIbase](https://github.com/whiteknightonhorse/APIbase) [![APIbase MCP server](https://glama.ai/mcp/servers/whiteknightonhorse/APIbase/badges/score.svg)](https://glama.ai/mcp/servers/whiteknightonhorse/APIbase) 📇 ☁️ - Unified API hub for AI agents with 56+ tools across travel (Amadeus, Sabre), prediction markets (Polymarket), crypto, and weather. Pay-per-call via x402 micropayments in USDC.
 - [rplryan/x402-discovery-mcp](https://github.com/rplryan/x402-discovery-mcp) [![x402-discovery-mcp MCP server](https://glama.ai/mcp/servers/@rplryan/x402-discovery-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@rplryan/x402-discovery-mcp) 🐍 ☁️ - Runtime discovery layer for x402-payable APIs. Agents discover and route to pay-per-call x402 endpoints by capability, get quality-ranked results with trust scores (0-100), and pay per query via x402. Includes MCP server, Python SDK, and CLI (npm install -g x402scout).
 - [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive personal data aggregation MCP server with Steam, YouTube, Bilibili, Spotify, Reddit and other platforms integrations. Features OAuth2 authentication, automatic token management, and 90+ tools for gaming, music, video, and social platform data access.
+- [solidsynapse/MCP-Synapse](https://github.com/solidsynapse/MCP-Synapse) 📇 🐍 🪟 - Provider-agnostic MCP control plane. BYOK, local-first, multi-provider (OpenAI, Vertex AI, Azure, Ollama, HuggingFace).
 
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
@@ -1942,7 +1943,6 @@ Interact with Git repositories and version control platforms. Enables repository
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 - [vinkius-labs/mcp-fusion](https://github.com/vinkius-labs/mcp-fusion) 📇 [![Glama](https://glama.ai/mcp/servers/badge/@vinkius-labs/mcp-fusion)](https://glama.ai/mcp/servers/@vinkius-labs/mcp-fusion) - A TypeScript framework for building production-ready MCP servers with automatic tool discovery, multi-transport support (stdio/SSE/HTTP), built-in validation, and zero-config setup.
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 - AI Agents framework with 64+ built-in tools for search, memory, workflows, code execution, and file operations. Turn any AI assistant into a multi-agent system with MCP.
-- [solidsynapse/MCP-Synapse](https://github.com/solidsynapse/MCP-Synapse) 📇 🐍 🪟 - Provider-agnostic MCP control plane. BYOK, local-first, multi-provider (OpenAI, Vertex AI, Azure, Ollama, HuggingFace).
 
 ## Tips and Tricks
 
