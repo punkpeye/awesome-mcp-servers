@@ -1,4 +1,4 @@
-# Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+#Finance Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -92,8 +92,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 👨‍💻 - [Code Execution](#code-execution)
 * 🤖 - [Coding Agents](#coding-agents)
 * 🖥️ - [Command Line](#command-line)
-* 💬 - [Communication](#communication)
-* 👤 - [Customer Data Platforms](#customer-data-platforms)
+* 💬 - [Communication](#communication)* 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
 * 📊 - [Data Platforms](#data-platforms)
 * 🚚 - [Delivery](#delivery)
@@ -129,7 +128,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 
-### 🔗 <a name="aggregators"></a>Aggregators
+### Finance### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
 
@@ -1015,7 +1014,9 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [araa47/jupiter-mcp](https://github.com/araa47/jupiter-mcp) 🐍 ☁️ - Jupiter API Access (allow AI to Trade Tokens on Solana + Access Balances + Search Tokens + Create Limit Orders )
 - [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) 🐍 🏠 🪟 - Enable AI LLMs to execute trades using MetaTrader 5 platform
 - [armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp) 🐍 ☁️ - MCP to interface with multiple blockchains, staking, DeFi, swap, bridging, wallet management, DCA, Limit Orders, Coin Lookup, Tracking and more.
-- [azeth-protocol/mcp-server](https://github.com/azeth-protocol/mcp-server) [![mcp-azeth MCP server](https://glama.ai/mcp/servers/@azeth-protocol/mcp-azeth/badges/score.svg)](https://glama.ai/mcp/servers/@azeth-protocol/mcp-azeth) 📇 ☁️ - Trust infrastructure for the machine economy — non-custodial ERC-4337 smart accounts, x402 payments, on-chain reputation via ERC-8004, and service discovery for AI agents.
+-
+  - [ASG Card](https://github.com/ASGCompute/asgcard-public) - Virtual MasterCards for AI agents. Create, fund, and manage payment cards autonomously using USDC on Stellar via x402 protocol.
+  -  [azeth-protocol/mcp-server](https://github.com/azeth-protocol/mcp-server) [![mcp-azeth MCP server](https://glama.ai/mcp/servers/@azeth-protocol/mcp-azeth/badges/score.svg)](https://glama.ai/mcp/servers/@azeth-protocol/mcp-azeth) 📇 ☁️ - Trust infrastructure for the machine economy — non-custodial ERC-4337 smart accounts, x402 payments, on-chain reputation via ERC-8004, and service discovery for AI agents.
 - [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) 📇 ☁️ - Bankless Onchain API to interact with smart contracts, query transaction and token information
 - [bolivian-peru/baozi-mcp](https://github.com/bolivian-peru/baozi-mcp) 📇 ☁️ - 68 tools for AI agents to interact with Solana prediction markets on [Baozi.bet](https://baozi.bet) — browse markets, place bets, claim winnings, create markets, and earn affiliate commissions.
 - [base/base-mcp](https://github.com/base/base-mcp) 🎖️ 📇 ☁️ - Base Network integration for onchain tools, allowing interaction with Base Network and Coinbase API for wallet management, fund transfers, smart contracts, and DeFi operations
