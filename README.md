@@ -1917,6 +1917,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) - 🐍 Automatic operation of on-screen GUI.
 - [offorte/offorte-mcp-server](https://github.com/offorte/offorte-mcp-server) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - The Offorte Proposal Software MCP server enables creation and sending of business proposals.
 - [olalonde/mcp-human](https://github.com/olalonde/mcp-human) 📇 ☁️ - When your LLM needs human assistance (through AWS Mechanical Turk)
+- [olgasafonova/miro-mcp-server](https://github.com/olgasafonova/miro-mcp-server) 🏎️ ☁️ - Control Miro whiteboards. 88 tools for boards, diagrams, mindmaps, connectors, tags, frames, and export. OAuth2 + token auth.
 - [olgasafonova/productplan-mcp-server](https://github.com/olgasafonova/productplan-mcp-server) 🏎️ ☁️ - Query ProductPlan roadmaps. Access OKRs, ideas, launches, and timeline data.
 - [orellazi/coda-mcp](https://github.com/orellazri/coda-mcp) 📇 ☁️ - MCP server for [Coda](https://coda.io/)
 - [osinmv/funciton-lookup-mcp](https://github.com/osinmv/function-lookup-mcp) 🐍 🏠 🍎 🐧 - MCP server for function signature lookups.
