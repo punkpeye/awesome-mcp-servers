@@ -947,6 +947,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
 
+- [kimimgo/viznoir](https://github.com/kimimgo/viznoir) 🐍 🏠 🍎 🪟 🐧 - Cinema-quality scientific visualization. 22 tools for headless VTK rendering, slicing, contouring, volume rendering, streamlines, and animating CFD/FEA/SPH simulation data. Supports 50+ formats via VTK + meshio. Cinematic rendering with 3-point lighting, SSAO, FXAA, and PBR materials.
 - [KyuRish/mcp-dashboards](https://github.com/KyuRish/mcp-dashboards) [![mcp-dashboards MCP server](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards/badges/score.svg)](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards) 📇 🏠 🍎 🪟 🐧 - 45+ interactive chart types (bar, line, pie, candlestick, sankey, geo, radar, funnel, treemap, and more), dashboards with KPI cards, drill-down navigation, live API polling, 20 themes, and export to PNG/PPT/A4. Built on MCP Apps.
 
 ### 📟 <a name="embedded-system"></a>Embedded System
@@ -1466,6 +1467,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [pminervini/deep-research-mcp](https://github.com/pminervini/deep-research-mcp) 🐍 ☁️ 🏠 - Deep research MCP server for OpenAI Responses API or Open Deep Research (smolagents), with web search and code interpreter support.
 - [sh-patterson/legiscan-mcp](https://github.com/sh-patterson/legiscan-mcp) [![ggstefivzf MCP server](https://glama.ai/mcp/servers/ggstefivzf/badges/score.svg)](https://glama.ai/mcp/servers/ggstefivzf) 📇 ☁️ - Access legislative data from all 50 US states and Congress — search bills, get full text, track votes, and look up legislators via the LegiScan API.
 - [thinkchainai/agentinterviews_mcp](https://github.com/thinkchainai/agentinterviews_mcp) - Conduct AI-powered qualitative research interviews and surveys at scale with [Agent Interviews](https://agentinterviews.com). Create interviewers, manage research projects, recruit participants, and analyze interview data through MCP.
+- [kimimgo/viznoir](https://github.com/kimimgo/viznoir) 🐍 🏠 🍎 🪟 🐧 - Cinema-quality scientific visualization for simulation research. Headless VTK rendering with 22 tools covering CFD, FEA, SPH, medical imaging, and molecular visualization. Autonomous post-processing with domain detection and adaptive resolution.
 - [yusong652/pfc-mcp](https://github.com/yusong652/pfc-mcp) [![pfc-mcp MCP server](https://glama.ai/mcp/servers/yusong652/pfc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yusong652/pfc-mcp) 🐍 🏠 🪟 - MCP server for [ITASCA PFC](https://www.itascacg.com/software/pfc) discrete element simulation — browse documentation, execute scripts, capture plots, and manage long-running tasks via a WebSocket bridge to the PFC GUI.
 
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
