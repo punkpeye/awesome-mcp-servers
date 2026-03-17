@@ -1445,6 +1445,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 
 Tools for product planning, customer feedback analysis, and prioritization.
 
+- [daiji-sshr/redmine-mcp-stateless](https://github.com/daiji-sshr/redmine-mcp-stateless) 🐍 🏠 🐧 - Stateless Redmine MCP server. Credentials are passed per-request via HTTP headers and never stored on the server. Supports listing/creating/updating issues, full-text search across subjects, descriptions and comments, and editing journals (Redmine 5.0+). Deployable on RHEL (systemd) or Docker.
 - [dkships/pm-copilot](https://github.com/dkships/pm-copilot) 📇 ☁️ - Triangulates HelpScout support tickets and ProductLift feature requests to generate prioritized product plans. Scores themes by convergence (same signal in both sources = 2x boost), scrubs PII, and accepts business metrics from other MCP servers via `kpi_context` for composable prioritization.
 - [spranab/saga-mcp](https://github.com/spranab/saga-mcp) [![saga-mcp MCP server](https://glama.ai/mcp/servers/@spranab/saga-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@spranab/saga-mcp) 📇 🏠 🍎 🪟 🐧 - A Jira-like project tracker for AI agents with full hierarchy (Projects > Epics > Tasks > Subtasks), task dependencies with auto-block/unblock, threaded comments, reusable templates, activity logging, and a natural language dashboard. SQLite-backed, 31 tools.
 
