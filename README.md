@@ -1019,6 +1019,9 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) 📇 ☁️ - Bankless Onchain API to interact with smart contracts, query transaction and token information
 - [bolivian-peru/baozi-mcp](https://github.com/bolivian-peru/baozi-mcp) 📇 ☁️ - 68 tools for AI agents to interact with Solana prediction markets on [Baozi.bet](https://baozi.bet) — browse markets, place bets, claim winnings, create markets, and earn affiliate commissions.
 - [base/base-mcp](https://github.com/base/base-mcp) 🎖️ 📇 ☁️ - Base Network integration for onchain tools, allowing interaction with Base Network and Coinbase API for wallet management, fund transfers, smart contracts, and DeFi operations
+- [ToolOracle/memeoracle](https://github.com/ToolOracle/memeoracle) 🐍 ☁️ - Memecoin intelligence: rug-check risk scoring, momentum analysis, whale watch, viral detection across 80+ chains. x402 USDC on Base.
+- [ToolOracle/smartmoneyoracle](https://github.com/ToolOracle/smartmoneyoracle) 🐍 ☁️ - Whale & institutional flow intelligence: protocol TVL flows, alpha signals, stablecoin supply tracking via DeFiLlama. x402 USDC on Base.
+- [ToolOracle/yieldoracle](https://github.com/ToolOracle/yieldoracle) 🐍 ☁️ - DeFi yield intelligence: 19K+ pools, risk-adjusted APY, stablecoin & RWA yields across 100+ chains. x402 USDC on Base.
 - [up2itnow0822/clawpay-mcp](https://github.com/up2itnow0822/clawpay-mcp) [![clawpay-mcp MCP server](https://glama.ai/mcp/servers/@up2itnow0822/clawpay-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@up2itnow0822/clawpay-mcp) 📇 ☁️ - Non-custodial x402 payment layer for AI agents. Agents sign transactions from their own wallet with on-chain spend limits — no custodial infrastructure, no API keys. Built on Base.
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API integration to fetch both stock and crypto information
 - [bitteprotocol/mcp](https://github.com/BitteProtocol/mcp) 📇 - Bitte Protocol integration to run AI Agents on several blockchains.
@@ -1384,6 +1387,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [stape-io/stape-mcp-server](https://github.com/stape-io/stape-mcp-server) 📇 ☁️ – This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.
 - [tomba-io/tomba-mcp-server](https://github.com/tomba-io/tomba-mcp-server) 📇 ☁️ - Email discovery, verification, and enrichment tools. Find email addresses, verify deliverability, enrich contact data, discover authors and LinkedIn profiles, validate phone numbers, and analyze technology stacks.
 
+- [ToolOracle/rankoracle](https://github.com/ToolOracle/rankoracle) 🐍 ☁️ - SEO intelligence: keyword research, SERP analysis, domain audits, competitor gaps. 13 tools, unit pricing. x402 USDC on Base.
 ### 📊 <a name="monitoring"></a>Monitoring
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
@@ -1580,6 +1584,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [tianqitang1/enrichr-mcp-server](https://github.com/tianqitang1/enrichr-mcp-server) 📇 ☁️ - A MCP server that provides gene set enrichment analysis using the Enrichr API
 - [tinyfish-io/agentql-mcp](https://github.com/tinyfish-io/agentql-mcp) 🎖️ 📇 ☁️ - MCP server that provides [AgentQL](https://agentql.com)'s data extraction capabilities.
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) ☁️ 🐍 – Tavily AI search API
+- [ToolOracle/shoporacle](https://github.com/ToolOracle/shoporacle) 🐍 ☁️ - E-Commerce intelligence: product search, price comparison, competitor pricing across Amazon, eBay, Google Shopping. 18 countries.
 - [urlbox/urlbox-mcp-server](https://github.com/urlbox/urlbox-mcp-server/) - 📇 🏠 A reliable MCP server for generating and managing screenshots, PDFs, and videos, performing AI-powered screenshot analysis, and extracting web content (Markdown, metadata, and HTML) via the [Urlbox](https://urlbox.com) API.
 - [vectorize-io/vectorize-mcp-server](https://github.com/vectorize-io/vectorize-mcp-server/) ☁️ 📇 - [Vectorize](https://vectorize.io) MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking.
 - [vitorpavinato/ncbi-mcp-server](https://github.com/vitorpavinato/ncbi-mcp-server) 🐍 ☁️ 🏠 - Comprehensive NCBI/PubMed literature search server with advanced analytics, caching, MeSH integration, related articles discovery, and batch processing for all life sciences and biomedical research.
