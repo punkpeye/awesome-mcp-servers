@@ -1363,6 +1363,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
+- [Agentled/mcp-server](https://github.com/Agentled/mcp-server) 📇 ☁️ - AI workflow automation with 30+ integrations (LinkedIn, CRMs, email, web scraping, AI models). Build and run multi-step lead enrichment, content publishing, and research workflows with 32 MCP tools for workflow CRUD, execution management, app testing, and knowledge graph queries.
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - A Model Context Protocol server for TikTok Ads API integration, enabling AI assistants to manage campaigns, analyze performance metrics, handle audiences and creatives with OAuth authentication flow.
 - [alexey-pelykh/lhremote](https://github.com/alexey-pelykh/lhremote) 📇 🏠 - Open-source CLI and MCP server for LinkedHelper automation — 32 tools for campaign management, messaging, and profile queries via Chrome DevTools Protocol.
 - [BlockRunAI/x-grow](https://github.com/BlockRunAI/x-grow) 📇 ☁️ - X/Twitter algorithm optimizer with post drafting, review scoring, and AI image generation for maximum engagement.
