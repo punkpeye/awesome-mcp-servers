@@ -59,6 +59,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [kzk-maeda/mcp-guardrail](https://github.com/kzk-maeda/mcp-guardrail): A secure MCP server that executes only pre-authorized commands, ideal for high-security environments.
 - [colygon/zkpmcp](https://github.com/colygon/zkpmcp): Facilitates zero-knowledge proof operations using Circom, enabling secure verification without revealing sensitive data.
 - [shinzo-labs/heimdall](https://github.com/shinzo-labs/heimdall): Heimdall acts as a guardian proxy to manage and authorize MCP server tools for multiple clients on a single device.
+- [Rul1an/assay](https://github.com/Rul1an/assay): The firewall for MCP tool calls — policy enforcement proxy with allow/deny/constraints, replayable evidence bundles, and OWASP MCP Top 10 coverage. Run via `assay mcp wrap --policy X -- npx server`.
 - [atamaplus-public/mcp-guardrail](https://github.com/atamaplus-public/mcp-guardrail): MCP Guardrail Server provides a secure environment for executing pre-authorized commands, ideal for high-security applications.
 - [cmsparks/mcp-bearer-auth-test](https://github.com/cmsparks/mcp-bearer-auth-test): Deploy and manage a remote MCP server on Cloudflare Workers with OAuth login and integration with Claude Desktop.
 - [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp): A comprehensive security testing toolbox integrating popular open source tools via a unified MCP interface for tasks like pentesting and threat hunting.

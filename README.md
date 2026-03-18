@@ -1119,6 +1119,8 @@ Servers providing web search capabilities or interfacing with specialized search
 ## 🔒 Security
 
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
+
+- [Rul1an/assay](https://github.com/Rul1an/assay): The firewall for MCP tool calls. Deterministic policy enforcement proxy with replayable evidence bundles, OWASP MCP Top 10 coverage (7/10), and compliance packs. MIT licensed.
 - [ark-forge/mcp-eu-ai-act](https://github.com/ark-forge/mcp-eu-ai-act): Scans codebases for AI framework usage (16 frameworks) and checks compliance against EU AI Act requirements. Features 4-tier risk categorization, GDPR compliance checking, report generation, and compliance document templates.
 
 - [ark-forge/arkforge-mcp](https://github.com/ark-forge/arkforge-mcp): Certifying proxy for AI agent API calls. Every tool call becomes a signed, timestamped Agent Action Receipt (AAR). Model-agnostic and vendor-independent — works across any LLM provider or infrastructure.
