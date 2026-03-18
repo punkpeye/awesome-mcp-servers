@@ -156,3 +156,4 @@ Servers providing web search capabilities or interfacing with specialized search
 - [fatwang2/search1api-mcp](https://github.com/fatwang2/search1api-mcp): Facilitates search and crawl operations using Search1API, offering seamless integration with various MCP clients.
 
 - [pranciskus/newsmcp](https://github.com/pranciskus/newsmcp): Real-time world news for AI agents — events clustered from hundreds of sources, classified by 12 topics and 30+ geographic regions, ranked by importance. Free, no API key required.
+- [Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack): Open-source supply chain for AI agents — search and discover 3,000+ indie creations across 25 categories. 15 MCP tools including find_tools, build_stack, scan_project, compare_tools, and analyze_dependencies. Install via `uvx --from indiestack indiestack-mcp`.
