@@ -451,6 +451,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 用于 Mem0 的模型上下文协议服务器，帮助管理编码偏好和模式，提供工具用于存储、检索和语义处理代码实现、最佳实践和技术文档，适用于 Cursor 和 Windsurf 等 IDE
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - 从您的 [Ragie](https://www.ragie.ai) (RAG) 知识库中检索上下文，该知识库连接到 Google Drive、Notion、JIRA 等多种集成。
 - [redleaves/context-keeper](https://github.com/redleaves/context-keeper) 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - LLM驱动的智能上下文与记忆管理系统，采用宽召回+精排序RAG架构。支持多维度检索（向量/时间线/知识图谱）、短期/长期记忆智能转换，完整实现MCP协议（HTTP/WebSocket/SSE）。
+- [s60yucca/mnemos](https://github.com/s60yucca/mnemos) 🏎️ 🏠 🍎 🪟 🐧 - 面向 AI 编程智能体的持久化记忆引擎。单个 Go 二进制文件，零运行时依赖，原生支持 MCP。使用内嵌 SQLite 跨会话存储、搜索和去重记忆，支持混合 FTS + 语义搜索、记忆衰减、关系图谱和 Token 预算上下文组装。
 - [@upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - 最新的LLM和AI代码编辑器的代码文档。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - 一个MCP服务器，使用MongoDB存储和检索来自多个LLM的记忆。提供保存、检索、添加和清除带有时间戳和LLM识别的对话记忆的工具。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 一个MCP服务器，实现跨LLM通信和记忆共享，使不同的AI模型能够在对话间协作和共享上下文。

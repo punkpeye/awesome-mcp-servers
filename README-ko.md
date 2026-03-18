@@ -412,6 +412,7 @@
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - Google Drive, Notion, JIRA 등과 같은 통합 서비스에 연결된 [Ragie](https://www.ragie.ai) (RAG) 지식 베이스에서 컨텍스트를 검색합니다.
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - MongoDB를 사용하여 여러 LLM의 메모리를 저장하고 검색하는 MCP 서버. 타임스탬프와 LLM 식별을 포함한 대화 메모리의 저장, 검색, 추가 및 삭제를 위한 도구를 제공합니다.
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 다른 AI 모델이 협력하고 대화 간에 컨텍스트를 공유할 수 있게 하는 크로스 LLM 통신 및 메모리 공유를 가능하게 하는 MCP 서버.
+- [s60yucca/mnemos](https://github.com/s60yucca/mnemos) 🏎️ 🏠 🍎 🪟 🐧 - AI 코딩 에이전트를 위한 영구 메모리 엔진. 단일 Go 바이너리, 제로 런타임 의존성, MCP 네이티브. 내장 SQLite를 사용하여 세션 간 메모리를 저장, 검색, 중복 제거하며 하이브리드 FTS + 시맨틱 검색, 메모리 감쇠, 관계 그래프, 토큰 예산 컨텍스트 어셈블리를 지원합니다.
 
 ### ⚖️ <a name="legal"></a>법률
 

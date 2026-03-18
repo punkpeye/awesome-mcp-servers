@@ -361,6 +361,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - 從您的 [Ragie](https://www.ragie.ai) (RAG) 知識庫中檢索上下文，可連接至 Google Drive、Notion、JIRA 等多種整合服務。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - 一個 MCP 伺服器，使用 MongoDB 儲存和檢索來自多個 LLM 的記憶。提供用於儲存、檢索、新增和清除帶有時間戳和 LLM 識別的對話記憶的工具。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 一個 MCP 伺服器，實現跨 LLM 通訊和記憶共享，使不同的 AI 模型能夠在對話間協作和共享上下文。
+- [s60yucca/mnemos](https://github.com/s60yucca/mnemos) 🏎️ 🏠 🍎 🪟 🐧 - 面向 AI 編程智能體的持久化記憶引擎。單個 Go 二進位檔案，零執行時依賴，原生支援 MCP。使用內嵌 SQLite 跨會話儲存、搜尋和去重記憶，支援混合 FTS + 語義搜尋、記憶衰減、關係圖譜和 Token 預算上下文組裝。
 
 ### ⚖️ <a name="legal"></a>法律
 
