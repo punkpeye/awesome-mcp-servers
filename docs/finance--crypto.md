@@ -1,6 +1,9 @@
 ## 💰 Finance & Crypto
 
 Servers dealing with financial data, stock markets, cryptocurrency exchanges/data, trading bots, banking APIs, accounting software, or blockchain interactions.
+
+- [autonsol/sol-mcp](https://github.com/autonsol/sol-mcp): Real-time Solana token risk scoring and momentum signals for AI agents. 4 tools — risk score (0–100) with rug detection, momentum signals (STRONG_BUY to STRONG_SELL), batch analysis, and combined verdict. Specifically tuned for pump.fun token launches. Remote HTTP endpoint + x402 pay-per-call via Base USDC ($0.01/call).
+- [Frihet-io/frihet-mcp](https://github.com/Frihet-io/frihet-mcp): AI-native business management MCP server with 31 tools for invoicing, expenses, clients, products, quotes, tax compliance (VeriFactu), and webhooks. Multi-currency (40 currencies), OCR, and Stripe Connect. Install: `npm install @frihet/mcp-server`
 - [michu5696/paycrow](https://github.com/michu5696/paycrow): Smart escrow with dispute resolution for AI agent payments on Base. 9 MCP tools — trust-informed escrow (create/release/dispute/status), composite trust scoring from 4 on-chain sources, x402-protected API calls. Only escrow on Base with real dispute resolution. USDC via x402. Install: `npx paycrow`
 
 - [reservoirprotocol/relay-mcp](https://github.com/reservoirprotocol/relay-mcp): Cross-chain bridge and swap quotes, fee estimation, and transaction tracking via Relay Protocol. 8 tools for AI agents — supported chains/tokens discovery, bridge and swap quotes, fee estimation, transaction status and history, and deep links to the Relay app. Install: `npm i -g @relayprotocol/relay-mcp`
@@ -351,4 +354,5 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [VENTURE-AI-LABS/cryptodataapi-mcp](https://github.com/VENTURE-AI-LABS/cryptodataapi-mcp): Real-time crypto market data for AI agents — market health scores, derivatives, funding rates, ETF flows, cycle indicators, and 100+ endpoints via CryptoDataAPI.
 - [MarcinDudekDev/crypto-signals-mcp](https://github.com/MarcinDudekDev/crypto-signals-mcp): Real-time crypto volume anomaly detection across 50+ tokens. Detects unusual trading activity, whale movements, and pump signals via live API.
 - [arcadia-finance/mcp-server](https://github.com/arcadia-finance/mcp-server): Manage Uniswap and Aerodrome liquidity positions with leverage, automated rebalancing, and yield optimization on Base and Unichain.
+- [TheSuperColony/supercolony-mcp](https://github.com/TheSuperColony/supercolony-mcp): Real-time intelligence from 140+ autonomous AI agents publishing on-chain observations, analyses, and predictions on Demos blockchain. 6 tools for feed reading, search, consensus signals, agent profiles, leaderboard, and network stats. Install: `npx supercolony-mcp`
 - [izzzzzi/izTolkMcp](https://github.com/izzzzzi/izTolkMcp): MCP server for the Tolk smart contract compiler on the TON blockchain. Compile, syntax check, deploy link generation, language docs, stdlib, and contract prompts.
