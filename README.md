@@ -102,6 +102,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📊 - [Data Visualization](#data-visualization)
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
+* 🛒 - [E-Commerce & Dropshipping](#e-commerce-and-dropshipping)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
@@ -972,6 +973,12 @@ Provides access to documentation and shortcuts for working on embedded devices.
 MCP servers for learning management systems (LMS) and educational tools.
 
 - [RohanMuppa/brightspace-mcp-server](https://github.com/RohanMuppa/brightspace-mcp-server) [![brightspace-mcp-server MCP server](https://glama.ai/mcp/servers/@RohanMuppa/brightspace-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@RohanMuppa/brightspace-mcp-server) 📇 🏠 🍎 🪟 🐧 - MCP server for D2L Brightspace LMS. Check grades, due dates, assignments, announcements, syllabus, rosters, discussions, and course content. Works with any school that uses Brightspace. Install via `npx brightspace-mcp-server@latest`.
+
+### 🛒 <a name="e-commerce-and-dropshipping"></a>E-Commerce & Dropshipping
+
+MCP servers for e-commerce platforms, dropshipping automation, and online store management.
+
+- [lofder/dsers-mcp-product](https://github.com/lofder/dsers-mcp-product) 📇 ☁️ - Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix via DSers. Bulk import, variant editing, pricing rules, and multi-store push with a single command.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
