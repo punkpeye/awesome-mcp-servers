@@ -105,6 +105,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
+* - [@praveen030686/data-apis-mcp](https://github.com/praveen030686/x402-apis-mcp-server) - 22 tools for crypto prices, stock data, forex rates, and web scraping via x402 micropayments on Base.
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
