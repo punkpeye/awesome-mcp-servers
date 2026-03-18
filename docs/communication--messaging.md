@@ -4,6 +4,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 
 - [jamesacklin/tlon-mcp-server](https://github.com/jamesacklin/tlon-mcp-server): Facilitates interaction with Tlon agents through direct messaging, contact management, and natural language support.
 - [varunwahi-plivo/plivo-mcp-server](https://github.com/varunwahi-plivo/plivo-mcp-server): Facilitates SMS messaging through Plivo's API using the Message Control Protocol.
+- [virtualsms-io/virtualsms-mcp](https://github.com/virtualsms-io/virtualsms-mcp): Enables AI agents to get virtual phone numbers and receive SMS/OTP codes for automated phone verification workflows via VirtualSMS API.
 - [deuslirio/mcp-server-whatsapp-message](https://github.com/deuslirio/mcp-server-whatsapp-message): Facilitates sending WhatsApp messages through the Meta WhatsApp Business API using MCP.
 - [theo-nash/twitter-mcp-server](https://github.com/theo-nash/twitter-mcp-server): Facilitates AI-driven interactions with Twitter, enabling operations like tweeting, searching, and user management without direct API access.
 - [sudhakarmlal/ERAV3-GMAILMCP](https://github.com/sudhakarmlal/ERAV3-GMAILMCP): Facilitates seamless email management through the Gmail API, allowing users to send, read, and manage emails via an MCP client.
