@@ -261,6 +261,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [davidan90/time-node-mcp](https://github.com/davidan90/time-node-mcp) 📇 🏠 - 支援時區的日期和時間操作，支援 IANA 時區、時區轉換和夏令時處理。
 - [endorhq/cli](https://github.com/endorhq/cli) 📇 ☁️ 🏠 🪟 🐧 🍎 - Endor 讓您的 AI 代理程式在隔離沙盒中執行 MariaDB、Postgres、Redis、Memcached、Alpine 或 Valkey 等服務。取得預先配置的應用程序，啟動時間不到 5 秒.
 - [jetbrains/mcpProxy](https://github.com/JetBrains/mcpProxy) 🎖️ 📇 🏠 - 連接到 JetBrains IDE
+- [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) [![Kapeli/dash-mcp-server MCP server](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server) 🐍 🏠 🍎 - [Dash](https://kapeli.com/dash) 的 MCP 伺服器，macOS API 文件瀏覽器。即時搜尋超過 200 個文件集。
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) 🐍 🏠 - 面向行的文本文件編輯器。針對 LLM 工具進行了最佳化，具有高效的部分文件訪問功能，可最大限度地減少令牌使用量。
 - [@joshuarileydev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server) 📇 🏠 - 用於控制 iOS 模擬器的 MCP 伺服器
 - [@joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) 📇 🏠 - 一個 MCP 伺服器，用於與 iOS 開發者的 App Store Connect API 進行通信
