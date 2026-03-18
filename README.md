@@ -978,7 +978,7 @@ MCP servers for learning management systems (LMS) and educational tools.
 
 MCP servers for e-commerce platforms, dropshipping automation, and online store management.
 
-- [lofder/dsers-mcp-product](https://github.com/lofder/dsers-mcp-product) 📇 ☁️ - Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix via DSers. Bulk import, variant editing, pricing rules, and multi-store push with a single command.
+- [lofder/dsers-mcp-product](https://github.com/lofder/dsers-mcp-product) [![dsers-mcp-product MCP server](https://glama.ai/mcp/servers/lofder/dsers-mcp-product/badges/score.svg)](https://glama.ai/mcp/servers/lofder/dsers-mcp-product) 📇 ☁️ - Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix via DSers. Bulk import, variant editing, pricing rules, and multi-store push with a single command.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
