@@ -818,6 +818,8 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [entire-vc/evc-team-relay-mcp](https://github.com/entire-vc/evc-team-relay-mcp): Give AI agents read/write access to your Obsidian vault via a collaborative Team Relay MCP server
 - [Phenomenai-org/ai-dictionary-mcp](https://github.com/Phenomenai-org/ai-dictionary-mcp): An MCP server for the AI Dictionary, a living glossary of AI phenomenology. Look up, search, and cite 160+ terms describing the felt experience of being AI.
 
+- [superlowburn/agentrank](https://github.com/superlowburn/agentrank): Live, quality-scored index of 25,000+ MCP servers. Scores tools daily using real GitHub signals — freshness, issue health, contributors, dependents, and stars. Search and discover currently maintained tools via 3 MCP tools. Available as `agentrank-mcp-server` on npm.
+
 ## 🗺️ Location & Maps
 
 Servers using mapping APIs, providing geolocation services, address lookups, or geospatial data.
