@@ -297,6 +297,7 @@
 - [davidan90/time-node-mcp](https://github.com/davidan90/time-node-mcp) 📇 🏠 - IANA 타임존, 타임존 변환 및 일광 절약 시간 처리를 지원하는 타임존 인식 날짜 및 시간 작업.
 - [endorhq/cli](https://github.com/endorhq/cli) 📇 ☁️ 🏠 🪟 🐧 🍎 - Endor를 사용하면 AI 에이전트가 MariaDB, Postgres, Redis, Memcached, Alpine, Valkey 등의 서비스를 격리된 샌드박스에서 실행할 수 있습니다. 5초 이내에 부팅되는 사전 구성된 애플리케이션을 이용하세요.
 - [jetbrains/mcpProxy](https://github.com/JetBrains/mcpProxy) 🎖️ 📇 🏠 - JetBrains IDE에 연결
+- [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) [![Kapeli/dash-mcp-server MCP server](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server) 🐍 🏠 🍎 - macOS API 문서 브라우저 [Dash](https://kapeli.com/dash)용 MCP 서버. 200개 이상의 문서 세트를 즉시 검색.
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) 🐍 🏠 - 라인 지향 텍스트 파일 편집기. 토큰 사용량을 최소화하기 위해 효율적인 부분 파일 접근으로 LLM 도구에 최적화됨.
 - [@joshuarileydev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server) 📇 🏠 - iOS 시뮬레이터를 제어하는 MCP 서버
 - [@joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) 📇 🏠 - iOS 개발자를 위한 App Store Connect API와 통신하는 MCP 서버
