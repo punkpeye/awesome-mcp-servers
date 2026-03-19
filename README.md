@@ -1009,6 +1009,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [xxczaki/local-history-mcp](https://github.com/xxczaki/local-history/mcp) 📇 🏠 🍎 🪟 🐧  - MCP server for accessing VS Code/Cursor Local History
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
+- [henfrydls/actual-budget-mcp](https://github.com/henfrydls/actual-budget-mcp) 📇 🏠 🍎 🪟 🐧 - Talk to your Actual Budget through Claude. 18 tools for reading, analyzing, and managing personal finances with natural language dates (EN/ES), name resolution, and formatted output.
 
 - [@asterpay/mcp-server](https://github.com/timolein74/asterpay-mcp-server) [![asterpay-mcp-server MCP server](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server) 📇 ☁️ - EUR settlement for AI agents via x402 protocol. Market data, AI tools, crypto analytics — pay-per-call in USDC on Base. SEPA Instant EUR off-ramp.
 - [@frihet/mcp-server](https://github.com/Frihet-io/frihet-mcp) [![frihet-mcp MCP server](https://glama.ai/mcp/servers/Frihet-io/frihet-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Frihet-io/frihet-mcp) 📇 ☁️ - AI-native business management — invoices, expenses, clients, products, and quotes. 31 tools for Claude, Cursor, Windsurf, and Cline.
