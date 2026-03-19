@@ -1010,6 +1010,8 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
+- [CarbonOracle](https://github.com/ToolOracle/carbonoracle) - 🌿 CO2 & Climate Intelligence MCP — EU ETS carbon price, real-time grid intensity, 50 blockchain carbon footprints (Bitcoin 1513 kWh/tx vs VeChain 0.00024 kWh/tx), VeChain DNV ISO14040/14044 certified. 11 tools. `cloud` `python`
+- [ReserveOracle](https://github.com/ToolOracle/reserveoracle) - 🏦 Reserve Asset Intelligence MCP — live gold/silver evidence payloads (ES256K signed), 80+ RWA token profiles (PAXG, XAUT, BlackRock BUIDL), issuer LEI, MiCA Art.36 context. 11 tools. `cloud` `python`
 - [@asterpay/mcp-server](https://github.com/timolein74/asterpay-mcp-server) [![asterpay-mcp-server MCP server](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server) 📇 ☁️ - EUR settlement for AI agents via x402 protocol. Market data, AI tools, crypto analytics — pay-per-call in USDC on Base. SEPA Instant EUR off-ramp.
 - [@frihet/mcp-server](https://github.com/Frihet-io/frihet-mcp) [![frihet-mcp MCP server](https://glama.ai/mcp/servers/Frihet-io/frihet-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Frihet-io/frihet-mcp) 📇 ☁️ - AI-native business management — invoices, expenses, clients, products, and quotes. 31 tools for Claude, Cursor, Windsurf, and Cline.
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
