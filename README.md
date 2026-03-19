@@ -2015,3 +2015,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [aegis-defi](https://github.com/StanleytheGoat/aegis) - Safety layer for autonomous DeFi agents. Scans contracts for exploit patterns, simulates transactions, blocks honeypots. `npx aegis-defi`
