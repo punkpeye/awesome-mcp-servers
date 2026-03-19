@@ -1450,6 +1450,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [nikvb/fmr8-mcp-server](https://github.com/nikvb/fmr8-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - Look up Section 8 Fair Market Rent (FMR) values by ZIP code, state, county, or city. Covers 30,000+ US ZIP codes with HUD SAFMR data, historical year-over-year trends, and HUD/Section 8 terminology glossary.
 
 ### 🔬 <a name="research"></a>Research
 
