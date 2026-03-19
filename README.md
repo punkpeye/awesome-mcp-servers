@@ -1342,6 +1342,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 - [ark-forge/mcp-eu-ai-act](https://github.com/ark-forge/mcp-eu-ai-act) [![mcp-eu-ai-act MCP server](https://glama.ai/mcp/servers/@ark-forge/mcp-eu-ai-act/badges/score.svg)](https://glama.ai/mcp/servers/@ark-forge/mcp-eu-ai-act) 📇 ☁️ - EU AI Act compliance scanner that detects regulatory violations in AI codebases with risk classification and remediation guidance.
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
+- [laudoluxDev/lawtasksai-mcp](https://github.com/laudoluxDev/lawtasksai-mcp) 📇 ☁️ 🏠 - 200+ AI-powered legal research and drafting skills for attorneys. Case law analysis, motion drafting, contract review, deposition prep, and ABA compliance tools. LawTasksAI.com never receives your client data. Requires a license key from lawtasksai.com.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
