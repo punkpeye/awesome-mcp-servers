@@ -916,6 +916,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
 - [ztuskes/garmin-documentation-mcp-server](https://github.com/ztuskes/garmin-documentation-mcp-server) 📇 🏠 – Offline Garmin Connect IQ SDK documentation with comprehensive search and API examples
+- [webslop.ai/mcp][https://webslop.ai/mcp] 🐍 🏠 🍎 🪟 🐧 - AI first app deployment, unlike lovable or figma make, webslop.ai lets you or your ai of choice setup node.ja apps or static sites in seconds. 
 
 ### 🔒 <a name="delivery"></a>Delivery
 
