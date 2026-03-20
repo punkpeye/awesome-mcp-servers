@@ -1054,7 +1054,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
-- [philrox/ris-mcp-ts](https://github.com/philrox/ris-mcp-ts) 📇 ☁️ - Access Austrian federal laws, state laws, court decisions, and legal documents via the RIS (Rechtsinformationssystem) API with 12 specialized tools.
+- [philrox/ris-mcp-ts](https://github.com/philrox/ris-mcp-ts) [glama](https://glama.ai/mcp/servers/philrox/ris-mcp-ts) 📇 ☁️ - Access Austrian federal laws, state laws, court decisions, and legal documents via the RIS (Rechtsinformationssystem) API with 12 specialized tools.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
