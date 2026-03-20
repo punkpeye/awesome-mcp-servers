@@ -166,6 +166,7 @@
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp) 📇 ☁️ - یکپارچه‌سازی با API Oorlogsbronnen (منابع جنگ) برای دسترسی به سوابق تاریخی جنگ جهانی دوم، عکس‌ها و اسناد از هلند (۱۹۴۰-۱۹۴۵)
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - یکپارچه‌سازی با API Rijksmuseum برای جستجوی آثار هنری، جزئیات و مجموعه‌ها
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - یکپارچه‌سازی سرور MCP برای DaVinci Resolve که ابزارهای قدرتمندی برای ویرایش ویدیو، درجه‌بندی رنگ، مدیریت رسانه و کنترل پروژه فراهم می‌کند
+- [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - سرور MCP محلی برای تولید دارایی‌های تصویری با Google Gemini (Nano Banana 2 / Pro). از خروجی شفاف PNG/WebP، تغییر اندازه/برش دقیق، حداکثر ۱۴ تصویر مرجع و grounding با Google Search پشتیبانی می‌کند.
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - یک سرور MCP که API AniList را برای اطلاعات انیمه و مانگا یکپارچه می‌کند
 
 
@@ -559,6 +560,7 @@
 - [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) 📇 🏠 - سرور MCP که به دستیاران هوش مصنوعی دسترسی یکپارچه به کامپوننت‌ها، بلوک‌ها، دموها و متادیتای shadcn/ui v4 را می‌دهد.
 - [jsdelivr/globalping-mcp-server](https://github.com/jsdelivr/globalping-mcp-server) 🎖️ 📇 ☁️ - سرور MCP Globalping به کاربران و LLMها دسترسی می‌دهد تا ابزارهای شبکه مانند ping، traceroute، mtr، HTTP و DNS resolve را از هزاران مکان در سراسر جهان اجرا کنند.
 - [kadykov/mcp-openapi-schema-explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) 📇 ☁️ 🏠 - دسترسی بهینه از نظر توکن به مشخصات OpenAPI/Swagger از طریق منابع MCP.
+- [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) [![Kapeli/dash-mcp-server MCP server](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server) 🐍 🏠 🍎 - سرور MCP برای [Dash](https://kapeli.com/dash)، مرورگر مستندات API در macOS. جستجوی فوری در بیش از ۲۰۰ مجموعه مستندات.
 - [lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) 📇 🏠 🛠️ - یک سرور میان‌افزار که به چندین نمونه ایزوله از یک سرور MCP اجازه می‌دهد تا به طور مستقل با فضاهای نام و پیکربندی‌های منحصر به فرد همزیستی کنند.
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) 🐍 🏠 - سرور MCP برای دسترسی و مدیریت پرامپت‌های برنامه LLM ایجاد شده با مدیریت پرامپت [Langfuse]([https://langfuse.com/](https://langfuse.com/docs/prompts/get-started)).
 - [linw1995/nvim-mcp](https://github.com/linw1995/nvim-mcp) 🦀 🏠 🍎 🪟 🐧  - یک سرور MCP برای تعامل با Neovim
@@ -1005,6 +1007,7 @@
 
 ### 🔒 <a name="security"></a>امنیت
 
+- [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - سرور MCP برای تحلیل بسته‌های شبکه Wireshark با قابلیت‌های ضبط، آمار پروتکل، استخراج فیلد و تحلیل امنیتی.
 - [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) ☁️ - Beelzebub یک چارچوب honeypot است که به شما امکان می‌دهد ابزارهای honeypot را با استفاده از MCP بسازید. هدف آن شناسایی تزریق پرامپت یا رفتار عامل مخرب است. ایده اصلی این است که به عامل ابزارهایی بدهید که در کار عادی خود هرگز از آنها استفاده نمی‌کند.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - سرور MCP برای یکپارچه‌سازی Ghidra با دستیاران هوش مصنوعی. این پلاگین تحلیل باینری را امکان‌پذیر می‌کند و ابزارهایی برای بازرسی تابع، دکامپایل، کاوش حافظه و تحلیل import/export از طریق Model Context Protocol فراهم می‌کند.
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - سرور MCP متمرکز بر امنیت که دستورالعمل‌های ایمنی و تحلیل محتوا را برای عامل‌های هوش مصنوعی فراهم می‌کند.
