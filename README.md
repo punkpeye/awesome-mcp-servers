@@ -1334,6 +1334,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🐍 ☁️ 🏠 - Hindsight: Agent Memory That Works Like Human Memory - Built for AI Agents to manage Long Term Memory
 - [teolex2020/AuraSDK](https://github.com/teolex2020/AuraSDK) [![teolex2020-aurasdk MCP server](https://glama.ai/mcp/servers/teolex2020-aurasdk/badges/score.svg)](https://glama.ai/mcp/servers/teolex2020-aurasdk) 🐍 🏠 — Persistent cognitive memory for Claude Desktop. Sub-ms recall, offline, encrypted.
 - [arthurpanhku/Arthor-Agent](https://github.com/arthurpanhku/Arthor-Agent) [![arthor-agent MCP server](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent/badges/score.svg)](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent) 🐍 🏠 ☁️ - ...
+- [woohoyang-oss/akaxa.space](https://github.com/woohoyang-oss/akaxa.space) 📇 ☁️ - Persistent encrypted memory for AI agents. Save, recall, and share memories across conversations via MCP.
 
 ### ⚖️ <a name="legal"></a>Legal
 
