@@ -102,6 +102,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📊 - [Data Visualization](#data-visualization)
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
+* 🛒 - [E-Commerce](#e-commerce)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
@@ -1002,6 +1003,12 @@ MCP servers for learning management systems (LMS) and educational tools.
 
 - [Connectry-io/connectrylab-architect-cert-mcp](https://github.com/Connectry-io/connectrylab-architect-cert-mcp) [![connectrylab-architect-cert-mcp MCP server](https://glama.ai/mcp/servers/Connectry-io/connectrylab-architect-cert-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Connectry-io/connectrylab-architect-cert-mcp) 📇 🏠 🍎 🪟 🐧 - Free certification prep for the Claude Certified Architect exam. 390 scenario-based questions, guided capstone build, 30 concept handouts, 6 reference projects, practice exams, interactive UI with clickable answer cards, glassmorphism progress dashboard, spaced repetition, and deterministic grading.
 - [RohanMuppa/brightspace-mcp-server](https://github.com/RohanMuppa/brightspace-mcp-server) [![brightspace-mcp-server MCP server](https://glama.ai/mcp/servers/@RohanMuppa/brightspace-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@RohanMuppa/brightspace-mcp-server) 📇 🏠 🍎 🪟 🐧 - MCP server for D2L Brightspace LMS. Check grades, due dates, assignments, announcements, syllabus, rosters, discussions, and course content. Works with any school that uses Brightspace. Install via `npx brightspace-mcp-server@latest`.
+
+### 🛒 <a name="e-commerce"></a>E-Commerce
+
+MCP servers for e-commerce platforms and online store management.
+
+- [lofder/dsers-mcp-product](https://github.com/lofder/dsers-mcp-product) [![dsers-mcp-product MCP server](https://glama.ai/mcp/servers/lofder/dsers-mcp-product/badges/score.svg)](https://glama.ai/mcp/servers/lofder/dsers-mcp-product) 📇 ☁️ - Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix via DSers. Bulk import, variant editing, pricing rules, and multi-store push with a single command.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
