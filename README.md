@@ -1272,6 +1272,7 @@ Integration with gaming related data, game engines, and services
 Control smart home devices, home network equipment, and automation systems.
 
 - [apiarya/wemo-mcp-server](https://github.com/apiarya/wemo-mcp-server) - [![wemo-mcp-server MCP server](https://glama.ai/mcp/servers/@apiarya/wemo-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@apiarya/wemo-mcp-server) 🐍 🏠 🍎 🪟 🐧 - Control WeMo smart home devices via AI assistants using natural language. Built on pywemo for 100% local control — no cloud dependency. Supports dimmer brightness, device rename, HomeKit codes, and multi-phase discovery.
+- [EthanSK/hue-vibes-mcp](https://github.com/EthanSK/hue-vibes-mcp) 📇 ☁️ 🍎 🪟 🐧 - Control Philips Hue lights via the Hue Remote API (CLIP v2). Set vibes, control individual lights, activate scenes, save and re-apply mood presets. OAuth authentication with automatic token refresh. `npx ai-huebot`
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
