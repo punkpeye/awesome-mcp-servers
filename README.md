@@ -981,6 +981,7 @@ MCP servers for learning management systems (LMS) and educational tools.
 Provides access to environmental data and nature-related tools, services and information.
 
 - [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - MCP server for detecting, monitoring, and analyzing potential wildfires globally using multiple data sources including NASA FIRMS, OpenWeatherMap, and Google Earth Engine.
+- [thetangstr/Yarda_v5](https://github.com/thetangstr/Yarda_v5) 📇 ☁️ 🍎 🪟 🐧 - AI-powered landscape design MCP server. Generate professional 2D site plans and 3D renderings for any US address in 30 seconds. Tools: get_property_info, create_design, list_designs, list_styles.
 
 ### 📂 <a name="file-systems"></a>File Systems
 
