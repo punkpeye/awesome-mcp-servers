@@ -1376,6 +1376,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
+- [agentaeo/agentaeo-mcp-server](https://github.com/agentaeo/agentaeo-mcp-server) 📇 ☁️ - Run AEO (Answer Engine Optimization) audits across ChatGPT, Perplexity, Claude, and Google AI to measure brand citation visibility and generate content to improve AI search rankings.
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - A Model Context Protocol server for TikTok Ads API integration, enabling AI assistants to manage campaigns, analyze performance metrics, handle audiences and creatives with OAuth authentication flow.
 - [alexey-pelykh/lhremote](https://github.com/alexey-pelykh/lhremote) 📇 🏠 - Open-source CLI and MCP server for LinkedHelper automation — 32 tools for campaign management, messaging, and profile queries via Chrome DevTools Protocol.
 - [BlockRunAI/x-grow](https://github.com/BlockRunAI/x-grow) 📇 ☁️ - X/Twitter algorithm optimizer with post drafting, review scoring, and AI image generation for maximum engagement.
@@ -1489,6 +1490,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
+- [agentaeo/agentaeo-mcp-server](https://github.com/agentaeo/agentaeo-mcp-server) 📇 ☁️ - Run AEO (Answer Engine Optimization) audits across ChatGPT, Perplexity, Claude, and Google AI to measure brand citation visibility and generate content to improve AI search rankings.
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) 📇 🏠 - An MCP server for searching job listings with filters for date, keywords, remote work options, and more.
 - [hanselhansel/aeo-cli](https://github.com/hanselhansel/aeo-cli) 🐍 🏠 - Audit URLs for AI crawler readiness — checks robots.txt, llms.txt, JSON-LD schema, and content density with 0-100 AEO scoring.
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) 🐍 📇 ☁️ - Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
