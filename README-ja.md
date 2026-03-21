@@ -177,6 +177,7 @@
 - [jdubois/azure-cli-mcp](https://github.com/jdubois/azure-cli-mcp) - Azureと直接対話できるAzure CLIコマンドラインのラッパー
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - 詳細なセットアップ情報とLLMの使用例を含む、Netskope Private Access環境内のすべてのNetskope Private Accessコンポーネントへのアクセスを提供するMCP。
 - [manusa/Kubernetes MCP Server](https://github.com/manusa/kubernetes-mcp-server) 🏎️ 🏠 - OpenShiftの追加サポートを備えた強力なKubernetes MCPサーバー。**任意の**Kubernetesリソースに対するCRUD操作の提供に加えて、このサーバーはクラスターと対話するための専用ツールを提供します。
+- [mctlhq/mctl-mcp](https://github.com/mctlhq/mctl-mcp) [![mctl-mcp MCP server](https://glama.ai/mcp/servers/mctlhq/mctl-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mctlhq/mctl-mcp) ☁️ - Kubernetes 管理と自動化された GitOps のための AI ネイティブプラットフォーム（30 以上のツール）。
 - [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - Rancherエコシステム向けのMCPサーバー。マルチクラスターKubernetes運用、Harvester HCI管理（VM、ストレージ、ネットワーク）、Fleet GitOpsツールを提供します。
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) 🦀 🏠 - AIアシスタントがTerraform環境を管理および操作できるようにするTerraform MCPサーバー。設定の読み取り、プランの分析、設定の適用、Terraformステートの管理を可能にします。
 - [pulumi/mcp-server](https://github.com/pulumi/mcp-server) 🎖️ 📇 🏠 - Pulumi Automation APIとPulumi Cloud APIを使用してPulumiと対話するためのMCPサーバー。MCPクライアントがパッケージ情報の取得、変更のプレビュー、更新のデプロイ、スタック出力の取得などのPulumi操作をプログラムで実行できるようにします。
