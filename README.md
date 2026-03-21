@@ -1466,6 +1466,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [thetangstr/Yarda_v5](https://github.com/thetangstr/Yarda_v5) 📇 ☁️ - AI landscape design MCP server. Generate professional 2D site plans and photorealistic 3D renderings for any US property address in ~30 seconds. Connect via `https://yarda-mcp-server-production.up.railway.app`. Ideal for homeowners planning renovations and landscaping contractors building client proposals.
 
 ### 🔬 <a name="research"></a>Research
 
