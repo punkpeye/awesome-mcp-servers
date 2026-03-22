@@ -1015,6 +1015,7 @@ MCP servers for e-commerce platforms and online store management.
 Provides access to environmental data and nature-related tools, services and information.
 
 - [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - MCP server for detecting, monitoring, and analyzing potential wildfires globally using multiple data sources including NASA FIRMS, OpenWeatherMap, and Google Earth Engine.
+- [jcholly/geotap-developer](https://github.com/jcholly/geotap-developer) 📇 ☁️ 🍎 🪟 🐧 - Query 37 US federal environmental data sources (FEMA, EPA, USGS, NOAA, NRCS, USFWS) for flood zones, soils, wetlands, rainfall, water quality, contamination, watersheds, and endangered species habitat at any US location.
 
 ### 📂 <a name="file-systems"></a>File Systems
 
