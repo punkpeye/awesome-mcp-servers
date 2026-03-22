@@ -957,7 +957,7 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [KyuRish/mcp-dashboards](https://github.com/KyuRish/mcp-dashboards) [![mcp-dashboards MCP server](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards/badges/score.svg)](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards) 📇 🏠 🍎 🪟 🐧 - 45+ interactive chart types (bar, line, pie, candlestick, sankey, geo, radar, funnel, treemap, and more), dashboards with KPI cards, drill-down navigation, live API polling, 20 themes, and export to PNG/PPT/A4. Built on MCP Apps.
 
-- [nteract/semiotic](https://github.com/nteract/semiotic) [![OWNER/REPO MCP server](https://glama.ai/mcp/servers/OWNER/REPO/badges/score.svg)](https://glama.ai/mcp/servers/OWNER/REPO) - 📇 🏠 React data visualization MCP server with 5 tools: chart rendering to SVG, schema lookup, chart recommendation, config diagnostics, and issue reporting. 30 chart types including XY, ordinal, network, and geographic. 
+- [nteract/semiotic](https://github.com/nteract/semiotic) [![semiotic MCP server](https://glama.ai/mcp/servers/nteract/semiotic/badges/card.svg)](https://glama.ai/mcp/servers/nteract/semiotic) - 📇 🏠 React data visualization MCP server with 5 tools: chart rendering to SVG, schema lookup, chart recommendation, config diagnostics, and issue reporting. 30 chart types including XY, ordinal, network, and geographic. 
 
 ### 📟 <a name="embedded-system"></a>Embedded System
 
