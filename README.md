@@ -1145,6 +1145,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [kukapay/dexscreener-trending-mcp](https://github.com/kukapay/dexscreener-trending-mcp) 📇 ☁️ - Provides real-time trending tokens from DexScreener.
 - [kukapay/dune-analytics-mcp](https://github.com/kukapay/dune-analytics-mcp) 🐍 ☁️ -  A mcp server that bridges Dune Analytics data to AI agents.
 - [kukapay/etf-flow-mcp](https://github.com/kukapay/etf-flow-mcp) 🐍 ☁️ -  Delivering crypto ETF flow data to power AI agents' decision-making.
+- [ElromEvedElElyon/revenue-mcp](https://github.com/ElromEvedElElyon/revenue-mcp) 📇 🏠 - Revenue Intelligence MCP with 11 tools for bounty tracking, crypto monitoring, product management, and AI agent coordination. Anti-scam verification included.
 - [kukapay/ethereum-validator-queue-mcp](https://github.com/kukapay/ethereum-validator-queue-mcp) 🐍 ☁️ -  An MCP server that tracks Ethereum’s validator activation and exit queues in real time.
 - [kukapay/freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp) 🐍 ☁️ - An MCP server that integrates with the Freqtrade cryptocurrency trading bot.
 - [kukapay/funding-rates-mcp](https://github.com/kukapay/funding-rates-mcp) 🐍 ☁️ - Providing real-time funding rate data across major crypto exchanges.
