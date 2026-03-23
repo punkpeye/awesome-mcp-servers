@@ -2137,3 +2137,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [kengerlwl/phoneMcp](https://github.com/kengerlwl/phoneMcp): Enables AI assistants to control Android phones via ADB. Supports zero-config Skill mode (CatPaw/Claude Code) and standard MCP server mode (Claude Desktop/Cursor). Features screen capture, tap/swipe gestures, text input, app management, file transfer, and shell commands.
