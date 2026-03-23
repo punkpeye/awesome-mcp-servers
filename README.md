@@ -2019,6 +2019,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [k-jarzyna/mcp-miro](https://github.com/k-jarzyna/mcp-miro) 📇 ☁️ - Miro MCP server, exposing all functionalities available in official Miro SDK
 - [kelvin6365/plane-mcp-server](https://github.com/kelvin6365/plane-mcp-server) - 🏎️ 🏠 This MCP Server will help you to manage projects and issues through [Plane's](https://plane.so) API
 - [kenliao94/mcp-server-rabbitmq](https://github.com/kenliao94/mcp-server-rabbitmq) 🐍 🏠 - Enable interaction (admin operation, message enqueue/dequeue) with RabbitMQ
+- [kengerlwl/phoneMcp](https://github.com/kengerlwl/phoneMcp) 🐍 🏠 🍎 🪟 🐧 - Android phone control via ADB for AI assistants. Supports both zero-config Skill mode (CatPaw/Claude Code) and MCP server mode (Claude Desktop/Cursor). Features screenshot, tap, swipe, text input, app launch, UI element detection, and multi-device support with bundled ADB binary.
 - [kiarash-portfolio-mcp](https://kiarash-adl.pages.dev/.well-known/mcp.llmfeed.json) – WebMCP-enabled portfolio with Ed25519 signed discovery. AI agents can query projects, skills, and execute terminal commands. Built on Cloudflare Pages Functions.
 - [kimtth/mcp-remote-call-ping-pong](https://github.com/kimtth/mcp-remote-call-ping-pong) 🐍 🏠 - An experimental and educational app for Ping-pong server demonstrating remote MCP (Model Context Protocol) calls
 - [kiwamizamurai/mcp-kibela-server](https://github.com/kiwamizamurai/mcp-kibela-server) - 📇 ☁️ Powerfully interact with Kibela API.
