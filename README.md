@@ -936,6 +936,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
+- [0xbrainkid/satp-mcp](https://github.com/0xbrainkid/satp-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - AI agent trust verification via SATP (Solana Agent Trust Protocol). 8 tools to check trust scores, verify on-chain identity, browse 100+ registered agents, and query attestation history from AgentFolio. Works with Claude Code, Cursor, and Claude Desktop. Free, open source.
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
 - [aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp) 📇 ☁️ - Deep Research for crypto - free & fully local
 - [ahmetsbilgin/finbrain-mcp](https://github.com/ahmetsbilgin/finbrain-mcp) 🎖️ 🐍 ☁️ 🏠 - Access institutional-grade alternative financial data directly in your LLM workflows.
