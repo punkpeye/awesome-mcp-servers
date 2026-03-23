@@ -1819,6 +1819,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 Tools for accessing sports-related data, results, and statistics.
 
 - [cloudbet/sports-mcp-server](https://github.com/cloudbet/sports-mcp-server) 🏎️ ☁️ – Access structured sports data via the Cloudbet API. Query upcoming events, live odds, stake limits, and market info across soccer, basketball, tennis, esports, and more.
+- [dohyung1/x402-fpl-api](https://github.com/dohyung1/x402-fpl-api) 🐍 🏠 - Personalized Fantasy Premier League intelligence — scored captain picks, transfer suggestions, differentials, fixture outlook, price predictions, live points, and a full manager hub that auto-detects your bank balance, free transfers, and chips.
 - [csjoblom/musclesworked-mcp](https://github.com/csjoblom/musclesworked-mcp) 📇 ☁️ - Exercise-to-muscle mapping MCP server. Look up muscles worked by 856 exercises across 65 muscles and 14 muscle groups, analyze workouts for gaps, and find alternative exercises ranked by muscle overlap.
 - [guillochon/mlb-api-mcp](https://github.com/guillochon/mlb-api-mcp) 🐍 🏠 - MCP server that acts as a proxy to the freely available MLB API, which provides player info, stats, and game information.
 - [JamsusMaximus/trainingpeaks-mcp](https://github.com/JamsusMaximus/trainingpeaks-mcp) 🐍 🏠 - Query TrainingPeaks workouts, analyze CTL/ATL/TSB fitness metrics, and compare power/pace PRs through Claude Desktop.
