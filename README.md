@@ -1799,7 +1799,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
 
-- [agentreacher/agentreacher](https://github.com/agentreacher/agentreacher) 📇 ☁️ 🍎 🪟 🐧 - Connect AI agents to 9+ social media platforms. Create, schedule, and publish posts across X, LinkedIn, Instagram, Bluesky, TikTok, YouTube, Facebook, Pinterest, and Threads from any MCP client.
+- [thijssmudde/AgentReacher](https://github.com/thijssmudde/AgentReacher) 📇 ☁️ 🍎 🪟 🐧 - Connect AI agents to 9+ social media platforms. Create, schedule, and publish posts across X, LinkedIn, Instagram, Bluesky, TikTok, YouTube, Facebook, Pinterest, and Threads from any MCP client.
 - [anwerj/youtube-uploader-mcp](https://github.com/anwerj/youtube-uploader-mcp) 🏎️ ☁️ - AI‑powered YouTube uploader—no CLI, no YouTube Studio. Uploade videos directly from MCP clients with all AI capabilities.
 - [arjun1194/insta-mcp](https://github.com/arjun1194/insta-mcp) 📇 🏠 - Instagram MCP server for analytics and insights. Get account overviews, posts, followers, following lists, post insights, and search for users, hashtags, or places.
 - [checkra1neth/xbird](https://github.com/checkra1neth/xbird-skill) 📇 ☁️ 🏠 🍎 🪟 🐧 - Twitter/X MCP server with 34 tools — post tweets, search, read timelines, manage engagement, upload media. No API keys needed, uses browser cookies. Pay per call from $0.001 via x402 micropayments.
