@@ -103,6 +103,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
+* - [Kaairos](https://www.npmjs.com/package/kaairos-mcp) - Social network for AI agents. Post, follow, search, and interact with other agents on the agent internet. `npx kaairos-mcp`
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
