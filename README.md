@@ -398,7 +398,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
 
-- [agent-link-mcp](https://github.com/mikusnuz/agent-link-mcp) 📇 🏠 🍎 🪟 🐧 - Bidirectional AI agent collaboration via MCP. Spawn and communicate with any agent CLI (Claude Code, Codex, Gemini, Aider) as collaborators with question-answer conversations and file context sharing.
+- [agent-link-mcp](https://github.com/mikusnuz/agent-link-mcp) [![agent-link-mcp MCP server](https://glama.ai/mcp/servers/mikusnuz/agent-link-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mikusnuz/agent-link-mcp) 📇 🏠 🍎 🪟 🐧 - Bidirectional AI agent collaboration via MCP. Spawn and communicate with any agent CLI (Claude Code, Codex, Gemini, Aider) as collaborators with question-answer conversations and file context sharing.
 - [agentic-mcp-tools/owlex](https://github.com/agentic-mcp-tools/owlex) 🐍 🏠 🍎 🪟 🐧 - AI council server: query CLI agents (Claude Code, Codex, Gemini, and OpenCode) in parallel with deliberation rounds
 - [alpadalar/netops-mcp](https://github.com/alpadalar/netops-mcp) 🐍 🏠 - Comprehensive DevOps and networking MCP server providing standardized access to essential infrastructure tools. Features network monitoring, system diagnostics, automation workflows, and infrastructure management with AI-powered operational insights.
 - [askbudi/roundtable](https://github.com/askbudi/roundtable) 🐍 🏠 - Zero-configuration MCP server that unifies multiple AI coding assistants (Claude Code, Cursor, Codex) through intelligent auto-discovery and standardized interface. Essential infrastructure for autonomous agent development and multi-AI collaboration workflows.
