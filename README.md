@@ -1234,6 +1234,21 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [zolo-ryan/MarketAuxMcpServer](https://github.com/Zolo-Ryan/MarketAuxMcpServer) 📇 ☁️ - MCP server for comprehensive market and financial news search with advanced filtering by symbols, industries, countries, and date ranges.
 - [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) [Glama](https://glama.ai/mcp/servers/mnemox-ai/tradememory-protocol) 🐍 🏠 - Structured 3-layer memory system (trades → patterns → strategy) for AI trading agents. Supports MT5, Binance, and Alpaca.
 
+### ₿ <a name="bitcoin-and-lightning"></a>Bitcoin & Lightning Network
+
+MCP servers for Bitcoin L1, Lightning Network, Ordinals, and Bitcoin-native payment protocols (L402, x402).
+
+- [aibtcdev/aibtc-mcp-server](https://github.com/aibtcdev/aibtc-mcp-server) 📇 ☁️ - Bitcoin-native MCP server with 150+ tools: BTC/STX wallets, DeFi yield (ALEX, Zest), sBTC peg, NFTs, BNS domains, and x402 payments. AES-256-GCM encrypted wallet storage.
+- [Sharmaz/phoenixd-mcp-server](https://github.com/Sharmaz/phoenixd-mcp-server) 📇 🏠 🪟 - MCP adapter for ACINQ phoenixd Lightning node: 15 tools for creating and paying BOLT11/BOLT12 invoices, Lightning Address payments, on-chain transactions, channel management, and node info.
+- [toadlyBroodle/satring](https://github.com/toadlyBroodle/satring) 🐍 ☁️ - Bitcoin Lightning MCP server supporting L402 and x402 payment protocols. Provides ~15 tools for Lightning operations and paid AI service access.
+- [cnghockey/sats4ai-mcp-server](https://github.com/cnghockey/sats4ai-mcp-server) 📇 ☁️ - Remote MCP server with 20+ AI generation tools (image, video, text, speech, OCR, email, SMS) paid per-use via Lightning Network L402 micropayments. No API keys required.
+- [bitcoin-numeraire/bolt402](https://github.com/bitcoin-numeraire/bolt402) 🦀 ☁️ - Rust MCP server implementing the L402 protocol for Bitcoin Lightning micropayments. ~8 tools for paid service access.
+- [ryanthegentry/402index-mcp-server](https://github.com/ryanthegentry/402index-mcp-server) 📇 ☁️ - MCP server for the 402index payment protocol directory. Supports L402, x402, and MPP (Macropayment Protocol) discovery and payment routing.
+- [lonniev/tollbooth-dpyc](https://github.com/lonniev/tollbooth-dpyc) 🐍 ☁️ - Python MCP server with ~30 tools for Lightning Network operations and BTCPay Server integration. Apache-2.0 licensed.
+- [ExpertVagabond/ordinals-mcp](https://github.com/ExpertVagabond/ordinals-mcp) 📇 ☁️ - TypeScript MCP server with 24 tools for Bitcoin Ordinals: inscription creation, transfers, collection management, and UTXO tracking.
+- [jeletor/lightning-toll-python](https://github.com/jeletor/lightning-toll-python) 🐍 ☁️ - Python MCP server implementing L402 protocol for Bitcoin Lightning micropayments. ~6 tools for paid API access.
+
+
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
