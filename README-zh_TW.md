@@ -352,6 +352,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 使用知識圖譜結構的持久記憶體儲存。使 AI 模型能夠跨會話維護和查詢結構化資訊。
 
+- [ailenshen/apple-notes-mcp](https://github.com/ailenshen/apple-notes-mcp) 📇 🏠 🍎 - 讀寫 Apple Notes 並支援 Markdown 雙向轉換。透過 SQLite 直連實現快速列表/搜尋，透過 AppleScript + 原生匯入實現完整 CRUD。支援 stdio 和 Streamable HTTP 傳輸。
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - 生產級RAG平台，結合Graph RAG、向量搜尋和全文搜尋。構建知識圖譜和上下文工程的最佳選擇
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/memory) 📇 🏠 - 基於知識圖譜的長期記憶系統用於維護上下文
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - 增強基於圖形的記憶，重點關注 AI 角色扮演和故事生成
