@@ -1756,7 +1756,7 @@ Tools for converting text-to-speech and vice-versa
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
 
-- [AiAgentKarl/aviation-mcp-server](https://github.com/AiAgentKarl/aviation-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - Real-time aviation data including live flight tracking, airport weather (METAR/TAF), aviation warnings (NOTAMs/SIGMETs), and airport/airline information.
+- [AiAgentKarl/aviation-mcp-server](https://github.com/AiAgentKarl/aviation-mcp-server) [![aviation-mcp-server](https://glama.ai/mcp/servers/AiAgentKarl/aviation-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/AiAgentKarl/aviation-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - Real-time aviation data including live flight tracking, airport weather (METAR/TAF), aviation warnings (NOTAMs/SIGMETs), and airport/airline information.
 - [alcylu/nightlife-mcp](https://github.com/alcylu/nightlife-mcp) [![nightlife](https://glama.ai/mcp/servers/alcylu/nightlife-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alcylu/nightlife-mcp) 📇 ☁️ - MCP server for Tokyo nightlife event discovery, venue search, performer info, AI recommendations, and VIP table booking.
 - [campertunity/mcp-server](https://github.com/campertunity/mcp-server) 🎖️ 📇 🏠 - Search campgrounds around the world on campertunity, check availability, and provide booking links
 - [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) 🐍 🏠 - A Model Context Protocol (MCP) server that provides access to your TeslaMate database, allowing AI assistants to query Tesla vehicle data and analytics.
