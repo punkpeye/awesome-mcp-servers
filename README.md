@@ -1235,6 +1235,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ - An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.
 - [zolo-ryan/MarketAuxMcpServer](https://github.com/Zolo-Ryan/MarketAuxMcpServer) 📇 ☁️ - MCP server for comprehensive market and financial news search with advanced filtering by symbols, industries, countries, and date ranges.
 - [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) [Glama](https://glama.ai/mcp/servers/mnemox-ai/tradememory-protocol) 🐍 🏠 - Structured 3-layer memory system (trades → patterns → strategy) for AI trading agents. Supports MT5, Binance, and Alpaca.
+- - [ReNoUn](https://github.com/98lukehall/renoun-mcp) — Crypto regime classification with stability half-life estimation. Pre-trade risk gate for trading agents.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
