@@ -1244,6 +1244,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ - An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.
 - [zolo-ryan/MarketAuxMcpServer](https://github.com/Zolo-Ryan/MarketAuxMcpServer) 📇 ☁️ - MCP server for comprehensive market and financial news search with advanced filtering by symbols, industries, countries, and date ranges.
 - [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) [Glama](https://glama.ai/mcp/servers/mnemox-ai/tradememory-protocol) 🐍 🏠 - Structured 3-layer memory system (trades → patterns → strategy) for AI trading agents. Supports MT5, Binance, and Alpaca.
+- [thoughtproof/thoughtproof-mcp](https://github.com/ThoughtProof/thoughtproof-mcp) [![thoughtproof-mcp MCP server](https://glama.ai/mcp/servers/ThoughtProof/thoughtproof-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ThoughtProof/thoughtproof-mcp) 📇 ☁️ - Adversarial multi-model reasoning verification for AI agents before trades execute. Claude, Grok, and DeepSeek challenge each decision — returns ALLOW or HOLD with JWKS-signed attestation. x402-gated on Base (USDC). Part of the 4-issuer Combined Attestation Standard with InsumerAPI, RNWY, and Maiat.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
