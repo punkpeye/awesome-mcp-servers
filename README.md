@@ -1275,7 +1275,6 @@ Control smart home devices, home network equipment, and automation systems.
 
 - [apiarya/wemo-mcp-server](https://github.com/apiarya/wemo-mcp-server) - [![wemo-mcp-server MCP server](https://glama.ai/mcp/servers/@apiarya/wemo-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@apiarya/wemo-mcp-server) 🐍 🏠 🍎 🪟 🐧 - Control WeMo smart home devices via AI assistants using natural language. Built on pywemo for 100% local control — no cloud dependency. Supports dimmer brightness, device rename, HomeKit codes, and multi-phase discovery.
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
-- [okooo5km/orchard](https://github.com/okooo5km/orchard) 🍎 🏠 - Apple ecosystem MCP server providing natural language control over Calendar, Reminders, Music, Weather, Notes, Mail, Messages, Contacts, Maps, and Clock on macOS.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
@@ -1880,6 +1879,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [ianaleck/harvest-mcp-server](https://github.com/ianaleck/harvest-mcp-server) [![harvest-mcp-server MCP server](https://glama.ai/mcp/servers/ianaleck/harvest-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/ianaleck/harvest-mcp-server) 📇 ☁️ 🏠 - Harvest time tracking integration with 40+ tools for managing time entries, projects, clients, tasks, and generating time reports via the Harvest API v2
 - [nicolascroce/keepsake-mcp](https://github.com/nicolascroce/keepsake-mcp) 📇 ☁️ - Personal CRM — manage contacts, interactions, tasks, notes, daily journal, and tags through 42 MCP tools
 - [n24q02m/better-notion-mcp](https://github.com/n24q02m/better-notion-mcp) [![better-notion-mcp MCP server](https://glama.ai/mcp/servers/@n24q02m/better-notion-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@n24q02m/better-notion-mcp) 📇 ☁️ 🍎 🪟 🐧 - Markdown-first Notion MCP server with 9 composite tools and 39 actions. ~77% token reduction via tiered docs. Auto-pagination and bulk operations.
+- [okooo5km/orchard](https://github.com/okooo5km/orchard) 🍎 🏠 - Apple ecosystem MCP server providing natural language control over Calendar, Reminders, Music, Weather, Notes, Mail, Messages, Contacts, Maps, and Clock on macOS.
 - [khaoss85/mcp-orchestro](https://github.com/khaoss85/mcp-orchestro) 📇 ☁️ 🍎 🪟 🐧 - Trello for Claude Code: AI-powered task management with 60 MCP tools, visual Kanban board, and intelligent orchestration for product teams and developers.
 - [louis030195/toggl-mcp](https://github.com/louis030195/toggl-mcp) 📇 ☁️ 🍎 🪟 🐧 - Time tracking integration with Toggl Track. Start/stop timers, manage time entries, track project time, and get today's summary. Perfect for productivity tracking and billing workflows.
 - [MarceauSolutions/amazon-seller-mcp](https://github.com/MarceauSolutions/amazon-seller-mcp) 🐍 ☁️ - Amazon Seller Central operations via SP-API - manage inventory, track orders, analyze sales, and optimize listings
