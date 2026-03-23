@@ -401,7 +401,7 @@
 
 지식 그래프 구조를 사용한 영구 메모리 저장. AI 모델이 세션 간에 구조화된 정보를 유지하고 쿼리할 수 있게 합니다.
 
-- [ailenshen/apple-notes-mcp](https://github.com/ailenshen/apple-notes-mcp) 📇 🏠 🍎 - Apple Notes 읽기/쓰기 및 양방향 Markdown 변환. SQLite 직접 쿼리를 통한 빠른 목록/검색, AppleScript + 네이티브 가져오기를 통한 전체 CRUD. stdio 및 Streamable HTTP 전송 지원.
+- [ailenshen/apple-notes-mcp](https://github.com/ailenshen/apple-notes-mcp) [![apple-notes-mcp MCP server](https://glama.ai/mcp/servers/ailenshen/apple-notes-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ailenshen/apple-notes-mcp) 📇 🏠 🍎 - Apple Notes 읽기/쓰기 및 양방향 Markdown 변환. SQLite 직접 쿼리를 통한 빠른 목록/검색, AppleScript + 네이티브 가져오기를 통한 전체 CRUD. stdio 및 Streamable HTTP 전송 지원.
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - Graph RAG, 벡터 검색, 전문 검색을 결합한 프로덕션급 RAG 플랫폼. 지식 그래프 구축과 컨텍스트 엔지니어링을 위한 최고의 선택
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/memory) 📇 🏠 - 컨텍스트 유지를 위한 지식 그래프 기반 영구 메모리 시스템
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - AI 역할극 및 스토리 생성에 중점을 둔 향상된 그래프 기반 메모리

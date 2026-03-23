@@ -444,7 +444,7 @@
 
 การจัดเก็บหน่วยความจำถาวรโดยใช้โครงสร้างกราฟความรู้ ช่วยให้โมเดล AI สามารถรักษาและสืบค้นข้อมูลที่มีโครงสร้างข้ามเซสชัน
 
-- [ailenshen/apple-notes-mcp](https://github.com/ailenshen/apple-notes-mcp) 📇 🏠 🍎 - อ่านและเขียน Apple Notes พร้อมการแปลง Markdown แบบสองทิศทาง ค้นหาด้วย SQLite แบบเร็ว, CRUD เต็มรูปแบบผ่าน AppleScript + การนำเข้าแบบเนทีฟ รองรับ stdio และ Streamable HTTP transports
+- [ailenshen/apple-notes-mcp](https://github.com/ailenshen/apple-notes-mcp) [![apple-notes-mcp MCP server](https://glama.ai/mcp/servers/ailenshen/apple-notes-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ailenshen/apple-notes-mcp) 📇 🏠 🍎 - อ่านและเขียน Apple Notes พร้อมการแปลง Markdown แบบสองทิศทาง ค้นหาด้วย SQLite แบบเร็ว, CRUD เต็มรูปแบบผ่าน AppleScript + การนำเข้าแบบเนทีฟ รองรับ stdio และ Streamable HTTP transports
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - แพลตฟอร์ม RAG ระดับโปรดักชันที่รวม Graph RAG การค้นหาเวกเตอร์ และการค้นหาข้อความแบบเต็ม ตัวเลือกที่ดีที่สุดสำหรับสร้างกราฟความรู้ของคุณเองและสำหรับวิศวกรรมบริบท
 - [CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - หน่วยความจำแบบกราฟที่ปรับปรุงแล้วโดยเน้นที่การเล่นบทบาท AI และการสร้างเรื่องราว
 - [graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - นำเข้าอะไรก็ได้จาก Slack, Discord, เว็บไซต์, Google Drive, Linear หรือ GitHub ลงในโปรเจ็กต์ Graphlit - จากนั้นค้นหาและดึงความรู้ที่เกี่ยวข้องภายในไคลเอนต์ MCP เช่น Cursor, Windsurf หรือ Cline

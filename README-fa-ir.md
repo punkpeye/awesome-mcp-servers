@@ -822,7 +822,7 @@
 
 
 - [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - سرور MCP خلاصه‌سازی هوش مصنوعی، پشتیبانی از انواع مختلف محتوا: متن ساده، صفحات وب، اسناد PDF، کتاب‌های EPUB، محتوای HTML
-- [ailenshen/apple-notes-mcp](https://github.com/ailenshen/apple-notes-mcp) 📇 🏠 🍎 - خواندن و نوشتن Apple Notes با تبدیل دوطرفه Markdown. جستجوی سریع با SQLite، عملیات CRUD کامل با AppleScript + وارد کردن بومی. پشتیبانی از انتقال stdio و Streamable HTTP.
+- [ailenshen/apple-notes-mcp](https://github.com/ailenshen/apple-notes-mcp) [![apple-notes-mcp MCP server](https://glama.ai/mcp/servers/ailenshen/apple-notes-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ailenshen/apple-notes-mcp) 📇 🏠 🍎 - خواندن و نوشتن Apple Notes با تبدیل دوطرفه Markdown. جستجوی سریع با SQLite، عملیات CRUD کامل با AppleScript + وارد کردن بومی. پشتیبانی از انتقال stdio و Streamable HTTP.
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - پلتفرم RAG آماده برای تولید که Graph RAG، جستجوی برداری و جستجوی متن کامل را ترکیب می‌کند. بهترین انتخاب برای ساخت گراف دانش خود و برای مهندسی زمینه
 - [chatmcp/mcp-server-chatsum](https://github.com/chatmcp/mcp-server-chatsum) - پیام‌های چت خود را با پرامپت‌های هوش مصنوعی کوئری و خلاصه کنید.
 - [cameronrye/openzim-mcp](https://github.com/cameronrye/openzim-mcp) 🐍 🏠 - سرور MCP مدرن و امن برای دسترسی آفلاین به پایگاه‌های دانش با فرمت ZIM. به مدل‌های هوش مصنوعی امکان جستجو و پیمایش ویکی‌پدیا، محتوای آموزشی و سایر آرشیوهای دانش فشرده را با بازیابی هوشمند، کشینگ و API جامع می‌دهد.

@@ -441,7 +441,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 使用知识图谱结构的持久内存存储。使 AI 模型能够跨会话维护和查询结构化信息。
 
-- [ailenshen/apple-notes-mcp](https://github.com/ailenshen/apple-notes-mcp) 📇 🏠 🍎 - 读写 Apple Notes 并支持 Markdown 双向转换。通过 SQLite 直连实现快速列表/搜索，通过 AppleScript + 原生导入实现完整 CRUD。支持 stdio 和 Streamable HTTP 传输。
+- [ailenshen/apple-notes-mcp](https://github.com/ailenshen/apple-notes-mcp) [![apple-notes-mcp MCP server](https://glama.ai/mcp/servers/ailenshen/apple-notes-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ailenshen/apple-notes-mcp) 📇 🏠 🍎 - 读写 Apple Notes 并支持 Markdown 双向转换。通过 SQLite 直连实现快速列表/搜索，通过 AppleScript + 原生导入实现完整 CRUD。支持 stdio 和 Streamable HTTP 传输。
 - [jinzcdev/markmap-mcp-server](https://github.com/jinzcdev/markmap-mcp-server) 📇 🏠 - 基于 [markmap](https://github.com/markmap/markmap) 构建的 MCP 服务器，可将 **Markdown** 转换为交互式的 **思维导图**。支持多格式导出（PNG/JPG/SVG）、浏览器在线预览、一键复制 Markdown 和动态可视化功能。
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/memory) 📇 🏠 - 基于知识图谱的长期记忆系统用于维护上下文
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - 增强基于图形的记忆，重点关注 AI 角色扮演和故事生成

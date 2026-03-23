@@ -376,7 +376,7 @@ Integração com dados relacionados a jogos, motores de jogos e serviços
 
 Armazenamento de memória persistente usando estruturas de grafos de conhecimento. Permite que modelos de IA mantenham e consultem informações estruturadas entre sessões.
 
-- [ailenshen/apple-notes-mcp](https://github.com/ailenshen/apple-notes-mcp) 📇 🏠 🍎 - Leitura e escrita de Apple Notes com conversão bidirecional de Markdown. Consultas SQLite rápidas para listagem/busca, AppleScript + importação nativa para CRUD completo. Suporta transportes stdio e Streamable HTTP.
+- [ailenshen/apple-notes-mcp](https://github.com/ailenshen/apple-notes-mcp) [![apple-notes-mcp MCP server](https://glama.ai/mcp/servers/ailenshen/apple-notes-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ailenshen/apple-notes-mcp) 📇 🏠 🍎 - Leitura e escrita de Apple Notes com conversão bidirecional de Markdown. Consultas SQLite rápidas para listagem/busca, AppleScript + importação nativa para CRUD completo. Suporta transportes stdio e Streamable HTTP.
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - Plataforma RAG de nível de produção combinando Graph RAG, busca vetorial e busca de texto completo. A melhor escolha para construir seu próprio Grafo de Conhecimento e para Engenharia de Contexto
 - [CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - Memória aprimorada baseada em grafos com foco em role-play de IA e geração de histórias
 - [graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - Ingira qualquer coisa do Slack, Discord, sites, Google Drive, Linear ou GitHub em um projeto Graphlit - e então pesquise e recupere conhecimento relevante dentro de um cliente MCP como Cursor, Windsurf ou Cline.
