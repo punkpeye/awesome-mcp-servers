@@ -66,8 +66,6 @@ For more, please click the category name in the next section.
 - 🔄 - [Version Control](docs/version-control.md)
 - ⚽ - [Sport](docs/sport.md)
 
-
-
 ## 🤖 AI & LLM Integration
 
 Servers integrating with other AI models, AI platforms, RAG tools, prompt management, or agent frameworks.
@@ -1294,6 +1292,7 @@ Servers providing simple, general-purpose tools like time/date information, calc
 - [OpenSourceGuru776/consist](https://github.com/OpenSourceGuru776/consist): Markdownify transforms diverse file types and web content into Markdown format, enhancing readability and shareability.
 
 - [IteraTools](https://api.iteratools.com): Cloud-hosted multi-tool MCP API providing 34+ capabilities through a single endpoint: image generation (Flux), web scraping, TTS, OCR, browser automation, sandboxed code execution, DNS lookup, WHOIS, weather, crypto, QR codes, charts, and more. Pay-per-use with x402 micropayment protocol.
+
 ## 🔄 Version Control
 
 Servers interacting with version control systems and platforms for repository management, issues, pull requests, etc.
