@@ -6,65 +6,76 @@
 [![🤗 Hugging Face](https://img.shields.io/badge/HuggingFace-TensorBlock-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/tensorblock)
 [![Telegram](https://img.shields.io/badge/Telegram-Group-blue?logo=telegram)](https://t.me/TensorBlock)
 
-A comprehensive collection of Model Context Protocol (MCP) servers.
-
 <div style="text-align: left; margin: 20px 0;">
     <a href="https://discord.com/invite/Ej5NmeHFf2" style="display: inline-block; padding: 10px 20px; background-color: #5865F2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
         Join our Discord to learn more about what we're building ↗
     </a>
 </div>
-
 <div style="text-align: left; margin: 20px 0;">
-    <a href="https://github.com/TensorBlock/forge" style="display: inline-block; padding: 10px 20px; background-color: #5865F2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    <a href="https://github.com/TensorBlock/forge" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
          ✨✨✨ Learn more about Forge - an open-source middleware service that simplifies AI model provider management. ✨✨✨
     </a>
 </div>
+A comprehensive, community-curated collection of [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers — covering AI assistants, browser automation, databases, cloud platforms, developer tools, and much more.
 
-## Model Context Protocol
-
-MCP is like a USB-C port for AI. It’s an open protocol that standardizes how applications provide context to language models — enabling them to securely connect to tools, databases, APIs, filesystems, and more.
+> **What is MCP?** The Model Context Protocol is an open standard that lets AI models securely connect to external tools, APIs, databases, and filesystems. Think of it as a USB-C port for AI — a universal interface that any model can use to interact with the world.
 
 ## Coverage
 
-This repo currently includes coverage for 7260 MCP servers as of May 30, 2025. Due to the limited space, we only show the most recent 30 servers in each category.
-For more, please click the category name in the next section.
+This repo currently includes coverage for **7260 MCP servers as of May 30, 2025**. Due to the limited space, we only show the most recent 30 servers in each category.
+
+## Contributing
+
+We welcome submissions! To add your MCP server:
+
+1. Fork this repository
+2. Add your server to the relevant category in `README.md`, following the existing format:
+   ```
+   - [Server Name](https://github.com/owner/repo) - Brief one-sentence description.
+   ```
+3. Open a pull request — we review regularly
+
+**Guidelines:**
+- Server must be publicly accessible (open source or a hosted service with a public endpoint)
+- Search the list before submitting to avoid duplicates
+- Place entries in the most relevant category
 
 ## Server Categories
 
-- 🤖 - [AI & LLM Integration](docs/ai--llm-integration.md)
-- 🎨 - [Art, Culture & Media](docs/art-culture--media.md)
-- 🌐 - [Browser Automation & Web Scraping](docs/browser-automation--web-scraping.md)
-- 🏗️ - [Build & Deployment Tools](docs/build--deployment-tools.md)
-- ☁️ - [Cloud Platforms & Services](docs/cloud-platforms--services.md)
-- ✨ - [Code Analysis & Quality](docs/code-analysis--quality.md)
-- 💻 - [Code Execution](docs/code-execution.md)
-- 💬 - [Communication & Messaging](docs/communication--messaging.md)
-- 📝 - [Content Management Systems](docs/content-management-systems-cms.md)
-- 📊 - [Data Analysis & Business Intelligence](docs/data-analysis--business-intelligence.md)
-- 🗄️ - [Databases](docs/databases.md)
-- 🛠️ - [Developer Productivity & Utilities](docs/developer-productivity--utilities.md)
-- 📁 - [Filesystems](docs/filesystems.md)
-- 💰 - [Finance & Crypto](docs/finance--crypto.md)
-- 🧰 - [Frameworks](docs/frameworks.md)
-- 🎮 - [Gaming](docs/gaming.md)
-- ⚙️ - [Hardware & IoT](docs/hardware--iot.md)
-- ❤️ - [Healthcare & Life Sciences](docs/healthcare--life-sciences.md)
-- 🏗️ - [Infrastructure](docs/infrastructure.md)
-- 🧠 - [Knowledge Management & Memory](docs/knowledge-management--memory.md)
-- 🗺️ - [Location & Maps](docs/location--maps.md)
-- 📈 - [Marketing, Sales & CRM](docs/marketing-sales--crm.md)
-- 📡 - [Monitoring & Observability](docs/monitoring--observability.md)
-- 🖼️ - [Multimedia Processing](docs/multimedia-processing.md)
-- 🖥️ - [Operating System & Command Line](docs/operating-system--command-line.md)
-- ✅ - [Project & Task Management](docs/project--task-management.md)
-- 🔬 - [Science & Research](docs/science--research.md)
-- 🔎 - [Search](docs/search.md)
-- 🔒 - [Security](docs/security.md)
-- 📱 - [Social Media & Content Platforms](docs/social-media--content-platforms.md)
-- ✈️ - [Travel & Transportation](docs/travel--transportation.md)
-- 🔧 - [Utilities & Helpers](docs/utilities--helpers.md)
-- 🔄 - [Version Control](docs/version-control.md)
-- ⚽ - [Sport](docs/sport.md)
+- 🤖 - [AI & LLM Integration](#-ai--llm-integration)
+- 🎨 - [Art, Culture & Media](#-art-culture--media)
+- 🌐 - [Browser Automation & Web Scraping](#-browser-automation--web-scraping)
+- 🏗️ - [Build & Deployment Tools](#️-build--deployment-tools)
+- ☁️ - [Cloud Platforms & Services](#️-cloud-platforms--services)
+- ✨ - [Code Analysis & Quality](#-code-analysis--quality)
+- 💻 - [Code Execution](#-code-execution)
+- 💬 - [Communication & Messaging](#-communication--messaging)
+- 📝 - [Content Management Systems](#-content-management-systems)
+- 📊 - [Data Analysis & Business Intelligence](#-data-analysis--business-intelligence)
+- 🗄️ - [Databases](#️-databases)
+- 🛠️ - [Developer Productivity & Utilities](#️-developer-productivity--utilities)
+- 📁 - [Filesystems](#-filesystems)
+- 💰 - [Finance & Crypto](#-finance--crypto)
+- 🧰 - [Frameworks](#-frameworks)
+- 🎮 - [Gaming](#-gaming)
+- ⚙️ - [Hardware & IoT](#️-hardware--iot)
+- ❤️ - [Healthcare & Life Sciences](#️-healthcare--life-sciences)
+- 🏛️ - [Infrastructure](#️-infrastructure)
+- 🧠 - [Knowledge Management & Memory](#-knowledge-management--memory)
+- 🗺️ - [Location & Maps](#️-location--maps)
+- 📈 - [Marketing, Sales & CRM](#-marketing-sales--crm)
+- 📡 - [Monitoring & Observability](#-monitoring--observability)
+- 🖼️ - [Multimedia Processing](#️-multimedia-processing)
+- 🖥️ - [Operating System & Command Line](#️-operating-system--command-line)
+- ✅ - [Project & Task Management](#-project--task-management)
+- 🔬 - [Science & Research](#-science--research)
+- 🔎 - [Search](#-search)
+- 🔒 - [Security](#-security)
+- 📱 - [Social Media & Content Platforms](#-social-media--content-platforms)
+- ⚽ - [Sports](#-sports)
+- ✈️ - [Travel & Transportation](#️-travel--transportation)
+- 🔧 - [Utilities & Helpers](#-utilities--helpers)
+- 🔄 - [Version Control](#-version-control)
 
 ## 🤖 AI & LLM Integration
 
@@ -505,7 +516,6 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [miraclebakelaser/porkbun-mcp-server](https://github.com/miraclebakelaser/porkbun-mcp-server): Facilitates domain, DNS, and SSL management through the Porkbun API for MCP-compatible clients.
 - [urijan44/pr_creator_mcp](https://github.com/urijan44/pr_creator_mcp): Automates GitHub Pull Request creation with integration support for tools like Cursor and Claude.
 - [sbarbett/pihole-mcp-server](https://github.com/sbarbett/pihole-mcp-server): Facilitates AI assistants in managing and querying Pi-hole configurations and metrics through a Model Context Protocol server.
-- [HendryAvila/Hoofy](https://github.com/HendryAvila/Hoofy): Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline (12 flow variants), greenfield project pipeline with Clarity Gate, and business rules extraction. 32 MCP tools. Single Go binary, zero dependencies.
 - [Agent Native Registry](https://agentnativeregistry.com): Remote MCP server with 100+ developer tools scored on AI agent compatibility (0-100). Tools: `search_tools`, `get_score`, `compare_tools`. Helps agents pick the right API for any task without trial-and-error.
 - [Dave-London/Pare](https://github.com/Dave-London/Pare): Suite of 16 MCP servers wrapping 240+ CLI developer tools (git, npm, Docker, test runners, build tools, linters, Python, Cargo, Go, GitHub, K8s) with structured JSON output via `outputSchema` + `structuredContent`. Up to 92% fewer tokens vs raw CLI output. MIT licensed, 1,850+ tests.
 - [rm-rf-prod/GroundTruth-MCP](https://github.com/rm-rf-prod/GroundTruth-MCP): Self-hosted MCP server for live documentation, code audits, and best practices. 363+ curated libraries with npm/PyPI/crates.io/Go fallback, 100+ audit patterns across 18 categories with file:line locations and live fixes. No rate limits.
@@ -601,7 +611,6 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [AIProx MCP](https://github.com/unixlamadev-spec/aiprox-mcp) - Open agent registry — discover and hire autonomous AI agents by capability. 16 agents live. Supports Bitcoin Lightning, Solana USDC, and Base x402. Includes workflow engine for chaining agents.
 - [LightningProx MCP](https://github.com/unixlamadev-spec/lightningprox-mcp) - Lightning Network payment gateway for AI agents. Pay-per-request access to Claude, GPT-4 and other models using Bitcoin micropayments. Features model discovery, pricing, prepaid spend tokens, and autonomous payment flows.
 - [SolanaProx MCP](https://github.com/solanaprox/mcp-server) - Solana/USDC payment gateway for AI agents. Pay-per-request access to Claude, GPT-4 and other models using USDC micropayments. Features model discovery, pricing, real-time balance detection, and autonomous payment flows.
-- [AIProx MCP](https://github.com/unixlamadev-spec/aiprox-mcp) - MCP server for the AIProx open agent registry. Discover and connect to autonomous agents by capability and payment rail. DNS for the agent economy.
 - [LPXPoly MCP](https://github.com/unixlamadev-spec/lpxpoly-mcp) - AI-powered Polymarket analysis via Bitcoin Lightning micropayments. Find edge opportunities, analyze markets, get trading signals. Pay per analysis in sats.
 - [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers, tools, and resources for HTTP-native cryptocurrency payments using USDC on Base, Arbitrum, and other EVM chains.
 - [arcadia-finance/mcp-server](https://github.com/arcadia-finance/mcp-server): Manage Uniswap and Aerodrome liquidity positions with leverage, tomated rebalancing, and yield optimization on Base and Unichain.
@@ -748,7 +757,7 @@ Servers integrating with healthcare standards, medical literature databases, bio
 - [jagan-shanmugam/climatiq-mcp-server](https://github.com/jagan-shanmugam/climatiq-mcp-server): Facilitates real-time carbon emission calculations and climate impact insights for AI assistants using the Climatiq API.
 - [elizabethtrykin/8sleep-mcp](https://github.com/elizabethtrykin/8sleep-mcp): Access and control Eight Sleep Pod data and settings through a Model Context Protocol server.
 
-## 🏗️ Infrastructure
+## 🏛️ Infrastructure
 
 Servers or systems that deliver core runtime functionalities for MCP, such as proxying, aggregation, orchestration, hosting, routing, or acting as gateways.
 
