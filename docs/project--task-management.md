@@ -217,3 +217,4 @@ Servers integrating with project management and task tracking tools.
 - [noah-vh/mcp-server-clickup](https://github.com/noah-vh/mcp-server-clickup): Integrates ClickUp with a Model Context Protocol server to manage and summarize notes efficiently.
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro): Connects to the MIRO Whiteboard Application for board manipulation and bulk operations using the Model Context Protocol.
 
+- [TourAround/LystBot](https://github.com/TourAround/LystBot): AI-powered list management MCP server. Create grocery lists, todos, and packing lists, add items, check them off, and share lists with family. 10 MCP tools for the full list lifecycle. Free iOS + Android app at lystbot.com.
