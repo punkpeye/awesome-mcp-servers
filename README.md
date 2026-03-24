@@ -574,6 +574,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [leoncuhk/mcp-yahoo-finance](https://github.com/leoncuhk/mcp-yahoo-finance): Facilitates interaction with Yahoo Finance for retrieving financial data and generating visual analytics.
 - [Sifu213/monad-mcp-magiceden](https://github.com/Sifu213/monad-mcp-magiceden): Facilitates interaction with NFT data on the Monad testnet, offering insights into holder addresses, total NFT value, and trending collections by sales and volume.
 - [MCPxLabs/mcpsol](https://github.com/MCPxLabs/mcpsol): Facilitates AI-driven interactions with the Solana blockchain, enabling seamless execution of transactions and management of wallets through a standardized interface.
+- [shieldspprt/solhunt-recovery](https://github.com/shieldspprt/solhunt-recovery): Solana wallet health analysis and SOL recovery. Check wallet efficiency, find recoverable SOL from zero-balance token accounts, and build trustless recovery transactions.
 - [atompsv/my-red-envelope](https://github.com/atompsv/my-red-envelope): Facilitates querying MON token balances on the Monad testnet via an MCP server.
 - [lispking/monad-mcp-server](https://github.com/lispking/monad-mcp-server): Facilitates interactions with the Monad testnet, enabling token balance checks, transaction handling, and smart contract deployment.
 - [AyushRatan1/Onfinance-MCP-Polymarket](https://github.com/AyushRatan1/Onfinance-MCP-Polymarket): Facilitates real-time interaction with prediction markets using Claude Desktop and custom data analysis tools.
