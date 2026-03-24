@@ -655,6 +655,8 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [yincongcyincong/VictoriaMetrics-mcp-server](https://github.com/yincongcyincong/VictoriaMetrics-mcp-server) 🐍 🏠 - An MCP server for interacting with VictoriaMetrics database.
 - [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql) 🏎️ 🏠 – Easy to use, zero dependency MySQL MCP server built with Golang with configurable readonly mode and schema inspection.
 - [zilliztech/mcp-server-milvus](https://github.com/zilliztech/mcp-server-milvus) 🐍 🏠 ☁️ - MCP Server for Milvus / Zilliz, making it possible to interact with your database.
+- [AINative-Studio/ainative-zerodb-mcp-server](https://github.com/AINative-Studio/ainative-zerodb-mcp-server) 📇 ☁️ 🏠 - ZeroDB MCP Server — 77 tools for vector search, agent memory, NoSQL, PostgreSQL, file storage, embeddings, events, and quantum compression. All tools annotated with MCP readOnly/destructive hints. Hosted and local (stdio) transport.
+- [AINative-Studio/ainative-zerodb-memory-mcp](https://github.com/AINative-Studio/ainative-zerodb-memory-mcp) 📇 ☁️ 🏠 - ZeroDB Memory MCP — lightweight 6-tool server for persistent agent memory with semantic search, context management, and session tracking.
 - [wklee610/kafka-mcp](https://github.com/wklee610/kafka-mcp)[![kafka-mcp MCP server](https://glama.ai/mcp/servers/wklee610/kafka-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wklee610/kafka-mcp) 🐍 🏠 ☁️ - MCP server for Apache Kafka that allows LLM agents to inspect topics, consumer groups, and safely manage offsets (reset, rewind).
 
 ### 📊 <a name="data-platforms"></a>Data Platforms
