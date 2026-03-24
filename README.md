@@ -1591,6 +1591,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [Tianning-lab/property-comps-mcp-server](https://github.com/Tianning-lab/property-comps-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - Comparable property sales data across 11 global markets (UK, France, Dubai, Singapore, Taiwan, NYC, Miami, Connecticut, Philadelphia, Ireland, Chicago). 4.2M+ government-recorded transactions.
 
 ### 🔬 <a name="research"></a>Research
 
