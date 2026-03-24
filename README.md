@@ -785,6 +785,7 @@ Servers or systems that deliver core runtime functionalities for MCP, such as pr
 
 Servers connecting to personal knowledge bases, flashcard apps, building/querying knowledge graphs, or providing persistent memory for LLMs.
 
+- [Bpolat0/atlasmemory](https://github.com/Bpolat0/atlasmemory): Evidence-backed AI memory for codebases. Tree-sitter indexing (11 languages), proof system with line:hash anchors, token-budgeted context packs, drift detection, cross-session learning. 28 MCP tools, VS Code extension, zero config.
 - [gdcc/mcp-dataverse](https://github.com/gdcc/mcp-dataverse): Facilitates multilingual data integration and exploration in Dataverse using Croissant ML.
 - [digila/linear-mcp](https://github.com/digila/linear-mcp): A TypeScript-based MCP server for managing and summarizing text notes with URI-based access and LLM integration.
 - [xsp52Hz/cognigraph-mcp-server](https://github.com/xsp52Hz/cognigraph-mcp-server): CogniGraph MCP Server generates mind maps, relationship graphs, and knowledge graphs using CLI tools and AI analysis, compatible with various local MCP clients.
