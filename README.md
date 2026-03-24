@@ -313,7 +313,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
 Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
-
+- [Happy Thoughts](https://github.com/proteeninjector-max/happy-thoughts) ☁️ 💰 - Pay-per-thought AI second opinions for autonomous agents. POST /think with a prompt, pay 0.01–0.20 USDC via x402 on Base, get a routed expert response. Providers earn 70%.
 - [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - An MCP server implementation for 4EVERLAND Hosting enabling instant deployment of AI-generated code to decentralized storage networks like Greenfield, IPFS, and Arweave.
 - [aashari/mcp-server-aws-sso](https://github.com/aashari/mcp-server-aws-sso) 📇 ☁️ 🏠 - AWS Single Sign-On (SSO) integration enabling AI systems to securely interact with AWS resources by initiating SSO login, listing accounts/roles, and executing AWS CLI commands using temporary credentials.
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - upload and manipulation of IPFS storage
