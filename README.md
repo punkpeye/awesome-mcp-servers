@@ -862,6 +862,10 @@ Servers using mapping APIs, providing geolocation services, address lookups, or 
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [sharozdawa/ai-visibility](https://github.com/sharozdawa/ai-visibility): Track brand visibility across ChatGPT, Perplexity, Claude, and Gemini with visibility scores, sentiment analysis, and competitor detection.
+- [sharozdawa/indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp): Instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and Google Indexing API with sitemap parsing and key generation.
+- [sharozdawa/robotstxt-ai](https://github.com/sharozdawa/robotstxt-ai): Visual robots.txt manager for AI crawlers with toggle controls for 20+ bots including GPTBot, ClaudeBot, and PerplexityBot.
+- [sharozdawa/schema-gen](https://github.com/sharozdawa/schema-gen): Schema.org JSON-LD markup generator with 12 types (Person, Product, FAQ, Article, Organization, HowTo, etc.) and live preview.
 - [edupoli/zapdelivery](https://github.com/edupoli/zapdelivery): ZapDelivery API facilitates self-service delivery projects with an integrated MCP endpoint for seamless operations.
 - [Meerkats-Ai/rocketreach-mcp-server](https://github.com/Meerkats-Ai/rocketreach-mcp-server): Integrates with RocketReach API to provide email, phone number finding, and company enrichment capabilities.
 - [Meerkats-Ai/prospeo-mcp-server](https://github.com/Meerkats-Ai/prospeo-mcp-server): Integrates with the Prospeo API to provide email finding and LinkedIn profile enrichment capabilities.
