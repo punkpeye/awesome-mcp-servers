@@ -150,6 +150,7 @@
 
 การผสานรวมบริการแพลตฟอร์มคลาวด์ ช่วยให้สามารถจัดการและโต้ตอบกับโครงสร้างพื้นฐานและบริการคลาวด์
 
+- [mctlhq/mctl-mcp](https://github.com/mctlhq/mctl-mcp) [![mctl-mcp MCP server](https://glama.ai/mcp/servers/mctlhq/mctl-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mctlhq/mctl-mcp) ☁️ - แพลตฟอร์ม AI-native สำหรับการจัดการ Kubernetes และ GitOps อัตโนมัติ (30+ เครื่องมือ)
 - [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - MCP server สำหรับระบบนิเวศ Rancher รองรับการดำเนินงาน Kubernetes แบบหลายคลัสเตอร์ การจัดการ Harvester HCI (VM, storage, network) และเครื่องมือ Fleet GitOps
 - [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - ผสานการทำงานกับไลบรารี fastmcp เพื่อให้สามารถเข้าถึงฟังก์ชัน API ทั้งหมดของ NebulaBlock ได้ผ่านเครื่องมือ。
 
@@ -306,6 +307,7 @@
 - [Jktfe/serveMyAPI](https://github.com/Jktfe/serveMyAPI) 📇 🏠 🍎 - เซิร์ฟเวอร์ MCP (Model Context Protocol) ส่วนบุคคลสำหรับจัดเก็บและเข้าถึงคีย์ API อย่างปลอดภัยในโปรเจ็กต์ต่างๆ โดยใช้ macOS Keychain
 - [joshuarileydev/app-store-connect-mcp-server](https://github.com/JoshuaRileyDev/app-store-connect-mcp-server) 📇 🏠 - เซิร์ฟเวอร์ MCP เพื่อสื่อสารกับ App Store Connect API สำหรับนักพัฒนา iOS
 - [joshuarileydev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server) 📇 🏠 - เซิร์ฟเวอร์ MCP เพื่อควบคุม iOS Simulators
+- [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) [![Kapeli/dash-mcp-server MCP server](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server) 🐍 🏠 🍎 - เซิร์ฟเวอร์ MCP สำหรับ [Dash](https://kapeli.com/dash) แอปเรียกดูเอกสาร API บน macOS ค้นหาทันทีในชุดเอกสารกว่า 200 ชุด
 - [lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) 📇 🏠 🛠️ - เซิร์ฟเวอร์มิดเดิลแวร์ที่ช่วยให้อินสแตนซ์ที่แยกจากกันหลายอินสแตนซ์ของเซิร์ฟเวอร์ MCP เดียวกันสามารถอยู่ร่วมกันได้อย่างอิสระด้วยเนมสเปซและการกำหนดค่าที่ไม่ซ้ำกัน
 - [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) 🐍 🏠 - เซิร์ฟเวอร์ MCP เพื่อเข้าถึงและจัดการพรอมต์แอปพลิเคชัน LLM ที่สร้างด้วย [Langfuse]([https://langfuse.com/](https://langfuse.com/docs/prompts/get-started)) Prompt Management
 - [mrexodia/user-feedback-mcp](https://github.com/mrexodia/user-feedback-mcp) 🐍 🏠 - เซิร์ฟเวอร์ MCP อย่างง่ายเพื่อเปิดใช้งานเวิร์กโฟลว์ human-in-the-loop ในเครื่องมือเช่น Cline และ Cursor
@@ -540,6 +542,7 @@
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP ที่มุ่งเน้นความปลอดภัย ให้แนวทางความปลอดภัยและการวิเคราะห์เนื้อหาสำหรับตัวแทน AI
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - เซิร์ฟเวอร์ MCP สำหรับการรวม Ghidra กับผู้ช่วย AI ปลั๊กอินนี้ช่วยให้สามารถวิเคราะห์ไบนารีได้ โดยมีเครื่องมือสำหรับการตรวจสอบฟังก์ชัน การดีคอมไพล์ การสำรวจหน่วยความจำ และการวิเคราะห์การนำเข้า/ส่งออกผ่าน Model Context Protocol
 - [atomicchonk/roadrecon_mcp_server](https://github.com/atomicchonk/roadrecon_mcp_server) 🐍 🪟 🏠 – เซิร์ฟเวอร์ MCP สำหรับวิเคราะห์ผลการรวบรวม ROADrecon จากการแจงนับผู้เช่า Azure
+- [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับวิเคราะห์แพ็กเก็ตเครือข่าย Wireshark พร้อมความสามารถในการดักจับ สถิติโปรโตคอล การแยกฟิลด์ และการวิเคราะห์ความปลอดภัย
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – เซิร์ฟเวอร์ MCP (Model Context Protocol) ที่ปลอดภัย ช่วยให้ตัวแทน AI สามารถโต้ตอบกับแอปยืนยันตัวตนได้
 - [BurtTheCoder/mcp-dnstwist](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ dnstwist เครื่องมือ fuzzing DNS อันทรงพลังที่ช่วยตรวจจับการพิมพ์ผิด การฟิชชิ่ง และการจารกรรมองค์กร
 - [BurtTheCoder/mcp-maigret](https://github.com/BurtTheCoder/mcp-maigret) 📇 🪟 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ maigret เครื่องมือ OSINT อันทรงพลังที่รวบรวมข้อมูลบัญชีผู้ใช้จากแหล่งสาธารณะต่างๆ เซิร์ฟเวอร์นี้มีเครื่องมือสำหรับค้นหาชื่อผู้ใช้ในโซเชียลเน็ตเวิร์กและวิเคราะห์ URL
