@@ -59,4 +59,5 @@ Servers controlling hardware devices, interacting with embedded systems, serial 
 - [daikw/mcp-server-on-raspi](https://github.com/daikw/mcp-server-on-raspi): A Raspberry Pi-based MCP server for managing and summarizing notes with customizable prompts and note storage capabilities.
 - [miguelg719/home-assistant-mcp](https://github.com/miguelg719/home-assistant-mcp): Integrates with Home Assistant to enable smart home control through an MCP server, supporting functionalities like lighting, climate, and security system management.
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant): Facilitates seamless integration of Home Assistant with the Model Context Protocol for enhanced smart home automation.
+- [octoco-ltd/sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp): Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.
 

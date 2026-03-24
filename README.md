@@ -709,6 +709,7 @@ Servers controlling hardware devices, interacting with embedded systems, serial 
 - [amanasmuei/mcp-server-nodemcu](https://github.com/amanasmuei/mcp-server-nodemcu): Manage and control NodeMCU IoT devices with real-time communication and AI integration using the Model Context Protocol.
 - [zerubeus/elektron-mcp](https://github.com/zerubeus/elektron-mcp): Facilitates interaction between LLMs and Elektron synthesizers via MIDI for real-time sound control and design.
 - [noboru-i/nature-remo-mcp-server](https://github.com/noboru-i/nature-remo-mcp-server): Facilitates automation and management of Nature Remo devices through the Model Context Protocol SDK.
+- [octoco-ltd/sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp): Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.
 
 ## ❤️ Healthcare & Life Sciences
 
