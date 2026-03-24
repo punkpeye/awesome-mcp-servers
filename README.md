@@ -1317,6 +1317,7 @@ Control smart home devices, home network equipment, and automation systems.
 
 - [apiarya/wemo-mcp-server](https://github.com/apiarya/wemo-mcp-server) - [![wemo-mcp-server MCP server](https://glama.ai/mcp/servers/@apiarya/wemo-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@apiarya/wemo-mcp-server) 🐍 🏠 🍎 🪟 🐧 - Control WeMo smart home devices via AI assistants using natural language. Built on pywemo for 100% local control — no cloud dependency. Supports dimmer brightness, device rename, HomeKit codes, and multi-phase discovery.
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
+- [zemloai-ctrl/elecz-api](https://github.com/zemloai-ctrl/elecz-api) [![zemloai-ctrl/elecz-api MCP server](https://glama.ai/mcp/servers/zemloai-ctrl/elecz-api/badges/score.svg)](https://glama.ai/mcp/servers/zemloai-ctrl/elecz-api) 📇 ☁️ - Real-time Nordic electricity spot prices and decision signals for AI agents.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
