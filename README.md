@@ -857,6 +857,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [simplypixi/bugbug-mcp-server](https://github.com/simplypixi/bugbug-mcp-server) ☁️ - MCP for BugBug API, to manage test and suites on BugBug
 - [skullzarmy/vibealive](https://github.com/skullzarmy/vibealive) 📇 🏠 🍎 🪟 🐧 — Full-featured utility to test Next.js projects for unused files and APIs, with an MCP server that exposes project analysis tools to AI assistants.
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - Connect any HTTP/REST API server using an Open API spec (v3)
+- [rixinhahaha/snip](https://github.com/rixinhahaha/snip) 📇 🏠 🍎 🐧 - Visual whiteboard between you and your AI agent. Agents render diagrams, HTML, or images through Snip; you approve or annotate directly on the output; the agent gets structured feedback and iterates. Also a standalone screenshot tool with annotation and local AI organization.
 - [softvoyagers/linkshrink-api](https://github.com/softvoyagers/linkshrink-api) 📇 ☁️ - Free privacy-first URL shortener API with analytics and link management. No API key required.
 - [softvoyagers/ogforge-api](https://github.com/softvoyagers/ogforge-api) 📇 ☁️ - Free Open Graph image generator API with themes, Lucide icons, and custom layouts. No API key required.
 - [softvoyagers/pagedrop-api](https://github.com/softvoyagers/pagedrop-api) 📇 ☁️ - Free instant HTML hosting API with paste, file upload, and ZIP deploy support. No API key required.
