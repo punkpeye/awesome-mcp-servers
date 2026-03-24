@@ -1132,6 +1132,7 @@ Servers providing web search capabilities or interfacing with specialized search
 Servers interacting with security tools and platforms, vulnerability databases, security scanning, network security tools, or identity management.
 
 - [Rul1an/assay](https://github.com/Rul1an/assay): The firewall for MCP tool calls. Deterministic policy enforcement proxy with replayable evidence bundles, OWASP MCP Top 10 coverage (7/10), and compliance packs. MIT licensed.
+- [ClawSec](https://clawsec.cc): Security audit platform for MCP servers and AI agent skills. 5-tier analysis pipeline — static analysis, pattern matching, LLM semantic review, Firecracker sandbox execution, and LLM audit — detects malicious patterns, data exfiltration, and prompt injection. Database of 30,000+ audited skills with Trust Scores. Companion tool [ClawSearch](https://clawsearch.cc) provides safe skill discovery with security ratings.
 - [Chill-AI-Space/vault-mcp](https://github.com/Chill-AI-Space/vault-mcp): MCP server for credential isolation — agents use passwords and API keys without seeing them in context. AES-256-GCM encryption, Chrome CDP login, API key proxy, tamper-proof audit trail.
 - [ark-forge/mcp-eu-ai-act](https://github.com/ark-forge/mcp-eu-ai-act): Scans codebases for AI framework usage (16 frameworks) and checks compliance against EU AI Act requirements. Features 4-tier risk categorization, GDPR compliance checking, report generation, and compliance document templates.
 
