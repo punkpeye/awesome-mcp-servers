@@ -1441,6 +1441,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [whynowlab/jarvis-orb](https://github.com/whynowlab/jarvis-orb) [![whynowlab/jarvis-orb MCP server](https://glama.ai/mcp/servers/whynowlab/jarvis-orb/badges/score.svg)](https://glama.ai/mcp/servers/whynowlab/jarvis-orb) 🐍 🏠 - Persistent 4-tier AI memory (episodic, semantic, project, procedural) with temporal scoring, contradiction detection, entity tracking, and real-time desktop visualization orb.
 - [teolex2020/AuraSDK](https://github.com/teolex2020/AuraSDK) [![teolex2020-aurasdk MCP server](https://glama.ai/mcp/servers/teolex2020-aurasdk/badges/score.svg)](https://glama.ai/mcp/servers/teolex2020-aurasdk) 🐍 🏠 — Persistent cognitive memory for Claude Desktop. Sub-ms recall, offline, encrypted.
 - [arthurpanhku/Arthor-Agent](https://github.com/arthurpanhku/Arthor-Agent) [![arthor-agent MCP server](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent/badges/score.svg)](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent) 🐍 🏠 ☁️ - ...
+- [Chronica](https://github.com/Nic9dev/Chronica) - Persistent memory MCP server for Claude Desktop. Stores structured memories in SQLite, with a Streamlit curation UI for token management. [![Glama](https://glama.ai/mcp/servers/Nic9dev/Chronica/badge)](https://glama.ai/mcp/servers/Nic9dev/Chronica)
 
 ### ⚖️ <a name="legal"></a>Legal
 
