@@ -995,6 +995,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [reading-plus-ai/mcp-server-data-exploration](https://github.com/reading-plus-ai/mcp-server-data-exploration) 🐍 ☁️ - Enables autonomous data exploration on .csv-based datasets, providing intelligent insights with minimal effort.
 - [98lukehall/renoun-mcp](https://github.com/98lukehall/renoun-mcp) [![renoun-mcp MCP server](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp) 🐍 ☁️ - Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence across 17 channels without analyzing content.
 - [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) 💎 🏠 - Enables agents to query local information about dependencies in a Ruby project's `Gemfile`.
+- - [Talk2Data InsightGenius](https://spss.insightgenius.io) 🐍 ☁️ - Professional SPSS processing: crosstabs with significance testing, auto-detect, zero-config analysis, Excel export. Upload .sav/.csv/.xlsx, get publication-ready market research deliverables.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
