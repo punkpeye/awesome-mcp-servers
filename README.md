@@ -1322,6 +1322,7 @@ Control smart home devices, home network equipment, and automation systems.
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
+- [GuyMannDude/mnemo-cortex](https://github.com/GuyMannDude/mnemo-cortex) 🐍 🏠 - Persistent memory coprocessor for AI agents. SQLite+FTS5, semantic search, 80% compression via active compaction, DAG-based summary lineage. 60-second install for Claude Code, OpenClaw integration included. Runs on local Ollama ($0) or any provider.
 - [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI Summarization MCP Server, Support for multiple content types: Plain text, Web pages, PDF documents, EPUB books, HTML content
 - [timmx7/acheron-mcp-server](https://github.com/timmx7/acheron-mcp-server) [![acheron-mcp-server MCP server](https://glama.ai/mcp/servers/timmx7/acheron-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/timmx7/acheron-mcp-server) 📇 🏠 - Cross-surface persistent memory for Claude. Bridges context between Claude Chat, Code, and Cowork via local SQLite with full-text search. Save decisions, preferences, and insights in one surface, retrieve them in any other.
 - [20alexl/mini_claude](https://github.com/20alexl/mini_claude) 🐍 🏠 - Persistent memory and guardrails for Claude Code. Features mistake tracking, loop detection, scope guard, and hooks that block risky edits. Runs locally with Ollama.
