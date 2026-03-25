@@ -1032,6 +1032,7 @@ MCP servers for learning management systems (LMS) and educational tools.
 MCP servers for e-commerce platforms and online store management.
 
 - [lofder/dsers-mcp-product](https://github.com/lofder/dsers-mcp-product) [![dsers-mcp-product MCP server](https://glama.ai/mcp/servers/lofder/dsers-mcp-product/badges/score.svg)](https://glama.ai/mcp/servers/lofder/dsers-mcp-product) 📇 ☁️ - Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix via DSers. Bulk import, variant editing, pricing rules, and multi-store push with a single command.
+- [minute_contest/webflow-mcp-server](https://apify.com/minute_contest/webflow-mcp-server) 📇 ☁️ - Apify-hosted MCP server for Webflow with 22+ tools. Sites, CMS collections, pages, content management, and publishing. No local setup needed.
 - [the402ai/mcp-server](https://github.com/the402ai/mcp-server) [![the402ai/mcp-server MCP server](https://glama.ai/mcp/servers/the402ai/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/the402ai/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - AI agent service marketplace with x402 micropayments (USDC on Base). 30 tools for browsing services, purchasing, managing conversation threads, listing services as a provider, handling subscriptions, and tracking earnings. Install via `npx -y @the402/mcp-server`.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
