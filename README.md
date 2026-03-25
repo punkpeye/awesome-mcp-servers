@@ -1310,6 +1310,7 @@ Integration with gaming related data, game engines, and services
 - [tomholford/mcp-tic-tac-toe](https://github.com/tomholford/mcp-tic-tac-toe) 🏎️ 🏠 - Play Tic Tac Toe against an AI opponent using this MCP server.
 - [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) 📇 🏠 🍎 🪟 🐧 - Premium MCP server for Godot game engine with 84 tools for scene editing, scripting, animation, tilemap, shader, input simulation, and runtime debugging.
 - [HadiCherkaoui/crafty-mcp](https://github.com/HadiCherkaoui/crafty-mcp) [![HadiCherkaoui/crafty-mcp MCP server](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp) 📇 🏠 🍎 🪟 🐧 - MCP server for managing Minecraft servers through [Crafty Controller 4](https://craftycontrol.com). Start, stop, backup, send commands, manage files, schedules, webhooks, and users via the Crafty API.
+- [HurtzDonutStudios/ai-forge-mcp](https://github.com/HurtzDonutStudios/ai-forge-mcp) 🐍 🏠 🍎 🪟 - Full-pipeline orchestration layer controlling Blender, Substance Painter, Substance Designer, Substance Sampler, and Unreal Engine 5. 250 AI-callable tools across 10 MCP servers for automated AAA game asset production. Includes AI rigging, animation, NPC dialogue, lipsync, and UE5 delivery.
 
 ### 🏠 <a name="home-automation"></a>Home Automation
 
