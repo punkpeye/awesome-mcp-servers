@@ -40,6 +40,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+* [The MCP Handbook](https://github.com/ypollak2/mcp-handbook) - The missing developer guide for MCP — from hello world to production. Covers architecture patterns, security, testing, and deployment with runnable TypeScript and Python examples.
 
 ## Community
 
