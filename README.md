@@ -1139,6 +1139,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [isnow890/naver-search-mcp](https://github.com/isnow890/naver-search-mcp): Facilitates comprehensive search and data trend analysis across Naver services using the Naver Search and DataLab APIs.
 - [uju777/coupang-mcp](https://github.com/uju777/coupang-mcp): MCP server for Coupang (Korea's largest e-commerce) product search with Rocket Delivery filtering and affiliate link generation.
 - [uju777/mcp-server-naver-search](https://github.com/uju777/mcp-server-naver-search): MCP server for Naver Search (Shopping, Cafe, News). Essential for Korean users.
+- [shopsavvy/shopsavvy-mcp-server](https://github.com/shopsavvy/shopsavvy-mcp-server): Real-time product pricing, price history, and shopping tools across thousands of retailers. Free tier, no signup required.
 - [Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack): Open-source supply chain for AI agents — search and discover 3,000+ indie creations across 25 categories. 15 MCP tools including find_tools, build_stack, scan_project, compare_tools, and analyze_dependencies. Install via `uvx --from indiestack indiestack-mcp`.
 
 - [entire-vc/evc-spark-mcp](https://github.com/entire-vc/evc-spark-mcp): MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog - search 200+ tools, get install configs, browse curated bundles.
