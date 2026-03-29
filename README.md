@@ -615,6 +615,7 @@ Servers dealing with financial data, stock markets, cryptocurrency exchanges/dat
 - [LPXPoly MCP](https://github.com/unixlamadev-spec/lpxpoly-mcp) - AI-powered Polymarket analysis via Bitcoin Lightning micropayments. Find edge opportunities, analyze markets, get trading signals. Pay per analysis in sats.
 - [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402): A curated directory of x402 payment protocol MCP servers, tools, and resources for HTTP-native cryptocurrency payments using USDC on Base, Arbitrum, and other EVM chains.
 - [arcadia-finance/mcp-server](https://github.com/arcadia-finance/mcp-server): Manage Uniswap and Aerodrome liquidity positions with leverage, tomated rebalancing, and yield optimization on Base and Unichain.
+- [whitmorelabs/polymarket-mcp](https://github.com/whitmorelabs/polymarket-mcp): Trading intelligence tools for Polymarket prediction markets: slippage estimation, liquidity depth scanning, arbitrage detection, multi-source price feeds, and on-chain wallet intelligence.
 
 ## 🧰 Frameworks
 
