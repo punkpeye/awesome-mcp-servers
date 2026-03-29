@@ -952,6 +952,7 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 - [naveen09/mcp_pagerduty](https://github.com/naveen09/mcp_pagerduty): Facilitates PagerDuty integration for on-call management queries via an MCP server, compatible with Claude.
 - [brunoborges/jvm-diagnostics-mcp](https://github.com/brunoborges/jvm-diagnostics-mcp): Enhances JVM diagnostic tools with a user-friendly prompt and exposes them via an MCP server for local use.
 - [gkhays/mcp-sbom-server](https://github.com/gkhays/mcp-sbom-server): Generates a Software Bill of Materials (SBOM) using Trivy scans, outputting in CycloneDX format.
+- [smigolsmigol/llmkit](https://github.com/smigolsmigol/llmkit): AI cost tracking and budget enforcement MCP server with 11 tools for monitoring spend, session costs, and token usage across Claude Code, Cursor, and Cline.
 
 ## 🖼️ Multimedia Processing
 
