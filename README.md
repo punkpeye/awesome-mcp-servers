@@ -486,6 +486,7 @@ Servers providing interfaces to various database types like SQL, NoSQL, Vector D
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [rendoc](https://github.com/yoryocoruxo-ai/rendoc) - Generate professional PDF documents from HTML templates and dynamic data via MCP. Features template management, live preview, and usage tracking through rendoc.dev API.
 - [CristianCiubancan/sequentialthinking](https://github.com/CristianCiubancan/sequentialthinking): Facilitates dynamic problem-solving through structured, step-by-step thinking processes.
 - [hyperpolymath/boj-server](https://github.com/hyperpolymath/boj-server): Unified MCP server with 40+ tools covering GitHub, GitLab, Cloudflare, Vercel, Gmail, Calendar, browser automation, research, ML, and 50+ pluggable cartridges for extensible developer workflows.
 - [gethopp/figma-mcp-bridge](https://github.com/gethopp/figma-mcp-bridge): Bypasses Figma API rate limits by streaming live Figma document data to AI tools through a WebSocket-based plugin-server bridge with leader election and multi-instance management.
