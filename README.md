@@ -1200,6 +1200,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [javaDer/mcp-sentry-custom](https://github.com/javaDer/mcp-sentry-custom): Facilitates the retrieval and analysis of issues from Sentry, providing detailed insights into error reports and debugging information.
 - [auth0/auth0-mcp-server](https://github.com/auth0/auth0-mcp-server): Facilitates natural language-driven management of Auth0 operations through integration with LLMs and AI agents.
 - [bornpresident/MISP-MCP-SERVER](https://github.com/bornpresident/MISP-MCP-SERVER): Integrates with MISP to enhance threat intelligence capabilities for Large Language Models.
+- [bottobot/defense-mcp-server](https://github.com/bottobot/defense-mcp-server): 31 defensive security tools with 250+ actions for Linux system hardening, compliance auditing, firewall management, vulnerability scanning, and incident response. Dry-run by default.
 - [JithukrishnanV/MCP-CyberAgent](https://github.com/JithukrishnanV/MCP-CyberAgent): MCP-CyberAgent connects Claude Desktop with cybersecurity tools like VirusTotal, Nmap, and Shodan for AI-driven threat detection and network analysis.
 - [gleicon/mcp-osv](https://github.com/gleicon/mcp-osv): Facilitates code security reviews by integrating with OSV.dev and AI models to identify vulnerabilities.
 - [enkryptai/enkryptai-mcp-server](https://github.com/enkryptai/enkryptai-mcp-server): Integrate red-teaming, prompt auditing, and AI safety analysis into any MCP-compatible client with Enkrypt AI MCP Server.
