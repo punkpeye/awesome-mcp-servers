@@ -1144,6 +1144,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [p1atdev/code_search_mcp](https://github.com/p1atdev/code_search_mcp): Facilitates code search functionality through an MCP server setup, enabling efficient code retrieval and analysis.
 - [SebastianBoehler/domain-check-mcp](https://github.com/SebastianBoehler/domain-check-mcp): Facilitates domain availability checks and recommendations using IONOS endpoints.
 - [Glitchfix/mcp-duckduckgo](https://github.com/Glitchfix/mcp-duckduckgo): Enables LLMs to perform web searches and content retrieval using DuckDuckGo without API keys.
+- [supertrained/rhumb](https://github.com/supertrained/rhumb): Discover, evaluate, and execute 695+ external APIs for AI agents with AN Score trust ratings across 86 categories. Zero-signup discovery, three credential modes, and 16 MCP tools for finding and comparing services.
 - [mcp-for-dev/mcp-google-search](https://github.com/mcp-for-dev/mcp-google-search): Facilitates web search and content extraction using Google Custom Search API, providing structured results for enhanced data retrieval.
 - [302ai/302_web_search_mcp](https://github.com/302ai/302_web_search_mcp): Facilitates web search integration with Claude Desktop through a configurable MCP server.
 - [Furafrafrfr/googler](https://github.com/Furafrafrfr/googler): Facilitates Google searches and compiles results using Gemini for command-line use.
