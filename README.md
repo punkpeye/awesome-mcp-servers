@@ -264,6 +264,7 @@ Servers integrating with major cloud providers or specific cloud services.
 
 Servers focused on static analysis, linting, code metrics, security scanning, vulnerability checks, or code quality assessment.
 
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp): Fastest code intelligence MCP server — indexes the Linux kernel (28M LOC) in 3 minutes, answers structural queries in <1ms. Builds a persistent knowledge graph with call chains, HTTP routes, and cross-service links across 66 languages. 120x fewer tokens. Single static binary, plug-and-play across 10 coding agents.
 - [dhylan01/MCP_OA](https://github.com/dhylan01/MCP_OA): Facilitates AI assistants in analyzing code by identifying function usage within Python and TypeScript/TSX files.
 - [angrysky56/ast-mcp-server](https://github.com/angrysky56/ast-mcp-server): Provides code structure and semantic analysis using AST and ASG for multiple programming languages, enhancing code analysis capabilities in Claude Desktop.
 - [joaomj/code-reviewer-mcp](https://github.com/joaomj/code-reviewer-mcp): Automated GitHub pull request code reviews using AI models via MCP integration.
