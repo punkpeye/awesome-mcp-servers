@@ -524,6 +524,7 @@ Servers enhancing developer workflows, integrating with IDEs, accessing document
 - [rm-rf-prod/GroundTruth-MCP](https://github.com/rm-rf-prod/GroundTruth-MCP): Self-hosted MCP server for live documentation, code audits, and best practices. 363+ curated libraries with npm/PyPI/crates.io/Go fallback, 100+ audit patterns across 18 categories with file:line locations and live fixes. No rate limits.
 - [saurav61091/mcp-openapi](https://github.com/saurav61091/mcp-openapi): Turn any OpenAPI 3.x spec into MCP tools for Claude — zero config, instant API access.
 
+- [mcp-lint](https://github.com/robert19001-cmyk/mcp-lint): CLI linting tool that validates MCP server tool schemas for cross-client compatibility across Claude, Cursor, Gemini, and VS Code Copilot. Features 13 rules, auto-fix for safe issues, JSON/Markdown output, and support for static files and live MCP servers via stdio/SSE.
 ## 📁 Filesystems
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
