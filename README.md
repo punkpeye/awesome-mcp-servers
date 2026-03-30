@@ -154,6 +154,7 @@ Servers interacting with APIs for museums, media databases, image/video hosting,
 
 Servers using tools for browser control, automation, and extracting content from websites.
 
+- [Custodia-Admin/pagebolt-mcp](https://github.com/Custodia-Admin/pagebolt-mcp): Provides hosted web capture and browser automation via REST API and MCP. Supports screenshot, PDF, OG image, multi-step sequences, AI-narrated video recording, and page inspection (CSS selectors + element maps for AI agents). Works natively in Claude Desktop, Cursor, and Windsurf.
 - [giannisalinetti/python-mcp-server](https://github.com/giannisalinetti/python-mcp-server): Facilitates Python code execution for web scraping tasks using an LLM, leveraging Podman for container management.
 - [mhazarabad/browser-use-mcp](https://github.com/mhazarabad/browser-use-mcp): Automates browser tasks using the Browser Use API, offering task management and monitoring capabilities.
 - [1999AZZAR/mcp-server-google-search](https://github.com/1999AZZAR/mcp-server-google-search): Facilitates Google Programmable Search Engine queries through a structured MCP server interface, enhancing integration with Claude Desktop.
