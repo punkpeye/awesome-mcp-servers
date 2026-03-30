@@ -925,6 +925,10 @@ Servers integrating with CRM platforms, marketing analytics, customer data platf
 - [brandu-mos/konquest-meta-ads-mcp](https://github.com/brandu-mos/konquest-meta-ads-mcp): Supervised Meta Ads operating system for Claude Code with 57 tools for campaign management, multi-asset ads, targeting, pixel diagnostics, catalogs, and safety gates.
 - [BlockchainHB/launchfastmcp-skills](https://github.com/BlockchainHB/launchfastmcp-skills): Amazon FBA research tools for Claude Code. Includes product research with opportunity scoring, PPC keyword research with bulk upload CSV generation, Alibaba supplier outreach automation, and IP/trademark checks via Launch Fast MCP.
 
+- [teamsincetoday/podcast-commerce-mcp](https://github.com/teamsincetoday/podcast-commerce-mcp): Extracts affiliate products, sponsor mentions, and shoppable recommendations from podcast episodes using AI-powered content intelligence. Features cross-show product comparison and show notes generation.
+- [teamsincetoday/newsletter-commerce-mcp](https://github.com/teamsincetoday/newsletter-commerce-mcp): Extracts shoppable products and sponsor mentions from newsletter editions using AI-powered content intelligence. Generates affiliate-ready product sections for newsletters.
+- [teamsincetoday/recipe-commerce-mcp](https://github.com/teamsincetoday/recipe-commerce-mcp): Extracts affiliate-ready product recommendations from recipe content using AI-powered ingredient and kitchen tool analysis. Remote Streamable HTTP endpoint on Cloudflare Workers.
+
 ## 📡 Monitoring & Observability
 
 Servers connecting to monitoring systems, logging platforms, or providing system/application performance metrics.
