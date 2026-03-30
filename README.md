@@ -1139,6 +1139,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [jindasy/mcp-news](https://github.com/jindasy/mcp-news): Facilitates news article retrieval through a FastMCP server utilizing NewsAPI.org for keyword, date range, and source-based searches.
 - [jmchat/mcp-search-console-ts](https://github.com/jmchat/mcp-search-console-ts): Manage Google Search Console properties, sitemaps, and search analytics via a Model Context Protocol server.
 - [OEvortex/ddg_search](https://github.com/OEvortex/ddg_search): A privacy-focused MCP server that leverages DuckDuckGo for efficient web search and URL content extraction.
+- [wd041216-bit/cross-validated-search](https://github.com/wd041216-bit/cross-validated-search): Evidence-aware search, page reading, and claim verification for AI agents with CLI, MCP, and skill surfaces for Gemini, Claude Code, Manus, and OpenClaw.
 - [BochaAI/bocha-search-mcp](https://github.com/BochaAI/bocha-search-mcp): Bocha Search MCP Server empowers AI applications with high-quality knowledge from billions of web pages and diverse content sources, enhancing search capabilities across multiple domains.
 - [nitish-raj/searxng-mcp-bridge](https://github.com/nitish-raj/searxng-mcp-bridge): Facilitates search operations by bridging MCP clients with a SearxNG instance.
 - [mytechnotalent/RAG_MCP](https://github.com/mytechnotalent/RAG_MCP): A semantic PDF search server utilizing OCR, FAISS, and transformers for intelligent query responses.
