@@ -1203,6 +1203,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 
 - [operantlabs/operant-mcp](https://github.com/operantlabs/operant-mcp): Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment. Install via `npx operant-mcp`.
 
+- [shadoprizm/cyberlens-mcp-server](https://github.com/shadoprizm/cyberlens-mcp-server): Security scanning MCP server for AI assistants — scan websites for missing headers and HTTPS issues, scan GitHub repos for secrets and CVE vulnerabilities, and scan Claw Hub skills for malicious code before installing. Free tier with local quick-scan (no account needed). `npx -y @shadoprizm/cyberlens-mcp-server`
 ## 📱 Social Media & Content Platforms
 
 Servers interacting with social networks, content platforms, or feed aggregators.
