@@ -997,6 +997,7 @@ Servers focused on generating or manipulating images, processing video, audio tr
 - [falahgs/image-gen3-google-mcp-server](https://github.com/falahgs/image-gen3-google-mcp-server): Harness Google's Imagen 3.0 model via the Gemini API for high-quality image generation, seamlessly integrating with Claude Desktop and other MCP-compatible hosts.
 - [transloadit/node-sdk](https://github.com/transloadit/node-sdk/tree/main/packages/mcp-server): Agent-native media processing via Transloadit's 86+ Robots, supporting video encoding, image manipulation, document conversion, OCR, and speech transcription. Hosted or self-hosted via npx.
 - [fasuizu-br/speech-ai-examples](https://github.com/fasuizu-br/speech-ai-examples): Speech AI MCP server with pronunciation assessment (phoneme-level scoring, 17MB model, <300ms), text-to-speech, and speech-to-text. 8 tools for AI agents building language learning, accessibility, and voice applications.
+- [ssembleinc/ssemble-mcp-server](https://github.com/ssembleinc/ssemble-mcp-server) - Create AI-generated short-form video clips from YouTube with captions, music, gameplay overlays, meme hooks, and viral scoring.
 
 ## 🖥️ Operating System & Command Line
 
