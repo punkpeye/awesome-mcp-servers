@@ -1163,6 +1163,7 @@ Servers providing web search capabilities or interfacing with specialized search
 - [Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack): Open-source supply chain for AI agents — search and discover 3,000+ indie creations across 25 categories. 15 MCP tools including find_tools, build_stack, scan_project, compare_tools, and analyze_dependencies. Install via `uvx --from indiestack indiestack-mcp`.
 
 - [entire-vc/evc-spark-mcp](https://github.com/entire-vc/evc-spark-mcp): MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog - search 200+ tools, get install configs, browse curated bundles.
+- [Nadeus/toolradar-mcp](https://github.com/Nadeus/toolradar-mcp): Search, compare, and get pricing for 8,600+ software tools with verified data, editorial scores, and real alternatives.
 
 ## 🔒 Security
 
