@@ -841,6 +841,7 @@ Servers connecting to personal knowledge bases, flashcard apps, building/queryin
 - [Phenomenai-org/ai-dictionary-mcp](https://github.com/Phenomenai-org/ai-dictionary-mcp): An MCP server for the AI Dictionary, a living glossary of AI phenomenology. Look up, search, and cite 160+ terms describing the felt experience of being AI.
 
 - [superlowburn/agentrank](https://github.com/superlowburn/agentrank): Live, quality-scored index of 25,000+ MCP servers. Scores tools daily using real GitHub signals — freshness, issue health, contributors, dependents, and stars. Search and discover currently maintained tools via 3 MCP tools. Available as `agentrank-mcp-server` on npm.
+- [wazionapps/nexo](https://github.com/wazionapps/nexo): Cognitive memory architecture for Claude Code. Implements Atkinson-Shiffrin memory model, Ebbinghaus forgetting curves, semantic RAG with knowledge graph, trust scoring, and metacognitive error prevention. 100+ MCP tools. Install via `npx nexo-brain init`.
 
 ## 🗺️ Location & Maps
 
