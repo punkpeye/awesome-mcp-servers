@@ -1214,6 +1214,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit): Kernel-level governance MCP server for AI agents — enforces deterministic policies (tool filtering, budget caps, rate limits, audit logging) instead of prompt-based guardrails. Part of microsoft/agent-lightning (14k★). Run via `npx agentos-mcp-server`.
 
 - [operantlabs/operant-mcp](https://github.com/operantlabs/operant-mcp): Security testing MCP server with 51 tools for penetration testing, network forensics, memory analysis, and vulnerability assessment. Install via `npx operant-mcp`.
+- [scopeblind/scopeblind-gateway](https://github.com/scopeblind/scopeblind-gateway): Security gateway for MCP servers — per-tool policies (Cedar + JSON), Ed25519-signed decision receipts, human approval gates, trust tiers. Shadow mode by default. Install via `npx protect-mcp`.
 
 - [shadoprizm/cyberlens-mcp-server](https://github.com/shadoprizm/cyberlens-mcp-server): Security scanning MCP server for AI assistants — scan websites for missing headers and HTTPS issues, scan GitHub repos for secrets and CVE vulnerabilities, and scan Claw Hub skills for malicious code before installing. Free tier with local quick-scan (no account needed). `npx -y @shadoprizm/cyberlens-mcp-server`
 ## 📱 Social Media & Content Platforms
