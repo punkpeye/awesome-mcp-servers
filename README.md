@@ -1771,6 +1771,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔒 <a name="security"></a>Security
 
+-[srisowmya2000/mcp-shield](https://github.com/srisowmya2000/mcp-shield) 🐍 🏠 - Security runtime for MCP servers — policy enforcement, SSRF/secret-theft blocking, audit logging, hardened Docker sandbox, Firecracker microVM backend, risk scoring, real-time dashboard, and CLI. `pip install mcpshield-runtime`
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - MCP server for integrating Ghidra with AI assistants. This plugin enables binary analysis, providing tools for function inspection, decompilation, memory exploration, and import/export analysis via the Model Context Protocol.
 - [82ch/MCP-Dandan](https://github.com/82ch/MCP-Dandan) 🐍 📇 🏠 🍎 🪟 🐧 - Real-time security framework for MCP servers that detects and blocks malicious AI agent behavior by analyzing tool call patterns and intent across multiple threat detection engines.
 - [MARUCIE/authbox](https://github.com/MARUCIE/authbox) [![authbox MCP server](https://glama.ai/mcp/servers/MARUCIE/authbox/badges/score.svg)](https://glama.ai/mcp/servers/MARUCIE/authbox) 📇 🏎️ 🏠 🍎 🪟 🐧 - Zero-knowledge password manager with MCP credential gateway. BIP-39 seed phrase recovery, deterministic passwords, policy-gated AI agent access (scope, rate limits, time windows, step-up approval), 70+ API key providers, and hash-chain audit trail. Go + Next.js + TypeScript.
