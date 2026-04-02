@@ -1033,6 +1033,7 @@ MCP servers for learning management systems (LMS) and educational tools.
 
 MCP servers for e-commerce platforms and online store management.
 
+- [roger52027/ecommerce-website-data](https://github.com/roger52027/ecommerce-website-data) 🐍 ☁️ - Query GMV, traffic, tech stack, LinkedIn contacts, and historical analytics for 10M+ e-commerce stores via [ECcompass](https://eccompass.ai). Supports search by platform, country, GMV range, and more.
 - [lofder/dsers-mcp-product](https://github.com/lofder/dsers-mcp-product) [![dsers-mcp-product MCP server](https://glama.ai/mcp/servers/lofder/dsers-mcp-product/badges/score.svg)](https://glama.ai/mcp/servers/lofder/dsers-mcp-product) 📇 ☁️ - Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix via DSers. Bulk import, variant editing, pricing rules, and multi-store push with a single command.
 - [the402ai/mcp-server](https://github.com/the402ai/mcp-server) [![the402ai/mcp-server MCP server](https://glama.ai/mcp/servers/the402ai/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/the402ai/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - AI agent service marketplace with x402 micropayments (USDC on Base). 30 tools for browsing services, purchasing, managing conversation threads, listing services as a provider, handling subscriptions, and tracking earnings. Install via `npx -y @the402/mcp-server`.
 
