@@ -1021,7 +1021,7 @@ MCP servers for learning management systems (LMS) and educational tools.
 MCP servers for e-commerce platforms and online store management.
 
 - [lofder/dsers-mcp-product](https://github.com/lofder/dsers-mcp-product) [![dsers-mcp-product MCP server](https://glama.ai/mcp/servers/lofder/dsers-mcp-product/badges/score.svg)](https://glama.ai/mcp/servers/lofder/dsers-mcp-product) 📇 ☁️ - Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix via DSers. Bulk import, variant editing, pricing rules, and multi-store push with a single command.
-- [rothy/intelligence-api](https://intelligence-api-production-f532.up.railway.app) 📇 ☁️ - E-commerce and business intelligence MCP server. Analyze any Shopify store, research Amazon products with Opportunity Score and FBA profitability estimates, and find qualified sales leads from Google Maps with Lead Quality Scoring. Pay-per-call via x402 (USDC on Base).
+- [samrothschild23/intelligence-api](https://github.com/samrothschild23/intelligence-api) 📇 ☁️ - E-commerce and business intelligence MCP server. Analyze any Shopify store, research Amazon products with Opportunity Score and FBA profitability estimates, and find qualified sales leads from Google Maps with Lead Quality Scoring. Pay-per-call via x402 (USDC on Base).
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
