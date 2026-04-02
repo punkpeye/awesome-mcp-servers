@@ -451,6 +451,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [wende/cicada](https://github.com/wende/cicada) 🐍 🏠 🍎 🪟 🐧 - Code Intelligence for Elixir: module search, function tracking, and PR attribution through tree-sitter AST parsing
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇 🏠 🍎 🪟 🐧 - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files.
 - [x51xxx/codex-mcp-tool](https://github.com/x51xxx/codex-mcp-tool) 📇 ☁️ - MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
+- [xiaolai/codex-octopus](https://github.com/xiaolai/codex-octopus) 📇 🏠 🍎 🪟 🐧 - Spawn multiple specialized Codex agents as MCP servers via the Codex SDK. Each instance gets its own model, sandbox, effort, and personality. Supports per-invocation overrides, session continuity, and a factory wizard.
 - [x51xxx/copilot-mcp-server](https://github.com/x51xxx/copilot-mcp-server) 📇 ☁️ - MCP server that connects your IDE or AI assistant to GitHub Copilot CLI for code analysis, review, and batch processing
 ### 🖥️ <a name="command-line"></a>Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
