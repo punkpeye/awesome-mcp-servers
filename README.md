@@ -1080,6 +1080,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - Risk score / asset holdings of EVM blockchain address (EOA, CA, ENS) and even domain names.
 - [unixlamadev-spec/aiprox-mcp](https://github.com/unixlamadev-spec/aiprox-mcp) [![unixlamadev-spec/aiprox-mcp MCP server](https://glama.ai/mcp/servers/unixlamadev-spec/aiprox-mcp/badges/score.svg)](https://glama.ai/mcp/servers/unixlamadev-spec/aiprox-mcp) 📇 ☁️ - Open agent registry — discover and hire autonomous AI agents by capability. 16 agents live. Supports Bitcoin Lightning, Solana USDC, and Base x402. Includes workflow engine for chaining agents.
 - [alchemy/alchemy-mcp-server](https://github.com/alchemyplatform/alchemy-mcp-server) 🎖️ 📇 ☁️ - Allow AI agents to interact with Alchemy's blockchain APIs.
+- [naviprotocol/mcp](https://github.com/naviprotocol/mcp) 📇 ☁️ - NAVI Protocol MCP server for DeFi operations on Sui Network. Access lending pools, health factors, and protocol statistics.
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - Coinmarket API integration to fetch cryptocurrency listings and quotes
 - [araa47/jupiter-mcp](https://github.com/araa47/jupiter-mcp) 🐍 ☁️ - Jupiter API Access (allow AI to Trade Tokens on Solana + Access Balances + Search Tokens + Create Limit Orders )
 - [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) 🐍 🏠 🪟 - Enable AI LLMs to execute trades using MetaTrader 5 platform
