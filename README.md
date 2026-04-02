@@ -126,6 +126,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 
+- [Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack) 🌐📇 - Developer tool discovery MCP server. Search 3,100+ tools, compare alternatives, audit dependencies. 10K+ installs.
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
