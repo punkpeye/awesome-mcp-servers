@@ -1027,6 +1027,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 - [octoco-ltd/sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp) [![octoco-ltd/sheetsdata-mcp MCP server](https://glama.ai/mcp/servers/octoco-ltd/sheetsdata-mcp/badges/score.svg)](https://glama.ai/mcp/servers/octoco-ltd/sheetsdata-mcp) 🐍 ☁️ 📟 - Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - A JavaScript-driven M5Stack-embedded super-kawaii robot with MCP server functionality for AI-controlled interactions and emotions.
 - [yoelbassin/gnuradioMCP](https://github.com/yoelbassin/gnuradioMCP) 🐍 📟 🏠 - An MCP server for GNU Radio that enables LLMs to autonomously create and modify RF `.grc` flowcharts.
+- [catallo/misterclaw](https://github.com/catallo/misterclaw) 🏎️ 📟 🏠 🐧 🍎 - MiSTerClaw — MCP remote control for MiSTer-FPGA. Launch games, search ROMs, take screenshots, manage systems, and set up Tailscale VPN. Auto-discovers 70+ systems with dynamic core/ROM scanning. [![catallo/misterclaw MCP server](https://glama.ai/mcp/servers/catallo/misterclaw/badges/score.svg)](https://glama.ai/mcp/servers/catallo/misterclaw)
 
 ### 🎓 <a name="education"></a>Education
 
