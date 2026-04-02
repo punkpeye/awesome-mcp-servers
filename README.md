@@ -1401,6 +1401,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 
 - [Alog/alog-mcp](https://github.com/saikiyusuke/alog-mcp) 📇 ☁️ - AI agent activity logger & monitor MCP server with 20 tools. Post logs, create articles, manage social interactions, and monitor AI agent activities on the Alog platform.
 - [avivsinai/langfuse-mcp](https://github.com/avivsinai/langfuse-mcp) 🐍 ☁️ - Query Langfuse traces, debug exceptions, analyze sessions, and manage prompts. Full observability toolkit for LLM applications.
+- [bmdhodl/agent47](https://github.com/bmdhodl/agent47) 📇 ☁️ - Runtime guardrails and incident read access for coding agents. Query AgentGuard traces, alerts, usage, costs, and budget health via MCP. Install: `npx -y @agentguard47/mcp-server`.
 - [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Leverage AI-driven observability, security, and automation to analyze anomalies, logs, traces, events, metrics.
 - [edgedelta/edgedelta-mcp-server](https://github.com/edgedelta/edgedelta-mcp-server) 🎖️ 🏎️ ☁️ – Interact with Edge Delta anomalies, query logs / patterns / events, and pinpoint root causes and optimize your pipelines.
 - [ejcho623/agent-breadcrumbs](https://github.com/ejcho623/agent-breadcrumbs) 📇 ☁️ 🏠 - Unified agent work logging and observability across ChatGPT, Claude, Cursor, Codex, and OpenClaw with config-first schemas and pluggable sinks.
