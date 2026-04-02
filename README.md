@@ -1874,6 +1874,7 @@ Tools for accessing sports-related data, results, and statistics.
 - [willvelida/mcp-afl-server](https://github.com/willvelida/mcp-afl-server) ☁️ - MCP server that integrates with the Squiggle API to provide information on Australian Football League teams, ladder standings, results, tips, and power rankings.
 ### 🎧 <a name="support-and-service-management"></a>Support & Service Management
 Tools for managing customer support, IT service management, and helpdesk operations.
+- [aartiq/nowaikit](https://github.com/aartiq/nowaikit) 📇 ☁️ 🍎 🪟 🐧 - The most comprehensive ServiceNow MCP server with 400+ tools across 35+ modules (ITSM, CMDB, HRSD, CSM, SecOps, GRC, Flow Designer, and more). Features 26 AI capabilities, SDK mode, and direct API mode for complete ServiceNow platform automation.
 - [aikts/yandex-tracker-mcp](https://github.com/aikts/yandex-tracker-mcp) 🐍 ☁️ 🏠 - MCP Server for Yandex Tracker. Provides tools for searching and retrieving information about issues, queues, users.
 - [Berckan/bugherd-mcp](https://github.com/Berckan/bugherd-mcp) 📇 ☁️ - MCP server for BugHerd bug tracking. List projects, view tasks with filtering by status/priority/tags, get task details, and read comments.
 - [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - MCP server that integrates with Freshdesk, enabling AI models to interact with Freshdesk modules and perform various support operations.
