@@ -447,6 +447,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [tufantunc/ssh-mcp](https://github.com/tufantunc/ssh-mcp) 📇 🏠 🐧 🪟 - MCP server exposing SSH control for Linux and Windows servers via Model Context Protocol. Securely execute remote shell commands with password or SSH key authentication.
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) - A secure shell command execution server implementing the Model Context Protocol (MCP)
 - [VertexStudio/developer](https://github.com/VertexStudio/developer) 🦀 🏠 🍎 🪟 🐧 - Comprehensive developer tools for file editing, shell command execution, and screen capture capabilities
+- [VULK-dev/vulk-mcp-server](https://github.com/VULK-dev/vulk-mcp-server) 📇 ☁️ - Build, edit, and deploy full-stack web applications from any AI assistant. 16+ LLM models, real-time generation, export to Web/PWA/APK/iOS/Flutter.
 - [wende/cicada](https://github.com/wende/cicada) 🐍 🏠 🍎 🪟 🐧 - Code Intelligence for Elixir: module search, function tracking, and PR attribution through tree-sitter AST parsing
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇 🏠 🍎 🪟 🐧 - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files.
 - [x51xxx/codex-mcp-tool](https://github.com/x51xxx/codex-mcp-tool) 📇 ☁️ - MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
