@@ -1499,6 +1499,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
 - [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements) [![open-agreements/open-agreements MCP server](https://glama.ai/mcp/servers/open-agreements/open-agreements/badges/score.svg)](https://glama.ai/mcp/servers/open-agreements/open-agreements) 📇 🏠 ☁️ 🍎 🐧 🪟 - Fill standard legal agreement templates (NDAs, SAFEs, NVCA docs, employment, cloud terms) and produce signable DOCX files.
+- [nicholasoxford/signbee-mcp](https://www.npmjs.com/package/signbee-mcp) 📇 ☁️ - Send documents for legally binding e-signatures with SHA-256 audit certificates. API-first, designed for agent-to-human contract signing workflows.
 - [philrox/ris-mcp-ts](https://github.com/philrox/ris-mcp-ts) [![philrox/ris-mcp-ts MCP server](https://glama.ai/mcp/servers/philrox/ris-mcp-ts/badges/score.svg)](https://glama.ai/mcp/servers/philrox/ris-mcp-ts) 📇 ☁️ - Access Austrian federal laws, state laws, court decisions, and legal documents via the RIS (Rechtsinformationssystem) API with 12 specialized tools.
 
 ### 🗺️ <a name="location-services"></a>Location Services
