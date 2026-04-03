@@ -1,0 +1,394 @@
+name: Check Glama Link
+
+on:
+  pull_request_target:
+    types: [opened, edited, synchronize, closed]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+jobs:
+  # Post-merge welcome comment
+  welcome:
+    if: github.event.action == 'closed' && github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post welcome comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const pr_number = context.payload.pull_request.number;
+            const marker = '<!-- welcome-comment -->';
+
+            const { data: comments } = await github.rest.issues.listComments({
+              owner,
+              repo,
+              issue_number: pr_number,
+              per_page: 100,
+            });
+
+            if (!comments.some(c => c.body.includes(marker))) {
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: pr_number,
+                body: `${marker}\nThank you for your contribution! Your server has been merged.
+
+            Are you in the MCP [Discord](https://glama.ai/mcp/discord)? Let me know your Discord username and I will give you a **server-author** flair.
+
+            If you also have a remote server, you can list it under https://glama.ai/mcp/connectors`
+              });
+            }
+
+  # Validation checks (only on open PRs)
+  check-submission:
+    if: github.event.action != 'closed'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout base branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
+
+      - name: Validate PR submission
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const { owner, repo } = context.repo;
+            const pr_number = context.payload.pull_request.number;
+
+            // Read existing README to check for duplicates
+            const readme = fs.readFileSync('README.md', 'utf8');
+            const existingUrls = new Set();
+            const urlRegex = /\(https:\/\/github\.com\/[^)]+\)/gi;
+            for (const match of readme.matchAll(urlRegex)) {
+              existingUrls.add(match[0].toLowerCase());
+            }
+
+            // Get the PR diff
+            const { data: files } = await github.rest.pulls.listFiles({
+              owner,
+              repo,
+              pull_number: pr_number,
+              per_page: 100,
+            });
+
+            // Permitted emojis
+            const permittedEmojis = [
+              '\u{1F396}\uFE0F',  // 🎖️ official
+              '\u{1F40D}',        // 🐍 Python
+              '\u{1F4C7}',        // 📇 TypeScript/JS
+              '\u{1F3CE}\uFE0F',  // 🏎️ Go
+              '\u{1F980}',        // 🦀 Rust
+              '#\uFE0F\u20E3',   // #️⃣ C#
+              '\u2615',           // ☕ Java
+              '\u{1F30A}',        // 🌊 C/C++
+              '\u{1F48E}',        // 💎 Ruby
+              '\u2601\uFE0F',    // ☁️ Cloud
+              '\u{1F3E0}',        // 🏠 Local
+              '\u{1F4DF}',        // 📟 Embedded
+              '\u{1F34E}',        // 🍎 macOS
+              '\u{1FA9F}',        // 🪟 Windows
+              '\u{1F427}',        // 🐧 Linux
+            ];
+
+            // All added lines with GitHub links (includes stale diff noise)
+            const addedLines = files
+              .filter(f => f.patch)
+              .flatMap(f => f.patch.split('\n').filter(line => line.startsWith('+')))
+              .filter(line => line.includes('](https://github.com/'));
+
+            // Filter to only genuinely new entries (not already in the base README)
+            const newAddedLines = addedLines.filter(line => {
+              const ghMatch = line.match(/\(https:\/\/github\.com\/[^)]+\)/i);
+              return !ghMatch || !existingUrls.has(ghMatch[0].toLowerCase());
+            });
+
+            // Only check new entries for glama link
+            const hasGlama = newAddedLines.some(line => line.includes('glama.ai/mcp/servers/') && line.includes('/badges/score.svg'));
+
+            let hasValidEmoji = false;
+            let hasInvalidEmoji = false;
+            const invalidLines = [];
+            const badNameLines = [];
+            const duplicateUrls = [];
+            const nonGithubUrls = [];
+
+            // Check for non-GitHub URLs in added entry lines (list items with markdown links)
+            const allAddedEntryLines = files
+              .filter(f => f.patch)
+              .flatMap(f => f.patch.split('\n').filter(line => line.startsWith('+')))
+              .map(line => line.replace(/^\+/, ''))
+              .filter(line => /^\s*-\s*\[/.test(line));
+
+            for (const line of allAddedEntryLines) {
+              // Extract the primary link URL (first markdown link)
+              const linkMatch = line.match(/\]\((https?:\/\/[^)]+)\)/);
+              if (linkMatch) {
+                const url = linkMatch[1];
+                if (!url.startsWith('https://github.com/')) {
+                  nonGithubUrls.push(url);
+                }
+              }
+            }
+
+            // Check for duplicates
+            for (const line of addedLines) {
+              const ghMatch = line.match(/\(https:\/\/github\.com\/[^)]+\)/i);
+              if (ghMatch && existingUrls.has(ghMatch[0].toLowerCase())) {
+                duplicateUrls.push(ghMatch[0].replace(/[()]/g, ''));
+              }
+            }
+
+            for (const line of newAddedLines) {
+              const usedPermitted = permittedEmojis.filter(e => line.includes(e));
+              if (usedPermitted.length > 0) {
+                hasValidEmoji = true;
+              } else {
+                invalidLines.push(line.replace(/^\+/, '').trim());
+              }
+
+              const emojiRegex = /\p{Emoji_Presentation}|\p{Emoji}\uFE0F/gu;
+              const allEmojis = line.match(emojiRegex) || [];
+              const unknownEmojis = allEmojis.filter(e => !permittedEmojis.some(p => p.includes(e) || e.includes(p)));
+              if (unknownEmojis.length > 0) {
+                hasInvalidEmoji = true;
+              }
+
+              const entryRegex = /\[([^\]]+)\]\(https:\/\/github\.com\/([^/]+)\/([^/)]+)\)/;
+              const match = line.match(entryRegex);
+              if (match) {
+                const linkText = match[1];
+                const expectedName = `${match[2]}/${match[3]}`;
+                if (!linkText.toLowerCase().includes('/')) {
+                  badNameLines.push({ linkText, expectedName });
+                }
+              }
+            }
+
+            const emojiOk = newAddedLines.length === 0 || (hasValidEmoji && !hasInvalidEmoji && invalidLines.length === 0);
+            const nameOk = badNameLines.length === 0;
+            const noDuplicates = duplicateUrls.length === 0;
+            const allGithub = nonGithubUrls.length === 0;
+
+            // Apply glama labels
+            const glamaLabel = hasGlama ? 'has-glama' : 'missing-glama';
+            const glamaLabelRemove = hasGlama ? 'missing-glama' : 'has-glama';
+
+            // Apply emoji labels
+            const emojiLabel = emojiOk ? 'has-emoji' : 'missing-emoji';
+            const emojiLabelRemove = emojiOk ? 'missing-emoji' : 'has-emoji';
+
+            // Apply name labels
+            const nameLabel = nameOk ? 'valid-name' : 'invalid-name';
+            const nameLabelRemove = nameOk ? 'invalid-name' : 'valid-name';
+
+            const labelsToAdd = [glamaLabel, emojiLabel, nameLabel];
+            const labelsToRemove = [glamaLabelRemove, emojiLabelRemove, nameLabelRemove];
+
+            if (!noDuplicates) {
+              labelsToAdd.push('duplicate');
+            } else {
+              labelsToRemove.push('duplicate');
+            }
+
+            if (!allGithub) {
+              labelsToAdd.push('non-github-url');
+            } else {
+              labelsToRemove.push('non-github-url');
+            }
+
+            await github.rest.issues.addLabels({
+              owner,
+              repo,
+              issue_number: pr_number,
+              labels: labelsToAdd,
+            });
+
+            for (const label of labelsToRemove) {
+              try {
+                await github.rest.issues.removeLabel({
+                  owner,
+                  repo,
+                  issue_number: pr_number,
+                  name: label,
+                });
+              } catch (e) {
+                // Label wasn't present, ignore
+              }
+            }
+
+            // Post comments for issues, avoiding duplicates
+            const { data: comments } = await github.rest.issues.listComments({
+              owner,
+              repo,
+              issue_number: pr_number,
+              per_page: 100,
+            });
+
+            // Glama missing comment
+            if (!hasGlama) {
+              const marker = '<!-- glama-check -->';
+              if (!comments.some(c => c.body.includes(marker))) {
+                await github.rest.issues.createComment({
+                  owner,
+                  repo,
+                  issue_number: pr_number,
+                  body: `${marker}\nHey,
+
+            To ensure that only working servers are listed, we're updating our listing requirements.
+
+            Please complete the following steps:
+
+            1. **Ensure your server is listed on Glama.** If it isn't already, submit it at https://glama.ai/mcp/servers and verify that it passes all checks (note: you must add Dockerfile directly to Glama. For checks to pass, we only need the server to start and respond to introspection requests).
+
+            2. **Update your PR** by adding a Glama score badge after the server description, using this format:
+
+            \`[![OWNER/REPO MCP server](https://glama.ai/mcp/servers/OWNER/REPO/badges/score.svg)](https://glama.ai/mcp/servers/OWNER/REPO)\`
+
+            Replace \`OWNER/REPO\` with your server's Glama path.
+
+            If you need any assistance, feel free to ask questions here or on [Discord](https://glama.ai/discord).
+
+            P.S. If your server already has a hosted endpoint, you can also list it under https://glama.ai/mcp/connectors.`
+                });
+              }
+            }
+
+            // Glama badge score comment — posted once the PR includes a glama link
+            if (hasGlama) {
+              const marker = '<!-- glama-badge-check -->';
+              if (!comments.some(c => c.body.includes(marker))) {
+                const glamaLines = files
+                  .filter(f => f.patch)
+                  .flatMap(f => f.patch.split('\n').filter(l => l.startsWith('+')))
+                  .filter(l => l.includes('glama.ai/mcp/servers/') && l.includes('/badges/score.svg'))
+                  .filter(l => {
+                    const ghMatch = l.match(/\(https:\/\/github\.com\/[^)]+\)/i);
+                    return !ghMatch || !existingUrls.has(ghMatch[0].toLowerCase());
+                  });
+
+                let glamaServerPath = '';
+                for (const line of glamaLines) {
+                  const glamaMatch = line.match(/glama\.ai\/mcp\/servers\/([^/)\s]+\/[^/)\s]+)/);
+                  if (glamaMatch) {
+                    glamaServerPath = glamaMatch[1];
+                    break;
+                  }
+                }
+
+                if (glamaServerPath) {
+                  await github.rest.issues.createComment({
+                    owner,
+                    repo,
+                    issue_number: pr_number,
+                    body: `${marker}\nThank you for adding the Glama badge!
+
+            Please make sure the server's badge shows an [A A A score](https://glama.ai/mcp/servers/${glamaServerPath}/score):
+
+            [![${glamaServerPath} MCP server](https://glama.ai/mcp/servers/${glamaServerPath}/badges/score.svg)](https://glama.ai/mcp/servers/${glamaServerPath})
+
+            If you need any assistance, feel free to ask questions here or on [Discord](https://glama.ai/discord).`
+                  });
+                }
+              }
+            }
+
+            // Emoji comment
+            if (!emojiOk && newAddedLines.length > 0) {
+              const marker = '<!-- emoji-check -->';
+              if (!comments.some(c => c.body.includes(marker))) {
+                const emojiList = [
+                  '🎖️ – official implementation',
+                  '🐍 – Python',
+                  '📇 – TypeScript / JavaScript',
+                  '🏎️ – Go',
+                  '🦀 – Rust',
+                  '#️⃣ – C#',
+                  '☕ – Java',
+                  '🌊 – C/C++',
+                  '💎 – Ruby',
+                  '☁️ – Cloud Service',
+                  '🏠 – Local Service',
+                  '📟 – Embedded Systems',
+                  '🍎 – macOS',
+                  '🪟 – Windows',
+                  '🐧 – Linux',
+                ].map(e => `- ${e}`).join('\n');
+
+                await github.rest.issues.createComment({
+                  owner,
+                  repo,
+                  issue_number: pr_number,
+                  body: `${marker}\nYour submission is missing a required emoji tag or uses an unrecognized one. Each entry must include at least one of the permitted emojis after the repository link.
+
+            **Permitted emojis:**
+            ${emojiList}
+
+            Please update your PR to include the appropriate emoji(s). See existing entries for examples.`
+                });
+              }
+            }
+
+            // Duplicate comment
+            if (!noDuplicates) {
+              const marker = '<!-- duplicate-check -->';
+              if (!comments.some(c => c.body.includes(marker))) {
+                const dupes = duplicateUrls.map(u => `- ${u}`).join('\n');
+                await github.rest.issues.createComment({
+                  owner,
+                  repo,
+                  issue_number: pr_number,
+                  body: `${marker}\nThe following server(s) are already listed in the repository:
+
+            ${dupes}
+
+            Please remove the duplicate entries from your PR.`
+                });
+              }
+            }
+
+            // Non-GitHub URL comment
+            if (!allGithub) {
+              const marker = '<!-- url-check -->';
+              if (!comments.some(c => c.body.includes(marker))) {
+                const urls = nonGithubUrls.map(u => `- ${u}`).join('\n');
+                await github.rest.issues.createComment({
+                  owner,
+                  repo,
+                  issue_number: pr_number,
+                  body: `${marker}\nWe only accept servers hosted on GitHub. The following URLs are not GitHub links:
+
+            ${urls}
+
+            Please update your PR to use a \`https://github.com/...\` repository link.`
+                });
+              }
+            }
+
+            // Name format comment
+            if (!nameOk) {
+              const marker = '<!-- name-check -->';
+              if (!comments.some(c => c.body.includes(marker))) {
+                const examples = badNameLines.map(
+                  b => `- \`${b.linkText}\` should be \`${b.expectedName}\``
+                ).join('\n');
+
+                await github.rest.issues.createComment({
+                  owner,
+                  repo,
+                  issue_number: pr_number,
+                  body: `${marker}\nThe entry name must use the full \`owner/repo\` format (not just the repo name).
+
+            ${examples}
+
+            For example: \`[user/mcp-server-example](https://github.com/user/mcp-server-example)\`
+
+            Please update your PR to use the full repository name.`
+                });
+              }
+            }
