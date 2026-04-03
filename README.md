@@ -2029,6 +2029,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 - [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - A web-based PlantUML frontend with MCP server integration, enable plantuml image generation and plantuml syntax validation.
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - A QR code generation MCP server that converts any text (including Chinese characters) to QR codes with customizable colors and base64 encoding output.
+- [AceDataCloud/MCPShortURL](https://github.com/AceDataCloud/MCPShortURL) [![AceDataCloud/MCPShortURL MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPShortURL/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPShortURL) 🐍 ☁️ - Free URL shortening with batch support (up to 10 URLs), permanent `surl.id` short links, zero credit consumption.
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ A Model Context Protocol (MCP) server that enables AI models to interact with Bitcoin, allowing them to generate keys, validate addresses, decode transactions, query the blockchain, and more.
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - Allows the AI to read from your Bear Notes (macOS only)
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) 🐍 🏠 - Expose all Home Assistant voice intents through a Model Context Protocol Server allowing home control.
