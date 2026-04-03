@@ -1894,6 +1894,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🌐 <a name="social-media"></a>Social Media
 
+- [usamaejaz/socialbu-mcp](https://github.com/usamaejaz/socialbu-mcp) 📇 ☁️ - Social media management MCP server for SocialBu. Lets AI agents create, schedule, publish, analyze, and manage posts across supported social platforms via https://socialbu.com/mcp.
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
 
 - [anwerj/youtube-uploader-mcp](https://github.com/anwerj/youtube-uploader-mcp) 🏎️ ☁️ - AI‑powered YouTube uploader—no CLI, no YouTube Studio. Uploade videos directly from MCP clients with all AI capabilities.
