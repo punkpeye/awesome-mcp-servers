@@ -539,6 +539,7 @@ Provides access to customer profiles inside of customer data platforms
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
 - [saurabhsharma2u/search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)  - An MCP server to interact with Google Search Console and Bing Webmasters.
 
+- [sapph1re/feedback-synthesis-mcp](https://github.com/sapph1re/feedback-synthesis-mcp) 🐍 ☁️ - Synthesize customer feedback from GitHub Issues, Hacker News, and App Store reviews into ranked pain clusters with evidence links and suggested actions. Pay-per-call ($0.01–$0.05) via x402 micropayments on Base — no signup required.
 ### 🗄️ <a name="databases"></a>Databases
 
 Secure database access with schema inspection capabilities. Enables querying and analyzing data with configurable security controls including read-only access.
