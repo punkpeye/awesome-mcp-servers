@@ -1517,7 +1517,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 
 Location-based services and mapping tools. Enables AI models to work with geographic data, weather information, and location-based analytics.
 
-- [APOGEOAPI/apogeoapi-mcp](https://github.com/APOGEOAPI/apogeoapi-mcp) 📇 ☁️ - Geographic data, live exchange rates (161 currencies), and IP geolocation for AI agents. 250+ countries, 5,000+ states, 150K+ cities with coordinates and timezones. Powered by [ApogeoAPI](https://apogeoapi.com).
+- [APOGEOAPI/apogeoapi-mcp](https://github.com/APOGEOAPI/apogeoapi-mcp) [![APOGEOAPI/apogeoapi-mcp MCP server](https://glama.ai/mcp/servers/APOGEOAPI/apogeoapi-mcp/badges/score.svg)](https://glama.ai/mcp/servers/APOGEOAPI/apogeoapi-mcp) 📇 ☁️ - Geographic data, live exchange rates (161 currencies), and IP geolocation for AI agents. 250+ countries, 5,000+ states, 150K+ cities with coordinates and timezones. Powered by [ApogeoAPI](https://apogeoapi.com).
 - [bamwor-dev/bamwor-mcp-server](https://github.com/bamwor-dev/bamwor-mcp-server) [![bamwor-mcp-server MCP server](https://glama.ai/mcp/servers/bamwor-dev/bamwor-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/bamwor-dev/bamwor-mcp-server) 📇 ☁️ - World geographic data for AI agents. 261 countries with 20+ statistics and 13.4M cities with population, coordinates, and timezone. Powered by Bamwor API.
 - [briandconnelly/mcp-server-ipinfo](https://github.com/briandconnelly/mcp-server-ipinfo) 🐍 ☁️  - IP address geolocation and network information using IPInfo API
 - [cqtrinv/trinvmcp](https://github.com/cqtrinv/trinvmcp) 📇 ☁️ - Explore French communes and cadastral parcels based on name and surface
