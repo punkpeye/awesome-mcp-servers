@@ -1671,6 +1671,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [Galax-ai/readypermit-mcp](https://github.com/Galax-ai/readypermit-mcp) 💻 ☁️ – AI-powered property zoning, buildability, and ADU eligibility analysis for any U.S. address using 20+ government data APIs. Integrates with Claude, ChatGPT, and Cursor.
 
 ### 🔬 <a name="research"></a>Research
 
