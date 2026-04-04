@@ -1117,6 +1117,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
+- [rjandino/zopaf](https://github.com/rjandino/zopaf) 🐍 ☁️ 🍎 🪟 🐧 - Quantitative negotiation engine with zero LLM token cost. MILP optimization, Pareto frontier analysis, and iso-utility counteroffer generation for any multi-issue negotiation (job offers, VC term sheets, real estate, vendor contracts). 9 tools covering the full negotiation lifecycle. Hosted MCP server — any agent connects via one URL.
 - [@asterpay/mcp-server](https://github.com/timolein74/asterpay-mcp-server) [![asterpay-mcp-server MCP server](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server) 📇 ☁️ - EUR settlement for AI agents via x402 protocol. Market data, AI tools, crypto analytics — pay-per-call in USDC on Base. SEPA Instant EUR off-ramp.
 - [@frihet/mcp-server](https://github.com/Frihet-io/frihet-mcp) [![frihet-mcp MCP server](https://glama.ai/mcp/servers/Frihet-io/frihet-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Frihet-io/frihet-mcp) 📇 ☁️ - AI-native business management — invoices, expenses, clients, products, and quotes. 31 tools for Claude, Cursor, Windsurf, and Cline.
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
