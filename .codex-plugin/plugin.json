@@ -1,0 +1,16 @@
+{
+  "name": "awesome-mcp-servers",
+  "version": "0.1.0",
+  "description": "A collection of MCP servers.",
+  "author": {
+    "name": "punkpeye",
+    "url": "https://github.com/punkpeye"
+  },
+  "homepage": "https://github.com/punkpeye/awesome-mcp-servers",
+  "repository": "https://github.com/punkpeye/awesome-mcp-servers",
+  "keywords": [
+    "mcp",
+    "codex"
+  ],
+  "mcpServers": "./.mcp.json"
+}

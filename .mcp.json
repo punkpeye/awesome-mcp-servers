@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "awesome-mcp-servers": {
+      "command": "npx",
+      "args": [
+        "punkpeye-awesome-mcp-servers"
+      ]
+    }
+  }
+}
