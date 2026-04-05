@@ -1823,7 +1823,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 
 ### 🔒 <a name="security"></a>Security
-
+- [Fronesis-Labs/dcl-evaluator](https://github.com/Fronesis-Labs/dcl-evaluator) 📇 ☁️ - Tamper-evident cryptographic audit trail for LLM outputs. Compliance logging for AI agent decisions. Tools: dcl_commit, dcl_verify, dcl_get_chain, dcl_report. Requires API key from fronesislabs.com
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - MCP server for integrating Ghidra with AI assistants. This plugin enables binary analysis, providing tools for function inspection, decompilation, memory exploration, and import/export analysis via the Model Context Protocol.
 - [82ch/MCP-Dandan](https://github.com/82ch/MCP-Dandan) 🐍 📇 🏠 🍎 🪟 🐧 - Real-time security framework for MCP servers that detects and blocks malicious AI agent behavior by analyzing tool call patterns and intent across multiple threat detection engines.
 - [MARUCIE/authbox](https://github.com/MARUCIE/authbox) [![authbox MCP server](https://glama.ai/mcp/servers/MARUCIE/authbox/badges/score.svg)](https://glama.ai/mcp/servers/MARUCIE/authbox) 📇 🏎️ 🏠 🍎 🪟 🐧 - Zero-knowledge password manager with MCP credential gateway. BIP-39 seed phrase recovery, deterministic passwords, policy-gated AI agent access (scope, rate limits, time windows, step-up approval), 70+ API key providers, and hash-chain audit trail. Go + Next.js + TypeScript.
