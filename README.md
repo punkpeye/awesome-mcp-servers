@@ -676,6 +676,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
+- [sapph1re/mcp-billing-gateway-sdk](https://github.com/sapph1re/mcp-billing-gateway-sdk) 📇 ☁️ - Billing infrastructure for MCP server operators. Add Stripe subscriptions, per-call credits, tiered pricing, and x402 crypto micropayments to any MCP server without writing billing code. Operator dashboard included.
 
 Tools and integrations that enhance the development workflow and environment management.
 
