@@ -202,6 +202,7 @@ Servers for accessing many apps and tools through a single MCP server.
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
 
 - [AceDataCloud/MCPNanoBanana](https://github.com/AceDataCloud/MCPNanoBanana) [![AceDataCloud/MCPNanoBanana MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana) 🐍 ☁️ - NanoBanana AI image generation and editing with virtual try-on and product placement in realistic scenes.
+- [AceDataCloud/MCPMidjourney](https://github.com/AceDataCloud/MidjourneyMCP) [![AceDataCloud/MCPMidjourney MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPMidjourney/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPMidjourney) 🐍 ☁️ - Midjourney image and video generation, editing, blending, and upscaling via Ace Data Cloud API.
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 ☁️ - A MCP server for the Open Library API that enables AI assistants to search for book information.
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - A local MCP server that generates animations using Manim.
 - [austenstone/myinstants-mcp](https://github.com/austenstone/myinstants-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - A soundboard MCP server with millions of meme sounds from myinstants.com. Search, play, and browse categories — let your AI agent play vine boom when code compiles. `npx myinstants-mcp`
