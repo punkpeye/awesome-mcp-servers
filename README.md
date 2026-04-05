@@ -1722,7 +1722,9 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - This is a Python-based MCP server that provides OpenAI `web_search` build-in tool.
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - This is a Python-based MCP server that provides OpenAI `web_search` built-in tool.
 - [Crawleo/Crawleo-MCP](https://github.com/Crawleo/Crawleo-MCP) ☁️ 🐍 – Crawleo Search & Crawl API
+- [atakanelik34/neo-x402-api-server](https://github.com/atakanelik34/neo-x402-api-server) 🐍 ☁️ 🏠 - AI-powered web intelligence suite with 8 tools: web search, anti-bot scraping, screenshots, SEO analysis, document conversion, crypto prices, and code review. x402 pay-per-use on Base mainnet.
 - [Crawleo/Crawleo-MCP](https://github.com/Crawleo/Crawleo-MCP) ☁️ 🐍 – Crawleo search & Crawling API
+- [atakanelik34/neo-x402-api-server](https://github.com/atakanelik34/neo-x402-api-server) 🐍 ☁️ 🏠 - AI-powered web intelligence suite with 8 tools: web search, anti-bot scraping, screenshots, SEO analysis, document conversion, crypto prices, and code review. x402 pay-per-use on Base mainnet.
 - [czottmann/kagi-ken-mcp](https://github.com/czottmann/kagi-ken-mcp) 📇 ☁️ - Work with Kagi *without* API access (you'll need to be a customer, tho). Searches and summarizes. Uses Kagi session token for easy authentication.
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - Enable fast, free real-time web search and access premium data from trusted media brands—news, financial markets, sports, entertainment, weather, and more. Build powerful AI agents with Dappier.
 - [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) 📇 🏠 - Local MCP server for searching 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database.
