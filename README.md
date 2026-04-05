@@ -201,7 +201,10 @@ Servers for accessing many apps and tools through a single MCP server.
 
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
 
+- [AceDataCloud/FluxMCP](https://github.com/AceDataCloud/FluxMCP) 🐍 ☁️ - Flux AI image generation and editing (Black Forest Labs) via Ace Data Cloud API.
 - [AceDataCloud/MCPNanoBanana](https://github.com/AceDataCloud/MCPNanoBanana) [![AceDataCloud/MCPNanoBanana MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana) 🐍 ☁️ - NanoBanana AI image generation and editing with virtual try-on and product placement in realistic scenes.
+- [AceDataCloud/MidjourneyMCP](https://github.com/AceDataCloud/MidjourneyMCP) 🐍 ☁️ - Midjourney image and video generation, editing, blending, description, and upscaling via Ace Data Cloud API.
+- [AceDataCloud/SeedreamMCP](https://github.com/AceDataCloud/SeedreamMCP) 🐍 ☁️ - ByteDance Seedream image generation and editing via Ace Data Cloud API.
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 ☁️ - A MCP server for the Open Library API that enables AI assistants to search for book information.
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - A local MCP server that generates animations using Manim.
 - [austenstone/myinstants-mcp](https://github.com/austenstone/myinstants-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - A soundboard MCP server with millions of meme sounds from myinstants.com. Search, play, and browse categories — let your AI agent play vine boom when code compiles. `npx myinstants-mcp`
@@ -1637,6 +1640,15 @@ Access and analyze application monitoring data. Enables AI models to review erro
 Provides the ability to handle multimedia, such as audio and video editing, playback, format conversion, also includes video filters, enhancements, and so on
 
 - [1000ri-jp/atsurae](https://github.com/1000ri-jp/atsurae) 🐍 ☁️ 🍎 🪟 🐧 - AI-powered video editing MCP server with 10 tools for timeline editing, 5-layer compositing, semantic operations, and FFmpeg rendering (1920x1080, 30fps H.264+AAC).
+- [AceDataCloud/HailuoMCP](https://github.com/AceDataCloud/HailuoMCP) 🐍 ☁️ - Hailuo (MiniMax) AI video generation via Ace Data Cloud API.
+- [AceDataCloud/KlingMCP](https://github.com/AceDataCloud/KlingMCP) 🐍 ☁️ - Kling AI video generation with motion control via Ace Data Cloud API.
+- [AceDataCloud/LumaMCP](https://github.com/AceDataCloud/LumaMCP) 🐍 ☁️ - Luma Dream Machine AI video generation via Ace Data Cloud API.
+- [AceDataCloud/ProducerMCP](https://github.com/AceDataCloud/ProducerMCP) 🐍 ☁️ - Producer/Riffusion AI music generation, covers, vocal extraction, and track extension via Ace Data Cloud API.
+- [AceDataCloud/SeedanceMCP](https://github.com/AceDataCloud/SeedanceMCP) 🐍 ☁️ - ByteDance Seedance dance and motion video generation via Ace Data Cloud API.
+- [AceDataCloud/SoraMCP](https://github.com/AceDataCloud/SoraMCP) 🐍 ☁️ - OpenAI Sora AI video generation via Ace Data Cloud API.
+- [AceDataCloud/SunoMCP](https://github.com/AceDataCloud/SunoMCP) 🐍 ☁️ - Suno AI music generation, lyrics, covers, and vocal extraction via Ace Data Cloud API.
+- [AceDataCloud/VeoMCP](https://github.com/AceDataCloud/VeoMCP) 🐍 ☁️ - Google Veo AI video generation with native audio via Ace Data Cloud API.
+- [AceDataCloud/WanMCP](https://github.com/AceDataCloud/WanMCP) 🐍 ☁️ - Wan AI video generation via Ace Data Cloud API.
 - [agenticdecks/deckrun-mcp](https://github.com/agenticdecks/deckrun-mcp) [![deckrun-mcp MCP server](https://glama.ai/mcp/servers/agenticdecks/deckrun-mcp/badges/score.svg)](https://glama.ai/mcp/servers/agenticdecks/deckrun-mcp) 🐍 ☁️ - Generate presentation PDFs, narrated videos, and MP3 audio from Markdown. Free tier requires no API key or local install — add a URL to your IDE config and start generating. Paid tier adds video, audio, async jobs, and account tools.
 - [AIDC-AI/Pixelle-MCP](https://github.com/AIDC-AI/Pixelle-MCP) 🐍 📇 🏠 🎥 🔊 🖼️ - An omnimodal AIGC framework that seamlessly converts ComfyUI workflows into MCP tools with zero code, enabling full-modal support for Text, Image, Sound, and Video generation with Chainlit-based web interface.
 - [ananddtyagi/gif-creator-mcp](https://github.com/ananddtyagi/gif-creator-mcp/tree/main) 📇 🏠 - A MCP server for creating GIFs from your videos.
@@ -1699,6 +1711,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) 📇 🏠 - An MCP server for searching job listings with filters for date, keywords, remote work options, and more.
 - [hanselhansel/aeo-cli](https://github.com/hanselhansel/aeo-cli) 🐍 🏠 - Audit URLs for AI crawler readiness — checks robots.txt, llms.txt, JSON-LD schema, and content density with 0-100 AEO scoring.
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) 🐍 📇 ☁️ - Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
+- [AceDataCloud/SerpMCP](https://github.com/AceDataCloud/SerpMCP) 🐍 ☁️ - Google SERP search including web, images, news, maps, places, videos, and knowledge graph results via Ace Data Cloud API.
 - [AIMLPM/markcrawl](https://github.com/AIMLPM/markcrawl) [![AIMLPM/markcrawl MCP server](https://glama.ai/mcp/servers/AIMLPM/markcrawl/badges/score.svg)](https://glama.ai/mcp/servers/AIMLPM/markcrawl) 🐍 🏠 - Crawl websites into clean Markdown, search pages, and extract structured data with LLMs. Built-in MCP server for web research and RAG pipelines.
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - Kagi search API integration
 - [adawalli/nexus](https://github.com/adawalli/nexus) 📇 ☁️ - AI-powered web search server using Perplexity Sonar models with source citations. Zero-install setup via NPX.
