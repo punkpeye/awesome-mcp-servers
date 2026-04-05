@@ -12,4 +12,4 @@
 - WiFi CSI sensing (RuView)
 
 ## Repository
-https://github.com/nwocapital/mcp-server-robotics
+https://github.com/RedCiprianPater/mcp-server-robotics
