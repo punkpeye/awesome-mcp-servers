@@ -1581,6 +1581,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
   brand visibility monitoring via 16 specialized tools.
 - [stape-io/google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) 📇 ☁️ – This server supports remote MCP connections, includes built-in Google OAuth, and provide an interface to the Google Tag Manager API.
 - [stape-io/stape-mcp-server](https://github.com/stape-io/stape-mcp-server) 📇 ☁️ – This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.
+- [Stewyboy1990/companyscope-mcp](https://github.com/Stewyboy1990/companyscope-mcp) [![Stewyboy1990/companyscope-mcp MCP server](https://glama.ai/mcp/servers/Stewyboy1990/companyscope-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Stewyboy1990/companyscope-mcp) 📇 ☁️ - Company intelligence from a single tool call. Full company profiles with funding, tech stack, SEC filings, domain info, and news from 8 free data sources. No API keys required.
 - [tomba-io/tomba-mcp-server](https://github.com/tomba-io/tomba-mcp-server) 📇 ☁️ - Email discovery, verification, and enrichment tools. Find email addresses, verify deliverability, enrich contact data, discover authors and LinkedIn profiles, validate phone numbers, and analyze technology stacks.
 
 ### 📊 <a name="monitoring"></a>Monitoring
