@@ -1,1 +1,1 @@
-See push below
+- [Elemzir/KTA-Oracle](https://github.com/Elemzir/KTA-Oracle) [![Elemzir/KTA-Oracle MCP server](https://glama.ai/mcp/servers/Elemzir/KTA-Oracle/badges/score.svg)](https://glama.ai/mcp/servers/Elemzir/KTA-Oracle) 📇 ☁️ - Live payment intelligence oracle for AI agents on the Keeta Network. 12 MCP tools: real-time $KTA price feeds (55+ currencies), payment rail comparison (Keeta vs SWIFT/Stripe/Visa), whale alerts, Nordic compliance engine, and on-chain $KTA billing. 400ms global settlement to 200+ countries.
