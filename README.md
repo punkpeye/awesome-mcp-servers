@@ -1695,6 +1695,9 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
+- [CyberSecAI/agentsearch](https://agentsearch.cybersecai.co.uk) [![AgenticSearch MCP server](https://glama.ai/mcp/connectors/uk.co.cybersecai.agentsearch/agentic-search/badges/score.svg)](https://glama.ai/mcp/connectors/uk.co.cybersecai.agentsearch/agentic-search) 📇 ☁️ - Trust-scored search engine for MCP servers. 1,900+ sources indexed, ranked by cryptographic trust (L0-L4). ECDSA P-256 signed results.
+
+
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) 📇 🏠 - An MCP server for searching job listings with filters for date, keywords, remote work options, and more.
 - [hanselhansel/aeo-cli](https://github.com/hanselhansel/aeo-cli) 🐍 🏠 - Audit URLs for AI crawler readiness — checks robots.txt, llms.txt, JSON-LD schema, and content density with 0-100 AEO scoring.
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) 🐍 📇 ☁️ - Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
