@@ -998,6 +998,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - An MCP server to flexibly fetch JSON, text, and HTML data
 - [zelentsov-dev/asc-mcp](https://github.com/zelentsov-dev/asc-mcp) 🏠 🍎 - App Store Connect API server with 208 tools for managing apps, builds, TestFlight, subscriptions, reviews, and more — directly from any MCP client.
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
+- [zgc37359-lang/mcplab](https://github.com/zgc37359-lang/mcplab) 📇 🏠 🍎 🪟 🐧 - MCP developer toolkit: project scaffolding (`mcplab init`), hot-reload dev server (`mcplab dev`), interactive tool testing (`mcplab inspect`). Includes templates for OpenAPI, database, web scraping, and Feishu/Lark integration.
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
 - [ztuskes/garmin-documentation-mcp-server](https://github.com/ztuskes/garmin-documentation-mcp-server) 📇 🏠 – Offline Garmin Connect IQ SDK documentation with comprehensive search and API examples
 
