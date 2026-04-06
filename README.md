@@ -201,7 +201,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
 
-- [AceDataCloud/MCPNanoBanana](https://github.com/AceDataCloud/MCPNanoBanana) [![AceDataCloud/MCPNanoBanana MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana) 🐍 ☁️ - NanoBanana AI image generation and editing with virtual try-on and product placement in realistic scenes.
+- [AceDataCloud/NanoBananaMCP](https://github.com/AceDataCloud/NanoBananaMCP) 🐍 ☁️ - NanoBanana AI image generation and editing with virtual try-on and product placement in realistic scenes.
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 ☁️ - A MCP server for the Open Library API that enables AI assistants to search for book information.
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - A local MCP server that generates animations using Manim.
 - [austenstone/myinstants-mcp](https://github.com/austenstone/myinstants-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - A soundboard MCP server with millions of meme sounds from myinstants.com. Search, play, and browse categories — let your AI agent play vine boom when code compiles. `npx myinstants-mcp`
@@ -1637,6 +1637,18 @@ Access and analyze application monitoring data. Enables AI models to review erro
 Provides the ability to handle multimedia, such as audio and video editing, playback, format conversion, also includes video filters, enhancements, and so on
 
 - [1000ri-jp/atsurae](https://github.com/1000ri-jp/atsurae) 🐍 ☁️ 🍎 🪟 🐧 - AI-powered video editing MCP server with 10 tools for timeline editing, 5-layer compositing, semantic operations, and FFmpeg rendering (1920x1080, 30fps H.264+AAC).
+- [AceDataCloud/FluxMCP](https://github.com/AceDataCloud/FluxMCP) 🐍 ☁️ - Flux AI image generation and editing via AceDataCloud API. Supports Flux Pro, Dev, Schnell, Realism, and Kontext models with inpainting, outpainting, and style transfer.
+- [AceDataCloud/HailuoMCP](https://github.com/AceDataCloud/HailuoMCP) 🐍 ☁️ - Hailuo (MiniMax) AI video generation via AceDataCloud API. Text-to-video and image-to-video with multiple aspect ratios and durations.
+- [AceDataCloud/KlingMCP](https://github.com/AceDataCloud/KlingMCP) 🐍 ☁️ - Kling AI video generation via AceDataCloud API. Text-to-video and image-to-video with Kling 2.0 Master and standard models.
+- [AceDataCloud/LumaMCP](https://github.com/AceDataCloud/LumaMCP) 🐍 ☁️ - Luma Dream Machine AI video generation via AceDataCloud API. Text-to-video and image-to-video with multiple aspect ratios.
+- [AceDataCloud/MidjourneyMCP](https://github.com/AceDataCloud/MidjourneyMCP) 🐍 ☁️ - Midjourney image and video generation via AceDataCloud API. Supports imagine, describe, blend, upscale, variations, and video generation.
+- [AceDataCloud/ProducerMCP](https://github.com/AceDataCloud/ProducerMCP) 🐍 ☁️ - Producer/Riffusion AI music generation via AceDataCloud API. Generate, extend, and remix music with lyrics and style control.
+- [AceDataCloud/SeedanceMCP](https://github.com/AceDataCloud/SeedanceMCP) 🐍 ☁️ - ByteDance Seedance AI video generation via AceDataCloud API. Dance and motion video generation from text or image.
+- [AceDataCloud/SeedreamMCP](https://github.com/AceDataCloud/SeedreamMCP) 🐍 ☁️ - ByteDance Seedream AI image generation and editing via AceDataCloud API. High-quality image generation with multiple styles.
+- [AceDataCloud/SoraMCP](https://github.com/AceDataCloud/SoraMCP) 🐍 ☁️ - OpenAI Sora AI video generation via AceDataCloud API. Text-to-video and image-to-video with multiple resolutions and durations.
+- [AceDataCloud/SunoMCP](https://github.com/AceDataCloud/SunoMCP) 🐍 ☁️ - Suno AI music generation with lyrics, covers, stems, and persona workflows via AceDataCloud API.
+- [AceDataCloud/VeoMCP](https://github.com/AceDataCloud/VeoMCP) 🐍 ☁️ - Google Veo AI video generation via AceDataCloud API. Text-to-video and image-to-video with Veo 3 model support.
+- [AceDataCloud/WanMCP](https://github.com/AceDataCloud/WanMCP) 🐍 ☁️ - Wan (Alibaba) AI video generation via AceDataCloud API. Text-to-video and image-to-video with multiple Wan models.
 - [agenticdecks/deckrun-mcp](https://github.com/agenticdecks/deckrun-mcp) [![deckrun-mcp MCP server](https://glama.ai/mcp/servers/agenticdecks/deckrun-mcp/badges/score.svg)](https://glama.ai/mcp/servers/agenticdecks/deckrun-mcp) 🐍 ☁️ - Generate presentation PDFs, narrated videos, and MP3 audio from Markdown. Free tier requires no API key or local install — add a URL to your IDE config and start generating. Paid tier adds video, audio, async jobs, and account tools.
 - [AIDC-AI/Pixelle-MCP](https://github.com/AIDC-AI/Pixelle-MCP) 🐍 📇 🏠 🎥 🔊 🖼️ - An omnimodal AIGC framework that seamlessly converts ComfyUI workflows into MCP tools with zero code, enabling full-modal support for Text, Image, Sound, and Video generation with Chainlit-based web interface.
 - [ananddtyagi/gif-creator-mcp](https://github.com/ananddtyagi/gif-creator-mcp/tree/main) 📇 🏠 - A MCP server for creating GIFs from your videos.
@@ -1701,6 +1713,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) 🐍 📇 ☁️ - Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
 - [AIMLPM/markcrawl](https://github.com/AIMLPM/markcrawl) [![AIMLPM/markcrawl MCP server](https://glama.ai/mcp/servers/AIMLPM/markcrawl/badges/score.svg)](https://glama.ai/mcp/servers/AIMLPM/markcrawl) 🐍 🏠 - Crawl websites into clean Markdown, search pages, and extract structured data with LLMs. Built-in MCP server for web research and RAG pipelines.
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - Kagi search API integration
+- [AceDataCloud/SerpMCP](https://github.com/AceDataCloud/SerpMCP) 🐍 ☁️ - Google search (web, images, news, maps, videos, knowledge graph) via AceDataCloud API with structured results.
 - [adawalli/nexus](https://github.com/adawalli/nexus) 📇 ☁️ - AI-powered web search server using Perplexity Sonar models with source citations. Zero-install setup via NPX.
 - [ananddtyagi/webpage-screenshot-mcp](https://github.com/ananddtyagi/webpage-screenshot-mcp) 📇 🏠 - A MCP server for taking screenshots of webpages to use as feedback during UI developement.
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️  MCP for LLM to search and read papers from arXiv
@@ -2086,7 +2099,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - A web-based PlantUML frontend with MCP server integration, enable plantuml image generation and plantuml syntax validation.
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - A QR code generation MCP server that converts any text (including Chinese characters) to QR codes with customizable colors and base64 encoding output.
 - [webaesbyamin/agent-receipts](https://github.com/webaesbyamin/agent-receipts) [![webaesbyamin/agent-receipts MCP server](https://glama.ai/mcp/servers/webaesbyamin/agent-receipts/badges/score.svg)](https://glama.ai/mcp/servers/webaesbyamin/agent-receipts) 📇 🏠 - Cryptographic accountability for AI agents. Ed25519-signed receipts for every MCP tool call — constraints, chains, AI judgment, invoicing, local dashboard.
-- [AceDataCloud/MCPShortURL](https://github.com/AceDataCloud/MCPShortURL) [![AceDataCloud/MCPShortURL MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPShortURL/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPShortURL) 🐍 ☁️ - Free URL shortening with batch support (up to 10 URLs), permanent `surl.id` short links, zero credit consumption.
+- [AceDataCloud/ShortURLMCP](https://github.com/AceDataCloud/ShortURLMCP) 🐍 ☁️ - Free URL shortening with batch support (up to 10 URLs), permanent `surl.id` short links, zero credit consumption.
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ A Model Context Protocol (MCP) server that enables AI models to interact with Bitcoin, allowing them to generate keys, validate addresses, decode transactions, query the blockchain, and more.
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - Allows the AI to read from your Bear Notes (macOS only)
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) 🐍 🏠 - Expose all Home Assistant voice intents through a Model Context Protocol Server allowing home control.
