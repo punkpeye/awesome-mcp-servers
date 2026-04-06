@@ -16,6 +16,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: hashgraph-online/codex-plugin-scanner@v1
-        with:
+      - uses: hashgraph-online/hol-codex-plugin-scanner-action@v1
           mode: validate
