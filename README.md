@@ -1582,6 +1582,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [stape-io/google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) 📇 ☁️ – This server supports remote MCP connections, includes built-in Google OAuth, and provide an interface to the Google Tag Manager API.
 - [stape-io/stape-mcp-server](https://github.com/stape-io/stape-mcp-server) 📇 ☁️ – This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.
 - [tomba-io/tomba-mcp-server](https://github.com/tomba-io/tomba-mcp-server) 📇 ☁️ - Email discovery, verification, and enrichment tools. Find email addresses, verify deliverability, enrich contact data, discover authors and LinkedIn profiles, validate phone numbers, and analyze technology stacks.
+- [yagomp/seoagent](https://github.com/yagomp/seoagent) 📇 🏠 🍎 🪟 🐧 - Open-source agent-first SEO toolkit with 24 MCP tools. Keyword research, rank tracking, site audits (up to 50k pages), competitor analysis, content gap detection, domain reputation, backlink intelligence, Google Search Console integration, and AI-powered strategy generation (Claude/GPT/Ollama). SQLite-backed, BYOK.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
@@ -2280,3 +2281,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
