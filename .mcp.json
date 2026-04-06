@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "awesome-mcp-servers": {
+      "command": "npx",
+      "args": ["-y", "awesome-mcp-servers"]
+    }
+  }
+}
