@@ -125,6 +125,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 
+- [yeick010/agentshield-mcp](https://github.com/yeick010/agentshield-mcp) 📇 ☁️ - Trust infrastructure for AI agents on Base. DEX Spread Oracle (live Uniswap V3 prices), on-chain escrow, insurance pool, and collective knowledge base. 7 smart contracts. Pay-per-query via x402 micropayments in USDC. ERC-8004 Agent #38580.
+
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
