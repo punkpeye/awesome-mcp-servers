@@ -713,6 +713,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 Tools and integrations that enhance the development workflow and environment management.
 
+- [finsavvyai/pushci](https://github.com/finsavvyai/push-ci.dev) 📇 🏠 🍎 🪟 🐧 - AI-native zero-config CI/CD. Auto-detects 19 languages and 40+ frameworks, runs pipelines locally for free, self-heals broken builds with root cause analysis. 8 MCP tools: init, run, status, doctor, secret, recommend, heal, promote. `npx pushci init`
 - [LWTlong/ai-dev-analytics](https://github.com/LWTlong/ai-dev-analytics) [![glama.ai](https://glama.ai/mcp/servers/LWTlong/ai-dev-analytics/badges/score.svg)](https://glama.ai/mcp/servers/LWTlong/ai-dev-analytics) 📇 🏠 - An open-source observability layer for AI coding. Silently tracks dev tokens/time and auto-codifies AI deviations into persistent project rules.
 - [3KniGHtcZ/codebeamer-mcp](https://github.com/3KniGHtcZ/codebeamer-mcp) [![codebeamer-mcp MCP server](https://glama.ai/mcp/servers/3KniGHtcZ/codebeamer-mcp/badges/score.svg)](https://glama.ai/mcp/servers/3KniGHtcZ/codebeamer-mcp) 📇 ☁️ 🍎 🪟 🐧 - Codebeamer ALM integration for managing work items, trackers, and projects. Provides 17 tools for reading and writing items, associations, references, comments, and risk management data via Codebeamer REST API v3.
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - Create crafted UI components inspired by the best 21st.dev design engineers.
