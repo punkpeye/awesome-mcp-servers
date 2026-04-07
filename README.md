@@ -539,7 +539,6 @@ Provides access to customer profiles inside of customer data platforms
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
 - [saurabhsharma2u/search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)  - An MCP server to interact with Google Search Console and Bing Webmasters.
 
-- [sapph1re/feedback-synthesis-mcp](https://github.com/sapph1re/feedback-synthesis-mcp) 🐍 ☁️ - Synthesize customer feedback from GitHub Issues, Hacker News, and App Store reviews into ranked pain clusters with evidence links and suggested actions. Pay-per-call ($0.01–$0.05) via x402 micropayments on Base — no signup required.
 ### 🗄️ <a name="databases"></a>Databases
 
 Secure database access with schema inspection capabilities. Enables querying and analyzing data with configurable security controls including read-only access.
@@ -676,7 +675,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
-- [sapph1re/mcp-billing-gateway-sdk](https://github.com/sapph1re/mcp-billing-gateway-sdk) 📇 ☁️ - Billing infrastructure for MCP server operators. Add Stripe subscriptions, per-call credits, tiered pricing, and x402 crypto micropayments to any MCP server without writing billing code. Operator dashboard included.
+- [sapph1re/mcp-billing-gateway-sdk](https://github.com/sapph1re/mcp-billing-gateway-sdk) [![sapph1re/mcp-billing-gateway-sdk MCP server](https://glama.ai/mcp/servers/sapph1re/mcp-billing-gateway-sdk/badges/score.svg)](https://glama.ai/mcp/servers/sapph1re/mcp-billing-gateway-sdk) 📇 ☁️ - Billing infrastructure for MCP server operators. Add Stripe subscriptions, per-call credits, tiered pricing, and x402 crypto micropayments to any MCP server without writing billing code. Operator dashboard included.
 
 Tools and integrations that enhance the development workflow and environment management.
 
