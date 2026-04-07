@@ -192,6 +192,8 @@ Servers for accessing many apps and tools through a single MCP server.
 - [ikoskela/wisepanel-mcp](https://github.com/ikoskela/wisepanel-mcp) [![ikoskela/wisepanel-mcp MCP server](https://glama.ai/mcp/servers/ikoskela/wisepanel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ikoskela/wisepanel-mcp) 📇 ☁️ 🍎 🪟 🐧 - Multi-agent deliberation with divergent context enhancement. Roles are dynamically generated to surround the question-space and maximize divergent dialog across ChatGPT, Claude, Gemini, and Perplexity.
 - [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive personal data aggregation MCP server with Steam, YouTube, Bilibili, Spotify, Reddit and other platforms integrations. Features OAuth2 authentication, automatic token management, and 90+ tools for gaming, music, video, and social platform data access.
 
+- [RemoteOpenClaw](https://remoteopenclaw.com) 📇 ☁️ - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell open-source AI agent skills and personas.
+
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Accurate astronomical catalog data and observing session planner. 13,000+ deep-sky objects from OpenNGC with deterministic visibility, rise/transit/set, and alt/az calculations. `npx astronomy-oracle`
