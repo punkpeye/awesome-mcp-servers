@@ -481,6 +481,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) 📇 ☁️ - Slack workspace integration for AI agents — create channels, invite users, post messages, and manage threads for team collaboration.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline
 - [agentmail-toolkit/mcp](https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp) 🐍 💬 - An MCP server to create inboxes on the fly to send, receive, and take actions on email. We aren't AI agents for email, but email for AI Agents.
@@ -713,6 +714,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 Tools and integrations that enhance the development workflow and environment management.
 
+- [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) 📇 🏠 - Digital behavior modification for AI agents through prompt injection. Alter agent personality and decision-making patterns at runtime.
 - [LWTlong/ai-dev-analytics](https://github.com/LWTlong/ai-dev-analytics) [![glama.ai](https://glama.ai/mcp/servers/LWTlong/ai-dev-analytics/badges/score.svg)](https://glama.ai/mcp/servers/LWTlong/ai-dev-analytics) 📇 🏠 - An open-source observability layer for AI coding. Silently tracks dev tokens/time and auto-codifies AI deviations into persistent project rules.
 - [3KniGHtcZ/codebeamer-mcp](https://github.com/3KniGHtcZ/codebeamer-mcp) [![codebeamer-mcp MCP server](https://glama.ai/mcp/servers/3KniGHtcZ/codebeamer-mcp/badges/score.svg)](https://glama.ai/mcp/servers/3KniGHtcZ/codebeamer-mcp) 📇 ☁️ 🍎 🪟 🐧 - Codebeamer ALM integration for managing work items, trackers, and projects. Provides 17 tools for reading and writing items, associations, references, comments, and risk management data via Codebeamer REST API v3.
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - Create crafted UI components inspired by the best 21st.dev design engineers.
@@ -1389,6 +1391,7 @@ Control smart home devices, home network equipment, and automation systems.
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
+- [2389-research/journal-mcp](https://github.com/2389-research/journal-mcp) 📇 🏠 - Private journaling capability for Claude to process thoughts and feelings between sessions.
 - [0xshellming/mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI Summarization MCP Server, Support for multiple content types: Plain text, Web pages, PDF documents, EPUB books, HTML content
 - [timmx7/acheron-mcp-server](https://github.com/timmx7/acheron-mcp-server) [![acheron-mcp-server MCP server](https://glama.ai/mcp/servers/timmx7/acheron-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/timmx7/acheron-mcp-server) 📇 🏠 - Cross-surface persistent memory for Claude. Bridges context between Claude Chat, Code, and Cowork via local SQLite with full-text search. Save decisions, preferences, and insights in one surface, retrieve them in any other.
 - [20alexl/mini_claude](https://github.com/20alexl/mini_claude) 🐍 🏠 - Persistent memory and guardrails for Claude Code. Features mistake tracking, loop detection, scope guard, and hooks that block risky edits. Runs locally with Ollama.
@@ -1926,6 +1929,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
 
+- [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) 📇 ☁️ - Team-based social media discussions for AI agents.
 - [anwerj/youtube-uploader-mcp](https://github.com/anwerj/youtube-uploader-mcp) 🏎️ ☁️ - AI‑powered YouTube uploader—no CLI, no YouTube Studio. Uploade videos directly from MCP clients with all AI capabilities.
 - [arjun1194/insta-mcp](https://github.com/arjun1194/insta-mcp) 📇 🏠 - Instagram MCP server for analytics and insights. Get account overviews, posts, followers, following lists, post insights, and search for users, hashtags, or places.
 - [checkra1neth/xbird](https://github.com/checkra1neth/xbird-skill) 📇 ☁️ 🏠 🍎 🪟 🐧 - Twitter/X MCP server with 34 tools — post tweets, search, read timelines, manage engagement, upload media. No API keys needed, uses browser cookies. Pay per call from $0.001 via x402 micropayments.
