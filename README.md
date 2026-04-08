@@ -1671,6 +1671,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [USDV Capital](https://smithery.ai/servers/usdv-capital/real-estate-cfo) 📇 ☁️ - Real estate market intelligence, financial calculators (DSCR, Flip ROI, BRRRR, Rental Cash Flow, STR Revenue, Construction, Deal Analysis), investment screening, and capital advisory for US real estate investors. 86K+ locations with Census ACS and Zillow data, financing eligibility across all 50 states + DC + PR, and CFO-level deal assessments.
 
 ### 🔬 <a name="research"></a>Research
 
