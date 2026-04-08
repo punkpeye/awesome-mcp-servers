@@ -707,7 +707,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [saikiyusuke/registep-mcp](https://github.com/saikiyusuke/registep-mcp) 📇 ☁️ - AI-powered POS & sales analytics MCP server with 67 tools for Airレジ, スマレジ, and BASE EC integration. Provides store management, sales data querying, AI chat analysis, and weather correlation features.
 - [vikramgorla/mcp-swiss](https://github.com/vikramgorla/mcp-swiss) [![mcp-swiss](https://glama.ai/mcp/servers/vikramgorla/mcp-swiss/badges/score.svg)](https://glama.ai/mcp/servers/vikramgorla/mcp-swiss) 📇 ☁️ - 68 tools for Swiss open data: transport, weather, geodata, companies, parliament, and more. Zero API keys required.
 - [yashshingvi/databricks-genie-MCP](https://github.com/yashshingvi/databricks-genie-MCP) 🐍 ☁️ - A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.
-
+- [NorthWorld AU Data Tools](https://github.com/jasperschreiber0/northworld-mcp) - ABR, AHPRA, NDIS, and Apollo enrichment tools for the Australian market.
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
 
