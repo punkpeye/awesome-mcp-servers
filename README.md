@@ -325,6 +325,8 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [webdriverio/mcp](https://github.com/webdriverio/mcp) [![mcp MCP server](https://glama.ai/mcp/servers/webdriverio/mcp/badges/score.svg)](https://glama.ai/mcp/servers/webdriverio/mcp) 📇 🏠 - Browser and mobile app automation using WebdriverIO, enabling AI agents to control browsers, interact with web elements, and automate native Android and iOS apps via the WebDriver and Appium protocols.
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
 - [PrinceGabriel-lgtm/freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp) [![freshcontext-mcp MCP server](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp) ☁️ 🏠 - Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.
+- [clasp-it](https://claspit.dev) - Pick any webpage element and send its HTML, CSS, React props, console logs, and network context to Claude Code, Cursor, or Windsurf via MCP.
+
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
@@ -1000,6 +1002,8 @@ Tools and integrations that enhance the development workflow and environment man
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - An MCP server to connect with your [ZenML](https://www.zenml.io) MLOps and LLMOps pipelines
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
 - [ztuskes/garmin-documentation-mcp-server](https://github.com/ztuskes/garmin-documentation-mcp-server) 📇 🏠 – Offline Garmin Connect IQ SDK documentation with comprehensive search and API examples
+- [clasp-it](https://claspit.dev) - Pick any webpage element and send its HTML, CSS, React props, console logs, and network context to Claude Code, Cursor, or Windsurf via MCP.
+
 
 ### 🔒 <a name="delivery"></a>Delivery
 
