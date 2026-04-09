@@ -1945,6 +1945,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [sinanefeozler/reddit-summarizer-mcp](https://github.com/sinanefeozler/reddit-summarizer-mcp) 🐍 🏠 ☁️ - MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.
 - [bulatko/vk-mcp-server](https://github.com/bulatko/vk-mcp-server) [![vk-mcp-server MCP server](https://glama.ai/mcp/servers/bulatko/vk-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/bulatko/vk-mcp-server) 📇 ☁️ - MCP server for VK (VKontakte) social network API. Access users, walls, groups, friends, newsfeed, photos, and community stats.
 - [timkulbaev/mcp-linkedin](https://github.com/timkulbaev/mcp-linkedin) [![mcp-linkedin MCP server](https://glama.ai/mcp/servers/timkulbaev/mcp-linkedin/badges/score.svg)](https://glama.ai/mcp/servers/timkulbaev/mcp-linkedin) 📇 ☁️ - LinkedIn publishing, commenting, and reacting via Unipile API. Dry-run by default, SKILL.md included, CLI-first design for AI automation workflows.
+- [linglongai/kouboshenqi-mcp](https://github.com/linglongai/kouboshenqi-mcp) 🐍 ☁️ - Douyin (TikTok China) short video creator toolkit — 8 data tools for trending video discovery, hot topic tracking, video-to-text transcription (ASR), benchmark creator analysis, fan portrait analytics, keyword heat lookup. Helps AI generate viral-ready scripts, copywriting, and content strategies for short video creators and MCN agencies.
 
 ### 🏃 <a name="sports"></a>Sports
 
