@@ -79,6 +79,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
 * 🔗 - [Aggregators](#aggregators)
+* 📡 - [Ham Radio](#ham-radio)
 * 🎨 - [Art & Culture](#art-and-culture)
 * 📐 - [Architecture & Design](#architecture-and-design)
 * 📂 - [Browser Automation](#browser-automation)
@@ -196,6 +197,12 @@ Servers for accessing many apps and tools through a single MCP server.
 
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Accurate astronomical catalog data and observing session planner. 13,000+ deep-sky objects from OpenNGC with deterministic visibility, rise/transit/set, and alt/az calculations. `npx astronomy-oracle`
 - [IO-Aerospace-software-community/mcp-server](https://github.com/IO-Aerospace-software-engineering/mcp-server) #️⃣ ☁️/🏠 🐧 - IO Aerospace MCP Server: a .NET-based MCP server for aerospace & astrodynamics — ephemeris, orbital conversions, DSS tools, time conversions, and unit/math utilities. Supports STDIO and SSE transports; Docker and native .NET deployment documented.
+
+### 📡 <a name="ham-radio"></a>Ham Radio
+
+Tools for radio amateurs (ham radio operators) — band plans, antenna design, propagation data, RF calculators and reference information.
+
+- [achildrenmile/oeradio-mcp](https://github.com/achildrenmile/oeradio-mcp) 📇 ☁️ 🏠 🐧 - Amateur radio calculations and reference data for AI assistants. 11 tools covering IARU Region 1 band plans, dipole/EFHW/vertical antenna design, coax cable attenuation, EIRP calculations, battery runtime for portable operation and propagation. Live endpoint at `oeradio-mcp.oeradio.at/mcp`, self-hostable via Docker.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
