@@ -1,4 +1,4 @@
-[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
+[Resource from github at repo://punkpeye/awesome-mcp-servers/sha/9735596a41dd921a321314d6b66e68b2cb89488b/contents/README.md] [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
@@ -1342,6 +1342,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 Integration with gaming related data, game engines, and services
 
+- [3aKHP/prts-mcp](https://github.com/3aKHP/prts-mcp) 🐍 📇 ☁️ 🏠 - MCP Server for [Arknights](https://www.arknights.global/), querying the [PRTS Wiki](https://prts.wiki) API and serving auto-synced operator archives and voice lines from game data. Designed for fan-creation (同人創作) AI agents. Python (stdio/Docker) and TypeScript (Streamable HTTP) implementations.
 - [butterlatte-zhang/unity-ai-bridge](https://github.com/butterlatte-zhang/unity-ai-bridge) [![butterlatte-zhang/unity-ai-bridge MCP server](https://glama.ai/mcp/servers/butterlatte-zhang/unity-ai-bridge/badges/score.svg)](https://glama.ai/mcp/servers/butterlatte-zhang/unity-ai-bridge) #️ 🐍 🏠 🍎 🪟 - Remote-control Unity Editor from any AI IDE via file-based IPC — 62 tools across 13 categories, zero dependencies, supports Claude Code, Cursor, Copilot, Windsurf, Claude Desktop.
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) #️⃣ 🏠 - MCP Server for Unity3d Game Engine integration for game development
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - A MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
