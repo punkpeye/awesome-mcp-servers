@@ -2257,6 +2257,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 - AI Agents framework with 64+ built-in tools for search, memory, workflows, code execution, and file operations. Turn any AI assistant into a multi-agent system with MCP.
 - [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) [![rocketride-org/rocketride-server MCP server](https://glama.ai/mcp/servers/rocketride-org/rocketride-server/badges/score.svg)](https://glama.ai/mcp/servers/rocketride-org/rocketride-server) 📇 🏠 - MCP server that exposes RocketRide AI pipelines as tools for Claude, Cursor, and Windsurf. Self-hosted, open-source pipeline tool with multi-LLM support.
 
+- [Swrly](https://swrly.com) ☁️ - AI agent orchestration platform with a built-in MCP server (374 tools across 51 connectors). Visual drag-and-drop workflow builder, named agent teams, BYOK billing, real-time execution monitoring. Free tier available.
+
 ## Tips and Tricks
 
 ### Official prompt to inform LLMs how to use MCP
