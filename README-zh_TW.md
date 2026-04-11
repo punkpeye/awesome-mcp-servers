@@ -133,6 +133,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - 從您的影片集合中添加、分析、搜尋和生成影片剪輯
 - [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - AniList MCP 伺服器，提供品味感知推薦、觀看分析、社交工具和完整的清單管理。
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 荷蘭國立博物館 API 整合，支援藝術品搜尋、詳情查詢和收藏品瀏覽
+- [shunshi-ai/bazi-reader-mcp](https://github.com/shunshi-ai/bazi-reader-mcp) 📇 🏠 🍎 🪟 🐧 - 計算八字命盤 (中國四柱推命 / 日本四柱推命 / 韓國사주팔자)，內建真太陽時修正、90+ 城市快取和多語言支援（中文 / English / 日本語 / 한국어）。由 Shunshi.AI 提供排盤引擎。
 - [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - 使用 Google Gemini（Nano Banana 2 / Pro）生成圖像素材的本地 MCP 伺服器。支援透明 PNG/WebP 輸出、精確縮放/裁切、最多 14 張參考圖，以及 Google Search grounding。
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 整合 AniList API 獲取動畫和漫畫資訊的 MCP 伺服器
 
