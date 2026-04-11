@@ -2015,6 +2015,7 @@ Access to travel and transportation information. Enables querying schedules, rou
 - [srinath1510/alltrails-mcp-server](https://github.com/srinath1510/alltrails-mcp-server) 🐍 ☁️ - A MCP server that provides access to AllTrails data, allowing you to search for hiking trails and get detailed trail information
 - [tickadoo/tickadoo-mcp](https://github.com/tickadoo/tickadoo-mcp) [![tickadoo MCP server](https://glama.ai/mcp/servers/tickadoo/tickadoo-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tickadoo/tickadoo-mcp) 📇 ☁️ - Discover and book theatre, shows, events, tours and experiences across 700+ cities worldwide. Real-time pricing, availability, and booking links via tickadoo.com.
 - [vessel-api/vesselapi-mcp](https://github.com/vessel-api/vesselapi-mcp) [![vessel-api-mcp-server MCP server](https://glama.ai/mcp/servers/@vessel-api/vessel-api-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@vessel-api/vessel-api-mcp-server) 📇 ☁️ - Maritime vessel tracking via VesselAPI. Search vessels, get real-time positions, ETAs, port events, emissions, inspections, and NAVTEX safety messages.
+- [Emanuele94/SimBrief-MCPServer](https://github.com/Emanuele94/SimBrief-MCPServer) 🐍 🏠 🍎 🪟 🐧 - Access your SimBrief flight plans. 14 tools covering flight summary, weather (METAR/TAF/ATIS), fuel plan, weights, times, ATC flight plan, navlog, NOTAMs, alternate airport, crew and performance sensitivity analysis.
 
 ### 🔄 <a name="version-control"></a>Version Control
 
