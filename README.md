@@ -1381,6 +1381,11 @@ Control smart home devices, home network equipment, and automation systems.
 - [Hybirdss/smartest-tv](https://github.com/Hybirdss/smartest-tv) [![Hybirdss/smartest-tv MCP server](https://glama.ai/mcp/servers/Hybirdss/smartest-tv/badges/score.svg)](https://glama.ai/mcp/servers/Hybirdss/smartest-tv) 🐍 🏠 🍎 🪟 🐧 - Control any smart TV with natural language. Play Netflix, YouTube, Spotify by name with deep linking, cast URLs, scene presets, multi-room audio, and multi-TV sync. Supports LG, Samsung, Android TV, Roku. 21 MCP tools, no cloud required.
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
 
+
+### 🏭 <a name="industrial-and-manufacturing"></a>Industrial & Manufacturing
+
+- [RepairXpertAI IndAutomation](https://github.com/RepairXpert/indautomation) 🐍 🏠 - AI-powered industrial fault diagnosis with 313 fault codes covering Allen-Bradley, Siemens, ABB, Mitsubishi, Fanuc. 8 MCP tools: diagnose faults, search parts, decode VINs, get equipment profiles.
+
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
