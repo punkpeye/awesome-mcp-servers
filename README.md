@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [competitor-monitor-ai-mcp](https://github.com/CSOAI-ORG/competitor-monitor-ai-mcp) - MEOK AI Labs — competitor monitor MCP Server
