@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [churn-predictor-ai-mcp](https://github.com/CSOAI-ORG/churn-predictor-ai-mcp) - MEOK AI Labs — churn predictor MCP Server
