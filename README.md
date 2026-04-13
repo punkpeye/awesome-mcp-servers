@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [cron-ai-mcp](https://github.com/CSOAI-ORG/cron-ai-mcp) - MEOK AI Labs — cron MCP Server
