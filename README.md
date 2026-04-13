@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [ascii-art-ai-mcp](https://github.com/CSOAI-ORG/ascii-art-ai-mcp) - MEOK AI Labs — ascii art MCP Server
