@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [contract-review-ai-mcp](https://github.com/CSOAI-ORG/contract-review-ai-mcp) - MEOK AI Labs — contract review MCP Server
