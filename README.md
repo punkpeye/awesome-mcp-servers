@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [memory-search-mcp](https://github.com/CSOAI-ORG/memory-search-mcp) - MEOK AI Labs — memory search MCP Server
