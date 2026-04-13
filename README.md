@@ -124,9 +124,6 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
-
-- [yeick010/agentshield-mcp](https://github.com/yeick010/agentshield-mcp) [![glama badge](https://glama.ai/mcp/scores/yeick010/agentshield-mcp/badge)](https://glama.ai/mcp/servers/yeick010/agentshield-mcp) 📇 ☁️ - Trust infrastructure for AI agents on Base. DEX Spread Oracle (live Uniswap V3 prices), on-chain escrow, insurance pool, and collective knowledge base. 7 smart contracts. Pay-per-query via x402 micropayments in USDC. ERC-8004 Agent #38580.
-
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
@@ -1334,6 +1331,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - An MCP server that interact with capabilities of the CRIC Wuye AI platform, an intelligent assistant specifically for the property management industry.
 - [XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server) 📇 ☁️ – An MCP server that integrates with Xero's API, allowing for standardized access to Xero's accounting and business features.
 - [yamariki-hub/japan-corporate-mcp](https://github.com/yamariki-hub/japan-corporate-mcp) 🐍 ☁️ - Japanese corporate data via government APIs (gBizINFO, EDINET, e-Stat). Search companies, financials, patents, subsidies, procurement, and government statistics.
+- [yeick010/agentshield-mcp](https://github.com/yeick010/agentshield-mcp) [![glama badge](https://glama.ai/mcp/scores/yeick010/agentshield-mcp/badge)](https://glama.ai/mcp/servers/yeick010/agentshield-mcp) 📇 ☁️ - Trust infrastructure for AI agents on Base. DEX Spread Oracle (live Uniswap V3 prices), on-chain escrow, insurance pool, and collective knowledge base. 7 smart contracts. Pay-per-query via x402 micropayments in USDC. ERC-8004 Agent #38580.
 - [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402) ☁️ - Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM chains.
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ - An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.
 - [zolo-ryan/MarketAuxMcpServer](https://github.com/Zolo-Ryan/MarketAuxMcpServer) 📇 ☁️ - MCP server for comprehensive market and financial news search with advanced filtering by symbols, industries, countries, and date ranges.
