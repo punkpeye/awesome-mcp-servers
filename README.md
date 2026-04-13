@@ -295,6 +295,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 📇 - An MCP server using Playwright for browser automation and webscrapping
 - [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) 📇 🏠 - An MCP server paired with a browser extension that enables LLM clients to control the user's browser (Firefox).
 - [fradser/mcp-server-apple-reminders](https://github.com/FradSer/mcp-server-apple-reminders) 📇 🏠 🍎 - An MCP server for interacting with Apple Reminders on macOS
+- [Darko893/haunt-mcp-server](https://github.com/Darko893/haunt-mcp-server) 📇 ☁️ - Web extraction API for AI agents. Extract clean content, metadata, and links from any URL with JS rendering and anti-bot handling. Free tier: 100 req/mo.
 - [freema/firefox-devtools-mcp](https://github.com/freema/firefox-devtools-mcp) 📇 🏠 - Firefox browser automation via WebDriver BiDi for testing, scraping, and browser control. Supports snapshot/UID-based interactions, network monitoring, console capture, and screenshots.
 - [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 📇 🏠 - Extract structured data from any website. Just prompt and get JSON.
 - [hanzili/comet-mcp](https://github.com/hanzili/comet-mcp) 📇 🏠 🍎 - Connect to Perplexity Comet browser for agentic web browsing, deep research, and real-time task monitoring.
