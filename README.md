@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [csv-analytics-mcp](https://github.com/CSOAI-ORG/csv-analytics-mcp) - MEOK AI Labs — csv analytics MCP Server
