@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [landlaw-ai-mcp](https://github.com/CSOAI-ORG/landlaw-ai-mcp) - MEOK AI Labs — landlaw MCP Server
