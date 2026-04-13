@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [color-ai-mcp](https://github.com/CSOAI-ORG/color-ai-mcp) - MEOK AI Labs — color MCP Server
