@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [content-calendar-ai-mcp](https://github.com/CSOAI-ORG/content-calendar-ai-mcp) - MEOK AI Labs — content calendar MCP Server
