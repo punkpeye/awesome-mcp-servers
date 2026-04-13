@@ -2411,3 +2411,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
+- [Tlalvarez/auxiliar-mcp](https://github.com/Tlalvarez/Auxiliar-ai) ☁️ - Chrome-verified cloud service recommendations: pricing, risk flags, compatibility checks, and setup guides for 71 services across 16 categories.
