@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [cli-builder-ai-mcp](https://github.com/CSOAI-ORG/cli-builder-ai-mcp) - MEOK AI Labs — cli builder MCP Server
