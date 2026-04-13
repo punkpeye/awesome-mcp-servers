@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [robotics-control-mcp](https://github.com/CSOAI-ORG/robotics-control-mcp) - MEOK AI Labs — robotics control MCP Server
