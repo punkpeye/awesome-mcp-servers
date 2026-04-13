@@ -1354,6 +1354,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 Integration with gaming related data, game engines, and services
 
+- [3aKHP/prts-mcp](https://github.com/3aKHP/prts-mcp) [![MCP Server](https://glama.ai/mcp/servers/3aKHP/prts-mcp/badge)](https://glama.ai/mcp/servers/3aKHP/prts-mcp) 🐍 📇 ☁️ 🏠 - MCP Server for [Arknights](https://www.arknights.global/), querying the [PRTS Wiki](https://prts.wiki) API and serving auto-synced operator archives and voice lines from game data. Designed for fan-creation (同人創作) AI agents. Python (stdio/Docker) and TypeScript (Streamable HTTP) implementations.
 - [butterlatte-zhang/unity-ai-bridge](https://github.com/butterlatte-zhang/unity-ai-bridge) [![butterlatte-zhang/unity-ai-bridge MCP server](https://glama.ai/mcp/servers/butterlatte-zhang/unity-ai-bridge/badges/score.svg)](https://glama.ai/mcp/servers/butterlatte-zhang/unity-ai-bridge) #️ 🐍 🏠 🍎 🪟 - Remote-control Unity Editor from any AI IDE via file-based IPC — 62 tools across 13 categories, zero dependencies, supports Claude Code, Cursor, Copilot, Windsurf, Claude Desktop.
 - [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity) #️⃣ 🏠 - MCP Server for Unity3d Game Engine integration for game development
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) 📇 🏠 - A MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing scenes in Godot projects.
