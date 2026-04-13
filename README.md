@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [healthcare-fhir-mcp](https://github.com/CSOAI-ORG/healthcare-fhir-mcp) - MEOK AI Labs — healthcare fhir MCP Server
