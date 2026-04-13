@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [care-membrane-mcp](https://github.com/CSOAI-ORG/care-membrane-mcp) - MEOK AI Labs — care membrane MCP Server
