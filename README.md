@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [budget-planner-ai-mcp](https://github.com/CSOAI-ORG/budget-planner-ai-mcp) - MEOK AI Labs — budget planner MCP Server
