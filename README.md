@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [accessibility-ai-mcp](https://github.com/CSOAI-ORG/accessibility-ai-mcp) - MEOK AI Labs — accessibility MCP Server
