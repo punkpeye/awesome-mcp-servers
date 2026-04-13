@@ -1386,7 +1386,7 @@ Control smart home devices, home network equipment, and automation systems.
 
 AI-powered tools for industrial automation, fault diagnosis, and manufacturing operations.
 
-- [RepairXpert/indautomation](https://github.com/RepairXpert/indautomation) 🐍 🏠 🪟 🐧 - AI-powered industrial fault diagnosis with 78+ fault codes covering Allen-Bradley PLCs, conveyors, AS/RS, packaging lines. 8 MCP tools: diagnose faults, search parts, decode VINs, get equipment profiles.
+- [RepairXpert/indautomation](https://github.com/RepairXpert/indautomation) [![RepairXpert/indautomation MCP server](https://glama.ai/mcp/servers/RepairXpert/indautomation/badges/score.svg)](https://glama.ai/mcp/servers/RepairXpert/indautomation) 🐍 🏠 🪟 🐧 - AI-powered industrial fault diagnosis with 78+ fault codes covering Allen-Bradley PLCs, conveyors, AS/RS, packaging lines. 8 MCP tools: diagnose faults, search parts, decode VINs, get equipment profiles.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
