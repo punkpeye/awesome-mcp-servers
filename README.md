@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [accounting-ai-mcp](https://github.com/CSOAI-ORG/accounting-ai-mcp) - MEOK AI Labs — accounting MCP Server
