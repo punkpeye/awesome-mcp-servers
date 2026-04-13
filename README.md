@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [api-tester-ai-mcp](https://github.com/CSOAI-ORG/api-tester-ai-mcp) - MEOK AI Labs — api tester MCP Server
