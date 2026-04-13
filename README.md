@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [config-validator-ai-mcp](https://github.com/CSOAI-ORG/config-validator-ai-mcp) - MEOK AI Labs — config validator MCP Server
