@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [ad-copy-ai-mcp](https://github.com/CSOAI-ORG/ad-copy-ai-mcp) - MEOK AI Labs — ad copy MCP Server
