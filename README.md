@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [dataprivacy-ai-mcp](https://github.com/CSOAI-ORG/dataprivacy-ai-mcp) - MEOK AI Labs — dataprivacy MCP Server
