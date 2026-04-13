@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [code-executor-mcp](https://github.com/CSOAI-ORG/code-executor-mcp) - MEOK AI Labs — code executor MCP Server
