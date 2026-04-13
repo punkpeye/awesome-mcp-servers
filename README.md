@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [cybersecurity-ai-mcp](https://github.com/CSOAI-ORG/cybersecurity-ai-mcp) - MEOK AI Labs — cybersecurity MCP Server
