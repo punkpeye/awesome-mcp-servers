@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [web-research-mcp](https://github.com/CSOAI-ORG/web-research-mcp) - MEOK AI Labs — web research MCP Server
