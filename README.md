@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [fishkeeper-ai-mcp](https://github.com/CSOAI-ORG/fishkeeper-ai-mcp) - MEOK AI Labs — fishkeeper MCP Server
