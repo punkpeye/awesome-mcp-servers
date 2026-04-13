@@ -976,6 +976,7 @@
 - [nkapila6/mcp-local-rag](https://github.com/nkapila6/mcp-local-rag) 🏠 🐍 - سرور model context protocol (MCP) جستجوی وب شبیه RAG "ابتدایی" که به صورت محلی اجرا می‌شود. نیازی به API نیست.
 - [nyxn-ai/NyxDocs](https://github.com/nyxn-ai/NyxDocs) 🐍 ☁️ 🏠 - سرور MCP تخصصی برای مدیریت مستندات پروژه ارزهای دیجیتال با پشتیبانی از چند بلاکچین (Ethereum، BSC، Polygon، Solana).
 - [OctagonAI/octagon-deep-research-mcp](https://github.com/OctagonAI/octagon-deep-research-mcp) 🎖️ 📇 ☁️ 🏠 - عامل تحقیق عمیق با سرعت بالا و دقت بالا
+- [opendatalab/MinerU-Ecosystem](https://github.com/opendatalab/MinerU-Ecosystem/tree/main/mcp) 🎖️ 🐍 🏠 ☁️ - سرور MCP رسمی تجزیه اسناد MinerU ([mineru-open-mcp](https://pypi.org/project/mineru-open-mcp/) در PyPI). PDFها، doc/docx، ppt/pptx، تصاویر و صفحات گسترده را از طریق API [MinerU](https://mineru.net) به Markdown تبدیل می‌کند؛ حالت Flash رایگان بدون کلید API (حدود ۲۰ صفحه به ازای هر فایل)؛ `MINERU_API_TOKEN` اختیاری برای سقف بالاتر.
 - [parallel-web/search-mcp](https://github.com/parallel-web/search-mcp) ☁️ 🔎 - جستجوی وب با بالاترین دقت برای هوش مصنوعی
 - [parallel-web/task-mcp](https://github.com/parallel-web/task-mcp) ☁️ 🔎 - تحقیق عمیق و وظایف دسته‌ای MCP با بالاترین دقت
 - [pragmar/mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) 🐍 🏠 - جستجو و بازیابی پیشرفته برای داده‌های خزشگر وب. از خزشگرهای WARC، wget، Katana، SiteOne و InterroBot پشتیبانی می‌کند.

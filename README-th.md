@@ -527,6 +527,7 @@
 - [modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/fetch) 🐍 🏠 ☁️ - การดึงและประมวลผลเนื้อหาเว็บอย่างมีประสิทธิภาพสำหรับการบริโภคของ AI
 - [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) 🔍📚 - ค้นหา Google และทำการวิจัยเชิงลึกบนเว็บในหัวข้อใดก็ได้
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) 🐍 ☁️ - การค้นหาเว็บโดยใช้ DuckDuckGo
+- [opendatalab/MinerU-Ecosystem](https://github.com/opendatalab/MinerU-Ecosystem/tree/main/mcp) 🎖️ 🐍 🏠 ☁️ - MCP อย่างเป็นทางการสำหรับแปลงเอกสาร MinerU ([mineru-open-mcp](https://pypi.org/project/mineru-open-mcp/) บน PyPI) แปลง PDF, doc/docx, ppt/pptx, รูปภาพ และสเปรดชีต เป็น Markdown ผ่าน API [MinerU](https://mineru.net); โหมด Flash ฟรีโดยไม่ต้องมี API key (ประมาณ 20 หน้าต่อไฟล์); ตั้ง `MINERU_API_TOKEN` เพื่อขยายขีดจำกัดได้
 - [reading-plus-ai/mcp-server-deep-research](https://github.com/reading-plus-ai/mcp-server-deep-research) 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่ให้การวิจัยเชิงลึกแบบอัตโนมัติคล้าย OpenAI/Perplexity การขยายคำถามที่มีโครงสร้าง และการรายงานที่กระชับ
 - [SecretiveShell/MCP-searxng](https://github.com/SecretiveShell/MCP-searxng) 🐍 🏠 - เซิร์ฟเวอร์ MCP เพื่อเชื่อมต่อกับอินสแตนซ์ searXNG
 - [tinyfish-io/agentql-mcp](https://github.com/tinyfish-io/agentql-mcp) 🎖️ 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่ให้ความสามารถในการดึงข้อมูลของ [AgentQL](https://agentql.com)

@@ -425,6 +425,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn) 🐍 ☁️ - 一個用於搜尋 Hacker News、獲取熱門故事等的 MCP 伺服器。
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - Google News 集成，具有自動主題分類、多語言支援，以及通過 [SerpAPI](https://serpapi.com/) 提供的標題、故事和相關主題的綜合搜尋功能。
 - [devflowinc/trieve](https://github.com/devflowinc/trieve/tree/main/clients/mcp-server) 🎖️📇☁️🏠 - 通過 [Trieve](https://trieve.ai) 爬取、嵌入、分塊、搜尋和檢索數據集中的資訊
+- [opendatalab/MinerU-Ecosystem](https://github.com/opendatalab/MinerU-Ecosystem/tree/main/mcp) 🎖️ 🐍 🏠 ☁️ - 官方 MinerU 文件剖析 MCP（PyPI：[mineru-open-mcp](https://pypi.org/project/mineru-open-mcp/)）。透過 [MinerU](https://mineru.net) API 將 PDF、doc/docx、ppt/pptx、圖片與試算表轉成 Markdown；無需 API 金鑰即可使用免費 Flash 模式（約每檔 20 頁）；可選 `MINERU_API_TOKEN` 以提高上限。
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - 使用 ZoomEye API 搜尋全球網路空間資產
 - [ConechoAI/openai-websearch-mcp](https://github.com/ConechoAI/openai-websearch-mcp/) 🐍 🏠 ☁️ - 將OpenAI內建的`web_search`工具封轉成MCP伺服器使用.
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - 使用 Web Platform API 搜尋 Baseline 狀態的 MCP 伺服器
