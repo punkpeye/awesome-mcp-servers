@@ -2306,3 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
+- [crm-ai-mcp](https://github.com/CSOAI-ORG/crm-ai-mcp) - MEOK AI Labs — crm MCP Server
