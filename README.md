@@ -1726,7 +1726,7 @@ MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
 
-- [coolMukul/sg-property-mcp](https://github.com/coolMukul/sg-property-mcp) 📇 🍎 🪟 🐧 - Singapore property prices, land use, and neighborhood amenities. Zero-config — no API keys needed. `npx sg-property-mcp`
+- [coolMukul/sg-property-mcp](https://github.com/coolMukul/sg-property-mcp) [![sg-property-mcp MCP server](https://glama.ai/mcp/servers/coolMukul/sg-property-mcp/badges/score.svg)](https://glama.ai/mcp/servers/coolMukul/sg-property-mcp) 📇 🍎 🪟 🐧 - Singapore property prices, land use, and neighborhood amenities. Zero-config — no API keys needed. `npx sg-property-mcp`
 
 ### 🔬 <a name="research"></a>Research
 
