@@ -124,7 +124,6 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
-
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
@@ -1351,6 +1350,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server) 📇 ☁️ – An MCP server that integrates with Xero's API, allowing for standardized access to Xero's accounting and business features.
 - [yamariki-hub/japan-corporate-mcp](https://github.com/yamariki-hub/japan-corporate-mcp) 🐍 ☁️ - Japanese corporate data via government APIs (gBizINFO, EDINET, e-Stat). Search companies, financials, patents, subsidies, procurement, and government statistics.
 - [xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402) ☁️ - Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM chains.
+- [yeick010/agentshield-mcp](https://github.com/yeick010/agentshield-mcp) [![yeick010/agentshield-mcp MCP server](https://glama.ai/mcp/servers/yeick010/agentshield-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yeick010/agentshield-mcp) 📇 ☁️ - DeFi tools for AI agents on Base. Live Uniswap V3 prices (slot0), on-chain agent scoring, and DeFi knowledge base. Pay-per-query via x402 micropayments in USDC.
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ - An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.
 - [zolo-ryan/MarketAuxMcpServer](https://github.com/Zolo-Ryan/MarketAuxMcpServer) 📇 ☁️ - MCP server for comprehensive market and financial news search with advanced filtering by symbols, industries, countries, and date ranges.
 - [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) [Glama](https://glama.ai/mcp/servers/mnemox-ai/tradememory-protocol) 🐍 🏠 - Structured 3-layer memory system (trades → patterns → strategy) for AI trading agents. Supports MT5, Binance, and Alpaca.
