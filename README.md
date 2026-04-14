@@ -1150,6 +1150,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
+- [mrslbt/xendit-mcp](https://github.com/mrslbt/xendit-mcp) [![mrslbt/xendit-mcp MCP server](https://glama.ai/mcp/servers/mrslbt/xendit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mrslbt/xendit-mcp) 📇 ☁️ - Xendit payment gateway for Southeast Asia. Invoices, disbursements, balance checks, and bank transfers across Indonesia, Philippines, Thailand, Vietnam, and Malaysia. Install via `npx xendit-mcp`.
 - [@asterpay/mcp-server](https://github.com/timolein74/asterpay-mcp-server) [![asterpay-mcp-server MCP server](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server) 📇 ☁️ - EUR settlement for AI agents via x402 protocol. Market data, AI tools, crypto analytics — pay-per-call in USDC on Base. SEPA Instant EUR off-ramp.
 - [@frihet/mcp-server](https://github.com/Frihet-io/frihet-mcp) [![frihet-mcp MCP server](https://glama.ai/mcp/servers/Frihet-io/frihet-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Frihet-io/frihet-mcp) 📇 ☁️ - AI-native business management — invoices, expenses, clients, products, and quotes. 31 tools for Claude, Cursor, Windsurf, and Cline.
 - [@iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - Double entry plain text accounting, right in your LLM! This MCP enables comprehensive read, and (optional) write access to your local [HLedger](https://hledger.org/) accounting journals.
