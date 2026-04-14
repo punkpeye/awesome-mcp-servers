@@ -714,6 +714,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 Tools and integrations that enhance the development workflow and environment management.
 
+- [EtienneChollet/ontomics](https://github.com/EtienneChollet/ontomics) 🦀 🏠 🍎 🐧 - Semantic code index that extracts domain concepts, naming conventions, and behavioral similarity from codebases. One tool call instead of 19, ~20x fewer tokens for codebase understanding queries.
 - [LWTlong/ai-dev-analytics](https://github.com/LWTlong/ai-dev-analytics) [![glama.ai](https://glama.ai/mcp/servers/LWTlong/ai-dev-analytics/badges/score.svg)](https://glama.ai/mcp/servers/LWTlong/ai-dev-analytics) 📇 🏠 - An open-source observability layer for AI coding. Silently tracks dev tokens/time and auto-codifies AI deviations into persistent project rules.
 - [3KniGHtcZ/codebeamer-mcp](https://github.com/3KniGHtcZ/codebeamer-mcp) [![codebeamer-mcp MCP server](https://glama.ai/mcp/servers/3KniGHtcZ/codebeamer-mcp/badges/score.svg)](https://glama.ai/mcp/servers/3KniGHtcZ/codebeamer-mcp) 📇 ☁️ 🍎 🪟 🐧 - Codebeamer ALM integration for managing work items, trackers, and projects. Provides 17 tools for reading and writing items, associations, references, comments, and risk management data via Codebeamer REST API v3.
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - Create crafted UI components inspired by the best 21st.dev design engineers.
