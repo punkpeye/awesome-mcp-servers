@@ -198,6 +198,7 @@ Servers for accessing many apps and tools through a single MCP server.
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
+- [AceDataCloud/MCPFlux](https://github.com/AceDataCloud/FluxMCP) [![AceDataCloud/MCPFlux MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux) 🐍 ☁️ - Flux AI image generation and editing (Black Forest Labs) via Ace Data Cloud API.
 
 - [AceDataCloud/MCPNanoBanana](https://github.com/AceDataCloud/MCPNanoBanana) [![AceDataCloud/MCPNanoBanana MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana) 🐍 ☁️ - NanoBanana AI image generation and editing with virtual try-on and product placement in realistic scenes.
 - [AceDataCloud/MCPSeedream](https://github.com/AceDataCloud/SeedreamMCP) [![AceDataCloud/MCPSeedream MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPSeedream/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPSeedream) 🐍 ☁️ - ByteDance Seedream image generation and editing via Ace Data Cloud API.
