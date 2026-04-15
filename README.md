@@ -1388,6 +1388,8 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [mnemox-ai/tradememory-protocol](https://github.com/mnemox-ai/tradememory-protocol) [Glama](https://glama.ai/mcp/servers/mnemox-ai/tradememory-protocol) 🐍 🏠 - Structured 3-layer memory system (trades → patterns → strategy) for AI trading agents. Supports MT5, Binance, and Alpaca.
 - [thoughtproof/thoughtproof-mcp](https://github.com/ThoughtProof/thoughtproof-mcp) [![thoughtproof-mcp MCP server](https://glama.ai/mcp/servers/ThoughtProof/thoughtproof-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ThoughtProof/thoughtproof-mcp) 📇 ☁️ - Adversarial multi-model reasoning verification for AI agents before trades execute. Claude, Grok, and DeepSeek challenge each decision — returns ALLOW or HOLD with JWKS-signed attestation. x402-gated on Base (USDC). Part of the 4-issuer Combined Attestation Standard with InsumerAPI, RNWY, and Maiat.
 - [tunedforai/x402-mcp](https://github.com/tunedforai/x402-mcp) [![tunedforai/x402-mcp MCP server](https://glama.ai/mcp/servers/tunedforai/x402-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tunedforai/x402-mcp) 📇 ☁️ - Real-time crypto market structure for AI agents — orderflow across 20 exchanges, 24 tokens. 9 tools: price/funding/OI snapshots, cross-exchange CVD with whale activity, 7yr OHLCV history with buy/sell flow, on-chain address risk. Free via MCP ([`@tunedforai/x402-mcp`](https://www.npmjs.com/package/@tunedforai/x402-mcp) on npm) or pay-per-call in USDC on Base via x402 REST at [`x402.tunedfor.ai`](https://x402.tunedfor.ai) — no API key, no rate limits.
+- [CSOAI-ORG/soc2-compliance-ai-mcp](https://github.com/CSOAI-ORG/soc2-compliance-ai-mcp) 🐍 ☁️ - SOC 2 Type II compliance assessment with trust service criteria, control mapping, and readiness reports.
+- [CSOAI-ORG/tax-calculator-ai-mcp](https://github.com/CSOAI-ORG/tax-calculator-ai-mcp) 🐍 ☁️ - UK/US income tax, EU VAT, corporation tax, capital gains, and filing deadline calculations.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
@@ -1583,8 +1585,14 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [yakuphanycl/instinct](https://github.com/yakuphanycl/instinct) [![yakuphanycl/instinct MCP server](https://glama.ai/mcp/servers/yakuphanycl/instinct/badges/score.svg)](https://glama.ai/mcp/servers/yakuphanycl/instinct) 🐍 🏠 🍎 🪟 🐧 - Self-learning memory for AI coding agents. Observes tool sequences, user preferences, and recurring fixes; confidence-based promotion (hits ≥5 → mature, ≥10 → rule) so agents stop repeating mistakes without explicit instruction. SQLite-backed, project-aware, zero external deps. Works with Claude Code, Cursor, Windsurf, Goose, Codex. Published on PyPI as `instinct-mcp` and registered in the MCP Registry.
 
 ### ⚖️ <a name="legal"></a>Legal
+- [CSOAI-ORG/ai-self-audit-mcp](https://github.com/CSOAI-ORG/ai-self-audit-mcp) 🐍 ☁️ - AI agents audit their own compliance across EU AI Act, NIST RMF, and ISO 42001. Self-assessment and bias checking.
 
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
+- [CSOAI-ORG/eu-ai-act-compliance-mcp](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) 🐍 ☁️ - EU AI Act compliance with risk classification, Article lookup, gap analysis, penalties, and multi-jurisdiction support. By MEOK AI Labs.
+- [CSOAI-ORG/nist-rmf-ai-mcp](https://github.com/CSOAI-ORG/nist-rmf-ai-mcp) 🐍 ☁️ - NIST AI Risk Management Framework compliance. Risk profiling, control mapping, evidence generation, and crosswalks.
+- [CSOAI-ORG/iso-42001-ai-mcp](https://github.com/CSOAI-ORG/iso-42001-ai-mcp) 🐍 ☁️ - First ISO/IEC 42001:2023 AI Management System MCP server. Clause auditing, Annex A controls, certification checklists.
+- [CSOAI-ORG/gdpr-compliance-ai-mcp](https://github.com/CSOAI-ORG/gdpr-compliance-ai-mcp) 🐍 ☁️ - GDPR compliance assessment with lawful basis evaluation, DPIA generation, and data subject rights checking.
+- [CSOAI-ORG/csoai-governance-crosswalk-mcp](https://github.com/CSOAI-ORG/csoai-governance-crosswalk-mcp) 🐍 ☁️ - 12-framework regulatory crosswalk mapping between EU AI Act, NIST, ISO 42001, OECD, UNESCO, IEEE, and more.
 
 - [ark-forge/mcp-eu-ai-act](https://github.com/ark-forge/mcp-eu-ai-act) [![mcp-eu-ai-act MCP server](https://glama.ai/mcp/servers/@ark-forge/mcp-eu-ai-act/badges/score.svg)](https://glama.ai/mcp/servers/@ark-forge/mcp-eu-ai-act) 📇 ☁️ - EU AI Act compliance scanner that detects regulatory violations in AI codebases with risk classification and remediation guidance.
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
