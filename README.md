@@ -109,6 +109,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
+* 🖥️ - [OS Automation](#os-automation)
 * 📋 - [Product Management](#product-management)
 * 🏠 - [Real Estate](#real-estate)
 * 🔬 - [Research](#research)
@@ -1746,6 +1747,12 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [video-edit-mcp](https://github.com/Aditya2755/video-edit-mcp) 🐍 🏠 🍎 🪟 - Comprehensive video and audio editing MCP server with advanced operations including trimming, merging, effects, overlays, format conversion, audio processing, YouTube downloads, and smart memory management for chaining operations without intermediate files
 - [TopazLabs/topaz-mcp](https://github.com/TopazLabs/topaz-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI image enhancement (upscaling, denoising, sharpening) via Topaz Labs API. Supports 8 models including Standard V2, Wonder 2, Bloom, and Recover 3.
 - [verIdyia/autoeq-mcp](https://github.com/verIdyia/autoeq-mcp) [![autoeq-mcp MCP server](https://glama.ai/mcp/servers/verIdyia/autoeq-mcp/badges/score.svg)](https://glama.ai/mcp/servers/verIdyia/autoeq-mcp) 🐍 🏠 🍎 🪟 🐧 - Headphone/IEM equalization database with 8,800+ models from AutoEQ. Search by name or sound signature, get parametric EQ settings, compare headphones band-by-band, and browse Harman preference score rankings. Includes automatic sound signature classification (Neutral, Warm, Bright, Dark, V-shaped, etc.).
+
+### 🖥️ <a name="os-automation"></a>OS Automation
+
+Servers for controlling the desktop operating system: screenshots, window management, mouse/keyboard input injection, and system-level automation.
+
+- [sbuysse/gnome-desktop-mcp](https://github.com/sbuysse/gnome-desktop-mcp) [![gnome-desktop-mcp MCP server](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp) 🐍 🏠 🐧 - GNOME desktop automation for AI agents. 30 tools via D-Bus: screenshots, window management, mouse/keyboard injection, clipboard, workspaces, and system notifications. Works on any GNOME 45–49 Linux desktop.
 
 ### 📋 <a name="product-management"></a>Product Management
 
