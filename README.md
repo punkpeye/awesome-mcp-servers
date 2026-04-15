@@ -729,6 +729,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
+- [Macuse](https://macuse.app) - Complete MCP server for macOS with native app integrations (Calendar, Mail, Notes, Reminders, Messages) and UI automation capabilities. Works with Claude Desktop, Cursor, and Raycast.
 - [sapph1re/mcp-billing-gateway-sdk](https://github.com/sapph1re/mcp-billing-gateway-sdk) [![sapph1re/mcp-billing-gateway-sdk MCP server](https://glama.ai/mcp/servers/sapph1re/mcp-billing-gateway-sdk/badges/score.svg)](https://glama.ai/mcp/servers/sapph1re/mcp-billing-gateway-sdk) 📇 ☁️ - Billing infrastructure for MCP server operators. Add Stripe subscriptions, per-call credits, tiered pricing, and x402 crypto micropayments to any MCP server without writing billing code. Operator dashboard included.
 - [agenticempire/axint](https://github.com/agenticempire/axint) [![agenticempire/axint MCP server](https://glama.ai/mcp/servers/agenticempire/axint/badges/score.svg)](https://glama.ai/mcp/servers/agenticempire/axint) 📇 🏠 - Apple-native execution layer for AI agents. Compiles TypeScript to validated Swift — App Intents, SwiftUI views, WidgetKit widgets, and full apps. 13 MCP tools, 150 diagnostics, 500 tests.
 
