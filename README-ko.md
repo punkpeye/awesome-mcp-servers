@@ -150,6 +150,7 @@
 
 클라우드 플랫폼 서비스 통합. 클라우드 인프라 및 서비스의 관리 및 상호 작용을 가능하게 합니다.
 
+- [mctlhq/mctl-mcp](https://github.com/mctlhq/mctl-mcp) [![mctl-mcp MCP server](https://glama.ai/mcp/servers/mctlhq/mctl-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mctlhq/mctl-mcp) ☁️ - 쿠버네티스 관리 및 자동화된 GitOps를 위한 AI 네이티브 플랫폼 (30개 이상의 도구).
 - [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - Rancher 생태계를 위한 MCP 서버로, 멀티 클러스터 Kubernetes 운영, Harvester HCI 관리(VM, 스토리지, 네트워크), Fleet GitOps 도구를 제공합니다.
 - [Nebula-Block-Data/nebulablock-mcp-server](https://github.com/Nebula-Block-Data/nebulablock-mcp-server) 📇 🏠 - fastmcp 라이브러리와 통합하여 NebulaBlock의 모든 API 기능을 도구로 제공합니다。
 - [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - Greenfield, IPFS, Arweave와 같은 분산 스토리지 네트워크에 AI 생성 코드를 즉시 배포할 수 있는 4EVERLAND Hosting용 MCP 서버 구현.
@@ -219,6 +220,8 @@
 데이터 통합, 변환 및 파이프라인 오케스트레이션을 위한 데이터 플랫폼.
 
 - [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - Flowcore와 상호 작용하여 작업을 수행하고, 데이터를 수집하고, 데이터 코어나 공개 데이터 코어에 있는 모든 데이터를 분석, 교차 참조하고 활용할 수 있습니다. 이 모든 작업은 인간 언어를 사용합니다.
+-- [Leekangbum/networklytics-mcp](https://github.com/Leekangbum/networklytics-mcp) 🐍 - YouTube 댓글 소셜 네트워크 분석(SNA): 인플루언서 중심성 순위, 커뮤니티 감지(Louvain), 감성 분석, AI 에이전트용 공개 JSON API
+
 
 
 ### 🗄️ <a name="databases"></a>데이터베이스
