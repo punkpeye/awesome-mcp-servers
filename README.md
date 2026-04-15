@@ -427,7 +427,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 
 ### 🤖 <a name="coding-agents"></a>Coding Agents
 
-- [LokiZll/clawhup](https://github.com/LokiZll/clawhup) 📇 ☁️ 🍎 🪟 🐧 - Spec-driven AI development platform. MCP server for managing structured PRD → Design → Impl → AgentTask workflows with 4-layer Spec hierarchy, per-step execution tracking, and the `/clawhup` Claude Code skill for traceable AI coding iterations. Free tier available.
+- [LokiZll/clawhup](https://github.com/LokiZll/clawhup) [![LokiZll/clawhup MCP server](https://glama.ai/mcp/servers/LokiZll/clawhup/badges/score.svg)](https://glama.ai/mcp/servers/LokiZll/clawhup) 📇 ☁️ 🍎 🪟 🐧 - Spec-driven AI development platform. MCP server for managing structured PRD → Design → Impl → AgentTask workflows with 4-layer Spec hierarchy, per-step execution tracking, and the `/clawhup` Claude Code skill for traceable AI coding iterations. Free tier available.
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
 
 - [agentic-mcp-tools/owlex](https://github.com/agentic-mcp-tools/owlex) 🐍 🏠 🍎 🪟 🐧 - AI council server: query CLI agents (Claude Code, Codex, Gemini, and OpenCode) in parallel with deliberation rounds
