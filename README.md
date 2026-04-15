@@ -1711,6 +1711,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [ThinkneoAI/mcp-server](https://github.com/ThinkneoAI/mcp-server) [![ThinkneoAI/mcp-server MCP server](https://glama.ai/mcp/servers/ThinkneoAI/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/ThinkneoAI/mcp-server) 🐍 ☁️ - ThinkNEO Control Plane — Enterprise AI governance MCP server with runtime guardrails, observability, AI FinOps, and agent lifecycle control.
 - [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - An MCP server that allows querying Loki logs through the Grafana API.
 - [utapyngo/sentry-mcp-rs](https://github.com/utapyngo/sentry-mcp-rs) 🦀 ☁️ - Fast and minimal Sentry MCP server written in Rust
+- [vk0dev/agent-cost-mcp](https://github.com/vk0dev/agent-cost-mcp) 📇 🏠 🍎 🪟 🐧 - Local-first Claude Code cost analyzer. Parses JSONL session logs to surface per-tool spend, daily cost trends, and optimization hints. Zero cloud, no API key, 1-line npx install.
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🎖️ 🏎️ 🏠 - Provides comprehensive integration with your [VictoriaMetrics instance APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances
 - [yshngg/pmcp](https://github.com/yshngg/pmcp) 🏎️ ☁️ 🏠 🍎 🪟 🐧 - A Prometheus Model Context Protocol Server.
 
