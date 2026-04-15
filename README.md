@@ -2053,6 +2053,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) [![Xquik-dev/x-twitter-scraper MCP server](https://glama.ai/mcp/servers/Xquik-dev/x-twitter-scraper/badges/score.svg?v=2)](https://glama.ai/mcp/servers/Xquik-dev/x-twitter-scraper) 📇 ☁️ - Remote X (Twitter) MCP server with 121 endpoints via 2 tools. Post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways, and monitor accounts. StreamableHTTP at xquik.com/mcp with API key auth.
 - [blacktwist/blacktwist-mcp](https://github.com/blacktwist/blacktwist-mcp) ☁️ - Manage Threads and Bluesky social media from AI assistants. Schedule posts, check analytics, and automate follow-up replies.
 - [blacktwist/blacktwist-mcp](https://github.com/blacktwist/blacktwist-mcp) [glama](https://glama.ai/mcp/connectors/app.blacktwist/black-twist) ☁️ - Manage Threads and Bluesky social media from AI assistants. Schedule posts, check analytics, and automate follow-up replies.
+- [blacktwist/blacktwist-mcp](https://github.com/blacktwist/blacktwist-mcp) [glama](https://glama.ai/mcp/connectors/app.blacktwist/black-twist) [![blacktwist/blacktwist-mcp MCP server](https://glama.ai/mcp/servers/blacktwist/blacktwist-mcp/badges/score.svg)](https://glama.ai/mcp/servers/blacktwist/blacktwist-mcp) ☁️ - Manage Threads and Bluesky social media from AI assistants. Schedule posts, check analytics, and automate follow-up replies.
 
 ### 🏃 <a name="sports"></a>Sports
 
