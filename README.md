@@ -2306,4 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
-- [care-membrane-mcp](https://github.com/CSOAI-ORG/care-membrane-mcp) - MEOK AI Labs — care membrane MCP Server
+- [CSOAI-ORG/care-membrane-mcp](https://github.com/CSOAI-ORG/care-membrane-mcp) [![care-membrane-mcp MCP server](https://glama.ai/mcp/servers/CSOAI-ORG/care-membrane-mcp/badges/score.svg)](https://glama.ai/mcp/servers/CSOAI-ORG/care-membrane-mcp) 🐍 - Care membrane AI safety — 16-probe evaluation, threat detection, relationship health. By MEOK AI Labs.
