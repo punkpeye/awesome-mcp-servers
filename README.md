@@ -2338,4 +2338,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-- [iso-42001-ai-mcp](https://github.com/CSOAI-ORG/iso-42001-ai-mcp) - ISO/IEC 42001 AI Management System MCP
+- [CSOAI-ORG/iso-42001-ai-mcp](https://github.com/CSOAI-ORG/iso-42001-ai-mcp) [![iso-42001-ai-mcp MCP server](https://glama.ai/mcp/servers/CSOAI-ORG/iso-42001-ai-mcp/badges/score.svg)](https://glama.ai/mcp/servers/CSOAI-ORG/iso-42001-ai-mcp) 🐍 - ISO 42001 AI management system — clause auditing, controls, certification readiness. By MEOK AI Labs.
