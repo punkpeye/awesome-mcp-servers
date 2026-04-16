@@ -2338,4 +2338,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-- [nist-rmf-ai-mcp](https://github.com/CSOAI-ORG/nist-rmf-ai-mcp) - MEOK AI Labs — NIST AI Risk Management Framework MCP
+- [CSOAI-ORG/nist-rmf-ai-mcp](https://github.com/CSOAI-ORG/nist-rmf-ai-mcp) [![nist-rmf-ai-mcp MCP server](https://glama.ai/mcp/servers/CSOAI-ORG/nist-rmf-ai-mcp/badges/score.svg)](https://glama.ai/mcp/servers/CSOAI-ORG/nist-rmf-ai-mcp) 🐍 - NIST AI RMF compliance — risk profiling, trustworthy AI, control mapping. By MEOK AI Labs.
