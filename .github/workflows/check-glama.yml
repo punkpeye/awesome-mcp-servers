@@ -13,7 +13,7 @@ jobs:
   # Post-merge welcome comment
   welcome:
     if: github.event.action == 'closed' && github.event.pull_request.merged == true
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, archglasses, optimized]
     steps:
       - name: Post welcome comment
         uses: actions/github-script@v7
@@ -46,7 +46,7 @@ jobs:
   # Validation checks (only on open PRs)
   check-submission:
     if: github.event.action != 'closed'
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, archglasses, optimized]
     steps:
       - name: Checkout base branch
         uses: actions/checkout@v4
