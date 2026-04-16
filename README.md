@@ -2306,4 +2306,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 .
-- [eu-ai-act-compliance-mcp](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) - The only MCP server that automates EU AI Act risk classification, 42-point compliance auditing, penalty assessment, and documentation generation. By MEOK AI Labs.
+- [CSOAI-ORG/eu-ai-act-compliance-mcp](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) [![eu-ai-act-compliance-mcp MCP server](https://glama.ai/mcp/servers/CSOAI-ORG/eu-ai-act-compliance-mcp/badges/score.svg)](https://glama.ai/mcp/servers/CSOAI-ORG/eu-ai-act-compliance-mcp) 🐍 - EU AI Act compliance — risk classification, 42-point auditing, penalty assessment, and documentation generation. By MEOK AI Labs.
