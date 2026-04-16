@@ -948,6 +948,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [qainsights/k6-mcp-server](https://github.com/QAInsights/k6-mcp-server) 🐍 🏠 - Grafana k6 MCP Server for performance testing
 - [qainsights/locust-mcp-server](https://github.com/QAInsights/locust-mcp-server) 🐍 🏠 - Locust MCP Server for performance testing
 - [benswel/qr-agent-core](https://github.com/benswel/qr-agent-core) [![benswel/qr-agent-core MCP server](https://glama.ai/mcp/servers/benswel/qr-agent-core/badges/score.svg)](https://glama.ai/mcp/servers/benswel/qr-agent-core) 📇 ☁️ - Dynamic QR code service for AI agents. Create, update, track, and retarget QR codes without regenerating images. 37 tools covering 11 QR types, one-command install via `npx qr-for-agent`.
+- [kuberstar/qartez-mcp](https://github.com/kuberstar/qartez-mcp) [![kuberstar/qartez-mcp MCP server](https://glama.ai/mcp/servers/kuberstar/qartez-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kuberstar/qartez-mcp) 🦀 🏠 🍎 🪟 🐧 - Semantic code intelligence MCP server with 27 tools for project maps, symbol search, impact analysis, call hierarchies, architecture boundaries, dead code detection, and safe refactoring. Pre-computed AST index for fast, token-efficient code exploration. ([Website](https://qartez.dev))
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - Docker container management and operations through MCP
 - [Quantum3-Labs/ARBuilder](https://github.com/Quantum3-Labs/ARBuilder) [![ARBuilder MCP server](https://glama.ai/mcp/servers/Quantum3-Labs/ARBuilder/badges/score.svg)](https://glama.ai/mcp/servers/Quantum3-Labs/ARBuilder) 🐍 ☁️ 🏠 🍎 🪟 🐧 - AI-powered code generator for the Arbitrum ecosystem. 19 MCP tools for Stylus smart contracts, SDK bridging, full-stack dApps, and Orbit chain deployment, backed by RAG-based retrieval over Arbitrum documentation.
 - [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) 📇 🏠 🍎 - Xcode integration for project management, file operations, and build automation
@@ -2410,4 +2411,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-
