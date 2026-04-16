@@ -1590,6 +1590,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [teolex2020/AuraSDK](https://github.com/teolex2020/AuraSDK) [![teolex2020-aurasdk MCP server](https://glama.ai/mcp/servers/teolex2020-aurasdk/badges/score.svg)](https://glama.ai/mcp/servers/teolex2020-aurasdk) 🐍 🏠 — Persistent cognitive memory for Claude Desktop. Sub-ms recall, offline, encrypted.
 - [arthurpanhku/Arthor-Agent](https://github.com/arthurpanhku/Arthor-Agent) [![arthor-agent MCP server](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent/badges/score.svg)](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent) 🐍 🏠 ☁️ - ...
 - [yakuphanycl/instinct](https://github.com/yakuphanycl/instinct) [![yakuphanycl/instinct MCP server](https://glama.ai/mcp/servers/yakuphanycl/instinct/badges/score.svg)](https://glama.ai/mcp/servers/yakuphanycl/instinct) 🐍 🏠 🍎 🪟 🐧 - Self-learning memory for AI coding agents. Observes tool sequences, user preferences, and recurring fixes; confidence-based promotion (hits ≥5 → mature, ≥10 → rule) so agents stop repeating mistakes without explicit instruction. SQLite-backed, project-aware, zero external deps. Works with Claude Code, Cursor, Windsurf, Goose, Codex. Published on PyPI as `instinct-mcp` and registered in the MCP Registry.
+- [XJTLUmedia/Context-First-MCP](https://github.com/XJTLUmedia/Context-First-MCP) 📇 ☁️ 🏠 🍎 🪟 🐧 - Session memory, context health monitoring, reasoning quality, and truthfulness verification MCP server with 37 tools and tiered memory storage. `npx -y context-first-mcp`
 
 ### ⚖️ <a name="legal"></a>Legal
 
@@ -2410,4 +2411,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
 
