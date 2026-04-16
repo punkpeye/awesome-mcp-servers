@@ -2338,4 +2338,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-- [csoai-governance-crosswalk-mcp](https://github.com/CSOAI-ORG/csoai-governance-crosswalk-mcp) - CSOAI Governance Crosswalk MCP — 12 global AI frameworks mapped through CSOAI's 52-article Partnership Charter. Regulation-to-regulation bridging, compliance gap analysis, unified governance queries.
+- [CSOAI-ORG/csoai-governance-crosswalk-mcp](https://github.com/CSOAI-ORG/csoai-governance-crosswalk-mcp) [![csoai-governance-crosswalk-mcp MCP server](https://glama.ai/mcp/servers/CSOAI-ORG/csoai-governance-crosswalk-mcp/badges/score.svg)](https://glama.ai/mcp/servers/CSOAI-ORG/csoai-governance-crosswalk-mcp) 🐍 - 13-framework regulatory crosswalk mapping — EU AI Act, NIST, ISO 42001, OECD, UNESCO. By MEOK AI Labs.
