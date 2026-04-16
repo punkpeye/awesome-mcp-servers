@@ -1038,6 +1038,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
 - [ztuskes/garmin-documentation-mcp-server](https://github.com/ztuskes/garmin-documentation-mcp-server) 📇 🏠 – Offline Garmin Connect IQ SDK documentation with comprehensive search and API examples
 - [drumst0ck/uploadkit](https://github.com/drumst0ck/uploadkit) [![drumst0ck/uploadkit MCP server](https://glama.ai/mcp/servers/drumst0ck/uploadkit/badges/score.svg)](https://glama.ai/mcp/servers/drumst0ck/uploadkit) 🎖️ 📇 🏠 🍎 🪟 🐧 – Official MCP server for [UploadKit](https://uploadkit.dev). Gives AI assistants first-class knowledge of 40+ React upload components, Next.js route handler scaffolds, BYOS setup (S3/R2/GCS/B2), and full-text search across 88+ docs pages. Runs locally via `npx -y @uploadkitdev/mcp`.
+- [ej-technologies/jprofiler-mcp](https://github.com/ej-technologies/jprofiler-mcp) [![ej-technologies/jprofiler-mcp MCP server](https://glama.ai/mcp/servers/ej-technologies/jprofiler-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ej-technologies/jprofiler-mcp) 🎖️ 📇 ☕ 🏠 🍎 🪟 🐧 - Official JProfiler MCP wrapper for Java performance profiling. Analyze CPU hotspots, memory allocations, JDBC queries, HTTP calls, and heap dumps (HPROF, JFR, JProfiler snapshots) directly from AI coding assistants. Run via `npx -y @ej-technologies/jprofiler-mcp@latest`.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
