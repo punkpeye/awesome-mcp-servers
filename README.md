@@ -25,6 +25,8 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Frameworks](#frameworks)
 * [Tips & Tricks](#tips-and-tricks)
 
+
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware.
 ## What is MCP?
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
