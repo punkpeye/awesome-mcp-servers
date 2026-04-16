@@ -81,6 +81,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔗 - [Aggregators](#aggregators)
 * 🎨 - [Art & Culture](#art-and-culture)
 * 📐 - [Architecture & Design](#architecture-and-design)
+- [Scottcjn/rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) — MCP server for RustChain blockchain, enables AI agents to interact with RTC tokens, check balances, and more. 🦀 📇 ☁️
 * 📂 - [Browser Automation](#browser-automation)
 * 🧬 - [Biology Medicine and Bioinformatics](#bio)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
@@ -252,6 +253,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 Design and visualize software architecture, system diagrams, and technical documentation. Enables AI models to generate professional diagrams and architectural documentation.
 
 - [betterhyq/mermaid-grammer-inspector-mcp](https://github.com/betterhyq/mermaid_grammer_inspector_mcp) 📇 🏠 🍎 🪟 🐧 - A Model Context Protocol (MCP) server for validating Mermaid diagram syntax and providing comprehensive grammar checking capabilities
+- [Scottcjn/rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) — MCP server for RustChain blockchain, enables AI agents to interact with RTC tokens, check balances, and more. 🦀 📇 ☁️
 - [BV-Venky/excalidraw-architect-mcp](https://github.com/BV-Venky/excalidraw-architect-mcp) [![excalidraw-architect-mcp MCP server](https://glama.ai/mcp/servers/@BV-Venky/excalidraw-architect-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@BV-Venky/excalidraw-architect-mcp) 🐍 🏠 🍎 🪟 🐧 - Generate beautiful Excalidraw architecture diagrams with auto-layout, architecture-aware component styling, and stateful editing. 50+ technology mappings including databases, message queues, caches, and more. No API keys required.
 - [erajasekar/ai-diagram-maker-mcp](https://github.com/erajasekar/ai-diagram-maker-mcp) [![erajasekar/ai-diagram-maker-mcp MCP server](https://glama.ai/mcp/servers/erajasekar/ai-diagram-maker-mcp/badges/score.svg)](https://glama.ai/mcp/servers/erajasekar/ai-diagram-maker-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - MCP server for AI Diagram Maker — generate flowcharts, sequence diagrams, ERDs, system/network architecture, UML, mindmap, and workflow from natural language, code, ASCII, images, or Mermaid. Inline rendering using MCP Apps UI and editable diagram URLs. Requires API key.
 - [GittyBurstein/mermaid-mcp-server](https://github.com/GittyBurstein/mermaid-mcp-server) 🐍 ☁️ - MCP server that turns local projects or GitHub repositories into Mermaid diagrams and renders them via Kroki.
