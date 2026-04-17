@@ -1640,7 +1640,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
-- [sugar-co-dev/roc-mcp-server](https://github.com/sugar-co-dev/roc-mcp-server) 📇 ☁️ - Creator commerce intelligence for TikTok Shop brands. GMV benchmarks, ROC calculator, creator profiles, commission guidance, and brand fit analysis — powered by 100+ brands and $20M+ GMV.
+- [sugar-co-dev/roc-mcp-server](https://github.com/sugar-co-dev/roc-mcp-server) [![sugar-co-dev/roc-mcp-server MCP server](https://glama.ai/mcp/servers/sugar-co-dev/roc-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/sugar-co-dev/roc-mcp-server) 📇 ☁️ - Creator commerce intelligence for TikTok Shop brands. GMV benchmarks, ROC calculator, creator profiles, commission guidance, and brand fit analysis — powered by 100+ brands and $20M+ GMV.
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - A Model Context Protocol server for TikTok Ads API integration, enabling AI assistants to manage campaigns, analyze performance metrics, handle audiences and creatives with OAuth authentication flow.
 - [alexey-pelykh/lhremote](https://github.com/alexey-pelykh/lhremote) 📇 🏠 - Open-source CLI and MCP server for LinkedHelper automation — 32 tools for campaign management, messaging, and profile queries via Chrome DevTools Protocol.
 - [BlockRunAI/x-grow](https://github.com/BlockRunAI/x-grow) 📇 ☁️ - X/Twitter algorithm optimizer with post drafting, review scoring, and AI image generation for maximum engagement.
