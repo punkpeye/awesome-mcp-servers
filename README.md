@@ -1929,6 +1929,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 
+- [dygogogo/agent-guard-mcp](https://github.com/dygogogo/agent-guard-mcp) [![dygogogo/agent-guard-mcp MCP server](https://glama.ai/mcp/servers/dygogogo/agent-guard-mcp/badges/score.svg)](https://glama.ai/mcp/servers/dygogogo/agent-guard-mcp) 🏎️ ☁️ 🏠 🍎 🪟 🐧 - Budget control, approval workflows, and audit logging for AI agents.
+
 ### 🔒 <a name="security"></a>Security
 
 - [123Ergo/unphurl-mcp](https://github.com/123Ergo/unphurl-mcp) [![unphurl-mcp MCP server](https://glama.ai/mcp/servers/123Ergo/unphurl-mcp/badges/score.svg)](https://glama.ai/mcp/servers/123Ergo/unphurl-mcp) 📇 ☁️ - URL intelligence for AI agents. 13 tools for security signals and data quality: redirect behaviour, brand impersonation detection, domain age, SSL validation, parked detection, URL structural analysis, DNS enrichment.
