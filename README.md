@@ -1755,6 +1755,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 Servers for controlling the desktop operating system: screenshots, window management, mouse/keyboard input injection, and system-level automation.
 
 - [sbuysse/gnome-desktop-mcp](https://github.com/sbuysse/gnome-desktop-mcp) [![gnome-desktop-mcp MCP server](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp) 🐍 🏠 🐧 - GNOME desktop automation for AI agents. 30 tools via D-Bus: screenshots, window management, mouse/keyboard injection, clipboard, workspaces, and system notifications. Works on any GNOME 45–49 Linux desktop.
+- [YV17labs/GhostDesk](https://github.com/YV17labs/GhostDesk) 🐍 🏠 🐧 - A full virtual Linux desktop as an MCP server, shipped in Docker. Agents drive screen, mouse, keyboard across any GUI — from modern apps (browsers, IDEs, office suites) to legacy software and Wine/Windows programs — many in parallel. Works with local vision models (Qwen family) or frontier APIs (Claude, GPT-4o, Gemini). Self-hosted on ARM + AMD64, pixels never leave your network.
 
 ### 📋 <a name="product-management"></a>Product Management
 
