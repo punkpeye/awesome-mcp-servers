@@ -1754,6 +1754,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 
 Servers for controlling the desktop operating system: screenshots, window management, mouse/keyboard input injection, and system-level automation.
 
+- [AdelElo13/mac-control-mcp](https://github.com/AdelElo13/mac-control-mcp) 🏠 🍎 - Native Swift macOS automation for AI agents. 63 tools across the Accessibility tree, Safari/Chrome automation, ScreenCaptureKit window capture, OCR, Spotlight (NSMetadataQuery), clipboard, windows, apps, menus, and system settings. Ships as one Developer-ID-signed + Apple-notarized `.app` bundle — no Python/Node runtime. Distributed as an MCP Bundle (`.mcpb`) for one-click install in Claude Desktop.
 - [sbuysse/gnome-desktop-mcp](https://github.com/sbuysse/gnome-desktop-mcp) [![gnome-desktop-mcp MCP server](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp) 🐍 🏠 🐧 - GNOME desktop automation for AI agents. 30 tools via D-Bus: screenshots, window management, mouse/keyboard injection, clipboard, workspaces, and system notifications. Works on any GNOME 45–49 Linux desktop.
 
 ### 📋 <a name="product-management"></a>Product Management
