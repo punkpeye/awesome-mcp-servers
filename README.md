@@ -645,6 +645,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - A Model Context Protocol Server for MongoDB
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - DuckDB database integration with schema inspection and query capabilities
 - [LucasHild/mcp-server-bigquery](https://github.com/LucasHild/mcp-server-bigquery) 🐍 ☁️ - BigQuery database integration with schema inspection and query capabilities
+- [marras0914/cordon](https://github.com/marras0914/cordon) 📇 🏠 - Security gateway for MCP tool calls. Sits between your LLM client and MCP servers, enforcing per-tool policies (allow/block/approve/read-only), logging every call, and pausing dangerous operations for human approval in terminal or Slack. Install: `npx cordon-cli init`.
 - [memgraph/mcp-memgraph](https://github.com/memgraph/ai-toolkit/tree/main/integrations/mcp-memgraph) 🐍 🏠 - Memgraph MCP Server - includes a tool to run a query against Memgraph and a schema resource.
 - [mbentham/SqlAugur](https://github.com/mbentham/SqlAugur) #️⃣ 🏠 🪟 🐧 - SQL Server MCP server with AST-based query validation, read-only safety, schema exploration, ER diagram generation, and DBA toolkit integration (First Responder Kit, DarlingData, sp_WhoIsActive).
 - [modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres) 📇 🏠 - PostgreSQL database integration with schema inspection and query capabilities
