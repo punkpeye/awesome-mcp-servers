@@ -1525,7 +1525,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [KVANTRA-dev/NOUZ-MCP](https://github.com/KVANTRA-dev/NOUZ-MCP) [![NOUZ-MCP MCP server](https://glama.ai/mcp/servers/KVANTRA-dev/NOUZ-MCP/badges/score.svg)](https://glama.ai/mcp/servers/KVANTRA-dev/NOUZ-MCP) 🐍 🏠 🍎 🪟 🐧 - Semantic knowledge graph for Obsidian. Three modes (pure graph / semantic classification / strict hierarchy), local embeddings, sign classification via cosine similarity to user-defined cores, bottom-up core_mix aggregation, semantic bridge discovery, and drift detection. `pip install nouz-mcp`
 - [linxule/lotus-wisdom-mcp](https://github.com/linxule/lotus-wisdom-mcp) 📇 🏠 ☁️ - Contemplative problem-solving using the Lotus Sutra's wisdom framework. Multi-perspective reasoning with skillful means, non-dual recognition, and meditation pauses. Available as local stdio or remote Cloudflare Worker.
 - [louis030195/easy-obsidian-mcp](https://github.com/louis030195/easy-obsidian-mcp) 📇 🏠 🍎 🪟 🐧 - Interact with Obsidian vaults for knowledge management. Create, read, update, and search notes. Works with local Obsidian vaults using filesystem access.
-- [longmem](https://github.com/marerem/longmem) 🐍 🏠 -
+- [longmem](https://github.com/marerem/longmem)[![marerem/longmem MCP server](https://glama.ai/mcp/servers/marerem/longmem/badges/score.svg)](https://glama.ai/mcp/servers/marerem/longmem)  🐍 🏠 -
   Cross-project memory for Cursor and Claude Code. Saves          
   problem/solution pairs locally with semantic + keyword search so
    your AI stops solving the same problems twice.     
