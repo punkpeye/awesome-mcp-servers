@@ -2022,6 +2022,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [GUCCI-atlasv/skillssafe-mcp](https://github.com/GUCCI-atlasv/skillssafe-mcp) [![dneiil7zph MCP server](https://glama.ai/mcp/servers/dneiil7zph/badges/score.svg)](https://glama.ai/mcp/servers/dneiil7zph) 📇 ☁️ - Free AI agent skill security scanner. Scan SKILL.md, MCP configs, and system prompts for credential theft, prompt injection, zero-width character attacks, and ClawHavoc indicators. Supports OpenClaw, Claude Code, Cursor, and Codex. No signup required.
 - [slouchd/cyberchef-api-mcp-server](https://github.com/slouchd/cyberchef-api-mcp-server) 🐍 ☁️ - MCP server for interacting with the CyberChef server API which will allow an MCP client to utilise the CyberChef operations.
 - [sidclawhq/platform](https://github.com/sidclawhq/platform) [![sidclawhq/platform MCP server](https://glama.ai/mcp/servers/sidclawhq/platform/badges/score.svg)](https://glama.ai/mcp/servers/sidclawhq/platform) 📇 🏠 ☁️ 🍎 🪟 🐧 - Governance proxy for MCP servers. Wraps any upstream server with policy evaluation, human approval workflows, and hash-chain audit trails. 18+ framework integrations. Apache 2.0 SDK.
+- [sint-ai/sint-protocol](https://github.com/sint-ai/sint-protocol) [![sint-ai/sint-protocol MCP server](https://glama.ai/mcp/servers/sint-ai/sint-protocol/badges/score.svg)](https://glama.ai/mcp/servers/sint-ai/sint-protocol) 📇 🏠 🍎 🪟 🐧 - Security-first MCP governance proxy (`sint-mcp`) with capability tokens, T0-T3 approval tiers, fail-closed execution, and tamper-evident audit receipts. Includes a separate `sint-scan` CLI for preflight MCP tool-risk audits.
 - [snyk/studio-mcp](https://github.com/snyk/studio-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Embeds Snyk's security engines into agentic workflows. Secures AI-generated code in real-time and accelerates the fixing vulnerability backlogs.
 - [StacklokLabs/osv-mcp](https://github.com/StacklokLabs/osv-mcp) 🏎️ ☁️ - Access the OSV (Open Source Vulnerabilities) database for vulnerability information. Query vulnerabilities by package version or commit, batch query multiple packages, and get detailed vulnerability information by ID.
 - [vespo92/OPNSenseMCP](https://github.com/vespo92/OPNSenseMCP) 📇 🏠 - MCP Server for managing & interacting with Open Source NGFW OPNSense via Natural Language
@@ -2410,4 +2411,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-
