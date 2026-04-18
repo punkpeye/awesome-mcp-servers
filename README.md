@@ -2381,6 +2381,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 - [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) [![escapeboy/agent-fleet-o MCP server](https://glama.ai/mcp/servers/escapeboy/agent-fleet-o/badges/score.svg)](https://glama.ai/mcp/servers/escapeboy/agent-fleet-o) ☁️ 🏠 - AI Agent Mission Control with 200+ MCP tools. Manage agents, experiments, workflows, crews, skills, and more via stdio + HTTP/SSE. Self-hosted, open-source (AGPL-3.0). Remote server: `https://fleetq.net/mcp`
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK in Rust
+- [GoMCP](https://github.com/zhangpanda/gomcp) 🏎️ - A Gin-like framework for building MCP servers in Go. Struct-tag auto schema, middleware chain, auth, tool groups, adapters for Gin/OpenAPI/gRPC, async tasks, Inspector UI.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) [![jamjet-labs/jamjet MCP server](https://glama.ai/mcp/servers/jamjet-labs/jamjet/badges/score.svg)](https://glama.ai/mcp/servers/jamjet-labs/jamjet) 🦀 🐍 - Durable, agent-native AI runtime with native MCP client + server and A2A support. Rust core for performance, Python authoring for ergonomics. Features graph-based workflows, durable execution, and multi-agent coordination.
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
