@@ -729,7 +729,6 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
-- [zhangpanda/gomcp](https://github.com/zhangpanda/gomcp) [![gomcp MCP server](https://glama.ai/mcp/servers/zhangpanda/gomcp/badges/score.svg)](https://glama.ai/mcp/servers/zhangpanda/gomcp) 📇 🏠 -
    The fast, idiomatic Go framework for building MCP servers. Struct-tag auto schema, middleware chain, and adapters to import existing Gin/OpenAPI/gRPC services as MCP tools.
 - [sapph1re/mcp-billing-gateway-sdk](https://github.com/sapph1re/mcp-billing-gateway-sdk) [![sapph1re/mcp-billing-gateway-sdk MCP server](https://glama.ai/mcp/servers/sapph1re/mcp-billing-gateway-sdk/badges/score.svg)](https://glama.ai/mcp/servers/sapph1re/mcp-billing-gateway-sdk) 📇 ☁️ - Billing infrastructure for MCP server operators. Add Stripe subscriptions, per-call credits, tiered pricing, and x402 crypto micropayments to any MCP server without writing billing code. Operator dashboard included.
 - [agenticempire/axint](https://github.com/agenticempire/axint) [![agenticempire/axint MCP server](https://glama.ai/mcp/servers/agenticempire/axint/badges/score.svg)](https://glama.ai/mcp/servers/agenticempire/axint) 📇 🏠 - Apple-native execution layer for AI agents. Compiles TypeScript to validated Swift — App Intents, SwiftUI views, WidgetKit widgets, and full apps. 13 MCP tools, 150 diagnostics, 500 tests.
@@ -2381,7 +2380,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 - [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) [![escapeboy/agent-fleet-o MCP server](https://glama.ai/mcp/servers/escapeboy/agent-fleet-o/badges/score.svg)](https://glama.ai/mcp/servers/escapeboy/agent-fleet-o) ☁️ 🏠 - AI Agent Mission Control with 200+ MCP tools. Manage agents, experiments, workflows, crews, skills, and more via stdio + HTTP/SSE. Self-hosted, open-source (AGPL-3.0). Remote server: `https://fleetq.net/mcp`
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - TurboMCP SDK: Enterprise MCP SDK in Rust
-- [GoMCP](https://github.com/zhangpanda/gomcp) 🏎️ - A Gin-like framework for building MCP servers in Go. Struct-tag auto schema, middleware chain, auth, tool groups, adapters for Gin/OpenAPI/gRPC, async tasks, Inspector UI.
+- [zhangpanda/gomcp](https://github.com/zhangpanda/gomcp) [![zhangpanda/gomcp MCP server](https://glama.ai/mcp/servers/zhangpanda/gomcp/badges/score.svg)](https://glama.ai/mcp/servers/zhangpanda/gomcp) 🏎️ - A Gin-like framework for building MCP servers in Go. Struct-tag auto schema, middleware chain, auth, tool groups, adapters for Gin/OpenAPI/gRPC, async tasks, Inspector UI.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [jamjet-labs/jamjet](https://github.com/jamjet-labs/jamjet) [![jamjet-labs/jamjet MCP server](https://glama.ai/mcp/servers/jamjet-labs/jamjet/badges/score.svg)](https://glama.ai/mcp/servers/jamjet-labs/jamjet) 🦀 🐍 - Durable, agent-native AI runtime with native MCP client + server and A2A support. Rust core for performance, Python authoring for ergonomics. Features graph-based workflows, durable execution, and multi-agent coordination.
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
