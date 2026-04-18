@@ -47,7 +47,6 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
 
-* [Protodex](https://protodex.io) - Discover 5,618+ MCP servers with security scores, one-click install configs for Claude Desktop/Code/Cursor, and organized by category.
 ## Legend
 
 * 🎖️ – official implementation
