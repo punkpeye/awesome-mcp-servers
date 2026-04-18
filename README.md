@@ -1040,6 +1040,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [drumst0ck/uploadkit](https://github.com/drumst0ck/uploadkit) [![drumst0ck/uploadkit MCP server](https://glama.ai/mcp/servers/drumst0ck/uploadkit/badges/score.svg)](https://glama.ai/mcp/servers/drumst0ck/uploadkit) 🎖️ 📇 🏠 🍎 🪟 🐧 – Official MCP server for [UploadKit](https://uploadkit.dev). Gives AI assistants first-class knowledge of 40+ React upload components, Next.js route handler scaffolds, BYOS setup (S3/R2/GCS/B2), and full-text search across 88+ docs pages. Runs locally via `npx -y @uploadkitdev/mcp`.
 - [mshegolev/jaeger-mcp](https://github.com/mshegolev/jaeger-mcp) 🐍 🏠 ☁️ – MCP server for [Jaeger](https://www.jaegertracing.io/) distributed tracing. Read-only tools to list services and operations, search traces with tag/duration/time filters, retrieve full traces with execution tree, and map service-to-service dependencies.
 - [mshegolev/kibana-mcp](https://github.com/mshegolev/kibana-mcp) 🐍 🏠 ☁️ – MCP server for Kibana / Elasticsearch. Read-only tools to list indices, search logs (Query String syntax + time ranges), run terms aggregations with count/avg/sum/min/max, and browse Kibana saved dashboards.
+- [mshegolev/prometheus-mcp](https://github.com/mshegolev/prometheus-mcp) 🐍 🏠 ☁️ – MCP server for [Prometheus](https://prometheus.io/) metrics. Read-only tools to list metrics, run PromQL instant and range queries, inspect active alerts, and list scrape targets with health status.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
