@@ -429,6 +429,8 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
 
 ### 🤖 <a name="coding-agents"></a>Coding Agents
+- [theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain) 📇 🏠 - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge) 📇 🏠 - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
 
