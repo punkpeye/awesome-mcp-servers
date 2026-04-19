@@ -408,6 +408,7 @@ Cloud platform service integration. Enables management and interaction with clou
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) 🏎️ ☁️/🏠 - Provides MCP multi-cluster Kubernetes management and operations, featuring a management interface, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - [weibaohui/kom](https://github.com/weibaohui/kom) 🏎️ ☁️/🏠 - Provides MCP multi-cluster Kubernetes management and operations. It can be integrated as an SDK into your own project and includes nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 - MCP Server for kubernetes management, and analyze your cluster, application health
+- [xmpuspus/cloudwright](https://github.com/xmpuspus/cloudwright) [![xmpuspus/cloudwright MCP server](https://glama.ai/mcp/servers/xmpuspus/cloudwright/badges/score.svg)](https://glama.ai/mcp/servers/xmpuspus/cloudwright) 🐍 ☁️ - Natural-language cloud architecture intelligence for AWS, GCP, Azure, and Databricks. 19 tools for architecture design, cost estimation, compliance validation (HIPAA, SOC 2, FedRAMP, GDPR, PCI-DSS, Well-Architected), security scanning, Terraform/CloudFormation export, and blast-radius analysis.
 
 ### 👨‍💻 <a name="code-execution"></a>Code Execution
 
