@@ -1337,7 +1337,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [nikicat/mcp-wallet-signer](https://github.com/nikicat/mcp-wallet-signer) 📇 🏠 - Non-custodial EVM wallet MCP — routes transactions to browser wallets (MetaMask, etc.) for signing. Private keys never leave the browser; every action requires explicit user approval via EIP-6963.
 - [nullpath-labs/mcp-client](https://github.com/nullpath-labs/mcp-client) [![mcp-client MCP server](https://glama.ai/mcp/servers/@nullpath-labs/mcp-client/badges/score.svg)](https://glama.ai/mcp/servers/@nullpath-labs/mcp-client) 📇 ☁️ 🍎 🪟 🐧 - AI agent marketplace with x402 micropayments. Discover, execute, and pay agents per-request via MCP with USDC on Base.
 - [OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server) 🐍 ☁️ - Octagon AI Agents to integrate private and public market data
-- [oerc-s/primordia](https://github.com/oerc-s/primordia) 📇 ☁️ - AI agent economic settlement. Verify receipts, emit meters (FREE). Net settlements, credit lines, audit-grade balance sheets (PAID/402).
+- [oerc-s/primordia](https://github.com/oerc-s/primordia) 📇 ☁️ - AI agent economic settlement. Verify receipts, emit meters (FREE). Net settlements, credit lines, audit-grade balance sheets (PAID/402). - [OGCryptoKitty/hydra-arm3](<https://github.com/OGCryptoKitty/hydra-arm3>) [![OGCryptoKitty/hydra-arm3 MCP server](<https://glama.ai/mcp/servers/OGCryptoKitty/hydra-arm3/badges/score.svg>)](<https://glama.ai/mcp/servers/OGCryptoKitty/hydra-arm3>) 🐍 ☁️ - Real-time SEC/CFTC/Fed regulatory risk scoring, Polymarket odds, Kalshi contract data, and prediction market arbitrage signals. 22 x402-paid endpoints on Base L2.
 - [olgasafonova/gleif-mcp-server](https://github.com/olgasafonova/gleif-mcp-server) 🏎️ ☁️ - Access the Global Legal Entity Identifier (LEI) database for company verification, KYC, and corporate ownership research via GLEIF's public API.
 - [omni-fun-mcp-server](https://github.com/0xzcov/omni-fun-mcp-server) [![omni-fun-mcp-server MCP server](https://glama.ai/mcp/servers/0xzcov/omni-fun-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/0xzcov/omni-fun-mcp-server) 📇 ☁️ - Multichain memecoin launchpad across 8 chains (Base, Arb, OP, Polygon, BSC, ETH, Avax, Solana). Tokenize yourself as an oMeme — earn 0.5% creator fee forever + 50% Uniswap V3 LP fees after graduation, from a single LP. $69 bounties. First 100 agents FREE for 60 days. 8 tools: trending tokens, search, quotes, bonding curves, trade simulation, chain info.
 - [openMF/mcp-mifosx-self-service](https://github.com/openMF/mcp-mifosx-self-service) 🐍 ☁️  - A self-service integration for user registration, authentication, account management, transactions, and third-party transfers with Apache Fineract.
@@ -2410,7 +2410,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-
-### Finance & Fintech
-
-- [HYDRA Regulatory Intelligence](https://github.com/OGCryptoKitty/hydra-arm3) - Real-time SEC/CFTC/Fed regulatory risk scoring, FOMC signals, and prediction market data. 22 x402-paid endpoints on Base L2.
