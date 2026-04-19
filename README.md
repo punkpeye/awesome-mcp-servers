@@ -2411,3 +2411,6 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
+### Finance & Fintech
+
+- [HYDRA Regulatory Intelligence](https://github.com/OGCryptoKitty/hydra-arm3) - Real-time SEC/CFTC/Fed regulatory risk scoring, FOMC signals, and prediction market data. 22 x402-paid endpoints on Base L2.
