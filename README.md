@@ -486,6 +486,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 Run commands, capture output and otherwise interact with shells and command line tools.
 
 - [danmartuszewski/hop](https://github.com/danmartuszewski/hop) 🏎️ 🖥️ - Fast SSH connection manager with TUI dashboard and MCP server for discovering, searching, and executing commands on remote hosts.
+- [KamaruSama/mcp-sudo](https://github.com/KamaruSama/mcp-sudo) 🐍 🏠 🐧 - Run sudo commands from any MCP client using a Fernet-encrypted password bound to machine-id + user, avoiding repeated TTY prompts on single-user Linux workstations.
 - [nvms/tui-mcp](https://github.com/nvms/tui-mcp) [![tui-mcp MCP server](https://glama.ai/mcp/servers/nvms/tui-mcp/badges/score.svg)](https://glama.ai/mcp/servers/nvms/tui-mcp) 📇 🏠 🍎 🪟 🐧 - What Chrome DevTools MCP is for the browser, tui-mcp is for the terminal. Launch, screenshot, and interact with any TUI app.
 - [raychao-oao/pty-mcp](https://github.com/raychao-oao/pty-mcp) [![pty-mcp MCP server](https://glama.ai/mcp/servers/raychao-oao/pty-mcp/badges/score.svg)](https://glama.ai/mcp/servers/raychao-oao/pty-mcp) 🏎️ 🏠 🍎 🐧 - Interactive PTY sessions for AI agents — local shells, SSH with persistent sessions (ai-tmux daemon for attach/detach), and serial ports. Single Go binary, no tmux dependency.
 - [ferodrigop/forge](https://github.com/ferodrigop/forge) [![forge MCP server](https://glama.ai/mcp/servers/ferodrigop/forge/badges/score.svg)](https://glama.ai/mcp/servers/ferodrigop/forge) 📇 🏠 - Terminal MCP server for AI coding agents with persistent PTY sessions, ring-buffer incremental reads, headless xterm screen capture, multi-agent orchestration, and a real-time web dashboard.
@@ -1754,6 +1755,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 
 Servers for controlling the desktop operating system: screenshots, window management, mouse/keyboard input injection, and system-level automation.
 
+- [KamaruSama/mcp-screenshot](https://github.com/KamaruSama/mcp-screenshot) 🐍 🏠 🐧 - Capture Wayland desktop screenshots (full / geometry / interactive slurp region) via grim. Returns PNG as base64 inline or saves to disk.
 - [sbuysse/gnome-desktop-mcp](https://github.com/sbuysse/gnome-desktop-mcp) [![gnome-desktop-mcp MCP server](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp) 🐍 🏠 🐧 - GNOME desktop automation for AI agents. 30 tools via D-Bus: screenshots, window management, mouse/keyboard injection, clipboard, workspaces, and system notifications. Works on any GNOME 45–49 Linux desktop.
 
 ### 📋 <a name="product-management"></a>Product Management
@@ -2162,6 +2164,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🏢 <a name="workplace-and-productivity"></a>Workplace & Productivity
 
+- [KamaruSama/mcp-google-forms](https://github.com/KamaruSama/mcp-google-forms) 🐍 ☁️ 🍎 🪟 🐧 - 19 tools for Google Forms: create quizzes, bulk-add True/False & multiple-choice questions, update answer keys, verify keys against an expected list, attach images from Drive, and read submitted responses.
 - [temporal-cortex/mcp](https://github.com/temporal-cortex/mcp) [![cortex-mcp MCP server](https://glama.ai/mcp/servers/@billylui/cortex-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@billylui/cortex-mcp) 🦀 ☁️ 🏠 - AI-native calendar middleware for scheduling, availability, and conflict-free booking across Google Calendar, Outlook, and CalDAV. 15 tools across 5 layers: temporal context, calendar operations, multi-calendar availability, open scheduling, and Two-Phase Commit booking. Deterministic datetime resolution and RRULE expansion powered by Truth Engine.
 - [Agentled/mcp-server](https://github.com/Agentled/mcp-server) [![Agentled/mcp-server MCP server](https://glama.ai/mcp/servers/Agentled/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Agentled/mcp-server) 📇 ☁️ - AI-native workflow orchestration with long-term memory, 100+ integrations, and unified credits. 32 MCP tools for building and running intelligent business workflows — lead enrichment, content publishing, company research, media production, and more. Knowledge Graph that learns across executions.
 - [6figr-com/jobgpt-mcp-server](https://github.com/6figr-com/jobgpt-mcp-server) [![job-gpt-mcp-server MCP server](https://glama.ai/mcp/servers/@6figr-com/job-gpt-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@6figr-com/job-gpt-mcp-server) 📇 ☁️ 🏠 🍎 🪟 🐧 - MCP server for [JobGPT](https://6figr.com/jobgpt) — search jobs, auto-apply, generate tailored resumes, track applications, and find recruiters from any MCP client. 34 tools for job search, applications, resumes, and outreach.
