@@ -572,6 +572,16 @@ Integration with communication platforms for message management and channel oper
 - [loglux/whatsapp-mcp-stream](https://github.com/loglux/whatsapp-mcp-stream) [![whatsapp-mcp-stream MCP server](https://glama.ai/mcp/servers/@loglux/whatsapp-mcp-stream/badges/score.svg)](https://glama.ai/mcp/servers/@loglux/whatsapp-mcp-stream) 📇 🏠 🍎 🪟 🐧 - WhatsApp MCP server over Streamable HTTP with web admin UI (QR/status/settings), bidirectional media upload/download, and SQLite persistence.
 
 
+### 🏗️ <a name="construction-and-aec"></a>Construction / AEC
+
+BIM, architecture, engineering, and construction workflows — Revit, Autodesk Construction Cloud (ACC), Navisworks, Twinmotion, and Autodesk Platform Services (APS) integrations.
+
+- [ScanBIM-Labs/scanbim-mcp](https://github.com/ScanBIM-Labs/scanbim-mcp) 🌐 ☁️ - Unified AEC MCP: ACC, Revit, Navisworks, Twinmotion, APS.
+- [ScanBIM-Labs/revit-mcp](https://github.com/ScanBIM-Labs/revit-mcp) 🌐 ☁️ - Revit queries + APS Design Automation.
+- [ScanBIM-Labs/acc-mcp](https://github.com/ScanBIM-Labs/acc-mcp) 🌐 ☁️ - Autodesk Construction Cloud: issues, RFIs, sheets.
+- [ScanBIM-Labs/navisworks-mcp](https://github.com/ScanBIM-Labs/navisworks-mcp) 🌐 ☁️ - Navisworks clash, 4D, takeoff.
+- [ScanBIM-Labs/twinmotion-mcp](https://github.com/ScanBIM-Labs/twinmotion-mcp) 🌐 ☁️ - Twinmotion rendering + video export.
+
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
 
 Provides access to customer profiles inside of customer data platforms
