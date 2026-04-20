@@ -577,11 +577,11 @@ Integration with communication platforms for message management and channel oper
 
 BIM, architecture, engineering, and construction workflows — Revit, Autodesk Construction Cloud (ACC), Navisworks, Twinmotion, and Autodesk Platform Services (APS) integrations.
 
-- [ScanBIM-Labs/scanbim-mcp](https://github.com/ScanBIM-Labs/scanbim-mcp) 🌐 ☁️ - Unified AEC MCP: ACC, Revit, Navisworks, Twinmotion, APS.
-- [ScanBIM-Labs/revit-mcp](https://github.com/ScanBIM-Labs/revit-mcp) 🌐 ☁️ - Revit queries + APS Design Automation.
-- [ScanBIM-Labs/acc-mcp](https://github.com/ScanBIM-Labs/acc-mcp) 🌐 ☁️ - Autodesk Construction Cloud: issues, RFIs, sheets.
-- [ScanBIM-Labs/navisworks-mcp](https://github.com/ScanBIM-Labs/navisworks-mcp) 🌐 ☁️ - Navisworks clash, 4D, takeoff.
-- [ScanBIM-Labs/twinmotion-mcp](https://github.com/ScanBIM-Labs/twinmotion-mcp) 🌐 ☁️ - Twinmotion rendering + video export.
+- [ScanBIM-Labs/scanbim-mcp](https://github.com/ScanBIM-Labs/scanbim-mcp) 🎖️ 📇 🪟 ☁️ - Unified AEC MCP: ACC, Revit, Navisworks, Twinmotion, APS.
+- [ScanBIM-Labs/revit-mcp](https://github.com/ScanBIM-Labs/revit-mcp) 🎖️ 📇 🪟 ☁️ - Revit queries + APS Design Automation.
+- [ScanBIM-Labs/acc-mcp](https://github.com/ScanBIM-Labs/acc-mcp) 🎖️ 📇 🪟 ☁️ - Autodesk Construction Cloud: issues, RFIs, sheets.
+- [ScanBIM-Labs/navisworks-mcp](https://github.com/ScanBIM-Labs/navisworks-mcp) 🎖️ 📇 🪟 ☁️ - Navisworks clash, 4D, takeoff.
+- [ScanBIM-Labs/twinmotion-mcp](https://github.com/ScanBIM-Labs/twinmotion-mcp) 🎖️ 📇 🪟 ☁️ - Twinmotion rendering + video export.
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
 
