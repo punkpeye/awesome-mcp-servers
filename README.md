@@ -1770,8 +1770,8 @@ Tools for product planning, customer feedback analysis, and prioritization.
 
 MCP servers for real estate CRM, property management, and agent workflows.
 
-- [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, 
-- [MCP Market Russia](https://mcp-market.ru/mcp/) - Russian construction market data: 3,395 companies, 13,436 projects across 18 regions. Search contractors, compare prices, analyze ratings, get market reports via MCP protocol. 21 tools.manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [devids77/mcp-market-ru](https://github.com/devids77/mcp-market-ru) 🐍 ☁️ 🪟 🐧 - Russian construction market data: 3,395 contractor companies, 13,436 house-building projects across 18 regions. Search, compare, analyze, request quotes via 21 MCP tools.
 
 ### 🔬 <a name="research"></a>Research
 
