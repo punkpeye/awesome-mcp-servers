@@ -1038,6 +1038,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
 - [ztuskes/garmin-documentation-mcp-server](https://github.com/ztuskes/garmin-documentation-mcp-server) 📇 🏠 – Offline Garmin Connect IQ SDK documentation with comprehensive search and API examples
 - [drumst0ck/uploadkit](https://github.com/drumst0ck/uploadkit) [![drumst0ck/uploadkit MCP server](https://glama.ai/mcp/servers/drumst0ck/uploadkit/badges/score.svg)](https://glama.ai/mcp/servers/drumst0ck/uploadkit) 🎖️ 📇 🏠 🍎 🪟 🐧 – Official MCP server for [UploadKit](https://uploadkit.dev). Gives AI assistants first-class knowledge of 40+ React upload components, Next.js route handler scaffolds, BYOS setup (S3/R2/GCS/B2), and full-text search across 88+ docs pages. Runs locally via `npx -y @uploadkitdev/mcp`.
+- [CCHub](https://github.com/Moresll/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ### 🔒 <a name="delivery"></a>Delivery
 
