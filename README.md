@@ -88,6 +88,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🤖 - [Coding Agents](#coding-agents)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
+* 🗣️ - [Conversational AI](#conversational-ai)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
 * 📊 - [Data Platforms](#data-platforms)
@@ -571,6 +572,12 @@ Integration with communication platforms for message management and channel oper
 - [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) 📇 ☁️ 🏠 - A Model Context Protocol (MCP) server with built-in Feishu OAuth authentication, supporting remote connections and providing comprehensive Feishu document management tools including block creation, content updates, and advanced features.
 - [loglux/whatsapp-mcp-stream](https://github.com/loglux/whatsapp-mcp-stream) [![whatsapp-mcp-stream MCP server](https://glama.ai/mcp/servers/@loglux/whatsapp-mcp-stream/badges/score.svg)](https://glama.ai/mcp/servers/@loglux/whatsapp-mcp-stream) 📇 🏠 🍎 🪟 🐧 - WhatsApp MCP server over Streamable HTTP with web admin UI (QR/status/settings), bidirectional media upload/download, and SQLite persistence.
 
+
+### 🗣️ <a name="conversational-ai"></a>Conversational AI
+
+Tools for building and operating AI conversation agents that hold structured dialogues with end users.
+
+- [Perspective-AI/mcp](https://github.com/Perspective-AI/mcp) 🎖️ 📇 ☁️ - Official MCP server for [Perspective AI](https://getperspective.ai). An AI Concierge replaces static forms with adaptive AI conversations for lead qualification, customer research, onboarding feedback, and advocacy. Design conversation agents (Concierge, Interviewer, Evaluator, Advocate), analyze conversations, deploy embeds, and automate follow-ups (webhook, email, Slack, HubSpot).
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
 
