@@ -2043,6 +2043,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
 
+- [06ketan/substack-ops](https://github.com/06ketan/substack-ops) 🐍 🏠 - Standalone Substack CLI + 26-tool MCP server. Posts, notes, comments, replies, reactions, restacks, audit & dedup. Host LLM drafts via `propose_reply` / `confirm_reply` tokens — no Anthropic/OpenAI API keys needed. One-line install: `uvx substack-ops mcp install cursor` (or claude-desktop, claude-code).
 - [anwerj/youtube-uploader-mcp](https://github.com/anwerj/youtube-uploader-mcp) 🏎️ ☁️ - AI‑powered YouTube uploader—no CLI, no YouTube Studio. Uploade videos directly from MCP clients with all AI capabilities.
 - [arjun1194/insta-mcp](https://github.com/arjun1194/insta-mcp) 📇 🏠 - Instagram MCP server for analytics and insights. Get account overviews, posts, followers, following lists, post insights, and search for users, hashtags, or places.
 - [BelleKou/mcp-viral-transformer](https://github.com/BelleKou/mcp-viral-transformer) [![BelleKou/mcp-viral-transformer MCP server](https://glama.ai/mcp/servers/BelleKou/mcp-viral-transformer/badges/score.svg)](https://glama.ai/mcp/servers/BelleKou/mcp-viral-transformer) 🐍 🏠 - Turn URLs into viral posts via "remake" command.
