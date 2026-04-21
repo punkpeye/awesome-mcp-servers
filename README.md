@@ -1038,6 +1038,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
 - [ztuskes/garmin-documentation-mcp-server](https://github.com/ztuskes/garmin-documentation-mcp-server) 📇 🏠 – Offline Garmin Connect IQ SDK documentation with comprehensive search and API examples
 - [drumst0ck/uploadkit](https://github.com/drumst0ck/uploadkit) [![drumst0ck/uploadkit MCP server](https://glama.ai/mcp/servers/drumst0ck/uploadkit/badges/score.svg)](https://glama.ai/mcp/servers/drumst0ck/uploadkit) 🎖️ 📇 🏠 🍎 🪟 🐧 – Official MCP server for [UploadKit](https://uploadkit.dev). Gives AI assistants first-class knowledge of 40+ React upload components, Next.js route handler scaffolds, BYOS setup (S3/R2/GCS/B2), and full-text search across 88+ docs pages. Runs locally via `npx -y @uploadkitdev/mcp`.
+- [juice094/devbase](https://github.com/juice094/devbase) 🦀 📇 🏠 🍎 🪟 🐧 - Developer Knowledge OS. Local-first bimodal workspace for humans (TUI) and AI agents (MCP). Manage Git repos, vault notes (PARA/Obsidian-compatible), and assets with 19 MCP tools including unified project context queries. Install via `cargo install --path .` or `irm https://raw.githubusercontent.com/juice094/devbase/main/scripts/install.ps1 | iex`.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
