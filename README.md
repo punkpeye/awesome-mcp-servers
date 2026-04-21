@@ -1718,6 +1718,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [utapyngo/sentry-mcp-rs](https://github.com/utapyngo/sentry-mcp-rs) 🦀 ☁️ - Fast and minimal Sentry MCP server written in Rust
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🎖️ 🏎️ 🏠 - Provides comprehensive integration with your [VictoriaMetrics instance APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances
 - [yshngg/pmcp](https://github.com/yshngg/pmcp) 🏎️ ☁️ 🏠 🍎 🪟 🐧 - A Prometheus Model Context Protocol Server.
+- [dwylq/changemon-mcp](https://github.com/dwylq/changemon-mcp) [![changemon-mcp MCP server](https://glama.ai/mcp/servers/dwylq/changemon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/dwylq/changemon-mcp) 📇 ☁️ - AI-powered website change monitoring. Check any URL for changes, capture baselines, track competitor pricing, and get change history. 4 MCP tools backed by ChangeMon.
 
 ### 🎥 <a name="multimedia-process"></a>Multimedia Process
 
