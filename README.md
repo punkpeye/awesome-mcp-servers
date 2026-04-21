@@ -734,6 +734,8 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 Tools and integrations that enhance the development workflow and environment management.
 
+- [dwylq/ai-directory-mcp](https://github.com/dwylq/ai-directory-mcp) [![ai-directory-mcp MCP server](https://glama.ai/mcp/servers/dwylq/ai-directory-mcp/badges/score.svg)](https://glama.ai/mcp/servers/dwylq/ai-directory-mcp) 📇 ☁️ - AI coding model pricing, benchmarks, and comparison. Search 61+ models by provider, category, and price. Compare SWE-bench, LiveCodeBench, HumanEval scores. Find cheapest model for any use case. 4 MCP tools backed by AI Dev Tools Directory.
+
 - [EtienneChollet/ontomics](https://github.com/EtienneChollet/ontomics) [![EtienneChollet/ontomics MCP server](https://glama.ai/mcp/servers/EtienneChollet/ontomics/badges/score.svg)](https://glama.ai/mcp/servers/EtienneChollet/ontomics) 🦀 🏠 🍎 🐧 - Semantic code index that extracts domain concepts, naming conventions, and behavioral similarity from codebases. One tool call instead of 19, ~20x fewer tokens for codebase understanding queries.
 - [LWTlong/ai-dev-analytics](https://github.com/LWTlong/ai-dev-analytics) [![glama.ai](https://glama.ai/mcp/servers/LWTlong/ai-dev-analytics/badges/score.svg)](https://glama.ai/mcp/servers/LWTlong/ai-dev-analytics) 📇 🏠 - An open-source observability layer for AI coding. Silently tracks dev tokens/time and auto-codifies AI deviations into persistent project rules.
 - [3KniGHtcZ/codebeamer-mcp](https://github.com/3KniGHtcZ/codebeamer-mcp) [![codebeamer-mcp MCP server](https://glama.ai/mcp/servers/3KniGHtcZ/codebeamer-mcp/badges/score.svg)](https://glama.ai/mcp/servers/3KniGHtcZ/codebeamer-mcp) 📇 ☁️ 🍎 🪟 🐧 - Codebeamer ALM integration for managing work items, trackers, and projects. Provides 17 tools for reading and writing items, associations, references, comments, and risk management data via Codebeamer REST API v3.
@@ -1718,6 +1720,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [utapyngo/sentry-mcp-rs](https://github.com/utapyngo/sentry-mcp-rs) 🦀 ☁️ - Fast and minimal Sentry MCP server written in Rust
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🎖️ 🏎️ 🏠 - Provides comprehensive integration with your [VictoriaMetrics instance APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances
 - [yshngg/pmcp](https://github.com/yshngg/pmcp) 🏎️ ☁️ 🏠 🍎 🪟 🐧 - A Prometheus Model Context Protocol Server.
+- [dwylq/changemon-mcp](https://github.com/dwylq/changemon-mcp) [![changemon-mcp MCP server](https://glama.ai/mcp/servers/dwylq/changemon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/dwylq/changemon-mcp) 📇 ☁️ - AI-powered website change monitoring. Check any URL for changes, capture baselines, track competitor pricing, and get change history. 4 MCP tools backed by ChangeMon.
 
 ### 🎥 <a name="multimedia-process"></a>Multimedia Process
 
