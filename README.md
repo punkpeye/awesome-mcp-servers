@@ -129,6 +129,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 Servers for accessing many apps and tools through a single MCP server.
 
+- [swisstruthorg/swiss-truth-mcp](https://github.com/swisstruthorg/swiss-truth-mcp) [![swisstruthorg/swiss-truth-mcp MCP server](https://glama.ai/mcp/servers/swisstruthorg/swiss-truth-mcp/badges/score.svg)](https://glama.ai/mcp/servers/swisstruthorg/swiss-truth-mcp) 🐍 ☁️ - Verified knowledge base for AI agents. 2000+ certified claims across 25+ domains (Swiss law, health, finance, AI/ML, EU regulations). 5-stage human+AI validation, confidence scores, SHA256 hashes. No API key required.
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
 - [tadas-github/a2asearch-mcp](https://github.com/tadas-github/a2asearch-mcp) [![tadas-github/a2asearch-mcp MCP server](https://glama.ai/mcp/servers/tadas-github/a2asearch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tadas-github/a2asearch-mcp) 📇 ☁️ - MCP server to search 4,800+ MCP servers, AI agents, CLI tools and agent skills. Install: `npx -y a2asearch-mcp`. Ask Claude: "Find MCP servers for database access". Free, no auth required.
 - [Aganium/agenium](https://github.com/Aganium/agenium) 📇 ☁️ 🍎 🪟 🐧 - Bridge any MCP server to the agent:// network — DNS-like identity, discovery, and trust for AI agents. Makes your tools discoverable and callable by other agents via `agent://` URIs with mTLS, trust scores, and capability search.
