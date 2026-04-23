@@ -596,6 +596,8 @@ Provides access to customer profiles inside of customer data platforms
 
 ### 🗄️ <a name="databases"></a>Databases
 
+- [REG-Vault](https://regvault.org/docs/api) - Open retro-gaming metadata for 91k games across 99 systems (box art, manuals, screenshots, gameplay previews). Free MCP at `api.regvault.org/mcp`.
+
 Secure database access with schema inspection capabilities. Enables querying and analyzing data with configurable security controls including read-only access.
 
 - [Aiven-Open/mcp-aiven](https://github.com/Aiven-Open/mcp-aiven) - 🐍 ☁️ 🎖️ -  Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services
