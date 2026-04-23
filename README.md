@@ -1325,6 +1325,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [macrocosm-os/macrocosmos-mcp](https://github.com/macrocosm-os/macrocosmos-mcp) - 🎖️ 🐍 ☁️ Access real-time X/Reddit/YouTube data directly in your LLM applications  with search phrases, users, and date filtering.
 - [MarceauSolutions/fitness-influencer-mcp](https://github.com/MarceauSolutions/fitness-influencer-mcp) 🐍 🏠 ☁️ - Fitness content creator workflow automation - video editing with jump cuts, revenue analytics, and branded content creation
 - [scrape-badger/scrapebadger-mcp](https://github.com/scrape-badger/scrapebadger-mcp) 🐍 ☁️ - Access Twitter/X data including user profiles, tweets, followers, trends, lists, and communities via the ScrapeBadger API.
+- [shensi8312/blogburst-mcp](https://github.com/shensi8312/blogburst-mcp) 📇 ☁️ - Autonomous social media operator for Twitter, Bluesky, Telegram, and Discord. Writes posts, replies to mentions, runs engagement cycles (likes/follows), and learns what works week-over-week. Replaces a $500-1,500/mo freelance SMM for $29-99/mo. 4 public tools (sample-post generator, brand audit) work without an account.
 - [sinanefeozler/reddit-summarizer-mcp](https://github.com/sinanefeozler/reddit-summarizer-mcp) 🐍 🏠 ☁️ - MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.
 
 ### 🏃 <a name="sports"></a>Sports
