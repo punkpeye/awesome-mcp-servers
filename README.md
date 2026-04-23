@@ -596,7 +596,7 @@ Provides access to customer profiles inside of customer data platforms
 
 ### 🗄️ <a name="databases"></a>Databases
 
-- [REG-Vault](https://regvault.org/docs/api) - Open retro-gaming metadata for 91k games across 99 systems (box art, manuals, screenshots, gameplay previews). Free MCP at `api.regvault.org/mcp`.
+- [rtissera/regvault-mcp](https://github.com/rtissera/regvault-mcp) [![rtissera/regvault-mcp MCP server](https://glama.ai/mcp/servers/rtissera/regvault-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rtissera/regvault-mcp) - Open retro-gaming metadata — 91k+ games across 99 systems with box art, manuals, screenshots, gameplay previews. Hosted MCP at `api.regvault.org/mcp`.
 
 Secure database access with schema inspection capabilities. Enables querying and analyzing data with configurable security controls including read-only access.
 
