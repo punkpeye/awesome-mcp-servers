@@ -1190,7 +1190,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [xxczaki/local-history-mcp](https://github.com/xxczaki/local-history/mcp) 📇 🏠 🍎 🪟 🐧  - MCP server for accessing VS Code/Cursor Local History
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
-- [Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware. Includes a Python MCP server for node management, wallet queries, and on-chain identity verification.
+- [Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain) [![Scottcjn/Rustchain MCP server](https://glama.ai/mcp/servers/Scottcjn/Rustchain/badges/score.svg)](https://glama.ai/mcp/servers/Scottcjn/Rustchain) 🐍 🏠 - Proof-of-Antiquity blockchain that rewards vintage hardware. Includes a Python MCP server for node management, wallet queries, and on-chain identity verification.
 
 - [mrslbt/xendit-mcp](https://github.com/mrslbt/xendit-mcp) [![mrslbt/xendit-mcp MCP server](https://glama.ai/mcp/servers/mrslbt/xendit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mrslbt/xendit-mcp) 📇 ☁️ - Xendit payment gateway for Southeast Asia. Invoices, disbursements, balance checks, and bank transfers across Indonesia, Philippines, Thailand, Vietnam, and Malaysia. Install via `npx xendit-mcp`.
 - [@asterpay/mcp-server](https://github.com/timolein74/asterpay-mcp-server) [![asterpay-mcp-server MCP server](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server) 📇 ☁️ - EUR settlement for AI agents via x402 protocol. Market data, AI tools, crypto analytics — pay-per-call in USDC on Base. SEPA Instant EUR off-ramp.
