@@ -2504,3 +2504,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+| [Customer Service MCP](https://github.com/zhaohongyuziranerran/customer-service-mcp) | AI customer service with intent classification, sentiment analysis, FAQ matching, knowledge base search, response generation, multi-turn dialog, escalation detection, product/order queries, multi-platform adapters, response humanization, and analytics | Python |
