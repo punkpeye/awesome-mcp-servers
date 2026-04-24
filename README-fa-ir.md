@@ -768,7 +768,7 @@
 - [kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp) 🐍 ☁️ - یک سرور mcp برای ردیابی تراکنش‌های نهنگ‌های ارز دیجیتال.
 - [laukikk/alpaca-mcp](https://github.com/laukikk/alpaca-mcp) 🐍 ☁️ - یک سرور MCP برای API معاملاتی Alpaca برای مدیریت پرتفوی‌های سهام و کریپتو، قرار دادن معاملات و دسترسی به داده‌های بازار.
 - [logotype/fixparser](https://gitlab.com/logotype/fixparser) 🎖 📇 ☁️ 🏠 📟  - پروتکل FIX (ارسال سفارشات، داده‌های بازار و غیره) نوشته شده در TypeScript.
-- [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI داده‌های بی‌درنگ بازار سهام را فراهم می‌کند، به هوش مصنوعی قابلیت‌های تحلیل و معامله را از طریق MCP می‌دهد.
+- [longbridge/longbridge-mcp](https://github.com/longbridge/longbridge-mcp) 🎖️ 🦀 ☁️ - MCP رسمی کارگزاری Longbridge — ۱۱۰ ابزار برای داده‌های بی‌درنگ بازار آمریکا/هنگ‌کنگ، آپشن، معاملات، بنیادین، رتبه‌بندی تحلیلگران، تقویم، هشدارهای قیمت، طرح‌های DCA، تحلیل سبد سهام و لیست‌های اشتراکی جامعه. میزبانی شده در `https://openapi.longbridge.com/mcp` با OAuth 2.1 از طریق RFC 9728.
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) 📇 ☁️ - خدمات جامع بلاکچین برای بیش از ۳۰ شبکه EVM، که از توکن‌های بومی، ERC20، NFTها، قراردادهای هوشمند، تراکنش‌ها و وضوح ENS پشتیبانی می‌کند.
 - [mcpdotdirect/starknet-mcp-server](https://github.com/mcpdotdirect/starknet-mcp-server) 📇 ☁️ - یکپارچه‌سازی جامع بلاکچین Starknet با پشتیبانی از توکن‌های بومی (ETH، STRK)، قراردادهای هوشمند، وضوح StarknetID و انتقال توکن.
 - [minhyeoky/mcp-server-ledger](https://github.com/minhyeoky/mcp-server-ledger) 🐍 🏠 - یکپارچه‌سازی با ledger-cli برای مدیریت تراکنش‌های مالی و تولید گزارش‌ها.

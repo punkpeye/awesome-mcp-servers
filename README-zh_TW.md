@@ -331,7 +331,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API 集成，用於獲取股票和加密貨幣資訊
 - [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - 透過 deBridge 協議實現 EVM 和 Solana 區塊鏈之間的跨鏈兌換和橋接。使 AI 代理能夠發現最佳路徑、評估費用並發起非託管交易。
 - [ferdousbhai/tasty-agent](https://github.com/ferdousbhai/tasty-agent) 🐍 ☁️ - Tastyworks API 集成，用於管理 Tastytrade 平台的交易活動
-- [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI 提供港美股等市場的股票即時行情數據，通過 MCP 提供 AI 接入分析、交易能力。
+- [longbridge/longbridge-mcp](https://github.com/longbridge/longbridge-mcp) 🎖️ 🦀 ☁️ - 官方長橋證券 MCP — 110 個工具覆蓋美股 / 港股即時行情、期權、交易、基本面、分析師評級、財報日曆、價格警示、定投計劃、組合分析和社群分享單。託管於 `https://openapi.longbridge.com/mcp`，透過 RFC 9728 支援 OAuth 2.1。
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ -  使用 Bitget 公共 API 去獲取加密貨幣最新價格
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - 基於 baostock 的 MCP 伺服器,提供對中國股票市場數據的訪問和分析功能。
 - [hoqqun/stooq-mcp](https://github.com/hoqqun/stooq-mcp) 🦀 ☁️ - 無需API金鑰即可從Stooq獲取即時股票價格。支援全球市場（美國、日本、英國、德國）。

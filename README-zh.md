@@ -419,7 +419,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) 🐍 ☁️ -  一个MCP服务器，用于AI代理在多个区块链上的Uniswap去中心化交易所自动执行代币交换。
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) 🐍 ☁️ -  一个MCP服务器，为AI代理提供工具以跨多个区块链铸造ERC-20代币。
 - [kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp) 🐍 ☁️ -  一个MCP服务器，通过The Graph提供的索引区块链数据为AI代理提供支持。
-- [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI 提供港美股等市场的股票实时行情数据，通过 MCP 提供 AI 接入分析、交易能力。
+- [longbridge/longbridge-mcp](https://github.com/longbridge/longbridge-mcp) 🎖️ 🦀 ☁️ - 官方长桥证券 MCP — 110 个工具覆盖美股 / 港股实时行情、期权、交易、基本面、分析师评级、财报日历、价格预警、定投计划、组合分析和社区分享单。托管于 `https://openapi.longbridge.com/mcp`，通过 RFC 9728 支持 OAuth 2.1。
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ -  使用 Bitget 公共 API 去获取加密货币最新价格
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - 基于 baostock 的 MCP 服务器,提供对中国股票市场数据的访问和分析功能。
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - 接入 CRIC物业AI 平台的 MCP 服务器。CRIC物业AI 是克而瑞专为物业行业打造的智能 AI 助理。

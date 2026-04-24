@@ -414,7 +414,7 @@
 - [kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) 🐍 ☁️ - เซิร์ฟเวอร์ MCP ที่ติดตามพูลสภาพคล่องที่สร้างขึ้นใหม่บน Uniswap ในบล็อกเชนหลายตัว
 - [kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) 🐍 ☁️ - เซิร์ฟเวอร์ MCP สำหรับตัวแทน AI เพื่อทำการแลกเปลี่ยนโทเค็นอัตโนมัติบน Uniswap DEX ในบล็อกเชนหลายตัว
 - [kukapay/whale-tracker-mcp](https://github.com/kukapay/whale-tracker-mcp) 🐍 ☁️ - เซิร์ฟเวอร์ mcp สำหรับติดตามธุรกรรมวาฬ cryptocurrency
-- [longportapp/openapi](https://github.com/longportapp/openapi/tree/main/mcp) - 🐍 ☁️ - LongPort OpenAPI ให้ข้อมูลตลาดหุ้นแบบเรียลไทม์ ให้การเข้าถึงการวิเคราะห์และความสามารถในการซื้อขายของ AI ผ่าน MCP
+- [longbridge/longbridge-mcp](https://github.com/longbridge/longbridge-mcp) 🎖️ 🦀 ☁️ - Longbridge Brokerage MCP อย่างเป็นทางการ — 110 เครื่องมือครอบคลุมข้อมูลตลาดสหรัฐ/ฮ่องกงแบบเรียลไทม์ ออปชั่น การซื้อขาย ปัจจัยพื้นฐาน การประเมินของนักวิเคราะห์ ปฏิทินประกาศผลประกอบการ การแจ้งเตือนราคา แผน DCA การวิเคราะห์พอร์ต และรายการแบ่งปันของชุมชน โฮสต์ที่ `https://openapi.longbridge.com/mcp` ผ่าน OAuth 2.1 ตาม RFC 9728
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) 📇 ☁️ - บริการบล็อกเชนที่ครอบคลุมสำหรับเครือข่าย EVM มากกว่า 30 เครือข่าย รองรับโทเค็นเนทีฟ, ERC20, NFTs, สัญญาอัจฉริยะ, ธุรกรรม และการแก้ไข ENS
 - [mcpdotdirect/starknet-mcp-server](https://github.com/mcpdotdirect/starknet-mcp-server) 📇 ☁️ - การผสานรวมบล็อกเชน Starknet ที่ครอบคลุมพร้อมการสนับสนุนโทเค็นเนทีฟ (ETH, STRK), สัญญาอัจฉริยะ, การแก้ไข StarknetID และการโอนโทเค็น
 - [minhyeoky/mcp-server-ledger](https://github.com/minhyeoky/mcp-server-ledger) 🐍 🏠 - การผสานรวม ledger-cli สำหรับการจัดการธุรกรรมทางการเงินและการสร้างรายงาน
