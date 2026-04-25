@@ -1751,6 +1751,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
  - [Synter-Media-AI/mcp-server](https://github.com/Synter-Media-AI/mcp-server) [![Synter-Media-AI/mcp-server MCP server](https://glama.ai/mcp/servers/Synter-Media-AI/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Synter-Media-AI/mcp-server) 📇 ☁️ - Cross-platform ad management MCP server with full read and write capabilities across Google, Meta, LinkedIn, Microsoft, Reddit, and TikTok. Create campaigns, adjust budgets, generate creatives, and pull performance data through natural language.
 - [Sweeppea-Development-Lab/sweeppea-mcp-info](https://github.com/Sweeppea-Development-Lab/sweeppea-mcp-info) [![Sweeppea-Development-Lab/sweeppea-mcp-info MCP server](https://glama.ai/mcp/servers/Sweeppea-Development-Lab/sweeppea-mcp-info/badges/score.svg)](https://glama.ai/mcp/servers/Sweeppea-Development-Lab/sweeppea-mcp-info) 📇 ☁️ - Sweepstakes management platform with 70 MCP tools for legally compliant promotions in the US and Canada. Manage participants, official rules, winner drawings, entry pages, billing, and more. Requires a [Sweeppea](https://www.sweeppea.com/) subscription.
 - [tomba-io/tomba-mcp-server](https://github.com/tomba-io/tomba-mcp-server) 📇 ☁️ - Email discovery, verification, and enrichment tools. Find email addresses, verify deliverability, enrich contact data, discover authors and LinkedIn profiles, validate phone numbers, and analyze technology stacks.
+- [yagomp/seoagent](https://github.com/yagomp/seoagent) [![yagomp/seoagent MCP server](https://glama.ai/mcp/servers/yagomp/seoagent/badges/score.svg)](https://glama.ai/mcp/servers/yagomp/seoagent) 📇 🏠 🍎 🪟 🐧 - Open-source agent-first SEO toolkit with 24 MCP tools. Keyword research, rank tracking, site audits (up to 50k pages), competitor analysis, content gap detection, domain reputation, backlink intelligence, Google Search Console integration, and AI-powered strategy generation (Claude/GPT/Ollama). SQLite-backed, BYOK.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
@@ -2530,3 +2531,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
