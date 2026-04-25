@@ -697,6 +697,7 @@
 - [ahnlabio/bicscan-mcp](https://github.com/ahnlabio/bicscan-mcp) 🎖️ 🐍 ☁️ - امتیاز ریسک / دارایی‌های آدرس بلاکچین EVM (EOA، CA، ENS) و حتی نام‌های دامنه.
 - [getAlby/mcp](https://github.com/getAlby/mcp) 🎖️ 📇 ☁️ 🏠 - هر کیف پول bitcoin lightning را به عامل خود متصل کنید تا پرداخت‌های فوری را به صورت جهانی ارسال و دریافت کنید.
 - [alchemy/alchemy-mcp-server](https://github.com/alchemyplatform/alchemy-mcp-server) 🎖️ 📇 ☁️ - به عامل‌های هوش مصنوعی اجازه دهید با APIهای بلاکچین Alchemy تعامل داشته باشند.
+- [naviprotocol/mcp](https://github.com/naviprotocol/mcp) 📇 ☁️ - سرور NAVI Protocol MCP برای عملیات DeFi در شبکه Sui. دسترسی به استخرهای وام‌دهی، فاکتورهای سلامت و آمار پروتکل.
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - یکپارچه‌سازی با Coinmarket API برای دریافت لیست‌ها و قیمت‌های ارزهای دیجیتال
 - [araa47/jupiter-mcp](https://github.com/araa47/jupiter-mcp) 🐍 ☁️ - دسترسی به Jupiter API (به هوش مصنوعی اجازه می‌دهد توکن‌ها را در Solana معامله کند + به موجودی‌ها دسترسی پیدا کند + توکن‌ها را جستجو کند + سفارشات محدود ایجاد کند)
 - [ariadng/metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) 🐍 🏠 🪟 - به LLMهای هوش مصنوعی امکان اجرای معاملات را با استفاده از پلتفرم MetaTrader 5 می‌دهد
