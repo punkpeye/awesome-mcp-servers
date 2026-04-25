@@ -487,6 +487,8 @@
 
 ابزارها و یکپارچه‌سازی‌هایی که گردش کار توسعه و مدیریت محیط را بهبود می‌بخشند.
 
+- [flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) 🐍 ☁️ 🏠 🍎 🪟 🐧 - سرور Model Context Protocol (MCP) که به طور پویا منابع رسمی Flet را دریافت کرده و به عامل‌های هوش مصنوعی ارائه می‌دهد، از جمله مستندات، کنترل‌ها، پکیج‌ها و اجزای اکوسیستم.
+
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - اجزای UI ساخته شده با الهام از بهترین مهندسان طراحی 21st.dev را ایجاد کنید.
 - [aashari/mcp-server-atlassian-bitbucket](https://github.com/aashari/mcp-server-atlassian-bitbucket) 📇 ☁️ - یکپارچه‌سازی با Atlassian Bitbucket Cloud. به سیستم‌های هوش مصنوعی امکان تعامل با مخازن، pull requestها، فضاهای کاری و کد را در زمان واقعی می‌دهد.
 - [aashari/mcp-server-atlassian-confluence](https://github.com/aashari/mcp-server-atlassian-confluence) 📇 ☁️ - یکپارچه‌سازی با Atlassian Confluence Cloud. به سیستم‌های هوش مصنوعی امکان تعامل با فضاها، صفحات و محتوای Confluence با تبدیل خودکار ADF به Markdown را می‌دهد.
