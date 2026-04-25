@@ -251,7 +251,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 增強開發工作流程和環境管理的工具和集成。
 
-- [flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 動態獲取並向 AI 代理提供官方 Flet 資源（包括文檔、控制項、包和生態系統組件）的模型上下文協議 (MCP) 服務器。
+- [Nwokike/flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) [![Nwokike/flet-mcp-server MCP server](https://glama.ai/mcp/servers/Nwokike/flet-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Nwokike/flet-mcp-server) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 動態獲取並向 AI 代理提供官方 Flet 資源（包括文檔、控制項、包和生態系統組件）的模型上下文協議 (MCP) 服務器。
 
 - [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOS程式碼品質分析與測試自動化伺服器。提供全面的Xcode測試執行、SwiftLint整合及詳細的故障分析。支援CLI和MCP伺服器兩種模式，適用於開發者直接使用和AI助手整合。
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - 將大量程式開發助手的系統提示轉為 MCP 工具，具備模型感知推薦與人格啟用，可模擬 Cursor、Devin 等代理。

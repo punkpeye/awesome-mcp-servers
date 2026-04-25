@@ -288,7 +288,7 @@ Plataformas de dados para integração, transformação e orquestração de pipe
 
 Ferramentas e integrações que aprimoram o fluxo de trabalho de desenvolvimento e o gerenciamento de ambiente.
 
-- [flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Servidor Model Context Protocol (MCP) que busca e serve dinamicamente recursos oficiais do Flet para agentes de IA, incluindo documentação, controles, pacotes e componentes do ecossistema.
+- [Nwokike/flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) [![Nwokike/flet-mcp-server MCP server](https://glama.ai/mcp/servers/Nwokike/flet-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Nwokike/flet-mcp-server) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Servidor Model Context Protocol (MCP) que busca e serve dinamicamente recursos oficiais do Flet para agentes de IA, incluindo documentação, controles, pacotes e componentes do ecossistema.
 
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - Publica um amplo catálogo de prompts de assistentes de código como ferramentas MCP, com recomendações sensíveis ao modelo e ativação de persona para simular agentes como Cursor ou Devin.
 - [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) [![Kapeli/dash-mcp-server MCP server](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server) 🐍 🏠 🍎 - Servidor MCP para o [Dash](https://kapeli.com/dash), o navegador de documentação de APIs para macOS. Pesquisa instantânea em mais de 200 conjuntos de documentação.

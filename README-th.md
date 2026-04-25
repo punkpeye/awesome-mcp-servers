@@ -277,7 +277,7 @@
 
 เครื่องมือและการผสานรวมที่ปรับปรุงเวิร์กโฟลว์การพัฒนาและการจัดการสภาพแวดล้อม
 
-- [flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) 🐍 ☁️ 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ Model Context Protocol (MCP) ที่ดึงข้อมูลและให้บริการทรัพยากร Flet อย่างเป็นทางการแก่เอเจนต์ AI แบบไดนามิก รวมถึงเอกสาร ส่วนควบคุม แพ็คเกจ และส่วนประกอบระบบนิเวศ
+- [Nwokike/flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) [![Nwokike/flet-mcp-server MCP server](https://glama.ai/mcp/servers/Nwokike/flet-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Nwokike/flet-mcp-server) 🐍 ☁️ 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ Model Context Protocol (MCP) ที่ดึงข้อมูลและให้บริการทรัพยากร Flet อย่างเป็นทางการแก่เอเจนต์ AI แบบไดนามิก รวมถึงเอกสาร ส่วนควบคุม แพ็คเกจ และส่วนประกอบระบบนิเวศ
 
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - เปิดคลังพรอมต์ผู้ช่วยเขียนโค้ดจำนวนมากเป็นเครื่องมือ MCP พร้อมการแนะนำตามโมเดลและการสลับบุคลิก เพื่อจำลองเอเจนต์อย่าง Cursor หรือ Devin ได้ทันที
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - สร้างส่วนประกอบ UI ที่สร้างขึ้นอย่างประณีตซึ่งได้รับแรงบันดาลใจจากวิศวกรออกแบบที่ดีที่สุดของ 21st.dev

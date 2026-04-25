@@ -286,7 +286,7 @@
 
 개발 워크플로우 및 환경 관리를 향상시키는 도구 및 통합.
 
-- [flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 문서, 컨트롤, 패키지 및 에코시스템 구성 요소를 포함하여 공식 Flet 리소스를 동적으로 가져와 AI 에이전트에 제공하는 모델 컨텍스트 프로토콜(MCP) 서버.
+- [Nwokike/flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) [![Nwokike/flet-mcp-server MCP server](https://glama.ai/mcp/servers/Nwokike/flet-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Nwokike/flet-mcp-server) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 문서, 컨트롤, 패키지 및 에코시스템 구성 요소를 포함하여 공식 Flet 리소스를 동적으로 가져와 AI 에이전트에 제공하는 모델 컨텍스트 프로토콜(MCP) 서버.
 
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - 수많은 코딩 어시스턴트용 시스템 프롬프트를 MCP 도구로 제공하며, 모델 인식 추천과 페르소나 전환으로 Cursor와 Devin 같은 에이전트를 재현합니다.
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - 최고의 21st.dev 디자인 엔지니어에게서 영감을 받은 맞춤형 UI 컴포넌트 생성.

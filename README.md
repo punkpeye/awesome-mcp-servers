@@ -756,7 +756,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 Tools and integrations that enhance the development workflow and environment management.
 
-- [flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Model Context Protocol (MCP) server that dynamically fetches and serves official Flet resources to AI agents, including documentation, controls, packages, and ecosystem components.
+- [Nwokike/flet-mcp-server](https://github.com/Nwokike/flet-mcp-server) [![Nwokike/flet-mcp-server MCP server](https://glama.ai/mcp/servers/Nwokike/flet-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Nwokike/flet-mcp-server) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Model Context Protocol (MCP) server that dynamically fetches and serves official Flet resources to AI agents, including documentation, controls, packages, and ecosystem components.
 
 - [EtienneChollet/ontomics](https://github.com/EtienneChollet/ontomics) [![EtienneChollet/ontomics MCP server](https://glama.ai/mcp/servers/EtienneChollet/ontomics/badges/score.svg)](https://glama.ai/mcp/servers/EtienneChollet/ontomics) 🦀 🏠 🍎 🐧 - Semantic code index that extracts domain concepts, naming conventions, and behavioral similarity from codebases. One tool call instead of 19, ~20x fewer tokens for codebase understanding queries.
 - [LWTlong/ai-dev-analytics](https://github.com/LWTlong/ai-dev-analytics) [![glama.ai](https://glama.ai/mcp/servers/LWTlong/ai-dev-analytics/badges/score.svg)](https://glama.ai/mcp/servers/LWTlong/ai-dev-analytics) 📇 🏠 - An open-source observability layer for AI coding. Silently tracks dev tokens/time and auto-codifies AI deviations into persistent project rules.
