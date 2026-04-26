@@ -2160,7 +2160,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [vaulted-fyi/vaulted-mcp-server](https://github.com/vaulted-fyi/vaulted-mcp-server) [![vaulted-fyi/vaulted-mcp-server MCP server](https://glama.ai/mcp/servers/vaulted-fyi/vaulted-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/vaulted-fyi/vaulted-mcp-server) 📇 🏠 🍎 🪟 🐧 - Share encrypted, self-destructing secrets from your AI agent. Zero-knowledge E2E encryption. Agent-blind input sources (env:, file:, dotenv:) keep secrets out of LLM context.
 
-- [mopanc/depguard](https://github.com/mopanc/depguard) 📇 🏠 🍎 🪟 🐧 - Pre-install guardian for npm packages with static code analysis, supply-chain attack detection, vulnerability audit (npm + GitHub Advisory Database), AI hallucination guard, and CycloneDX 1.6 SBOM generation with VEX. 12 MCP tools. Zero runtime dependencies — the SBOM serializer is implemented natively against the public CycloneDX schema.
+- [mopanc/depguard](https://github.com/mopanc/depguard) [![mopanc/depguard MCP server](https://glama.ai/mcp/servers/mopanc/depguard/badges/score.svg)](https://glama.ai/mcp/servers/mopanc/depguard) 📇 🏠 🍎 🪟 🐧 - Pre-install guardian for npm packages with static code analysis, supply-chain attack detection, vulnerability audit (npm + GitHub Advisory Database), AI hallucination guard, and CycloneDX 1.6 SBOM generation with VEX. 12 MCP tools. Zero runtime dependencies — the SBOM serializer is implemented natively against the public CycloneDX schema.
 
 ### 🌐 <a name="social-media"></a>Social Media
 
