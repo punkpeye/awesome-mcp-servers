@@ -1754,7 +1754,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 
 Servers for controlling the desktop operating system: screenshots, window management, mouse/keyboard input injection, and system-level automation.
 
-- [MikkoParkkola/axterminator](https://github.com/MikkoParkkola/axterminator) 🦀 🍎 - macOS GUI automation: AX-tree first, vision fallback when AX is unavailable. 30 tools covering windowing, audio capture, camera, virtual desktops. Alternative to pure-vision computer use.
+- [MikkoParkkola/axterminator](https://github.com/MikkoParkkola/axterminator) [![MikkoParkkola/axterminator MCP server](https://glama.ai/mcp/servers/MikkoParkkola/axterminator/badges/score.svg)](https://glama.ai/mcp/servers/MikkoParkkola/axterminator) 🦀 🍎 - macOS GUI automation: AX-tree first, vision fallback when AX is unavailable. 30 tools covering windowing, audio capture, camera, virtual desktops. Alternative to pure-vision computer use.
 - [sbuysse/gnome-desktop-mcp](https://github.com/sbuysse/gnome-desktop-mcp) [![gnome-desktop-mcp MCP server](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp) 🐍 🏠 🐧 - GNOME desktop automation for AI agents. 30 tools via D-Bus: screenshots, window management, mouse/keyboard injection, clipboard, workspaces, and system notifications. Works on any GNOME 45–49 Linux desktop.
 
 ### 📋 <a name="product-management"></a>Product Management
