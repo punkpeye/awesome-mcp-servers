@@ -2537,6 +2537,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [vinkius-labs/mcp-fusion](https://github.com/vinkius-labs/mcp-fusion) 📇 [![Glama](https://glama.ai/mcp/servers/badge/@vinkius-labs/mcp-fusion)](https://glama.ai/mcp/servers/@vinkius-labs/mcp-fusion) - A TypeScript framework for building production-ready MCP servers with automatic tool discovery, multi-transport support (stdio/SSE/HTTP), built-in validation, and zero-config setup.
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 - AI Agents framework with 64+ built-in tools for search, memory, workflows, code execution, and file operations. Turn any AI assistant into a multi-agent system with MCP.
 - [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) [![rocketride-org/rocketride-server MCP server](https://glama.ai/mcp/servers/rocketride-org/rocketride-server/badges/score.svg)](https://glama.ai/mcp/servers/rocketride-org/rocketride-server) 📇 🏠 - MCP server that exposes RocketRide AI pipelines as tools for Claude, Cursor, and Windsurf. Self-hosted, open-source pipeline tool with multi-LLM support.
+- [EuKennedy/mcpkit](https://github.com/EuKennedy/mcpkit) 📇 - TypeScript toolkit for building MCP servers without the boilerplate. Declarative tools with Zod-typed inputs, auto-generated JSON Schemas, in-process testing client, lifecycle events, and a CLI with starter templates (stdio, streamable HTTP, fetch, sqlite).
 
 ## Tips and Tricks
 
