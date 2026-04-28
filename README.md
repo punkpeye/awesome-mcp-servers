@@ -1439,6 +1439,25 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [softvoyagers/fakturka-api](https://github.com/softvoyagers/fakturka-api) 📇 ☁️ - Free Polish VAT invoice generator API (Faktura VAT) with PDF output and preview. No API key required.
 - [sophymarine/openregistry](https://github.com/sophymarine/openregistry) [![sophymarine/openregistry MCP server](https://glama.ai/mcp/servers/sophymarine/openregistry/badges/score.svg)](https://glama.ai/mcp/servers/sophymarine/openregistry) 🎖️ ☁️ - Live official data from 27 national company registries (UK Companies House, France RNE, Germany Handelsregister, Korea OpenDART, Canada CBCA, 10 US states, and more) for KYC / AML / due-diligence workflows. Raw official records, no intermediaries. A platform by sophymarine. Hosted at `openregistry.sophymarine.com/mcp` — OAuth 2.1, streamable HTTP, free anonymous tier.
 - [spfunctions/simplefunctions-cli](https://github.com/spfunctions/simplefunctions-cli) [![simplefunctions-cli MCP server](https://glama.ai/mcp/servers/spfunctions/simplefunctions-cli/badges/score.svg)](https://glama.ai/mcp/servers/spfunctions/simplefunctions-cli) 📇 ☁️ - Calibrated world model for AI agents from 9,700+ prediction markets. 16 MCP tools covering real-time world state, market search, thesis management, edge detection, and content enrichment across Kalshi and Polymarket. `get_world_state` returns ~800 tokens of calibrated probabilities — no API key needed.
+- [srotzin/hive-mcp-agent-kyc](https://github.com/srotzin/hive-mcp-agent-kyc) 📇 ☁️ - KYC screening broker — third-party KYC providers
+- [srotzin/hive-mcp-aml-screen](https://github.com/srotzin/hive-mcp-aml-screen) 📇 ☁️ - AML screening — daily OFAC SDN refresh + on-chain heuristics, observational only
+- [srotzin/hive-mcp-auction](https://github.com/srotzin/hive-mcp-auction) 📇 ☁️ - sealed-bid auction primitives for agent task allocation
+- [srotzin/hive-mcp-barter](https://github.com/srotzin/hive-mcp-barter) 📇 ☁️ - agent-to-agent barter mechanic, no settlement
+- [srotzin/hive-mcp-capital](https://github.com/srotzin/hive-mcp-capital) 📇 ☁️ - capital availability lookup across DeFi venues, broker-only
+- [srotzin/hive-mcp-credit](https://github.com/srotzin/hive-mcp-credit) 📇 ☁️ - credit score lookup, observational
+- [srotzin/hive-mcp-credit-broker](https://github.com/srotzin/hive-mcp-credit-broker) 📇 ☁️ - credit market lookup across Aave/Compound/Morpho/Spark/Maple/Goldfinch, broker-only
+- [srotzin/hive-mcp-dispute](https://github.com/srotzin/hive-mcp-dispute) 📇 ☁️ - dispute routing — Kleros/UMA/Reality.eth, no escrow
+- [srotzin/hive-mcp-escrow](https://github.com/srotzin/hive-mcp-escrow) 📇 ☁️ - escrow primitives, third-party only
+- [srotzin/hive-mcp-exchange](https://github.com/srotzin/hive-mcp-exchange) 📇 ☁️ - exchange rate aggregation, observational
+- [srotzin/hive-mcp-identity](https://github.com/srotzin/hive-mcp-identity) 📇 ☁️ - agent identity primitives (DID + verifiable creds)
+- [srotzin/hive-mcp-insurance](https://github.com/srotzin/hive-mcp-insurance) 📇 ☁️ - insurance product lookup
+- [srotzin/hive-mcp-insurance-broker](https://github.com/srotzin/hive-mcp-insurance-broker) 📇 ☁️ - insurance broker — Nexus Mutual / Sherlock / Risk Harbor / InsurAce listings, broker-only
+- [srotzin/hive-mcp-mining](https://github.com/srotzin/hive-mcp-mining) 📇 ☁️ - mining pool monitoring
+- [srotzin/hive-mcp-oracle](https://github.com/srotzin/hive-mcp-oracle) 📇 ☁️ - oracle price feed aggregation
+- [srotzin/hive-mcp-swap](https://github.com/srotzin/hive-mcp-swap) 📇 ☁️ - swap rate lookup
+- [srotzin/hive-mcp-tax-observer](https://github.com/srotzin/hive-mcp-tax-observer) 📇 ☁️ - tax-event tracking, observational
+- [srotzin/hive-mcp-trade](https://github.com/srotzin/hive-mcp-trade) 📇 ☁️ - trade primitives across multi-rail x402 settlement
+- [srotzin/hive-mcp-vault](https://github.com/srotzin/hive-mcp-vault) 📇 ☁️ - vault deposit/withdraw primitives
 - [SupplyMaven-SCR/supplymaven-mcp-server](https://github.com/SupplyMaven-SCR/supplymaven-mcp-server) [![SupplyMaven-SCR/supplymaven-mcp-server MCP server](https://glama.ai/mcp/servers/SupplyMaven-SCR/supplymaven-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/SupplyMaven-SCR/supplymaven-mcp-server) 📇 ☁️ - Real-time supply chain risk intelligence for AI agents. 25 tools across 3 tiers: Global Disruption Index, Manufacturing Index, commodity prices, port congestion, border delays, chokepoints, air cargo, trade policy, energy, rail, freight, economic indicators, predictive signals, and AI intelligence briefs.
 - [System-R-AI/systemr-python](https://github.com/System-R-AI/systemr-python) [![systemr-python MCP server](https://glama.ai/mcp/servers/System-R-AI/systemr-python/badges/score.svg)](https://glama.ai/mcp/servers/System-R-AI/systemr-python) 🐍 ☁️ - Trading OS for AI agents — 48 tools covering pre-trade risk gates, position sizing, portfolio analytics, regime detection, and compliance scoring. Remote SSE + Streamable HTTP transport with x402 USDC micropayments.
 - [szhygulin/recon-crypto-mcp](https://github.com/szhygulin/recon-crypto-mcp) [![recon-crypto-mcp MCP server](https://glama.ai/mcp/servers/szhygulin/recon-crypto-mcp/badges/score.svg)](https://glama.ai/mcp/servers/szhygulin/recon-crypto-mcp) 📇 🏠 - Self-custodial crypto portfolio for AI agents. Reads EVM wallet balances, ENS, token prices, and DeFi positions across Ethereum/Arbitrum/Polygon/Base (Aave V3, Compound V3, Morpho Blue, Uniswap V3 LP, Lido, EigenLayer), surfaces health-factor alerts and protocol risk scores, then prepares unsigned transactions (supply, borrow, repay, withdraw, stake, send, LiFi swap/bridge) signed on Ledger via WalletConnect — private keys never leave the hardware wallet.
@@ -2488,6 +2507,24 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Shopify/dev-mcp](https://github.com/Shopify/dev-mcp) 📇 ☁️ - Model Context Protocol (MCP) server that interacts with Shopify Dev.
 - [simonpainter/netbox-mcp](https://github.com/simonpainter/netbox-mcp) 🐍 ☁️ - MCP server for interacting with NetBox API.
 - [sirmews/apple-notes-mcp](https://github.com/sirmews/apple-notes-mcp) 🐍 🏠 - Allows the AI to read from your local Apple Notes database (macOS only)
+- [srotzin/hive-mcp-abtest](https://github.com/srotzin/hive-mcp-abtest) 📇 ☁️ - A/B test bucket assignment service for agent flows
+- [srotzin/hive-mcp-agent-quota](https://github.com/srotzin/hive-mcp-agent-quota) 📇 ☁️ - per-agent rate limit and quota tracking
+- [srotzin/hive-mcp-agent-storage](https://github.com/srotzin/hive-mcp-agent-storage) 📇 ☁️ - ephemeral key/value storage for agent sessions
+- [srotzin/hive-mcp-backup](https://github.com/srotzin/hive-mcp-backup) 📇 ☁️ - snapshot and restore for agent state
+- [srotzin/hive-mcp-cdn](https://github.com/srotzin/hive-mcp-cdn) 📇 ☁️ - CDN cache control for agent-served assets
+- [srotzin/hive-mcp-compute](https://github.com/srotzin/hive-mcp-compute) 📇 ☁️ - compute job dispatch and tracking
+- [srotzin/hive-mcp-compute-grid](https://github.com/srotzin/hive-mcp-compute-grid) 📇 ☁️ - grid scheduling across compute providers
+- [srotzin/hive-mcp-connector](https://github.com/srotzin/hive-mcp-connector) 📇 ☁️ - connector discovery and registry for agent tools
+- [srotzin/hive-mcp-depin](https://github.com/srotzin/hive-mcp-depin) 📇 ☁️ - DePIN network status and capacity reporting
+- [srotzin/hive-mcp-evaluator](https://github.com/srotzin/hive-mcp-evaluator) 📇 ☁️ - agent evaluation rubric and scoring
+- [srotzin/hive-mcp-flag](https://github.com/srotzin/hive-mcp-flag) 📇 ☁️ - feature flag service for agent rollouts
+- [srotzin/hive-mcp-gateway](https://github.com/srotzin/hive-mcp-gateway) 📇 ☁️ - unified MCP gateway routing layer
+- [srotzin/hive-mcp-log](https://github.com/srotzin/hive-mcp-log) 📇 ☁️ - structured logging service for agent runs
+- [srotzin/hive-mcp-morph](https://github.com/srotzin/hive-mcp-morph) 📇 ☁️ - morph (capability composition) primitives
+- [srotzin/hive-mcp-mos](https://github.com/srotzin/hive-mcp-mos) 📇 ☁️ - monitoring orchestration service
+- [srotzin/hive-mcp-secrets](https://github.com/srotzin/hive-mcp-secrets) 📇 ☁️ - per-agent secret storage with key rotation
+- [srotzin/hive-mcp-sla-monitor](https://github.com/srotzin/hive-mcp-sla-monitor) 📇 ☁️ - SLA monitoring and breach detection
+- [srotzin/hive-mcp-zk-attestation](https://github.com/srotzin/hive-mcp-zk-attestation) 📇 ☁️ - zk-attestation issuance and verification
  - [rogertheunissenmerge-oss/mcp-server](https://github.com/rogertheunissenmerge-oss/mcp-server) [![rogertheunissenmerge-oss/mcp-server MCP server](https://glama.ai/mcp/servers/rogertheunissenmerge-oss/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/rogertheunissenmerge-oss/mcp-server) 📇 ☁️ - Wine pairing intelligence for AI assistants. 7 MCP tools for sommelier-grade wine recommendations powered by a proprietary Wine DNA algorithm. Pair wines with meals, ingredients, or recipe URLs. Supports API key and x402 (USDC on Base) payments.
 - [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) 📇 🏠 - Interacting with Notion API
 - [Swih/mistral-mcp](https://github.com/Swih/mistral-mcp) [![Swih/mistral-mcp MCP server](https://glama.ai/mcp/servers/Swih/mistral-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Swih/mistral-mcp) 📇 ☁️ 🍎 🪟 🐧 - MCP server exposing 22 Mistral AI capabilities (chat, OCR, audio, vision, agents, embeddings, moderation, classification, files, batch) with dual transport (stdio + Streamable HTTP), structured outputs on every tool, and 6 curated French/English prompts with argument completion. Vendor API key required.
