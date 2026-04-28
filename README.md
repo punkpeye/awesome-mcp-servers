@@ -2558,3 +2558,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [neonia-io](https://github.com/Neonia-io/agent-mcp-examples) - Neonia MCP Gateway (neonia.io) - The ultimate platform for Autonomous AI Agents. Killer features include Autonomous Tool Discovery (dynamically finds and executes missing capabilities), Stateful Cloud Memory (remembers cross-session context), Context Packing (saves LLM tokens), and 20+ specialized dev tools. Get your API Key and configure settings at https://neonia.io.
