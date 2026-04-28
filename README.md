@@ -1146,6 +1146,8 @@ Provides access to documentation and shortcuts for working on embedded devices.
 
 MCP servers for learning management systems (LMS) and educational tools.
 
+- [zerolve-io/coursecards](https://github.com/zerolve-io/coursecards) 📇 ☁️ 🍎 🪟 🐧 - AI-powered flashcard generation from YouTube videos with spaced repetition scheduling. Features SM-2 algorithm, Anki export, playlist management, and OAuth 2.0 authentication. Docs: https://acornonaut.app/docs/mcp
+
 - [Connectry-io/connectrylab-architect-cert-mcp](https://github.com/Connectry-io/connectrylab-architect-cert-mcp) [![connectrylab-architect-cert-mcp MCP server](https://glama.ai/mcp/servers/Connectry-io/connectrylab-architect-cert-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Connectry-io/connectrylab-architect-cert-mcp) 📇 🏠 🍎 🪟 🐧 - Free certification prep for the Claude Certified Architect exam. 390 scenario-based questions, guided capstone build, 30 concept handouts, 6 reference projects, practice exams, interactive UI with clickable answer cards, glassmorphism progress dashboard, spaced repetition, and deterministic grading.
 - [RohanMuppa/brightspace-mcp-server](https://github.com/RohanMuppa/brightspace-mcp-server) [![brightspace-mcp-server MCP server](https://glama.ai/mcp/servers/@RohanMuppa/brightspace-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@RohanMuppa/brightspace-mcp-server) 📇 🏠 🍎 🪟 🐧 - MCP server for D2L Brightspace LMS. Check grades, due dates, assignments, announcements, syllabus, rosters, discussions, and course content. Works with any school that uses Brightspace. Install via `npx brightspace-mcp-server@latest`.
 
