@@ -1513,6 +1513,7 @@ Integration with gaming related data, game engines, and services
 - [tomholford/mcp-tic-tac-toe](https://github.com/tomholford/mcp-tic-tac-toe) 🏎️ 🏠 - Play Tic Tac Toe against an AI opponent using this MCP server.
 - [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) 📇 🏠 🍎 🪟 🐧 - Premium MCP server for Godot game engine with 84 tools for scene editing, scripting, animation, tilemap, shader, input simulation, and runtime debugging.
 - [HadiCherkaoui/crafty-mcp](https://github.com/HadiCherkaoui/crafty-mcp) [![HadiCherkaoui/crafty-mcp MCP server](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp) 📇 🏠 🍎 🪟 🐧 - MCP server for managing Minecraft servers through [Crafty Controller 4](https://craftycontrol.com). Start, stop, backup, send commands, manage files, schedules, webhooks, and users via the Crafty API.
+- [bmachado86/tavernfinder](https://github.com/bmachado86/tavernfinder) 📇 ☁️ - Find tabletop gaming events, venues, and games. Search Magic: The Gathering, Lorcana, Pokemon, Flesh and Blood, Warhammer, board games, and RPG sessions across ~16,000 venues. Six tools: 3 read (search events / venues / games) plus 3 write (RSVP, register user, create event) gated by personal access tokens. Live remote MCP at https://mcp.tavernfinder.com/mcp.
 
 ### 🏠 <a name="home-automation"></a>Home Automation
 
