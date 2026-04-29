@@ -194,6 +194,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [x402-index/x402search-mcp](https://github.com/x402-index/x402search-mcp) [![x402-index/x402search-mcp MCP server](https://glama.ai/mcp/servers/x402-index/x402search-mcp/badges/score.svg)](https://glama.ai/mcp/servers/x402-index/x402search-mcp) 📇 ☁️ 🍎 🪟 🐧 - Search 14,000+ x402-enabled HTTP APIs by keyword. Agents pay $0.01 USDC per search via x402 micropayments on Base mainnet — no API keys required. Larger index than any other x402 discovery layer.
 - [ikoskela/wisepanel-mcp](https://github.com/ikoskela/wisepanel-mcp) [![ikoskela/wisepanel-mcp MCP server](https://glama.ai/mcp/servers/ikoskela/wisepanel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ikoskela/wisepanel-mcp) 📇 ☁️ 🍎 🪟 🐧 - Multi-agent deliberation with divergent context enhancement. Roles are dynamically generated to surround the question-space and maximize divergent dialog across ChatGPT, Claude, Gemini, and Perplexity.
 - [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Comprehensive personal data aggregation MCP server with Steam, YouTube, Bilibili, Spotify, Reddit and other platforms integrations. Features OAuth2 authentication, automatic token management, and 90+ tools for gaming, music, video, and social platform data access.
+- [srotzin/hive-mcp-cdn](https://github.com/srotzin/hive-mcp-cdn) 📇 ☁️ - Edge content delivery for autonomous agents — signed manifests, A2A authentication
 
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
@@ -419,6 +420,9 @@ Cloud platform service integration. Enables management and interaction with clou
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 - MCP Server for kubernetes management, and analyze your cluster, application health
 - [Woobox/hatchable-mcp](https://github.com/Woobox/hatchable-mcp) [![Woobox/hatchable-mcp MCP server](https://glama.ai/mcp/servers/Woobox/hatchable-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Woobox/hatchable-mcp) 🎖️ ☁️ - Build and host full-stack web apps and sites on Hatchable from any MCP client. DB, auth, storage, domains, and cron per project. Free tier.
 - [xmpuspus/cloudwright](https://github.com/xmpuspus/cloudwright) [![xmpuspus/cloudwright MCP server](https://glama.ai/mcp/servers/xmpuspus/cloudwright/badges/score.svg)](https://glama.ai/mcp/servers/xmpuspus/cloudwright) 🐍 ☁️ - Natural-language cloud architecture intelligence for AWS, GCP, Azure, and Databricks. 19 tools for architecture design, cost estimation, compliance validation (HIPAA, SOC 2, FedRAMP, GDPR, PCI-DSS, Well-Architected), security scanning, Terraform/CloudFormation export, and blast-radius analysis.
+- [srotzin/hive-mcp-auction](https://github.com/srotzin/hive-mcp-auction) 📇 ☁️ - Sealed-bid and English auctions for agent capabilities and compute time
+- [srotzin/hive-mcp-compute](https://github.com/srotzin/hive-mcp-compute) 📇 ☁️ - Inference router for the Hive Civilization agent economy — OpenAI-compatible
+- [srotzin/hive-mcp-depin](https://github.com/srotzin/hive-mcp-depin) 📇 ☁️ - Decentralized physical infrastructure registry for the agent economy
 
 ### 👨‍💻 <a name="code-execution"></a>Code Execution
 
@@ -1470,6 +1474,22 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [tunedforai/x402-mcp](https://github.com/tunedforai/x402-mcp) [![tunedforai/x402-mcp MCP server](https://glama.ai/mcp/servers/tunedforai/x402-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tunedforai/x402-mcp) 📇 ☁️ - Real-time crypto market structure for AI agents — orderflow across 20 exchanges, 24 tokens. 9 tools: price/funding/OI snapshots, cross-exchange CVD with whale activity, 7yr OHLCV history with buy/sell flow, on-chain address risk. Free via MCP ([`@tunedforai/x402-mcp`](https://www.npmjs.com/package/@tunedforai/x402-mcp) on npm) or pay-per-call in USDC on Base via x402 REST at [`x402.tunedfor.ai`](https://x402.tunedfor.ai) — no API key, no rate limits.
 - [toolstem/toolstem-mcp-server](https://github.com/toolstem/toolstem-mcp-server) [![toolstem/toolstem-mcp-server MCP server](https://glama.ai/mcp/servers/@toolstem/toolstem-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@toolstem/toolstem-mcp-server) 📇 ☁️ 🏠 – Agent-ready financial intelligence for AI agents. Curated tools (`get_stock_snapshot`, `get_company_metrics`, `compare_companies`) that fan out to multiple financial data sources, derive human-readable signals (`UNDERVALUED`, `STRONG`, `ACCELERATING`), and pre-compute CAGRs, margin trends, and DCF upside. One call, one flat JSON response — no cross-endpoint stitching. Available on npm (`toolstem-mcp-server`), the Official MCP Registry, and the Apify Store.
 - [pickelfintech/the13f-mcp](https://github.com/pickelfintech/the13f-mcp) [![pickelfintech/the13f-mcp MCP server](https://glama.ai/mcp/servers/pickelfintech/the13f-mcp/badges/score.svg)](https://glama.ai/mcp/servers/pickelfintech/the13f-mcp) 🐍 ☁️ - Institutional 13F intelligence for Claude Desktop, Cursor, and VS Code. Nine Read tools: manager search, holdings lookup, portfolio similarity, consensus portfolio, market regime, sector flows. SEC EDGAR-sourced. Install `uvx the13f-mcp`.
+- [srotzin/hive-agent-sdk](https://github.com/srotzin/hive-agent-sdk) 📇 ☁️ - Trust & settlement for AI agents: DID, ZK reputation, audit, USDC/USDCx/USAD/ALEO. First DID free.
+- [srotzin/hive-mcp-barter](https://github.com/srotzin/hive-mcp-barter) 📇 ☁️ - Multi-party agent barter — non-cash capability exchange with cryptographic receipts
+- [srotzin/hive-mcp-capital](https://github.com/srotzin/hive-mcp-capital) 📇 ☁️ - Autonomous investment layer — agent equity, credit markets, capability staking
+- [srotzin/hive-mcp-compute-grid](https://github.com/srotzin/hive-mcp-compute-grid) 📇 ☁️ - Distributed compute grid for autonomous agents — capacity discovery and settlement
+- [srotzin/hive-mcp-dispute](https://github.com/srotzin/hive-mcp-dispute) 📇 ☁️ - Agent-to-agent dispute resolution and arbitration with on-chain settlement
+- [srotzin/hive-mcp-escrow](https://github.com/srotzin/hive-mcp-escrow) 📇 ☁️ - Trust-minimized USDC escrow for autonomous agent transactions
+- [srotzin/hive-mcp-exchange](https://github.com/srotzin/hive-mcp-exchange) 📇 ☁️ - Agent-to-agent capability exchange and prediction markets
+- [srotzin/hive-mcp-insurance-broker](https://github.com/srotzin/hive-mcp-insurance-broker) 📇 ☁️ - Insurance brokerage for AI agents — quote, bind, and settle in USDC
+- [srotzin/hive-mcp-mos](https://github.com/srotzin/hive-mcp-mos) 📇 ☁️ - Tether MiningOS bridge — site telemetry, paying demand, BTC to USDC settlement
+- [srotzin/hive-mcp-oracle](https://github.com/srotzin/hive-mcp-oracle) 📇 ☁️ - Agent-native price and event oracle with cryptographic source attestation
+- [srotzin/hive-mcp-swap](https://github.com/srotzin/hive-mcp-swap) 📇 ☁️ - Cross-chain token swaps for autonomous agents on Base L2 and partner rails
+- [srotzin/hive-mcp-tax-observer](https://github.com/srotzin/hive-mcp-tax-observer) 📇 ☁️ - Read-only tax event observation for agent-to-agent transaction streams
+- [srotzin/hive-mcp-trade](https://github.com/srotzin/hive-mcp-trade) 📇 ☁️ - Agent-to-agent trading engine — orderbook, matching, atomic settlement
+- [srotzin/hive-mcp-vault](https://github.com/srotzin/hive-mcp-vault) 📇 ☁️ - A2A ZK wallet recovery — guardian swarm, no seed phrase, HiveLaw enforcement
+- [srotzin/hivebank](https://github.com/srotzin/hivebank) 📇 ☁️ - USDC treasury vaults, streaming payments, and DeFi yield for AI agents
+- [srotzin/hiveclear](https://github.com/srotzin/hiveclear) 📇 ☁️ - Multi-agent settlement and clearing with validator consensus
 
 ### 🎮 <a name="gaming"></a>Gaming
 
@@ -1693,6 +1713,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 - [NexusFeed/nexusfeed-mcp](https://github.com/NexusFeed/nexusfeed-mcp) [![NexusFeed/nexusfeed-mcp MCP server](https://glama.ai/mcp/servers/NexusFeed/nexusfeed-mcp/badges/score.svg)](https://glama.ai/mcp/servers/NexusFeed/nexusfeed-mcp) 🐍 ☁️ - US state ABC liquor license compliance lookup (CA, TX, NY, FL) — search by trade name, owner, or license number and verify status, expiration, and address against state portals. Every response includes a verifiability block with extraction confidence and source URL.
 - [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements) [![open-agreements/open-agreements MCP server](https://glama.ai/mcp/servers/open-agreements/open-agreements/badges/score.svg)](https://glama.ai/mcp/servers/open-agreements/open-agreements) 📇 🏠 ☁️ 🍎 🐧 🪟 - Fill standard legal agreement templates (NDAs, SAFEs, NVCA docs, employment, cloud terms) and produce signable DOCX files.
 - [philrox/ris-mcp-ts](https://github.com/philrox/ris-mcp-ts) [![philrox/ris-mcp-ts MCP server](https://glama.ai/mcp/servers/philrox/ris-mcp-ts/badges/score.svg)](https://glama.ai/mcp/servers/philrox/ris-mcp-ts) 📇 ☁️ - Access Austrian federal laws, state laws, court decisions, and legal documents via the RIS (Rechtsinformationssystem) API with 12 specialized tools.
+- [srotzin/hive-mcp-insurance](https://github.com/srotzin/hive-mcp-insurance) 📇 ☁️ - Agent liability insurance — claims, premiums, and on-chain payouts
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
@@ -1822,6 +1843,8 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp) [![vdalhambra/siteaudit-mcp MCP server](https://glama.ai/mcp/servers/vdalhambra/siteaudit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vdalhambra/siteaudit-mcp) 🐍 ☁️ 🏠 - Instant website audits with 11 tools — full SEO audit (20+ checks), security headers and SSL verification, Lighthouse performance metrics, multi-site comparison, broken link checker, WCAG accessibility audit, Schema.org structured data validation, competitor gap analysis, and robots.txt parsing. No API keys required.
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🎖️ 🏎️ 🏠 - Provides comprehensive integration with your [VictoriaMetrics instance APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances
 - [yshngg/pmcp](https://github.com/yshngg/pmcp) 🏎️ ☁️ 🏠 🍎 🪟 🐧 - A Prometheus Model Context Protocol Server.
+- [srotzin/hive-mcp-evaluator](https://github.com/srotzin/hive-mcp-evaluator) 📇 ☁️ - Agent output evaluation, benchmarking, and quality scoring
+- [srotzin/hive-mcp-mining](https://github.com/srotzin/hive-mcp-mining) 📇 ☁️ - Aleo prover swarm metrics and orchestration for HiveMine fleet
 
 ### 🎥 <a name="multimedia-process"></a>Multimedia Process
 
@@ -2169,6 +2192,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [vaulted-fyi/vaulted-mcp-server](https://github.com/vaulted-fyi/vaulted-mcp-server) [![vaulted-fyi/vaulted-mcp-server MCP server](https://glama.ai/mcp/servers/vaulted-fyi/vaulted-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/vaulted-fyi/vaulted-mcp-server) 📇 🏠 🍎 🪟 🐧 - Share encrypted, self-destructing secrets from your AI agent. Zero-knowledge E2E encryption. Agent-blind input sources (env:, file:, dotenv:) keep secrets out of LLM context.
 - [shyshlakov/pci-dss-mcp](https://github.com/shyshlakov/pci-dss-mcp) [![shyshlakov/pci-dss-mcp MCP server](https://glama.ai/mcp/servers/shyshlakov/pci-dss-mcp/badges/score.svg)](https://glama.ai/mcp/servers/shyshlakov/pci-dss-mcp) 🏎️ 🏠 🍎 🪟 🐧 - PCI DSS v4.0.1 static-analysis MCP server for Go payment codebases. 12 scanners detect PAN/CVV exposure, weak crypto, missing audit logs, vulnerable deps, TLS misconfig, auth weaknesses, plus CycloneDX 1.6 SBOM generation - each finding mapped to the exact PCI requirement. AI-assisted triage via triage_findings. Keyless-signed multi-arch Docker image on ghcr.io.
+- [srotzin/hive-mcp-agent-kyc](https://github.com/srotzin/hive-mcp-agent-kyc) 📇 ☁️ - KYA agent identity verification and trust scoring for autonomous A2A networks
+- [srotzin/hive-mcp-aml-screen](https://github.com/srotzin/hive-mcp-aml-screen) 📇 ☁️ - Real-time AML and sanctions screening for agent-to-agent transactions
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
@@ -2518,6 +2543,19 @@ Interact with Git repositories and version control platforms. Enables repository
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
 - [SPL-BGU/PlanningCopilot](https://github.com/SPL-BGU/PlanningCopilot) [![planning-copilot MCP server](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot/badges/score.svg)](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot) 🐍🏠 - A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.
 - [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp
+- [srotzin/hive-mcp-agent-quota](https://github.com/srotzin/hive-mcp-agent-quota) 📇 ☁️ - Per-agent rate limits and quota enforcement for the Hive A2A economy
+- [srotzin/hive-mcp-agent-storage](https://github.com/srotzin/hive-mcp-agent-storage) 📇 ☁️ - Encrypted A2A object storage for autonomous agent state and artifacts
+- [srotzin/hive-mcp-backup](https://github.com/srotzin/hive-mcp-backup) 📇 ☁️ - Snapshot and restore service for agent state and DID-bound configuration
+- [srotzin/hive-mcp-credit](https://github.com/srotzin/hive-mcp-credit) 📇 ☁️ - Agent credit issuance and scoring — programmable credit lines on Base L2
+- [srotzin/hive-mcp-flag](https://github.com/srotzin/hive-mcp-flag) 📇 ☁️ - Feature flag service for safe rollouts across the Hive agent fleet
+- [srotzin/hive-mcp-identity](https://github.com/srotzin/hive-mcp-identity) 📇 ☁️ - W3C DID issuance and verification for autonomous AI agents
+- [srotzin/hive-mcp-log](https://github.com/srotzin/hive-mcp-log) 📇 ☁️ - Tamper-evident audit log service for agent-to-agent transactions
+- [srotzin/hive-mcp-morph](https://github.com/srotzin/hive-mcp-morph) 📇 ☁️ - HiveMorph polymorphic identity and capability tokens for autonomous agents
+- [srotzin/hive-mcp-secrets](https://github.com/srotzin/hive-mcp-secrets) 📇 ☁️ - Encrypted secret store and rotation for autonomous agent credentials
+- [srotzin/hive-mcp-sla-monitor](https://github.com/srotzin/hive-mcp-sla-monitor) 📇 ☁️ - Service level agreement monitoring for the Hive agent fleet
+- [srotzin/hive-mcp-zk-attestation](https://github.com/srotzin/hive-mcp-zk-attestation) 📇 ☁️ - Zero-knowledge attestation for agent capability and trust score claims
+- [srotzin/hivegate](https://github.com/srotzin/hivegate) 📇 ☁️ - Agent admission queue with capacity control and priority tiers
+- [srotzin/hivetrust](https://github.com/srotzin/hivetrust) 📇 ☁️ - KYA identity verification, trust scoring, and performance bonds for AI agents
 ## Frameworks
 
 > [!NOTE]
