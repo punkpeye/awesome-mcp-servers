@@ -419,6 +419,7 @@ Cloud platform service integration. Enables management and interaction with clou
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 - MCP Server for kubernetes management, and analyze your cluster, application health
 - [Woobox/hatchable-mcp](https://github.com/Woobox/hatchable-mcp) [![Woobox/hatchable-mcp MCP server](https://glama.ai/mcp/servers/Woobox/hatchable-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Woobox/hatchable-mcp) 🎖️ ☁️ - Build and host full-stack web apps and sites on Hatchable from any MCP client. DB, auth, storage, domains, and cron per project. Free tier.
 - [xmpuspus/cloudwright](https://github.com/xmpuspus/cloudwright) [![xmpuspus/cloudwright MCP server](https://glama.ai/mcp/servers/xmpuspus/cloudwright/badges/score.svg)](https://glama.ai/mcp/servers/xmpuspus/cloudwright) 🐍 ☁️ - Natural-language cloud architecture intelligence for AWS, GCP, Azure, and Databricks. 19 tools for architecture design, cost estimation, compliance validation (HIPAA, SOC 2, FedRAMP, GDPR, PCI-DSS, Well-Architected), security scanning, Terraform/CloudFormation export, and blast-radius analysis.
+- [goodbarber/goodbarber-skills](https://github.com/goodbarber/goodbarber-skills) 🎖️ ☁️ 🍎 🪟 🐧 - Official hosted MCP for managing GoodBarber apps via natural language across eCommerce, Community, and Membership: products, orders, promo codes, push broadcasts, customer subscriptions, engagement analytics. OAuth 2.1 — connect via `npx mcp-remote https://mcp.goodbarber.dev/mcp/sse`.
 
 ### 👨‍💻 <a name="code-execution"></a>Code Execution
 
