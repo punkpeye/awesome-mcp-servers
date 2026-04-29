@@ -2558,4 +2558,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-- [io.github.Darko893/mcp-server](https://github.com/Darko893/mcp-server) 📇 ☁️ - MCP web extraction for Claude and Cursor: turn any URL into structured JSON with Haunt API
+- [io.github.Darko893/mcp-server](https://github.com/Darko893/mcp-server) 📇 ☁️ - MCP web extraction for Claude and Cursor: turn any URL into structured JSON with Haunt API [![Darko893/haunt-mcp-server MCP server](https://glama.ai/mcp/servers/Darko893/haunt-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Darko893/haunt-mcp-server)
