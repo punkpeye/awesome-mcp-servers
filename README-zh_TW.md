@@ -93,6 +93,7 @@
 通過單個MCP伺服器訪問多個應用程式和工具的伺服器。
 
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - 一個統一的模型上下文協議伺服器實現，將多個MCP伺服器聚合為一個。
+- [globalpocket/mcp-routing-gateway](https://github.com/globalpocket/mcp-routing-gateway) - 一個無狀態的本地 MCP 路由網關和純代理（Pure Proxy），用於安全地管理（過濾和虛擬化）向 LLM 提供的工具。
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 10秒內將Web API轉換為MCP伺服器並將其添加到開源註冊表中: https://open-mcp.org
 - [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) 📇 🏠 - 一個用於將多個MCP伺服器組合成一個統一端點的代理工具。通過在多個MCP伺服器之間進行負載平衡請求來擴展您的AI工具，類似於Nginx對Web伺服器的工作方式。
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一個統一的中間件MCP伺服器，通過GUI管理您的MCP連接。
@@ -477,6 +478,7 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - QR碼生成MCP伺服器，可將任何文字（包括中文字符）轉換為QR碼，支援自訂顏色和base64編碼輸出。
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 使用超過 3,000 個預構建的雲工具（稱為 Actors）從網站、電商、社交媒體、搜尋引擎、地圖等提取數據。
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - 使LLM能夠使用計算機進行精確的數值計算
+- [globalpocket/mcp-mlx-launcher](https://github.com/globalpocket/mcp-mlx-launcher) - 支援在 Apple Silicon 環境下執行本地 LLM 的 `mlx-lm` 實例，涵蓋從模型下載到管理、啟動和停止的全過程。
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - 更新、創建、刪除 Contentful Space 中的內容、內容模型和資產
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - 與 OpenAI 最智慧的模型聊天
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - 高效的 Go 文件伺服器，讓 AI 助手可以智慧訪問包文件和類型，而無需閱讀整個源文件
