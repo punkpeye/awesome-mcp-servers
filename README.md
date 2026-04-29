@@ -98,6 +98,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
+	- [cpfhub/cpfhub-mcp](https://github.com/cpfhub/cpfhub-mcp) [![cpfhub/cpfhub-mcp MCP server](https://glama.ai/mcp/servers/cpfhub/cpfhub-mcp/badges/score.svg)](https://glama.ai/mcp/servers/cpfhub/cpfhub-mcp) 📇 ☁️ - MCP server for CPFHub.io. Query Brazilian CPF data directly from AI agents.
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
