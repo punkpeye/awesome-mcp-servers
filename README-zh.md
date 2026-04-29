@@ -113,7 +113,7 @@
 通过单个MCP服务器访问多个应用程序和工具的服务器。
 
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - 一个统一的模型上下文协议服务器实现，将多个MCP服务器聚合为一个。
-- [globalpocket/mcp-routing-gateway](https://github.com/globalpocket/mcp-routing-gateway) - 一个无状态的本地 MCP 路由网关和纯代理（Pure Proxy），用于安全地管理（过滤和虚拟化）向 LLM 提供的工具。
+- [globalpocket/mcp-routing-gateway](https://github.com/globalpocket/mcp-routing-gateway) [![mcp-routing-gateway MCP server](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway/badges/score.svg)](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway) 🐍 🏠 🍎 - 一个无状态的本地 MCP 路由网关和纯代理（Pure Proxy），用于安全地管理（过滤和虚拟化）向 LLM 提供的工具。
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 10秒内将Web API转换为MCP服务器并将其添加到开源注册表中: https://open-mcp.org
 - [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) 📇 🏠 - 一个代理工具，用于将多个MCP服务器组合成一个统一的端点。通过跨多个MCP服务器负载均衡请求来扩展您的AI工具，类似于Nginx对Web服务器的工作方式。
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一个统一的中间件MCP服务器，通过GUI管理您的MCP连接。
@@ -606,7 +606,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - QR码生成MCP服务器，可将任何文本（包括中文字符）转换为QR码，支持自定义颜色和base64编码输出。
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 使用超过 3,000 个预构建的云工具（称为 Actors）从网站、电商、社交媒体、搜索引擎、地图等提取数据。
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - 使LLM能够使用计算器进行精确的数值计算
-- [globalpocket/mcp-mlx-launcher](https://github.com/globalpocket/mcp-mlx-launcher) - 支持在 Apple Silicon 环境下运行本地 LLM 的 `mlx-lm` 实例，涵盖从模型下载到管理、启动和停止的全过程。
+- [globalpocket/mcp-mlx-launcher](https://github.com/globalpocket/mcp-mlx-launcher) [![mcp-mlx-launcher MCP server](https://glama.ai/mcp/servers/globalpocket/mcp-mlx-launcher/badges/score.svg)](https://glama.ai/mcp/servers/globalpocket/mcp-mlx-launcher) 🐍 🏠 🍎 - 支持在 Apple Silicon 环境下运行本地 LLM 的 `mlx-lm` 实例，涵盖从模型下载到管理、启动和停止的全过程。
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - 更新、创建、删除 Contentful Space 中的内容、内容模型和资产
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - 与 OpenAI 最智能的模型聊天
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - 高效的 Go 文档服务器，让 AI 助手可以智能访问包文档和类型，而无需阅读整个源文件

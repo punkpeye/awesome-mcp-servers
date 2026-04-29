@@ -123,7 +123,7 @@
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - یک پیاده‌سازی سرور Model Context Protocol یکپارچه که چندین سرور MCP را در یک سرور تجمیع می‌کند.
 - [duaraghav8/MCPJungle](https://github.com/duaraghav8/MCPJungle) 🏎️ 🏠 - رجیستری سرور MCP خودمیزبان برای عامل‌های هوش مصنوعی سازمانی
 - [glenngillen/mcpmcp-server](https://github.com/glenngillen/mcpmcp-server) ☁️ 📇 🍎 🪟 🐧 - لیستی از سرورهای MCP تا بتوانید از کلاینت خود بپرسید از کدام سرورها برای بهبود گردش کار روزانه خود می‌توانید استفاده کنید.
-- [globalpocket/mcp-routing-gateway](https://github.com/globalpocket/mcp-routing-gateway) - یک گیت‌وی مسیریابی بدون حالت MCP و Pure Proxy برای مدیریت، فیلتر کردن و مجازی‌سازی امن ابزارهای ارائه‌شده به LLMها.
+- [globalpocket/mcp-routing-gateway](https://github.com/globalpocket/mcp-routing-gateway) [![mcp-routing-gateway MCP server](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway/badges/score.svg)](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway) 🐍 🏠 🍎 - یک گیت‌وی مسیریابی بدون حالت MCP و Pure Proxy برای مدیریت، فیلتر کردن و مجازی‌سازی امن ابزارهای ارائه‌شده به LLMها.
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - یک ابزار قدرتمند تولید تصویر با استفاده از API Imagen 3.0 گوگل از طریق MCP. تولید تصاویر با کیفیت بالا از طریق دستورات متنی با کنترل‌های پیشرفته عکاسی، هنری و فوتورئالیستی.
 - [julien040/anyquery](https://github.com/julien040/anyquery) 🏎️ 🏠 ☁️ - بیش از ۴۰ برنامه را با یک باینری با استفاده از SQL کوئری کنید. همچنین می‌تواند به پایگاه داده سازگار با PostgreSQL، MySQL یا SQLite شما متصل شود. طراحی شده به صورت محلی-اول و خصوصی.
 - [metatool-ai/metatool-app](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP یک سرور میان‌افزار MCP یکپارچه است که اتصالات MCP شما را با رابط کاربری گرافیکی مدیریت می‌کند.
@@ -1193,7 +1193,7 @@
 - [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - ابزارها را با استفاده از کوئری‌ها/mutationهای GraphQL معمولی تعریف کنید و gqai به طور خودکار یک سرور MCP برای شما تولید می‌کند.
 - [future-audiences/wikimedia-enterprise-model-context-protocol](https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol) 🐍 ☁️  - API جستجوی مقاله ویکی‌پدیا
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - این سرور به LLMها امکان استفاده از ماشین حساب را برای محاسبات عددی دقیق می‌دهد
-- [globalpocket/mcp-mlx-launcher](https://github.com/globalpocket/mcp-mlx-launcher) - یک سرور MCP برای مدیریت، راه‌اندازی و خاموش کردن خودکار نمونه‌های محلی `mlx-lm` در Apple Silicon.
+- [globalpocket/mcp-mlx-launcher](https://github.com/globalpocket/mcp-mlx-launcher) [![mcp-mlx-launcher MCP server](https://glama.ai/mcp/servers/globalpocket/mcp-mlx-launcher/badges/score.svg)](https://glama.ai/mcp/servers/globalpocket/mcp-mlx-launcher) 🐍 🏠 🍎 - یک سرور MCP برای مدیریت، راه‌اندازی و خاموش کردن خودکار نمونه‌های محلی `mlx-lm` در Apple Silicon.
 - [gotoolkits/DifyWorkflow](https://github.com/gotoolkits/mcp-difyworkflow-server) - 🏎️ ☁️ ابزارهایی برای کوئری و اجرای گردش‌های کاری Dify
 - [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - سرور MCP رسمی برای یکپارچه‌سازی با GROWI APIs.
 - [gwbischof/free-will-mcp](https://github.com/gwbischof/free-will-mcp) 🐍 🏠 - به هوش مصنوعی خود ابزارهای اراده آزاد بدهید. یک پروژه سرگرم‌کننده برای کاوش در این مورد که یک هوش مصنوعی با توانایی دادن پرامپت به خود، نادیده گرفتن درخواست‌های کاربر و بیدار کردن خود در زمان بعدی چه کاری انجام می‌دهد.
