@@ -1727,6 +1727,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [stadiamaps/stadiamaps-mcp-server-ts](https://github.com/stadiamaps/stadiamaps-mcp-server-ts) 📇 ☁️ - A MCP server for Stadia Maps' Location APIs - Lookup addresses, places with geocoding, find time zones, create routes and static maps
 - [TimLukaHorstmann/mcp-weather](https://github.com/TimLukaHorstmann/mcp-weather) 📇 ☁️  - Accurate weather forecasts via the AccuWeather API (free tier available).
 - [trackmage/trackmage-mcp-server](https://github.com/trackmage/trackmage-mcp-server) 📇 - Shipment tracking api and logistics management capabilities through the [TrackMage API] (https://trackmage.com/)
+- [umedpaliwal/windai-mcp](https://github.com/umedpaliwal/windai-mcp) 📇 ☁️ - AI-powered wind resource assessment tools. Get wind speed estimates, IEC wind class, capacity factors, and energy production predictions for any location on Earth. Free estimates via Open-Meteo; full ML-powered assessments via WindAI API.
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding MCP server for nominatim, ArcGIS, Bing
 
 ### 🎯 <a name="marketing"></a>Marketing
