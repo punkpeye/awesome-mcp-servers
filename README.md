@@ -2558,3 +2558,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [yanmiayn/openclaw-consensus-mcp](https://github.com/MICONNM/openclaw-consensus-mcp) 🐾 🐍 - 9-LLM consensus to eliminate hallucinations. Built by 16yo Korean solo dev. PyPI: `openclaw-consensus-mcp`.
