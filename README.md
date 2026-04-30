@@ -948,6 +948,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
+- [0motionguy/aiso](https://github.com/0motionguy/agnt) 📇 ☁️ - AI-search visibility scanner. Grade any URL 0-100 across 6 axes (40+ scanners): crawler access, content structure, citation density, schema, freshness, entity clarity. 7 MCP tools (`aiso_scan` paid; `aiso_pricing`, `aiso_get_scan`, `aiso_fix`, `aiso_robots_check`, `aiso_schema_lint`, `aiso_llmstxt_generate` free). Streamable-HTTP at https://aiso.tools/mcp. Pay-per-scan via x402 (USDC) or MPP (Stripe Link). One-line install: `npx aiso-cli mcp install`.
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - A Model Context Protocol server for TikTok Ads API integration, enabling AI assistants to manage campaigns, analyze performance metrics, handle audiences and creatives with OAuth authentication flow.
 - [louis030195/apollo-io-mcp](https://github.com/louis030195/apollo-io-mcp) 📇 ☁️ 🍎 🪟 🐧 - B2B sales intelligence and prospecting with Apollo.io. Search for prospects, enrich contacts with emails and phone numbers, discover companies by industry and size, and access Apollo's database of 275M+ contacts.
 - [gomarble-ai/facebook-ads-mcp-server](https://github.com/gomarble-ai/facebook-ads-mcp-server) 🐍 ☁️ - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and management features.
