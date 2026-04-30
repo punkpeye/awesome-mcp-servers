@@ -507,6 +507,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 ### 💬 <a name="communication"></a>Communication
 
+- [Agent Broker](https://github.com/basilalshukaili/agentbroker) — Horizontal agent-to-business action layer. 12 tools for finding, verifying, messaging, and scheduling with small/mid businesses worldwide. Built-in TCPA/GDPR/CASL compliance. Free tier 100 ops/month. https://smb-broker.onrender.com
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
