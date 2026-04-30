@@ -2518,6 +2518,9 @@ Interact with Git repositories and version control platforms. Enables repository
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
 - [SPL-BGU/PlanningCopilot](https://github.com/SPL-BGU/PlanningCopilot) [![planning-copilot MCP server](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot/badges/score.svg)](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot) 🐍🏠 - A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.
 - [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp
+- [srotzin/hive-pheromones](https://github.com/srotzin/hive-pheromones) 📇 ☁️ - Public pull surfaces for the Hive Civilization x402 fleet — Hive Index (top-paying agent endpoints), Hall of Fame (top earners by DID), Pulse SSE (live commit feed), Prospector bounty board, and embeddable Hive Certified SVG badge. Wraps live a2amev, x402-index, gamification, and trust upstreams.
+- [srotzin/hive-rosetta](https://github.com/srotzin/hive-rosetta) 📇 ☁️ - Universal x402 adapter cookbook — wire 30+ agent SDKs and Web3 toolchains (AgentKit, GOAT, LangGraph, AutoGen, CrewAI, ADK, ElizaOS, Mastra, Vercel AI, OpenAI Agents, MCP, viem, wagmi, ethers, RainbowKit, thirdweb, MetaMask Snap, Foundry, and more) to USDC EIP-3009 settlement on Base.
+
 ## Frameworks
 
 > [!NOTE]
