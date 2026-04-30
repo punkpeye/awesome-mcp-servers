@@ -115,7 +115,7 @@
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Web APIを10秒でMCPサーバーに変換し、オープンソースレジストリに追加する: https://open-mcp.org
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - [MindsDBを単一のMCPサーバーとして](https://docs.mindsdb.com/mcp/overview)使用し、様々なプラットフォームとデータベース間でデータを接続・統合
 - [glenngillen/mcpmcp-server](https://github.com/glenngillen/mcpmcp-server) ☁️ 📇 🍎 🪟 🐧 - MCPサーバーのリストを提供し、日常のワークフローを改善するために使用できるサーバーをクライアントに問い合わせることができる
-- [globalpocket/mcp-routing-gateway](https://github.com/globalpocket/mcp-routing-gateway) [![mcp-routing-gateway MCP server](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway/badges/score.svg)](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway) 🐍 🏠 🍎 - LLMに提示するツールを安全に管理（フィルタリング・仮想化）するためのステートレスなローカルMCPルーティングゲートウェイおよびPure Proxy。
+- [globalpocket/mcp-routing-gateway](https://github.com/globalpocket/mcp-routing-gateway) [![mcp-routing-gateway MCP server](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway/badges/score.svg)](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway) 🐍 🏠 🍎 - LLMに提示するツールを安全に管理（フィルタリング・仮想化）するためのステートレスなローカルMCPルーティングゲートウェイおよびPure Proxy
 - [pipedream/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - 8,000以上の事前構築ツールで2,500のAPIに接続し、独自のアプリでユーザー向けサーバーを管理
 - [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) 📇 🏠 - 複数のMCPサーバーを1つのインターフェースに統合する包括的なプロキシサーバー。サーバー間でツール、プロンプト、リソース、テンプレートの発見と管理を提供し、MCPサーバー構築時のデバッグ用プレイグラウンドも含む
 - [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) 📇 🏠 - 複数のMCPサーバーを1つの統一エンドポイントに構成するためのプロキシツール。Nginxがウェブサーバーのために機能するのと同様に、複数のMCPサーバー間でリクエストの負荷分散を行うことで、AIツールをスケーリングします。
