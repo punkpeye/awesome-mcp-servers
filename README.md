@@ -419,7 +419,6 @@ Cloud platform service integration. Enables management and interaction with clou
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 - MCP Server for kubernetes management, and analyze your cluster, application health
 - [Woobox/hatchable-mcp](https://github.com/Woobox/hatchable-mcp) [![Woobox/hatchable-mcp MCP server](https://glama.ai/mcp/servers/Woobox/hatchable-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Woobox/hatchable-mcp) 🎖️ ☁️ - Build and host full-stack web apps and sites on Hatchable from any MCP client. DB, auth, storage, domains, and cron per project. Free tier.
 - [xmpuspus/cloudwright](https://github.com/xmpuspus/cloudwright) [![xmpuspus/cloudwright MCP server](https://glama.ai/mcp/servers/xmpuspus/cloudwright/badges/score.svg)](https://glama.ai/mcp/servers/xmpuspus/cloudwright) 🐍 ☁️ - Natural-language cloud architecture intelligence for AWS, GCP, Azure, and Databricks. 19 tools for architecture design, cost estimation, compliance validation (HIPAA, SOC 2, FedRAMP, GDPR, PCI-DSS, Well-Architected), security scanning, Terraform/CloudFormation export, and blast-radius analysis.
-
 ### 👨‍💻 <a name="code-execution"></a>Code Execution
 
 Code execution servers. Allow LLMs to execute code in a secure environment, e.g. for coding agents.
@@ -1693,7 +1692,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 - [NexusFeed/nexusfeed-mcp](https://github.com/NexusFeed/nexusfeed-mcp) [![NexusFeed/nexusfeed-mcp MCP server](https://glama.ai/mcp/servers/NexusFeed/nexusfeed-mcp/badges/score.svg)](https://glama.ai/mcp/servers/NexusFeed/nexusfeed-mcp) 🐍 ☁️ - US state ABC liquor license compliance lookup (CA, TX, NY, FL) — search by trade name, owner, or license number and verify status, expiration, and address against state portals. Every response includes a verifiability block with extraction confidence and source URL.
 - [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements) [![open-agreements/open-agreements MCP server](https://glama.ai/mcp/servers/open-agreements/open-agreements/badges/score.svg)](https://glama.ai/mcp/servers/open-agreements/open-agreements) 📇 🏠 ☁️ 🍎 🐧 🪟 - Fill standard legal agreement templates (NDAs, SAFEs, NVCA docs, employment, cloud terms) and produce signable DOCX files.
 - [philrox/ris-mcp-ts](https://github.com/philrox/ris-mcp-ts) [![philrox/ris-mcp-ts MCP server](https://glama.ai/mcp/servers/philrox/ris-mcp-ts/badges/score.svg)](https://glama.ai/mcp/servers/philrox/ris-mcp-ts) 📇 ☁️ - Access Austrian federal laws, state laws, court decisions, and legal documents via the RIS (Rechtsinformationssystem) API with 12 specialized tools.
-
+- [eutech-directory/legis-link-mcp](https://github.com/eutech-directory/legis-link-mcp) 🐍 ☁️ - Construction trade compliance. Cable sizing, RAMS, safety checklists for electrical, plumbing, HVAC across AU, UK, US, CA, EU. [![eutech-directory/legis-link-mcp MCP server](https://glama.ai/mcp/servers/eutech-directory/legis-link-mcp/badges/score.svg)](https://glama.ai/mcp/servers/eutech-directory/legis-link-mcp)
 ### 🗺️ <a name="location-services"></a>Location Services
 
 Location-based services and mapping tools. Enables AI models to work with geographic data, weather information, and location-based analytics.
