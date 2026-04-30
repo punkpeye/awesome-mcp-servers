@@ -2173,6 +2173,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
 
+- [thijssmudde/AgentReacher](https://github.com/thijssmudde/AgentReacher) 📇 ☁️ 🍎 🪟 🐧 - Connect AI agents to 9+ social media platforms. Create, schedule, and publish posts across X, LinkedIn, Instagram, Bluesky, TikTok, YouTube, Facebook, Pinterest, and Threads from any MCP client.
 - [anwerj/youtube-uploader-mcp](https://github.com/anwerj/youtube-uploader-mcp) 🏎️ ☁️ - AI‑powered YouTube uploader—no CLI, no YouTube Studio. Uploade videos directly from MCP clients with all AI capabilities.
 - [arjun1194/insta-mcp](https://github.com/arjun1194/insta-mcp) 📇 🏠 - Instagram MCP server for analytics and insights. Get account overviews, posts, followers, following lists, post insights, and search for users, hashtags, or places.
 - [BelleKou/mcp-viral-transformer](https://github.com/BelleKou/mcp-viral-transformer) [![BelleKou/mcp-viral-transformer MCP server](https://glama.ai/mcp/servers/BelleKou/mcp-viral-transformer/badges/score.svg)](https://glama.ai/mcp/servers/BelleKou/mcp-viral-transformer) 🐍 🏠 - Turn URLs into viral posts via "remake" command.
