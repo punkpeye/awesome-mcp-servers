@@ -1876,6 +1876,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [kelvinDtran/doorstopper-mcp](https://github.com/kelvinDtran/doorstopper-mcp) 📇 🏠 - Doorstopper MCP — AI listing agent for spare rooms, ADUs, and rentals. 9 tools: estimate spare-room income (HUD FY2025 data), empty-nest income guide, multi-platform rental syndication (Zillow / Airbnb / Craigslist / SpareRoom / Facebook Marketplace), AI listing generation, first-time landlord playbook.
 
 ### 🔬 <a name="research"></a>Research
 
