@@ -596,6 +596,7 @@ Integration with communication platforms for message management and channel oper
 Provides access to customer profiles inside of customer data platforms
 
 - [antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
+- [brianfofficial/retentioncheck-v2](https://github.com/brianfofficial/retentioncheck-v2/tree/main/packages/mcp-server) 🎖️ 📇 ☁️ - AI-powered churn analysis for SaaS founders. Pull canceled subscriptions directly from Stripe (zero middleware) or analyze pasted cancellation feedback. Returns ranked churn drivers with severity, confidence scores, MRR impact, and actionable fixes — all from inside Claude, Cursor, or Zed. [![brianfofficial/retentioncheck-v2 MCP server](https://glama.ai/mcp/servers/brianfofficial/retentioncheck-v2/badges/score.svg)](https://glama.ai/mcp/servers/brianfofficial/retentioncheck-v2)
 - [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) 📇 🏠 - Generate visual charts using [Apache ECharts](https://echarts.apache.org) with AI MCP dynamically.
 - [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
 - [iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic) 🎖️ 📇 ☁️ - Connect with [iaptic](https://www.iaptic.com) to ask about your Customer Purchases, Transaction data and App Revenue statistics.
