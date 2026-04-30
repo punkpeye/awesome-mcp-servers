@@ -2559,4 +2559,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
-- [yanmiayn/openclaw-consensus-mcp](https://github.com/MICONNM/openclaw-consensus-mcp) 🐾 🐍 - 9-LLM consensus to eliminate hallucinations. Built by 16yo Korean solo dev. PyPI: `openclaw-consensus-mcp`.
+- [yanmiayn/openclaw-consensus-mcp](https://github.com/MICONNM/openclaw-consensus-mcp) 🐾 🐍 - Production-grade 9-LLM consensus with disagreement scoring and cheapest-route picks to eliminate hallucinations. PyPI: `openclaw-consensus-mcp`.
