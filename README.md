@@ -98,6 +98,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
+* - [@praveen030686/data-apis-mcp](https://github.com/praveen030686/x402-apis-mcp-server) - 22 tools for crypto prices, stock data, forex rates, and web scraping via x402 micropayments on Base.
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
@@ -125,7 +126,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
-
+* - [@praveen030686/yantrix-mcp](https://github.com/praveen030686/yantrix-mcp) - Dynamic MCP server with 30+ tools: fact verification, agent memory, Indian NLP, contract risk, security threat modelling, sales intelligence and more. x402/USDC micropayments on Base.
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
 - [8randonpickart5/alderpost-mcp](https://github.com/8randonpickart5/alderpost-mcp) [![alderpost-mcp MCP server](https://glama.ai/mcp/servers/8randonpickart5/alderpost-mcp/badges/score.svg)](https://glama.ai/mcp/servers/8randonpickart5/alderpost-mcp) 📇 ☁️ - 8 bundled intelligence endpoints (security, company, threat, compliance, sales, sports, property, health) via x402 micropayments on Base.
 - [tadas-github/a2asearch-mcp](https://github.com/tadas-github/a2asearch-mcp) [![tadas-github/a2asearch-mcp MCP server](https://glama.ai/mcp/servers/tadas-github/a2asearch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tadas-github/a2asearch-mcp) 📇 ☁️ - MCP server to search 4,800+ MCP servers, AI agents, CLI tools and agent skills. Install: `npx -y a2asearch-mcp`. Ask Claude: "Find MCP servers for database access". Free, no auth required.
