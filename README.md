@@ -40,8 +40,9 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ## Community
 
-* [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [MCPFind](https://mcpfind.org) - Open-source directory of 7,299+ MCP servers with one-click install configs for Claude, Cursor, VS Code, and Windsurf.
+* [r/mcp Reddit](https://www.reddit.com/r/mcp)
 
 ## Legend
 
