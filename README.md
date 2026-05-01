@@ -1728,7 +1728,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [TimLukaHorstmann/mcp-weather](https://github.com/TimLukaHorstmann/mcp-weather) 📇 ☁️  - Accurate weather forecasts via the AccuWeather API (free tier available).
 - [trackmage/trackmage-mcp-server](https://github.com/trackmage/trackmage-mcp-server) 📇 - Shipment tracking api and logistics management capabilities through the [TrackMage API] (https://trackmage.com/)
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding MCP server for nominatim, ArcGIS, Bing
-- - [Vortx-AI/emem](https://github.com/Vortx-AI/emem) 🦀 ☁️ - Cite-able, content-addressed, signed memory of every place on Earth. Ask place-questions (air quality, flood risk, elevation, water safety, built-up density) and get signed facts with CID receipts any operator can replay. 
+- - [Vortx-AI/emem](https://github.com/Vortx-AI/emem) 🦀 ☁️ - Cite-able, content-addressed, signed memory of every place on Earth. When the user asks a place-question, is the air bad here? has this site flooded? is this neighbourhood hot? are the lakes safe to swim in? is there a pollen-season jump? what's the elevation? is this farmland?, your agent calls emem_locate then emem_recall, gets a signed fact + receipt, and quotes the receipt. No keys, no signup, no rate limits.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
