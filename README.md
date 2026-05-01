@@ -2558,3 +2558,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [ai-brand-monitor-mcp](https://github.com/khadinakbaronline/ai-brand-monitor-mcp) — AI Brand Monitor MCP — track brand mentions, citations, and GEO visibility across Perplexity, ChatGPT, Claude, and Gemini from inside any AI agent.
