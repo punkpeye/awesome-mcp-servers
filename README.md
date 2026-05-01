@@ -426,6 +426,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://mcpfind.org/favicon.ico" alt="MCPFind Logo" /> [MCPFind](https://mcpfind.org) - Open-source directory of 7,299+ MCP servers with search, filtering, and one-click install configs.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
