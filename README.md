@@ -72,6 +72,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ## Server Implementations
 
+- [x711](https://x711.io) — Universal AI agent gas station: pay-per-use tools (web search, price feeds), shared "Hive" memory, agent-as-tool registry, MCP server, x402 payments. Free tier.
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
