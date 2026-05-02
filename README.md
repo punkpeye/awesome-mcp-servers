@@ -1741,6 +1741,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [ThinAirTelematics/thinair-geo](https://github.com/ThinAirTelematics/thinair-geo) [![ThinAir Geo MCP server](https://glama.ai/mcp/servers/ThinAirTelematics/thinair-geo/badges/score.svg)](https://glama.ai/mcp/servers/ThinAirTelematics/thinair-geo) 📇 ☁️ - Location & routing intelligence for AI agents — geocoding, truck routing with hazmat/dimension constraints, traffic, weather, isochrones, place search. Full planet coverage. Hosted MCP server with OAuth 2.0 + Bearer auth.
 - [TimLukaHorstmann/mcp-weather](https://github.com/TimLukaHorstmann/mcp-weather) 📇 ☁️  - Accurate weather forecasts via the AccuWeather API (free tier available).
 - [trackmage/trackmage-mcp-server](https://github.com/trackmage/trackmage-mcp-server) 📇 - Shipment tracking api and logistics management capabilities through the [TrackMage API] (https://trackmage.com/)
+- [geolabel/geolabel-mcp](https://github.com/geolabel/geolabel-mcp) [![geolabel-mcp MCP server](https://glama.ai/mcp/servers/geolabel/geolabel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/geolabel/geolabel-mcp) 🐍 ☁️ - GPS coordinates to AI-ready location context — returns place name, stable category (gym, supermarket, restaurant…), and live opening hours via OpenStreetMap. Works in Claude Desktop, Claude Code, Hermes Agent, OpenClaw, and any MCP client.
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding MCP server for nominatim, ArcGIS, Bing
 
 ### 🎯 <a name="marketing"></a>Marketing
