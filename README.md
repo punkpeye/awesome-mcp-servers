@@ -1085,6 +1085,8 @@ Tools and integrations that enhance the development workflow and environment man
 - [arthurpanhku/DragonMCP](https://github.com/arthurpanhku/DragonMCP) [![dragon-mcp MCP server](https://glama.ai/mcp/servers/arthurpanhku/dragon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/arthurpanhku/dragon-mcp) 📇 🏠 ☁️ 🍎   - MCP server for Greater China local life services: Meituan/Ele.me food delivery, Didi/Meituan ride-hailing, WeChat Pay/Alipay, Amap/Baidu Maps, 12306 high-speed rail, Taobao/JD/Xianyu e-commerce, Hong Kong government e-services, and more.
 - [catrinmdonnelly/royalmail-mcp](https://github.com/catrinmdonnelly/royalmail-mcp) [![catrinmdonnelly/royalmail-mcp MCP server](https://glama.ai/mcp/servers/catrinmdonnelly/royalmail-mcp/badges/score.svg)](https://glama.ai/mcp/servers/catrinmdonnelly/royalmail-mcp) 📇 ☁️ - Book, label, track and cancel Royal Mail and Parcelforce shipments. 33 UK and international services via friendly keys or raw Service Register codes. `npx royalmail-mcp`.
 
+- [Yang1Bai/claw-tsaver](https://github.com/Yang1Bai/claw-tsaver)__ 🐍 🏠 🍎 🪟 🐧 - Token-saving MCP proxy that intercepts oversized tool returns and replaces them with a preview + on-demand handle. Real benchmark: 11,507 tokens → 104 tokens (99.1% saved) on a Wikipedia fetch. Works with OpenClaw + Claude.
+  
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
