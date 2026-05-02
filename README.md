@@ -1861,6 +1861,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp) [![vdalhambra/siteaudit-mcp MCP server](https://glama.ai/mcp/servers/vdalhambra/siteaudit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vdalhambra/siteaudit-mcp) 🐍 ☁️ 🏠 - Instant website audits with 11 tools — full SEO audit (20+ checks), security headers and SSL verification, Lighthouse performance metrics, multi-site comparison, broken link checker, WCAG accessibility audit, Schema.org structured data validation, competitor gap analysis, and robots.txt parsing. No API keys required.
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🎖️ 🏎️ 🏠 - Provides comprehensive integration with your [VictoriaMetrics instance APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances
 - [yshngg/pmcp](https://github.com/yshngg/pmcp) 🏎️ ☁️ 🏠 🍎 🪟 🐧 - A Prometheus Model Context Protocol Server.
+- [flashus/detrix](https://github.com/flashus/detrix) [glama](https://glama.ai/mcp/servers/flashus/detrix) 🦀 🐍 🏎️ 🍎 🐧 🪟 🏠 ☁️ - Observe any variable in running code via DAP logpoints — no code changes, no restarts. Works locally and in Docker/cloud. Python, Go, Rust. Extensible to new languages.
 
 ### 🎥 <a name="multimedia-process"></a>Multimedia Process
 
