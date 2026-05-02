@@ -2097,6 +2097,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zoharbabin/google-researcher-mcp](https://github.com/zoharbabin/google-researcher-mcp) [![google-researcher-mcp MCP server](https://glama.ai/mcp/servers/@zoharbabin/google-researcher-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@zoharbabin/google-researcher-mcp) 📇 ☁️ 🏠 - Comprehensive research tools including Google Search (web, news, images), web scraping with JavaScript rendering, academic paper search (arXiv, PubMed, IEEE), patent search, and YouTube transcript extraction.
 - [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
+- [B2G Brazil Gov Tenders](https://github.com/guimaster97/b2a-mcp-public) - Micro-API and MCP server that bypasses captchas to fetch strictly typed public procurement data from Brazil using Llama-3.
 
 ### 🔒 <a name="security"></a>Security
 
