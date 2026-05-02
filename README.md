@@ -2289,6 +2289,8 @@ Tools for converting text-to-speech and vice-versa
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
 
+- [gokhanibrikci/inday-mcp-server](https://github.com/gokhanibrikci/inday-mcp-server) [![Inday MCP Server](https://glama.ai/mcp/servers/gokhanibrikci/inday-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/gokhanibrikci/inday-mcp-server) 📇 ☁️ - Public holiday API for 30+ countries. Check holidays, count working days, and get full year calendars. Supports check_holiday, get_calendar, list_countries, next_holiday, count_working_days. Free tier available.
+
 - [alcylu/nightlife-mcp](https://github.com/alcylu/nightlife-mcp) [![nightlife](https://glama.ai/mcp/servers/alcylu/nightlife-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alcylu/nightlife-mcp) 📇 ☁️ - MCP server for Tokyo nightlife event discovery, venue search, performer info, AI recommendations, and VIP table booking.
 - [campertunity/mcp-server](https://github.com/campertunity/mcp-server) 🎖️ 📇 🏠 - Search campgrounds around the world on campertunity, check availability, and provide booking links
 - [cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp) 🐍 🏠 - A Model Context Protocol (MCP) server that provides access to your TeslaMate database, allowing AI assistants to query Tesla vehicle data and analytics.
