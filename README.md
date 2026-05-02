@@ -5,7 +5,7 @@
 [![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
 [![한국어](https://img.shields.io/badge/한국어-클릭-yellow)](README-ko.md)
 [![Português Brasileiro](https://img.shields.io/badge/Português_Brasileiro-Clique-green)](README-pt_BR.md)
-[![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
+[![Discord](https://img.shields.io/discord/1312302100125843476?logo=discorhd&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
 > [!IMPORTANT]
@@ -2085,6 +2085,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [vitorpavinato/ncbi-mcp-server](https://github.com/vitorpavinato/ncbi-mcp-server) 🐍 ☁️ 🏠 - Comprehensive NCBI/PubMed literature search server with advanced analytics, caching, MeSH integration, related articles discovery, and batch processing for all life sciences and biomedical research.
 - [robbyczgw-cla/web-search-plus-mcp](https://github.com/robbyczgw-cla/web-search-plus-mcp) [![web-search](https://glama.ai/mcp/servers/robbyczgw-cla/web-search-plus-mcp/badges/score.svg)](https://glama.ai/mcp/servers/robbyczgw-cla/web-search-plus-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Multi-provider web search with intelligent auto-routing (Serper, Tavily, Exa). Available via `uvx web-search-plus-mcp`.
 - [Vincentwei1021/agent-toolbox](https://github.com/Vincentwei1021/agent-toolbox) [![agent-toolbox MCP server](https://glama.ai/mcp/servers/@Vincentwei1021/agent-toolbox/badges/score.svg)](https://glama.ai/mcp/servers/@Vincentwei1021/agent-toolbox) 📇 ☁️ 🍎 🪟 🐧 - Production-ready MCP server providing 13 tools for AI agents: web search, content extraction, screenshots, weather, finance, email validation, translation, news, GeoIP, WHOIS, DNS, PDF extraction, and QR code generation. 1,000 free calls/month, no setup required.
+- [simonediroma/webfetch_mcp](https://github.com/simonediroma/webfetch_mcp) 🐍 🏠 [![simonediroma/webfetch_mcp MCP server](https://glama.ai/mcp/servers/simonediroma/webfetch_mcp/badges/score.svg)](https://glama.ai/mcp/servers/simonediroma/webfetch_mcp) - Drop-in MCP replacement for the built-in WebFetch tool. Adds domain-scoped headers, retries, proxies, HTML-to-text extraction, bot-block detection and prompt-injection sanitization via a single YAML config.
 - [webscraping-ai/webscraping-ai-mcp-server](https://github.com/webscraping-ai/webscraping-ai-mcp-server) 🎖️ 📇 ☁️ - Interact with [WebScraping.ai](https://webscraping.ai) for web data extraction and scraping.
 - [webpeel/webpeel](https://github.com/webpeel/webpeel) 📇 ☁️ 🏠 - Smart web fetcher for AI agents with auto-escalation from HTTP to headless browser to stealth mode. Includes 9 MCP tools: fetch, search, crawl, map, extract, batch, screenshot, jobs, and agent. Achieved 100% success rate on a 30-URL benchmark.
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - MCP server that searches Baseline status using Web Platform API
