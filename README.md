@@ -1923,6 +1923,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [GetColby/claw-cleaning](https://github.com/GetColby/claw-cleaning) 📇 ☁️ - [claw.cleaning](https://claw.cleaning) remote MCP server: book apartment cleanings in San Francisco via natural language. $40/hour, weekends, 8 AM–6 PM PT, SF addresses only. No install; connect to `https://claw.cleaning/mcp`.
 
 ### 🔬 <a name="research"></a>Research
 
