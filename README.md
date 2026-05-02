@@ -350,8 +350,9 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [ymw0407/auth-fetch-mcp](https://github.com/ymw0407/auth-fetch-mcp) [![ymw0407/auth-fetch-mcp MCP server](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp) 📇 🏠 🍎 🪟 🐧 - Fetch content from login-protected web pages (Notion, Google Docs, Jira, Confluence, etc.) by opening a real browser for authentication with persistent session caching.
 - [PrinceGabriel-lgtm/freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp) [![freshcontext-mcp MCP server](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp) ☁️ 🏠 - Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.
 
-### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
+- [Iploop/proxyclaw-mcp](https://github.com/Iploop/proxyclaw-mcp) 📇 🐍 ☁️ - Residential proxy network MCP server. Route requests through 175M+ real IPs with TLS JA3 spoofing, headless rendering, and structured data extraction from 60+ sites.
 
+### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
 
 - [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🎖️ 📇 🏠 🍎 🐧 - An MCP server implementation for 4EVERLAND Hosting enabling instant deployment of AI-generated code to decentralized storage networks like Greenfield, IPFS, and Arweave.
