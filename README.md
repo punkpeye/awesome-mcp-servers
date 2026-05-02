@@ -80,6 +80,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📐 - [Architecture & Design](#architecture-and-design)
 * 📂 - [Browser Automation](#browser-automation)
 * 🧬 - [Biology Medicine and Bioinformatics](#bio)
+* 💼 - [Career & Job Search](#career-and-job-search)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
 * 👨‍💻 - [Code Execution](#code-execution)
 * 🤖 - [Coding Agents](#coding-agents)
@@ -344,6 +345,12 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
 - [ymw0407/auth-fetch-mcp](https://github.com/ymw0407/auth-fetch-mcp) [![ymw0407/auth-fetch-mcp MCP server](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp) 📇 🏠 🍎 🪟 🐧 - Fetch content from login-protected web pages (Notion, Google Docs, Jira, Confluence, etc.) by opening a real browser for authentication with persistent session caching.
 - [PrinceGabriel-lgtm/freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp) [![freshcontext-mcp MCP server](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp) ☁️ 🏠 - Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.
+
+### 💼 <a name="career-and-job-search"></a>Career & Job Search
+
+MCP servers for resume tailoring, cover letter generation, job matching, and application tracking.
+
+- [justinjamesmathew/jobagent](https://github.com/justinjamesmathew/jobagent/tree/main/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - [Shortlisted](https://shortlisted.site) MCP server: search aggregated jobs across Greenhouse / Lever / Workday / Adzuna / USAJOBS / RemoteOK, score how well a resume fits a job, generate ATS-tailored resume PDFs, and write cover letters in professional / casual / formal tones. 6 tools, stdio transport. Install: `npx -y shortlisted-mcp-server`.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
