@@ -1951,6 +1951,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
+- [danielctc/ctc-monitor-mcp](https://github.com/danielctc/ctc-monitor-mcp) 📇 ☁️ - Global tech news from 500+ non-western sources (China, SEA, India, MENA, Africa, LatAm, Europe, Korea, Japan). Region-balanced, cluster-aware, translated. 7 tools. Free API key with a work email at https://www.comparethecloud.net/monitor.
 - [mrslbt/rippr](https://github.com/mrslbt/rippr) [![mrslbt/rippr MCP server](https://glama.ai/mcp/servers/mrslbt/rippr/badges/score.svg)](https://glama.ai/mcp/servers/mrslbt/rippr) 📇 🏠 - YouTube transcript extraction for AI agents. Clean text, timestamps, or structured JSON from any video. No API keys required. Install via `npx rippr-mcp`.
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) 📇 🏠 - An MCP server for searching job listings with filters for date, keywords, remote work options, and more.
 - [hanselhansel/aeo-cli](https://github.com/hanselhansel/aeo-cli) 🐍 🏠 - Audit URLs for AI crawler readiness — checks robots.txt, llms.txt, JSON-LD schema, and content density with 0-100 AEO scoring.
