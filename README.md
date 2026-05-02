@@ -2613,6 +2613,7 @@ Now Claude can answer questions about writing MCP servers and how they work
 - https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/
 
 ## Star History
+- [tuoxie2046/GenAI-DrawIO-Creator](https://github.com/tuoxie2046/GenAI-DrawIO-Creator) - AI-powered diagram generation from natural language with MCP support for AWS, GCP, Azure, and Kubernetes.
 
 <a href="https://star-history.com/#punkpeye/awesome-mcp-servers&Date">
  <picture>
