@@ -624,6 +624,8 @@ Provides access to customer profiles inside of customer data platforms
 
 ### 🗄️ <a name="databases"></a>Databases
 
+- [rtissera/regvault-mcp](https://github.com/rtissera/regvault-mcp) 📇 ☁️ [![rtissera/regvault-mcp MCP server](https://glama.ai/mcp/servers/rtissera/regvault-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rtissera/regvault-mcp) - Open retro-gaming metadata — 91k+ games across 99 systems with box art, manuals, screenshots, gameplay previews. Hosted MCP at `api.regvault.org/mcp`.
+
 Secure database access with schema inspection capabilities. Enables querying and analyzing data with configurable security controls including read-only access.
 
 - [Aiven-Open/mcp-aiven](https://github.com/Aiven-Open/mcp-aiven) - 🐍 ☁️ 🎖️ -  Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services
