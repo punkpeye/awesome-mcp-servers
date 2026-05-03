@@ -119,6 +119,7 @@
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧  - 一键将Web API转成为MCP服务器，而无需对服务器端代码进行任何修改。
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - 一个通过 MCP 使用 Google Imagen 3.0 API 的强大图像生成工具。使用文本提示生成具有高级摄影、艺术和逼真控制的高质量图像。
 - [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 全面的个人数据聚合MCP服务器，集成Steam、YouTube、Bilibili、Spotify、Reddit等平台。具有OAuth2认证、自动令牌管理和90+工具，用于游戏、音乐、视频和社交平台数据访问。
+- [loongmiaow-pixel/mcp-swiss-army](https://github.com/loongmiaow-pixel/mcp-swiss-army) 📇 ☁️ 🏠 🍎 🪟 🐧 - 全合一 MCP Server，内置16个工具（天气、股票、新闻、搜索、翻译、词典等）。零API密钥，开箱即用。安装：`npx -y mcp-swiss-army`
 
 ### 📂 <a name="browser-automation"></a>浏览器自动化
 
