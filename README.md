@@ -289,6 +289,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [the-momentum/fhir-mcp-server](https://github.com/the-momentum/fhir-mcp-server) 🐍 🏠 ☁️ - MCP Server that connects AI agents to FHIR servers. One example use case is querying patient history in natural language.
 - [thelongevityvault/decoder-3am-mcp](https://github.com/thelongevityvault/decoder-3am-mcp) [![thelongevityvault/decoder-3am-mcp MCP server](https://glama.ai/mcp/servers/thelongevityvault/decoder-3am-mcp/badges/score.svg)](https://glama.ai/mcp/servers/thelongevityvault/decoder-3am-mcp) 📇 ☁️ - Sleep disruption cause classifier using The Longevity Vault's 5-cause framework. Identifies the biological mechanism behind 3am wakeups from symptom descriptions, with tracked links to the full interactive 3AM Decoder.
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs. Provides seamless integration with FHIR servers, enabling AI assistants to search, retrieve, create, update, and analyze clinical healthcare data with SMART-on-FHIR authentication support.
+- [DasClown/drug-pipeline-mcp](https://github.com/DasClown/drug-pipeline-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Pharmaceutical R&D pipeline intelligence for AI agents — 12 tools combining clinical trials (ClinicalTrials.gov), FDA/EMA approvals (openFDA), drug safety (FAERS), orphan drugs, company pipelines, and PubMed publications. All free data sources, zero API keys.
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
@@ -1198,6 +1199,7 @@ Provides access to environmental data and nature-related tools, services and inf
 
 - [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - MCP server for detecting, monitoring, and analyzing potential wildfires globally using multiple data sources including NASA FIRMS, OpenWeatherMap, and Google Earth Engine.
 - [nalediym/touch-grass](https://github.com/nalediym/touch-grass) [![nalediym/touch-grass MCP server](https://glama.ai/mcp/servers/nalediym/touch-grass/badges/score.svg)](https://glama.ai/mcp/servers/nalediym/touch-grass) 📇 🏠 🍎 🪟 🐧 - Claude Code plugin and MCP server that nudges you to take outdoor breaks based on local weather, sunset timing, and session streaks. Tools: `check_grass_conditions`, `suggest_activity`, `log_touch_grass`, `get_stats`. Fully local, no API keys, no cloud storage.
+- [DasClown/CropProphEU](https://github.com/DasClown/CropProphEU) 🐍 ☁️ 🍎 🪟 🐧 - EU crop intelligence MCP server — yield forecasts, weather analysis, and phenology for 25 countries. 10 tools including `yield_and_value`, `europe_yield_forecast`, `crop_forecast`, `weather_outlook`, `climate_scenario`. Powers: NASA POWER, Eurostat, Open-Meteo, SoilGrids, Yahoo Finance (live). Zero API keys required.
 
 ### 📂 <a name="file-systems"></a>File Systems
 
