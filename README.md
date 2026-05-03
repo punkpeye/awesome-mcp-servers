@@ -33,6 +33,8 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) and [glama.ai/mcp/clients](https://glama.ai/mcp/clients).
 
+- [Copper](https://github.com/noelschwarz/copper) 📇 🏠 🍎 🪟 🐧 - A tiny CLI by [Basematter](https://basematter.dev) that tails MCP tool calls, redacts secrets, and flags risky ones.
+
 ## Tutorials
 
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
