@@ -85,6 +85,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🤖 - [Coding Agents](#coding-agents)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
+* 🏗️ - [Construction](#construction)
 * 🗣️ - [Conversational AI](#conversational-ai)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
@@ -599,6 +600,13 @@ Integration with communication platforms for message management and channel oper
 - [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) 📇 ☁️ 🏠 - A Model Context Protocol (MCP) server with built-in Feishu OAuth authentication, supporting remote connections and providing comprehensive Feishu document management tools including block creation, content updates, and advanced features.
 - [loglux/whatsapp-mcp-stream](https://github.com/loglux/whatsapp-mcp-stream) [![whatsapp-mcp-stream MCP server](https://glama.ai/mcp/servers/@loglux/whatsapp-mcp-stream/badges/score.svg)](https://glama.ai/mcp/servers/@loglux/whatsapp-mcp-stream) 📇 🏠 🍎 🪟 🐧 - WhatsApp MCP server over Streamable HTTP with web admin UI (QR/status/settings), bidirectional media upload/download, and SQLite persistence.
 - [Zacccck/Claude-MCP-Read-Email-Attachments](https://github.com/Zacccck/Claude-MCP-Read-Email-Attachments) [![Zacccck/Claude-MCP-Read-Email-Attachments MCP server](https://glama.ai/mcp/servers/Zacccck/Claude-MCP-Read-Email-Attachments/badges/score.svg)](https://glama.ai/mcp/servers/Zacccck/Claude-MCP-Read-Email-Attachments) 📇 ☁️ 🏠 🪟 - Remote HTTP MCP server that reads Outlook email attachments via Microsoft Graph. Parses PDF, Word (with embedded image extraction for multimodal analysis), Excel, and text files in-memory and returns structured content directly to Claude.
+
+
+### 🏗️ <a name="construction"></a>Construction
+
+Construction estimating and planning tools — materials, labor, cost, structural calculations, permits, and trades (plumbing, electrical, HVAC).
+
+- [BlackMount-ai/blackmount-construction-mcp](https://github.com/BlackMount-ai/blackmount-construction-mcp) 🐍 🏠 🍎 🪟 🐧 - All-trades construction estimating MCP. 48 tools across 9 modules: materials (concrete, rebar, lumber, drywall, roofing, tile, insulation, brick), labor (28 task types), cost (markup, overhead, change orders, project budgets), structural (beam/joist/footing/snow/wind loads, ACI 318 rebar dev. length), permits (continuous tiered fees, IBC inspections, zoning setbacks, occupancy load), plumbing (IPC pipe sizing, water heater, drain slope, fixture units), electrical (NEC 220 load calc, wire gauge, circuit sizing, panel capacity), HVAC (Manual J simplified, duct sizing, equipment sizing), and XSS-safe HTML/text estimate generation.
 
 
 ### 🗣️ <a name="conversational-ai"></a>Conversational AI
