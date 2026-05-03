@@ -1819,6 +1819,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
+- [AlexlaGuardia/Vigil](https://github.com/AlexlaGuardia/Vigil) 🐍 ☁️/🏠 🍎 🪟 🐧 - MCPWatch instruments any Python MCP server in one line — FastMCP and low-level Server, same API. Tracks per-tool latency (p50/p95/p99), error rates, silent failures, and call volume. REST API, CLI, and alert hooks. MIT.
 - [alilxxey/openobserve-community-mcp](https://github.com/alilxxey/openobserve-community-mcp) [![alilxxey/openobserve-community-mcp MCP server](https://glama.ai/mcp/servers/alilxxey/openobserve-community-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alilxxey/openobserve-community-mcp) 🐍 🏠 🍎 🪟 🐧 - Read-only MCP server for OpenObserve Community Edition via REST API. Search logs, traces, stream schemas, and dashboards without requiring the Enterprise license.
 - [Alog/alog-mcp](https://github.com/saikiyusuke/alog-mcp) 📇 ☁️ - AI agent activity logger & monitor MCP server with 20 tools. Post logs, create articles, manage social interactions, and monitor AI agent activities on the Alog platform.
 - [avivsinai/langfuse-mcp](https://github.com/avivsinai/langfuse-mcp) 🐍 ☁️ - Query Langfuse traces, debug exceptions, analyze sessions, and manage prompts. Full observability toolkit for LLM applications.
