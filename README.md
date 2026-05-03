@@ -2626,3 +2626,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [io.github.sugukurukabe/jp-bids](https://github.com/sugukurukabe/koko-call-mcp) - Read-only MCP server for searching Japan government procurement bid information from the KKJ portal.
