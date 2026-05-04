@@ -1969,6 +1969,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - Search articles using the NYTimes API
 - [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - An MCP server for Apify's open-source RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown.
 - [atlasprzetargow/mcp-server](https://github.com/atlasprzetargow/mcp-server) [![atlasprzetargow/mcp-server MCP server](https://glama.ai/mcp/servers/atlasprzetargow/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/atlasprzetargow/mcp-server) 📇 ☁️ - Search 800 000+ Polish public tenders (BZP + TED). Profiles of procuring entities and contractors by NIP, market statistics by CPV/province, 90+ term procurement glossary.
+- [sugukurukabe/koko-call-mcp](https://github.com/sugukurukabe/koko-call-mcp) 📇 ☁️ - Search Japan government procurement bids (官公需) from the SME Agency's KKJ portal. Tools for keyword/region/category search, AI ranking, PDF requirement extraction, ICS calendar export, and CSV shortlists.
 - [Khamel83/argus](https://github.com/Khamel83/argus) [![Khamel83/argus MCP server](https://glama.ai/mcp/servers/Khamel83/argus/badges/score.svg)](https://glama.ai/mcp/servers/Khamel83/argus) 🐍 🏠 - Multi-provider search broker with automatic fallback, RRF ranking, content extraction, and budget enforcement.
 - [idapixl/idapixl-web-research-mcp](https://github.com/idapixl/idapixl-web-research-mcp) [![idapixl-web-research-mcp MCP server](https://glama.ai/mcp/servers/idapixl-web-research-mcp/badges/score.svg)](https://glama.ai/mcp/servers/idapixl-web-research-mcp) 📇 ☁️ - Pay-per-use web research for AI agents on Apify. Search (Brave + DuckDuckGo), fetch pages to clean markdown, and multi-step research with relevance scoring and key fact extraction.
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Clojars MCP Server for upto date dependency information of Clojure libraries
@@ -2625,5 +2626,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
-</a>
-- [io.github.sugukurukabe/jp-bids](https://github.com/sugukurukabe/koko-call-mcp) - Read-only MCP server for searching Japan government procurement bid information from the KKJ portal.
+ </a>
