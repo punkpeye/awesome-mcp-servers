@@ -763,6 +763,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [vikramgorla/mcp-swiss](https://github.com/vikramgorla/mcp-swiss) [![mcp-swiss](https://glama.ai/mcp/servers/vikramgorla/mcp-swiss/badges/score.svg)](https://glama.ai/mcp/servers/vikramgorla/mcp-swiss) 📇 ☁️ - 68 tools for Swiss open data: transport, weather, geodata, companies, parliament, and more. Zero API keys required.
 - [yashshingvi/databricks-genie-MCP](https://github.com/yashshingvi/databricks-genie-MCP) 🐍 ☁️ - A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.
 - [Leekangbum/networklytics-mcp](https://github.com/Leekangbum/networklytics-mcp) [![Leekangbum/networklytics-mcp MCP server](https://glama.ai/mcp/servers/Leekangbum/networklytics-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Leekangbum/networklytics-mcp) 🐍 - YouTube comment social network analysis (SNA): influencer centrality ranking, community detection (Louvain), sentiment analysis, and public JSON API for AI agents
+- [mobus-ai/Mobus](https://github.com/mobus-ai/Mobus) 📇 ☁️ 🏠 - Search, preview, and analyze datasets from 20+ platforms (Kaggle, Hugging Face, Zenodo, data.gov, arXiv, SEC EDGAR, and more) via a single MCP connector. 15 tools covering dataset discovery, quality assessment, license checking, citation generation, and visualization. No install required — connect via hosted URL.
 
 
 
