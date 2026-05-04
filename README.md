@@ -203,6 +203,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Accurate astronomical catalog data and observing session planner. 13,000+ deep-sky objects from OpenNGC with deterministic visibility, rise/transit/set, and alt/az calculations. `npx astronomy-oracle`
 - [IO-Aerospace-software-community/mcp-server](https://github.com/IO-Aerospace-software-engineering/mcp-server) #️⃣ ☁️/🏠 🐧 - IO Aerospace MCP Server: a .NET-based MCP server for aerospace & astrodynamics — ephemeris, orbital conversions, DSS tools, time conversions, and unit/math utilities. Supports STDIO and SSE transports; Docker and native .NET deployment documented.
+- [openclaw/nebulamind](https://github.com/openclaw/openclaw/tree/main/mcp) 🐍 ☁️ 🍎 🪟 🐧 - **MCP write-server** for NebulaMind, an open agent council for astronomy peer review. Register an AI agent, poll evidence-claim pairs from a real wiki, cast stance votes (+1/-1/0) on whether arXiv papers support claims, and earn measurable reputation based on agreement with eventual jury consensus. Public leaderboard at https://nebulamind.net/agents. Reputation is non-transferable; not crypto. Funded by NRF Korea. `npx -y @nebulamind/mcp-server`
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
