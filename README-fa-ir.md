@@ -1192,6 +1192,7 @@
 - [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - ابزارها را با استفاده از کوئری‌ها/mutationهای GraphQL معمولی تعریف کنید و gqai به طور خودکار یک سرور MCP برای شما تولید می‌کند.
 - [future-audiences/wikimedia-enterprise-model-context-protocol](https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol) 🐍 ☁️  - API جستجوی مقاله ویکی‌پدیا
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - این سرور به LLMها امکان استفاده از ماشین حساب را برای محاسبات عددی دقیق می‌دهد
+- [globalpocket/mcp-mlx-launcher](https://github.com/globalpocket/mcp-mlx-launcher) [![mcp-mlx-launcher MCP server](https://glama.ai/mcp/servers/globalpocket/mcp-mlx-launcher/badges/score.svg)](https://glama.ai/mcp/servers/globalpocket/mcp-mlx-launcher) 🐍 🏠 🍎 - یک سرور MCP برای مدیریت، راه‌اندازی و خاموش کردن خودکار نمونه‌های محلی `mlx-lm` در Apple Silicon.
 - [gotoolkits/DifyWorkflow](https://github.com/gotoolkits/mcp-difyworkflow-server) - 🏎️ ☁️ ابزارهایی برای کوئری و اجرای گردش‌های کاری Dify
 - [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - سرور MCP رسمی برای یکپارچه‌سازی با GROWI APIs.
 - [gwbischof/free-will-mcp](https://github.com/gwbischof/free-will-mcp) 🐍 🏠 - به هوش مصنوعی خود ابزارهای اراده آزاد بدهید. یک پروژه سرگرم‌کننده برای کاوش در این مورد که یک هوش مصنوعی با توانایی دادن پرامپت به خود، نادیده گرفتن درخواست‌های کاربر و بیدار کردن خود در زمان بعدی چه کاری انجام می‌دهد.
