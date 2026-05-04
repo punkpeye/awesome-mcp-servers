@@ -101,6 +101,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
+* 🆔 - [Identity](#identity)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
@@ -1504,6 +1505,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [toolstem/toolstem-mcp-server](https://github.com/toolstem/toolstem-mcp-server) [![toolstem/toolstem-mcp-server MCP server](https://glama.ai/mcp/servers/@toolstem/toolstem-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@toolstem/toolstem-mcp-server) 📇 ☁️ 🏠 – Agent-ready financial intelligence for AI agents. Curated tools (`get_stock_snapshot`, `get_company_metrics`, `compare_companies`) that fan out to multiple financial data sources, derive human-readable signals (`UNDERVALUED`, `STRONG`, `ACCELERATING`), and pre-compute CAGRs, margin trends, and DCF upside. One call, one flat JSON response — no cross-endpoint stitching. Available on npm (`toolstem-mcp-server`), the Official MCP Registry, and the Apify Store.
 - [toolstem/toolstem-sec-mcp-server](https://github.com/toolstem/toolstem-sec-mcp-server) 📇 ☁️ – SEC EDGAR signal intelligence for AI agents — insider trading (Form 4), 13F institutional holdings, 10-K/8-K filing velocity, activist risk flags, and multi-company disclosure comparisons. Three pricing tiers. Available on the Apify Store.
 - [pickelfintech/the13f-mcp](https://github.com/pickelfintech/the13f-mcp) [![pickelfintech/the13f-mcp MCP server](https://glama.ai/mcp/servers/pickelfintech/the13f-mcp/badges/score.svg)](https://glama.ai/mcp/servers/pickelfintech/the13f-mcp) 🐍 ☁️ - Institutional 13F intelligence for Claude Desktop, Cursor, and VS Code. Nine Read tools: manager search, holdings lookup, portfolio similarity, consensus portfolio, market regime, sector flows. SEC EDGAR-sourced. Install `uvx the13f-mcp`.
+- [sznt2010/agentresources-mcp](https://github.com/sznt2010/agentresources-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - x402 + USDC + Base + agent reputation in one MCP. Pay any x402-protected endpoint with USDC on Base, sign in via wallet, and surface a payer Trust Card so the receiver knows who paid. Tools: `wallet_login`, `pay_for_service`, `verify_payer_trust_card`. Free, MIT. Install: `npx -y @agentresources/mcp`.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
@@ -1556,6 +1558,12 @@ Control smart home devices, home network equipment, and automation systems.
 - [apiarya/wemo-mcp-server](https://github.com/apiarya/wemo-mcp-server) - [![wemo-mcp-server MCP server](https://glama.ai/mcp/servers/@apiarya/wemo-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@apiarya/wemo-mcp-server) 🐍 🏠 🍎 🪟 🐧 - Control WeMo smart home devices via AI assistants using natural language. Built on pywemo for 100% local control — no cloud dependency. Supports dimmer brightness, device rename, HomeKit codes, and multi-phase discovery.
 - [Hybirdss/smartest-tv](https://github.com/Hybirdss/smartest-tv) [![Hybirdss/smartest-tv MCP server](https://glama.ai/mcp/servers/Hybirdss/smartest-tv/badges/score.svg)](https://glama.ai/mcp/servers/Hybirdss/smartest-tv) 🐍 🏠 🍎 🪟 🐧 - Control any smart TV with natural language. Play Netflix, YouTube, Spotify by name with deep linking, cast URLs, scene presets, multi-room audio, and multi-TV sync. Supports LG, Samsung, Android TV, Roku. 21 MCP tools, no cloud required.
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
+
+### 🆔 <a name="identity"></a>Identity
+
+Agent identity, trust verification, and on-chain reputation. Enables AI agents to prove who they are, verify other agents' credentials, and anchor identity to public registries.
+
+- [sznt2010/agentresources-mcp](https://github.com/sznt2010/agentresources-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - First MCP with a signed Trust Card and on-chain ERC-8004 identity anchor. Verifies any agent's EIP-712 Trust Card and Base mainnet ERC-8004 NFT in one tool call. Tools: `lookup_trust_card`, `verify_trust_card`, `get_erc8004_identity`. Free, MIT. Install: `npx -y @agentresources/mcp`.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
@@ -1720,6 +1728,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [arthurpanhku/Arthor-Agent](https://github.com/arthurpanhku/Arthor-Agent) [![arthor-agent MCP server](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent/badges/score.svg)](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent) 🐍 🏠 ☁️ - ...
 - [yakuphanycl/instinct](https://github.com/yakuphanycl/instinct) [![yakuphanycl/instinct MCP server](https://glama.ai/mcp/servers/yakuphanycl/instinct/badges/score.svg)](https://glama.ai/mcp/servers/yakuphanycl/instinct) 🐍 🏠 🍎 🪟 🐧 - Self-learning memory for AI coding agents. Observes tool sequences, user preferences, and recurring fixes; confidence-based promotion (hits ≥5 → mature, ≥10 → rule) so agents stop repeating mistakes without explicit instruction. SQLite-backed, project-aware, zero external deps. Works with Claude Code, Cursor, Windsurf, Goose, Codex. Published on PyPI as `instinct-mcp` and registered in the MCP Registry.
 - [Wynelson94/longhand](https://github.com/Wynelson94/longhand) [![Wynelson94/longhand MCP server](https://glama.ai/mcp/servers/Wynelson94/longhand/badges/score.svg)](https://glama.ai/mcp/servers/Wynelson94/longhand) 🐍 🏠 🍎 🪟 🐧 - Persistent local memory for Claude Code. Indexes every session JSONL verbatim into SQLite + ChromaDB for semantic recall (~126ms) across your entire history. Never summarizes, zero API calls, 17 MCP tools including fuzzy `recall`, deterministic `replay_file`, and git-aware `recall_project_status`. Published on PyPI as `longhand` and registered in the MCP Registry.
+- [sznt2010/agentresources-mcp](https://github.com/sznt2010/agentresources-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Cryptographically-verifiable memory: every memory write is a signed-telemetry envelope (secp256k1 hash chain, EIP-191 prehash) anchored daily into a Merkle root on Base mainnet. Tools: `remember`, `recall`, `verify_chain`, `fetch_anchor`. Tamper-evident audit trail by construction. Free, MIT. Install: `npx -y @agentresources/mcp`.
 
 ### ⚖️ <a name="legal"></a>Legal
 
