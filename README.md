@@ -2587,6 +2587,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [SPL-BGU/PlanningCopilot](https://github.com/SPL-BGU/PlanningCopilot) [![planning-copilot MCP server](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot/badges/score.svg)](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot) 🐍🏠 - A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.
 - [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp
 ## Frameworks
+- [x711](https://x711.io/mcp) — Universal pay-per-call tool API for AI agents. Web search, price feeds, hive memory, LLM routing. 10 free calls/day, no API key needed.
 
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
