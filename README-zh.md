@@ -113,6 +113,7 @@
 通过单个MCP服务器访问多个应用程序和工具的服务器。
 
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - 一个统一的模型上下文协议服务器实现，将多个MCP服务器聚合为一个。
+- [globalpocket/mcp-routing-gateway](https://github.com/globalpocket/mcp-routing-gateway) [![mcp-routing-gateway MCP server](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway/badges/score.svg)](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway) 🐍 🏠 🍎 - 一个无状态的本地 MCP 路由网关和纯代理（Pure Proxy），用于安全地管理（过滤和虚拟化）向 LLM 提供的工具。
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 10秒内将Web API转换为MCP服务器并将其添加到开源注册表中: https://open-mcp.org
 - [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) 📇 🏠 - 一个代理工具，用于将多个MCP服务器组合成一个统一的端点。通过跨多个MCP服务器负载均衡请求来扩展您的AI工具，类似于Nginx对Web服务器的工作方式。
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一个统一的中间件MCP服务器，通过GUI管理您的MCP连接。

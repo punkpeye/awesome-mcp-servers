@@ -104,6 +104,7 @@
 เซิร์ฟเวอร์สำหรับเข้าถึงแอปและเครื่องมือจำนวนมากผ่าน MCP เซิร์ฟเวอร์เดียว
 
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP ที่รวมกันหลายเซิร์ฟเวอร์ MCP เป็นเซิร์ฟเวอร์เดียว
+- [globalpocket/mcp-routing-gateway](https://github.com/globalpocket/mcp-routing-gateway) [![mcp-routing-gateway MCP server](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway/badges/score.svg)](https://glama.ai/mcp/servers/globalpocket/mcp-routing-gateway) 🐍 🏠 🍎 - เกตเวย์การกำหนดเส้นทาง MCP แบบไร้สถานะ (stateless) และ Pure Proxy เพื่อจัดการ กรอง และสร้างสภาพแวดล้อมเสมือนสำหรับเครื่องมือที่นำเสนอต่อ LLMs อย่างปลอดภัย
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - เชื่อมต่อกับ API 2,500 รายการ พร้อมเครื่องมือสำเร็จรูป 8,000+ รายการ และจัดการเซิร์ฟเวอร์สำหรับผู้ใช้งานของคุณในแอปของคุณเอง
 - [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) 📇 🏠 - เครื่องมือพร็อกซี่สำหรับรวมเซิร์ฟเวอร์ MCP หลายตัวเข้าด้วยกันเป็นจุดเชื่อมต่อเดียว ปรับขนาดเครื่องมือ AI ของคุณด้วยการกระจายโหลดคำขอระหว่างเซิร์ฟเวอร์ MCP หลายตัว คล้ายกับวิธีที่ Nginx ทำงานสำหรับเว็บเซิร์ฟเวอร์
 - [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP รวมข้อมูลส่วนตัวที่ครอบคลุมด้วยการรวม Steam, YouTube, Bilibili, Spotify, Reddit และแพลตฟอร์มอื่นๆ พร้อมการรับรองความถูกต้อง OAuth2 การจัดการโทเค็นอัตโนมัติ และเครื่องมือ 90+ สำหรับเข้าถึงข้อมูลเกม เพลง วิดีโอ และแพลตฟอร์มโซเชียล
