@@ -1732,6 +1732,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 - [NexusFeed/nexusfeed-mcp](https://github.com/NexusFeed/nexusfeed-mcp) [![NexusFeed/nexusfeed-mcp MCP server](https://glama.ai/mcp/servers/NexusFeed/nexusfeed-mcp/badges/score.svg)](https://glama.ai/mcp/servers/NexusFeed/nexusfeed-mcp) 🐍 ☁️ - US state ABC liquor license compliance lookup (CA, TX, NY, FL) — search by trade name, owner, or license number and verify status, expiration, and address against state portals. Every response includes a verifiability block with extraction confidence and source URL.
 - [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements) [![open-agreements/open-agreements MCP server](https://glama.ai/mcp/servers/open-agreements/open-agreements/badges/score.svg)](https://glama.ai/mcp/servers/open-agreements/open-agreements) 📇 🏠 ☁️ 🍎 🐧 🪟 - Fill standard legal agreement templates (NDAs, SAFEs, NVCA docs, employment, cloud terms) and produce signable DOCX files.
 - [philrox/ris-mcp-ts](https://github.com/philrox/ris-mcp-ts) [![philrox/ris-mcp-ts MCP server](https://glama.ai/mcp/servers/philrox/ris-mcp-ts/badges/score.svg)](https://glama.ai/mcp/servers/philrox/ris-mcp-ts) 📇 ☁️ - Access Austrian federal laws, state laws, court decisions, and legal documents via the RIS (Rechtsinformationssystem) API with 12 specialized tools.
+- [vicente-stack/vicox-mcp-server](https://github.com/vicente-stack/vicox-mcp-server) 📇 ☁️ 🏠 - Cross-border Spanish real estate law, crypto payment compliance (MiCA/AML), visa eligibility (DNV, Golden Visa), tax optimization (Beckham Law), and jurisdiction comparison (Spain, Portugal, Luxembourg, Switzerland) for international HNWIs. 6 tools, SSE transport.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
@@ -1924,6 +1925,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [vicente-stack/vicox-mcp-server](https://github.com/vicente-stack/vicox-mcp-server) 📇 ☁️ 🏠 - Cross-border Spanish real estate law, crypto payment compliance (MiCA/AML), visa eligibility (DNV, Golden Visa), tax optimization (Beckham Law), and jurisdiction comparison (Spain, Portugal, Luxembourg, Switzerland) for international HNWIs. 6 tools, SSE transport.
 
 ### 🔬 <a name="research"></a>Research
 
