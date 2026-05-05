@@ -398,6 +398,7 @@ Armazenamento de memória persistente usando estruturas de grafos de conheciment
 
 Acesso a informações jurídicas, legislação e bancos de dados jurídicos. Permite que modelos de IA pesquisem e analisem documentos jurídicos e informações regulatórias.
 
+- [AgentBureau/AgentBureau-402-embodiment-as-a-service](https://github.com/JustinGuese/AgentBureau-402-embodiment-as-a-service) ⚖️ 🤖 AgentBureau: Dê aos Agentes de IA Identidade Jurídica e Agência Institucional na Alemanha.
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - Um servidor MCP que fornece legislação abrangente dos EUA.
 
 ### 🗺️ <a name="serviços-de-localização"></a>Serviços de Localização
