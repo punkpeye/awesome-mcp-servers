@@ -1816,6 +1816,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [ZLeventer/salesforce-marketing-mcp](https://github.com/ZLeventer/salesforce-marketing-mcp) [![salesforce-marketing-mcp MCP server](https://glama.ai/mcp/servers/ZLeventer/salesforce-marketing-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ZLeventer/salesforce-marketing-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Salesforce MCP server built for marketing and revenue ops teams. 47 tools for leads, contacts, accounts, campaigns, campaign members, tasks, and 17 reporting tools including campaign ROI, lead-source attribution, pipeline-by-campaign, multi-touch campaign influence, MQL trend, forecast summary, and the native SFDC Reports API.
 - [andrealufino/aapl-ads-mcp](https://github.com/andrealufino/aapl-ads-mcp) [![andrealufino/aapl-ads-mcp MCP server](https://glama.ai/mcp/servers/andrealufino/aapl-ads-mcp/badges/score.svg)](https://glama.ai/mcp/servers/andrealufino/aapl-ads-mcp) 📇 - 
 
+- [BuyWhere/buywhere-mcp](https://github.com/BuyWhere/buywhere-mcp) 🐍 ☁️ - Real-time product catalog MCP for AI agents. Search 3M+ products across Singapore retailers (Shopee, Lazada, Amazon.sg, FairPrice, Guardian, Watsons, Cold Storage, and more). Exposes `search_products`, `get_product_details`, and `compare_prices` tools for agent-native shopping, price comparison, and product discovery workflows.
 ### 📊 <a name="monitoring"></a>Monitoring
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
