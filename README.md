@@ -1947,6 +1947,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [yusong652/pfc-mcp](https://github.com/yusong652/pfc-mcp) [![pfc-mcp MCP server](https://glama.ai/mcp/servers/yusong652/pfc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yusong652/pfc-mcp) 🐍 🏠 🪟 - MCP server for [ITASCA PFC](https://www.itascacg.com/software/pfc) discrete element simulation — browse documentation, execute scripts, capture plots, and manage long-running tasks via a WebSocket bridge to the PFC GUI.
 - [yusong652/yade-mcp](https://github.com/yusong652/yade-mcp) [![yade-mcp MCP server](https://glama.ai/mcp/servers/yusong652/yade-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yusong652/yade-mcp) 🐍 🏠 🐧 - MCP server for [YADE](https://yade-dem.org/) — open-source discrete element method (DEM) engine for granular and particle simulation. Browse API docs with BM25 search, execute code via synchronous REPL or async background tasks, monitor progress, and review task history.
 
+- [Lexicon Comparison Intelligence](https://dbssearch.today) ☁️ — Live comparison intelligence for autonomous agents. Retrieves live evidence from 20 independent web sources, applies PESTLE Triangulation, Head-to-Head VS, and Deep Research frameworks. Free test endpoint: `POST https://dbssearch.today/marketplace/v1/test`. MCP: `https://dbssearch.today/mcp/v1`.
+
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
 
 - [gogabrielordonez/mcp-ragchat](https://github.com/gogabrielordonez/mcp-ragchat) 📇 🏠 - Add RAG-powered AI chat to any website with one command. Local vector store, multi-provider LLM (OpenAI/Anthropic/Gemini), self-contained chat server and embeddable widget.
