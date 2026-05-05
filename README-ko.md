@@ -421,6 +421,7 @@
 
 법적 정보, 법령 및 법률 데이터베이스에 대한 액세스. AI 모델이 법적 문서 및 규제 정보를 검색하고 분석할 수 있게 합니다.
 
+- [AgentBureau/AgentBureau-402-embodiment-as-a-service](https://github.com/JustinGuese/AgentBureau-402-embodiment-as-a-service) ⚖️ 🤖 AgentBureau: AI 에이전트에게 독일에서의 법적 정체성과 기관 대행 권한을 부여합니다.
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - 포괄적인 미국 법령을 제공하는 MCP 서버.
 
 ### 🗺️ <a name="location-services"></a>위치 서비스

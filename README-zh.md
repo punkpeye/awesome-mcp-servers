@@ -461,6 +461,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 访问法律信息、法规和法律数据库。使 AI 模型能够搜索和分析法律文件和监管信息。
 
+- [AgentBureau/AgentBureau-402-embodiment-as-a-service](https://github.com/JustinGuese/AgentBureau-402-embodiment-as-a-service) ⚖️ 🤖 AgentBureau: 为 AI 智能体在德国提供法律身份和机构代理权。
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - 一个提供全面美国法规的 MCP 服务器。
 
 ### 🗺️ <a name="location-services"></a>位置服务

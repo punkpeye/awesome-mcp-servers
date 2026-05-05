@@ -462,6 +462,7 @@
 
 การเข้าถึงข้อมูลทางกฎหมาย กฎหมาย และฐานข้อมูลกฎหมาย ช่วยให้โมเดล AI สามารถค้นหาและวิเคราะห์เอกสารทางกฎหมายและข้อมูลด้านกฎระเบียบ
 
+- [AgentBureau/AgentBureau-402-embodiment-as-a-service](https://github.com/JustinGuese/AgentBureau-402-embodiment-as-a-service) ⚖️ 🤖 AgentBureau: มอบอัตลักษณ์ทางกฎหมายและอำนาจหน้าที่เชิงสถาบันให้กับตัวแทน AI ในเยอรมนี
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่ให้กฎหมายของสหรัฐอเมริกาอย่างครอบคลุม
 
 ### 🗺️ บริการตำแหน่ง

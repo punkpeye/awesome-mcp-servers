@@ -665,6 +665,12 @@
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - یک ربات فوق‌العاده-کاوایی تعبیه‌شده M5Stack مبتنی بر JavaScript با عملکرد سرور MCP برای تعاملات و احساسات کنترل شده توسط هوش مصنوعی.
 - [yoelbassin/gnuradioMCP](https://github.com/yoelbassin/gnuradioMCP) 🐍 📟 🏠 - یک سرور MCP برای GNU Radio که به LLMها امکان ایجاد و تغییر خودکار فلوچارت‌های RF `.grc` را می‌دهد.
 
+### ⚖️ <a name="legal"></a>Legal
+
+دسترسی به اطلاعات حقوقی، قوانین و پایگاه‌های داده حقوقی. مدل‌های هوش مصنوعی را قادر می‌سازد تا اسناد حقوقی و اطلاعات نظارتی را جستجو و تحلیل کنند.
+
+- [AgentBureau/AgentBureau-402-embodiment-as-a-service](https://github.com/JustinGuese/AgentBureau-402-embodiment-as-a-service) ⚖️ 🤖 AgentBureau: به عوامل هوش مصنوعی هویت قانونی و نمایندگی نهادی در آلمان بدهید.
+
 ### 🌳 <a name="environment-and-nature"></a>زیست بوم و طبیعت
 
 دسترسی به داده‌های محیطی و ابزارها، خدمات و اطلاعات مرتبط با طبیعت را فراهم می‌کند.
