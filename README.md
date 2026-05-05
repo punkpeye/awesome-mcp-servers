@@ -613,7 +613,7 @@ Tools for building and operating AI conversation agents that hold structured dia
 
 Tools for encrypting and decrypting data.
 
-- [denismaggior8/enigma-python-mcp](https://github.com/denismaggior8/enigma-python-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - A Model Context Protocol server that brings the capabilities of [enigmapython](https://github.com/denismaggior8/enigma-python) library to LLMs, allowing them to encrypt and decrypt messages using historically accurate Enigma machine emulators.
+- [denismaggior8/enigma-python-mcp](https://github.com/denismaggior8/enigma-python-mcp) [![denismaggior8/enigma-python-mcp MCP server](https://glama.ai/mcp/servers/denismaggior8/enigma-python-mcp/badges/score.svg)](https://glama.ai/mcp/servers/denismaggior8/enigma-python-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - A Model Context Protocol server that brings the capabilities of [enigmapython](https://github.com/denismaggior8/enigma-python) library to LLMs, allowing them to encrypt and decrypt messages using historically accurate Enigma machine emulators.
 
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
