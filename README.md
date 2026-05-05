@@ -635,6 +635,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 ### 💻 <a name="developer-tools"></a>Developer Tools
 
 Tools and integrations that enhance the development workflow and environment management.
+- [unitedideas/agentprobe](https://github.com/unitedideas/agentprobe) 🏎️ ☁️ - Probe any seller URL for agentic commerce readiness. Returns a 0-95 score and grade (NOT_READY/PARTIAL/AGENT_READY/CERTIFIED) across 10 checks: llms.txt, OpenAPI, ai-plugin.json, MCP endpoint, commerce.json, catalog/quote/checkout APIs, payment rail declarations, and refund/contact metadata. One tool: probe_site(url).
 
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - Create crafted UI components inspired by the best 21st.dev design engineers.
 - [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOS code quality analysis and test automation server. Provides comprehensive Xcode test execution, SwiftLint integration, and detailed failure analysis. Operates in both CLI and MCP server modes for direct developer usage and AI assistant integration.
@@ -1904,4 +1905,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-
