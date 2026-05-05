@@ -33,6 +33,9 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) and [glama.ai/mcp/clients](https://glama.ai/mcp/clients).
 
+> [!TIP]
+> [Glama Chat](https://glama.ai/chat) is a multi-modal AI client with MCP support & [AI gateway](https://glama.ai/gateway).
+
 ## Tutorials
 
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
@@ -1715,6 +1718,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [wazionapps/nexo](https://github.com/wazionapps/nexo) [![wazionapps/nexo MCP server](https://glama.ai/mcp/servers/wazionapps/nexo/badges/score.svg)](https://glama.ai/mcp/servers/wazionapps/nexo) 🐍 🏠 - Cognitive memory for AI agents with Atkinson-Shiffrin memory model (STM/LTM/sensory register), semantic RAG, Ebbinghaus decay, trust scoring, and 76+ MCP tools.
 - [whynowlab/jarvis-orb](https://github.com/whynowlab/jarvis-orb) [![whynowlab/jarvis-orb MCP server](https://glama.ai/mcp/servers/whynowlab/jarvis-orb/badges/score.svg)](https://glama.ai/mcp/servers/whynowlab/jarvis-orb) 🐍 🏠 - Persistent 4-tier AI memory (episodic, semantic, project, procedural) with temporal scoring, contradiction detection, entity tracking, and real-time desktop visualization orb.
 - [TheStack-ai/waypath](https://github.com/TheStack-ai/waypath) [![TheStack-ai/waypath MCP server](https://glama.ai/mcp/servers/TheStack-ai/waypath/badges/score.svg)](https://glama.ai/mcp/servers/TheStack-ai/waypath) 📇 🏠 - Local-first external brain CLI for coding agents. SQLite-backed context, graph-aware recall via FTS5 and RRF, and governed memory with explicit promote and review gates. Ships Codex and Claude Code host shims and a native MCP server.
+- [zsc-glitch/knowledge-keeper-mcp](https://github.com/zsc-glitch/knowledge-keeper-mcp) 📇 🏠 🍎 🪟 🐧 - AI memory & knowledge management for coding agents. 30 MCP tools including hybrid search (BM25 R@5=95% + semantic RRF), knowledge graph, version history, audit trail, spaced repetition, and Obsidian vault compatibility. Zero API keys required — runs fully locally. Cloud sync (Pro) with end-to-end encryption. Works with Claude Code, Cursor, Gemini CLI, Windsurf, hermes-agent. `npx @zsc-glitch/knowledge-keeper-mcp`
 - [zzhang82/Agent-Memory-Bridge](https://github.com/zzhang82/Agent-Memory-Bridge) [![zzhang82/Agent-Memory-Bridge MCP server](https://glama.ai/mcp/servers/zzhang82/Agent-Memory-Bridge/badges/score.svg)](https://glama.ai/mcp/servers/zzhang82/Agent-Memory-Bridge) 🐍 🏠 - MCP-native, local-first memory for coding agents that turns coding sessions into reusable engineering memory: decisions, gotchas, and domain knowledge.
 - [teolex2020/AuraSDK](https://github.com/teolex2020/AuraSDK) [![teolex2020-aurasdk MCP server](https://glama.ai/mcp/servers/teolex2020-aurasdk/badges/score.svg)](https://glama.ai/mcp/servers/teolex2020-aurasdk) 🐍 🏠 — Persistent cognitive memory for Claude Desktop. Sub-ms recall, offline, encrypted.
 - [arthurpanhku/Arthor-Agent](https://github.com/arthurpanhku/Arthor-Agent) [![arthor-agent MCP server](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent/badges/score.svg)](https://glama.ai/mcp/servers/@arthurpanhku/arthor-agent) 🐍 🏠 ☁️ - ...
