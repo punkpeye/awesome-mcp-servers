@@ -2626,3 +2626,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [iPayX FX Audit](https://github.com/iPAYX-Technologies/mcp-fx-audit) - FX audit MCP - detects hidden bank spreads vs mid-market rates. Score 0-10, CAD/USD focus, FINTRAC registered.
