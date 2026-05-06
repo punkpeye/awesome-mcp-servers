@@ -1924,6 +1924,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [peter-products/pads-mcp](https://github.com/peter-products/pads-mcp) 📇 ☁️ 🍎 🪟 🐧 - Free fair-value verdicts and parcel address lookup for King County, Washington single-family homes. Three tools: `analyze_property` (one-shot address-to-verdict), `lookup_address`, `get_verdict`. Computed from King County's published bulk property records; no auth required. Install with `npx -y pads-mcp`.
 
 ### 🔬 <a name="research"></a>Research
 
