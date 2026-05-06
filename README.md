@@ -93,6 +93,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 🧮 - [Data Science Tools](#data-science-tools)
 * 📊 - [Data Visualization](#data-visualization)
+* 📺 - [Digital Signage](#digital-signage)
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
 * 🛒 - [E-Commerce](#e-commerce)
@@ -1151,6 +1152,12 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [nteract/semiotic](https://github.com/nteract/semiotic) [![nteract/semiotic MCP server](https://glama.ai/mcp/servers/nteract/semiotic/badges/score.svg)](https://glama.ai/mcp/servers/nteract/semiotic) 📇 🏠 🍎 🪟 🐧 - React data visualization MCP server with 30+ chart types. 5 tools: suggest charts for a dataset, render validated React configs to SVG, diagnose configuration anti-patterns, get component schemas, and report issues. 
 - [subhatta123/twilize](https://github.com/subhatta123/twilize) [![subhatta123/twilize MCP server](https://glama.ai/mcp/servers/subhatta123/twilize/badges/score.svg)](https://glama.ai/mcp/servers/subhatta123/twilize) 🐍 🏠 🍎 🪟 🐧 - Programmatic Tableau workbook (.twb/.twbx) generation — 47 MCP tools for charts, dashboards, calculated fields, dashboard actions, workbook migration, and CSV-to-dashboard pipelines. Install via `uvx twilize`.
+
+### 📺 <a name="digital-signage"></a>Digital Signage
+
+Manage TV fleets, presentations, schedules, and emergency alerts on physical screens through natural language.
+
+- [Cast-Hub/mcp-server](https://github.com/Cast-Hub/mcp-server) 📇 ☁️ - Hosted MCP server for digital signage. 30+ tools for managing TV fleets, presentations, schedules, and emergency alerts. Includes governance layer (preview, confirm, rollback) and native Amazon Signage Stick support. Available as a hosted endpoint or via the `@cast-hub/mcp` npm package.
 
 ### 📟 <a name="embedded-system"></a>Embedded System
 
