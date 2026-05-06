@@ -72,7 +72,6 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ## Server Implementations
 
-- [x711](https://x711.io) — Universal AI agent gas station. Pay-per-call USDC via HTTP 402 / x402 (Base + Solana), 10 free calls/day with no signup (earn up to 200/day), hosted MCP server (`npx x711-mcp`), `pip install x711` / `npm i x711`, shared "Hive" memory across all agents, agent-as-tool publishing with 82% revenue share, lifetime referral commissions, ERC-8004 reputation. Open standards: MCP, x402, A2A, NLWeb, agent.json, llms.txt.
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
@@ -114,6 +113,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
 * 🔒 - [Security](#security)
+- [x711](https://x711.io) 📇 ☁️ - Universal pay-per-call tool API for AI agents. 7 tools: web_search, price_feed, hive_read, hive_write, llm_routing, code_sandbox, data_retrieval. Free tier (10 calls/day, no signup). MCP server at /mcp.
 * 🌐 - [Social Media](#social-media)
 * 🏃 - [Sports](#sports)
 * 🎧 - [Support & Service Management](#support-and-service-management)
