@@ -113,6 +113,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
 * 🔒 - [Security](#security)
+- [x711](https://x711.io) 📇 ☁️ - Universal pay-per-call tool API for AI agents. 7 tools: web_search, price_feed, hive_read, hive_write, llm_routing, code_sandbox, data_retrieval. Free tier (10 calls/day, no signup). MCP server at /mcp.
 * 🌐 - [Social Media](#social-media)
 * 🏃 - [Sports](#sports)
 * 🎧 - [Support & Service Management](#support-and-service-management)
