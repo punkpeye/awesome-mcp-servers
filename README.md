@@ -1924,6 +1924,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [Hakeemwarner95/acrelens](https://github.com/Hakeemwarner95/acrelens) 📇 ☁️ 🍎 🪟 🐧 - Land suitability scoring for any US property by address. Five tools (analyze_land, get_land_quick_score, get_state_land_profile, compare_properties, get_solar_potential) covering off-grid, rural-residential, recreational, and investment modes. Sources: NREL PVWatts, USGS, FEMA NFHL, county records.
 
 ### 🔬 <a name="research"></a>Research
 
