@@ -508,6 +508,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 ### 🖥️ <a name="command-line"></a>Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
 
+- [capsulerun/bash](https://github.com/capsulerun/bash/tree/main/packages/bash-mcp) [![Capsule Bash MCP server](https://glama.ai/mcp/servers/capsulerun/bash/badges/score.svg)](https://glama.ai/mcp/servers/capsulerun/bash) 📇 🏠 🍎 🪟 🐧 - Sandboxed bash for agents. Run untrusted commands in WebAssembly sandboxes with no setup required.
 - [danmartuszewski/hop](https://github.com/danmartuszewski/hop) 🏎️ 🖥️ - Fast SSH connection manager with TUI dashboard and MCP server for discovering, searching, and executing commands on remote hosts.
 - [nvms/tui-mcp](https://github.com/nvms/tui-mcp) [![tui-mcp MCP server](https://glama.ai/mcp/servers/nvms/tui-mcp/badges/score.svg)](https://glama.ai/mcp/servers/nvms/tui-mcp) 📇 🏠 🍎 🪟 🐧 - What Chrome DevTools MCP is for the browser, tui-mcp is for the terminal. Launch, screenshot, and interact with any TUI app.
 - [raychao-oao/pty-mcp](https://github.com/raychao-oao/pty-mcp) [![pty-mcp MCP server](https://glama.ai/mcp/servers/raychao-oao/pty-mcp/badges/score.svg)](https://glama.ai/mcp/servers/raychao-oao/pty-mcp) 🏎️ 🏠 🍎 🐧 - Interactive PTY sessions for AI agents — local shells, SSH with persistent sessions (ai-tmux daemon for attach/detach), and serial ports. Single Go binary, no tmux dependency.
