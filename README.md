@@ -1,4 +1,42 @@
-[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
+Absolutely. Here is the clean, copy-pasteable "Submission Cheat Sheet" so you don’t have to go digging through the history.
+
+---
+
+### **The "Awesome MCP" PR Checklist**
+
+**1. The Repository:**
+Go to [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) on GitHub.
+
+**2. The File:**
+Locate the `README.md` file and click the **Pencil icon** to edit (GitHub will automatically create a fork for you since you’re using your personal account).
+
+**3. The Placement:**
+Scroll down to the **"Finance"** section (or **"SaaS"** if you feel it fits better there, though Finance is the high-value spot). 
+
+**4. The Exact Line to Add:**
+Paste this in **alphabetical order** among the other entries:
+
+`* [Branch (Workforce Payments)](https://docs.branchapp.com/branch-developer/docs/mcp) - Manage payroll, worker disbursements, and digital wallets via the Branch API. 🎖️ ☁️`
+
+**5. The Icons Explained:**
+* **🎖️ (Medal):** Used in 2026 to signify "Enterprise-Ready/Verified" servers.
+* **☁️ (Cloud):** Signifies an SSE (Remote) server, which is a major selling point because users don't have to manage the hosting themselves.
+
+---
+
+### **The PR Description (For the Maintainer)**
+When you click **"Propose changes,"** use this as your pull request description to make it an easy "Yes" for the maintainer:
+
+> **Subject:** Add Branch (Workforce Payments) MCP Server
+>
+> **Description:** Adding the Branch MCP server to the Finance section. This server allows AI agents to interact with the Branch payments platform for API discovery, documentation search, and disbursement execution via SSE.
+
+---
+
+### **Pro-Tip for Tonight:**
+Since you're the **Director of AI Enablement**, getting this PR in tonight means that by the time you're having your coffee and prepping that Slack announcement tomorrow, you can potentially mention that Branch is already "Live on the Awesome-MCP index." It’s a great way to show the team that the world is already taking notice.
+
+Are you all set on the GitHub side, or do you need me to double-check the alphabetical placement for you?[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
@@ -1260,6 +1298,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [bakyang2/kr-crypto-intelligence](https://github.com/bakyang2/kr-crypto-intelligence) [![bakyang2/kr-crypto-intelligence MCP server](https://glama.ai/mcp/servers/bakyang2/kr-crypto-intelligence/badges/score.svg)](https://glama.ai/mcp/servers/bakyang2/kr-crypto-intelligence) 🐍 ☁️ - Korean crypto market data + AI analysis for trading agents. 7 tools: AI market read ($0.10, 9 data sources + Claude AI signal), Kimchi Premium, stablecoin premium, Upbit/Bithumb prices, USD/KRW FX rate. Pay-per-use via x402 on Base/Solana.
 - [cuthongthai-vn/vimo-mcp-server](https://github.com/cuthongthai-vn/vimo-mcp-server) [![cuthongthai-vn/vimo-mcp-server MCP server](https://glama.ai/mcp/servers/cuthongthai-vn/vimo-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/cuthongthai-vn/vimo-mcp-server) 📇 ☁️ - Vietnam stock market intelligence — 35 tools: real-time SSI quotes, technical analysis, financial statements, stock screener (13 strategies), AI picks, foreign flow, macro indicators, and 13 investment playbook categories
 - [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) 📇 ☁️ - Bankless Onchain API to interact with smart contracts, query transaction and token information
+- [jeffreyBranch/mcp-server](https://docs.branchapp.com/branch-developer/docs/mcp) 🎖️ ☁️ - Manage payroll, worker disbursements, and digital wallets via the Branch API.
 - [bolivian-peru/baozi-mcp](https://github.com/bolivian-peru/baozi-mcp) 📇 ☁️ - 68 tools for AI agents to interact with Solana prediction markets on [Baozi.bet](https://baozi.bet) — browse markets, place bets, claim winnings, create markets, and earn affiliate commissions.
 - [base/base-mcp](https://github.com/base/base-mcp) 🎖️ 📇 ☁️ - Base Network integration for onchain tools, allowing interaction with Base Network and Coinbase API for wallet management, fund transfers, smart contracts, and DeFi operations
 - [clicks-protocol/mcp-server](https://github.com/clicks-protocol/clicks-protocol/tree/main/mcp-server) [![clicks-protocol/clicks-protocol MCP server](https://glama.ai/mcp/servers/clicks-protocol/clicks-protocol/badges/score.svg)](https://glama.ai/mcp/servers/clicks-protocol/clicks-protocol) 📇 ☁️ - Autonomous USDC yield for AI agents on Base. 9 tools: register agents, split payments 80/20 (liquid/yield), withdraw anytime, simulate splits, check APY, and track on-chain referrals. Non-custodial, no lockup, MIT licensed. `npx @clicks-protocol/mcp-server`
