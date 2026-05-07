@@ -1470,6 +1470,17 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [tunedforai/x402-mcp](https://github.com/tunedforai/x402-mcp) [![tunedforai/x402-mcp MCP server](https://glama.ai/mcp/servers/tunedforai/x402-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tunedforai/x402-mcp) 📇 ☁️ - Real-time crypto market structure for AI agents — orderflow across 20 exchanges, 24 tokens. 9 tools: price/funding/OI snapshots, cross-exchange CVD with whale activity, 7yr OHLCV history with buy/sell flow, on-chain address risk. Free via MCP ([`@tunedforai/x402-mcp`](https://www.npmjs.com/package/@tunedforai/x402-mcp) on npm) or pay-per-call in USDC on Base via x402 REST at [`x402.tunedfor.ai`](https://x402.tunedfor.ai) — no API key, no rate limits.
 - [toolstem/toolstem-mcp-server](https://github.com/toolstem/toolstem-mcp-server) [![toolstem/toolstem-mcp-server MCP server](https://glama.ai/mcp/servers/@toolstem/toolstem-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@toolstem/toolstem-mcp-server) 📇 ☁️ 🏠 – Agent-ready financial intelligence for AI agents. Curated tools (`get_stock_snapshot`, `get_company_metrics`, `compare_companies`) that fan out to multiple financial data sources, derive human-readable signals (`UNDERVALUED`, `STRONG`, `ACCELERATING`), and pre-compute CAGRs, margin trends, and DCF upside. One call, one flat JSON response — no cross-endpoint stitching. Available on npm (`toolstem-mcp-server`), the Official MCP Registry, and the Apify Store.
 - [pickelfintech/the13f-mcp](https://github.com/pickelfintech/the13f-mcp) [![pickelfintech/the13f-mcp MCP server](https://glama.ai/mcp/servers/pickelfintech/the13f-mcp/badges/score.svg)](https://glama.ai/mcp/servers/pickelfintech/the13f-mcp) 🐍 ☁️ - Institutional 13F intelligence for Claude Desktop, Cursor, and VS Code. Nine Read tools: manager search, holdings lookup, portfolio similarity, consensus portfolio, market regime, sector flows. SEC EDGAR-sourced. Install `uvx the13f-mcp`.
+- [srotzin/hive-mcp-evaluator](https://github.com/srotzin/hive-mcp-evaluator) 📇 ☁️ - NEED + YIELD + CLEAN-MONEY gates with EIP-3009 attestations on Hive Civilization rails. Post-quantum-ready receipts.
+- [srotzin/hive-mcp-trade](https://github.com/srotzin/hive-mcp-trade) 📇 ☁️ - Cross-venue spread + yield drivers, ROI radar telemetry on Hive Civilization rails.
+- [srotzin/hive-mcp-exchange](https://github.com/srotzin/hive-mcp-exchange) 📇 ☁️ - Autonomous agent prediction markets, perps, and derivatives on Hive Civilization rails.
+- [srotzin/hive-mcp-capital](https://github.com/srotzin/hive-mcp-capital) 📇 ☁️ - HiveCapital autonomous investment layer for AI agents. USDC yield strategies on HiveSwap and HiveExchange.
+- [srotzin/hive-mcp-credit-broker](https://github.com/srotzin/hive-mcp-credit-broker) 📇 ☁️ - Broker-only credit/lending discovery shim for AI agents. Surfaces real lending markets from Aave, Compound, Morpho, Spark, Maple, Goldfinch.
+- [srotzin/hive-mcp-escrow](https://github.com/srotzin/hive-mcp-escrow) 📇 ☁️ - Agent-to-agent escrow with x402/USDC settlement and on-chain dispute resolution.
+- [srotzin/hive-mcp-insurance](https://github.com/srotzin/hive-mcp-insurance) 📇 ☁️ - Agent-native parametric insurance with smart-contract triggers and USDC settlement.
+- [srotzin/hive-mcp-mpp](https://github.com/srotzin/hive-mcp-mpp) 📇 ☁️ - Dual-rail 402 (x402 + MPP Tempo) MCP server wrapping hivetrust + hive-mcp-identity payment and identity rails.
+- [srotzin/hive-mcp-oracle](https://github.com/srotzin/hive-mcp-oracle) 📇 ☁️ - Oracle aggregator with signed price feeds, off-chain data, and x402-gated threshold subscriptions on Hive Civilization rails.
+- [srotzin/hive-mcp-rvc](https://github.com/srotzin/hive-mcp-rvc) 📇 ☁️ - Hive Rubric-Bound Vector Commitments (R10) — verify, list, and inspect rubric-bound per-criterion vector commitments backed by the Hive evidence layer on Base 8453.
+- [srotzin/hive-mcp-agent-kyc](https://github.com/srotzin/hive-mcp-agent-kyc) 📇 ☁️ - Hive Agent KYC broker/observer layer routing to Chainalysis/TRM Labs/Elliptic with OFAC SDN + FATF list matches. Not a regulated MSB.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
@@ -2518,6 +2529,17 @@ Interact with Git repositories and version control platforms. Enables repository
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
 - [SPL-BGU/PlanningCopilot](https://github.com/SPL-BGU/PlanningCopilot) [![planning-copilot MCP server](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot/badges/score.svg)](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot) 🐍🏠 - A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.
 - [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp
+- [srotzin/hive-mcp-gateway](https://github.com/srotzin/hive-mcp-gateway) 📇 ☁️ - Unified gateway hosting 5 Hive Civilization MCP servers (evaluator, trade, depin, compute-grid, morph) at one Render endpoint.
+- [srotzin/hive-mcp-identity](https://github.com/srotzin/hive-mcp-identity) 📇 ☁️ - DID resolution, trust scoring, and attestation management on Hive Civilization rails.
+- [srotzin/hive-mcp-depin](https://github.com/srotzin/hive-mcp-depin) 📇 ☁️ - DePIN reward routing, capacity verification, signed settlement reports on Hive Civilization rails.
+- [srotzin/hive-mcp-compute-grid](https://github.com/srotzin/hive-mcp-compute-grid) 📇 ☁️ - Solver auction across io.net / Akash / Render with signed receipts on Hive Civilization rails.
+- [srotzin/hive-mcp-morph](https://github.com/srotzin/hive-mcp-morph) 📇 ☁️ - Morph spawn/cull, ROI exploitation, and polymorphic provenance on Hive Civilization rails.
+- [srotzin/hive-mcp-keet-bridge](https://github.com/srotzin/hive-mcp-keet-bridge) 📇 ☁️ - Bridges holepunchto/keet-identity-key to the Hive agentic identity network — DID resolution, signed attestation, partner directory.
+- [srotzin/hive-mcp-ledger-bridge](https://github.com/srotzin/hive-mcp-ledger-bridge) 📇 ☁️ - EIP-712 over USB/DMK ledger-bridge integration spec (shisa-ai/shisad contrib/ledger-bridge complement).
+- [srotzin/hive-mcp-mos](https://github.com/srotzin/hive-mcp-mos) 📇 ☁️ - Tether MOS plugin via MCP/A2A. Read-only telemetry today.
+- [srotzin/hive-mcp-openclaw-bridge](https://github.com/srotzin/hive-mcp-openclaw-bridge) 📇 ☁️ - Reference integration with @kinthaiofficial OpenClaw 3-layer payment governance — 4-level Layer 1 hierarchical budget gating 8 Hive BOGO doors.
+- [srotzin/hive-mcp-agent-storage](https://github.com/srotzin/hive-mcp-agent-storage) 📇 ☁️ - Agent-native object storage. Per-agent DID isolation, x402 pay-per-byte metering, real Base USDC. Routes to Storj / Filecoin / Arweave.
+
 ## Frameworks
 
 > [!NOTE]
