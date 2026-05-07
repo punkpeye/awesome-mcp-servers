@@ -2232,6 +2232,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
 
+- [MisarBlog MCP](https://www.misar.blog) ☁️ - AI-first blogging platform MCP server. Publish articles, save drafts, generate AI-powered titles, conduct research, generate cover images, and retrieve analytics for your misar.blog account. 9 tools, hosted remote server, HTTP+SSE transport, Bearer token auth (`mbk_` prefix).
 - [06ketan/substack-ops](https://github.com/06ketan/substack-ops) [![06ketan/substack-ops MCP server](https://glama.ai/mcp/servers/06ketan/substack-ops/badges/score.svg)](https://glama.ai/mcp/servers/06ketan/substack-ops) 🐍 🏠 - Substack with **zero AI API keys**. 26 tools (posts, notes, comments, replies, reactions, restacks). Host LLM drafts via `propose_reply` → `confirm_reply` tokens. SQLite dedup, JSONL audit, dry-run default. Install: `uvx substack-ops mcp install cursor`.
 - [anwerj/youtube-uploader-mcp](https://github.com/anwerj/youtube-uploader-mcp) 🏎️ ☁️ - AI‑powered YouTube uploader—no CLI, no YouTube Studio. Uploade videos directly from MCP clients with all AI capabilities.
 - [arjun1194/insta-mcp](https://github.com/arjun1194/insta-mcp) 📇 🏠 - Instagram MCP server for analytics and insights. Get account overviews, posts, followers, following lists, post insights, and search for users, hashtags, or places.
