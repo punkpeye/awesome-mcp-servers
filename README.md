@@ -1924,6 +1924,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [Estaite-Solutions/estaite-mcp](https://github.com/Estaite-Solutions/estaite-mcp) [![Estaite MCP server](https://glama.ai/mcp/servers/@Estaite-Solutions/estaite-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Estaite-Solutions/estaite-mcp) 📇 ☁️ - US rental market data MCP for AI agents — 1,500+ submarkets with rent, vacancy, affordability, and trend data.
 
 ### 🔬 <a name="research"></a>Research
 
