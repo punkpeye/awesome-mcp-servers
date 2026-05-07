@@ -1192,6 +1192,8 @@ MCP servers for e-commerce platforms and online store management.
 - [PCDCK/ozon-mcp](https://github.com/PCDCK/ozon-mcp) [![PCDCK/ozon-mcp MCP server](https://glama.ai/mcp/servers/PCDCK/ozon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PCDCK/ozon-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Knowledge-rich MCP server for the full Ozon Seller + Performance API (466 methods, 15 MCP tools). Auto-pagination over 4 cursor styles, subscription-tier pre-flight, rate-limit management with exponential back-off, and 13 curated analytical workflows (OOS risk, cabinet health, content audit, pricing, warehouse distribution). Russian + English BM25 search across the catalog.
 - [pepabo/colormeshop-mcp](https://github.com/pepabo/colormeshop-mcp) [![pepabo/colormeshop-mcp MCP server](https://glama.ai/mcp/servers/pepabo/colormeshop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/pepabo/colormeshop-mcp) 🎖️ ☁️ - Official remote MCP server for Color Me Shop (GMO Pepabo), a Japanese e-commerce platform. Manage orders, products, inventory, customers, coupons, and shop settings via natural language.
 
+- [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp) [![BuyWhere MCP server](https://glama.ai/mcp/servers/@BuyWhere/buywhere-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@BuyWhere/buywhere-mcp) 📇 ☁️ - Product catalog and price comparison for AI agents. Search products, compare prices across merchants, find deals across US, Singapore, and SEA markets.
+
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
 Provides access to environmental data and nature-related tools, services and information.
