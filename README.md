@@ -1125,6 +1125,8 @@ MCP servers for e-commerce platforms and online store management.
 - [the402ai/mcp-server](https://github.com/the402ai/mcp-server) [![the402ai/mcp-server MCP server](https://glama.ai/mcp/servers/the402ai/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/the402ai/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - AI agent service marketplace with x402 micropayments (USDC on Base). 30 tools for browsing services, purchasing, managing conversation threads, listing services as a provider, handling subscriptions, and tracking earnings. Install via `npx -y @the402/mcp-server`.
 - [cmcgrabby-hue/syndicate-links](https://github.com/cmcgrabby-hue/syndicate-links/tree/master/mcp) [![cmcgrabby-hue/syndicate-links MCP server](https://glama.ai/mcp/servers/cmcgrabby-hue/syndicate-links/badges/score.svg)](https://glama.ai/mcp/servers/cmcgrabby-hue/syndicate-links) 📇 🏠 🍎 🪟 🐧 - Affiliate commission infrastructure for AI agents. 7 tools for program discovery, attribution tracking, commission status, and payouts. Search programs, get details, track conversions with signed attribution tokens, and trigger settlement cycles. Install via `npx syndicate-links-mcp`.
 
+- [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp) [![BuyWhere MCP server](https://glama.ai/mcp/servers/@BuyWhere/buywhere-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@BuyWhere/buywhere-mcp) 📇 ☁️ - Product catalog and price comparison for AI agents. Search products, compare prices across merchants, find deals across US, Singapore, and SEA markets.
+
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
 Provides access to environmental data and nature-related tools, services and information.
