@@ -1924,6 +1924,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [ccedacero/nyc-property-intel](https://github.com/ccedacero/nyc-property-intel) 🐍 ☁️ 🏠 🍎 🪟 🐧 - MCP server for NYC real estate due diligence — query 22+ NYC public databases (DOB violations, HPD complaints, ECB, ACRIS deeds, DOF sales, 311, FDNY, NYPD, marshal evictions, PLUTO, rent stabilization) in plain English. Live demo (no install): https://nycpropertyintel.com/chat
 
 ### 🔬 <a name="research"></a>Research
 
