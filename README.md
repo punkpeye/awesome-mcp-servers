@@ -1924,6 +1924,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- - [evlek/evlek-mcp](https://github.com/evlek/evlek-mcp) 📇 ☁️ - AI-native property MCP for North Cyprus (KKTC). Search active listings, compare cities, estimate rental yield, look up KKTC legal procedures (koçan types, foreign purchase rules, PTP process), get district profiles. Multilingual (TR/EN), GBP-priced.
 
 ### 🔬 <a name="research"></a>Research
 
