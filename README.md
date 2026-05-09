@@ -1906,6 +1906,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
+- [bch1212/mcp-pubrecords](https://github.com/bch1212/mcp-pubrecords) 🐍 ☁️ 🏠 - US public-records intelligence for AI agents — search OpenCorporates business filings, SEC EDGAR (10-K/10-Q/8-K), federal court cases (RECAP), USASpending awards, NPI healthcare providers, FCC licenses, plus a cross-source `verify_entity` confidence score for due diligence and KYB.
 - [mrslbt/rippr](https://github.com/mrslbt/rippr) [![mrslbt/rippr MCP server](https://glama.ai/mcp/servers/mrslbt/rippr/badges/score.svg)](https://glama.ai/mcp/servers/mrslbt/rippr) 📇 🏠 - YouTube transcript extraction for AI agents. Clean text, timestamps, or structured JSON from any video. No API keys required. Install via `npx rippr-mcp`.
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) 📇 🏠 - An MCP server for searching job listings with filters for date, keywords, remote work options, and more.
 - [hanselhansel/aeo-cli](https://github.com/hanselhansel/aeo-cli) 🐍 🏠 - Audit URLs for AI crawler readiness — checks robots.txt, llms.txt, JSON-LD schema, and content density with 0-100 AEO scoring.
