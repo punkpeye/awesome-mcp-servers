@@ -348,6 +348,7 @@ Fornece acesso direto aos sistemas de arquivos locais com permissões configurá
 
 Acesso a dados financeiros e ferramentas de análise. Permite que modelos de IA trabalhem com dados de mercado, plataformas de negociação e informações financeiras.
 
+- [next-finance-mcp](https://github.com/paivapiovesan/next-finance-mcp) - MCP Server para o NEXT Finance ERP (finance.net.br). Login seguro via browser, suporte a múltiplas carteiras, listagem de contas e busca de lançamentos. - [npm](https://www.npmjs.com/package/next-finance-mcp)
 - [OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server) 🐍 ☁️ - Agentes Octagon AI para integrar dados de mercados privados e públicos
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - Integração com a API do Coinmarket para buscar listagens e cotações de criptomoedas
 - [bankless/onchain-mcp](https://github.com/Bankless/onchain-mcp/) 📇 ☁️ - API Bankless Onchain para interagir com contratos inteligentes, consultar informações de transações e tokens
