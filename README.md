@@ -37,6 +37,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+* [Hardening the MCP Spec (2026): OAuth 2.1, Per-Tool RBAC & Prompt Injection Defenses](https://rapidclaw.dev/blog/mcp-gateway-security-guide-2026)
 
 ## Community
 
