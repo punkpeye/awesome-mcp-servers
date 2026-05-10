@@ -2626,4 +2626,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-- [bitrix24-mcp](https://github.com/bit2beat/bitrix24-mcp) - MCP server that connects Claude to Bitrix24 — CRM, tasks, disk, calendar, automations and more. Built by [Bit2Beat](https://bit2beat.com).
+- 🔗 [bitrix24-mcp](https://github.com/bit2beat/bitrix24-mcp) - MCP server that connects Claude to Bitrix24 — CRM, tasks, disk, calendar, chat, business processes, telephony and product catalog. Built by [Bit2Beat](https://bit2beat.com).
