@@ -35,7 +35,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ## Tutorials
 
-* [awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) — Trilingual (zh-TW · zh-CN · English) 7-stage learning roadmap for agentic AI. Stage 5.2 is a dedicated MCP walkthrough (concept → first install → writing your own server) with prerequisites and time estimates; the catalog includes 62 integrations grouped by use case.
+* [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh) — Trilingual (zh-TW · zh-CN · English) 7-stage learning roadmap for agentic AI. Stage 5.2 is a dedicated MCP walkthrough (concept → first install → writing your own server) with prerequisites and time estimates; the catalog includes 62 integrations grouped by use case.
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 
