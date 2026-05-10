@@ -1955,7 +1955,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
-- [mosesy5688-cell/ai-nexus](https://github.com/mosesy5688-cell/ai-nexus)  📇 ☁️ - Search, rank, and compare 500K+ AI models, datasets, and papers from 13+ platforms with hardware and license constraints.
+- [mosesy5688-cell/ai-nexus](https://github.com/mosesy5688-cell/ai-nexus) 📇 ☁️ -Search, rank, and compare 500K+ AI models, datasets, and papers from 13+ platforms with hardware and license constraints [![mosesy5688-cell/ai-nexus MCP server](https://glama.ai/mcp/servers/mosesy5688-cell/ai-nexus/badges/score.svg)](https://glama.ai/mcp/servers/mosesy5688-cell/ai-nexus)
 - [mrslbt/rippr](https://github.com/mrslbt/rippr) [![mrslbt/rippr MCP server](https://glama.ai/mcp/servers/mrslbt/rippr/badges/score.svg)](https://glama.ai/mcp/servers/mrslbt/rippr) 📇 🏠 - YouTube transcript extraction for AI agents. Clean text, timestamps, or structured JSON from any video. No API keys required. Install via `npx rippr-mcp`.
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) 📇 🏠 - An MCP server for searching job listings with filters for date, keywords, remote work options, and more.
 - [hanselhansel/aeo-cli](https://github.com/hanselhansel/aeo-cli) 🐍 🏠 - Audit URLs for AI crawler readiness — checks robots.txt, llms.txt, JSON-LD schema, and content density with 0-100 AEO scoring.
