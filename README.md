@@ -1924,6 +1924,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [wehomemove/homedata-mcp](https://github.com/wehomemove/loki/tree/main/homedata-mcp) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - UK property data MCP from [Homedata](https://homedata.co.uk): 29M UK addresses, EPC ratings, flood risk, planning applications, comparables, demographics, schools, broadband, and more. 16 tools, free tier with 100 calls/mo, no credit card. `pip install homedata-mcp`.
 
 ### 🔬 <a name="research"></a>Research
 
