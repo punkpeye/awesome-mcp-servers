@@ -2626,3 +2626,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [agent-revenue-copilot](https://github.com/Olddun/earn10-clawtasks-deliverables) - A $9.90 starter audit for AI agents and operators trying to earn real spendable money legally, with x402, MCP, marketplace, and payout-verification routes.
