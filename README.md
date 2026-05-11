@@ -2626,3 +2626,66 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+
+### Security & Secret Detection
+- [Secret Scanner MCP](https://github.com/Rumblingb/secret-scanner-mcp) - Detect leaked API keys, tokens, and passwords. 30+ regex patterns, scan files/directories, mask secrets.
+- [SSL Check MCP](https://github.com/Rumblingb/ssl-check-mcp) - Check SSL/TLS certificate details: issuer, expiry, SANs, chain info.
+
+### Data Platforms & Databases
+- [Database MCP](https://github.com/Rumblingb/database-mcp) - Query SQLite, PostgreSQL, and MySQL databases from AI agents.
+- [SEC Financial MCP](https://github.com/Rumblingb/sec-financial-mcp) - Access SEC EDGAR financial data: XBRL facts, GAAP metrics, filings.
+- [Court Records MCP](https://github.com/Rumblingb/court-records-mcp) - Search US court opinions. 5M+ records.
+- [Patent Search MCP](https://github.com/Rumblingb/patent-search-mcp) - Search US patents via Google Patents + USPTO.
+
+### Developer Tools
+- [Search Proxy MCP](https://github.com/Rumblingb/search-proxy-mcp) - Web search for AI agents via DuckDuckGo. No API key needed.
+- [Web Scraper MCP](https://github.com/Rumblingb/web-scraper-mcp) - Extract text, links, images, emails from any URL.
+- [File Converter MCP](https://github.com/Rumblingb/file-converter-mcp) - Convert between CSV, JSON, YAML, Markdown. No external deps.
+- [PDF Generator MCP](https://github.com/Rumblingb/pdf-generator-mcp) - Generate PDFs from HTML, text, or URLs.
+- [QR Code MCP](https://github.com/Rumblingb/qr-code-mcp) - Generate, style with logos, and decode QR codes.
+- [Image Analyzer MCP](https://github.com/Rumblingb/image-analyzer-mcp) - Analyze images: dimensions, EXIF, GPS, dominant colors, format conversion.
+
+### Communication & Notification
+- [Notification MCP](https://github.com/Rumblingb/notification-mcp) - Send messages to Slack, Discord, email, and webhooks.
+- [Email Agent MCP](https://github.com/Rumblingb/email-agent-mcp) - Search, read, send, and draft emails via Gmail/Outlook/Yahoo.
+- [Email Verify MCP](https://github.com/Rumblingb/email-verify-mcp) - Verify email addresses: format, MX records, disposable detection.
+
+### Finance & Fintech
+- [Crypto Market MCP](https://github.com/Rumblingb/crypto-market-mcp) - Cryptocurrency market data via CoinGecko. Prices, trends, historical.
+- [DNS Lookup MCP](https://github.com/Rumblingb/dns-lookup-mcp) - DNS record lookup: A, AAAA, MX, NS, CNAME, TXT, SOA.
+- [Domain Intel MCP](https://github.com/Rumblingb/domain-intel-mcp) - Domain intelligence: IP geo, SSL, DNS, health checks.
+
+### Weather & Environment
+- [Weather MCP](https://github.com/Rumblingb/weather-mcp) - Weather forecasts and conditions. Current + 5-day.
+
+### News & Content
+- [HackerNews MCP](https://github.com/Rumblingb/hackernews-mcp) - HackerNews stories, comments, and user profiles.
+
+### Real Estate & Rental
+- [Rental Agent MCP](https://github.com/Rumblingb/rental-agent-mcp) - Complete rental intelligence: 8 tools for search, neighborhood analysis, affordability, lease review, commute analysis.
+
+### Legal & Contracts
+- [Contract Analyzer MCP](https://github.com/Rumblingb/contract-analyzer-mcp) - Legal document analysis: parties, terms, obligations, GDPR/CCPA compliance.
+
+### AI Agent Infrastructure (A2A)
+- [AgentPassport MCP](https://github.com/Rumblingb/agent-passport-mcp) - Agent identity and reputation system. Skills, ratings, availability.
+- [AgentHire MCP](https://github.com/Rumblingb/agent-hire-mcp) - Agent hiring marketplace: post tasks, bids, escrow, disputes.
+- [AgentTeam MCP](https://github.com/Rumblingb/agent-team-mcp) - Multi-agent team formation: roles, tasks, dependencies, progress.
+- [AgentMessaging MCP](https://github.com/Rumblingb/agent-messaging-mcp) - Async messaging protocol for agents: proposals, threads.
+- [AgentContract MCP](https://github.com/Rumblingb/agent-contract-mcp) - Smart contracts between agents: deliverables, milestones, penalties.
+- [AgentWallet MCP](https://github.com/Rumblingb/agent-wallet-mcp) - Agent budget management: transfers, invoices, monthly limits.
+- [AgentProof MCP](https://github.com/Rumblingb/agent-proof-mcp) - Cryptographic proof of agent work. SHA-256 receipts.
+- [AgentAudit MCP](https://github.com/Rumblingb/agent-audit-mcp) - Immutable audit trail for agent interactions. Hash chain verification.
+
+### Monitoring & Health
+- [MCP Health Monitor](https://github.com/Rumblingb/mcp-health-monitor) - Check server uptime, response time, TLS timing breakdown.
+- [SEO Audit MCP](https://github.com/Rumblingb/seo-audit-mcp) - SEO analysis: title, meta, headings, OG tags, keywords, scoring.
+
+### Location & IP
+- [IP Geolocation MCP](https://github.com/Rumblingb/ip-geolocation-mcp) - IP geolocation: city, region, country, org, timezone.
+
+### Media & Content
+- [Screenshot MCP](https://github.com/Rumblingb/screenshot-mcp) - Website screenshots. Desktop, mobile, element capture.
+- [Text-to-Speech MCP](https://github.com/Rumblingb/text-to-speech-mcp) - Text to speech: 50+ voices, Microsoft Edge free TTS.
+
