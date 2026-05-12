@@ -1,4 +1,4 @@
-<img width="981" height="688" alt="image" src="https://github.com/user-attachments/assets/da3f8243-908f-45b7-b940-210a831f8ebe" />[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
+[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
