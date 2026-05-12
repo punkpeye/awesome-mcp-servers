@@ -1775,7 +1775,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
-- [ChiefLab](https://github.com/bdentech/chiefmo-agent) 🌐 - Business execution layer for agent-built companies, starting with GTM. Your agent calls one tool with codebase context — ChiefLab returns a launch pack, approval-gated publish/send actions, signed reviewUrl, and 24h readback. Hosted MCP at `api.chieflab.io/api/mcp`. Open spec: `chieflab.io/spec/v0.1`. MIT.
+- [bdentech/chiefmo-agent](https://github.com/bdentech/chiefmo-agent) 📇 ☁️ - Business execution layer for agent-built companies, starting with GTM. Your agent calls one tool with codebase context — ChiefLab returns a launch pack, approval-gated publish/send actions, signed reviewUrl, and 24h readback. Hosted MCP at `api.chieflab.io/api/mcp`. Open spec: `chieflab.io/spec/v0.1`. MIT.
 
 
 - [acamolese/google-search-console-mcp](https://github.com/acamolese/google-search-console-mcp) [![acamolese/google-search-console-mcp MCP server](https://glama.ai/mcp/servers/acamolese/google-search-console-mcp/badges/score.svg)](https://glama.ai/mcp/servers/acamolese/google-search-console-mcp) 🐍 ☁️ - Google Search Console MCP server: query performance data, inspect URLs, check indexing, and generate brandable HTML SEO audit reports with a 30/60/90-day roadmap. Read-only OAuth scope, installable via `uvx mcp-google-search-console`.
