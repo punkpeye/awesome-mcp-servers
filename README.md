@@ -2626,3 +2626,7 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+## Developer Tools
+- [Certvo](https://certvo.com/docs/mcp) ☁️ 📇 - Accessibility scanning, AI WCAG fix generation, alt text, and VPAT 2.4 tools exposed over MCP for Claude Code, Claude Desktop, and Cursor. `claude mcp add --transport http certvo https://certvo.com/api/mcp/`
+
