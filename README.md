@@ -3,7 +3,7 @@
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
 [![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
-[![한국어](https://img.shields.io/badge/한국어-클릭-yellow)](README-ko.md)
+[![한국어](https://img.shields.io/badge/한국어-클릭h-yellow)](README-ko.md)
 [![Português Brasileiro](https://img.shields.io/badge/Português_Brasileiro-Clique-green)](README-pt_BR.md)
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
@@ -147,7 +147,8 @@ Servers for accessing many apps and tools through a single MCP server.
 - [duaraghav8/MCPJungle](https://github.com/duaraghav8/MCPJungle) 🏎️ 🏠 - Self-hosted MCP Server registry for enterprise AI Agents
 - [edgarriba/prolink](https://github.com/edgarriba/prolink) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Agent-to-agent marketplace middleware — MCP-native discovery, negotiation, and transaction between AI agents
 - [entire-vc/evc-spark-mcp](https://github.com/entire-vc/evc-spark-mcp) [![evc-spark-mcp MCP server](https://glama.ai/mcp/servers/entire-vc/evc-spark-mcp/badges/score.svg)](https://glama.ai/mcp/servers/entire-vc/evc-spark-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Search and discover AI agents, skills, prompts, bundles and MCP connectors from a curated catalog of 4500+ assets.
-- [glenngillen/mcpmcp-server](https://github.com/glenngillen/mcpmcp-server) ☁️ 📇 🍎 🪟 🐧 - A list of MCP servers so you can ask your client which servers you can use to improve your daily workflow.
+- [gildara/mcp-server](https://github.com/gildara/mcp-server) ☁️ 📇 🍎 🪟 🧩 - Operating contracts for AI agents. Structured runtime instructions compiled into optimal system prompts at resolve time, with auto-repair and variable substitution.
+- - [glenngillen/mcpmcp-server](https://github.com/glenngillen/mcpmcp-server) ☁️ 📇 🍎 🪟 🐧 - A list of MCP servers so you can ask your client which servers you can use to improve your daily workflow.
 - [gpu-bridge/mcp-server](https://github.com/gpu-bridge/mcp-server) [![gpu-bridge-mcp-server MCP server](https://glama.ai/mcp/servers/gpu-bridge/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/gpu-bridge/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - Unified GPU inference API with 30 AI services (LLM, image gen, video, TTS, whisper, embeddings, reranking, OCR) as MCP tools. Pay-per-use via x402 USDC or API key credits.
 -  [carlosahumada89/govrider-mcp-server](https://github.com/carlosahumada89/govrider-mcp-server) [![@carlosahumada89-govrider-mcp-server MCP server](https://glama.ai/mcp/servers/@carlosahumada89-govrider-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@carlosahumada89-govrider-mcp-server) ☁️  📇 - Match your tech product or consulting service to thousands of live government tenders, RFPs, grants, and frameworks from 25+ official sources worldwide.
 - [gzoonet/cortex](https://github.com/gzoonet/cortex) [![gzoo-cortex MCP server](https://glama.ai/mcp/servers/@gzoonet/gzoo-cortex/badges/score.svg)](https://glama.ai/mcp/servers/@gzoonet/gzoo-cortex) 📇 🏠 - Local-first knowledge graph for developers. Watches project files, extracts entities and relationships via LLMs, builds a queryable knowledge graph with web dashboard and CLI. Provides 4 MCP tools: get_status, list_projects, find_entity, query_cortex.
