@@ -2588,6 +2588,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp
 ## Frameworks
 
+- [JAK Shield](https://github.com/inbharatai/jak-shield) 🛡️ — Universal security gateway for AI agents. Sits between any MCP client (Claude Desktop, Cursor, VS Code, Cline, Windsurf, Zed, Continue, OpenAI Agents SDK) and the real tools the agent calls. Blocks destructive actions, redacts 28 PII types with cryptographic checksum validators (Luhn / Verhoeff / mod-97 IBAN / ABA / mod-11 NHS / CPF / CNPJ / SIN / NRIC / TFN / EIN / SWIFT / Bitcoin / Ethereum), detects prompt injection across 6 stages and 13 non-English languages plus English baseline, tracks taint across calls with MinHash + n-gram fingerprinting, requires human approval, HMAC-signed decisions with key rotation, scoped capability tokens, regulatory hints (PCI / HIPAA / GDPR / SOX / FERPA / DPDP / CCPA). 45-scenario adversarial benchmark in CI. MIT, TypeScript.
+
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
 > - [Nyrok/flompt](https://github.com/Nyrok/flompt) [![flompt MCP server](https://glama.ai/mcp/servers/@nyrok/flompt/badges/score.svg)](https://glama.ai/mcp/servers/@nyrok/flompt) 🐍 ☁️ - Visual AI prompt builder MCP server. Decompose any prompt into 12 semantic blocks and compile to Claude-optimized XML. Tools: `decompose_prompt`, `compile_prompt`. Setup: `claude mcp add flompt https://flompt.dev/mcp/`
