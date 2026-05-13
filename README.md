@@ -1924,6 +1924,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [Azreus1991/real-estate-mcp-suite](https://github.com/Azreus1991/real-estate-mcp-suite) 📇 ☁️ - 6 MCP-native real estate data tools for investors and AI agents: STR market intelligence (Broken Bow OK: 19.9% yield), property investment analyzer with Deal Score, live FRED mortgage rates, 50-state property tax, neighborhood intelligence by ZIP, and Rentcast rental comps. Via Apify.
 
 ### 🔬 <a name="research"></a>Research
 
