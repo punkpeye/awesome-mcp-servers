@@ -1924,6 +1924,12 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [Andrew_Avina/str-market-intelligence-mcp](https://apify.com/Andrew_Avina/str-market-intelligence-mcp) 📇 ☁️ - Live Airbnb/VRBO STR market data: gross yield, ADR, occupancy, and regulatory risk across 20 US vacation rental markets. Broken Bow OK: 19.9% gross yield, 76% occupancy, no permit required, 10/10 score. Via Apify MCP.
+- [Andrew_Avina/real-estate-intelligence-mcp](https://apify.com/Andrew_Avina/real-estate-intelligence-mcp) 📇 ☁️ - Property investment underwriting: cap rate, GRM, cash-on-cash return, DSCR, and Deal Score (1–10) from live listings. No API key required. Via Apify MCP.
+- [Andrew_Avina/mortgage-rate-intelligence-mcp](https://apify.com/Andrew_Avina/mortgage-rate-intelligence-mcp) 📇 ☁️ - Live 30yr/15yr/ARM mortgage rates direct from Federal Reserve FRED with Housing Affordability Index (HAI) and payment modeling across price tiers. Current: 30yr = 6.48%, HAI = 74.2. Via Apify MCP.
+- [Andrew_Avina/property-tax-intelligence-mcp](https://apify.com/Andrew_Avina/property-tax-intelligence-mcp) 📇 ☁️ - 50-state investor property tax rates, homestead exemption gaps, appeal windows, and appeal success rates by state (Texas: 65–70%). Via Apify MCP.
+- [Andrew_Avina/neighborhood-intelligence-mcp](https://apify.com/Andrew_Avina/neighborhood-intelligence-mcp) 📇 ☁️ - ZIP-level crime index, walk score, transit score, 3yr rent growth, gentrification trend, and Investor Score (1–10) across 40 curated US investor ZIPs. Via Apify MCP.
+- [Andrew_Avina/rentcast-market-mcp](https://apify.com/Andrew_Avina/rentcast-market-mcp) 📇 ☁️ - LTR rent estimates, vacancy rates, YoY rent growth, and market grade (A+ to C−) by US ZIP code via the Rentcast API. Via Apify MCP.
 
 ### 🔬 <a name="research"></a>Research
 
