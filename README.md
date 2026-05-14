@@ -1774,6 +1774,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
+- [Salestools Club](https://github.com/akhilkannur/salestools-mcp) - Search and audit 300+ sales APIs and MCP servers directly from AI agents.
 - [acamolese/google-search-console-mcp](https://github.com/acamolese/google-search-console-mcp) [![acamolese/google-search-console-mcp MCP server](https://glama.ai/mcp/servers/acamolese/google-search-console-mcp/badges/score.svg)](https://glama.ai/mcp/servers/acamolese/google-search-console-mcp) 🐍 ☁️ - Google Search Console MCP server: query performance data, inspect URLs, check indexing, and generate brandable HTML SEO audit reports with a 30/60/90-day roadmap. Read-only OAuth scope, installable via `uvx mcp-google-search-console`.
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - A Model Context Protocol server for TikTok Ads API integration, enabling AI assistants to manage campaigns, analyze performance metrics, handle audiences and creatives with OAuth authentication flow.
 - [alexey-pelykh/lhremote](https://github.com/alexey-pelykh/lhremote) 📇 🏠 - Open-source CLI and MCP server for LinkedHelper automation — 32 tools for campaign management, messaging, and profile queries via Chrome DevTools Protocol.
