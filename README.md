@@ -1868,6 +1868,10 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🎖️ 🏎️ 🏠 - Provides comprehensive integration with your [VictoriaMetrics instance APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances
 - [yshngg/pmcp](https://github.com/yshngg/pmcp) 🏎️ ☁️ 🏠 🍎 🪟 🐧 - A Prometheus Model Context Protocol Server.
 
+- - [HelloBooks MCP Public](https://github.com/Meru-Fin-Tech/HelloBooks-MCP-Public) - Public read-only MCP server for HelloBooks plans, integrations, country support, and compliance frameworks.
+
+- [HelloTime MCP Public](https://github.com/Meru-Fin-Tech/HelloTime-MCP-Public) - Public read-only MCP server for HelloTime scheduling, workforce management, payroll, leave, attendance, and payroll capabilities.
+
 ### 🎥 <a name="multimedia-process"></a>Multimedia Process
 
 Provides the ability to handle multimedia, such as audio and video editing, playback, format conversion, also includes video filters, enhancements, and so on
