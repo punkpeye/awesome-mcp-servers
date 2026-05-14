@@ -1198,6 +1198,7 @@ Provides access to environmental data and nature-related tools, services and inf
 
 - [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - MCP server for detecting, monitoring, and analyzing potential wildfires globally using multiple data sources including NASA FIRMS, OpenWeatherMap, and Google Earth Engine.
 - [nalediym/touch-grass](https://github.com/nalediym/touch-grass) [![nalediym/touch-grass MCP server](https://glama.ai/mcp/servers/nalediym/touch-grass/badges/score.svg)](https://glama.ai/mcp/servers/nalediym/touch-grass) 📇 🏠 🍎 🪟 🐧 - Claude Code plugin and MCP server that nudges you to take outdoor breaks based on local weather, sunset timing, and session streaks. Tools: `check_grass_conditions`, `suggest_activity`, `log_touch_grass`, `get_stats`. Fully local, no API keys, no cloud storage.
+- [Vitalini/ebb-ai](https://github.com/Vitalini/ebb-ai) 📇 🐍 🏠 ☁️ 🍎 🪟 🐧 - Carbon-aware scheduling for agentic AI workflows. Defers non-urgent LLM tasks to the cleanest grid window inside a deadline. Per-task carbon receipts, Anthropic + OpenAI Batch APIs, durable SQLite queue. macOS launchd + Linux systemd cron + pmset/rtcwake so tasks survive laptop sleep.
 
 ### 📂 <a name="file-systems"></a>File Systems
 
