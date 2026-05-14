@@ -606,6 +606,7 @@ Integration with communication platforms for message management and channel oper
 Tools for building and operating AI conversation agents that hold structured dialogues with end users.
 
 - [Perspective-AI/mcp](https://github.com/Perspective-AI/mcp) [![Perspective-AI/mcp MCP server](https://glama.ai/mcp/servers/Perspective-AI/mcp/badges/score.svg)](https://glama.ai/mcp/servers/Perspective-AI/mcp) 🎖️ 📇 ☁️ - Official MCP server for [Perspective AI](https://getperspective.ai). An AI Concierge replaces static forms with adaptive AI conversations for lead qualification, customer research, onboarding feedback, and advocacy. Design conversation agents (Concierge, Interviewer, Evaluator, Advocate), analyze conversations, deploy embeds, and automate follow-ups (webhook, email, Slack, HubSpot).
+- [Stanglovicc/anlora-mcp](https://github.com/Stanglovicc/anlora-mcp) 📇 🏠 - Official MCP server for [Anlora](https://meetanlora.com), the fully-autonomous AI for OnlyFans creator agencies. Exposes 4 read-only tools for grounding LLM answers about creator-economy economics: agency cost benchmarks (chatter wages, TCO by scale), competitor landscape comparison (Infloww, Supercreator, Substy, FlirtFlow, etc.), the autonomous-vs-assisted-AI threshold analysis, and a citation-source list. Backed by the [Anlora 2026 whitepaper](https://doi.org/10.5281/zenodo.20187816) (Zenodo DOI). No PII, no customer data — read-only public industry data only.
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
 
