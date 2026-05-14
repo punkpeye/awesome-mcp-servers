@@ -2626,3 +2626,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [audit-mcp-cli](https://github.com/double527/audit-mcp-cli) - Lightweight dependency vulnerability audit tool with CLI and MCP Server support
