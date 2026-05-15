@@ -1257,6 +1257,10 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [joepangallo/mcp-server-agentpay](https://github.com/joepangallo/mcp-server-agentpay) [![ict1p5dlrr MCP server](https://glama.ai/mcp/servers/ict1p5dlrr/badges/score.svg)](https://glama.ai/mcp/servers/ict1p5dlrr) 📇 ☁️ - Payment gateway for autonomous AI agents. Single gateway key for tool discovery, auto-provisioning, and pay-per-call metering. Supports Stripe and x402 USDC for fully autonomous wallet funding.
 - [jacobsd32-cpu/djd-agent-score-mcp](https://github.com/jacobsd32-cpu/djd-agent-score-mcp) [![djd-agent-score-mcp MCP server](https://glama.ai/mcp/servers/@jacobsd32-cpu/djd-agent-score-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@jacobsd32-cpu/djd-agent-score-mcp) 📇 ☁️ - Reputation scoring for AI agent wallets on Base. 9 tools: trust scores, fraud reports, blacklist checks, leaderboard, badge generation, and agent registration. Free + x402 paid tiers.
 - [kukapay/binance-alpha-mcp](https://github.com/kukapay/binance-alpha-mcp) 🐍 ☁️ - An MCP server for tracking Binance Alpha trades, helping AI agents optimize alpha point accumulation.
+ - [Bahamas1717/ai-bvf](https://github.com/Bahamas1717/ai-bvf) 📇 🏠 - Score AI portfolios Stop, Fix, or Accelerate
+  with decision-confidence scoring, EUR pace-layer drag, and benchmarks calibrated to McKinsey, Gartner, BCG, Deloitte,
+  Forrester, Accenture, and ServiceNow. The AI Business Value Framework as an open protocol on the MCP registry, MIT,
+  specification CC-BY-4.0.
 - [kukapay/bitcoin-utxo-mcp](https://github.com/kukapay/bitcoin-utxo-mcp) 🐍 ☁️ - An MCP server that tracks Bitcoin's Unspent Transaction Outputs (UTXO) and block statistics.
 - [kukapay/blockbeats-mcp](https://github.com/kukapay/blockbeats-mcp) 🐍 ☁️ -  An MCP server that delivers blockchain news and in-depth articles from BlockBeats for AI agents.
 - [kukapay/blocknative-mcp](https://github.com/kukapay/blocknative-mcp) 🐍 ☁️ -  Providing real-time gas price predictions across multiple blockchains, powered by Blocknative.
