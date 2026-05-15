@@ -2100,6 +2100,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔒 <a name="security"></a>Security
 
+- [double527/audit-mcp-cli](https://github.com/double527/audit-mcp-cli) 📇🏠 - Lightweight dependency vulnerability audit tool with CLI and MCP Server support [![double527/audit-mcp-cli MCP server](https://glama.ai/mcp/servers/double527/audit-mcp-cli/badges/score.svg)](https://glama.ai/mcp/servers/double527/audit-mcp-cli)
 - [alexfleetcommander/agent-trust-stack-mcp](https://github.com/alexfleetcommander/agent-trust-stack-mcp) [![agent-trust-stack-mcp MCP server](https://glama.ai/mcp/servers/alexfleetcommander/agent-trust-stack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alexfleetcommander/agent-trust-stack-mcp) 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - Cryptographic provenance, bilateral blind reputation scoring, and tamper-evident logging for AI agent interactions. 7 interlocking trust protocols (CoC, ARP, ASA, AJP, ALP, AMP, CWEP) available in Python (pip) and TypeScript (npm). 663 tests. Bitcoin-anchored provenance chains, anti-Goodhart reputation scoring, machine-readable contracts, dispute resolution, lifecycle management, trust-weighted matchmaking, and context-window cost allocation. Also on [Smithery](https://smithery.ai/server/@alexfleetcommander/agent-trust-stack-mcp) and [PyPI](https://pypi.org/project/agent-trust-stack-mcp/).
 - [123Ergo/unphurl-mcp](https://github.com/123Ergo/unphurl-mcp) [![unphurl-mcp MCP server](https://glama.ai/mcp/servers/123Ergo/unphurl-mcp/badges/score.svg)](https://glama.ai/mcp/servers/123Ergo/unphurl-mcp) 📇 ☁️ - URL intelligence for AI agents. 13 tools for security signals and data quality: redirect behaviour, brand impersonation detection, domain age, SSL validation, parked detection, URL structural analysis, DNS enrichment.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - MCP server for integrating Ghidra with AI assistants. This plugin enables binary analysis, providing tools for function inspection, decompilation, memory exploration, and import/export analysis via the Model Context Protocol.
@@ -2624,6 +2625,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
- </picture>
+  </picture>
 </a>
-- [double527/audit-mcp-cli](https://github.com/double527/audit-mcp-cli) 📇🏠 - Lightweight dependency vulnerability audit tool with CLI and MCP Server support [![double527/audit-mcp-cli MCP server](https://glama.ai/mcp/servers/double527/audit-mcp-cli/badges/score.svg)](https://glama.ai/mcp/servers/double527/audit-mcp-cli)
