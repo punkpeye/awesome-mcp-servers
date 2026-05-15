@@ -2626,3 +2626,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) 🐍 ☁️ - MCP server for RustChain blockchain and BoTTube AI-native video platform. Enables AI agents to earn RTC tokens through bounties and content creation.
+- [rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) 🐍 ☁️ - MCP server for RustChain blockchain and BoTTube AI-native video platform. Enables AI agents to earn RTC tokens through bounties and content creation.
