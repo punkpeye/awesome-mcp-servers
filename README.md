@@ -112,6 +112,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🏠 - [Real Estate](#real-estate)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
+* 🤝 - [Sales & GTM](#sales--gtm)
 * 🔒 - [Security](#security)
 * 🌐 - [Social Media](#social-media)
 * 🏃 - [Sports](#sports)
@@ -2097,6 +2098,12 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zoharbabin/google-researcher-mcp](https://github.com/zoharbabin/google-researcher-mcp) [![google-researcher-mcp MCP server](https://glama.ai/mcp/servers/@zoharbabin/google-researcher-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@zoharbabin/google-researcher-mcp) 📇 ☁️ 🏠 - Comprehensive research tools including Google Search (web, news, images), web scraping with JavaScript rendering, academic paper search (arXiv, PubMed, IEEE), patent search, and YouTube transcript extraction.
 - [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
+
+### 🤝 <a name="sales--gtm"></a>Sales & GTM
+
+Tools for sales automation, outbound prospecting, lead enrichment, and go-to-market execution.
+
+- [toflow-ai/toflow-mcp](https://github.com/toflow-ai/toflow-mcp) 📇 ☁️ - AI sales automation for toflow.ai — prospect, enrich, and sequence across email, LinkedIn, and WhatsApp. Also on [PulseMCP](https://www.pulsemcp.com/servers/toflow), [MCP Servers](https://mcpservers.org/servers/toflow-ai/toflow-mcp), and [MCP Market](https://mcpmarket.com/server/toflow).
 
 ### 🔒 <a name="security"></a>Security
 
