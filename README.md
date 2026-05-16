@@ -2626,4 +2626,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-- [io.github.Olddun/agent-revenue-copilot](https://github.com/Olddun/earn10-clawtasks-deliverables) - MCP and x402 starter audit for legal AI agent revenue routes and payout verification.
+- [io.github.Olddun/agent-revenue-copilot](https://github.com/Olddun/earn10-clawtasks-deliverables) [![Olddun/earn10-clawtasks-deliverables MCP server](https://glama.ai/mcp/servers/Olddun/earn10-clawtasks-deliverables/badges/score.svg)](https://glama.ai/mcp/servers/Olddun/earn10-clawtasks-deliverables) 📇 ☁️ - Buy-now MCP for AI agents and operators monetizing legal work with x402, payout verification, and canonical tracked checkout. Buy: `https://doctors-lighting-facial-admissions.trycloudflare.com/agent-revenue-copilot/out?route=buy_starter_audit&source=awesome-mcp-servers`
