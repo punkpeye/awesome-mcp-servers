@@ -1054,6 +1054,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - An MCP server that provides comprehensive US legislation.
+- [zoharbabin/due-diligence-agents](https://github.com/zoharbabin/due-diligence-agents) 🐍 🏠 - M&A due diligence with 14 MCP tools for interactive chat — citation verification, cross-contract search, entity resolution, and sandboxed Excel/Word document generation across 9 specialist agent domains.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
