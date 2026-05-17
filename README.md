@@ -1197,6 +1197,7 @@ MCP servers for e-commerce platforms and online store management.
 Provides access to environmental data and nature-related tools, services and information.
 
 - [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - MCP server for detecting, monitoring, and analyzing potential wildfires globally using multiple data sources including NASA FIRMS, OpenWeatherMap, and Google Earth Engine.
+- [guzz-labs/epwforge-mcp](https://github.com/guzz-labs/epwforge-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Weather files (EPW/DDY) for building energy simulation — search 17k weather stations, analyze any EPW, render charts (diurnal / wind rose / temp carpet / monthly box plot), generate TMY/AMY/CMIP6-morphed scenarios with UHI, extreme events, wildfire smoke + EnergyPlus DesignDay IDF. 3 of 4 tools work without an API key (anon-friendly for evaluation).
 - [nalediym/touch-grass](https://github.com/nalediym/touch-grass) [![nalediym/touch-grass MCP server](https://glama.ai/mcp/servers/nalediym/touch-grass/badges/score.svg)](https://glama.ai/mcp/servers/nalediym/touch-grass) 📇 🏠 🍎 🪟 🐧 - Claude Code plugin and MCP server that nudges you to take outdoor breaks based on local weather, sunset timing, and session streaks. Tools: `check_grass_conditions`, `suggest_activity`, `log_touch_grass`, `get_stats`. Fully local, no API keys, no cloud storage.
 
 ### 📂 <a name="file-systems"></a>File Systems
