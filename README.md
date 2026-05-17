@@ -2604,6 +2604,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) [![rocketride-org/rocketride-server MCP server](https://glama.ai/mcp/servers/rocketride-org/rocketride-server/badges/score.svg)](https://glama.ai/mcp/servers/rocketride-org/rocketride-server) 📇 🏠 - MCP server that exposes RocketRide AI pipelines as tools for Claude, Cursor, and Windsurf. Self-hosted, open-source pipeline tool with multi-LLM support.
 
 ## Tips and Tricks
+- [sovanza-inc/sariea](https://github.com/sovanza-inc/sariea-monorepo/tree/main/mcp_server) 📇 ☁️ 🍎 🪟 🐧 - Browse, register, and book home & professional services on **Sariea** — Saudi Arabia's on-demand services marketplace. Remote MCP at `https://mcp.sariea.com/mcp` (OAuth via phone OTP). 8 tools covering the catalog, bidding-request lifecycle (create, view bids, accept), and order history.
 
 ### Official prompt to inform LLMs how to use MCP
 
