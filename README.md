@@ -1024,6 +1024,7 @@ Servers connecting to monitoring systems, logging platforms, or providing system
 
 - [aliyun/alibabacloud-observability-mcp-server](https://github.com/aliyun/alibabacloud-observability-mcp-server): Facilitates seamless integration with Alibaba Cloud's observability products, offering tools for efficient log and application monitoring.
 - [shibley/apistatuscheck](https://github.com/shibley/apistatuscheck): Monitors real-time API status across 250+ popular services, providing outage detection, historical uptime data, and status page aggregation through the Model Context Protocol.
+- [devhelmhq/mcp-server](https://github.com/devhelmhq/mcp-server): Provides AI agents with tools to monitor uptime, manage incidents, configure alerting, and query third-party dependency status. Supports HTTP, DNS, TCP, ICMP, and heartbeat monitors.
 - [enomoto11/aws-cost-notifier-mcp-server](https://github.com/enomoto11/aws-cost-notifier-mcp-server): Monitors daily AWS costs and generates GitHub Issue reports for cost analysis and comparison.
 - [binalyze/air-mcp](https://github.com/binalyze/air-mcp): Facilitates natural language interaction with Binalyze AIR's digital forensics and incident response capabilities through a Node.js MCP server.
 - [hiyorineko/mcp-rollbar-server](https://github.com/hiyorineko/mcp-rollbar-server): Facilitates LLM interaction with Rollbar's error tracking data, offering comprehensive access to error details, deployments, and user information.
