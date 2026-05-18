@@ -1322,6 +1322,7 @@ Servers interacting with security tools and platforms, vulnerability databases, 
 
 Servers interacting with social networks, content platforms, or feed aggregators.
 
+- [Post for Me](https://github.com/DayMoonDevelopment/post-for-me-typescript/tree/main/packages/mcp-server): Quickly integrate social media platforms directly into your product to power posting, feeds, analytics, and more through a single, simple API. Get started at [postforme.dev](https://www.postforme.dev), then run the MCP server locally or access our [hosted server](https://mcp.postforme.dev).
 - [Lebedinskas/content-to-social-mcp-server](https://github.com/Lebedinskas/content-to-social-mcp-server): Transforms any blog/article URL into ready-to-post social media content for Twitter/X, LinkedIn, Instagram, Facebook, and email newsletters. Hosted on Apify with pay-per-event pricing ($0.07/call) — zero setup, just add the MCP endpoint URL.
 - [socialneuron/mcp-server](https://github.com/socialneuron/mcp-server): 64 MCP tools for end-to-end social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning. Supports YouTube, Instagram, TikTok.
 - [NexusX-MCP/integrate-mcp-server](https://github.com/NexusX-MCP/integrate-mcp-server): An extensible server providing standardized access to social and onchain data, supporting platforms like Farcaster with plans for Twitter integration.
