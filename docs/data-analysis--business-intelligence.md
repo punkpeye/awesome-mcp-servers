@@ -34,6 +34,7 @@ Servers connecting to data warehouses, data query engines, analytics platforms, 
 - [cygkichi/estat-mcp-server](https://github.com/cygkichi/estat-mcp-server): Facilitates access to Japan's e-Stat API, enabling language models to search and retrieve government statistical data.
 - [mamisoa/mcp-alchemy](https://github.com/mamisoa/mcp-alchemy): MCP Alchemy seamlessly integrates Claude Desktop with various databases, enabling advanced SQL query assistance and data analysis.
 - [variablenigh/excel-mcp-server](https://github.com/variablenigh/excel-mcp-server): Facilitates reading and writing spreadsheet data to MS Excel files using the Model Context Protocol.
+- [Bilig WorkPaper](https://github.com/proompteng/bilig): Headless spreadsheet WorkPaper MCP server for formula readback, input edits, and JSON persistence in Node.js agent workflows.
 - [roastedculti/metoro-mcp-server](https://github.com/roastedculti/metoro-mcp-server): Facilitates interaction with Kubernetes clusters through the Claude Desktop App by leveraging the Model Context Protocol.
 - [cheukyin175/metabase-mcp](https://github.com/cheukyin175/metabase-mcp): Facilitates seamless integration of AI assistants with Metabase analytics, enabling direct interaction with analytics data via MCP capabilities.
 - [jikime/py-mcp-ko-weather](https://github.com/jikime/py-mcp-ko-weather): Provides real-time weather forecasts for Korean regions using the Korea Meteorological Administration API through an MCP server.
