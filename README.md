@@ -1970,3 +1970,11 @@ Now Claude can answer questions about writing MCP servers and how they work
 - [Coingecko MCP](https://github.com/junct-bot/coingecko-mcp) ☁️ - Coingecko MCP server (56 tools). Hosted, no setup required. [`coingecko.mcp.junct.dev/mcp`](https://coingecko.mcp.junct.dev/mcp)
 - [Aarna Atv Api MCP](https://github.com/junct-bot/aarna-atv-api-mcp) ☁️ - Aarna Atv Api MCP server (20 tools). Hosted, no setup required. [`aarna-atv-api.mcp.junct.dev/mcp`](https://aarna-atv-api.mcp.junct.dev/mcp)
 - [Mfapi MCP](https://github.com/junct-bot/mfapi-mcp) ☁️ - Mfapi MCP server (5 tools). Hosted, no setup required. [`mfapi.mcp.junct.dev/mcp`](https://mfapi.mcp.junct.dev/mcp)
+
+### DeFi & Crypto (by [Junct](https://junct.dev))
+
+- [Aarna Atvusdc MCP](https://github.com/junct-bot/aarna-atvusdc-mcp) ☁️ - Aarna Atvusdc MCP server (88 tools). Hosted, no setup required. [`aarna-atvusdc.mcp.junct.dev/mcp`](https://aarna-atvusdc.mcp.junct.dev/mcp)
+- [Aarna Atvptmax MCP](https://github.com/junct-bot/aarna-atvptmax-mcp) ☁️ - Aarna Atvptmax MCP server (136 tools). Hosted, no setup required. [`aarna-atvptmax.mcp.junct.dev/mcp`](https://aarna-atvptmax.mcp.junct.dev/mcp)
+- [Coingecko MCP](https://github.com/junct-bot/coingecko-mcp) ☁️ - Coingecko MCP server (56 tools). Hosted, no setup required. [`coingecko.mcp.junct.dev/mcp`](https://coingecko.mcp.junct.dev/mcp)
+- [Aarna Atv Api MCP](https://github.com/junct-bot/aarna-atv-api-mcp) ☁️ - Aarna Atv Api MCP server (20 tools). Hosted, no setup required. [`aarna-atv-api.mcp.junct.dev/mcp`](https://aarna-atv-api.mcp.junct.dev/mcp)
+- [Mfapi MCP](https://github.com/junct-bot/mfapi-mcp) ☁️ - Mfapi MCP server (5 tools). Hosted, no setup required. [`mfapi.mcp.junct.dev/mcp`](https://mfapi.mcp.junct.dev/mcp)
