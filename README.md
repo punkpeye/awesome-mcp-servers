@@ -1924,6 +1924,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [Trellistate](https://trellistate.com/agents) 📇 ☁️ - Free, public, AI-readable property listing exchange. Hosted MCP server (Streamable HTTP, protocol 2025-03-26) with five tools: search_listings, get_listing, list_recent, list_agents, submit_inquiry. Covers residential, commercial, FSBO, and off-market listings — no scraping required. Read tools are public; write tool uses Bearer auth via a free registered agent key.
 
 ### 🔬 <a name="research"></a>Research
 
