@@ -1924,6 +1924,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [DocJacket-LLC/claude-plugin](https://github.com/DocJacket-LLC/claude-plugin) #️⃣ ☁️ - Real-estate transaction coordination MCP. Read transactions, key dates, contingencies, missing documents, and contacts from any MCP client. Hosted at `https://mcp.docjacket.com/mcp` with OAuth 2.1 + DCR — paste-URL-and-go from Claude, ChatGPT, Codex, or Gemini.
 
 ### 🔬 <a name="research"></a>Research
 
