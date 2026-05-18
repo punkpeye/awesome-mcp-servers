@@ -2626,3 +2626,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [io.github.opsconduit/jobber-mcp](https://github.com/opsconduit/jobber-mcp) - Customer-hosted, read-only MCP server for Jobber operations queries: owner action lists, overdue invoices, stale requests, estimates, jobs, and safe read-only GraphQL validation.
