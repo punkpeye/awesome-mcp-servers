@@ -60,4 +60,5 @@ Servers controlling hardware devices, interacting with embedded systems, serial 
 - [miguelg719/home-assistant-mcp](https://github.com/miguelg719/home-assistant-mcp): Integrates with Home Assistant to enable smart home control through an MCP server, supporting functionalities like lighting, climate, and security system management.
 - [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant): Facilitates seamless integration of Home Assistant with the Model Context Protocol for enhanced smart home automation.
 - [octoco-ltd/sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp): Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.
+- [roomi-fields/osc-bridge](https://github.com/roomi-fields/osc-bridge): OSC ↔ MIDI/SysEx bridge for 849 hardware synthesizers plus music software (Ableton, Bitwig, Reaper, SuperCollider…). A MIDI MCP and OSC MCP — discover devices, read their named control surface, and send OSC to drive them. `npx -y @roomi-fields/osc-bridge mcp`
 

@@ -799,6 +799,7 @@ Servers controlling hardware devices, interacting with embedded systems, serial 
 - [zerubeus/elektron-mcp](https://github.com/zerubeus/elektron-mcp): Facilitates interaction between LLMs and Elektron synthesizers via MIDI for real-time sound control and design.
 - [noboru-i/nature-remo-mcp-server](https://github.com/noboru-i/nature-remo-mcp-server): Facilitates automation and management of Nature Remo devices through the Model Context Protocol SDK.
 - [octoco-ltd/sheetsdata-mcp](https://github.com/octoco-ltd/sheetsdata-mcp): Instant access to electronic component datasheets for AI agents — specs, pinouts, package info, absolute max ratings extracted from manufacturer PDFs on demand.
+- [roomi-fields/osc-bridge](https://github.com/roomi-fields/osc-bridge): OSC ↔ MIDI/SysEx bridge for 849 hardware synthesizers plus music software (Ableton, Bitwig, Reaper, SuperCollider…). A MIDI MCP and OSC MCP — discover devices, read their named control surface, and send OSC to drive them. `npx -y @roomi-fields/osc-bridge mcp`
 
 ## ❤️ Healthcare & Life Sciences
 
