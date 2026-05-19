@@ -1505,6 +1505,8 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [toolstem/toolstem-sec-mcp-server](https://github.com/toolstem/toolstem-sec-mcp-server) 📇 ☁️ – SEC EDGAR signal intelligence for AI agents — insider trading (Form 4), 13F institutional holdings, 10-K/8-K filing velocity, activist risk flags, and multi-company disclosure comparisons. Three pricing tiers. Available on the Apify Store.
 - [pickelfintech/the13f-mcp](https://github.com/pickelfintech/the13f-mcp) [![pickelfintech/the13f-mcp MCP server](https://glama.ai/mcp/servers/pickelfintech/the13f-mcp/badges/score.svg)](https://glama.ai/mcp/servers/pickelfintech/the13f-mcp) 🐍 ☁️ - Institutional 13F intelligence for Claude Desktop, Cursor, and VS Code. Nine Read tools: manager search, holdings lookup, portfolio similarity, consensus portfolio, market regime, sector flows. SEC EDGAR-sourced. Install `uvx the13f-mcp`.
 
+- [varunp316/yalla-calculators](https://github.com/varunp316/yalla-calculators) 📇 ☁️ - UAE financial calculators for AI agents — 5 tools (rent vs buy, mortgage affordability under UAE Central Bank Circular 31/2013, end-of-service gratuity per Federal Decree-Law 33/2021, property closing fees per emirate, credit card stack optimizer across 280+ UAE cards). Streamable HTTP at https://www.yallacalculators.online/api/mcp. Math verified against UAE Central Bank, MOHRE, RERA, DLD primary sources; re-audited monthly. Read-only, stateless, no auth.
+
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
