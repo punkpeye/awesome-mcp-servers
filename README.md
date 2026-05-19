@@ -1197,6 +1197,7 @@ MCP servers for e-commerce platforms and online store management.
 Provides access to environmental data and nature-related tools, services and information.
 
 - [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - MCP server for detecting, monitoring, and analyzing potential wildfires globally using multiple data sources including NASA FIRMS, OpenWeatherMap, and Google Earth Engine.
+- [jocarrd/aemet-mcp](https://github.com/jocarrd/aemet-client/tree/main/packages/aemet-mcp) 📇 ☁️ 🍎 🪟 🐧 - Spain's national weather agency (AEMET) over MCP. Three tools: forecast (`get_forecast`), CAP warnings (`get_warnings`), and nearest real-time station observation (`get_nearest_observation`) for any of Spain's 8000+ municipalities — accepting names with or without accents or INE codes. Stdio, no infra, free user-supplied API key.
 - [nalediym/touch-grass](https://github.com/nalediym/touch-grass) [![nalediym/touch-grass MCP server](https://glama.ai/mcp/servers/nalediym/touch-grass/badges/score.svg)](https://glama.ai/mcp/servers/nalediym/touch-grass) 📇 🏠 🍎 🪟 🐧 - Claude Code plugin and MCP server that nudges you to take outdoor breaks based on local weather, sunset timing, and session streaks. Tools: `check_grass_conditions`, `suggest_activity`, `log_touch_grass`, `get_stats`. Fully local, no API keys, no cloud storage.
 
 ### 📂 <a name="file-systems"></a>File Systems
