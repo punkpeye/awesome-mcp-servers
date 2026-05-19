@@ -2304,6 +2304,7 @@ Translation tools and services to enable AI assistants to translate content betw
 
 Tools for converting text-to-speech and vice-versa
 
+- [chicogong/ffvoice-engine](https://github.com/chicogong/ffvoice-engine) 🐍 🏠 🍎 🪟 🐧 - Offline speech-to-text and speaker diarization — transcribe audio files, caption live microphone input, and identify speakers, fully on-device with no cloud API.
 - [daisys-ai/daisys-mcp](https://github.com/daisys-ai/daisys-mcp) 🐍 🏠 🍎 🪟 🐧 - Generate high-quality text-to-speech and text-to-voice outputs using the [DAISYS](https://www.daisys.ai/) platform and make it able to play and store audio generated.
 - [fasuizu-br/brainiall-mcp-server](https://github.com/fasuizu-br/brainiall-mcp-server) [![brainiall-mcp-server MCP server](https://glama.ai/mcp/servers/fasuizu-br/brainiall-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/fasuizu-br/brainiall-mcp-server) 🐍 ☁️ - AI-powered speech tools: pronunciation assessment with phoneme-level feedback, speech-to-text with language detection, and text-to-speech with multiple voices.
 - [mbailey/voice-mcp](https://github.com/mbailey/voice-mcp) 🐍 🏠 - Complete voice interaction server supporting speech-to-text, text-to-speech, and real-time voice conversations through local microphone, OpenAI-compatible APIs, and LiveKit integration
