@@ -530,3 +530,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+
+<!-- Added 2026-05-18 -->
+- [Infinihash KYT](https://github.com/Infinihash/infinihash-kyt-mcp) — Blockchain compliance: screen wallets against OFAC SDN, threat intel, stablecoin freezes; open compliance cases; generate FinCEN-aligned SAR drafts. Free tier (100 screenings/month, no credit card). 10 tools, Python, MIT.
+- [MyAi](https://github.com/myaitoken/myai-mcp) — Decentralized AI inference on Base. OpenAI-compatible chat completions routed through community GPU providers, paid in $MYAI tokens. v0.2.0 zero-config (auto-issues free key on first call). 6 tools, Python, MIT.
+
