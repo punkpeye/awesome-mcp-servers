@@ -1815,6 +1815,8 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [ZLeventer/salesforce-marketing-mcp](https://github.com/ZLeventer/salesforce-marketing-mcp) [![salesforce-marketing-mcp MCP server](https://glama.ai/mcp/servers/ZLeventer/salesforce-marketing-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ZLeventer/salesforce-marketing-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Salesforce MCP server built for marketing and revenue ops teams. 47 tools for leads, contacts, accounts, campaigns, campaign members, tasks, and 17 reporting tools including campaign ROI, lead-source attribution, pipeline-by-campaign, multi-touch campaign influence, MQL trend, forecast summary, and the native SFDC Reports API.
 - [andrealufino/aapl-ads-mcp](https://github.com/andrealufino/aapl-ads-mcp) [![andrealufino/aapl-ads-mcp MCP server](https://glama.ai/mcp/servers/andrealufino/aapl-ads-mcp/badges/score.svg)](https://glama.ai/mcp/servers/andrealufino/aapl-ads-mcp) 📇 - 
 
+- [operator-fyi/operator](https://operator.fyi/mcp-endpoints/) 📇 ☁️ - Local-business intelligence MCP. Per-business endpoints at `/mcp/biz/<slug>/` expose a brain manifest (connected systems, brain score, missing-coverage gaps) + tools: `scan_business`, `search_businesses`, `get_business_valuation`, `find_similar_businesses`. Built on the operator.fyi substrate of ~29M local businesses across ~31K cities.
+
 ### 📊 <a name="monitoring"></a>Monitoring
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
