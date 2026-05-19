@@ -1038,7 +1038,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - Tool suite built around an MCP server for Android automation for developer workflow and testing
 - [ztuskes/garmin-documentation-mcp-server](https://github.com/ztuskes/garmin-documentation-mcp-server) 📇 🏠 – Offline Garmin Connect IQ SDK documentation with comprehensive search and API examples
 - [drumst0ck/uploadkit](https://github.com/drumst0ck/uploadkit) [![drumst0ck/uploadkit MCP server](https://glama.ai/mcp/servers/drumst0ck/uploadkit/badges/score.svg)](https://glama.ai/mcp/servers/drumst0ck/uploadkit) 🎖️ 📇 🏠 🍎 🪟 🐧 – Official MCP server for [UploadKit](https://uploadkit.dev). Gives AI assistants first-class knowledge of 40+ React upload components, Next.js route handler scaffolds, BYOS setup (S3/R2/GCS/B2), and full-text search across 88+ docs pages. Runs locally via `npx -y @uploadkitdev/mcp`.
-- [vertaaux/mcp-server](https://github.com/VertaaUX/mcp-server) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Run UX, accessibility, and conversion audits from your LLM or IDE. 38 tools to audit live URLs, explain findings, generate framework-aware patches, and open draft PRs. Official VertaaUX MCP server.
+- [vertaaux/mcp-server](https://github.com/VertaaUX/mcp-server) [![VertaaUX/mcp-server MCP server](https://glama.ai/mcp/servers/VertaaUX/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/VertaaUX/mcp-server) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Run UX, accessibility, and conversion audits from your LLM or IDE. 38 tools to audit live URLs, explain findings, generate framework-aware patches, and open draft PRs. Official VertaaUX MCP server.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
@@ -2411,4 +2411,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-
