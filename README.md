@@ -1107,7 +1107,9 @@ Tools and integrations that enhance the development workflow and environment man
 - [catrinmdonnelly/royalmail-mcp](https://github.com/catrinmdonnelly/royalmail-mcp) [![catrinmdonnelly/royalmail-mcp MCP server](https://glama.ai/mcp/servers/catrinmdonnelly/royalmail-mcp/badges/score.svg)](https://glama.ai/mcp/servers/catrinmdonnelly/royalmail-mcp) 📇 ☁️ - Book, label, track and cancel Royal Mail and Parcelforce shipments. 33 UK and international services via friendly keys or raw Service Register codes. `npx royalmail-mcp`.
 
 - [Yang1Bai/claw-tsaver](https://github.com/Yang1Bai/claw-tsaver)__ 🐍 🏠 🍎 🪟 🐧 - Token-saving MCP proxy that intercepts oversized tool returns and replaces them with a preview + on-demand handle. Real benchmark: 11,507 tokens → 104 tokens (99.1% saved) on a Wikipedia fetch. Works with OpenClaw + Claude.
-  
+  - [ddjidd564/env-security-scanner](https://github.com/ddjidd564/env-security-scanner) 📇 🏠 🍎 🪟 🐧 - Environment security auditing MCP server. Scans projects for exposed credentials (API keys, private keys, mnemonics), wallet vulnerabilities, and misconfigurations. Part of the DeFi Security Alliance toolchain. Install via `npx env-security-scanner`.
+
+
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
@@ -2227,6 +2229,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [shyshlakov/pci-dss-mcp](https://github.com/shyshlakov/pci-dss-mcp) [![shyshlakov/pci-dss-mcp MCP server](https://glama.ai/mcp/servers/shyshlakov/pci-dss-mcp/badges/score.svg)](https://glama.ai/mcp/servers/shyshlakov/pci-dss-mcp) 🏎️ 🏠 🍎 🪟 🐧 - PCI DSS v4.0.1 static-analysis MCP server for Go payment codebases. 12 scanners detect PAN/CVV exposure, weak crypto, missing audit logs, vulnerable deps, TLS misconfig, auth weaknesses, plus CycloneDX 1.6 SBOM generation - each finding mapped to the exact PCI requirement. AI-assisted triage via triage_findings. Keyless-signed multi-arch Docker image on ghcr.io.
 - [layervai/qurl-mcp](https://github.com/layervai/qurl-mcp) [![layervai/qurl-mcp MCP server](https://glama.ai/mcp/servers/layervai/qurl-mcp/badges/score.svg)](https://glama.ai/mcp/servers/layervai/qurl-mcp) 📇 ☁️ 🍎 🪟 🐧 - Mint, resolve, audit, and rotate expiring scope-limited access links (qURLs) for AI agents — secure URL gateway for the qURL API. 9 tools (create / resolve / list / get / delete / extend / update / mint-link / batch-create), 3 resources, 3 guided prompts. stdio transport, OIDC-attested npm provenance.
+- [ddjidd564/defi-security-best-practices](https://github.com/ddjidd564/defi-security-best-practices) 📇 🏠 🍎 🪟 🐧 - Wallet backup integrity verification for crypto users. Detects installed browser wallets (MetaMask, Rabby, Phantom, Trust, OKX, Coinbase), finds keystore files, and audits environment configs for exposed wallet data. Community security standard tool.
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
