@@ -2626,3 +2626,9 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+
+<!-- atomadic-launch-2026-05-19 -->
+### Atomadic (compiler + trust layer)
+- [atomadic-fuse](https://github.com/atomadictech/fuse-sdk) `python` `mcp` `compiler` - Per-repo monadic compiler with anti-hallucination receipts. 14 MCP tools including verify-block (SHA-256 receipts), search-intent (semantic search), compose-stack (full tier walk), emit-corpus (6 langs). Deterministic byte-identical re-emit. Spaghetti to Shippable.
+- [atomadic-nexus-sdk](https://github.com/atomadictech/nexus-sdk) `python` `mcp` `trust` `security` - Trust layer for the agent economy. 36 MCP tools across 7 families: TRUST (trust-gate, hallucination-oracle, prompt-inject-scan), PAYMENT (x402), LINEAGE, COORDINATION, EVOLUTION, MARQUEE, OWASP-2026.
