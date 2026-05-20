@@ -104,6 +104,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
+* 🚛 - [Logistics & Transportation](#logistics-and-transportation)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
@@ -2310,6 +2311,13 @@ Tools for converting text-to-speech and vice-versa
 - [mberg/kokoro-tts-mcp](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - MCP Server that uses the open weight Kokoro TTS models to convert text-to-speech. Can convert text to MP3 on a local driver or auto-upload to an S3 bucket.
 - [transcribe-app/mcp-transcribe](https://github.com/transcribe-app/mcp-transcribe) 📇 🏠 - This service provides fast and reliable transcriptions for audio/video files and voice memos. It allows LLMs to interact with the text content of audio/video file.
 - [ybouhjira/claude-code-tts](https://github.com/ybouhjira/claude-code-tts) 🏎️ ☁️ 🍎 🪟 🐧 - MCP server plugin for Claude Code that converts text to speech using OpenAI's TTS API. Features 6 voices, worker pool architecture, mutex-protected playback, and cross-platform support.
+### 🚛 <a name="logistics-and-transportation"></a>Logistics & Transportation
+
+Freight marketplace and electronic consignment note management for logistics and transportation operations.
+
+- [cargoffer/bolsa_de_carga-mcp](https://github.com/cargoffer/bolsa_de_carga-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Freight marketplace/load board MCP server. Tools for managing addresses, truckers, vehicles, deliveries, and auctions. Enables AI agents to interact with freight loads, bids, and logistics operations.
+- [cargoffer/ecmr-mcp](https://github.com/cargoffer/ecmr-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Electronic Consignment Note (eCMR) MCP server. Tools for managing drivers, vehicles, addresses, digital signatures, eCMR creation, QR codes, and PDF generation.
+
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
