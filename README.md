@@ -2626,4 +2626,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-- [io.github.Aimino-Tech/fast-html-mcp](https://github.com/Aimino-Tech/fast-html-mcp) - Lightning-fast HTML generation from AI agents with 12 tools, 15 components, and 10 templates.
+- [Aimino-Tech/fast-html-mcp](https://github.com/Aimino-Tech/fast-html-mcp) 📇 🏠 - Five-tier MCP server for lightning-fast HTML generation from AI agents. Assembly, patch, read, raw, and consistency tiers with 15 tools, 22 components, and 25 templates. Sub-second cold starts, #id fast-path editing, AI-grade token compression.
