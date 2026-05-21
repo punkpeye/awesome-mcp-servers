@@ -1924,6 +1924,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [jbechtel-97/dealflowpro-mcp-server](https://github.com/jbechtel-97/dealflowpro-mcp-server) 📇 ☁️ - Multifamily real estate deal analysis — cap rate, DSCR, cash-on-cash, IRR, DFP Score (0-100), max offer price, and market intelligence for 2-200 unit properties. 4 tools: analyze, score, reverse-calc, market data.
 
 ### 🔬 <a name="research"></a>Research
 
