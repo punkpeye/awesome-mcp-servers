@@ -1922,6 +1922,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 ### 🏠 <a name="real-estate"></a>Real Estate
 
 MCP servers for real estate CRM, property management, and agent workflows.
+- [kairosliquid/kairos-signal](https://github.com/kairosliquid/kairos-signal) 🐍 ☁️ 🏠 - 2B+ enriched real estate distress signals across 19 verticals and 150+ metros. MCP-native structured data for AI agents. Schema-validated, cryptographically footprinted. Products from $9 to $999/mo. MCP endpoint: https://kairossignal.com/mcp/discover
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
 
