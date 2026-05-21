@@ -2626,3 +2626,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [io.github.benjammartin/munition](https://github.com/benjammartin/munitionx402) - x402-paid Upload and Flight Search tools for AI agents.
