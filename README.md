@@ -2627,3 +2627,5 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 - [Aimino-Tech/fast-html-mcp](https://github.com/Aimino-Tech/fast-html-mcp) 📇 🏠 - Five-tier MCP server for lightning-fast HTML generation from AI agents. Assembly, patch, read, raw, and consistency tiers with 15 tools, 22 components, and 25 templates. Sub-second cold starts, #id fast-path editing, AI-grade token compression.
+
+[![Glama](https://glama.ai/mcp/servers/Aimino-Tech/fast-html-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Aimino-Tech/fast-html-mcp)
