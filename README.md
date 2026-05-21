@@ -1223,6 +1223,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [mickaelkerjean/filestash](https://github.com/mickael-kerjean/filestash/tree/master/server/plugin/plg_handler_mcp) 🏎️ ☁️ - Remote Storage Access: SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, azure blob, sharepoint, etc.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) 🎖️ 🐍 🏠 - MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.
 - [modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/filesystem) 📇 🏠 - Direct local file system access.
+- [benjammartin/munitionx402](https://github.com/benjammartin/munitionx402) [![benjammartin/munitionx402 MCP server](https://glama.ai/mcp/servers/benjammartin/munitionx402/badges/score.svg)](https://glama.ai/mcp/servers/benjammartin/munitionx402) 📇 ☁️ 🏠 - x402-paid Upload and Flight Search tools for AI agents.
 - [FacundoLucci/plsreadme](https://github.com/FacundoLucci/plsreadme) [![plsreadme MCP server](https://glama.ai/mcp/servers/@FacundoLucci/plsreadme/badges/score.svg)](https://glama.ai/mcp/servers/@FacundoLucci/plsreadme) 📇 ☁️ 🏠 - Share markdown files and text as clean, readable web links via `plsreadme_share_file` and `plsreadme_share_text`; zero setup (`npx -y plsreadme-mcp` or `https://plsreadme.com/mcp`).
 - [UseJunior/safe-docx](https://github.com/UseJunior/safe-docx) [![UseJunior/safe-docx MCP server](https://glama.ai/mcp/servers/UseJunior/safe-docx/badges/score.svg)](https://glama.ai/mcp/servers/UseJunior/safe-docx) 📇 🏠 🍎 🐧 🪟 - Surgical editing of existing Word .docx files with formatting preservation, tracked changes, comments, footnotes, and document comparison.
 - [willianpinho/large-file-mcp](https://github.com/willianpinho/large-file-mcp) 📇 🏠 🍎 🪟 🐧 - Production-ready MCP server for intelligent handling of large files with smart chunking, navigation, streaming capabilities, regex search, and built-in LRU caching.
@@ -2626,4 +2627,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-- [io.github.benjammartin/munition](https://github.com/benjammartin/munitionx402) - x402-paid Upload and Flight Search tools for AI agents.
