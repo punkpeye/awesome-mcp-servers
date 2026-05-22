@@ -1231,6 +1231,8 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
+- [AEGISGOVDAO/aegisgov-sec-mcp](https://github.com/AEGISGOVDAO/aegisgov-sec-mcp) 📇 ☁️ - SEC/EDGAR financial filings for AI agents. Search 10K+ public companies, retrieve 10-K/10-Q/8-K filings with links, and pull XBRL financial data (revenue, income, assets). Uses official SEC EDGAR (data.sec.gov) — no API key required. Free to use. x402 USDC micropayments on Base + Solana when ready.
+
 - [mrslbt/xendit-mcp](https://github.com/mrslbt/xendit-mcp) [![mrslbt/xendit-mcp MCP server](https://glama.ai/mcp/servers/mrslbt/xendit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mrslbt/xendit-mcp) 📇 ☁️ - Xendit payment gateway for Southeast Asia. Invoices, disbursements, balance checks, and bank transfers across Indonesia, Philippines, Thailand, Vietnam, and Malaysia. Install via `npx xendit-mcp`.
 - [@arbitova/mcp-server](https://github.com/jiayuanliang0716-max/Arbitova) [![jiayuanliang0716-max/Arbitova MCP server](https://glama.ai/mcp/servers/jiayuanliang0716-max/Arbitova/badges/score.svg)](https://glama.ai/mcp/servers/jiayuanliang0716-max/Arbitova) 📇 ☁️ - Non-custodial on-chain escrow + AI dispute arbitration for agent-to-agent USDC payments on Base. Seven tools covering the full `EscrowV1` contract surface: create escrow, mark delivered with on-chain content hash, confirm or dispute, arbiter resolves with signed verdict, cancel/escalate on timeout. `npx @arbitova/mcp-server`
 - [@asterpay/mcp-server](https://github.com/timolein74/asterpay-mcp-server) [![asterpay-mcp-server MCP server](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/timolein74/asterpay-mcp-server) 📇 ☁️ - EUR settlement for AI agents via x402 protocol. Market data, AI tools, crypto analytics — pay-per-call in USDC on Base. SEPA Instant EUR off-ramp.
@@ -1926,6 +1928,8 @@ MCP servers for real estate CRM, property management, and agent workflows.
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
 
 ### 🔬 <a name="research"></a>Research
+
+- [AEGISGOVDAO/aegisgov-contracts-mcp](https://github.com/AEGISGOVDAO/aegisgov-contracts-mcp) 📇 ☁️ - Real-time US government contract data from SAM.gov for AI agents. Search 33K+ active opportunities by keyword, NAICS code, or agency; get full contract details and contacts; AI bid/no-bid analysis. Official government procurement data. Free to use. x402 USDC micropayments on Base + Solana when ready.
 
 Tools for conducting research, surveys, interviews, and data collection.
 
