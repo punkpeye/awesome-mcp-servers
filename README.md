@@ -1722,9 +1722,8 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [Wynelson94/longhand](https://github.com/Wynelson94/longhand) [![Wynelson94/longhand MCP server](https://glama.ai/mcp/servers/Wynelson94/longhand/badges/score.svg)](https://glama.ai/mcp/servers/Wynelson94/longhand) 🐍 🏠 🍎 🪟 🐧 - Persistent local memory for Claude Code. Indexes every session JSONL verbatim into SQLite + ChromaDB for semantic recall (~126ms) across your entire history. Never summarizes, zero API calls, 17 MCP tools including fuzzy `recall`, deterministic `replay_file`, and git-aware `recall_project_status`. Published on PyPI as `longhand` and registered in the MCP Registry.
 
 ### ⚖️ <a name="legal"></a>Legal
-
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
-
+- [ad0750/regintel-mcp](https://github.com/ad0750/regintel-mcp) 🐍 ☁️ - MCP server for the RegIntel API: structured regulatory data across 41 jurisdictions and 212 regulations (GDPR, MiCA, DORA, SEC, FINRA, FCA, APRA, ASIC, MAS). Tools for search, lookup, recent updates, and compliance checks.
 - [ark-forge/mcp-eu-ai-act](https://github.com/ark-forge/mcp-eu-ai-act) [![mcp-eu-ai-act MCP server](https://glama.ai/mcp/servers/@ark-forge/mcp-eu-ai-act/badges/score.svg)](https://glama.ai/mcp/servers/@ark-forge/mcp-eu-ai-act) 📇 ☁️ - EU AI Act compliance scanner that detects regulatory violations in AI codebases with risk classification and remediation guidance.
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
 - [gavelin-ai/mcp](https://github.com/gavelin-ai/mcp) [![gavelin-ai/mcp MCP server](https://glama.ai/mcp/servers/gavelin-ai/mcp/badges/score.svg)](https://glama.ai/mcp/servers/gavelin-ai/mcp) 📇 ☁️ - State legislative intelligence for AI agents. Speaker-attributed hearing transcripts, bills, votes, and AI-generated reports from US state legislatures. Remote server at mcp.gavelin.ai/mcp.
