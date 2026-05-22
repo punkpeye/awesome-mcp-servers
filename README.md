@@ -1198,6 +1198,7 @@ Provides access to environmental data and nature-related tools, services and inf
 
 - [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - MCP server for detecting, monitoring, and analyzing potential wildfires globally using multiple data sources including NASA FIRMS, OpenWeatherMap, and Google Earth Engine.
 - [nalediym/touch-grass](https://github.com/nalediym/touch-grass) [![nalediym/touch-grass MCP server](https://glama.ai/mcp/servers/nalediym/touch-grass/badges/score.svg)](https://glama.ai/mcp/servers/nalediym/touch-grass) 📇 🏠 🍎 🪟 🐧 - Claude Code plugin and MCP server that nudges you to take outdoor breaks based on local weather, sunset timing, and session streaks. Tools: `check_grass_conditions`, `suggest_activity`, `log_touch_grass`, `get_stats`. Fully local, no API keys, no cloud storage.
+- [freebian/tideturtle](https://tideturtle.com/mcp) ☁️ 📇 - Free tide times + charts for 1,414 coastal places worldwide. Tools: `list_places`, `get_place`, `tides_nearby`. Predictions from NOAA, UK EA Flood, BSH, Open-Meteo Marine. No API key, CORS-open, MCP server hosted on Cloudflare Workers.
 
 ### 📂 <a name="file-systems"></a>File Systems
 
