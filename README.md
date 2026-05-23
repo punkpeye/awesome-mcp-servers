@@ -1902,6 +1902,8 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [TopazLabs/topaz-mcp](https://github.com/TopazLabs/topaz-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI image enhancement (upscaling, denoising, sharpening) via Topaz Labs API. Supports 8 models including Standard V2, Wonder 2, Bloom, and Recover 3.
 - [verIdyia/autoeq-mcp](https://github.com/verIdyia/autoeq-mcp) [![autoeq-mcp MCP server](https://glama.ai/mcp/servers/verIdyia/autoeq-mcp/badges/score.svg)](https://glama.ai/mcp/servers/verIdyia/autoeq-mcp) 🐍 🏠 🍎 🪟 🐧 - Headphone/IEM equalization database with 8,800+ models from AutoEQ. Search by name or sound signature, get parametric EQ settings, compare headphones band-by-band, and browse Harman preference score rankings. Includes automatic sound signature classification (Neutral, Warm, Bright, Dark, V-shaped, etc.).
 
+- [zz-plant/sabnzbd-mcp](https://github.com/zz-plant/sabnzbd-mcp) 🐍 🏠 🍎 🪟 🐧 - MCP server for SABnzbd — control Usenet downloads from any AI agent. Zero external dependencies. 15 tools covering queue, history, config, categories, and priorities. pip install sabnzbd-mcp.
+
 ### 🖥️ <a name="os-automation"></a>OS Automation
 
 Servers for controlling the desktop operating system: screenshots, window management, mouse/keyboard input injection, and system-level automation.
