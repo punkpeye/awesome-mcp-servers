@@ -2227,6 +2227,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [shyshlakov/pci-dss-mcp](https://github.com/shyshlakov/pci-dss-mcp) [![shyshlakov/pci-dss-mcp MCP server](https://glama.ai/mcp/servers/shyshlakov/pci-dss-mcp/badges/score.svg)](https://glama.ai/mcp/servers/shyshlakov/pci-dss-mcp) 🏎️ 🏠 🍎 🪟 🐧 - PCI DSS v4.0.1 static-analysis MCP server for Go payment codebases. 12 scanners detect PAN/CVV exposure, weak crypto, missing audit logs, vulnerable deps, TLS misconfig, auth weaknesses, plus CycloneDX 1.6 SBOM generation - each finding mapped to the exact PCI requirement. AI-assisted triage via triage_findings. Keyless-signed multi-arch Docker image on ghcr.io.
 - [layervai/qurl-mcp](https://github.com/layervai/qurl-mcp) [![layervai/qurl-mcp MCP server](https://glama.ai/mcp/servers/layervai/qurl-mcp/badges/score.svg)](https://glama.ai/mcp/servers/layervai/qurl-mcp) 📇 ☁️ 🍎 🪟 🐧 - Mint, resolve, audit, and rotate expiring scope-limited access links (qURLs) for AI agents — secure URL gateway for the qURL API. 9 tools (create / resolve / list / get / delete / extend / update / mint-link / batch-create), 3 resources, 3 guided prompts. stdio transport, OIDC-attested npm provenance.
+- [with0utwhy/taste-mcp](https://github.com/with0utwhy/taste-mcp) 📇 ☁️ - Pay-per-call MCP server for human expert review of AI content, reasoning audits, approval gates, and think-tank working sessions. USDC on Base via x402. On-chain Taste content certificates verifiable by any downstream agent.
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
@@ -2586,7 +2587,6 @@ Interact with Git repositories and version control platforms. Enables repository
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
 - [SPL-BGU/PlanningCopilot](https://github.com/SPL-BGU/PlanningCopilot) [![planning-copilot MCP server](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot/badges/score.svg)](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot) 🐍🏠 - A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.
 - [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp
-- [with0utwhy/taste-mcp](https://github.com/with0utwhy/taste-mcp) 📇 ☁️ - Pay-per-call MCP server for human expert review of AI-generated content, reasoning audits, and approval gates. USDC on Base via x402. On-chain Taste content certificates.
 ## Frameworks
 
 > [!NOTE]
