@@ -1908,6 +1908,7 @@ Servers for controlling the desktop operating system: screenshots, window manage
 
 - [sbuysse/gnome-desktop-mcp](https://github.com/sbuysse/gnome-desktop-mcp) [![gnome-desktop-mcp MCP server](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp) 🐍 🏠 🐧 - GNOME desktop automation for AI agents. 30 tools via D-Bus: screenshots, window management, mouse/keyboard injection, clipboard, workspaces, and system notifications. Works on any GNOME 45–49 Linux desktop.
 - [dimpagk92/cellar](https://github.com/dimpagk92/cellar) [![dimpagk92/cellar MCP server](https://glama.ai/mcp/servers/dimpagk92/cellar/badges/score.svg)](https://glama.ai/mcp/servers/dimpagk92/cellar) 🦀 📇 🏠 🍎 🐧 - Hybrid computer-use runtime. Fuses accessibility tree + Chrome DevTools Protocol + vision into structured context with per-element confidence. 4 MCP tools (see/act/think/perceive). Continuous awareness engine (Cortex) with freshness + side-effect detection. Works offline with Ollama + local models.
+- [AmrDab/clawdcursor](https://github.com/AmrDab/clawdcursor) 📇 🏠 🍎 🪟 🐧 - Cross-OS desktop control for AI agents — a fallback execution layer that drives any GUI (click, type, read the screen, open apps) via accessibility, OCR, and vision when no API or CLI exists. 6 compound tools + 97 granular, single `safety.evaluate()` chokepoint, local-only (binds 127.0.0.1). Works with any tool-calling model (Claude, GPT, Gemini, Llama, Ollama).
 
 ### 📋 <a name="product-management"></a>Product Management
 
