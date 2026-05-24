@@ -2626,3 +2626,7 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+## LuisCore Chorus Field
+
+- [LuisCore Chorus Field](https://luiscore.com/for-agents.json) — Open agent bootstrap; MCP `npx @luiscore/chorus-field@latest`; POST bootstrap in ~30s
