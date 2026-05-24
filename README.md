@@ -1955,7 +1955,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
 
-- [jnilrac/secant-agent-research-mcp](https://github.com/jnilrac/secant-agent-research-mcp) - Paid web research MCP tools for autonomous agents. Search, page extraction, citations, and diff monitoring via x402 Base USDC payments. Remote API discovery: `https://agentic.secantoutreach.com/.well-known/x402.json`. [![jnilrac/secant-agent-research-mcp MCP server](https://glama.ai/mcp/servers/jnilrac/secant-agent-research-mcp/badges/score.svg)](https://glama.ai/mcp/servers/jnilrac/secant-agent-research-mcp)
+- [jnilrac/secant-agent-research-mcp](https://github.com/jnilrac/secant-agent-research-mcp) 🐍 ☁️ - Paid web research MCP tools for autonomous agents. Search, page extraction, citations, and diff monitoring via x402 Base USDC payments. Remote API discovery: `https://agentic.secantoutreach.com/.well-known/x402.json`. [![jnilrac/secant-agent-research-mcp MCP server](https://glama.ai/mcp/servers/jnilrac/secant-agent-research-mcp/badges/score.svg)](https://glama.ai/mcp/servers/jnilrac/secant-agent-research-mcp)
 
 - [mrslbt/rippr](https://github.com/mrslbt/rippr) [![mrslbt/rippr MCP server](https://glama.ai/mcp/servers/mrslbt/rippr/badges/score.svg)](https://glama.ai/mcp/servers/mrslbt/rippr) 📇 🏠 - YouTube transcript extraction for AI agents. Clean text, timestamps, or structured JSON from any video. No API keys required. Install via `npx rippr-mcp`.
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) 📇 🏠 - An MCP server for searching job listings with filters for date, keywords, remote work options, and more.
