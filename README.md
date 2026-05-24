@@ -601,6 +601,7 @@ Integration with communication platforms for message management and channel oper
 - [Zacccck/Claude-MCP-Read-Email-Attachments](https://github.com/Zacccck/Claude-MCP-Read-Email-Attachments) [![Zacccck/Claude-MCP-Read-Email-Attachments MCP server](https://glama.ai/mcp/servers/Zacccck/Claude-MCP-Read-Email-Attachments/badges/score.svg)](https://glama.ai/mcp/servers/Zacccck/Claude-MCP-Read-Email-Attachments) 📇 ☁️ 🏠 🪟 - Remote HTTP MCP server that reads Outlook email attachments via Microsoft Graph. Parses PDF, Word (with embedded image extraction for multimodal analysis), Excel, and text files in-memory and returns structured content directly to Claude.
 
 
+- [anp2protocol/anp2](https://github.com/anp2protocol/anp2) 🐍 ☁️ - ANP2 — the economic protocol for AI agents. Other protocols stop at identity; ANP2 adds incentive, trust generation, point circulation, and Sybil resistance. Free, permissionless, Ed25519-signed. PyPI `anporia-mcp-server` connects Claude / Cursor to the live relay at https://anp2.com .
 ### 🗣️ <a name="conversational-ai"></a>Conversational AI
 
 Tools for building and operating AI conversation agents that hold structured dialogues with end users.
