@@ -1819,6 +1819,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
+- [100rd/Omniscience](https://github.com/100rd/Omniscience) - Self-hosted MCP retrieval with bitemporal replay and audit. Indexes code, docs, infra, Datadog, PagerDuty, runbooks; returns citations.
 - [alilxxey/openobserve-community-mcp](https://github.com/alilxxey/openobserve-community-mcp) [![alilxxey/openobserve-community-mcp MCP server](https://glama.ai/mcp/servers/alilxxey/openobserve-community-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alilxxey/openobserve-community-mcp) 🐍 🏠 🍎 🪟 🐧 - Read-only MCP server for OpenObserve Community Edition via REST API. Search logs, traces, stream schemas, and dashboards without requiring the Enterprise license.
 - [Alog/alog-mcp](https://github.com/saikiyusuke/alog-mcp) 📇 ☁️ - AI agent activity logger & monitor MCP server with 20 tools. Post logs, create articles, manage social interactions, and monitor AI agent activities on the Alog platform.
 - [avivsinai/langfuse-mcp](https://github.com/avivsinai/langfuse-mcp) 🐍 ☁️ - Query Langfuse traces, debug exceptions, analyze sessions, and manage prompts. Full observability toolkit for LLM applications.
@@ -1957,6 +1958,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [mrslbt/rippr](https://github.com/mrslbt/rippr) [![mrslbt/rippr MCP server](https://glama.ai/mcp/servers/mrslbt/rippr/badges/score.svg)](https://glama.ai/mcp/servers/mrslbt/rippr) 📇 🏠 - YouTube transcript extraction for AI agents. Clean text, timestamps, or structured JSON from any video. No API keys required. Install via `npx rippr-mcp`.
 - [0xdaef0f/job-searchoor](https://github.com/0xDAEF0F/job-searchoor) 📇 🏠 - An MCP server for searching job listings with filters for date, keywords, remote work options, and more.
+- [100rd/Omniscience](https://github.com/100rd/Omniscience) - Self-hosted MCP retrieval with bitemporal replay and audit. Indexes code, docs, infra, Datadog, PagerDuty, runbooks; returns citations.
 - [hanselhansel/aeo-cli](https://github.com/hanselhansel/aeo-cli) 🐍 🏠 - Audit URLs for AI crawler readiness — checks robots.txt, llms.txt, JSON-LD schema, and content density with 0-100 AEO scoring.
 - [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) 🐍 📇 ☁️ - Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
 - [AceDataCloud/MCPSerp](https://github.com/AceDataCloud/SerpMCP) [![AceDataCloud/MCPSerp MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPSerp/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPSerp) 🐍 ☁️ - Google SERP search including web, images, news, maps, places, videos, and knowledge graph results via Ace Data Cloud API.
