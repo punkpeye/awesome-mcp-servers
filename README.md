@@ -2626,3 +2626,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [stemsplit-mcp](https://github.com/StemSplit/stemsplit-mcp) - MCP server for AI stem separation — remove vocals, isolate instrumentals, build karaoke tracks, or split audio into vocals, drums, bass, piano, guitar, and other stems from local files, YouTube URLs, or SoundCloud tracks. Works in Claude Desktop, Cursor, Cline, Windsurf, Zed, and any Model Context Protocol client. Powered by StemSplit and Demucs.
