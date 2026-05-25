@@ -1228,6 +1228,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [willianpinho/large-file-mcp](https://github.com/willianpinho/large-file-mcp) 📇 🏠 🍎 🪟 🐧 - Production-ready MCP server for intelligent handling of large files with smart chunking, navigation, streaming capabilities, regex search, and built-in LRU caching.
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Access any storage with Apache OpenDAL™
 - [xxczaki/local-history-mcp](https://github.com/xxczaki/local-history/mcp) 📇 🏠 🍎 🪟 🐧  - MCP server for accessing VS Code/Cursor Local History
+- [juergenkoller-software/distill-mcp](https://github.com/juergenkoller-software/distill-mcp) 🏠 🍎 - MCP bridge for [Distill](https://store.juergenkoller.software/en/apps/distill) — AI file renamer that analyzes content (PDF/OCR/Office/email/media) and renames files with descriptive names. Five AI providers (Claude, OpenAI, Gemini, Ollama, Apple Intelligence), pay-per-use credits, folder monitoring, 9 MCP tools.
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 
@@ -1908,6 +1909,7 @@ Servers for controlling the desktop operating system: screenshots, window manage
 
 - [sbuysse/gnome-desktop-mcp](https://github.com/sbuysse/gnome-desktop-mcp) [![gnome-desktop-mcp MCP server](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp) 🐍 🏠 🐧 - GNOME desktop automation for AI agents. 30 tools via D-Bus: screenshots, window management, mouse/keyboard injection, clipboard, workspaces, and system notifications. Works on any GNOME 45–49 Linux desktop.
 - [dimpagk92/cellar](https://github.com/dimpagk92/cellar) [![dimpagk92/cellar MCP server](https://glama.ai/mcp/servers/dimpagk92/cellar/badges/score.svg)](https://glama.ai/mcp/servers/dimpagk92/cellar) 🦀 📇 🏠 🍎 🐧 - Hybrid computer-use runtime. Fuses accessibility tree + Chrome DevTools Protocol + vision into structured context with per-element confidence. 4 MCP tools (see/act/think/perceive). Continuous awareness engine (Cortex) with freshness + side-effect detection. Works offline with Ollama + local models.
+- [juergenkoller-software/nemeton-mcp](https://github.com/juergenkoller-software/nemeton-mcp) 🏠 🍎 - MCP bridge for [Nemeton](https://store.juergenkoller.software/en/apps/nemeton) — native macOS virtual machine manager built on Apple's Virtualization.framework. Create/control Linux & macOS VMs (no Parallels, no QEMU), CoW snapshots on APFS, 50+ MCP tools across VM lifecycle, console, files, networking, and host metrics.
 
 ### 📋 <a name="product-management"></a>Product Management
 
@@ -2097,6 +2099,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zoharbabin/google-researcher-mcp](https://github.com/zoharbabin/google-researcher-mcp) [![google-researcher-mcp MCP server](https://glama.ai/mcp/servers/@zoharbabin/google-researcher-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@zoharbabin/google-researcher-mcp) 📇 ☁️ 🏠 - Comprehensive research tools including Google Search (web, news, images), web scraping with JavaScript rendering, academic paper search (arXiv, PubMed, IEEE), patent search, and YouTube transcript extraction.
 - [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
+- [juergenkoller-software/pdf-content-search-mcp](https://github.com/juergenkoller-software/pdf-content-search-mcp) 🏠 🍎 - MCP bridge for [PDF Content Search](https://store.juergenkoller.software/en/apps/pdf-content-search) — full-text PDF search with Apple Vision OCR across thousands of documents in under a second. Advanced filters (date, category, sender, amount), wildcards, boolean operators.
 
 ### 🔒 <a name="security"></a>Security
 
@@ -2420,6 +2423,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [XJTLUmedia/AI-HR-Management-Toolkit](https://github.com/XJTLUmedia/AI-HR-Management-Toolkit) [![XJTLUmedia/AI-HR-Management-Toolkit MCP server](https://glama.ai/mcp/servers/XJTLUmedia/AI-HR-Management-Toolkit/badges/score.svg)](https://glama.ai/mcp/servers/XJTLUmedia/AI-HR-Management-Toolkit) 📇 🏠 🍎 🪟 🐧 - AI-powered resume parser and full Applicant Tracking System with 21 MCP tools. Parse PDFs, DOCX, TXT, Markdown, and URLs into structured JSON; extract skills, experience, and keywords; score and rank candidates; run a full ATS pipeline covering jobs, candidates, interviews, offers, notes, and analytics. 20 of 21 tools are 100% algorithmic — no API keys required. `npx -y mcp-ai-hr-management-toolkit`
 - [yoryocoruxo-ai/rendoc-mcp-server](https://github.com/yoryocoruxo-ai/rendoc-mcp-server) [![yoryocoruxo-ai/rendoc-mcp-server MCP server](https://glama.ai/mcp/servers/@yoryocoruxo-ai/rendoc-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@yoryocoruxo-ai/rendoc-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - Generate professional PDF documents (invoices, contracts, reports, certificates) from reusable templates or inline HTML/Handlebars markup via the [rendoc](https://rendoc.dev) API. 7 tools for document generation, template management, and usage tracking.
 - [yuvalsuede/claudia](https://github.com/yuvalsuede/claudia) 📇 🏠 🍎 🪟 🐧 - AI-native task management system for Claude agents. Hierarchical tasks, dependencies, sprints, acceptance criteria, multi-agent coordination, and MCP server integration.
+- [juergenkoller-software/inkra-mcp](https://github.com/juergenkoller-software/inkra-mcp) 🏠 🍎 - MCP bridge for [Inkra](https://store.juergenkoller.software/en/apps/inkra) — native macOS Markdown editor (SwiftUI + AppKit, not Electron) with live KaTeX/Mermaid preview. 18 MCP tools for document editing, outline navigation, folder browsing, bookmarks, and view modes.
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
