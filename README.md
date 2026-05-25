@@ -517,6 +517,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 ### 💬 <a name="communication"></a>Communication
 
+- [Agent Broker](https://github.com/basilalshukaili/agentbroker) — AI agents find, verify, message, and book appointments with small businesses worldwide, paying per call in USDC on Base via x402 (no signup; reads free, writes paid). Built-in TCPA/GDPR/CASL compliance gate. https://agent-broker-edge.basil-agent.workers.dev
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
