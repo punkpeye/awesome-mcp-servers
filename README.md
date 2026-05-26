@@ -1925,6 +1925,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [Evan-Crx/permisapi-mcp](https://github.com/Evan-Crx/permisapi-mcp) [![Evan-Crx/permisapi-mcp MCP server](https://glama.ai/mcp/servers/Evan-Crx/permisapi-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Evan-Crx/permisapi-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - French building permits MCP server: 1.2M Sitadel permits (2014-2026, daily refresh), 4.9M DVF transactions (12 years), 94M cadastre parcels (DGFiP), PLU zoning (Géoportail Urbanisme), BRGM natural/industrial risks, property-dealer opportunity scoring (v0.3). 11 tools. Connect Claude.ai web directly via OAuth 2.0 hosted at `mcp.permisapi.fr/mcp/` (zero install) or local stdio via `pip install permisapi-mcp`. Free tier 500 req/month, no credit card.
 
 ### 🔬 <a name="research"></a>Research
 
