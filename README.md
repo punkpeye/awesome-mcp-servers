@@ -505,6 +505,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇 🏠 🍎 🪟 🐧 - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files.
 - [x51xxx/codex-mcp-tool](https://github.com/x51xxx/codex-mcp-tool) 📇 ☁️ - MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
 - [x51xxx/copilot-mcp-server](https://github.com/x51xxx/copilot-mcp-server) 📇 ☁️ - MCP server that connects your IDE or AI assistant to GitHub Copilot CLI for code analysis, review, and batch processing
+- [yeahdog/signalspore-mcp](https://github.com/yeahdog/signalspore-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Task-start preflight guardrail for AI coding agents. Runs setup, local gate, protected preflight, and sanitized delta so agents do not start cold on shell commands, migrations, deploys, database resets, or brittle integrations. Install: `npx -y github:yeahdog/signalspore-mcp`.
 ### 🖥️ <a name="command-line"></a>Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
 
