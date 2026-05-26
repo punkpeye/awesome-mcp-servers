@@ -1152,6 +1152,7 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [nteract/semiotic](https://github.com/nteract/semiotic) [![nteract/semiotic MCP server](https://glama.ai/mcp/servers/nteract/semiotic/badges/score.svg)](https://glama.ai/mcp/servers/nteract/semiotic) 📇 🏠 🍎 🪟 🐧 - React data visualization MCP server with 30+ chart types. 5 tools: suggest charts for a dataset, render validated React configs to SVG, diagnose configuration anti-patterns, get component schemas, and report issues. 
 - [subhatta123/twilize](https://github.com/subhatta123/twilize) [![subhatta123/twilize MCP server](https://glama.ai/mcp/servers/subhatta123/twilize/badges/score.svg)](https://glama.ai/mcp/servers/subhatta123/twilize) 🐍 🏠 🍎 🪟 🐧 - Programmatic Tableau workbook (.twb/.twbx) generation — 47 MCP tools for charts, dashboards, calculated fields, dashboard actions, workbook migration, and CSV-to-dashboard pipelines. Install via `uvx twilize`.
+- [seanhanca/glyph](https://github.com/seanhanca/glyph) 📇 🏠 🍎 🪟 🐧 - Deterministic chart library — same JSON spec → same SVG bytes across Linux / macOS / Windows. 52 verbs (`glyph_render`, `glyph_describe`, `glyph_audit_spec`, `glyph_story`, `glyph_apply_patch`, …), embedded DuckDB for SQL transforms, SHA-256 provenance seal on every render, 11-rule auditor, byte-identical visual regression. Apache 2.0, AI-maintained.
 
 ### 📟 <a name="embedded-system"></a>Embedded System
 
