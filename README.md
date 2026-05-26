@@ -605,6 +605,7 @@ Integration with communication platforms for message management and channel oper
 
 Tools for building and operating AI conversation agents that hold structured dialogues with end users.
 
+- [ANVEAI/anvevoice](https://github.com/ANVEAI/anvevoice-mcp) 🎖️ 📇 ☁️ - Official MCP server for [AnveVoice](https://anvevoice.app). Voice AI platform for adding AI voice assistants to any website. Tools cover bot management, conversation intelligence, analytics, lead extraction, knowledge management, session recordings, and one-line embed deployment.
 - [Perspective-AI/mcp](https://github.com/Perspective-AI/mcp) [![Perspective-AI/mcp MCP server](https://glama.ai/mcp/servers/Perspective-AI/mcp/badges/score.svg)](https://glama.ai/mcp/servers/Perspective-AI/mcp) 🎖️ 📇 ☁️ - Official MCP server for [Perspective AI](https://getperspective.ai). An AI Concierge replaces static forms with adaptive AI conversations for lead qualification, customer research, onboarding feedback, and advocacy. Design conversation agents (Concierge, Interviewer, Evaluator, Advocate), analyze conversations, deploy embeds, and automate follow-ups (webhook, email, Slack, HubSpot).
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
