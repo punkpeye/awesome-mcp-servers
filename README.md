@@ -1817,7 +1817,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [andrealufino/aapl-ads-mcp](https://github.com/andrealufino/aapl-ads-mcp) [![andrealufino/aapl-ads-mcp MCP server](https://glama.ai/mcp/servers/andrealufino/aapl-ads-mcp/badges/score.svg)](https://glama.ai/mcp/servers/andrealufino/aapl-ads-mcp) 📇 - 
 
 ### 📊 <a name="monitoring"></a>Monitoring
-- [Nareshdevelop/fdl-mcp-server](https://github.com/Nareshdevelop/fdl-mcp-server) 🌐 ☁️ - Free SMB website audit + AI-visibility check + redesign preview. 5 tools, no API key required, deterministic scoring.
+- [Nareshdevelop/fdl-mcp-server](https://github.com/Nareshdevelop/fdl-mcp-server) [![Nareshdevelop/fdl-mcp-server MCP server](https://glama.ai/mcp/servers/Nareshdevelop/fdl-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Nareshdevelop/fdl-mcp-server) 📇 ☁️ - Free SMB website audit + AI-visibility check + redesign preview. 5 tools, no API key required, deterministic scoring.
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
