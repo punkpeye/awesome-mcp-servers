@@ -1009,6 +1009,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [thinkchainai/agentinterviews_mcp](https://github.com/thinkchainai/agentinterviews_mcp) - Conduct AI-powered qualitative research interviews and surveys at scale with [Agent Interviews](https://agentinterviews.com). Create interviewers, manage research projects, recruit participants, and analyze interview data through MCP.
 - [Pantheon-Security/notebooklm-mcp-secure](https://github.com/Pantheon-Security/notebooklm-mcp-secure) 📇 🏠 🍎 🪟 🐧 - Query Google NotebookLM from Claude/AI agents with 14 security hardening layers. Session-based conversations, notebook library management, and source-grounded research responses.
+- [JDerekLomas/quantuminspire](https://github.com/JDerekLomas/quantuminspire/tree/main/mcp-servers) 🐍 ☁️ 🍎 🪟 🐧 - Run real quantum experiments on real quantum hardware via natural language. Three MCP servers in one PyPI package ([`quantum-vibecoding-mcp`](https://pypi.org/project/quantum-vibecoding-mcp/)): Quantum Inspire Tuna-9 (9-qubit superconducting), IBM Quantum, and quantum RNG. Install: `claude mcp add qi-circuits -- uvx --from "quantum-vibecoding-mcp[qi]" qvc-qi`. From the [Quantum Vibecoding](https://quantumvibecoding.org) open-research initiative at TU Delft (6-paper hardware replication study).
 
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
 
