@@ -2421,6 +2421,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [yoryocoruxo-ai/rendoc-mcp-server](https://github.com/yoryocoruxo-ai/rendoc-mcp-server) [![yoryocoruxo-ai/rendoc-mcp-server MCP server](https://glama.ai/mcp/servers/@yoryocoruxo-ai/rendoc-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@yoryocoruxo-ai/rendoc-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - Generate professional PDF documents (invoices, contracts, reports, certificates) from reusable templates or inline HTML/Handlebars markup via the [rendoc](https://rendoc.dev) API. 7 tools for document generation, template management, and usage tracking.
 - [yuvalsuede/claudia](https://github.com/yuvalsuede/claudia) 📇 🏠 🍎 🪟 🐧 - AI-native task management system for Claude agents. Hierarchical tasks, dependencies, sprints, acceptance criteria, multi-agent coordination, and MCP server integration.
 - [krtw00/konbu](https://github.com/krtw00/konbu) [![krtw00/konbu MCP server](https://glama.ai/mcp/servers/krtw00/konbu/badges/score.svg)](https://glama.ai/mcp/servers/krtw00/konbu) 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - Self-hostable all-in-one planner (calendar, notes, todos, bookmarks) with built-in MCP server for AI assistant integration. Single Go binary, MIT.
+- 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
 - [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - A web-based PlantUML frontend with MCP server integration, enable plantuml image generation and plantuml syntax validation.
