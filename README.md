@@ -11,7 +11,7 @@
 > [!IMPORTANT]
 > Read [The State of MCP in 2025](https://glama.ai/blog/2025-12-07-the-state-of-mcp-in-2025) report.
 
-> [!IMPORTANT]h
+> [!IMPORTANT]
 > [Awesome MCP Servers](https://glama.ai/mcp/servers) web directory.
 
 A curated list of awesome Model Context Protocol (MCP) servers.
