@@ -1799,6 +1799,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 
+- [Aimiten/hilma-mcp](https://github.com/Aimiten/hilma-mcp) 📇 ☁️ - Finnish public procurement notices from Hilma (hankintailmoitukset.fi). Search procurement notices by CPV codes, deadlines, contracting authority, and access full eForms XML with contact details.
 - [ark-forge/mcp-eu-ai-act](https://github.com/ark-forge/mcp-eu-ai-act) [![mcp-eu-ai-act MCP server](https://glama.ai/mcp/servers/@ark-forge/mcp-eu-ai-act/badges/score.svg)](https://glama.ai/mcp/servers/@ark-forge/mcp-eu-ai-act) 📇 ☁️ - EU AI Act compliance scanner that detects regulatory violations in AI codebases with risk classification and remediation guidance.
 - [buildsyncinc/gibs-mcp](https://github.com/buildsyncinc/gibs-mcp) 🐍 ☁️ - Regulatory compliance (AI Act, GDPR, DORA) with article-level citations
 - [gavelin-ai/mcp](https://github.com/gavelin-ai/mcp) [![gavelin-ai/mcp MCP server](https://glama.ai/mcp/servers/gavelin-ai/mcp/badges/score.svg)](https://glama.ai/mcp/servers/gavelin-ai/mcp) 📇 ☁️ - State legislative intelligence for AI agents. Speaker-attributed hearing transcripts, bills, votes, and AI-generated reports from US state legislatures. Remote server at mcp.gavelin.ai/mcp.
