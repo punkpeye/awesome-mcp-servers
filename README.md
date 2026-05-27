@@ -86,6 +86,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
 * 🗣️ - [Conversational AI](#conversational-ai)
+* 🔑 - [Cryptography](#cryptography)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
 * 📊 - [Data Platforms](#data-platforms)
@@ -642,6 +643,14 @@ Tools for building and operating AI conversation agents that hold structured dia
 
 - [kiro0x/five-mcp](https://github.com/kiro0x/five-mcp) [![kiro0x/five-mcp MCP server](https://glama.ai/mcp/servers/kiro0x/five-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kiro0x/five-mcp) 🐍 🏠 - LLM character consistency engine — generates structured JSON constraints from 4 multiple-choice questions about an AI's psychology. Drop the JSON into any LLM's system prompt to prevent persona drift; reduces inference cost from retries. 160,000 personality patterns; works with any LLM.
 - [Perspective-AI/mcp](https://github.com/Perspective-AI/mcp) [![Perspective-AI/mcp MCP server](https://glama.ai/mcp/servers/Perspective-AI/mcp/badges/score.svg)](https://glama.ai/mcp/servers/Perspective-AI/mcp) 🎖️ 📇 ☁️ - Official MCP server for [Perspective AI](https://getperspective.ai). An AI Concierge replaces static forms with adaptive AI conversations for lead qualification, customer research, onboarding feedback, and advocacy. Design conversation agents (Concierge, Interviewer, Evaluator, Advocate), analyze conversations, deploy embeds, and automate follow-ups (webhook, email, Slack, HubSpot).
+
+
+### 🔑 <a name="cryptography"></a>Cryptography
+
+Tools for encrypting and decrypting data.
+
+- [denismaggior8/enigma-python-mcp](https://github.com/denismaggior8/enigma-python-mcp) [![denismaggior8/enigma-python-mcp MCP server](https://glama.ai/mcp/servers/denismaggior8/enigma-python-mcp/badges/score.svg)](https://glama.ai/mcp/servers/denismaggior8/enigma-python-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - A Model Context Protocol server that brings the capabilities of [enigmapython](https://github.com/denismaggior8/enigma-python) library to LLMs, allowing them to encrypt and decrypt messages using historically accurate Enigma machine emulators.
+
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
 
