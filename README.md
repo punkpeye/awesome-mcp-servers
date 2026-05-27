@@ -42,6 +42,9 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [mcp-servers-live](https://github.com/linny006/mcp-servers-live) - Third-party live-updated index of newest MCP servers on GitHub. Auto-refreshes every 15 minutes via GitHub Actions cron.
+
+
 
 ## Legend
 
