@@ -1258,6 +1258,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [xxczaki/local-history-mcp](https://github.com/xxczaki/local-history/mcp) 📇 🏠 🍎 🪟 🐧  - MCP server for accessing VS Code/Cursor Local History
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
+>Finance & Fintech/a - [Scottcjn/rustchain-mcp](https://github.com/Scottcjn/rustchain-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - MCP server for RustChain blockchain, BoTTube video platform, and Beacon agent communication protocol. Zero-friction wallet creation and RTC earning tools.
 
 - [mrslbt/xendit-mcp](https://github.com/mrslbt/xendit-mcp) [![mrslbt/xendit-mcp MCP server](https://glama.ai/mcp/servers/mrslbt/xendit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mrslbt/xendit-mcp) 📇 ☁️ - Xendit payment gateway for Southeast Asia. Invoices, disbursements, balance checks, and bank transfers across Indonesia, Philippines, Thailand, Vietnam, and Malaysia. Install via `npx xendit-mcp`.
 - [@arbitova/mcp-server](https://github.com/jiayuanliang0716-max/Arbitova) [![jiayuanliang0716-max/Arbitova MCP server](https://glama.ai/mcp/servers/jiayuanliang0716-max/Arbitova/badges/score.svg)](https://glama.ai/mcp/servers/jiayuanliang0716-max/Arbitova) 📇 ☁️ - Non-custodial on-chain escrow + AI dispute arbitration for agent-to-agent USDC payments on Base. Seven tools covering the full `EscrowV1` contract surface: create escrow, mark delivered with on-chain content hash, confirm or dispute, arbiter resolves with signed verdict, cancel/escalate on timeout. `npx @arbitova/mcp-server`
