@@ -666,6 +666,7 @@ Provides access to customer profiles inside of customer data platforms
 - [sergehuber/inoyu-mcp-unomi-server](https://github.com/sergehuber/inoyu-mcp-unomi-server) 📇 ☁️ - An MCP server to access and updates profiles on an Apache Unomi CDP server.
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
 - [lionkiii/google-searchconsole-mcp](https://github.com/lionkiii/google-searchconsole-mcp) [![google-searchconsole-mcp MCP server](https://glama.ai/mcp/servers/lionkiii/google-searchconsole-mcp/badges/score.svg)](https://glama.ai/mcp/servers/lionkiii/google-searchconsole-mcp) 📇 🏠 - Google Search Console MCP server with 13 SEO tools — search analytics, URL inspection, sitemap management, keyword opportunities, brand analysis, and performance comparison.
+- [nevent-dev/mcp-nevent](https://github.com/nevent-dev/mcp-nevent) 🎖️ 📇 ☁️ 🏠 - Official Nevent MCP server. Talk to your live-events CRM (campaigns, analytics, paid ads, segments, short URLs) in Claude and ChatGPT. 52 tools across 9 categories with OAuth 2.1 and stdio transports.
 - [saurabhsharma2u/search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)  - An MCP server to interact with Google Search Console and Bing Webmasters.
 
 ### 🗄️ <a name="databases"></a>Databases
