@@ -2823,3 +2823,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [ZentricProtocol/zentricprotocol](https://github.com/ZentricProtocol/zentricprotocol) 🟦 [![ZentricProtocol MCP server](https://glama.ai/mcp/servers/ZentricProtocol/zentricprotocol/badges/score.svg)](https://glama.ai/mcp/servers/ZentricProtocol/zentricprotocol) - Prompt injection detection and PII redaction for LLM apps and agent pipelines. Deterministic, pre-LLM, sub-25ms. GDPR Art.30 compliant audit reports.
