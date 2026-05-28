@@ -657,7 +657,7 @@ Tools for encrypting and decrypting data.
 Provides access to customer profiles inside of customer data platforms
 
 - [antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
-- [globalsearchdata/enrich-mcp-plugin](https://github.com/globalsearchdata/enrich-mcp-plugin) [![globalsearchdata/enrich-mcp-plugin MCP server](https://glama.ai/mcp/servers/globalsearchdata/enrich-mcp-plugin/badges/score.svg)](https://glama.ai/mcp/servers/globalsearchdata/enrich-mcp-plugin) 🐍 ☁️ - Domain → company name, country, contacts, social profiles. Free — no API key required. Enterprise enrichment via Elasticsearch at [tradego.ai](https://www.tradego.ai/mcp).
+- [globalsearchdata/enrich-mcp-plugin](https://github.com/globalsearchdata/enrich-mcp-plugin) [![globalsearchdata/enrich-mcp-plugin MCP server](https://glama.ai/mcp/servers/globalsearchdata/enrich-mcp-plugin/badges/score.svg)](https://glama.ai/mcp/servers/globalsearchdata/enrich-mcp-plugin) 🐍 ☁️ - Domain → company name, country, contacts, social profiles. Free — no API key required. 
 - [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) 📇 🏠 - Generate visual charts using [Apache ECharts](https://echarts.apache.org) with AI MCP dynamically.
 - [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
 - [iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic) 🎖️ 📇 ☁️ - Connect with [iaptic](https://www.iaptic.com) to ask about your Customer Purchases, Transaction data and App Revenue statistics.
