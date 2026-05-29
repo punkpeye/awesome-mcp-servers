@@ -2097,7 +2097,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zoharbabin/google-researcher-mcp](https://github.com/zoharbabin/google-researcher-mcp) [![google-researcher-mcp MCP server](https://glama.ai/mcp/servers/@zoharbabin/google-researcher-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@zoharbabin/google-researcher-mcp) 📇 ☁️ 🏠 - Comprehensive research tools including Google Search (web, news, images), web scraping with JavaScript rendering, academic paper search (arXiv, PubMed, IEEE), patent search, and YouTube transcript extraction.
 - [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
-- [rafaellopes/rendaextra-mcp](https://github.com/rafaellopes/rendaextra-mcp) 📇 ☁️ - Search independent work, freelance, gig and side-income opportunities in Portugal (PT-PT) — 95 categories with real contacts. Hosted Streamable-HTTP endpoint, no auth.
+- [rafaellopes/rendaextra-mcp](https://github.com/rafaellopes/rendaextra-mcp) [![rafaellopes/rendaextra-mcp MCP server](https://glama.ai/mcp/servers/rafaellopes/rendaextra-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rafaellopes/rendaextra-mcp) 📇 ☁️ - Search independent work, freelance, gig and side-income opportunities in Portugal (PT-PT) — 95 categories with real contacts. Hosted Streamable-HTTP endpoint, no auth.
 
 ### 🔒 <a name="security"></a>Security
 
