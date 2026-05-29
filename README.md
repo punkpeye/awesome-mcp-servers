@@ -25,7 +25,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ## Education
 
-- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Student productivity MCP server. Access assignments, grades, notes, and flashcards from Claude Code. Google Classroom sync + Gemini AI. [![MIT](https://img.shields.io/badge/License-MIT-green)](https://github.com/kaorii-ako/Shiori-v1/blob/master/LICENSE) [![JavaScript](https://img.shields.io/badge/JavaScript-yellow)]()
+- [kaorii-ako/Shiori-v1](https://github.com/kaorii-ako/Shiori-v1) 📇 - Student productivity MCP server. Access assignments, grades, notes, and flashcards from Claude Code. Google Classroom sync + Gemini AI.
 
 ## What is MCP?
 
