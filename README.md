@@ -1172,7 +1172,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [parasxos/cpp26-adapter](https://github.com/parasxos/cpp26-adapter) [![parasxos/cpp26-adapter MCP server](https://glama.ai/mcp/servers/parasxos/cpp26-adapter/badges/score.svg)](https://glama.ai/mcp/servers/parasxos/cpp26-adapter) 🐍 🏠 🍎 🪟 🐧 - C++26 paper reference MCP (`cpp26-ref`) backing a Claude Code plugin: `lookup_paper`, fuzzy `search`, `compiler_status` over a 216-paper ISO/IEC 14882:2026 corpus. The plugin's skill + reviewer subagent use these tools to bias Claude toward reflection, contracts, `std::execution` senders, `#embed`, expansion statements — even when the local compiler lags. 95% on a held 39-task eval gate.
 
-- [OsamaHassouna/docs-hub](https://github.com/OsamaHassouna/docs-hub) 📇 ☁️ 🏠 🍎 🪟 🐧 - HTML Email Playbook — MCP server + CLI that teaches AI clients (Claude, Cursor, Cline, Codex) to write HTML email that renders in Outlook, Gmail, and Apple Mail. 4 tools, 19 rules, 6 components. Install: `npx -y email-playbook-mcp@latest`. Hosted: `https://docs.osamahassouna.com/api/mcp`.
+- [OsamaHassouna/docs-hub](https://github.com/OsamaHassouna/docs-hub) [![OsamaHassouna/docs-hub MCP server](https://glama.ai/mcp/servers/OsamaHassouna/docs-hub/badges/score.svg)](https://glama.ai/mcp/servers/OsamaHassouna/docs-hub) 📇 ☁️ 🏠 🍎 🪟 🐧 - HTML Email Playbook — MCP server + CLI that teaches AI clients (Claude, Cursor, Cline, Codex) to write HTML email that renders in Outlook, Gmail, and Apple Mail. 4 tools, 19 rules, 6 components. Install: `npx -y email-playbook-mcp@latest`. Hosted: `https://docs.osamahassouna.com/api/mcp`.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
