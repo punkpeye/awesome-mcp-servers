@@ -1171,6 +1171,8 @@ Tools and integrations that enhance the development workflow and environment man
 - [mshegolev/jaeger-mcp](https://github.com/mshegolev/jaeger-mcp) [![mshegolev/jaeger-mcp MCP server](https://glama.ai/mcp/servers/mshegolev/jaeger-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mshegolev/jaeger-mcp) 🐍 ☁️ 🏠 – Jaeger distributed tracing MCP. 5 tools: list_services, list_operations, search_traces, get_trace, get_dependencies. Any Jaeger instance (HTTP API v3); PyPI + MCP Registry.
 
 - [parasxos/cpp26-adapter](https://github.com/parasxos/cpp26-adapter) [![parasxos/cpp26-adapter MCP server](https://glama.ai/mcp/servers/parasxos/cpp26-adapter/badges/score.svg)](https://glama.ai/mcp/servers/parasxos/cpp26-adapter) 🐍 🏠 🍎 🪟 🐧 - C++26 paper reference MCP (`cpp26-ref`) backing a Claude Code plugin: `lookup_paper`, fuzzy `search`, `compiler_status` over a 216-paper ISO/IEC 14882:2026 corpus. The plugin's skill + reviewer subagent use these tools to bias Claude toward reflection, contracts, `std::execution` senders, `#embed`, expansion statements — even when the local compiler lags. 95% on a held 39-task eval gate.
+- [Aboudjem/sniff](https://github.com/Aboudjem/sniff) 📇 🏠 🍎 🪟 🐧 - Autonomous QA and accessibility scanner. Point it at your running app and it walks real user flows in a headless browser, reporting broken pages, dead links, console errors, and WCAG issues. Install: `npx -y sniff-qa --mcp`.
+- [Aboudjem/ui-ux-suite](https://github.com/Aboudjem/ui-ux-suite) 📇 🏠 🍎 🪟 🐧 - UI/UX design-audit server that scores a project across 12 dimensions including color contrast, typography, accessibility, layout, and spacing against WCAG 2.2 and APCA. Install: `npx -y ui-ux-suite`.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
