@@ -2778,6 +2778,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - Allows AI models to interact with [HackMD](https://hackmd.io)
 - [ZeparHyfar/mcp-datetime](https://github.com/ZeparHyfar/mcp-datetime) - MCP server providing date and time functions in various formats
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
+- [us-all/unifi-mcp-server](https://github.com/us-all/unifi-mcp-server) 📇 🏠 🍎 🪟 🐧 [![us-all/unifi-mcp-server MCP server](https://glama.ai/mcp/servers/us-all/unifi-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/us-all/unifi-mcp-server) - UniFi semantic-analysis — 54 tools on Site Manager API + Cloud Connector. 8 workflow Prompts (4 fleet-ops + 4 MSP). Anomaly detection, fleet health, cross-site analytics. Read-only.
 - [SPL-BGU/PlanningCopilot](https://github.com/SPL-BGU/PlanningCopilot) [![planning-copilot MCP server](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot/badges/score.svg)](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot) 🐍🏠 - A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.
 - [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp
 ## Frameworks
