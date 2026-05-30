@@ -2481,6 +2481,7 @@ Translation tools and services to enable AI assistants to translate content betw
 ### 🎙️ <a name="speech-to-text"></a>Speech-to-Text
 
 - [eviscerations/whisper-windows-mcp](https://github.com/eviscerations/whisper-windows-mcp) [![eviscerations/whisper-windows-mcp MCP server](https://glama.ai/mcp/servers/eviscerations/whisper-windows-mcp/badges/score.svg)](https://glama.ai/mcp/servers/eviscerations/whisper-windows-mcp) 📇 🏠 🪟 - Windows-native local audio and video transcription using whisper.cpp with Vulkan GPU acceleration. No cloud APIs, no Python. Batch processing, multilingual support, model management, and background job handling built in.
+- [modelscope/FunASR](https://github.com/modelscope/FunASR/tree/main/examples/mcp_server) 🐍 🏠 - Industrial-grade speech recognition MCP server supporting 50+ languages. Provides audio transcription with built-in VAD, punctuation, speaker diarization, and emotion detection via SenseVoice and Paraformer models.
 
 ### 🎧 <a name="text-to-speech"></a>Text-to-Speech
 
