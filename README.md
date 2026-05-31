@@ -819,6 +819,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
+- [sametbrr/openapi-rest-mcp](https://github.com/sametbrr/openapi-rest-mcp) 📇 🏠 🍎 🪟 🐧 - Wraps any OpenAPI/Swagger REST API as a fully functional MCP server — CRUD calls, endpoint discovery, fuzzy search, and multi-scheme auth (bearer/apiKey/basic/auto-login) out of the box. Install: `npx openapi-rest-mcp`.
 - [adrianczuczka/mason](https://github.com/adrianczuczka/mason) [![adrianczuczka/mason MCP server](https://glama.ai/mcp/servers/adrianczuczka/mason/badges/score.svg)](https://glama.ai/mcp/servers/adrianczuczka/mason) 📇 🏠 🍎 🪟 🐧 - Context engineering MCP server. Generates CLAUDE.md from git history and architectural file sampling, and maintains a concept-map snapshot of features/flows → files so agents can skip grep/glob on repeat queries.
    The fast, idiomatic Go framework for building MCP servers. Struct-tag auto schema, middleware chain, and adapters to import existing Gin/OpenAPI/gRPC services as MCP tools.
 - [masondelan/selvedge](https://github.com/masondelan/selvedge) [![masondelan/selvedge MCP server](https://glama.ai/mcp/servers/masondelan/selvedge/badges/score.svg)](https://glama.ai/mcp/servers/masondelan/selvedge) 🐍 🏠 - Change tracking for AI-era codebases. AI agents call it to log structured change events (entity + diff + reasoning) before the session ends, then query history with diff, blame, history, changeset, and search. Captures the intent that would otherwise evaporate.
