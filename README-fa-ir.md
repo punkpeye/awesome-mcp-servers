@@ -238,6 +238,7 @@
 - [espressif/esp-rainmaker-mcp](https://github.com/espressif/esp-rainmaker-mcp) 🎖️ 🐍 🏠 ☁️ 📟 - سرور MCP رسمی Espressif برای مدیریت و کنترل دستگاه‌های ESP RainMaker.
 - [flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) 📇 ☁️/🏠 - پیاده‌سازی Typescript عملیات کلاستر Kubernetes برای podها، deploymentها، serviceها.
 - [hardik-id/azure-resource-graph-mcp-server](https://github.com/hardik-id/azure-resource-graph-mcp-server) 📇 ☁️/🏠 - یک سرور Model Context Protocol برای کوئری و تحلیل منابع Azure در مقیاس بزرگ با استفاده از Azure Resource Graph، که به دستیاران هوش مصنوعی امکان کاوش و نظارت بر زیرساخت Azure را می‌دهد.
+- [hzy9981/vertex-ai-mcp-bridge](https://github.com/hzy9981/vertex-ai-mcp-bridge) 🐍 ☁️ - یک سرور MCP تخصصی برای مدیریت و بهینه‌سازی پرومپت‌های Google Vertex AI، با قابلیت‌های پروکسی ابزار بین ابری.
 - [jdubois/azure-cli-mcp](https://github.com/jdubois/azure-cli-mcp) - یک پوشش دور خط فرمان Azure CLI که به شما امکان می‌دهد مستقیماً با Azure صحبت کنید
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - یک MCP برای دسترسی به تمام اجزای Netskope Private Access در محیط‌های Netskope Private Access شامل اطلاعات دقیق راه‌اندازی و نمونه‌های LLM در مورد استفاده.
 - [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) 🐍 ☁️ - پیاده‌سازی سرور MCP برای پلتفرم هماهنگ‌سازی گردش کار [Kestra](https://kestra.io).
