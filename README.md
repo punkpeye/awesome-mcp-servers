@@ -819,6 +819,10 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
+- [weiseer/package-meta-mcp](https://github.com/weiseer/package-meta-mcp) 📇 🏠 - npm / PyPI / Cargo package metadata, downloads & maintainer-health MCP server.
+- [weiseer/llm-oracle](https://github.com/weiseer/llm-oracle) 📇 🏠 - Continuously-updated LLM pricing & context-window catalog + query API as an MCP server.
+- [weiseer/bounty-mcp](https://github.com/weiseer/bounty-mcp) 📇 🏠 - Live coding-bounty deal-flow MCP server for AI agents.
+- [weiseer/api-changelog-mcp](https://github.com/weiseer/api-changelog-mcp) 📇 🏠 - SDK breaking-change tracker MCP server — Anthropic / OpenAI / LangChain / MCP / Mistral.
 - [adrianczuczka/mason](https://github.com/adrianczuczka/mason) [![adrianczuczka/mason MCP server](https://glama.ai/mcp/servers/adrianczuczka/mason/badges/score.svg)](https://glama.ai/mcp/servers/adrianczuczka/mason) 📇 🏠 🍎 🪟 🐧 - Context engineering MCP server. Generates CLAUDE.md from git history and architectural file sampling, and maintains a concept-map snapshot of features/flows → files so agents can skip grep/glob on repeat queries.
    The fast, idiomatic Go framework for building MCP servers. Struct-tag auto schema, middleware chain, and adapters to import existing Gin/OpenAPI/gRPC services as MCP tools.
 - [masondelan/selvedge](https://github.com/masondelan/selvedge) [![masondelan/selvedge MCP server](https://glama.ai/mcp/servers/masondelan/selvedge/badges/score.svg)](https://glama.ai/mcp/servers/masondelan/selvedge) 🐍 🏠 - Change tracking for AI-era codebases. AI agents call it to log structured change events (entity + diff + reasoning) before the session ends, then query history with diff, blame, history, changeset, and search. Captures the intent that would otherwise evaporate.
@@ -1855,6 +1859,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [STiFLeR7/memex](https://github.com/STiFLeR7/memex) [![STiFLeR7/memex MCP server](https://glama.ai/mcp/servers/STiFLeR7/memex/badges/score.svg)](https://glama.ai/mcp/servers/STiFLeR7/memex) 🐍 🏠 🍎 🪟 🐧 - Developer context continuity system. Watches your git repos and builds a temporal knowledge graph of modules, symbols, decisions, and open problems via Graphiti + Neo4j, then serves it to any AI coding agent over MCP. Every edge carries a validity window and a confidence score that decays over time. 12 tools across read and write. Install via `npx -y stifler-memex-mcp`. MIT licensed.
 
 ### ⚖️ <a name="legal"></a>Legal
+- [weiseer/regulatory-deadline-mcp](https://github.com/weiseer/regulatory-deadline-mcp) 📇 🏠 - FinCEN / SEC / EU AI Act / GDPR compliance-deadline tracker MCP server.
 
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 
@@ -1955,6 +1960,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [AppVisionOS/apple-search-ads-mcp](https://github.com/AppVisionOS/apple-search-ads-mcp) [![AppVisionOS/apple-search-ads-mcp MCP server](https://glama.ai/mcp/servers/AppVisionOS/apple-search-ads-mcp/badges/score.svg)](https://glama.ai/mcp/servers/AppVisionOS/apple-search-ads-mcp) 📇 ☁️ - Apple Ads (formerly Apple Search Ads) Campaign Management API v5 with **1:1 endpoint coverage** — 74 typed tools across campaigns, ad groups, ads, creatives, custom product pages, targeting + negative keywords, performance reports, async impression-share reports, budget orders, ACLs, app/geo discovery, and rejection-reason audits. Multi-org support via per-call override. Install: `npm i -g apple-search-ads-mcp`.
 
 ### 📊 <a name="monitoring"></a>Monitoring
+- [weiseer/status-aggregator-mcp](https://github.com/weiseer/status-aggregator-mcp) 📇 🏠 - Cross-vendor SaaS status-page aggregator MCP server.
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
@@ -2261,6 +2267,10 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 
 ### 🔒 <a name="security"></a>Security
+- [weiseer/mcp-doctor](https://github.com/weiseer/mcp-doctor) 📇 🏠 - Install-time trust gate for MCP servers — PASS/WARN/BLOCK supply-chain scan with cited evidence.
+- [weiseer/dns-cache-mcp](https://github.com/weiseer/dns-cache-mcp) 📇 🏠 - DNS / WHOIS / SSL / geo-IP cache MCP server for AI agents.
+- [weiseer/license-checker-mcp](https://github.com/weiseer/license-checker-mcp) 📇 🏠 - OSS license metadata + compatibility checker MCP server for AI agents.
+- [weiseer/cve-cache-mcp](https://github.com/weiseer/cve-cache-mcp) 📇 🏠 - CVE + GHSA vulnerability cache MCP server — offline-first advisory lookup for AI agents.
 
 - [srinivasan-sundaresan95/orihime](https://github.com/srinivasan-sundaresan95/orihime) [![orihime MCP server](https://glama.ai/mcp/servers/srinivasan-sundaresan95/orihime/badges/score.svg)](https://glama.ai/mcp/servers/srinivasan-sundaresan95/orihime) 🐍 🏠 🍎 🪟 🐧 - Cross-repository code knowledge graph MCP server for Java, Kotlin, JavaScript, and TypeScript. Indexes source into embedded KuzuDB via tree-sitter; 30+ tools for call-flow tracing, multi-hop taint analysis (OWASP/CWE/PCI/STIG reports), entry-point reachability filtering, performance hotspot detection, and license compliance — without reading source files. 95% fewer tokens vs source-reading baseline. `pip install orihime`
 - [alexfleetcommander/agent-trust-stack-mcp](https://github.com/alexfleetcommander/agent-trust-stack-mcp) [![agent-trust-stack-mcp MCP server](https://glama.ai/mcp/servers/alexfleetcommander/agent-trust-stack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alexfleetcommander/agent-trust-stack-mcp) 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - Cryptographic provenance, bilateral blind reputation scoring, and tamper-evident logging for AI agent interactions. 7 interlocking trust protocols (CoC, ARP, ASA, AJP, ALP, AMP, CWEP) available in Python (pip) and TypeScript (npm). 663 tests. Bitcoin-anchored provenance chains, anti-Goodhart reputation scoring, machine-readable contracts, dispute resolution, lifecycle management, trust-weighted matchmaking, and context-window cost allocation. Also on [Smithery](https://smithery.ai/server/@alexfleetcommander/agent-trust-stack-mcp) and [PyPI](https://pypi.org/project/agent-trust-stack-mcp/).
