@@ -667,6 +667,7 @@ Provides access to customer profiles inside of customer data platforms
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
 - [lionkiii/google-searchconsole-mcp](https://github.com/lionkiii/google-searchconsole-mcp) [![google-searchconsole-mcp MCP server](https://glama.ai/mcp/servers/lionkiii/google-searchconsole-mcp/badges/score.svg)](https://glama.ai/mcp/servers/lionkiii/google-searchconsole-mcp) 📇 🏠 - Google Search Console MCP server with 13 SEO tools — search analytics, URL inspection, sitemap management, keyword opportunities, brand analysis, and performance comparison.
 - [saurabhsharma2u/search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)  - An MCP server to interact with Google Search Console and Bing Webmasters.
+- [mambalabsdev/mcp-icp-fit-scorer](https://github.com/mambalabsdev/mcp-icp-fit-scorer) 📇 ☁️ - Scores a company against your ideal customer profile with weighted signals, returning a 0 to 100 score and an A to D tier for RevOps qualification. Part of the Mamba Labs signal toolkit. See @mambalabsdev/mcp-gtm-suite for all six tools in one server.
 
 ### 🗄️ <a name="databases"></a>Databases
 
@@ -2259,6 +2260,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zoharbabin/web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) [![web-researcher-mcp MCP server](https://glama.ai/mcp/servers/zoharbabin/web-researcher-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zoharbabin/web-researcher-mcp) 📇 ☁️ 🏠 - Production-grade MCP server for web search (Google, Brave, Serper, SearXNG, SearchAPI.io), content extraction (4-tier pipeline), academic/patent search, and multi-source research. Single Go binary.
 - [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
+- [mambalabsdev/mcp-gtm-tech-stack-signal-scraper](https://github.com/mambalabsdev/mcp-gtm-tech-stack-signal-scraper) 📇 ☁️ - Detects a company CRM, sequencer, and marketing automation from its public website as a flat, Clay-ready row, backed by Apify. Part of the Mamba Labs signal toolkit. See @mambalabsdev/mcp-gtm-suite for all six tools in one server.
+- [mambalabsdev/mcp-domain-to-linkedin-url-resolver](https://github.com/mambalabsdev/mcp-domain-to-linkedin-url-resolver) 📇 ☁️ - Resolves a company domain or name to its LinkedIn company URL with a confidence score, firmographics, and social links. Part of the Mamba Labs signal toolkit. See @mambalabsdev/mcp-gtm-suite for all six tools in one server.
 
 ### 🔒 <a name="security"></a>Security
 
