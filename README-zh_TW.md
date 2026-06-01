@@ -214,6 +214,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) 🐍 🏠 - 用於 Postgres 開發和運維的多功能 MCP 伺服器，提供性能分析、調優和健康檢查工具
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - Google BigQuery 集成的伺服器實現，可實現直接 BigQuery 資料庫訪問和查詢功能
 - [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) 🐍 ☁️ - 集成 Apache Kafka 和 Timeplus。可以獲取Kafka中的最新數據，並通過 Timeplus 來 SQL 查詢。
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) 🎖️ ☕ ☁️ 🏠 - CloudBeaver 官方 [MCP 伺服器](https://dbeaver.com/docs/cloudbeaver/Model-Context-Protocol-Server/)。允許 AI 客戶端連接資料庫、瀏覽 schema、獲取元資料並執行 SQL 查詢。
 - [jovezhong/mcp-timeplus](https://github.com/jovezhong/mcp-timeplus) 🐍 ☁️ - MCP server for Apache Kafka and Timeplus. Able to list Kafka topics, poll Kafka messages, save Kafka data locally and query streaming data with SQL via Timeplus
 - [@fireproof-storage/mcp-database-server](https://github.com/fireproof-storage/mcp-database-server) 📇 ☁️ - Fireproof 分布式帳本資料庫，支援多用戶數據同步
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - MySQL 資料庫集成可配置的訪問控制、模式檢查和全面的安全指南

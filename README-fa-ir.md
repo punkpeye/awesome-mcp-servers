@@ -391,6 +391,7 @@
 - [ChristianHinge/dicom-mcp](https://github.com/ChristianHinge/dicom-mcp) 🐍 ☁️ 🏠 - یکپارچه‌سازی با DICOM برای کوئری، خواندن و انتقال تصاویر و گزارش‌های پزشکی از PACS و سایر سیستم‌های سازگار با DICOM.
 - [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) 🎖️ 🐍 ☁️ 🏠 - سرور MCP Chroma برای دسترسی به نمونه‌های محلی و ابری Chroma برای قابلیت‌های بازیابی
 - [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) 🐍 ☁️ - یکپارچه‌سازی پایگاه داده ClickHouse با قابلیت‌های بازرسی schema و کوئری
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) 🎖️ ☕ ☁️ 🏠 - [سرور MCP](https://dbeaver.com/docs/cloudbeaver/Model-Context-Protocol-Server/) رسمی برای CloudBeaver. به کلاینت‌های هوش مصنوعی امکان اتصال به پایگاه داده، کاوش schema، دریافت متادیتا و اجرای کوئری‌های SQL را می‌دهد.
 - [confluentinc/mcp-confluent](https://github.com/confluentinc/mcp-confluent) 🐍 ☁️ - یکپارچه‌سازی با Confluent برای تعامل با Confluent Kafka و APIهای REST Confluent Cloud.
 - [Couchbase-Ecosystem/mcp-server-couchbase](https://github.com/Couchbase-Ecosystem/mcp-server-couchbase) 🎖️ 🐍 ☁️ 🏠 - سرور MCP Couchbase دسترسی یکپارچه به هر دو کلاستر ابری Capella و خود-مدیریت شده را برای عملیات اسناد، کوئری‌های SQL++ و تحلیل داده‌های زبان طبیعی فراهم می‌کند.
 - [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) 🐍 🏠 - پیاده‌سازی سرور MCP که تعامل با Elasticsearch را فراهم می‌کند

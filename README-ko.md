@@ -238,6 +238,7 @@
 - [tradercjz/dolphindb-mcp-server](https://github.com/tradercjz/dolphindb-mcp-server) 🐍 ☁️ - 스키마 검사 및 쿼리 기능을 갖춘 TDolphinDB 데이터베이스 통합
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - 직접적인 BigQuery 데이터베이스 접근 및 쿼리 기능을 가능하게 하는 Google BigQuery 통합을 위한 서버 구현
 - [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) 🐍 ☁️ - 스키마 검사 및 쿼리 기능을 갖춘 ClickHouse 데이터베이스 통합
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) 🎖️ ☕ ☁️ 🏠 - CloudBeaver 공식 [MCP 서버](https://dbeaver.com/docs/cloudbeaver/Model-Context-Protocol-Server/). AI 클라이언트가 데이터베이스에 연결하고, 스키마를 탐색하며, 메타데이터를 조회하고, SQL 쿼리를 실행할 수 있습니다.
 - [get-convex/convex-backend](https://stack.convex.dev/convex-mcp-server) 📇 ☁️ - 테이블, 함수를 검사하고 일회성 쿼리를 실행하기 위한 Convex 데이터베이스 통합 ([소스](https://github.com/get-convex/convex-backend/blob/main/npm-packages/convex/src/cli/mcp.ts))
 - [@gannonh/firebase-mcp](https://github.com/gannonh/firebase-mcp) 🔥 ⛅️ - Auth, Firestore 및 Storage를 포함한 Firebase 서비스.
 - [jovezhong/mcp-timeplus](https://github.com/jovezhong/mcp-timeplus) 🐍 ☁️ - Apache Kafka 및 Timeplus용 MCP 서버. Kafka 토픽 나열, Kafka 메시지 폴링, Kafka 데이터 로컬 저장 및 Timeplus를 통한 SQL로 스트리밍 데이터 쿼리 가능

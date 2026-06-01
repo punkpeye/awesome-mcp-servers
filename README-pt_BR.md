@@ -269,6 +269,7 @@ Acesso seguro a banco de dados com recursos de inspeção de esquema. Permite co
 - [centralmind/gateway](https://github.com/centralmind/gateway) 🏎️ 🏠 🍎 🪟 - Servidor MCP e SSE MCP que gera automaticamente API com base no esquema e dados do banco de dados. Suporta PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
 - [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) 🎖️ 🐍 ☁️ 🏠 - Servidor MCP do Chroma para acessar instâncias Chroma locais e em nuvem para recursos de recuperação
 - [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) 🐍 ☁️ - Integração do banco de dados ClickHouse com inspeção de esquema e recursos de consulta
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) 🎖️ ☕ ☁️ 🏠 - [Servidor MCP](https://dbeaver.com/docs/cloudbeaver/Model-Context-Protocol-Server/) oficial para CloudBeaver. Permite que clientes de IA se conectem a bancos de dados, explorem esquemas, recuperem metadados e executem consultas SQL.
 - [confluentinc/mcp-confluent](https://github.com/confluentinc/mcp-confluent) 🐍 ☁️ - Integração Confluent para interagir com as APIs REST do Confluent Kafka e Confluent Cloud.
 - [prisma/mcp](https://github.com/prisma/mcp) 📇 ☁️ 🏠 - Permite que LLMs gerenciem bancos de dados Prisma Postgres (ex.: criar novos bancos de dados e executar migrações ou consultas).
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) 🏎️ 🏠 - Consultas PostgreSQL em linguagem natural com streaming automático, segurança somente leitura e compatibilidade universal com bancos de dados.

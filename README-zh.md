@@ -255,6 +255,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [tradercjz/dolphindb-mcp-server](https://github.com/tradercjz/dolphindb-mcp-server) 🐍 ☁️ - TDolphinDB数据库集成，具备模式检查与查询功能
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - Google BigQuery 集成的服务器实现，可实现直接 BigQuery 数据库访问和查询功能
 - [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) 🐍 ☁️ - 集成 Apache Kafka 和 Timeplus。可以获取Kafka中的最新数据，并通过 Timeplus 来 SQL 查询。
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) 🎖️ ☕ ☁️ 🏠 - CloudBeaver 官方 [MCP 服务器](https://dbeaver.com/docs/cloudbeaver/Model-Context-Protocol-Server/)。允许 AI 客户端连接数据库、浏览 schema、获取元数据并执行 SQL 查询。
 - [get-convex/convex-backend](https://stack.convex.dev/convex-mcp-server) 📇 ☁️ - 集成 Convex 数据库，用于查看表结构、函数及执行一次性查询([Source](https://github.com/get-convex/convex-backend/blob/main/npm-packages/convex/src/cli/mcp.ts))
 - [@gannonh/firebase-mcp](https://github.com/gannonh/firebase-mcp) 🔥 ⛅️ - 包括认证、Firestore和存储在内的Firebase服务。
 - [jovezhong/mcp-timeplus](https://github.com/jovezhong/mcp-timeplus) 🐍 ☁️ - 用于Apache Kafka和Timeplus的MCP服务器。能够列出Kafka主题、轮询Kafka消息、将Kafka数据本地保存，并通过Timeplus使用SQL查询流数据。

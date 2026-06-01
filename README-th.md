@@ -214,6 +214,7 @@
 - [Canner/wren-engine](https://github.com/Canner/wren-engine) 🐍 🦀 🏠 - Semantic Engine สำหรับไคลเอนต์ Model Context Protocol (MCP) และตัวแทน AI
 - [centralmind/gateway](https://github.com/centralmind/gateway) 🏎️ 🏠 🍎 🪟 - เซิร์ฟเวอร์ MCP และ MCP SSE ที่สร้าง API โดยอัตโนมัติตามสคีมาและข้อมูลของฐานข้อมูล รองรับ PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase
 - [ClickHouse/mcp-clickhouse](https://github.com/ClickHouse/mcp-clickhouse) 🐍 ☁️ - การผสานรวมฐานข้อมูล ClickHouse พร้อมความสามารถในการตรวจสอบสคีมาและการสืบค้น
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) 🎖️ ☕ ☁️ 🏠 - [MCP Server](https://dbeaver.com/docs/cloudbeaver/Model-Context-Protocol-Server/) อย่างเป็นทางการสำหรับ CloudBeaver ช่วยให้ AI client เชื่อมต่อฐานข้อมูล สำรวจ schema ดึงข้อมูล metadata และรัน SQL query ได้
 - [cr7258/elasticsearch-mcp-server](https://github.com/cr7258/elasticsearch-mcp-server) 🐍 🏠 - การใช้งานเซิร์ฟเวอร์ MCP ที่ให้การโต้ตอบกับ Elasticsearch
 - [crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp) 🐍 🏠 - เซิร์ฟเวอร์ MCP แบบครบวงจรสำหรับการพัฒนาและการดำเนินการ Postgres พร้อมเครื่องมือสำหรับการวิเคราะห์ประสิทธิภาพ การปรับแต่ง และการตรวจสอบสถานะ
 - [Dataring-engineering/mcp-server-trino](https://github.com/Dataring-engineering/mcp-server-trino) 🐍 ☁️ - เซิร์ฟเวอร์ Trino MCP เพื่อสืบค้นและเข้าถึงข้อมูลจากคลัสเตอร์ Trino
