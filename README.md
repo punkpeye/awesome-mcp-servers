@@ -966,6 +966,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server) 📇 ☁️ – An MCP server that integrates with Xero's API, allowing for standardized access to Xero's accounting and business features.
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ - An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.
 - [zolo-ryan/MarketAuxMcpServer](https://github.com/Zolo-Ryan/MarketAuxMcpServer) 📇 ☁️ - MCP server for comprehensive market and financial news search with advanced filtering by symbols, industries, countries, and date ranges.
+- [danishashko/yahoo-finance-mcp](https://github.com/danishashko/yahoo-finance-mcp) [![danishashko/yahoo-finance-mcp MCP server](https://glama.ai/mcp/servers/danishashko/yahoo-finance-mcp/badges/score.svg)](https://glama.ai/mcp/servers/danishashko/yahoo-finance-mcp) 🐍 ☁️ - Real-time stock market data via Yahoo Finance: quotes, historical prices, financials, analyst ratings, options, holders, dividends, news, and market status. 13 tools, no API key, install via `npx yahoo-finance-mcp-server`.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
