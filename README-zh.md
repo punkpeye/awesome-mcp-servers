@@ -111,7 +111,7 @@
 ### 🔗 <a name="aggregators"></a>聚合器
 
 通过单个MCP服务器访问多个应用程序和工具的服务器。
-
+- [DevContext-MCP](https://github.com/giggs7149/DevContext-MCP) 🐍 🏠- An elegant MCP server for saving/searching code snippets and tracking dev tasks locally. 
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - 一个统一的模型上下文协议服务器实现，将多个MCP服务器聚合为一个。
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 10秒内将Web API转换为MCP服务器并将其添加到开源注册表中: https://open-mcp.org
 - [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) 📇 🏠 - 一个代理工具，用于将多个MCP服务器组合成一个统一的端点。通过跨多个MCP服务器负载均衡请求来扩展您的AI工具，类似于Nginx对Web服务器的工作方式。
