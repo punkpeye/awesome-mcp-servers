@@ -1904,6 +1904,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [trackmage/trackmage-mcp-server](https://github.com/trackmage/trackmage-mcp-server) 📇 - Shipment tracking api and logistics management capabilities through the [TrackMage API] (https://trackmage.com/)
 - [geolabel/geolabel-mcp](https://github.com/geolabel/geolabel-mcp) [![geolabel-mcp MCP server](https://glama.ai/mcp/servers/geolabel/geolabel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/geolabel/geolabel-mcp) 🐍 ☁️ - GPS coordinates to AI-ready location context — returns place name, stable category (gym, supermarket, restaurant…), and live opening hours via OpenStreetMap. Works in Claude Desktop, Claude Code, Hermes Agent, OpenClaw, and any MCP client.
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding MCP server for nominatim, ArcGIS, Bing
+- [zerabic/agentweb-mcp](https://github.com/zerabic/agentweb-mcp) 📇 ☁️ - Free business directory for AI agents: 72M+ businesses across 195 countries with phone, email, hours, and geo — never returns empty. Plus live local search (real-time ratings/hours/phone) and travel (flights, hotels, cars) with booking links. Free API key.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
