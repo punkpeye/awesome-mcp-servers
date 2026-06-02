@@ -1223,7 +1223,7 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [KyuRish/mcp-dashboards](https://github.com/KyuRish/mcp-dashboards) [![mcp-dashboards MCP server](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards/badges/score.svg)](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards) 📇 🏠 🍎 🪟 🐧 - 45+ interactive chart types (bar, line, pie, candlestick, sankey, geo, radar, funnel, treemap, and more), dashboards with KPI cards, drill-down navigation, live API polling, 20 themes, and export to PNG/PPT/A4. Built on MCP Apps.
 
-- [pushtodisplay/cli](https://github.com/pushtodisplay/cli) 📇 🏠 🍎 🪟 🐧 - Push To Display MCP server send structured content to selected boards on iOS and android devices with App [Push To Display](https://pushtodisplay.com), route updates to specific panels, and render in real time with display-focused multi-panel layouts.
+- [pushtodisplay/cli](https://github.com/pushtodisplay/cli)[![Push To Display MCP server](https://glama.ai/mcp/servers/pushtodisplay/cli/badges/score.svg)](https://glama.ai/mcp/servers/pushtodisplay/cli) 📇 🏠 🍎 🪟 🐧 - Push To Display MCP server send structured content to selected boards on iOS and android devices with app [Push To Display](https://pushtodisplay.com), route updates to specific panels, and render in real time with display-focused multi-panel layouts.
 
 - [Ratnaditya-J/csvglow](https://github.com/Ratnaditya-J/csvglow) [![csvglow MCP server](https://glama.ai/mcp/servers/Ratnaditya-J/csvglow/badges/score.svg)](https://glama.ai/mcp/servers/Ratnaditya-J/csvglow) 🐍 🏠 🍎 🪟 🐧 - Generate beautiful self-contained HTML dashboards from CSV/Excel files with interactive ECharts visualizations, dark gradient theme, and sortable data tables.
 
