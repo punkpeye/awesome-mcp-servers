@@ -2823,3 +2823,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [com.worldcitisim/mcp-esim](https://github.com/easyname889/worldcitisim-frontend) - Travel eSIMs for 193 countries. Stripe + Bitcoin checkout. QR by email in 30s. No API key.
