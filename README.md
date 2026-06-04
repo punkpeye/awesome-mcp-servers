@@ -78,6 +78,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
+* 🛰️ - [x402 Paid & Monetized MCP Suite (Base L2)](#x402-monetized-mcp-suite)
 * 🔗 - [Aggregators](#aggregators)
 * 🎨 - [Art & Culture](#art-and-culture)
 * 📐 - [Architecture & Design](#architecture-and-design)
@@ -124,6 +125,230 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+
+### 🛰️ <a name="x402-monetized-mcp-suite"></a>x402 Paid & Monetized MCP Suite (Base L2)
+
+The **M2MCent Autonomous Micro-SaaS Factory** is the world's first and largest production ecosystem of 100 fully-monetized, machine-payable MCP servers running on the **Base L2** network. Every service is protected by the x402 protocol and settles transactions gaslessly using **USDC** via an on-chain escrow contract.
+
+*   **Payer SDK & Client Guides:** [M2MCent Developer Integration Guide](https://github.com/Evozim/m2mcent-sdk)
+*   **Escrow Contract Address:** `0xf3c3416A843d13C944554A54Ac274BB7fF264BcC`
+*   **USDC Token Address:** `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913`
+*   **Settlement Network:** Base Mainnet (Chain ID: `8453`)
+
+| ID | Name | Fee (USDC) | Endpoint (SSE) | Description |
+|:---|:---|:---|:---|:---|
+| 001 | **The Gem Smith** | $0.05 | `https://the-gem-smith-mcp.vercel.app/api/mcp` | Optimización SEO/AEO para Agentes de IA |
+| 002 | **Helium Financial** | $0.10 | `https://helium-financial-mcp.vercel.app/api/mcp` | Oráculo financiero (Yahoo Finance Aggregator) |
+| 003 | **Aegis-Privacy-MCP** | $0.02 | `https://zero-leak-mcp.vercel.app/api/mcp` | Saneamiento de PII y secretos (Merged OCR Logic) |
+| 004 | **WebUAT-Forensic** | $0.08 | `https://webapp-uat-mcp.vercel.app/api/mcp` | Agente forense de front-end y accesibilidad |
+| 005 | **X-Social Intel** | $0.02 | `https://x-data-mcp.vercel.app/api/mcp` | Minería de datos de X (Xquik Integration) |
+| 006 | **ContractOracle-Sentinel** | $0.15 | `https://defi-sentinel-mcp.vercel.app/api/mcp` | Auditor Forense de Smart Contracts (Merged) |
+| 007 | **Repo-to-RAG** | $0.25 | `https://repo-to-rag-mcp.vercel.app/api/mcp` | Vectorización de repositorios GitHub |
+| 008 | **UI Factory** | $0.10 | `https://ui-factory-mcp.vercel.app/api/mcp` | Generador de UI React desde imágenes |
+| 009 | **Multi-Bridge** | $0.01 | `https://multi-bridge-mcp.vercel.app/api/mcp` | Pathfinder de rutas Cross-Chain (Li.Fi) |
+| 010 | **Legal Validator** | $0.03 | `https://legal-validator-mcp.vercel.app/api/mcp` | Validación de cumplimiento SEC/FTC/Anti-Spam |
+| 011 | **AgentPhone-Apex** | $0.10 | `https://agent-phone-mcp.vercel.app/api/mcp` | Gateway de Voz y SMS (Merged Multi-Channel) |
+| 012 | **RecallMax-Neural** | $0.05 | `https://recallmax-mcp.vercel.app/api/mcp` | Compresión Semántica y Memoria Contextual |
+| 013 | **CreditRisk Oracle** | $0.15 | `https://credit-risk-mcp.vercel.app/api/mcp` | Oráculo de Riesgo B2B y Supply Chain |
+| 014 | **LaborTrends NLP** | $0.08 | `https://labor-trends-mcp.vercel.app/api/mcp` | Analizador de Tendencias del Mercado Laboral |
+| 015 | **Data Observability** | $0.08 | `https://data-observability-mcp.vercel.app/api/mcp` | Evaluador de Salud de Datos y SQL |
+| 016 | **TrustVision** | $0.05 | `https://trust-vision-mcp.vercel.app/api/mcp` | Verificador de Autenticidad Visual (C2PA Scan) |
+| 017 | **GasPulse** | $0.01 | `https://gas-pulse-mcp.vercel.app/api/mcp` | Oráculo de Gas de Alta Precisión y Predicción |
+| 018 | **SolForge** | $0.20 | `https://sol-forge-mcp.vercel.app/api/mcp` | Generador de Contratos Inteligentes (Safe Solidity) |
+| 019 | **WalletHygiene** | $0.04 | `https://wallet-hygiene-mcp.vercel.app/api/mcp` | Detector de Toxicidad y Spam On-Chain |
+| 020 | **VoiceIntel** | $0.08 | `https://voice-intel-mcp.vercel.app/api/mcp` | Analizador de Sentimiento y Veracidad de Audio |
+| 021 | **Aegis Policy** | $0.05 | `https://aegis-policy-mcp.vercel.app/api/mcp` | Firewall de Gobernanza y Escudo de Agentes |
+| 022 | **Remotion-Factory** | $0.15 | `https://render-stream-mcp.vercel.app/api/mcp` | Motor de Renderizado Audiovisual (Merged) |
+| 023 | **AdSpend Auditor** | $0.05 | `https://ad-spend-auditor-mcp.vercel.app/api/mcp` | Auditor Forense de Campañas PPC (A-F Grading) |
+| 024 | **Organic Text Engine** | $0.02 | `https://organic-text-mcp.vercel.app/api/mcp` | Humanizador de texto IA (Anti-Detector) |
+| 025 | **Query Forge** | $0.03 | `https://query-forge-mcp.vercel.app/api/mcp` | Optimizador SQL de Grado Empresarial |
+| 026 | **Bio-Data Parser** | $0.25 | `https://bio-data-parser-mcp.vercel.app/api/mcp` | Analizador de Datos Genómicos Premium |
+| 027 | **AI Fleet Cards** | $0.50 | `https://ai-fleet-cards-mcp.vercel.app/api/mcp` | Emisión de Tarjetas Virtuales para Agentes |
+| 028 | **Swarm Coordinator** | $0.01 | `https://swarm-coordinator-mcp.vercel.app/api/mcp` | Orquestador de Enjambres Multi-Agente |
+| 029 | **Automation Weaver** | $0.08 | `https://automation-weaver-mcp.vercel.app/api/mcp` | Generador Visual de Blueprints No-Code |
+| 030 | **Neural Graph Mapper** | $0.04 | `https://neural-graph-mapper-mcp.vercel.app/api/mcp` | Transformador Semántico de Conocimiento |
+| 031 | **Stack Trace Medic** | $0.03 | `https://stack-trace-medic-mcp.vercel.app/api/mcp` | Depurador Forense de Código con IA |
+| 032 | **LexGuard** | $0.12 | `https://lexguard-mcp.vercel.app/api/mcp` | Analizador Semántico Legal de Contratos |
+| 033 | **VeriGhost-Clarity** | $0.05 | `https://verighost-mcp.vercel.app/api/mcp` | Detector de Alucinaciones y Fact-Checking (Merged) |
+| 034 | **Token Diet** | $0.05 | `https://token-diet-mcp.vercel.app/api/mcp` | Optimizador de Contexto y Enrutamiento |
+| 035 | **CatalogEngine** | $0.03 | `https://catalog-engine-mcp.vercel.app/api/mcp` | Estructurador de Inventarios E-commerce |
+| 036 | **WashPulse** | $0.15 | `https://washpulse-mcp.vercel.app/api/mcp` | Detector de Manipulación de Liquidez (DEX) |
+| 037 | **SentimentTrail** | $0.06 | `https://sentiment-trail-mcp.vercel.app/api/mcp` | Agregador de Sentimiento Multicanal (X, Reddit) |
+| 038 | **CleanCode AI** | $0.10 | `https://cleancode-ai-mcp.vercel.app/api/mcp` | Refactorizador de Deuda Técnica y Tipado |
+| 039 | **PromptRefiner** | $0.02 | `https://prompt-refiner-mcp.vercel.app/api/mcp` | Optimizador de Prompts Visuales (MJ, Sora) |
+| 040 | **DocDigest** | $0.04 | `https://docdigest-mcp.vercel.app/api/mcp` | Resúmenes Ejecutivos de Hilos Corporativos |
+| 041 | **QuizFactory** | $0.05 | `https://quiz-factory-mcp.vercel.app/api/mcp` | Generador de Evaluaciones y Flashcards |
+| 042 | **MC-Data Monitor** | $0.15 | `https://mc-data-monitor-mcp.vercel.app/api/mcp` | Observabilidad de Datos y Auditoría dbt |
+| 043 | **StyleSeed Tokenizer** | $0.05 | `https://styleseed-tokenizer-mcp.vercel.app/api/mcp` | Director de Diseño y Generador de Tokens |
+| 044 | **Handoff Tracker** | $0.02 | `https://handoff-tracker-mcp.vercel.app/api/mcp` | Memoria a Corto Plazo para Enjambres |
+| 045 | **SSO Auth Bridge** | $0.20 | `https://sso-auth-bridge-mcp.vercel.app/api/mcp` | Arquitecto de Integración SSO (SAML/OIDC) |
+| 046 | **ThreeJS Weaver** | $0.10 | `https://threejs-weaver-mcp.vercel.app/api/mcp` | Ingeniero Gráfico 3D y Generador WebGL |
+| 047 | **Agile Sprint** | $0.05 | `https://agile-sprint-mcp.vercel.app/api/mcp` | Orquestador de Sprints y Scrum Master |
+| 048 | **VaultGuard** | $0.03 | `https://vaultguard-mcp.vercel.app/api/mcp` | Auditor de Secretos y Ciberseguridad .env |
+| 049 | **PitchDeck Auto** | $0.08 | `https://pitchdeck-auto-mcp.vercel.app/api/mcp` | Diseñador de Presentaciones Interactivas |
+| 050 | **AWS Builder** | $0.25 | `https://aws-builder-mcp.vercel.app/api/mcp` | Arquitecto de Infraestructura Cloud AWS |
+| 051 | **AI Humanizer** | $0.04 | `https://ai-humanizer-mcp.vercel.app/api/mcp` | Humanización y Camuflaje de Contenido IA |
+| 052 | **Polyglot-Debugger** | $0.15 | `https://polyglot-debugger-mcp.vercel.app/api/mcp` | Depurador multi-lenguaje (AlmogBaku debug-skill) |
+| 053 | **LogSentinel** | $0.08 | `https://logsentinel-mcp.vercel.app/api/mcp` | Filtro de Auditoría para Logs de Anthropic |
+| 054 | **LogisticFlow** | $0.08 | `https://logisticflow-mcp.vercel.app/api/mcp` | Oráculo de Optimización de Rutas Logísticas |
+| 055 | **CodeVulnerability** | $0.12 | `https://codevulnerability-mcp.vercel.app/api/mcp` | Auditor DevSecOps OWASP en Tiempo Real |
+| 056 | **Tool-Guardian-Proxy** | $0.05 | `https://tool-guardian-mcp.vercel.app/api/mcp` | Proxy de seguridad para uso de herramientas IA |
+| 057 | **DeepVoice Guard** | $0.07 | `https://deepvoice-guard-mcp.vercel.app/api/mcp` | Perito Forense de Audio y Detector Deepfake |
+| 058 | **Web3 Sentiment** | $0.06 | `https://web3-sentiment-mcp.vercel.app/api/mcp` | Oráculo de Sentimiento Social en Tiempo Real |
+| 059 | **Legacy-Code-Migrator** | $0.35 | `https://legacy-migrator-mcp.vercel.app/api/mcp` | Migrador automático de bases de código legadas |
+| 060 | **Scientific-Research-Oracle** | $0.20 | `https://science-oracle-mcp.vercel.app/api/mcp` | Oráculo de investigación científica avanzada |
+| 061 | **Linear-Task-Broker** | $0.08 | `https://linear-broker-mcp.vercel.app/api/mcp` | Integración profunda con Linear para agentes |
+| 062 | **Env-Var-Locker** | $0.10 | `https://env-locker-mcp.vercel.app/api/mcp` | Gestor de variables de entorno de alta seguridad |
+| 063 | **LogoScout** | $0.12 | `https://logoscout-mcp.vercel.app/api/mcp` | Auditor de Marcas y Propiedad Intelectual |
+| 064 | **Slide-Deck-Automator** | $0.12 | `https://slide-factory-mcp.vercel.app/api/mcp` | Generador de presentaciones front-end |
+| 065 | **GhostBlock** | $0.05 | `https://ghostblock-mcp.vercel.app/api/mcp` | Detector de Procedencia de Texto IA |
+| 066 | **CloudScale-Sim** | $0.18 | `https://cloudscale-sim-mcp.vercel.app/api/mcp` | Simulador de Estrés de Infraestructura Cloud |
+| 067 | **Deepfake-Lens** | $0.10 | `https://deepfake-lens-mcp.vercel.app/api/mcp` | Analizador Forense de Imágenes y Deepfakes |
+| 068 | **SalesCloser-AI** | $0.09 | `https://salescloser-ai-mcp.vercel.app/api/mcp` | Auditor de Llamadas de Ventas y Conversión |
+| 069 | **TOS-Slayer** | $0.07 | `https://tos-slayer-mcp.vercel.app/api/mcp` | Simplificador de Contratos y Cláusulas Abusivas |
+| 070 | **Tokenomic-Pulse** | $0.30 | `https://tokenomic-pulse-mcp.vercel.app/api/mcp` | Simulador de Shocks DeFi y Tokenomics |
+| 071 | **SEO-Ghost** | $0.08 | `https://seo-ghost-mcp.vercel.app/api/mcp` | Arquitecto de Intención de Búsqueda y AEO |
+| 072 | **ZeroKnowledge-Vault** | $0.15 | `https://zeroknowledge-vault-mcp.vercel.app/api/mcp` | Validador de Pruebas ZK y Privacidad |
+| 073 | **DataHealth-Observer** | $0.15 | `https://datahealth-observer-mcp.vercel.app/api/mcp` | Oráculo de Observabilidad de Pipelines SQL |
+| 074 | **TokenBurn-Optimizer** | $0.06 | `https://tokenburn-optimizer-mcp.vercel.app/api/mcp` | Optimizador de Tokens y Enrutamiento LLM |
+| 075 | **Fuzz-Breaker** | $0.20 | `https://fuzz-breaker-mcp.vercel.app/api/mcp` | Agente de Pentesting y Fuzzing Automatizado |
+| 076 | **StyleForge-AI** | $0.10 | `https://styleforge-ai-mcp.vercel.app/api/mcp` | Arquitecto de Design Systems y Tokens |
+| 077 | **DevRel-Amplifier** | $0.08 | `https://devrel-amplifier-mcp.vercel.app/api/mcp` | Hacker de Crecimiento Técnico y DevRel |
+| 078 | **Satori-Aligner** | $0.09 | `https://satori-aligner-mcp.vercel.app/api/mcp` | Evaluador de Alineación y Sesgo de IA |
+| 079 | **Auth-Sentinel** | $0.22 | `https://auth-sentinel-mcp.vercel.app/api/mcp` | Auditor de Protocolos de Identidad y SSO |
+| 080 | **3D-MeshWeaver** | $0.18 | `https://3d-meshweaver-mcp.vercel.app/api/mcp` | Optimizador Espacial de Mallas 3D |
+| 081 | **Ad-Sniper** | $0.14 | `https://ad-sniper-mcp.vercel.app/api/mcp` | Auditor de Campañas PPC y Presupuesto |
+| 082 | **Architecture-DNA** | $0.11 | `https://architecture-dna-mcp.vercel.app/api/mcp` | Gestor de Contexto Profundo y .faf |
+| 083 | **Rules-Generator-Pro** | $0.06 | `https://rules-gen-mcp.vercel.app/api/mcp` | Generador pro de .cursorrules y reglas IA |
+| 084 | **Darwin-Ideation** | $0.15 | `https://darwin-ideation-mcp.vercel.app/api/mcp` | Motor de Evolución de Ideas y Startup DNA |
+| 085 | **Task-Orchestrator** | $0.20 | `https://task-orchestrator-mcp-three.vercel.app/api/mcp` | Gerente de Proyectos y Enjambres |
+| 086 | **App-Store-Builder** | $0.18 | `https://app-store-builder-mcp.vercel.app/api/mcp` | Empaquetador Automático de Extensiones |
+| 087 | **VeriGhost-Clarity** | $0.05 | `https://verighost-mcp.vercel.app/api/mcp` | Detector de Alucinaciones y Fact-Checking |
+| 088 | **Serverless-DB-Oracle** | $0.12 | `https://serverless-db-oracle-mcp.vercel.app/api/mcp` | Administrador de Postgres y Neon API |
+| 089 | **UX-Auditor-Pro** | $0.09 | `https://ux-auditor-pro-mcp.vercel.app/api/mcp` | Perito de Experiencia de Usuario y UI (Merged Suite) |
+| 090 | **Rule-Porter** | $0.06 | `https://rule-porter-mcp.vercel.app/api/mcp` | Traductor de Entornos y Reglas de IA |
+| 091 | **Remotion-Factory** | $0.15 | `https://render-stream-mcp.vercel.app/api/mcp` | Motor de Renderizado Audiovisual (Merged) |
+| 092 | **Quantum-Shield** | $0.25 | `https://quantum-shield-mcp.vercel.app/api/mcp` | Oráculo de Criptografía Post-Cuántica |
+| 093 | **Bio-Safe-Audit** | $0.15 | `https://bio-safe-audit-mcp.vercel.app/api/mcp` | Validador de Conocimiento Cero Biométrico |
+| 094 | **Eco-Optimizer** | $0.10 | `https://eco-optimizer-mcp.vercel.app/api/mcp` | Enrutador Sostenible de Carga de Cómputo |
+| 095 | **Deepfake-Sentinel** | $0.18 | `https://deepfake-sentinel-mcp.vercel.app/api/mcp` | Analista Forense de Audio y Deepfakes |
+| 096 | **Legal-Logic-Fuzzer** | $0.20 | `https://legal-logic-fuzzer-mcp.vercel.app/api/mcp` | Perito Legal Automatizado y Auditor Semántico |
+| 097 | **DarkWeb-Breach** | $0.22 | `https://darkweb-breach-mcp.vercel.app/api/mcp` | Inteligencia de Amenazas y OSINT de la Dark Web |
+| 098 | **Edge-Latency-Guard** | $0.12 | `https://edge-latency-guard-mcp.vercel.app/api/mcp` | Optimizador de Latencia Global e Infraestructura |
+| 099 | **Yul-GasMaster** | $0.30 | `https://yul-gasmaster-mcp.vercel.app/api/mcp` | Optimizador de Gas y Refactorización a Ensamblador Yul |
+| 100 | **GASTOR-Motherboard** | $1.00+ | `https://gastor-motherboard-mcp.vercel.app/api/mcp` | Orquestador Supremo de Enjambres y Gobernanza |
+
+### 🛰️ <a name="x402-monetized-mcp-suite"></a>x402 Paid & Monetized MCP Suite (Base L2)
+
+The **M2MCent Autonomous Micro-SaaS Factory** is the world's first and largest production ecosystem of 100 fully-monetized, machine-payable MCP servers running on the **Base L2** network. Every service is protected by the x402 protocol and settles transactions gaslessly using **USDC** via an on-chain escrow contract.
+
+*   **Payer SDK & Client Guides:** [M2MCent Developer Integration Guide](https://github.com/Evozim/m2mcent-sdk)
+*   **Escrow Contract Address:** `0xf3c3416A843d13C944554A54Ac274BB7fF264BcC`
+*   **USDC Token Address:** `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913`
+*   **Settlement Network:** Base Mainnet (Chain ID: `8453`)
+
+| ID | Name | Fee (USDC) | Endpoint (SSE) | Description |
+|:---|:---|:---|:---|:---|
+| 001 | **The Gem Smith** | $0.05 | `https://the-gem-smith-mcp.vercel.app/api/mcp` | Optimización SEO/AEO para Agentes de IA |
+| 002 | **Helium Financial** | $0.10 | `https://helium-financial-mcp.vercel.app/api/mcp` | Oráculo financiero (Yahoo Finance Aggregator) |
+| 003 | **Aegis-Privacy-MCP** | $0.02 | `https://zero-leak-mcp.vercel.app/api/mcp` | Saneamiento de PII y secretos (Merged OCR Logic) |
+| 004 | **WebUAT-Forensic** | $0.08 | `https://webapp-uat-mcp.vercel.app/api/mcp` | Agente forense de front-end y accesibilidad |
+| 005 | **X-Social Intel** | $0.02 | `https://x-data-mcp.vercel.app/api/mcp` | Minería de datos de X (Xquik Integration) |
+| 006 | **ContractOracle-Sentinel** | $0.15 | `https://defi-sentinel-mcp.vercel.app/api/mcp` | Auditor Forense de Smart Contracts (Merged) |
+| 007 | **Repo-to-RAG** | $0.25 | `https://repo-to-rag-mcp.vercel.app/api/mcp` | Vectorización de repositorios GitHub |
+| 008 | **UI Factory** | $0.10 | `https://ui-factory-mcp.vercel.app/api/mcp` | Generador de UI React desde imágenes |
+| 009 | **Multi-Bridge** | $0.01 | `https://multi-bridge-mcp.vercel.app/api/mcp` | Pathfinder de rutas Cross-Chain (Li.Fi) |
+| 010 | **Legal Validator** | $0.03 | `https://legal-validator-mcp.vercel.app/api/mcp` | Validación de cumplimiento SEC/FTC/Anti-Spam |
+| 011 | **AgentPhone-Apex** | $0.10 | `https://agent-phone-mcp.vercel.app/api/mcp` | Gateway de Voz y SMS (Merged Multi-Channel) |
+| 012 | **RecallMax-Neural** | $0.05 | `https://recallmax-mcp.vercel.app/api/mcp` | Compresión Semántica y Memoria Contextual |
+| 013 | **CreditRisk Oracle** | $0.15 | `https://credit-risk-mcp.vercel.app/api/mcp` | Oráculo de Riesgo B2B y Supply Chain |
+| 014 | **LaborTrends NLP** | $0.08 | `https://labor-trends-mcp.vercel.app/api/mcp` | Analizador de Tendencias del Mercado Laboral |
+| 015 | **Data Observability** | $0.08 | `https://data-observability-mcp.vercel.app/api/mcp` | Evaluador de Salud de Datos y SQL |
+| 016 | **TrustVision** | $0.05 | `https://trust-vision-mcp.vercel.app/api/mcp` | Verificador de Autenticidad Visual (C2PA Scan) |
+| 017 | **GasPulse** | $0.01 | `https://gas-pulse-mcp.vercel.app/api/mcp` | Oráculo de Gas de Alta Precisión y Predicción |
+| 018 | **SolForge** | $0.20 | `https://sol-forge-mcp.vercel.app/api/mcp` | Generador de Contratos Inteligentes (Safe Solidity) |
+| 019 | **WalletHygiene** | $0.04 | `https://wallet-hygiene-mcp.vercel.app/api/mcp` | Detector de Toxicidad y Spam On-Chain |
+| 020 | **VoiceIntel** | $0.08 | `https://voice-intel-mcp.vercel.app/api/mcp` | Analizador de Sentimiento y Veracidad de Audio |
+| 021 | **Aegis Policy** | $0.05 | `https://aegis-policy-mcp.vercel.app/api/mcp` | Firewall de Gobernanza y Escudo de Agentes |
+| 022 | **Remotion-Factory** | $0.15 | `https://render-stream-mcp.vercel.app/api/mcp` | Motor de Renderizado Audiovisual (Merged) |
+| 023 | **AdSpend Auditor** | $0.05 | `https://ad-spend-auditor-mcp.vercel.app/api/mcp` | Auditor Forense de Campañas PPC (A-F Grading) |
+| 024 | **Organic Text Engine** | $0.02 | `https://organic-text-mcp.vercel.app/api/mcp` | Humanizador de texto IA (Anti-Detector) |
+| 025 | **Query Forge** | $0.03 | `https://query-forge-mcp.vercel.app/api/mcp` | Optimizador SQL de Grado Empresarial |
+| 026 | **Bio-Data Parser** | $0.25 | `https://bio-data-parser-mcp.vercel.app/api/mcp` | Analizador de Datos Genómicos Premium |
+| 027 | **AI Fleet Cards** | $0.50 | `https://ai-fleet-cards-mcp.vercel.app/api/mcp` | Emisión de Tarjetas Virtuales para Agentes |
+| 028 | **Swarm Coordinator** | $0.01 | `https://swarm-coordinator-mcp.vercel.app/api/mcp` | Orquestador de Enjambres Multi-Agente |
+| 029 | **Automation Weaver** | $0.08 | `https://automation-weaver-mcp.vercel.app/api/mcp` | Generador Visual de Blueprints No-Code |
+| 030 | **Neural Graph Mapper** | $0.04 | `https://neural-graph-mapper-mcp.vercel.app/api/mcp` | Transformador Semántico de Conocimiento |
+| 031 | **Stack Trace Medic** | $0.03 | `https://stack-trace-medic-mcp.vercel.app/api/mcp` | Depurador Forense de Código con IA |
+| 032 | **LexGuard** | $0.12 | `https://lexguard-mcp.vercel.app/api/mcp` | Analizador Semántico Legal de Contratos |
+| 033 | **VeriGhost-Clarity** | $0.05 | `https://verighost-mcp.vercel.app/api/mcp` | Detector de Alucinaciones y Fact-Checking (Merged) |
+| 034 | **Token Diet** | $0.05 | `https://token-diet-mcp.vercel.app/api/mcp` | Optimizador de Contexto y Enrutamiento |
+| 035 | **CatalogEngine** | $0.03 | `https://catalog-engine-mcp.vercel.app/api/mcp` | Estructurador de Inventarios E-commerce |
+| 036 | **WashPulse** | $0.15 | `https://washpulse-mcp.vercel.app/api/mcp` | Detector de Manipulación de Liquidez (DEX) |
+| 037 | **SentimentTrail** | $0.06 | `https://sentiment-trail-mcp.vercel.app/api/mcp` | Agregador de Sentimiento Multicanal (X, Reddit) |
+| 038 | **CleanCode AI** | $0.10 | `https://cleancode-ai-mcp.vercel.app/api/mcp` | Refactorizador de Deuda Técnica y Tipado |
+| 039 | **PromptRefiner** | $0.02 | `https://prompt-refiner-mcp.vercel.app/api/mcp` | Optimizador de Prompts Visuales (MJ, Sora) |
+| 040 | **DocDigest** | $0.04 | `https://docdigest-mcp.vercel.app/api/mcp` | Resúmenes Ejecutivos de Hilos Corporativos |
+| 041 | **QuizFactory** | $0.05 | `https://quiz-factory-mcp.vercel.app/api/mcp` | Generador de Evaluaciones y Flashcards |
+| 042 | **MC-Data Monitor** | $0.15 | `https://mc-data-monitor-mcp.vercel.app/api/mcp` | Observabilidad de Datos y Auditoría dbt |
+| 043 | **StyleSeed Tokenizer** | $0.05 | `https://styleseed-tokenizer-mcp.vercel.app/api/mcp` | Director de Diseño y Generador de Tokens |
+| 044 | **Handoff Tracker** | $0.02 | `https://handoff-tracker-mcp.vercel.app/api/mcp` | Memoria a Corto Plazo para Enjambres |
+| 045 | **SSO Auth Bridge** | $0.20 | `https://sso-auth-bridge-mcp.vercel.app/api/mcp` | Arquitecto de Integración SSO (SAML/OIDC) |
+| 046 | **ThreeJS Weaver** | $0.10 | `https://threejs-weaver-mcp.vercel.app/api/mcp` | Ingeniero Gráfico 3D y Generador WebGL |
+| 047 | **Agile Sprint** | $0.05 | `https://agile-sprint-mcp.vercel.app/api/mcp` | Orquestador de Sprints y Scrum Master |
+| 048 | **VaultGuard** | $0.03 | `https://vaultguard-mcp.vercel.app/api/mcp` | Auditor de Secretos y Ciberseguridad .env |
+| 049 | **PitchDeck Auto** | $0.08 | `https://pitchdeck-auto-mcp.vercel.app/api/mcp` | Diseñador de Presentaciones Interactivas |
+| 050 | **AWS Builder** | $0.25 | `https://aws-builder-mcp.vercel.app/api/mcp` | Arquitecto de Infraestructura Cloud AWS |
+| 051 | **AI Humanizer** | $0.04 | `https://ai-humanizer-mcp.vercel.app/api/mcp` | Humanización y Camuflaje de Contenido IA |
+| 052 | **Polyglot-Debugger** | $0.15 | `https://polyglot-debugger-mcp.vercel.app/api/mcp` | Depurador multi-lenguaje (AlmogBaku debug-skill) |
+| 053 | **LogSentinel** | $0.08 | `https://logsentinel-mcp.vercel.app/api/mcp` | Filtro de Auditoría para Logs de Anthropic |
+| 054 | **LogisticFlow** | $0.08 | `https://logisticflow-mcp.vercel.app/api/mcp` | Oráculo de Optimización de Rutas Logísticas |
+| 055 | **CodeVulnerability** | $0.12 | `https://codevulnerability-mcp.vercel.app/api/mcp` | Auditor DevSecOps OWASP en Tiempo Real |
+| 056 | **Tool-Guardian-Proxy** | $0.05 | `https://tool-guardian-mcp.vercel.app/api/mcp` | Proxy de seguridad para uso de herramientas IA |
+| 057 | **DeepVoice Guard** | $0.07 | `https://deepvoice-guard-mcp.vercel.app/api/mcp` | Perito Forense de Audio y Detector Deepfake |
+| 058 | **Web3 Sentiment** | $0.06 | `https://web3-sentiment-mcp.vercel.app/api/mcp` | Oráculo de Sentimiento Social en Tiempo Real |
+| 059 | **Legacy-Code-Migrator** | $0.35 | `https://legacy-migrator-mcp.vercel.app/api/mcp` | Migrador automático de bases de código legadas |
+| 060 | **Scientific-Research-Oracle** | $0.20 | `https://science-oracle-mcp.vercel.app/api/mcp` | Oráculo de investigación científica avanzada |
+| 061 | **Linear-Task-Broker** | $0.08 | `https://linear-broker-mcp.vercel.app/api/mcp` | Integración profunda con Linear para agentes |
+| 062 | **Env-Var-Locker** | $0.10 | `https://env-locker-mcp.vercel.app/api/mcp` | Gestor de variables de entorno de alta seguridad |
+| 063 | **LogoScout** | $0.12 | `https://logoscout-mcp.vercel.app/api/mcp` | Auditor de Marcas y Propiedad Intelectual |
+| 064 | **Slide-Deck-Automator** | $0.12 | `https://slide-factory-mcp.vercel.app/api/mcp` | Generador de presentaciones front-end |
+| 065 | **GhostBlock** | $0.05 | `https://ghostblock-mcp.vercel.app/api/mcp` | Detector de Procedencia de Texto IA |
+| 066 | **CloudScale-Sim** | $0.18 | `https://cloudscale-sim-mcp.vercel.app/api/mcp` | Simulador de Estrés de Infraestructura Cloud |
+| 067 | **Deepfake-Lens** | $0.10 | `https://deepfake-lens-mcp.vercel.app/api/mcp` | Analizador Forense de Imágenes y Deepfakes |
+| 068 | **SalesCloser-AI** | $0.09 | `https://salescloser-ai-mcp.vercel.app/api/mcp` | Auditor de Llamadas de Ventas y Conversión |
+| 069 | **TOS-Slayer** | $0.07 | `https://tos-slayer-mcp.vercel.app/api/mcp` | Simplificador de Contratos y Cláusulas Abusivas |
+| 070 | **Tokenomic-Pulse** | $0.30 | `https://tokenomic-pulse-mcp.vercel.app/api/mcp` | Simulador de Shocks DeFi y Tokenomics |
+| 071 | **SEO-Ghost** | $0.08 | `https://seo-ghost-mcp.vercel.app/api/mcp` | Arquitecto de Intención de Búsqueda y AEO |
+| 072 | **ZeroKnowledge-Vault** | $0.15 | `https://zeroknowledge-vault-mcp.vercel.app/api/mcp` | Validador de Pruebas ZK y Privacidad |
+| 073 | **DataHealth-Observer** | $0.15 | `https://datahealth-observer-mcp.vercel.app/api/mcp` | Oráculo de Observabilidad de Pipelines SQL |
+| 074 | **TokenBurn-Optimizer** | $0.06 | `https://tokenburn-optimizer-mcp.vercel.app/api/mcp` | Optimizador de Tokens y Enrutamiento LLM |
+| 075 | **Fuzz-Breaker** | $0.20 | `https://fuzz-breaker-mcp.vercel.app/api/mcp` | Agente de Pentesting y Fuzzing Automatizado |
+| 076 | **StyleForge-AI** | $0.10 | `https://styleforge-ai-mcp.vercel.app/api/mcp` | Arquitecto de Design Systems y Tokens |
+| 077 | **DevRel-Amplifier** | $0.08 | `https://devrel-amplifier-mcp.vercel.app/api/mcp` | Hacker de Crecimiento Técnico y DevRel |
+| 078 | **Satori-Aligner** | $0.09 | `https://satori-aligner-mcp.vercel.app/api/mcp` | Evaluador de Alineación y Sesgo de IA |
+| 079 | **Auth-Sentinel** | $0.22 | `https://auth-sentinel-mcp.vercel.app/api/mcp` | Auditor de Protocolos de Identidad y SSO |
+| 080 | **3D-MeshWeaver** | $0.18 | `https://3d-meshweaver-mcp.vercel.app/api/mcp` | Optimizador Espacial de Mallas 3D |
+| 081 | **Ad-Sniper** | $0.14 | `https://ad-sniper-mcp.vercel.app/api/mcp` | Auditor de Campañas PPC y Presupuesto |
+| 082 | **Architecture-DNA** | $0.11 | `https://architecture-dna-mcp.vercel.app/api/mcp` | Gestor de Contexto Profundo y .faf |
+| 083 | **Rules-Generator-Pro** | $0.06 | `https://rules-gen-mcp.vercel.app/api/mcp` | Generador pro de .cursorrules y reglas IA |
+| 084 | **Darwin-Ideation** | $0.15 | `https://darwin-ideation-mcp.vercel.app/api/mcp` | Motor de Evolución de Ideas y Startup DNA |
+| 085 | **Task-Orchestrator** | $0.20 | `https://task-orchestrator-mcp-three.vercel.app/api/mcp` | Gerente de Proyectos y Enjambres |
+| 086 | **App-Store-Builder** | $0.18 | `https://app-store-builder-mcp.vercel.app/api/mcp` | Empaquetador Automático de Extensiones |
+| 087 | **VeriGhost-Clarity** | $0.05 | `https://verighost-mcp.vercel.app/api/mcp` | Detector de Alucinaciones y Fact-Checking |
+| 088 | **Serverless-DB-Oracle** | $0.12 | `https://serverless-db-oracle-mcp.vercel.app/api/mcp` | Administrador de Postgres y Neon API |
+| 089 | **UX-Auditor-Pro** | $0.09 | `https://ux-auditor-pro-mcp.vercel.app/api/mcp` | Perito de Experiencia de Usuario y UI (Merged Suite) |
+| 090 | **Rule-Porter** | $0.06 | `https://rule-porter-mcp.vercel.app/api/mcp` | Traductor de Entornos y Reglas de IA |
+| 091 | **Remotion-Factory** | $0.15 | `https://render-stream-mcp.vercel.app/api/mcp` | Motor de Renderizado Audiovisual (Merged) |
+| 092 | **Quantum-Shield** | $0.25 | `https://quantum-shield-mcp.vercel.app/api/mcp` | Oráculo de Criptografía Post-Cuántica |
+| 093 | **Bio-Safe-Audit** | $0.15 | `https://bio-safe-audit-mcp.vercel.app/api/mcp` | Validador de Conocimiento Cero Biométrico |
+| 094 | **Eco-Optimizer** | $0.10 | `https://eco-optimizer-mcp.vercel.app/api/mcp` | Enrutador Sostenible de Carga de Cómputo |
+| 095 | **Deepfake-Sentinel** | $0.18 | `https://deepfake-sentinel-mcp.vercel.app/api/mcp` | Analista Forense de Audio y Deepfakes |
+| 096 | **Legal-Logic-Fuzzer** | $0.20 | `https://legal-logic-fuzzer-mcp.vercel.app/api/mcp` | Perito Legal Automatizado y Auditor Semántico |
+| 097 | **DarkWeb-Breach** | $0.22 | `https://darkweb-breach-mcp.vercel.app/api/mcp` | Inteligencia de Amenazas y OSINT de la Dark Web |
+| 098 | **Edge-Latency-Guard** | $0.12 | `https://edge-latency-guard-mcp.vercel.app/api/mcp` | Optimizador de Latencia Global e Infraestructura |
+| 099 | **Yul-GasMaster** | $0.30 | `https://yul-gasmaster-mcp.vercel.app/api/mcp` | Optimizador de Gas y Refactorización a Ensamblador Yul |
+| 100 | **GASTOR-Motherboard** | $1.00+ | `https://gastor-motherboard-mcp.vercel.app/api/mcp` | Orquestador Supremo de Enjambres y Gobernanza |
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
