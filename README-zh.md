@@ -187,6 +187,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - 一个与 Tilt 集成的 Model Context Protocol 服务器，为 Kubernetes 开发环境提供对 Tilt 资源、日志和管理操作的程序化访问。
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S 是一个 AI 驱动的 Kubernetes 资源管理工具，通过自然语言交互方式，让用户能够轻松操作 Kubernetes 集群中的任意资源，包括原生资源（如 Deployment、Service）和自定义资源（CRD）。无需记忆复杂命令，只需描述需求，AI 就能准确执行对应的集群操作，大大提升了 Kubernetes 的易用性。
 - [portainer/portainer-mcp](https://github.com/portainer/mcp-server) 🏎️ ☁️/🏠 - 一个用于管理 Portainer 容器管理平台的 MCP 服务器，支持通过自然语言交互来管理容器、镜像、网络和卷等资源。
+- [stackql/stackql](https://github.com/stackql/stackql) 🎖️ 🏎️ ☁️/🏠 🍎 🪟 🐧 - StackQL 内置的官方 MCP 服务器，使 AI 代理能够使用 SQL 语义在 AWS、Azure、Google Cloud、GitHub、Databricks、Snowflake、Okta、Cloudflare 等 100 多个提供商之间发现、查询和配置资源。支持 stdio、HTTP 和反向代理传输，以及可配置的安全模式（read-only、safe、delete-safe、full-access）。详见 [stackql.io/docs/mcp](https://stackql.io/docs/mcp)。
 
 ### 🤖 <a name="coding-agents"></a>编程智能体
 

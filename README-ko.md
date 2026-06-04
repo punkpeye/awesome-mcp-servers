@@ -168,6 +168,7 @@
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - AI 어시스턴트가 Terraform 환경을 관리하고 운영할 수 있게 하는 Terraform MCP 서버. 구성 읽기, 계획 분석, 구성 적용 및 Terraform 상태 관리를 가능하게 합니다.
 - [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - Tilt와 통합되어 Kubernetes 개발 환경을 위한 Tilt 리소스, 로그 및 관리 작업에 대한 프로그래밍 방식 액세스를 제공하는 Model Context Protocol 서버.
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S는 AI 기반 Kubernetes 리소스 관리 도구로, 자연어 상호작용을 통해 사용자가 Kubernetes 클러스터의 모든 리소스(네이티브 리소스(예: Deployment, Service) 및 사용자 정의 리소스(CRD) 포함)를 운영할 수 있게 합니다. 복잡한 명령어를 외울 필요 없이 요구사항만 설명하면 AI가 해당 클러스터 작업을 정확하게 실행하여 Kubernetes의 사용성을 크게 향상시킵니다.
+- [stackql/stackql](https://github.com/stackql/stackql) 🎖️ 🏎️ ☁️/🏠 🍎 🪟 🐧 - StackQL에 내장된 공식 MCP 서버로, AI 에이전트가 SQL 시맨틱을 사용하여 AWS, Azure, Google Cloud, GitHub, Databricks, Snowflake, Okta, Cloudflare 등 100개 이상의 프로바이더에서 리소스를 탐색, 쿼리 및 프로비저닝할 수 있도록 합니다. stdio, HTTP, 리버스 프록시 전송과 구성 가능한 안전 모드(read-only, safe, delete-safe, full-access)를 지원합니다. 자세한 내용은 [stackql.io/docs/mcp](https://stackql.io/docs/mcp)를 참조하세요.
 
 ### 🖥️ <a name="command-line"></a>커맨드 라인
 

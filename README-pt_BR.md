@@ -192,6 +192,7 @@ Integração de serviços de plataforma em nuvem. Permite o gerenciamento e inte
 - [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) 🏎️ ☁️/🏠 - Um poderoso servidor MCP que permite que assistentes de IA interajam de forma integrada com instâncias do Portainer, fornecendo acesso em linguagem natural ao gerenciamento de contêineres, operações de implantação e recursos de monitoramento de infraestrutura.
 - [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - Um servidor de Protocolo de Contexto de Modelo que se integra com o Tilt para fornecer acesso programático a recursos, logs e operações de gerenciamento do Tilt para ambientes de desenvolvimento Kubernetes.
 - [trilogy-group/aws-pricing-mcp](https://github.com/trilogy-group/aws-pricing-mcp) 🏎️ ☁️/🏠 - Obtenha informações de preços atualizadas do EC2 com uma única chamada. Rápido. Alimentado por um catálogo de preços da AWS pré-analisado.
+- [stackql/stackql](https://github.com/stackql/stackql) 🎖️ 🏎️ ☁️/🏠 🍎 🪟 🐧 - Servidor MCP oficial embutido no StackQL, permitindo que agentes de IA descubram, consultem e provisionem recursos na AWS, Azure, Google Cloud, GitHub, Databricks, Snowflake, Okta, Cloudflare e mais de 100 outros provedores usando semântica SQL. Suporta transportes stdio, HTTP e reverse-proxy com modos de segurança configuráveis (read-only, safe, delete-safe, full-access). Veja [stackql.io/docs/mcp](https://stackql.io/docs/mcp).
 
 ### 👨‍💻 <a name="execução-de-código"></a>Execução de Código
 

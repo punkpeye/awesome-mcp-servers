@@ -161,6 +161,7 @@
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 - MCP-K8S เป็นเครื่องมือจัดการทรัพยากร Kubernetes ขับเคลื่อนด้วย AI ที่ช่วยให้ผู้ใช้สามารถดำเนินการกับทรัพยากรใดๆ ในคลัสเตอร์ Kubernetes ผ่านการโต้ตอบด้วยภาษาธรรมชาติ รวมถึงทรัพยากรดั้งเดิม (เช่น Deployment, Service) และทรัพยากรที่กำหนดเอง (CRD) ไม่จำเป็นต้องจำคำสั่งที่ซับซ้อน เพียงอธิบายความต้องการ และ AI จะดำเนินการในคลัสเตอร์ที่เกี่ยวข้องได้อย่างแม่นยำ ช่วยเพิ่มความสะดวกในการใช้งาน Kubernetes อย่างมาก
 - [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ Model Context Protocol ที่ผสานการทำงานกับ Tilt เพื่อให้สามารถเข้าถึงทรัพยากร, ล็อก และการดำเนินการจัดการของ Tilt สำหรับสภาพแวดล้อมการพัฒนา Kubernetes ผ่านโปรแกรม
 - [trilogy-group/aws-pricing-mcp](https://github.com/trilogy-group/aws-pricing-mcp) 🏎️ ☁️/🏠 - รับข้อมูลราคา EC2 ล่าสุดด้วยการเรียกเพียงครั้งเดียว รวดเร็ว ขับเคลื่อนโดยแคตตาล็อกราคา AWS ที่แยกวิเคราะห์ไว้ล่วงหน้า
+- [stackql/stackql](https://github.com/stackql/stackql) 🎖️ 🏎️ ☁️/🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP อย่างเป็นทางการที่ฝังอยู่ใน StackQL ช่วยให้ AI agents สามารถค้นหา ค้นคืน และจัดสรรทรัพยากรบน AWS, Azure, Google Cloud, GitHub, Databricks, Snowflake, Okta, Cloudflare และผู้ให้บริการอื่นๆ กว่า 100 รายได้โดยใช้ไวยากรณ์แบบ SQL รองรับการขนส่งแบบ stdio, HTTP และ reverse-proxy พร้อมโหมดความปลอดภัยที่ปรับแต่งได้ (read-only, safe, delete-safe, full-access) ดูรายละเอียดที่ [stackql.io/docs/mcp](https://stackql.io/docs/mcp)
 
 ### 👨‍💻 การเรียกใช้โค้ด
 

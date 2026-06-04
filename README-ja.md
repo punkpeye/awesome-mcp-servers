@@ -193,6 +193,7 @@
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️🏠 - MCP-K8Sは、AI駆動のKubernetesリソース管理ツールで、自然言語インタラクションを通じて、ユーザーがKubernetesクラスター内の任意のリソース（ネイティブリソース（DeploymentやServiceなど）やカスタムリソース（CRD）を含む）を操作できるようにします。複雑なコマンドを覚える必要はなく、要件を説明するだけで、AIが対応するクラスター操作を正確に実行し、Kubernetesの使いやすさを大幅に向上させます。
 - [redis/mcp-redis-cloud](https://github.com/redis/mcp-redis-cloud) 📇 ☁️ - 自然言語を使用してRedis Cloudリソースを簡単に管理。データベースの作成、サブスクリプションの監視、シンプルなコマンドでクラウドデプロイメントの設定。
 - [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) 🏎️ ☁️🏠 - 強力なMCPサーバーで、AIアシスタントがPortainerインスタンスとシームレスに連携し、コンテナ管理、デプロイメント操作、インフラストラクチャ監視機能に自然言語でアクセスできるようにします。
+- [stackql/stackql](https://github.com/stackql/stackql) 🎖️ 🏎️ ☁️/🏠 🍎 🪟 🐧 - StackQLに組み込まれた公式MCPサーバー。AIエージェントがSQLセマンティクスを使用して、AWS、Azure、Google Cloud、GitHub、Databricks、Snowflake、Okta、Cloudflareなど100以上のプロバイダー全体でリソースを発見、クエリ、プロビジョニングできるようにします。stdio、HTTP、リバースプロキシのトランスポートと、設定可能なセーフティモード（read-only、safe、delete-safe、full-access）をサポート。詳細は[stackql.io/docs/mcp](https://stackql.io/docs/mcp)を参照。
 
 ### 👨‍💻 <a name="code-execution"></a>コード実行
 
