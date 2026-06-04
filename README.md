@@ -12,7 +12,6 @@
 > [Awesome MCP Servers](https://glama.ai/mcp/servers) web directory.
 
 A curated list of awesome Model Context Protocol (MCP) servers.
-
 * [What is MCP?](#what-is-mcp)
 * [Clients](#clients)
 * [Tutorials](#tutorials)
@@ -594,7 +593,7 @@ Integration with communication platforms for message management and channel oper
 - [keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - Bluesky instance integration for querying and interaction
 - [khan2a/telephony-mcp-server](https://github.com/khan2a/telephony-mcp-server) 🐍 💬 - MCP Telephony server for automating voice calls with Speech-to-Text and Speech Recognition to summarize call conversations. Send and receive SMS, detect voicemail, and integrate with Vonage APIs for advanced telephony workflows.
 - [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) 📇 ☁️ - The most powerful MCP server for Slack Workspaces.
-- [lanchuske/local-mcp](https://github.com/lanchuske/local-mcp-releases) [![lanchuske/local-mcp-releases MCP server](https://glama.ai/mcp/servers/lanchuske/local-mcp-releases/badges/score.svg)](https://glama.ai/mcp/servers/lanchuske/local-mcp-releases) 📇 🏠 🍎 - Connect Claude, Cursor, Windsurf and other AI agents to macOS native apps: Mail, Calendar, Contacts, Reminders, Notes, iMessage, Finder, Safari, OmniFocus, Microsoft Teams, Outlook, OneDrive, and Office documents. 82 tools. Runs entirely on your Mac — no cloud, no tokens, no API keys.
+- [lanchuske/local-mcp](https://github.com/lanchuske/local-mcp-releases) [![lanchuske/local-mcp-releases MCP server](https://glama.ai/mcp/servers/lanchuske/local-mcp-releases/badges/score.svg)](https://glama.ai/mcp/servers/lanchuske/local-mcp-releases) 📇 🏠 🍎 🪟 - Connect Claude, Cursor, Windsurf, ChatGPT and other AI agents to Mail, Calendar, Contacts, iMessage, Microsoft Teams, Outlook, Slack and WhatsApp on your machine. 251 tools (143 macOS + 108 Windows). 100% local — no cloud, no tokens, no API keys.
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) 🐍 🏎️ - An MCP server for searching your personal WhatsApp messages, contacts and sending messages to individuals or groups
 - [nakulben/whatsapp-mcp](https://github.com/nakulben/whatsapp-mcp) [![nakulben/whatsapp-mcp MCP server](https://glama.ai/mcp/servers/nakulben/whatsapp-mcp/badges/score.svg)](https://glama.ai/mcp/servers/nakulben/whatsapp-mcp) 🐍 ☁️ - WhatsApp Business API template management via Meta Cloud API. Create, validate, and send all 12 template types (text, image, video, document, location, authentication, carousel, coupon, catalog, MPM, limited-time offer, and flows) from any MCP client.
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - MCP Server for Integrating LINE Official Account
@@ -2582,6 +2581,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [nicolascroce/keepsake-mcp](https://github.com/nicolascroce/keepsake-mcp) 📇 ☁️ - Personal CRM — manage contacts, interactions, tasks, notes, daily journal, and tags through 42 MCP tools
 - [n24q02m/better-notion-mcp](https://github.com/n24q02m/better-notion-mcp) [![better-notion-mcp MCP server](https://glama.ai/mcp/servers/@n24q02m/better-notion-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@n24q02m/better-notion-mcp) 📇 ☁️ 🍎 🪟 🐧 - Markdown-first Notion MCP server with 9 composite tools and 39 actions. ~77% token reduction via tiered docs. Auto-pagination and bulk operations.
 - [khaoss85/mcp-orchestro](https://github.com/khaoss85/mcp-orchestro) 📇 ☁️ 🍎 🪟 🐧 - Trello for Claude Code: AI-powered task management with 60 MCP tools, visual Kanban board, and intelligent orchestration for product teams and developers.
+- [lanchuske/local-mcp-releases](https://github.com/lanchuske/local-mcp-releases) [![lanchuske/local-mcp-releases MCP server](https://glama.ai/mcp/servers/lanchuske/local-mcp-releases/badges/score.svg)](https://glama.ai/mcp/servers/lanchuske/local-mcp-releases) 📇 🏠 🍎 🪟 - 251 tools (143 macOS + 108 Windows) for Mail, Calendar, Contacts, Microsoft Teams, Slack, WhatsApp, OneDrive, Outlook, Notes, Reminders, OmniFocus and Office documents. Now on Windows too. 100% local, no cloud, no API keys.
 - [louis030195/toggl-mcp](https://github.com/louis030195/toggl-mcp) 📇 ☁️ 🍎 🪟 🐧 - Time tracking integration with Toggl Track. Start/stop timers, manage time entries, track project time, and get today's summary. Perfect for productivity tracking and billing workflows.
 - [MarceauSolutions/amazon-seller-mcp](https://github.com/MarceauSolutions/amazon-seller-mcp) 🐍 ☁️ - Amazon Seller Central operations via SP-API - manage inventory, track orders, analyze sales, and optimize listings
 - [MarceauSolutions/hvac-quotes-mcp](https://github.com/MarceauSolutions/hvac-quotes-mcp) 🐍 🏠 ☁️ - HVAC equipment RFQ management for contractors - submit quotes to distributors, track responses, and compare pricing
