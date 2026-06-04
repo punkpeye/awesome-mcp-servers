@@ -819,6 +819,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
+- [Pincushion](https://github.com/jcooley8/pincushion-plugin) 📇 ☁️ 🏠 🍎 🪟 🐧 - Stakeholders pin visual feedback on your live app; your AI coding agent reads each pin (selector, screenshot, viewport, thread) over MCP and lands the fix in your IDE.
 - [adrianczuczka/mason](https://github.com/adrianczuczka/mason) [![adrianczuczka/mason MCP server](https://glama.ai/mcp/servers/adrianczuczka/mason/badges/score.svg)](https://glama.ai/mcp/servers/adrianczuczka/mason) 📇 🏠 🍎 🪟 🐧 - Context engineering MCP server. Generates CLAUDE.md from git history and architectural file sampling, and maintains a concept-map snapshot of features/flows → files so agents can skip grep/glob on repeat queries.
    The fast, idiomatic Go framework for building MCP servers. Struct-tag auto schema, middleware chain, and adapters to import existing Gin/OpenAPI/gRPC services as MCP tools.
 - [masondelan/selvedge](https://github.com/masondelan/selvedge) [![masondelan/selvedge MCP server](https://glama.ai/mcp/servers/masondelan/selvedge/badges/score.svg)](https://glama.ai/mcp/servers/masondelan/selvedge) 🐍 🏠 - Change tracking for AI-era codebases. AI agents call it to log structured change events (entity + diff + reasoning) before the session ends, then query history with diff, blame, history, changeset, and search. Captures the intent that would otherwise evaporate.
@@ -2823,4 +2824,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-- [io.github.jcooley8/pincushion](https://github.com/jcooley8/pincushion-plugin) - Stakeholders pin feedback on your live app; your AI coding agent reads it via MCP and fixes it
