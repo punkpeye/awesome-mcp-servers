@@ -780,6 +780,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql) 🏎️ 🏠 – Easy to use, zero dependency MySQL MCP server built with Golang with configurable readonly mode and schema inspection.
 - [zilliztech/mcp-server-milvus](https://github.com/zilliztech/mcp-server-milvus) 🐍 🏠 ☁️ - MCP Server for Milvus / Zilliz, making it possible to interact with your database.
 - [wklee610/kafka-mcp](https://github.com/wklee610/kafka-mcp)[![kafka-mcp MCP server](https://glama.ai/mcp/servers/wklee610/kafka-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wklee610/kafka-mcp) 🐍 🏠 ☁️ - MCP server for Apache Kafka that allows LLM agents to inspect topics, consumer groups, and safely manage offsets (reset, rewind).
+- [postgres-mcp-server](https://github.com/GuerthCastro/postgres-mcp-server) - Read-only MCP server for PostgreSQL. List databases, schemas, tables, describe structure and execute SELECT queries. Built with .NET 10. 
 
 ### 📊 <a name="data-platforms"></a>Data Platforms
 
@@ -815,6 +816,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [vikramgorla/mcp-swiss](https://github.com/vikramgorla/mcp-swiss) [![mcp-swiss](https://glama.ai/mcp/servers/vikramgorla/mcp-swiss/badges/score.svg)](https://glama.ai/mcp/servers/vikramgorla/mcp-swiss) 📇 ☁️ - 68 tools for Swiss open data: transport, weather, geodata, companies, parliament, and more. Zero API keys required.
 - [yashshingvi/databricks-genie-MCP](https://github.com/yashshingvi/databricks-genie-MCP) 🐍 ☁️ - A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.
 - [Leekangbum/networklytics-mcp](https://github.com/Leekangbum/networklytics-mcp) [![Leekangbum/networklytics-mcp MCP server](https://glama.ai/mcp/servers/Leekangbum/networklytics-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Leekangbum/networklytics-mcp) 🐍 - YouTube comment social network analysis (SNA): influencer centrality ranking, community detection (Louvain), sentiment analysis, and public JSON API for AI agents
+- [postgres-mcp-server](https://github.com/GuerthCastro/postgres-mcp-server) - Read-only MCP server for PostgreSQL. List databases, schemas, tables, describe structure and execute SELECT queries. Built with .NET 10.
 
 
 
