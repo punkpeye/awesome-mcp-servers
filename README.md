@@ -2073,6 +2073,7 @@ MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
 - [forgemeshlabs/disruption-intelligence-mcp](https://github.com/forgemeshlabs/disruption-intelligence-mcp) [![forgemeshlabs/disruption-intelligence-mcp MCP server](https://glama.ai/mcp/servers/forgemeshlabs/disruption-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/servers/forgemeshlabs/disruption-intelligence-mcp) 📇 ☁️ - AI-native commercial disruption intelligence for MCP clients and x402-powered agents. Supports WARN/layoff intelligence, company context, geospatial territory disruption, and x402 payment challenge inspection via the hosted Forgemesh API.
+- [vladignatyev/uk-land-registry-price-mcp](https://github.com/vladignatyev/uk-land-registry-price-mcp) 📇 🏠 🍎 🪟 🐧 - UK sold house prices from HM Land Registry Price Paid Data (~28M transactions, Open Government Licence) — uncapped queries by postcode, town, county or year, plus a monthly new-sales monitor. Install: `npx -y uk-land-registry-price-mcp`.
 
 ### 🔬 <a name="research"></a>Research
 
