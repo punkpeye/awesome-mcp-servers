@@ -2678,6 +2678,7 @@ Translation tools and services to enable AI assistants to translate content betw
 - [mmntm/weblate-mcp](https://github.com/mmntm/weblate-mcp) 📇 ☁️ - Comprehensive Model Context Protocol server for Weblate translation management, enabling AI assistants to perform translation tasks, project management, and content discovery with smart format transformations.
 - [shuji-bonji/xcomet-mcp-server](https://github.com/shuji-bonji/xcomet-mcp-server) 📇 🏠 - Translation quality evaluation using xCOMET models. Provides quality scoring (0-1), error detection with severity levels (minor/major/critical), and optimized batch processing with 25x speedup.
 - [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
+- [waxberry-dev/live-translate-mcp](https://github.com/waxberry-dev/live-translate-mcp) 📇 🏠 🍎 🐧 - Real-time English ↔ Mandarin Chinese speech translation. Transcribes audio locally with Whisper, translates via Claude API, and synthesises speech locally with Piper TTS. Pass a WAV file path and Claude handles the rest.
 
 ### 🎙️ <a name="speech-to-text"></a>Speech-to-Text
 
