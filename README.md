@@ -1312,6 +1312,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [willianpinho/large-file-mcp](https://github.com/willianpinho/large-file-mcp) 📇 🏠 🍎 🪟 🐧 - Production-ready MCP server for intelligent handling of large files with smart chunking, navigation, streaming capabilities, regex search, and built-in LRU caching.
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Access any storage with Apache OpenDAL™
 - [xxczaki/local-history-mcp](https://github.com/xxczaki/local-history/mcp) 📇 🏠 🍎 🪟 🐧  - MCP server for accessing VS Code/Cursor Local History
+- [rocloveai/xagent-skills](https://github.com/rocloveai/xagent-skills) 📇 ☁️ - Open execution market for agentic commerce. AI agents discover merchants, get live quotes, pay in stablecoins (USDG/USDT on XLayer, USDC on Arc), and trigger fulfillment via x402, MCP, and UCP. Connect a Shopify/WooCommerce/Wix store in one click.
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
 - [Logitale/toreador-mcp-server](https://github.com/Logitale/toreador-mcp-server) [![Logitale/toreador-mcp-server MCP server](https://glama.ai/mcp/servers/Logitale/toreador-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Logitale/toreador-mcp-server) 📇 🏠 🍎 🪟 🐧 - Generate crypto QR codes (BTC, ETH, SOL, USDC, USDT, EURC) and manage payment sessions from Claude Desktop or any MCP client. Non-custodial, free.
