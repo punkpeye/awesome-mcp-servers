@@ -656,7 +656,7 @@ Tools for encrypting and decrypting data.
 
 Provides access to customer profiles inside of customer data platforms
 
-- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) [![DC Hub MCP server](https://glama.ai/mcp/servers/azmartone67/dchub-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/azmartone67/dchub-mcp-server) 📇 ☁️ - Data-center, power & gas intelligence MCP server. 33 tools covering 21,000+ data-center facilities (170+ countries), 232 US power markets scored by the DC Hub Power Index (DCPI), 2,000+ tracked M&A deals, ISO grid telemetry (PJM, ERCOT, CAISO, MISO, SPP, NYISO), fiber routes, and energy pricing. Free to cite (CC-BY-4.0).
+- [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) [![azmartone67/dchub-mcp-server MCP server](https://glama.ai/mcp/servers/azmartone67/dchub-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/azmartone67/dchub-mcp-server) 📇 ☁️ - Data-center, power & gas intelligence MCP server. 33 tools covering 21,000+ data-center facilities (170+ countries), 232 US power markets scored by the DC Hub Power Index (DCPI), 2,000+ tracked M&A deals, ISO grid telemetry (PJM, ERCOT, CAISO, MISO, SPP, NYISO), fiber routes, and energy pricing. Free to cite (CC-BY-4.0).
 - [antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
 - [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) 📇 🏠 - Generate visual charts using [Apache ECharts](https://echarts.apache.org) with AI MCP dynamically.
 - [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
