@@ -1220,6 +1220,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [OsamaHassouna/docs-hub](https://github.com/OsamaHassouna/docs-hub) [![OsamaHassouna/docs-hub MCP server](https://glama.ai/mcp/servers/OsamaHassouna/docs-hub/badges/score.svg)](https://glama.ai/mcp/servers/OsamaHassouna/docs-hub) 📇 ☁️ 🏠 🍎 🪟 🐧 - HTML Email Playbook — MCP server + CLI that teaches AI clients (Claude, Cursor, Cline, Codex) to write HTML email that renders in Outlook, Gmail, and Apple Mail. 4 tools, 19 rules, 6 components. Install: `npx -y email-playbook-mcp@latest`. Hosted: `https://docs.osamahassouna.com/api/mcp`.
 
+- [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel) [![joaoh82/rustunnel MCP server](https://glama.ai/mcp/servers/joaoh82/rustunnel/badges/score.svg)](https://glama.ai/mcp/servers/joaoh82/rustunnel) 🦀 ☁️ - MCP server that lets AI agents create and manage public tunnels to local services (webhooks, dev servers, sharing). Pairs with the rustunnel CLI + managed tunnel service.
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
