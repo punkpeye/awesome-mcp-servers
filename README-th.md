@@ -429,6 +429,7 @@
 - [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่ให้การเข้าถึงแบบสมบูรณ์ไปยังเมธอด JSON-RPC ของ Ethereum Virtual Machine (EVM) ทำงานร่วมกับผู้ให้บริการโหนดที่เข้ากันได้กับ EVM ใดๆ รวมถึง Infura, Alchemy, QuickNode, โหนดท้องถิ่น และอื่นๆ
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่ให้ข้อมูลตลาดการพยากรณ์แบบเรียลไทม์จากหลายแพลตฟอร์มรวมถึง Polymarket, PredictIt และ Kalshi ช่วยให้ผู้ช่วย AI สามารถสืบค้นอัตราต่อรองปัจจุบัน ราคา และข้อมูลตลาดผ่านอินเทอร์เฟซที่รวมเป็นหนึ่งเดียว
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่ช่วยให้โมเดล AI สามารถสืบค้นบล็อกเชน Bitcoin ได้
+- [twzrd-sol/wzrd-final](https://github.com/twzrd-sol/wzrd-final) 📇 ☁️ - เซิร์ฟเวอร์ MCP ให้คะแนนความน่าเชื่อถือสำหรับ AI agents บน Solana ตรวจสอบล่วงหน้าฟรีและใบรับรองที่เซ็นชื่อแล้วผ่านการชำระเงินขนาดเล็ก x402 (USDC): https://intel.twzrd.xyz/mcp
 
 ### 🎮 เกม
 
