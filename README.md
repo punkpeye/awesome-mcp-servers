@@ -2497,6 +2497,7 @@ Tools for converting text-to-speech and vice-versa
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
 
+- [Amor216/db-mcp-server](https://github.com/Amor216/db-mcp-server) 🐍 🏠 🍎 🪟 🐧 - Deutsche Bahn (German railway) station search, departures, journey planning, trip details, and nearby stations via the public transport.rest API. No auth required.
 - [alcylu/nightlife-mcp](https://github.com/alcylu/nightlife-mcp) [![nightlife](https://glama.ai/mcp/servers/alcylu/nightlife-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alcylu/nightlife-mcp) 📇 ☁️ - MCP server for Tokyo nightlife event discovery, venue search, performer info, AI recommendations, and VIP table booking.
 - [Autonomad1/autonomad-travel](https://github.com/Autonomad1/autonomad-travel) [![Autonomad1/autonomad-travel MCP server](https://glama.ai/mcp/servers/Autonomad1/autonomad-travel/badges/score.svg)](https://glama.ai/mcp/servers/Autonomad1/autonomad-travel) 📇 ☁️ - AI travel agent over MCP — live flights, hotels, activities, and events worldwide, then completes the booking on autonomad.ai (free signup at checkout, first month of Premium included).
 - [campertunity/mcp-server](https://github.com/campertunity/mcp-server) 🎖️ 📇 🏠 - Search campgrounds around the world on campertunity, check availability, and provide booking links
