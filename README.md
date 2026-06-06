@@ -2580,6 +2580,7 @@ Tools for converting text-to-speech and vice-versa
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
 
+- [SEKeener/airtreks-mcp](https://github.com/SEKeener/airtreks-mcp) 📇 ☁️ - Complex multi-city flight routing intelligence. 7 tools: plan round-the-world trips across 60+ carriers, validate Star Alliance and oneworld alliance routings, get segment-by-segment carrier recommendations, identify surface sector savings, and hand off to human consultants. No API key needed (100 req/day free). Remote endpoint: https://mcp.airtreks.com/mcp
 - [alcylu/nightlife-mcp](https://github.com/alcylu/nightlife-mcp) [![nightlife](https://glama.ai/mcp/servers/alcylu/nightlife-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alcylu/nightlife-mcp) 📇 ☁️ - MCP server for Tokyo nightlife event discovery, venue search, performer info, AI recommendations, and VIP table booking.
 - [Autonomad1/autonomad-travel](https://github.com/Autonomad1/autonomad-travel) [![Autonomad1/autonomad-travel MCP server](https://glama.ai/mcp/servers/Autonomad1/autonomad-travel/badges/score.svg)](https://glama.ai/mcp/servers/Autonomad1/autonomad-travel) 📇 ☁️ - AI travel agent over MCP — live flights, hotels, activities, and events worldwide, then completes the booking on autonomad.ai (free signup at checkout, first month of Premium included).
 - [campertunity/mcp-server](https://github.com/campertunity/mcp-server) 🎖️ 📇 🏠 - Search campgrounds around the world on campertunity, check availability, and provide booking links
