@@ -1179,6 +1179,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [parasxos/cpp26-adapter](https://github.com/parasxos/cpp26-adapter) [![parasxos/cpp26-adapter MCP server](https://glama.ai/mcp/servers/parasxos/cpp26-adapter/badges/score.svg)](https://glama.ai/mcp/servers/parasxos/cpp26-adapter) 🐍 🏠 🍎 🪟 🐧 - C++26 paper reference MCP (`cpp26-ref`) backing a Claude Code plugin: `lookup_paper`, fuzzy `search`, `compiler_status` over a 216-paper ISO/IEC 14882:2026 corpus. The plugin's skill + reviewer subagent use these tools to bias Claude toward reflection, contracts, `std::execution` senders, `#embed`, expansion statements — even when the local compiler lags. 95% on a held 39-task eval gate.
 
+- [suckless-mcp](https://github.com/roverbird/suckless-mcp) [![Crates.io](https://img.shields.io/crates/v/suckless-mcp.svg)](https://crates.io/crates/suckless-mcp) 🦀 🏠 🐧 - Minimal gateway that turns any CLI tool into an MCP endpoint. One binary, per-tool public/private auth, `--flags` everywhere. Turn any script into a remote skill by adding `skill.toml` and your script to the skills/ dir.
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
