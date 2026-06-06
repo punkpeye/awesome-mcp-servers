@@ -112,6 +112,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔎 - [Search & Data Extraction](#search)
 * 🔒 - [Security](#security)
 * 🌐 - [Social Media](#social-media)
+* 🔮 - [Spirituality & Esoterica](#spirituality-and-esoterica)
 * 🏃 - [Sports](#sports)
 - [zafronix/wc-mcp](https://github.com/zafronix/wc-mcp) [![World Cup History MCP server](https://glama.ai/mcp/servers/zafronix/wc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zafronix/wc-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - Every FIFA World Cup since 1930. 23 tournaments, full squads, knockout brackets, stadium altitudes, hat-tricks. Free tier API.
 * 🎧 - [Support & Service Management](#support-and-service-management)
@@ -2503,6 +2504,12 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [timkulbaev/mcp-linkedin](https://github.com/timkulbaev/mcp-linkedin) [![mcp-linkedin MCP server](https://glama.ai/mcp/servers/timkulbaev/mcp-linkedin/badges/score.svg)](https://glama.ai/mcp/servers/timkulbaev/mcp-linkedin) 📇 ☁️ - LinkedIn publishing, commenting, and reacting via Unipile API. Dry-run by default, SKILL.md included, CLI-first design for AI automation workflows.
 - [Vovala14/vynly-mcp](https://github.com/Vovala14/vynly-mcp) [![vynly-mcp MCP server](https://glama.ai/mcp/servers/Vovala14/vynly-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Vovala14/vynly-mcp) 📇 ☁️ - Post AI-generated images to [Vynly](https://vynly.co), an AI-only social feed built for agents. Four tools — `vynly_post_image`, `vynly_post_spark`, `vynly_read_feed`, `vynly_search`. Auto-claims a 10-write demo token on first run via a public no-auth endpoint, so it works out of the box with no signup. Provenance-aware (C2PA / SynthID / XMP).
 - [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) [![Xquik-dev/x-twitter-scraper MCP server](https://glama.ai/mcp/servers/Xquik-dev/x-twitter-scraper/badges/score.svg?v=2)](https://glama.ai/mcp/servers/Xquik-dev/x-twitter-scraper) 📇 ☁️ - Remote X (Twitter) MCP server with 121 endpoints via 2 tools. Post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways, and monitor accounts. StreamableHTTP at xquik.com/mcp with API key auth.
+
+### 🔮 <a name="spirituality-and-esoterica"></a>Spirituality & Esoterica
+
+Astrology, tarot, numerology, Vedic systems, Human Design and other divinatory or esoteric tools — for AI agents that compute charts, draw cards, run dasha cycles, or generate horoscopes.
+
+- [astroway/astroway-mcp](https://github.com/astroway/astroway-mcp) [![astroway/astroway-mcp MCP server](https://glama.ai/mcp/servers/astroway/astroway-mcp/badges/score.svg)](https://glama.ai/mcp/servers/astroway/astroway-mcp) 📇 ☁️ 🍎 🪟 🐧 - Comprehensive astrology MCP exposing every endpoint of the AstroWay Calculation API — natal charts, synastry, transits, Vedic dashas (Vimshottari, Yogini, Ashtottari, Kalachakra), 16 Vargas, Tarot (Rider-Waite-Smith / Marseille / Lenormand), Numerology (5 systems), Human Design, AI horoscopes. Sub-arcsecond Swiss Ephemeris precision, 10 000 free credits/month. Install: `npx @astroway/mcp`.
 
 ### 🏃 <a name="sports"></a>Sports
 
