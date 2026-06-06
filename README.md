@@ -1195,6 +1195,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [warpfreight/warp-agent-mcp](https://github.com/warpfreight/warp-agent-mcp) [![warpfreight/warp-agent-mcp MCP server](https://glama.ai/mcp/servers/warpfreight/warp-agent-mcp/badges/score.svg)](https://glama.ai/mcp/servers/warpfreight/warp-agent-mcp) 📇 ☁️ - Book real LTL/FTL/van/box-truck freight through the Warp network. 20 tools, in-chat login, Stripe-charged bookings, real carrier dispatch. Live demo at [wearewarp.com/agents/mcp](https://wearewarp.com/agents/mcp).
 
 - [Yang1Bai/claw-tsaver](https://github.com/Yang1Bai/claw-tsaver)__ 🐍 🏠 🍎 🪟 🐧 - Token-saving MCP proxy that intercepts oversized tool returns and replaces them with a preview + on-demand handle. Real benchmark: 11,507 tokens → 104 tokens (99.1% saved) on a Wikipedia fetch. Works with OpenClaw + Claude.
+- [childrentime/reactuse](https://github.com/childrentime/reactuse) [![childrentime/reactuse MCP server](https://glama.ai/mcp/servers/childrentime/reactuse/badges/score.svg)](https://glama.ai/mcp/servers/childrentime/reactuse) 📇 🏠 🍎 🪟 🐧 - MCP server for the [ReactUse](https://reactuse.com) library — 110+ React Hooks (TypeScript-first, SSR-compatible, tree-shakable). Lets AI assistants discover hook signatures, demos, and usage patterns directly from the docs.
   
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
