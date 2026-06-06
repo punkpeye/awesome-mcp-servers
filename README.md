@@ -790,6 +790,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql) 🏎️ 🏠 – Easy to use, zero dependency MySQL MCP server built with Golang with configurable readonly mode and schema inspection.
 - [zilliztech/mcp-server-milvus](https://github.com/zilliztech/mcp-server-milvus) 🐍 🏠 ☁️ - MCP Server for Milvus / Zilliz, making it possible to interact with your database.
 - [wklee610/kafka-mcp](https://github.com/wklee610/kafka-mcp)[![kafka-mcp MCP server](https://glama.ai/mcp/servers/wklee610/kafka-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wklee610/kafka-mcp) 🐍 🏠 ☁️ - MCP server for Apache Kafka that allows LLM agents to inspect topics, consumer groups, and safely manage offsets (reset, rewind).
+- [postgres-mcp-server](https://github.com/GuerthCastro/postgres-mcp-server) - Read-only MCP server for PostgreSQL. List databases, schemas, tables, describe structure and execute SELECT queries. Built with .NET 10. 
 
 ### 📊 <a name="data-platforms"></a>Data Platforms
 
@@ -828,8 +829,6 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [yashshingvi/databricks-genie-MCP](https://github.com/yashshingvi/databricks-genie-MCP) 🐍 ☁️ - A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.
 - [Younghef/nutriref-api](https://github.com/Younghef/nutriref-api) [![Younghef/nutriref-api MCP server](https://glama.ai/mcp/servers/Younghef/nutriref-api/badges/score.svg)](https://glama.ai/mcp/servers/Younghef/nutriref-api) 🐍 ☁️ 🍎 🪟 🐧 - USDA FoodData Central nutrition for AI agents — pay-per-call in USDC on Base via x402. Four tools (search, detail, compare, recipe) at $0.001–$0.005 per call. No signup, no API keys; MCPB-packaged for one-click install.
 - [Leekangbum/networklytics-mcp](https://github.com/Leekangbum/networklytics-mcp) [![Leekangbum/networklytics-mcp MCP server](https://glama.ai/mcp/servers/Leekangbum/networklytics-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Leekangbum/networklytics-mcp) 🐍 - YouTube comment social network analysis (SNA): influencer centrality ranking, community detection (Louvain), sentiment analysis, and public JSON API for AI agents
-
-
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
 - [modus-agendi/managed-agent-control-mcp](https://github.com/modus-agendi/managed-agent-control-mcp) [![modus-agendi/managed-agent-control-mcp MCP server](https://glama.ai/mcp/servers/modus-agendi/managed-agent-control-mcp/badges/score.svg)](https://glama.ai/mcp/servers/modus-agendi/managed-agent-control-mcp) 🐍 🏠 ☁️ 🍎 🪟 🐧 - Start, observe, and interact with Claude Managed Agents from any MCP client — launch an agent, poll its events to watch it work, reply, approve the tools it wants to run, and stop it. Runs over stdio, an HTTP container, or AWS Lambda, with pluggable inbound auth (bearer/OIDC/Cognito).
