@@ -2797,6 +2797,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Simple Web UI to install and manage MCP servers for Claude Desktop App.
 - [SPL-BGU/PlanningCopilot](https://github.com/SPL-BGU/PlanningCopilot) [![planning-copilot MCP server](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot/badges/score.svg)](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot) 🐍🏠 - A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.
 - [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp
+- [euanmcrosson-dotcom/mcp-recon](https://github.com/euanmcrosson-dotcom/mcp-recon) 🦀 🏠 🍎 🪟 🐧 - Deterministic, rule-based security recon for MCP servers. Enumerates a server's tools live over stdio, then classifies the tool surface against OWASP LLM Top 10 / NIST AI RMF / MITRE ATLAS and emits a findings.v1 JSON report. No LLM in the loop; same inventory in, same findings out. Companion to [capnagent](https://github.com/euanmcrosson-dotcom/capnagent) for capability-token enforcement.
+
 ## Frameworks
 
 > [!NOTE]
