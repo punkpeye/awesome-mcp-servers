@@ -362,6 +362,7 @@ Acesso a dados financeiros e ferramentas de análise. Permite que modelos de IA 
 - [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - Um servidor MCP que fornece acesso completo aos métodos JSON-RPC da Máquina Virtual Ethereum (EVM). Funciona com qualquer provedor de nó compatível com EVM, incluindo Infura, Alchemy, QuickNode, nós locais e muito mais.
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - Um servidor MCP que fornece dados de mercado de previsão em tempo real de múltiplas plataformas incluindo Polymarket, PredictIt e Kalshi. Permite que assistentes de IA consultem probabilidades atuais, preços e informações de mercado através de uma interface unificada.
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - Um servidor MCP que permite que modelos de IA consultem a blockchain Bitcoin.
+- [twzrd-sol/wzrd-final](https://github.com/twzrd-sol/wzrd-final) 📇 ☁️ - Servidor MCP de pontuação de confiança para agentes de IA no Solana. Verificações prévias gratuitas e certificados assinados via micropagamentos x402 (USDC): https://intel.twzrd.xyz/mcp
 
 ### 🎮 <a name="jogos"></a>Jogos
 
