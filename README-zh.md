@@ -428,6 +428,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - 一个MCP服务器，提供来自Polymarket、PredictIt和Kalshi等多个平台的实时预测市场数据。使AI助手能够通过统一接口查询当前赔率、价格和市场信息。
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - 一个MCP服务器，使AI模型能够查询比特币区块链。
 - [litsen/lfwin-payment-mcp](https://github.com/litsen/lfwin-payment-mcp) [![lfwin-payment-mcp MCP server](https://glama.ai/mcp/servers/litsen/lfwin-payment-mcp/badges/score.svg)](https://glama.ai/mcp/servers/litsen/lfwin-payment-mcp) 🐍 ☁️ - 酷收银支付MCP Server - AI原生支付网关（收银台/退款/查单）
+- [twzrd-sol/wzrd-final](https://github.com/twzrd-sol/wzrd-final) 📇 ☁️ - Solana AI 代理信任评分 MCP 服务器。提供免费链上预检查与 x402 微支付（USDC，1秒内结算）的已签名信任收据。托管 MCP: https://intel.twzrd.xyz/mcp
 
 ### 🎮 <a name="gaming"></a>游戏
 
