@@ -1909,6 +1909,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
+- [abm-dev-git/abm-mcp](https://github.com/abm-dev-git/abm-mcp) 📇 ☁️ - Hosted B2B account & contact enrichment for AI agents from [abm.dev](https://abm.dev). Remote MCP (OAuth 2.1 PKCE) at https://mcp.abm.dev/mcp — enrich companies & contacts with source, confidence & freshness on every field.
 - [acamolese/google-search-console-mcp](https://github.com/acamolese/google-search-console-mcp) [![acamolese/google-search-console-mcp MCP server](https://glama.ai/mcp/servers/acamolese/google-search-console-mcp/badges/score.svg)](https://glama.ai/mcp/servers/acamolese/google-search-console-mcp) 🐍 ☁️ - Google Search Console MCP server: query performance data, inspect URLs, check indexing, and generate brandable HTML SEO audit reports with a 30/60/90-day roadmap. Read-only OAuth scope, installable via `uvx mcp-google-search-console`.
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - A Model Context Protocol server for TikTok Ads API integration, enabling AI assistants to manage campaigns, analyze performance metrics, handle audiences and creatives with OAuth authentication flow.
 - [alexey-pelykh/lhremote](https://github.com/alexey-pelykh/lhremote) 📇 🏠 - Open-source CLI and MCP server for LinkedHelper automation — 32 tools for campaign management, messaging, and profile queries via Chrome DevTools Protocol.
