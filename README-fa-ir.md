@@ -798,6 +798,7 @@
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - یک سرور MCP که داده‌های بازار پیش‌بینی بی‌درنگ را از چندین پلتفرم از جمله Polymarket، PredictIt و Kalshi فراهم می‌کند. به دستیاران هوش مصنوعی امکان کوئری شانس‌ها، قیمت‌ها و اطلاعات بازار فعلی را از طریق یک رابط یکپارچه می‌دهد.
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - یک سرور MCP که به مدل‌های هوش مصنوعی امکان کوئری بلاکچین Bitcoin را می‌دهد.
 - [hive-intel/hive-crypto-mcp](https://github.com/hive-intel/hive-crypto-mcp) 📇 ☁️ 🏠 - Hive Intelligence: MCP نهایی ارزهای دیجیتال برای دستیاران هوش مصنوعی با دسترسی یکپارچه به تحلیل‌های کریپتو، DeFi و Web3
+- [twzrd-sol/wzrd-final](https://github.com/twzrd-sol/wzrd-final) 📇 ☁️ - سرور MCP برای امتیازدهی اعتماد به عوامل هوش مصنوعی در Solana. بررسی‌های رایگان پیشین و گواهی‌های امضاشده از طریق پرداخت‌های خرد x402 (USDC): https://intel.twzrd.xyz/mcp
 
 ### 🎮 <a name="gaming"></a>بازی
 
