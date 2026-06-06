@@ -2310,6 +2310,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zoharbabin/web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) [![web-researcher-mcp MCP server](https://glama.ai/mcp/servers/zoharbabin/web-researcher-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zoharbabin/web-researcher-mcp) 📇 ☁️ 🏠 - Production-grade MCP server for web search (Google, Brave, Serper, SearXNG, SearchAPI.io), content extraction (4-tier pipeline), academic/patent search, and multi-source research. Single Go binary.
 - [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
+- [zuhabul/Fetchium](https://github.com/zuhabul/Fetchium) 🦀 🏠 🍎 🪟 🐧 - Rust-native universal retrieval layer for AI agents. Federated search across 17+ backends, adaptive 5-layer content extraction (CEP), 8-signal HyperFusion ranking, multi-agent research swarm (AMRS), YouTube intelligence, unified social search (Reddit/Twitter/TikTok/HN), URL monitoring, and 12 MCP tools. Token-efficient and citation-first output. `cargo install fetchium-cli` or `npm install -g fetchium-cli`.
 
 ### 🔒 <a name="security"></a>Security
 
