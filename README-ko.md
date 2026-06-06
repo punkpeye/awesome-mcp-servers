@@ -389,7 +389,7 @@
 - [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - 이더리움 가상 머신(EVM) JSON-RPC 메서드에 대한 완전한 액세스를 제공하는 MCP 서버. Infura, Alchemy, QuickNode, 로컬 노드 등 모든 EVM 호환 노드 프로바이더와 함께 작동합니다.
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - Polymarket, PredictIt, Kalshi를 포함한 여러 플랫폼의 실시간 예측 시장 데이터를 제공하는 MCP 서버. AI 어시스턴트가 통합된 인터페이스를 통해 현재 배당률, 가격 및 시장 정보를 쿼리할 수 있게 합니다.
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - AI 모델이 비트코인 블록체인을 쿼리할 수 있게 하는 MCP 서버.
-- [twzrd-sol/wzrd-final](https://github.com/twzrd-sol/wzrd-final) 📇 ☁️ - Solana AI 에이전트를 위한 트러스트 스코어 MCP 서버. 무료 온체인 사전 확인과 x402 마이크로페이먼트(USDC, 1초 이내 결제)를 통한 서명된 트러스트 영수증 제공. 호스팅 MCP: https://intel.twzrd.xyz/mcp
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) 📇 ☁️ - Solana AI 에이전트를 위한 트러스트 스코어 MCP 서버. 무료 온체인 사전 확인과 x402 마이크로페이먼트(USDC, 1초 이내 결제)를 통한 서명된 트러스트 영수증 제공. 호스팅 MCP: https://intel.twzrd.xyz/mcp
 
 ### 🎮 <a name="gaming"></a>게임
 
