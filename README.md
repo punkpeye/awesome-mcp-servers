@@ -1216,6 +1216,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [OsamaHassouna/docs-hub](https://github.com/OsamaHassouna/docs-hub) [![OsamaHassouna/docs-hub MCP server](https://glama.ai/mcp/servers/OsamaHassouna/docs-hub/badges/score.svg)](https://glama.ai/mcp/servers/OsamaHassouna/docs-hub) 📇 ☁️ 🏠 🍎 🪟 🐧 - HTML Email Playbook — MCP server + CLI that teaches AI clients (Claude, Cursor, Cline, Codex) to write HTML email that renders in Outlook, Gmail, and Apple Mail. 4 tools, 19 rules, 6 components. Install: `npx -y email-playbook-mcp@latest`. Hosted: `https://docs.osamahassouna.com/api/mcp`.
 
+- [Trusty-Squire/trusty-squire](https://github.com/Trusty-Squire/trusty-squire) [![Trusty-Squire/trusty-squire MCP server](https://glama.ai/mcp/servers/Trusty-Squire/trusty-squire/badges/score.svg)](https://glama.ai/mcp/servers/Trusty-Squire/trusty-squire) 📇 🏠 🍎 🪟 🐧 - MCP server that lets AI coding agents sign up to dev SaaS on the user's behalf within a signed spending mandate. Autonomous API-key acquisition for 17+ verified dev services (OpenRouter, Resend, Pinecone, Sentry, Anthropic, Replicate, Convex, etc.) plus a universal-bot fallback for arbitrary services via Playwright + LLM vision.
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
