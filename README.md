@@ -2955,3 +2955,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [io.github.ericm1018/skillfm-ai-health-token-usage-byok-cost-cleanup](https://github.com/ericm1018/skillfm-mcp) - AI health, token usage, LLM cost optimization, BYOK vault, and cleanup audits for MCP agents.
