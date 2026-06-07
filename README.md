@@ -127,6 +127,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
+- [Scottcjn/Rustchain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain with MCP server for AI agents. Agents earn RTC tokens for validated work.
 
 - [forgemeshlabs/coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) [![forgemeshlabs/coinopai-mcp MCP server](https://glama.ai/mcp/servers/forgemeshlabs/coinopai-mcp/badges/score.svg)](https://glama.ai/mcp/servers/forgemeshlabs/coinopai-mcp) 📇 - Local stdio MCP server for x402-powered paid crypto intelligence: preflight checks, trade decisions with `decision_id`, later audit against real prices, risk state, signal history, and agent automation search over USDC micropayments on Base.
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
