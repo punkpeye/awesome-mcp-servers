@@ -114,6 +114,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🌐 - [Social Media](#social-media)
 * 🔮 - [Spirituality & Esoterica](#spirituality-and-esoterica)
 * 🏃 - [Sports](#sports)
+- [mercuryx402/mercury-x402-mcp](https://github.com/mercuryx402/mercury-x402-mcp) 📇 🏠 ☁️ - Agent-payable web data over x402: 18 keyless, signed-provenance services (fetch, extract, markdown, metadata, links, tables, feeds, sitemaps, DNS, diff, notarize) an agent pays for itself per call. Local (npx) + remote (network.mercury-hq.com/mcp).
 - [zafronix/wc-mcp](https://github.com/zafronix/wc-mcp) [![World Cup History MCP server](https://glama.ai/mcp/servers/zafronix/wc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zafronix/wc-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - Every FIFA World Cup since 1930. 23 tournaments, full squads, knockout brackets, stadium altitudes, hat-tricks. Free tier API.
 * 🎧 - [Support & Service Management](#support-and-service-management)
 * 🌎 - [Translation Services](#translation-services)
