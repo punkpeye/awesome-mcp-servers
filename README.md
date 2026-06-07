@@ -1281,7 +1281,7 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 Provides access to documentation and shortcuts for working on embedded devices.
 
 - [0x1abin/matter-controller-mcp](https://github.com/0x1abin/matter-controller-mcp) 📇 📟 - An MCP server for Matter Controller, enabling AI agents to control and interact with Matter devices.
-- [a4webdev/tiacommander-mcp](https://github.com/a4webdev/tiacommander-mcp) #️⃣ 🏠 📟 🪟 - MCP server for Siemens TIA Portal — AI-assisted PLC programming, hardware config, cross-references, and deployment via the Openness API. 16 tools, 166 actions.
+- [a4webdev/tiacommander-mcp](https://github.com/a4webdev/tiacommander-mcp) [![a4webdev/tiacommander-mcp MCP server](https://glama.ai/mcp/servers/a4webdev/tiacommander-mcp/badges/score.svg)](https://glama.ai/mcp/servers/a4webdev/tiacommander-mcp) #️⃣ 🏠 📟 🪟 - MCP server for Siemens TIA Portal — AI-assisted PLC programming, hardware config, cross-references, and deployment via the Openness API. 16 tools, 166 actions.
 - [adancurusul/embedded-debugger-mcp](https://github.com/adancurusul/embedded-debugger-mcp) 🦀 📟 - A Model Context Protocol server for embedded debugging with probe-rs - supports ARM Cortex-M, RISC-V debugging via J-Link, ST-Link, and more
 - [adancurusul/serial-mcp-server](https://github.com/adancurusul/serial-mcp-server) 🦀 📟 - A comprehensive MCP server for serial port communication
 - [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - Workflow for fixing build issues in ESP32 series chips using ESP-IDF.
