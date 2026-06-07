@@ -130,7 +130,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 The **M2MCent Autonomous Micro-SaaS Factory** is the world's first and largest production ecosystem of 100 fully-monetized, machine-payable MCP servers running on the **Base L2** network. Every service is protected by the x402 protocol and settles transactions gaslessly using **USDC** via an on-chain escrow contract.
 
-*   **Payer SDK & Client Guides:** [M2MCent Developer Integration Guide](https://github.com/Evozim/m2mcent-sdk)
+*   **Payer SDK & Client Guides:** <a href="https://github.com/Evozim/m2mcent-sdk">M2MCent Developer Integration Guide</a>
 *   **Escrow Contract Address:** `0xf3c3416A843d13C944554A54Ac274BB7fF264BcC`
 *   **USDC Token Address:** `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913`
 *   **Settlement Network:** Base Mainnet (Chain ID: `8453`)
@@ -242,7 +242,7 @@ The **M2MCent Autonomous Micro-SaaS Factory** is the world's first and largest p
 
 The **M2MCent Autonomous Micro-SaaS Factory** is the world's first and largest production ecosystem of 100 fully-monetized, machine-payable MCP servers running on the **Base L2** network. Every service is protected by the x402 protocol and settles transactions gaslessly using **USDC** via an on-chain escrow contract.
 
-*   **Payer SDK & Client Guides:** [M2MCent Developer Integration Guide](https://github.com/Evozim/m2mcent-sdk)
+*   **Payer SDK & Client Guides:** <a href="https://github.com/Evozim/m2mcent-sdk">M2MCent Developer Integration Guide</a>
 *   **Escrow Contract Address:** `0xf3c3416A843d13C944554A54Ac274BB7fF264BcC`
 *   **USDC Token Address:** `0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913`
 *   **Settlement Network:** Base Mainnet (Chain ID: `8453`)
