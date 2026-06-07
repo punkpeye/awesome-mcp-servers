@@ -94,6 +94,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
 * 🛒 - [E-Commerce](#e-commerce)
+- [lm203688/atex](https://github.com/lm203688/atex) [![Glama Badge](https://glama.ai/mcp/servers/lm203688/atex/badges/score.svg)](https://glama.ai/mcp/servers/lm203688/atex) 🐍 ☁️ 🏠 — Agent Service Trading Platform + Multi-AI API SaaS. 28+ services, token trading, DeepSeek/OpenAI/Claude API proxy. Pay per call, OpenAI-compatible.
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
