@@ -1247,7 +1247,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 
 MCP servers for weather, climate, atmospheric data, and earth observation tools.
 
-- [Tarun-004/Weather-MCP-Server](https://github.com/Tarun-004/Weather-MCP-Server) 🐍 ☁️ 🍎 🪟 🐧 - Real-time weather data server powered by OpenWeatherMap. Provides current conditions, sky state (sunny/cloudy/rainy), air quality index (AQI) with health advisories, and a 5-day plain-English forecast.
+- [Tarun-004/Weather-MCP-Server](https://github.com/Tarun-004/Weather-MCP-Server) [![Tarun-004/Weather-MCP-Server MCP server](https://glama.ai/mcp/servers/Tarun-004/Weather-MCP-Server/badges/score.svg)](https://glama.ai/mcp/servers/Tarun-004/Weather-MCP-Server) 🐍 ☁️ 🍎 🪟 🐧 - Real-time weather data server powered by OpenWeatherMap. Provides current conditions, sky state (sunny/cloudy/rainy), air quality index (AQI) with health advisories, and a 5-day plain-English forecast.
 
 ### 🎓 <a name="education"></a>Education
 
