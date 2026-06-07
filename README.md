@@ -2938,3 +2938,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [io.github.Aimino-Tech/fast-html-mcp](https://github.com/Aimino-Tech/fast-html-mcp-server) - Lightning-fast HTML generation from AI agents with 15 tools, 22 components, and 25 templates.
