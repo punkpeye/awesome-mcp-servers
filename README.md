@@ -2374,6 +2374,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 
 ### 🔒 <a name="security"></a>Security
+- **SupraWall MCP Plugin** - Deterministic policy enforcement and audit logging for MCP tool calls. Apache 2.0. [supra-wall.com](https://supra-wall.com)
 
 - [honeylabshq/honeylabs-mcp](https://github.com/honeylabshq/honeylabs-mcp) [![honeylabs-mcp MCP server](https://glama.ai/mcp/servers/honeylabshq/honeylabs-mcp/badges/score.svg)](https://glama.ai/mcp/servers/honeylabshq/honeylabs-mcp) 🐍 ☁️ - Honeypot threat intelligence for AI agents: 90 days of probe data from a sensor network for IP reputation, scanner classification, CVE probing trends, and JA4/JA4H/HASSH fingerprints. Remote MCP, free tier.
 - [srinivasan-sundaresan95/orihime](https://github.com/srinivasan-sundaresan95/orihime) [![orihime MCP server](https://glama.ai/mcp/servers/srinivasan-sundaresan95/orihime/badges/score.svg)](https://glama.ai/mcp/servers/srinivasan-sundaresan95/orihime) 🐍 🏠 🍎 🪟 🐧 - Cross-repository code knowledge graph MCP server for Java, Kotlin, JavaScript, and TypeScript. Indexes source into embedded KuzuDB via tree-sitter; 30+ tools for call-flow tracing, multi-hop taint analysis (OWASP/CWE/PCI/STIG reports), entry-point reachability filtering, performance hotspot detection, and license compliance — without reading source files. 95% fewer tokens vs source-reading baseline. `pip install orihime`
