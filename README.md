@@ -2946,6 +2946,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [vivek081166/japan-utils-mcp](https://github.com/vivek081166/japan-utils-mcp) [![vivek081166/japan-utils-mcp MCP server](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp) 🐍 🏠 🍎 🪟 🐧 - Japan-specific utilities for AI agents: era ↔ Western year conversion (令和8年 ↔ 2026), kanji-to-romaji transliteration, 7-digit postal code lookup, national holiday calendar, hiragana ↔ katakana conversion, full-width ↔ half-width normalization, and statistical Japanese name splitting. 9 tools, MIT licensed, installable via `uvx japan-utils-mcp`.
 
 ## Tips and Tricks
+- [sovanza-inc/sariea-mcp](https://github.com/sovanza-inc/sariea-mcp) [![sovanza-inc/sariea-mcp MCP server](https://glama.ai/mcp/servers/sovanza-inc/sariea-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sovanza-inc/sariea-mcp) 📇 ☁️ 🍎 🪟 🐧 - Browse, register, and book home & professional services on **Sariea** — Saudi Arabia's on-demand services marketplace. Remote MCP at `https://mcp.sariea.com/mcp` (OAuth via phone OTP). 8 tools covering the catalog, bidding-request lifecycle (create, view bids, accept), and order history.
 
 ### Official prompt to inform LLMs how to use MCP
 
