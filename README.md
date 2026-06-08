@@ -1730,6 +1730,7 @@ Integration with gaming related data, game engines, and services
 - [tomholford/mcp-tic-tac-toe](https://github.com/tomholford/mcp-tic-tac-toe) 🏎️ 🏠 - Play Tic Tac Toe against an AI opponent using this MCP server.
 - [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) 📇 🏠 🍎 🪟 🐧 - Premium MCP server for Godot game engine with 84 tools for scene editing, scripting, animation, tilemap, shader, input simulation, and runtime debugging.
 - [HadiCherkaoui/crafty-mcp](https://github.com/HadiCherkaoui/crafty-mcp) [![HadiCherkaoui/crafty-mcp MCP server](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp) 📇 🏠 🍎 🪟 🐧 - MCP server for managing Minecraft servers through [Crafty Controller 4](https://craftycontrol.com). Start, stop, backup, send commands, manage files, schedules, webhooks, and users via the Crafty API.
+- [vucinatim/air-jam](https://github.com/vucinatim/air-jam) 🎖️ 📇 🏠 - Official MCP server for [Air Jam](https://airjam.io), an open-source framework for QR-code phone-controller multiplayer party games. Tools for project inspection, dev/build logs, quality gates, screenshot capture, and publishing games to the arcade. Designed for AI-assisted game development (Claude Code, Cursor, etc.).
 
 ### 🏠 <a name="home-automation"></a>Home Automation
 
