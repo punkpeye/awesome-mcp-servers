@@ -428,7 +428,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - 一个MCP服务器，提供来自Polymarket、PredictIt和Kalshi等多个平台的实时预测市场数据。使AI助手能够通过统一接口查询当前赔率、价格和市场信息。
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - 一个MCP服务器，使AI模型能够查询比特币区块链。
 - [litsen/lfwin-payment-mcp](https://github.com/litsen/lfwin-payment-mcp) [![lfwin-payment-mcp MCP server](https://glama.ai/mcp/servers/litsen/lfwin-payment-mcp/badges/score.svg)](https://glama.ai/mcp/servers/litsen/lfwin-payment-mcp) 🐍 ☁️ - 酷收银支付MCP Server - AI原生支付网关（收银台/退款/查单）
-- [NengjiangLunpi/astockevent-mcp](https://github.com/NengjiangLunpi/astockevent-mcp) 🐍 ☁️ — 实时A股公告结构化事件流。可信度分级信任层（已验证/可能/不确定）配合cninfo/szse/eastmoney/sina四源交叉验证。覆盖股东减持、ST/退市风险、监管函/问询函、限售股解禁、股份回购，持续扩展中。3个MCP工具（持续增长），stdio传输。`pip install astockevent`
+- [AStockEvent](https://github.com/NengjiangLunpi/astockevent-mcp) 🐍 🏠 [![NengjiangLunpi/astockevent-mcp MCP server](https://glama.ai/mcp/servers/NengjiangLunpi/astockevent-mcp/badges/score.svg)](https://glama.ai/mcp/servers/NengjiangLunpi/astockevent-mcp) — A股公告结构化事件流，面向 AI Agent。16 个 MCP 工具覆盖 13 种事件类型（减持/ST退市/监管函/限售解禁/回购/资产重组/停复牌/质押/业绩预告/增持/分红/违规处罚/可转债）。可信度三级（已验证/可能/不确定）配合多源交叉验证。`pip install astockevent`。免费额度可用。
 
 ### 🎮 <a name="gaming"></a>游戏
 
