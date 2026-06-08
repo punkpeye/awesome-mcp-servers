@@ -2968,3 +2968,7 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+### Aggregators (new)
+
+- 🐍 ☁️ [Prowl](https://github.com/opcastil11/prowl-bench) - Agent Discovery Network. Independent multi-LLM benchmark scores for any API across 8 dimensions of agent-readiness (token efficiency, first-try success, error clarity, etc). MCP server exposes discovery + scoring as tools.
