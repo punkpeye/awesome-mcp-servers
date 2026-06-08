@@ -684,6 +684,7 @@ Tools for encrypting and decrypting data.
 Provides access to customer profiles inside of customer data platforms
 
 - [antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
+- [favcrm/mcp](https://github.com/favcrm/mcp) 🎖️ 📇 ☁️ - Agentic CRM for service businesses — bookings, customers, WhatsApp, loyalty, and invoicing via 194 typed tools. Hosted remote MCP (Streamable HTTP) with agentic registration (spin up a workspace from chat, no pre-existing API key).
 - [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) 📇 🏠 - Generate visual charts using [Apache ECharts](https://echarts.apache.org) with AI MCP dynamically.
 - [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - Generate [mermaid](https://mermaid.js.org/) diagram and chart with AI MCP dynamically.
 - [iaptic/mcp-server-iaptic](https://github.com/iaptic/mcp-server-iaptic) 🎖️ 📇 ☁️ - Connect with [iaptic](https://www.iaptic.com) to ask about your Customer Purchases, Transaction data and App Revenue statistics.
