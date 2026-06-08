@@ -115,6 +115,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔮 - [Spirituality & Esoterica](#spirituality-and-esoterica)
 * 🏃 - [Sports](#sports)
 - [zafronix/wc-mcp](https://github.com/zafronix/wc-mcp) [![World Cup History MCP server](https://glama.ai/mcp/servers/zafronix/wc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zafronix/wc-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - Every FIFA World Cup since 1930. 23 tournaments, full squads, knockout brackets, stadium altitudes, hat-tricks. Free tier API.
+- [SwingFix AI](https://github.com/laobuilt/swingfix-mcp) - AI golf swing analysis powered by Claude Vision. Submit a swing image URL and receive a scored analysis with detected flaws, coaching summary and personalised drill recommendations.
 * 🎧 - [Support & Service Management](#support-and-service-management)
 * 🌎 - [Translation Services](#translation-services)
 * 🎧 - [Text-to-Speech](#text-to-speech)
