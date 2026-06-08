@@ -2050,6 +2050,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [OrbiAds/Orbiads-GAM-MCP](https://github.com/OrbiAds/Orbiads-GAM-MCP) [![OrbiAds/Orbiads-GAM-MCP MCP server](https://glama.ai/mcp/servers/OrbiAds/Orbiads-GAM-MCP/badges/score.svg)](https://glama.ai/mcp/servers/OrbiAds/Orbiads-GAM-MCP) 🐍 ☁️ - Hosted Google Ad Manager MCP server for Claude, ChatGPT, Gemini, and Codex. 200+ tools across campaign management, line items, creatives (image/video/HTML5/native), interactive reporting, inventory exploration, and ad-ops compliance audits. OAuth on-behalf-of-user, GAM API v202602. Free trial at [orbiads.com](https://orbiads.com) — 5 credits, no credit card.
 
 ### 📊 <a name="monitoring"></a>Monitoring
+- [Nareshdevelop/fdl-mcp-server](https://github.com/Nareshdevelop/fdl-mcp-server) [![Nareshdevelop/fdl-mcp-server MCP server](https://glama.ai/mcp/servers/Nareshdevelop/fdl-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Nareshdevelop/fdl-mcp-server) 📇 ☁️ - Free SMB website audit + AI-visibility check + redesign preview. 5 tools, no API key required, deterministic scoring.
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
