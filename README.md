@@ -2965,6 +2965,8 @@ Now Claude can answer questions about writing MCP servers and how they work
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
+   <img alt="Star History Chart" src=
+- [Stash](https://github.com/dancourse/stash) - Token-light hosted record store. Store, search and retrieve lists (contacts, tasks, notes, Notion exports) inside Claude with per-user SQLite + FTS5. `context()` loads standing context in one call. Free Google OAuth signup, remote HTTP connector.
+"https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
