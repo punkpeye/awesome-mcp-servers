@@ -2968,3 +2968,6 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+
+- [gadspilot](https://gadspilot.com) - MCP servers for Google Ads (76 tools), Search Console (16), and Meta Ads (14). Real-time data, OAuth 2.1, dry-run writes. Free beta, EU-hosted.
