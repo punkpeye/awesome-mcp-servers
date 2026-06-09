@@ -114,6 +114,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🌐 - [Social Media](#social-media)
 * 🔮 - [Spirituality & Esoterica](#spirituality-and-esoterica)
 * 🏃 - [Sports](#sports)
+- [abaiii168/world-cup-2026-mcp-server](https://github.com/abaiii168/world-cup-2026-mcp-server) 📇 ☁️ 🏠 🍎 🪟 🐧 - Free MCP server for the World Cup 2026 Tour public schedule API. Fetch all 104 fixtures, the next match, one match by id, and Dataset JSON-LD in local time zones. No API key required.
 - [zafronix/wc-mcp](https://github.com/zafronix/wc-mcp) [![World Cup History MCP server](https://glama.ai/mcp/servers/zafronix/wc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zafronix/wc-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - Every FIFA World Cup since 1930. 23 tournaments, full squads, knockout brackets, stadium altitudes, hat-tricks. Free tier API.
 * 🎧 - [Support & Service Management](#support-and-service-management)
 * 🌎 - [Translation Services](#translation-services)
