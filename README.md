@@ -846,6 +846,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 - [yashshingvi/databricks-genie-MCP](https://github.com/yashshingvi/databricks-genie-MCP) 🐍 ☁️ - A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.
 - [Younghef/nutriref-api](https://github.com/Younghef/nutriref-api) [![Younghef/nutriref-api MCP server](https://glama.ai/mcp/servers/Younghef/nutriref-api/badges/score.svg)](https://glama.ai/mcp/servers/Younghef/nutriref-api) 🐍 ☁️ 🍎 🪟 🐧 - USDA FoodData Central nutrition for AI agents — pay-per-call in USDC on Base via x402. Four tools (search, detail, compare, recipe) at $0.001–$0.005 per call. No signup, no API keys; MCPB-packaged for one-click install.
 - [Leekangbum/networklytics-mcp](https://github.com/Leekangbum/networklytics-mcp) [![Leekangbum/networklytics-mcp MCP server](https://glama.ai/mcp/servers/Leekangbum/networklytics-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Leekangbum/networklytics-mcp) 🐍 - YouTube comment social network analysis (SNA): influencer centrality ranking, community detection (Louvain), sentiment analysis, and public JSON API for AI agents
+- [peakyragnar/exascale-mcp](https://github.com/peakyragnar/exascale-mcp) ☁️ - Agent-ready, source-cited US power data: operating, planned & retired capacity (EIA-860M), net generation (EIA-923), and capacity factor over MCP + REST. No auth; every value verifiable to its raw source cell via a SHA-256 evidence handle.
 
 
 
