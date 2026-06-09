@@ -2111,6 +2111,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🎖️ 🏎️ 🏠 - Provides comprehensive integration with your [VictoriaMetrics instance APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances
 - [yshngg/pmcp](https://github.com/yshngg/pmcp) 🏎️ ☁️ 🏠 🍎 🪟 🐧 - A Prometheus Model Context Protocol Server.
 - [zw008/VMware-Aria](https://github.com/zw008/VMware-Aria) [![zw008/vmware-aria MCP server](https://glama.ai/mcp/servers/zw008/vmware-aria/badges/score.svg)](https://glama.ai/mcp/servers/zw008/vmware-aria) 🐍 ☁️ - VMware Aria Operations monitoring — performance metrics, alarms, capacity analysis, and anomaly detection across vSphere infrastructure. 27 tools (21 read, 6 write) with audit logging for acknowledge/cancel actions.
+- [aayushmdesai14/mcp-dotnet-diagnostics](https://github.com/aayushmdesai14/mcp-dotnet-diagnostics) 🏠 🍎 🐧 - Live .NET runtime diagnostics for AI assistants. Ask Claude to diagnose memory leaks, GC pressure, LOH fragmentation, and thread starvation in any running .NET process — no code changes required. Install: `dotnet tool install -g mcp-dotnet-diagnostics`
 
 ### 🎥 <a name="multimedia-process"></a>Multimedia Process
 
