@@ -100,6 +100,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
+- [MiniosZou/vexdb-active-memory](https://github.com/MiniosZou/vexdb-active-memory) [![vexdb-active-memory MCP server](https://glama.ai/mcp/servers/MiniosZou/vexdb-active-memory/badges/score.svg)](https://glama.ai/mcp/servers/MiniosZou/vexdb-active-memory) 🐍 ☁️ 🏠 - Database-native active memory MCP server for AI agents with semantic UPSERT, conflict resolution, forgetting archive, hybrid retrieval, concurrency control, and audit trail.
+
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
 * 🎯 - [Marketing](#marketing)
