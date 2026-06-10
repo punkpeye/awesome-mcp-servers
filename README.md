@@ -2823,3 +2823,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [CorpusIQ](https://www.corpusiq.io) - Connect AI agents to 36+ live business data sources (QuickBooks, Shopify, Google Ads, GA4, Stripe, HubSpot, PostgreSQL, MSSQL, MongoDB, and 26 more) for grounded operational intelligence. Free 30-day trial.
