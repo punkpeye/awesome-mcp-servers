@@ -2611,6 +2611,7 @@ Translation tools and services to enable AI assistants to translate content betw
 - [mmntm/weblate-mcp](https://github.com/mmntm/weblate-mcp) 📇 ☁️ - Comprehensive Model Context Protocol server for Weblate translation management, enabling AI assistants to perform translation tasks, project management, and content discovery with smart format transformations.
 - [shuji-bonji/xcomet-mcp-server](https://github.com/shuji-bonji/xcomet-mcp-server) 📇 🏠 - Translation quality evaluation using xCOMET models. Provides quality scoring (0-1), error detection with severity levels (minor/major/critical), and optimized batch processing with 25x speedup.
 - [translated/lara-mcp](https://github.com/translated/lara-mcp) 🎖️ 📇 ☁️ - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.
+- [vitalinguist/ukr-vitalinguist-mcp](https://github.com/vitalinguist/ukr-vitalinguist-mcp) 🐍 🏠 ☁️ - Ukrainian language reference with grammar check, surzhyk detection, and authentic-rendering lookup. 29.5k EN→UA senses (Балла 1996) + 6k antisurzhyk calque pairs (Сербенська, Караванський, Антоненко-Давидович). Listed in the [official MCP Registry](https://registry.modelcontextprotocol.io/).
 
 ### 🎙️ <a name="speech-to-text"></a>Speech-to-Text
 
