@@ -52,7 +52,6 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
   * ☕ - Java codebase
   * 🌊 – C/C++ codebase
   * 💎 - Ruby codebase
-  * ⚡ – Zig codebase
 
 * scope
   * ☁️ - Cloud Service
@@ -771,7 +770,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [ofershap/mcp-server-sqlite](https://github.com/ofershap/mcp-server-sqlite) [![mcp-server-sqlite MCP server](https://glama.ai/mcp/servers/ofershap/mcp-server-sqlite/badges/score.svg)](https://glama.ai/mcp/servers/ofershap/mcp-server-sqlite) 📇 🏠 - SQLite operations — query databases, inspect schemas, explain queries, and export data.
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - Query and analyze Azure Data Explorer databases
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ -  Query and analyze Prometheus, open-source monitoring system.
-- [PaytonWebber/sqlite-mcp](https://github.com/PaytonWebber/sqlite-mcp) ⚡ 🏠 🍎 🪟 🐧 - Read-only SQLite access in a single ~1 MB static binary with no runtime to install. Query tool with row limits, plus table schemas exposed as resources.
+- [PaytonWebber/sqlite-mcp](https://github.com/PaytonWebber/sqlite-mcp) 🏠 🍎 🪟 🐧 - Read-only SQLite access in a single ~1 MB static binary with no runtime to install. Query tool with row limits, plus table schemas exposed as resources.
 - [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍🗄️ - provides AI-powered PostgreSQL performance tuning capabilities.
 - [pilat/mcp-datalink](https://github.com/pilat/mcp-datalink) 📇 🏠 - MCP server for secure database access (PostgreSQL, MySQL, SQLite) with parameterized queries and schema inspection
 - [planetscale/mcp](https://github.com/planetscale/cli?tab=readme-ov-file#mcp-server-integration) - The PlanetScale CLI includes an MCP server that provides AI tools direct access to your PlanetScale databases.
