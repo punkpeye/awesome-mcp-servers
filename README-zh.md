@@ -403,6 +403,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [iiatlas/hledger-mcp](https://github.com/iiAtlas/hledger-mcp) 📇 🏠 🍎 🪟 - 在你的 LLM 中进行复式纯文本记账！这个 MCP 提供对本地 [HLedger](https://hledger.org/) 记账日记账的全面读取，以及（可选的）写入访问。
 - [@base/base-mcp](https://github.com/base/base-mcp) 🎖️ 📇 ☁️ - 集成Base网络的链上工具，支持与Base网络及Coinbase API交互，实现钱包管理、资金转账、智能合约和DeFi操作
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - 使用 CoinCap 的公共 API 集成实时加密货币市场数据，无需 API 密钥即可访问加密货币价格和市场信息
+- [achuan101/agentladle-mcp](https://github.com/achuan101/agentladle-mcp) ☁️ - AgentLadle MCP 服务，提供中国A股市场年度财务报告的全文搜索、页面提取和结构化数据分析能力。
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - Coinmarket API 集成以获取加密货币列表和报价
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API 集成，用于获取股票和加密货币信息
 - [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - 通过deBridge协议实现EVM和Solana区块链之间的跨链兑换和桥接。使AI代理能够发现最优路径、评估费用并发起非托管交易。
