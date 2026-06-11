@@ -107,6 +107,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🎥 - [Multimedia Process](#multimedia-process)
 * 🖥️ - [OS Automation](#os-automation)
 * 📋 - [Product Management](#product-management)
+* 🏗️ - [Construction & Civil Engineering](#construction)
 * 🏠 - [Real Estate](#real-estate)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
@@ -2236,6 +2237,12 @@ MCP servers for real estate CRM, property management, and agent workflows.
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
 - [forgemeshlabs/disruption-intelligence-mcp](https://github.com/forgemeshlabs/disruption-intelligence-mcp) [![forgemeshlabs/disruption-intelligence-mcp MCP server](https://glama.ai/mcp/servers/forgemeshlabs/disruption-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/servers/forgemeshlabs/disruption-intelligence-mcp) 📇 ☁️ - AI-native commercial disruption intelligence for MCP clients and x402-powered agents. Supports WARN/layoff intelligence, company context, geospatial territory disruption, and x402 payment challenge inspection via the hosted Forgemesh API.
 - [jbechtel-97/dealflowpro-mcp-server](https://github.com/jbechtel-97/dealflowpro-mcp-server) [![jbechtel-97/dealflowpro-mcp-server MCP server](https://glama.ai/mcp/servers/jbechtel-97/dealflowpro-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/jbechtel-97/dealflowpro-mcp-server) 📇 ☁️ - Multifamily real estate deal analysis — cap rate, DSCR, cash-on-cash, IRR, DFP Score (0-100), max offer price, and market intelligence for 2-200 unit properties.
+
+### 🏗️ <a name="construction"></a>Construction & Civil Engineering
+
+MCP servers for construction data, building codes, and engineering calculations.
+
+- [Nasty-Fury/buildcalcapi-mcp-server](https://github.com/Nasty-Fury/buildcalcapi-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - Vertical construction data API for AI agents. ~105 MCP tools across 5 verticals: 81 building-code-grounded calculators (concrete, framing, HVAC sizing, NEC electrical, IRC stairs); 937 IRC/IBC/NEC/IECC/IPC code sections with full-text search (dual-edition 2021/2024); federal cost data (BLS PPI materials + OEWS/QCEW labor wages by MSA/county/ZIP + Census BPS permits for 7,800+ jurisdictions); 43,400+ certified product SKUs (ENERGY STAR, ICC-ES ESR, NFRC CPD, EPA WaterSense, Simpson Strong-Tie); 15 standardized US residential project benchmarks. 96% certified-grade from federal/regulatory sources. Free tier 1,000 req/month.
 
 ### 🔬 <a name="research"></a>Research
 
