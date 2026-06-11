@@ -34,6 +34,9 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+* [MCP Servers 2026: Rankings & Selection Decision Tree](https://dibi8.com/resources/llm-frameworks/mcp-servers-2026-rankings-selection-guide/) - Curated top 30 servers across stdio / HTTP-SSE / OAuth-bridged transport modes with a decision tree to pick servers without drowning in registries.
+* [MCP Server Security Audit 2026](https://dibi8.com/resources/llm-frameworks/mcp-server-security-audit-2026-real-cases/) - 5 real community server audits (typosquats, telemetry exfiltration, over-scoped tokens) plus an 8-point pre-install checklist that takes 5 minutes per server.
+* [Claude Code MCP Advanced: 10-Server Production Stack](https://dibi8.com/resources/llm-frameworks/claude-code-mcp-advanced-10-server-stack-2026/) - Production-tested 10-server stack balancing power, security, and startup time; covers global vs per-project config patterns.
 
 ## Community
 
