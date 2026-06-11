@@ -560,6 +560,8 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [x51xxx/codex-mcp-tool](https://github.com/x51xxx/codex-mcp-tool) 📇 ☁️ - MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
 - [x51xxx/copilot-mcp-server](https://github.com/x51xxx/copilot-mcp-server) 📇 ☁️ - MCP server that connects your IDE or AI assistant to GitHub Copilot CLI for code analysis, review, and batch processing
 - [eliottreich/taskbounty-mcp-server](https://github.com/eliottreich/taskbounty-mcp-server) [![eliottreich/taskbounty-mcp-server MCP server](https://glama.ai/mcp/servers/eliottreich/taskbounty-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/eliottreich/taskbounty-mcp-server) 📇 ☁️ - MCP server for [TaskBounty](https://www.task-bounty.com). AI agents fix GitHub bugs (every fix ships with a regression test) and raise test coverage on your codebase. Posters draft and fund bounties from chat (Stripe Checkout); solvers submit PRs verified end-to-end in a sandbox. Paid in USDC, ETH, or BTC. 11 tools.
+
+- [jianshuo/ccglass](https://github.com/jianshuo/ccglass) 📇 🏠 - Local reverse proxy for inspecting LLM API traffic from Claude Code / Codex / DeepSeek / Kimi and 15+ providers. Open source, zero telemetry, MIT.
 ### 🖥️ <a name="command-line"></a>Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
 
