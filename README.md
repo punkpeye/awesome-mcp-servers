@@ -2166,6 +2166,8 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [zw008/VMware-Aria](https://github.com/zw008/VMware-Aria) [![zw008/vmware-aria MCP server](https://glama.ai/mcp/servers/zw008/vmware-aria/badges/score.svg)](https://glama.ai/mcp/servers/zw008/vmware-aria) 🐍 ☁️ - VMware Aria Operations monitoring — performance metrics, alarms, capacity analysis, and anomaly detection across vSphere infrastructure. 27 tools (21 read, 6 write) with audit logging for acknowledge/cancel actions.
 - [aayushmdesai/mcp-dotnet-diagnostics](https://github.com/aayushmdesai/mcp-dotnet-diagnostics) [![aayushmdesai/mcp-dotnet-diagnostics MCP server](https://glama.ai/mcp/servers/aayushmdesai/mcp-dotnet-diagnostics/badges/score.svg)](https://glama.ai/mcp/servers/aayushmdesai/mcp-dotnet-diagnostics) 🏠 🍎 🐧 - Live .NET runtime diagnostics for AI assistants. Ask Claude to diagnose memory leaks, GC pressure, LOH fragmentation, and thread starvation in any running .NET process — no code changes required. Install: `dotnet tool install -g mcp-dotnet-diagnostics`
 
+- [Prismix](https://prismix.dev/api-docs) 📇 ☁️ - Real-time status monitoring for 75+ AI services (OpenAI, Anthropic, Cursor, Mistral, Perplexity, DeepSeek, xAI, and more). Ask Claude "Is Anthropic down?" for live operational status, active incidents, and 30-day uptime. Cloud-hosted MCP server; add `"url": "https://prismix.dev/api/v1/mcp"` to claude_desktop_config.json.
+
 ### 🎥 <a name="multimedia-process"></a>Multimedia Process
 
 Provides the ability to handle multimedia, such as audio and video editing, playback, format conversion, also includes video filters, enhancements, and so on
