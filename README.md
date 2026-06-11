@@ -2596,6 +2596,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 Astrology, tarot, numerology, Vedic systems, Human Design and other divinatory or esoteric tools — for AI agents that compute charts, draw cards, run dasha cycles, or generate horoscopes.
 
 - [astroway/astroway-mcp](https://github.com/astroway/astroway-mcp) [![astroway/astroway-mcp MCP server](https://glama.ai/mcp/servers/astroway/astroway-mcp/badges/score.svg)](https://glama.ai/mcp/servers/astroway/astroway-mcp) 📇 ☁️ 🍎 🪟 🐧 - Comprehensive astrology MCP exposing every endpoint of the AstroWay Calculation API — natal charts, synastry, transits, Vedic dashas (Vimshottari, Yogini, Ashtottari, Kalachakra), 16 Vargas, Tarot (Rider-Waite-Smith / Marseille / Lenormand), Numerology (5 systems), Human Design, AI horoscopes. Sub-arcsecond Swiss Ephemeris precision, 10 000 free credits/month. Install: `npx @astroway/mcp`.
+- [LouisLin0723/ziwei-mcp](https://github.com/LouisLin0723/ziwei-mcp) 🎖️ 📇 ☁️ - Zi Wei Dou Shu (紫微斗数 / Purple Star Astrology) MCP by [FateStar](https://www.fatestar.top): full natal chart + 6-level transits (decade / annual / monthly / daily / hourly / 斗君) from a self-built San He–school engine — 102 stars, true-solar-time correction, 30+ classical patterns with citations, 0 third-party charting libs. Hosted, no key for chart casting: `npx mcp-remote https://www.fatestar.top/api/mcp`.
 
 ### 🏃 <a name="sports"></a>Sports
 
