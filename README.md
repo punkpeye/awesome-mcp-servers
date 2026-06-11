@@ -1232,6 +1232,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [OsamaHassouna/docs-hub](https://github.com/OsamaHassouna/docs-hub) [![OsamaHassouna/docs-hub MCP server](https://glama.ai/mcp/servers/OsamaHassouna/docs-hub/badges/score.svg)](https://glama.ai/mcp/servers/OsamaHassouna/docs-hub) 📇 ☁️ 🏠 🍎 🪟 🐧 - HTML Email Playbook — MCP server + CLI that teaches AI clients (Claude, Cursor, Cline, Codex) to write HTML email that renders in Outlook, Gmail, and Apple Mail. 4 tools, 19 rules, 6 components. Install: `npx -y email-playbook-mcp@latest`. Hosted: `https://docs.osamahassouna.com/api/mcp`.
 
+- [aimasteracc/tree-sitter-analyzer](https://github.com/aimasteracc/tree-sitter-analyzer) [![aimasteracc/tree-sitter-analyzer MCP server](https://glama.ai/mcp/servers/aimasteracc/tree-sitter-analyzer/badges/score.svg)](https://glama.ai/mcp/servers/aimasteracc/tree-sitter-analyzer) 🐍 🏠 🍎 🪟 🐧 - Cross-language-safe code intelligence for AI agents: a classified, cross-file call graph across 13 languages (Python, Java, Go, JS, TS, C, C++, Rust, C#, Kotlin, Ruby, PHP, Swift) that refuses to mis-wire calls between languages. 8 facade tools, TOON-compressed output (50-70% fewer tokens than JSON), 100% local. Run `uvx --from tree-sitter-analyzer miswire-audit .` to audit your repo for cross-language mis-wires.
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
