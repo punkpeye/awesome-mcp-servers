@@ -199,6 +199,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
+- <img src="https://cdn.simpleicons.org/checkmarx/54C0E7" height="14"/> [Domain Monitor MCP Server](https://github.com/iPythoning/domain-monitor-mcp-server) - Domain WHOIS and SSL certificate monitoring via RDAP and crt.sh. Single or batch domain checks with severity classification. Zero API keys required.
 - <img src="https://metoro.io/static/images/logos/Metoro.svg" height="14"/> [Metoro](https://github.com/metoro-io/metoro-mcp-server) - Query and interact with kubernetes environments monitored by Metoro
 - <img src="https://raygun.com/favicon.ico" height="14"/> [Raygun](https://github.com/MindscapeHQ/mcp-server-raygun) - Raygun API V3 integration for crash reporting and real user monitoring
 - <img src="https://cdn.simpleicons.org/sentry/546E7A" height="14"/> [Sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) - Sentry.io integration for error tracking and performance monitoring
