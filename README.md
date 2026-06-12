@@ -573,6 +573,7 @@ Run commands, capture output and otherwise interact with shells and command line
 - [LukeLamb/claude-terminal-mcp](https://github.com/LukeLamb/claude-terminal-mcp) [![LukeLamb/claude-terminal-mcp MCP server](https://glama.ai/mcp/servers/LukeLamb/claude-terminal-mcp/badges/score.svg)](https://glama.ai/mcp/servers/LukeLamb/claude-terminal-mcp) 📇 🏠 🐧 🍎 - Terminal, filesystem, and background-job tools for Claude Desktop on Linux/macOS. Zero npm deps, pure Node.
 - [HasanJahidul/terminal-history-mcp](https://github.com/HasanJahidul/terminal-history-mcp) [![HasanJahidul/terminal-history-mcp MCP server](https://glama.ai/mcp/servers/HasanJahidul/terminal-history-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasanJahidul/terminal-history-mcp) 📇 🏠 🍎 🐧 - Full-text search over your shell history (zsh / bash / fish) via SQLite FTS5. Local-only. 11-pattern secret redaction runs BEFORE insert. Captures cwd / exit code / duration via opt-in shell hook. Tools: `search_history`, `recent_in_dir`, `failed_commands`, `command_chains`, `reindex`.
 - [HasanJahidul/localhost-mcp](https://github.com/HasanJahidul/localhost-mcp) [![localhost-mcp MCP server](https://glama.ai/mcp/servers/HasanJahidul/localhost-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasanJahidul/localhost-mcp) 📇 🏠 🍎 🪟 🐧 - Inspect, manage, and kill local dev servers. Lists what's listening on each port (pid, framework, project, uptime, memory, cpu), diagnoses port conflicts with free alternatives nearby, finds zombie processes, and kills by pid or port with a dry-run default.
+- [laszlopere/mcp-tmux](https://github.com/laszlopere/mcp-tmux) 🐍 🏠 🐧 🍎 - Universal tmux driver: sessions, windows, panes, keystrokes, and pane capture — local or remote over SSH. Curated tools plus a raw `tmux_command` passthrough; works against tmux 1.8+. Shared, visible sessions for pair-programming with the agent. `uvx mcp-tmux`.
 
 ### 💬 <a name="communication"></a>Communication
 
@@ -690,6 +691,7 @@ Tools for building and operating AI conversation agents that hold structured dia
 Tools for encrypting and decrypting data.
 
 - [denismaggior8/enigma-python-mcp](https://github.com/denismaggior8/enigma-python-mcp) [![denismaggior8/enigma-python-mcp MCP server](https://glama.ai/mcp/servers/denismaggior8/enigma-python-mcp/badges/score.svg)](https://glama.ai/mcp/servers/denismaggior8/enigma-python-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - A Model Context Protocol server that brings the capabilities of [enigmapython](https://github.com/denismaggior8/enigma-python) library to LLMs, allowing them to encrypt and decrypt messages using historically accurate Enigma machine emulators.
+- [laszlopere/mcp-bytesmith](https://github.com/laszlopere/mcp-bytesmith) 🐍 🏠 - Local byte-wrangling toolbox: encoding (hex/Base64/Base32/Base58/Base45…), cryptographic + CRC hashing, base conversion, and CSPRNG tokens/passphrases, plus an opt-in Ethereum/EVM toolset (keccak, ABI/RLP codecs, EIP-191/712 hashing, function/event selectors, EIP-55). No network calls. `uvx mcp-bytesmith`.
 
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
@@ -1781,6 +1783,7 @@ Control smart home devices, home network equipment, and automation systems.
 - [Hybirdss/smartest-tv](https://github.com/Hybirdss/smartest-tv) [![Hybirdss/smartest-tv MCP server](https://glama.ai/mcp/servers/Hybirdss/smartest-tv/badges/score.svg)](https://glama.ai/mcp/servers/Hybirdss/smartest-tv) 🐍 🏠 🍎 🪟 🐧 - Control any smart TV with natural language. Play Netflix, YouTube, Spotify by name with deep linking, cast URLs, scene presets, multi-room audio, and multi-TV sync. Supports LG, Samsung, Android TV, Roku. 21 MCP tools, no cloud required.
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
 - [ober37/ac-infinity-mcp](https://github.com/ober37/ac-infinity-mcp) [![ober37/ac-infinity-mcp MCP server](https://glama.ai/mcp/servers/ober37/ac-infinity-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ober37/ac-infinity-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Monitor and automate AC Infinity grow controllers through natural conversation with Claude. 25 tools covering live sensor data, multi-day history, VPD/temperature/humidity automations, port control, advance scheduling, and grow stage templates.
+- [laszlopere/mcp-kodi](https://github.com/laszlopere/mcp-kodi) 🌊 🏠 🐧 - Control a Kodi media player over its JSON-RPC API: transport, volume, library search, queue management, and playback history, plus an opt-in `rpc` escape hatch to any Kodi method. Written in C on GLib.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
