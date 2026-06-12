@@ -106,6 +106,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
 * 🖥️ - [OS Automation](#os-automation)
+* 🎙️ - [Podcasts](#podcasts)
 * 📋 - [Product Management](#product-management)
 * 🏠 - [Real Estate](#real-estate)
 * 🔬 - [Research](#research)
@@ -2216,6 +2217,17 @@ Servers for controlling the desktop operating system: screenshots, window manage
 - [tinqiao-oss/clawtouch-mcp](https://github.com/tinqiao-oss/clawtouch-mcp) [![tinqiao-oss/clawtouch-mcp MCP server](https://glama.ai/mcp/servers/tinqiao-oss/clawtouch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tinqiao-oss/clawtouch-mcp) 🐍 🏠 🍎 🪟 🐧 - Physical USB HID keyboard/mouse control via a Raspberry Pi Pico 2 running open-source firmware. Exposes move, click, drag, type, key combos, and scroll as MCP tools for any MCP client. Genuine physical HID input on the standard driver path, with a `--mock` mode for hardware-free trials. `pip install clawtouch-mcp`
 - [juergenkoller-software/freezetext-mcp](https://github.com/juergenkoller-software/freezetext-mcp) [![juergenkoller-software/freezetext-mcp MCP server](https://glama.ai/mcp/servers/juergenkoller-software/freezetext-mcp/badges/score.svg)](https://glama.ai/mcp/servers/juergenkoller-software/freezetext-mcp) 🏠 🍎 - MCP server for [FreezeText](https://store.juergenkoller.software/en/apps/freezetext) — OCR anything on your Mac screen. Freeze the screen and extract text via Apple Vision (videos, popups, protected PDFs), OCR a region or base64 image, and manage a searchable capture history. 12 tools.
 
+### 🎙️ <a name="podcasts"></a>Podcasts
+
+Servers for podcast production and discovery: hosting APIs, analytics, search, and transcripts.
+
+- [conorbronsdon/op3-mcp](https://github.com/conorbronsdon/op3-mcp) 📇 ☁️ - Podcast analytics from OP3, the Open Podcast Prefix Project: downloads over time, listener geography, app share, and per-episode breakdowns. Read-only by design.
+- [conorbronsdon/podcastindex-mcp](https://github.com/conorbronsdon/podcastindex-mcp) 📇 ☁️ - Search the Podcast Index: podcasts, episodes, guest appearances by person, trending shows, and feed health.
+- [conorbronsdon/Transistor-MCP](https://github.com/conorbronsdon/Transistor-MCP) 📇 ☁️ - Manage Transistor.fm podcasts: episodes, analytics, download summaries, episode comparisons, transcripts, and webhooks.
+- [jonathanmoore/tldl](https://github.com/jonathanmoore/tldl) 🐍 ☁️ - YouTube and Spotify podcast transcripts as clean markdown using platform auto-captions, no LLM transcription.
+- [oscargullberg/apple-podcast-mcp-server](https://github.com/oscargullberg/apple-podcast-mcp-server) 🐍 ☁️ - Lightweight search for Apple Podcasts.
+- [Red5d/podcast_mcp](https://github.com/Red5d/podcast_mcp) 🐍 ☁️ - Episode data and transcripts from Podcasting 2.0 RSS feeds.
+
 ### 📋 <a name="product-management"></a>Product Management
 
 Tools for product planning, customer feedback analysis, and prioritization.
@@ -2769,7 +2781,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [ayo-nci/bulkrender-mcp](https://github.com/ayo-nci/bulkrender-mcp) [![ayo-nci/bulkrender-mcp MCP server](https://glama.ai/mcp/servers/ayo-nci/bulkrender-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ayo-nci/bulkrender-mcp) 📇 ☁️ - Generate DOCX and PDF documents from reusable templates at scale. Upload a DOCX template once, call `generate_document` or `generate_batch` with JSON data, and receive a signed download link. Walk-in `acp_*` tools let agents pay per-session via Stripe with no account required. `npx bulkrender-mcp`
 - [can4hou6joeng4/boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli) [![can4hou6joeng4/boss-agent-cli MCP server](https://glama.ai/mcp/servers/can4hou6joeng4/boss-agent-cli/badges/score.svg)](https://glama.ai/mcp/servers/can4hou6joeng4/boss-agent-cli) 🐍 🏠 🍎 🪟 🐧 - BOSS Zhipin recruitment workflow for AI agents. 49 MCP tools for job search, welfare filtering, recruiter messaging, pipeline tracking, and resume optimization.
 - [ByAxe/keynote-mcp](https://github.com/ByAxe/keynote-mcp) [![ByAxe/keynote-mcp MCP server](https://glama.ai/mcp/servers/ByAxe/keynote-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ByAxe/keynote-mcp) 🐍 🏠 🍎 - MCP server for full control of Apple Keynote through AppleScript automation. Create, edit, and export presentations via natural language with 30+ tools covering slides, content, layout, and Unsplash image integration. Ships with a Claude Skill for design patterns and font workarounds.
-- [conorbronsdon/gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) [![gws-mcp-server MCP server](https://glama.ai/mcp/servers/@conorbronsdon/gws-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@conorbronsdon/gws-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - Google Workspace MCP server exposing 23 curated tools for Drive, Sheets, Calendar, Docs, and Gmail via the gws CLI.
+- [conorbronsdon/gws-mcp-server](https://github.com/conorbronsdon/gws-mcp-server) [![gws-mcp-server MCP server](https://glama.ai/mcp/servers/@conorbronsdon/gws-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@conorbronsdon/gws-mcp-server) 📇 ☁️ 🍎 🪟 🐧 - Google Workspace MCP server exposing 41 curated tools for Drive, Sheets, Calendar, Docs, Gmail, and Tasks via the gws CLI.
 - [ContextPulse/contextpulse](https://github.com/ContextPulse/contextpulse) [![ContextPulse MCP server](https://glama.ai/mcp/servers/ContextPulse/contextpulse/badges/score.svg)](https://glama.ai/mcp/servers/ContextPulse/contextpulse) 🐍 🏠 🍎 🪟 - Local-first desktop context server for AI agents. Captures screen (OCR), voice (Whisper), keyboard/mouse activity, and clipboard. Exposes 35 MCP tools for screen capture, voice transcription, activity history, semantic memory, and project detection. Zero cloud dependency. AGPL-3.0.
 - [corbym/backlog-mcp](https://github.com/corbym/backlog-mcp) [![corbym/backlog-mcp MCP server](https://glama.ai/mcp/servers/corbym/backlog-mcp/badges/score.svg)](https://glama.ai/mcp/servers/corbym/backlog-mcp) 🏎️ 🏠 🍎 🪟 🐧 - MCP server that gives AI agents structured read/write access to a story-based project backlog. Agents can list stories, read content, update status, and append notes — all backed by plain markdown files versioned in your repository.
 - [Dan8Oren/mcp-apple-notes](https://github.com/Dan8Oren/mcp-apple-notes) [![Dan8Oren/mcp-apple-notes MCP server](https://glama.ai/mcp/servers/Dan8Oren/mcp-apple-notes/badges/score.svg)](https://glama.ai/mcp/servers/Dan8Oren/mcp-apple-notes) 📇 🏠 🍎 - Semantic search and RAG over Apple Notes with on-device embeddings, full CRUD, folder management, and fuzzy title matching. 10 tools. Runs fully locally — no API keys required.
