@@ -2632,7 +2632,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 Astrology, tarot, numerology, Vedic systems, Human Design and other divinatory or esoteric tools — for AI agents that compute charts, draw cards, run dasha cycles, or generate horoscopes.
 
 - [astroway/astroway-mcp](https://github.com/astroway/astroway-mcp) [![astroway/astroway-mcp MCP server](https://glama.ai/mcp/servers/astroway/astroway-mcp/badges/score.svg)](https://glama.ai/mcp/servers/astroway/astroway-mcp) 📇 ☁️ 🍎 🪟 🐧 - Comprehensive astrology MCP exposing every endpoint of the AstroWay Calculation API — natal charts, synastry, transits, Vedic dashas (Vimshottari, Yogini, Ashtottari, Kalachakra), 16 Vargas, Tarot (Rider-Waite-Smith / Marseille / Lenormand), Numerology (5 systems), Human Design, AI horoscopes. Sub-arcsecond Swiss Ephemeris precision, 10 000 free credits/month. Install: `npx @astroway/mcp`.
-- [gethumandesign](https://www.gethumandesign.com/mcp-docs/) 🎖️ ☁️ - Calculate Human Design bodygraph charts from birth data, save people, compare charts, and analyse group dynamics. Hosted remote server (Streamable HTTP, OAuth 2.0) at `https://api.gethumandesign.com/mcp`, listed in the official MCP registry as `com.gethumandesign.www/mcp`.
+- [timvink/mcp-gethumandesign](https://github.com/timvink/mcp-gethumandesign) 🎖️ ☁️ - Calculate Human Design bodygraph charts from birth data, save people, compare charts, and analyse group dynamics. Hosted remote server (Streamable HTTP, OAuth 2.0) at `https://api.gethumandesign.com/mcp`, listed in the official MCP registry as `com.gethumandesign.www/mcp`.
 
 ### 🏃 <a name="sports"></a>Sports
 
