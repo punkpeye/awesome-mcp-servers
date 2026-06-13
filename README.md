@@ -273,6 +273,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [TwelveTake-Studios/reaper-mcp](https://github.com/TwelveTake-Studios/reaper-mcp) 🐍 🏠 🍎 🪟 🐧 - MCP server enabling AI assistants to control REAPER DAW for mixing, mastering, MIDI composition, and full music production with 129 tools
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - A MCP server integrating AniList API for anime and manga information
 - [yuvalsuede/agent-media](https://github.com/yuvalsuede/agent-media) 📇 ☁️ 🍎 🪟 🐧 - CLI and MCP server for AI video and image generation with unified access to 7 models (Kling, Veo, Sora, Seedance, Flux, Grok Imagine). Provides 9 tools for generating, managing, and browsing media.
+- [Kerry1020/image-mcp-worker](https://github.com/Kerry1020/image-mcp-worker) 📇 ☁️ - MCP server for AI image generation via gpt-image-2 API. Cloudflare Worker with Streamable HTTP transport.
 
 
 ### 📐 <a name="architecture-and-design"></a>Architecture & Design
@@ -1288,6 +1289,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [98lukehall/renoun-mcp](https://github.com/98lukehall/renoun-mcp) [![renoun-mcp MCP server](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp) 🐍 ☁️ - Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence across 17 channels without analyzing content.
 - [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) 💎 🏠 - Enables agents to query local information about dependencies in a Ruby project's `Gemfile`.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
+- [Kerry1020/calc-mcp-worker](https://github.com/Kerry1020/calc-mcp-worker) 📇 ☁️ - High-performance math computation MCP server with 19 tools: batch eval, calculus, complex matrices, Newton solver, series, ODE, stats, primes, unit conversion. Deployed on Cloudflare Worker.
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
@@ -1301,6 +1303,7 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [nteract/semiotic](https://github.com/nteract/semiotic) [![nteract/semiotic MCP server](https://glama.ai/mcp/servers/nteract/semiotic/badges/score.svg)](https://glama.ai/mcp/servers/nteract/semiotic) 📇 🏠 🍎 🪟 🐧 - React data visualization MCP server with 30+ chart types. 5 tools: suggest charts for a dataset, render validated React configs to SVG, diagnose configuration anti-patterns, get component schemas, and report issues. 
 - [subhatta123/twilize](https://github.com/subhatta123/twilize) [![subhatta123/twilize MCP server](https://glama.ai/mcp/servers/subhatta123/twilize/badges/score.svg)](https://glama.ai/mcp/servers/subhatta123/twilize) 🐍 🏠 🍎 🪟 🐧 - Programmatic Tableau workbook (.twb/.twbx) generation — 47 MCP tools for charts, dashboards, calculated fields, dashboard actions, workbook migration, and CSV-to-dashboard pipelines. Install via `uvx twilize`.
+- [lingion/plot-mcp-worker](https://github.com/lingion/plot-mcp-worker) 📇 ☁️ - Cloudflare Worker MCP server for plotting tools. Generate charts, graphs, and data visualizations via Streamable HTTP.
 
 ### 📟 <a name="embedded-system"></a>Embedded System
 
@@ -1988,6 +1991,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [xChuCx/agent-memory](https://github.com/xChuCx/agent-memory) [![agent-memory MCP server](https://glama.ai/mcp/servers/xChuCx/agent-memory/badges/score.svg)](https://glama.ai/mcp/servers/xChuCx/agent-memory) 🏎️ 🏠 🍎 🪟 🐧 - Git-native project memory for coding agents: Markdown source of truth committed to your repo, reviewable staged updates (`review --diff` → `apply`), secret/PII-safe, branch-aware — no cloud, no vector DB.
 - [zzallirog/weighted-compact](https://github.com/zzallirog/weighted-compact) [![zzallirog/weighted-compact MCP server](https://glama.ai/mcp/servers/zzallirog/weighted-compact/badges/score.svg)](https://glama.ai/mcp/servers/zzallirog/weighted-compact) 🐍 🏠 - Inspectable memory substrate for Claude Code. Three read-only MCP tools (search_pairs, compact_session, substrate_info) over a local-first, signal-scored parse of `~/.claude/projects/`. Per-pair scores are numpy columns on disk, not opaque vectors in a service. Zero outbound calls (CI-enforced).
 - [SVerITG/Metis](https://github.com/SVerITG/Metis) [![Metis MCP server](https://glama.ai/mcp/servers/SVerITG/Metis/badges/score.svg)](https://glama.ai/mcp/servers/SVerITG/Metis) 🐍 🏠 🍎 🪟  🐧 - A private, local research "second brain" for Claude: project-aware memory, cited answers from your own library (won't invent what it can't find), linked notes/meetings/ideas via a domain-specific knowledge layer, daily briefs (news + new papers in your field), a live meeting assistant, cross-pollination across your work, and 34 routed agents. A governed layer between you and the AI, with guardrails like data protection. A Research Cortex.
+- [Kerry1020/memory-mcp-worker](https://github.com/Kerry1020/memory-mcp-worker) 📇 ☁️ - Simple KV-backed memory operations MCP server (get, set, delete, list). Cloudflare Worker with Streamable HTTP transport.
 
 ### ⚖️ <a name="legal"></a>Legal
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
@@ -2043,6 +2047,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [geolabel/geolabel-mcp](https://github.com/geolabel/geolabel-mcp) [![geolabel-mcp MCP server](https://glama.ai/mcp/servers/geolabel/geolabel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/geolabel/geolabel-mcp) 🐍 ☁️ - GPS coordinates to AI-ready location context — returns place name, stable category (gym, supermarket, restaurant…), and live opening hours via OpenStreetMap. Works in Claude Desktop, Claude Code, Hermes Agent, OpenClaw, and any MCP client.
 - [xyver/daedal-map](https://github.com/xyver/daedal-map) [![DaedalMap MCP server](https://glama.ai/mcp/servers/xyver/daedal-map/badges/score.svg)](https://glama.ai/mcp/servers/xyver/daedal-map) 🐍 ☁️ - Geographic data packs for disasters, FX rates, and global indicators. New geospatial data packs weekly. Free and x402-paid execution lanes via MCP and HTTP API.
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding MCP server for nominatim, ArcGIS, Bing
+- [Kerry1020/geo-mcp-worker](https://github.com/Kerry1020/geo-mcp-worker) 📇 ☁️ - Geolocation and geo-related operations MCP server. Cloudflare Worker with Streamable HTTP transport.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
@@ -2436,6 +2441,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 - [juergenkoller-software/pdf-content-search-mcp](https://github.com/juergenkoller-software/pdf-content-search-mcp) [![juergenkoller-software/pdf-content-search-mcp MCP server](https://glama.ai/mcp/servers/juergenkoller-software/pdf-content-search-mcp/badges/score.svg)](https://glama.ai/mcp/servers/juergenkoller-software/pdf-content-search-mcp) 🏠 🍎 - MCP bridge for [PDF Content Search](https://store.juergenkoller.software/en/apps/pdf-content-search) — full-text PDF search with Apple Vision OCR across thousands of documents in under a second. Advanced filters (date, category, sender, amount), wildcards, boolean operators.
+- [Kerry1020/search-mcp-worker](https://github.com/Kerry1020/search-mcp-worker) 📇 ☁️ - Search aggregation MCP server across multiple engines (DuckDuckGo, Bing, Wikipedia, Twitter/X). Cloudflare Worker with Streamable HTTP transport.
+- [Kerry1020/summarize-mcp-worker](https://github.com/Kerry1020/summarize-mcp-worker) 📇 ☁️ - Webpage extraction and lightweight summarization MCP server. Cloudflare Worker with Streamable HTTP transport.
 
 ### 🔒 <a name="security"></a>Security
 
@@ -3020,7 +3027,9 @@ Interact with Git repositories and version control platforms. Enables repository
 - [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) [![rocketride-org/rocketride-server MCP server](https://glama.ai/mcp/servers/rocketride-org/rocketride-server/badges/score.svg)](https://glama.ai/mcp/servers/rocketride-org/rocketride-server) 📇 🏠 - MCP server that exposes RocketRide AI pipelines as tools for Claude, Cursor, and Windsurf. Self-hosted, open-source pipeline tool with multi-LLM support.
 - [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone) 📇 🏠 🍎 🪟 🐧 - Filesystem-direct Obsidian MCP server with low context-tax. Reads your vault directly from disk — no Local REST API plugin required. ~575× smaller payloads than the REST plugin. 8 tools. `npx -y obsidian-mcp-seekstone` (also: `npx -y seekstone`)
 - [vivek081166/japan-utils-mcp](https://github.com/vivek081166/japan-utils-mcp) [![vivek081166/japan-utils-mcp MCP server](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp) 🐍 🏠 🍎 🪟 🐧 - Japan-specific utilities for AI agents: era ↔ Western year conversion (令和8年 ↔ 2026), kanji-to-romaji transliteration, 7-digit postal code lookup, national holiday calendar, hiragana ↔ katakana conversion, full-width ↔ half-width normalization, and statistical Japanese name splitting. 9 tools, MIT licensed, installable via `uvx japan-utils-mcp`.
+- [Kerry1020/time-mcp-worker](https://github.com/Kerry1020/time-mcp-worker) 📇 ☁️ - Simple MCP server returning current timestamp (Unix, ISO, UTC, multiple timezones). Cloudflare Worker with Streamable HTTP transport.
 
+- [Kerry1020/webhook-inbox-mcp-worker](https://github.com/Kerry1020/webhook-inbox-mcp-worker) 📇 ☁️ - Webhook ingestion and inbox storage MCP server. Cloudflare Worker with Streamable HTTP transport.
 ## Tips and Tricks
 
 ### Official prompt to inform LLMs how to use MCP
