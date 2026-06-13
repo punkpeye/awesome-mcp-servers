@@ -3044,3 +3044,6 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+| [GoldBean](https://goldbean-api.xyz) | 📇 ☁️ 🍎 🪟 🐧 | x402 Micropaid MCP Server with 120+ API endpoints. Pay-per-use AI tools, crypto prices, blockchain data, web search, image generation, translation, and more - all paid via Base USDC. |
+
