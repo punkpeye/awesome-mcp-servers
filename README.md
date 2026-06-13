@@ -85,6 +85,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🗣️ - [Conversational AI](#conversational-ai)
 * 🔑 - [Cryptography](#cryptography)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
+- [SwapTitan MCP](https://github.com/polsolbridge/swaptitan-mcp) - No-KYC crypto swap MCP server. 10 tools: swap quote/execute, prices, portfolio, rug check, AI chat. 1288+ assets. x402 payments.
 * 🗄️ - [Databases](#databases)
 * 📊 - [Data Platforms](#data-platforms)
 * 🚚 - [Delivery](#delivery)
