@@ -213,7 +213,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 ### 💼 <a name="consulting-and-analysis"></a>Consulting & Analysis
 
-- [zhongpu-consulting-mcp](https://chengduman.github.io/zhongpu-consulting-advisory/mcp-server/) - Pay-per-use research and analysis tools for AI agents. Tools: `deep_scan` ($2), `cross_validate` ($3), `synthesize_report` ($5). AI agents directly commission market research, cross-validation, and structured reports. ⭐
+- [zhongpu-consulting-mcp](https://github.com/chengduman/zhongpu-consulting-advisory) - Pay-per-use research and analysis tools for AI agents. Tools: `deep_scan` ($2), `cross_validate` ($3), `synthesize_report` ($5). AI agents directly commission market research, cross-validation, and structured reports. ⭐
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Accurate astronomical catalog data and observing session planner. 13,000+ deep-sky objects from OpenNGC with deterministic visibility, rise/transit/set, and alt/az calculations. `npx astronomy-oracle`
