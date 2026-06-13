@@ -1722,6 +1722,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [llmops-pro/nwc-mcp](https://github.com/llmops-pro/nwc-mcp) 📇 🏠 - Lightning wallet (NIP-47 / Nostr Wallet Connect) for agents — read balance, make/pay invoices, Lightning Address, LNURL, keysend, with a defense-in-depth safety stack (read-only switch, destination allowlist, rolling budget caps, audit log). MIT.
 - [llmops-pro/albyhub-admin-mcp](https://github.com/llmops-pro/albyhub-admin-mcp) 📇 🏠 - Admin an Alby Hub Lightning node from an agent via its HTTP API (node info, balances, channels, connections). MIT.
 - [llmops-pro/paywall-mcp](https://github.com/llmops-pro/paywall-mcp) 📇 🏠 - Generic L402-style Lightning paywall sidecar — wrap any stdio MCP server and charge sats per tool call over NWC (dual-call invoice→pay→call, per-tool price map, replay protection, audit). MIT.
+- [llmops-pro/l402-search-mcp](https://github.com/llmops-pro/l402-search-mcp) 📇 🏠 - No-KYC web search for agents, paid per query in Lightning sats (L402): the search tool returns an invoice, the agent pays it from its own wallet and retries with the preimage for results. Holds no keys. MIT.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
