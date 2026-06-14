@@ -25,13 +25,13 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ### CodeHealth MCP
 
-[![MCP](https://img.shields.io/badge/MCP-Protocol-00C4B4)](https://modelcontextprotocol.io)
+[![MCP](https://img.shields.io/badge/MCP-Protocol-00C4B4)](https://modelcontextprotocol.io) 📇
 
 AI-powered codebase health analysis as an MCP server. Detects dead code, circular dependencies, coupling issues, and architectural drift.
 
 `npm install -g codehealth-mcp`
 
-[GitHub](https://github.com/icohangar-ops/codehealth-mcp)
+[GitHub](https://github.com/icohangar-ops/codehealth-mcp) 📇
 
 ## What is MCP?
 
