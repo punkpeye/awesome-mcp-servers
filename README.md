@@ -29,6 +29,8 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 AI-powered codebase health analysis as an MCP server. Detects dead code, circular dependencies, coupling issues, and architectural drift.
 
+[![icohangar-ops/codehealth-mcp MCP server](https://glama.ai/mcp/servers/@icohangar-ops/codehealth-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@icohangar-ops/codehealth-mcp)
+
 `npm install -g codehealth-mcp`
 
 [GitHub](https://github.com/icohangar-ops/codehealth-mcp) 📇
