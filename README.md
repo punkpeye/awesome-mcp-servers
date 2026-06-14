@@ -2833,6 +2833,8 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
+- [douglasgan/asktian](https://github.com/douglasgan/tianprotocol/tree/main/mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Chinese metaphysics (bazi 八字, qimen 奇門, 5-element, daily 干支) as decision-support tools. Ask "when should I do X" and get specific time windows instead of vague advice. 5 tools: daily reading, compat, best-time-for-action, today's energy, name analysis. `npm install -g @asktian/mcp-server`
+
 - [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - A web-based PlantUML frontend with MCP server integration, enable plantuml image generation and plantuml syntax validation.
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - A QR code generation MCP server that converts any text (including Chinese characters) to QR codes with customizable colors and base64 encoding output.
 - [webaesbyamin/agent-receipts](https://github.com/webaesbyamin/agent-receipts) [![webaesbyamin/agent-receipts MCP server](https://glama.ai/mcp/servers/webaesbyamin/agent-receipts/badges/score.svg)](https://glama.ai/mcp/servers/webaesbyamin/agent-receipts) 📇 🏠 - Cryptographic accountability for AI agents. Ed25519-signed receipts for every MCP tool call — constraints, chains, AI judgment, invoicing, local dashboard.
