@@ -2632,6 +2632,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 Astrology, tarot, numerology, Vedic systems, Human Design and other divinatory or esoteric tools — for AI agents that compute charts, draw cards, run dasha cycles, or generate horoscopes.
 
 - [astroway/astroway-mcp](https://github.com/astroway/astroway-mcp) [![astroway/astroway-mcp MCP server](https://glama.ai/mcp/servers/astroway/astroway-mcp/badges/score.svg)](https://glama.ai/mcp/servers/astroway/astroway-mcp) 📇 ☁️ 🍎 🪟 🐧 - Comprehensive astrology MCP exposing every endpoint of the AstroWay Calculation API — natal charts, synastry, transits, Vedic dashas (Vimshottari, Yogini, Ashtottari, Kalachakra), 16 Vargas, Tarot (Rider-Waite-Smith / Marseille / Lenormand), Numerology (5 systems), Human Design, AI horoscopes. Sub-arcsecond Swiss Ephemeris precision, 10 000 free credits/month. Install: `npx @astroway/mcp`.
+- [heavyblotto/caelus](https://github.com/heavyblotto/caelus) 📇 🏠 ☁️ 🍎 🪟 🐧 - Clean-room astrology & ephemeris engine over MCP: 9 tools for natal charts, transits, synastry, electional timing (planetary hours, void-of-course Moon), and sky events (rise/set, lunar phases, stations, zodiac crossings). Positions, houses, and aspects are checked against Swiss Ephemeris (Sun–Saturn ≤1″); no API keys, ephemeris files, or network calls — the engine data ships in the package. A hosted Streamable HTTP endpoint is also available. MIT. Install: `npx caelus-mcp`.
 
 ### 🏃 <a name="sports"></a>Sports
 
