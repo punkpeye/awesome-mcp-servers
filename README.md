@@ -88,6 +88,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🗄️ - [Databases](#databases)
 * 📊 - [Data Platforms](#data-platforms)
 * 🚚 - [Delivery](#delivery)
+* 🎨 - [Design & UX](#design-and-ux)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 🧮 - [Data Science Tools](#data-science-tools)
 * 📊 - [Data Visualization](#data-visualization)
@@ -288,6 +289,12 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [karyaboyraz/mockit-mcp](https://github.com/karyaboyraz/mockit-mcp) [![karyaboyraz/mockit-mcp MCP server](https://glama.ai/mcp/servers/karyaboyraz/mockit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/karyaboyraz/mockit-mcp) 📇 🏠 🍎 🪟 🐧 - Generate premium iOS mobile UI mockups (PNG + HTML) from a single text prompt. Pairs Claude (Opus 4.7 by default) with a Playwright headless renderer. Two backends — `claude` CLI (uses your Claude Code subscription) or Anthropic API. Stdio + HTTP transports, MIT.
 - [Narasimhaponnada/mermaid-mcp](https://github.com/Narasimhaponnada/mermaid-mcp) 📇 ☁️ 🍎 🪟 🐧 - AI-powered Mermaid diagram generation with 22+ diagram types including flowcharts, sequence diagrams, class diagrams, ER diagrams, architecture diagrams, state machines, and more. Features 50+ pre-built templates, advanced layout engines, SVG/PNG/PDF exports, and seamless integration with GitHub Copilot, Claude, and any MCP-compatible client. Install via NPM: `npm install -g @narasimhaponnada/mermaid-mcp-server`
 - [rdanieli/tentra-mcp](https://github.com/rdanieli/tentra-mcp) [![rdanieli/tentra-mcp MCP server](https://glama.ai/mcp/servers/rdanieli/tentra-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rdanieli/tentra-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - AI-native architecture platform for engineering teams. Describe a system in natural language (e.g. "payment service with Stripe, Kafka, PostgreSQL") → get an interactive typed diagram with 167 cloud components → export to 14 production frameworks (Java Spring Boot, Python FastAPI, Go chi, Rust Axum, .NET, Kotlin Ktor, Ruby Rails, Elixir Phoenix, Docker Compose, Terraform, Mermaid, ADR, and more). Drift detection (`sync_architecture`) scores saved diagrams against live code 0–100 with a structured diff. 9 quality-lint rules catch orphans, SPOFs, god services. Also includes a secondary persistent code-graph layer for AI coding agents (free offline via `npx tentra-mcp --local init`). Agent-as-LLM pattern — zero LLM cost on our side, zero API key on yours. 35 MCP tools. Works in Cursor, Claude Code, Codex, Windsurf.
+
+### <a name="design-and-ux"><a>Design & UX
+
+Design systems, UX pattern libraries, and interface frameworks for AI agents.
+
+- [agentic-ux.com - Agentic UX Pattern Library](https://agentic-ux.com) ☁️ 🍎 🪟 🐧 - 11 lifecycle UX patterns for supervised agent delegation (Before/While/After). Tools: `list_agentic_patterns`, `get_pattern_specification`, `get_full_pattern_library`, `review_agent_flow` (structured lifecycle audit). Resources: per-pattern specs (`agentic-ux://patterns/{slug}`) and full library (`agentic-ux://library/full`). Prompts: `audit-agent-flow`, `implement-with-pattern`. Streamable HTTP at `https://www.agentic-ux.com/api/mcp`, no auth required.
 
 ### <a name="bio"></a>Biology, Medicine and Bioinformatics
 - [ammawla/encode-toolkit](https://github.com/ammawla/encode-toolkit) [![encode-toolkit MCP server](https://glama.ai/mcp/servers/ammawla/encode-toolkit/badges/score.svg)](https://glama.ai/mcp/servers/ammawla/encode-toolkit) 🐧 - MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit — search, download, track, and analyze functional genomics experiments.
