@@ -23,7 +23,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Tips & Tricks](#tips-and-tricks)
 
 
-### CodeHealth MCP
+### [icohangar-ops/codehealth-mcp](https://github.com/icohangar-ops/codehealth-mcp)
 
 [![MCP](https://img.shields.io/badge/MCP-Protocol-00C4B4)](https://modelcontextprotocol.io) 📇
 
