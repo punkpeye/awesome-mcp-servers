@@ -103,6 +103,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
+* ⚓ - [Maritime & Shipping](#maritime--shipping)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
@@ -2079,7 +2080,11 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [geolabel/geolabel-mcp](https://github.com/geolabel/geolabel-mcp) [![geolabel-mcp MCP server](https://glama.ai/mcp/servers/geolabel/geolabel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/geolabel/geolabel-mcp) 🐍 ☁️ - GPS coordinates to AI-ready location context — returns place name, stable category (gym, supermarket, restaurant…), and live opening hours via OpenStreetMap. Works in Claude Desktop, Claude Code, Hermes Agent, OpenClaw, and any MCP client.
 - [xyver/daedal-map](https://github.com/xyver/daedal-map) [![DaedalMap MCP server](https://glama.ai/mcp/servers/xyver/daedal-map/badges/score.svg)](https://glama.ai/mcp/servers/xyver/daedal-map) 🐍 ☁️ - Geographic data packs for disasters, FX rates, and global indicators. New geospatial data packs weekly. Free and x402-paid execution lanes via MCP and HTTP API.
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding MCP server for nominatim, ArcGIS, Bing
+### ⚓ <a name="maritime--shipping"></a>Maritime & Shipping
 
+Servers for maritime shipping, chartering, and freight operations.
+
+- [shipping-ship-it/laytime-calculator-pro](https://github.com/shipping-ship-it/laytime-calculator-pro) 📇 ☁️ - AI laytime, demurrage and despatch calculation for ship chartering. Send a Charter Party, NOR or Statement of Facts and get a full, auditable laytime statement.
 ### 🎯 <a name="marketing"></a>Marketing
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
