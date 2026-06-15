@@ -3058,3 +3058,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [@mcpmarket/web-tools-server](https://github.com/mcpmarket/web-tools-mcp) - MCP server for web research, scraping, and data extraction - gives Claude web superpowers
