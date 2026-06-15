@@ -114,7 +114,6 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🌐 - [Social Media](#social-media)
 * 🔮 - [Spirituality & Esoterica](#spirituality-and-esoterica)
 * 🏃 - [Sports](#sports)
-- [LoneStarOracle MCP Server](https://github.com/Homie4570/lso-mcp) - 38 tools for live data: crypto token analysis, DeFi risk, equities, energy, weather, real estate, and on-chain intelligence.
 - [zafronix/wc-mcp](https://github.com/zafronix/wc-mcp) [![World Cup History MCP server](https://glama.ai/mcp/servers/zafronix/wc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zafronix/wc-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - Every FIFA World Cup since 1930. 23 tournaments, full squads, knockout brackets, stadium altitudes, hat-tricks. Free tier API.
 * 🎧 - [Support & Service Management](#support-and-service-management)
 * 🌎 - [Translation Services](#translation-services)
