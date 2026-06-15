@@ -125,6 +125,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
+- [Coworker](https://coworker.ai/mcp) ☁️ - Enterprise MCP server giving any AI client (Claude, Cursor, ChatGPT) a single, permission-aware connection to 50+ business apps (Slack, Jira, Salesforce, Google Drive, Notion, GitHub) plus your org’s knowledge. SOC 2 Type II.
 
 Servers for accessing many apps and tools through a single MCP server.
 
