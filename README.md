@@ -222,6 +222,8 @@ Servers for accessing many apps and tools through a single MCP server.
 
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
 - [AceDataCloud/MCPFlux](https://github.com/AceDataCloud/FluxMCP) [![AceDataCloud/MCPFlux MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux) 🐍 ☁️ - Flux AI image generation and editing (Black Forest Labs) via Ace Data Cloud API.
+- [Able-rip/agent-mosaic-skill](https://github.com/Able-rip/agent-mosaic-skill) [![Able-rip/agent-mosaic-skill MCP server](https://glama.ai/mcp/servers/Able-rip/agent-mosaic-skill/badges/score.svg)](https://glama.ai/mcp/servers/Able-rip/agent-mosaic-skill) 📇 🏠 🍎 🪟 🐧 - Convert photos to LEGO-style brick mosaic previews with AI-powered color quantization. Supports LEGO/Webrick palettes, 3D PBR rendering, and adjustable grid sizes up to 64x64. `npx @bmbrick/agent-mosaic-skill`
+
 
 - [AceDataCloud/MCPNanoBanana](https://github.com/AceDataCloud/MCPNanoBanana) [![AceDataCloud/MCPNanoBanana MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana) 🐍 ☁️ - NanoBanana AI image generation and editing with virtual try-on and product placement in realistic scenes.
 - [AceDataCloud/MCPSeedream](https://github.com/AceDataCloud/SeedreamMCP) [![AceDataCloud/MCPSeedream MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPSeedream/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPSeedream) 🐍 ☁️ - ByteDance Seedream image generation and editing via Ace Data Cloud API.
