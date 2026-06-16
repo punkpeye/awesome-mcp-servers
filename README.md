@@ -3113,3 +3113,7 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+### Developer Tools
+
+- [envpact-mcp](https://github.com/chirag127/envpact-mcp) — Centralised secrets manager for AI agents — resolves secrets from a private Git-backed vault into project-scoped .env maps. Share keys across 100+ projects via shared.KEY references; rotate once, every project picks up the change next run.
