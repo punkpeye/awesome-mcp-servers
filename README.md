@@ -1269,6 +1269,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [laszlopere/mcp-abacus](https://github.com/laszlopere/mcp-abacus) [![laszlopere/mcp-abacus MCP server](https://glama.ai/mcp/servers/laszlopere/mcp-abacus/badges/score.svg)](https://glama.ai/mcp/servers/laszlopere/mcp-abacus) 🐍 🏠 🍎 🐧 - Type-faithful calculator: evaluate expressions under fixed-point, IEEE-754 double, or exact rational arithmetic, with every answer labelled exact vs inexact. Tools: calculate, analyze, solver, help, info. Offline, no network. `uvx mcp-abacus`.
 
 - [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel) [![joaoh82/rustunnel MCP server](https://glama.ai/mcp/servers/joaoh82/rustunnel/badges/score.svg)](https://glama.ai/mcp/servers/joaoh82/rustunnel) 🦀 🏠 ☁️ - MCP server that lets AI agents create and manage public tunnels to local services (webhooks, dev servers, sharing) — six tools covering HTTP/TCP/UDP tunnels, custom subdomains, regions, and load-balanced pools. Pairs with the rustunnel CLI; managed cloud or self-hosted (AGPL).
+- [ysalitrynskyi/opn-mcp](https://github.com/ysalitrynskyi/opn-mcp) [![ysalitrynskyi/opn-mcp MCP server](https://glama.ai/mcp/servers/ysalitrynskyi/opn-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ysalitrynskyi/opn-mcp) 📇 ☁️ 🏠 - Shorten links, read click analytics, generate branded QR codes, and manage links on opn.onl — the open-source, self-hostable URL shortener. Works with the hosted service or your own instance.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
