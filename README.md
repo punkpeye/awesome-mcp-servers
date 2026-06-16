@@ -508,6 +508,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 - [rikarazome/prolog-reasoner](https://github.com/rikarazome/prolog-reasoner) [![rikarazome/prolog-reasoner MCP server](https://glama.ai/mcp/servers/rikarazome/prolog-reasoner/badges/score.svg)](https://glama.ai/mcp/servers/rikarazome/prolog-reasoner) 🐍 🏠 🍎 🪟 🐧 - SWI-Prolog execution for LLMs with CLP(FD), negation-as-failure, and recursion. Benchmarked 90% vs 73% LLM-only accuracy on 30 logic problems.
 - [Sowiedu/Edict](https://github.com/Sowiedu/Edict) [![Sowiedu/Edict MCP server](https://glama.ai/mcp/servers/sowiedu/edict/badges/score.svg)](https://glama.ai/mcp/servers/sowiedu/edict) 📇 🏠 – Agent-first programming language: agents produce JSON AST, the compiler validates, type-checks, effect-checks, verifies contracts via Z3/SMT, and compiles to WASM. 19 MCP tools for the full compile-and-execute loop.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
+- [abhinaykrupa/cowork-to-code-bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge) 🐍 🏠 - MCP server for Claude Code subscription as local execution backend for agents. JSONRPC 2.0 via stdio, zero network ports, token-authenticated, production-ready. Enables agents to escalate code execution tasks locally without API key management.
 
 ### 🤖 <a name="coding-agents"></a>Coding Agents
 
