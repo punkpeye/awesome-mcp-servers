@@ -1269,6 +1269,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [laszlopere/mcp-abacus](https://github.com/laszlopere/mcp-abacus) [![laszlopere/mcp-abacus MCP server](https://glama.ai/mcp/servers/laszlopere/mcp-abacus/badges/score.svg)](https://glama.ai/mcp/servers/laszlopere/mcp-abacus) 🐍 🏠 🍎 🐧 - Type-faithful calculator: evaluate expressions under fixed-point, IEEE-754 double, or exact rational arithmetic, with every answer labelled exact vs inexact. Tools: calculate, analyze, solver, help, info. Offline, no network. `uvx mcp-abacus`.
 
 - [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel) [![joaoh82/rustunnel MCP server](https://glama.ai/mcp/servers/joaoh82/rustunnel/badges/score.svg)](https://glama.ai/mcp/servers/joaoh82/rustunnel) 🦀 🏠 ☁️ - MCP server that lets AI agents create and manage public tunnels to local services (webhooks, dev servers, sharing) — six tools covering HTTP/TCP/UDP tunnels, custom subdomains, regions, and load-balanced pools. Pairs with the rustunnel CLI; managed cloud or self-hosted (AGPL).
+- [oasdiff/oasdiff](https://github.com/oasdiff/oasdiff) 🎖️ 🏎️ ☁️ - Detect breaking changes between OpenAPI specs, plus changelogs, diff, and validation. Hosted remote MCP server (Streamable HTTP, no install or API key); also available as a CLI and GitHub Action.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
