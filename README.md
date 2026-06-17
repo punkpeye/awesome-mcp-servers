@@ -1614,6 +1614,9 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [pickelfintech/the13f-mcp](https://github.com/pickelfintech/the13f-mcp) [![pickelfintech/the13f-mcp MCP server](https://glama.ai/mcp/servers/pickelfintech/the13f-mcp/badges/score.svg)](https://glama.ai/mcp/servers/pickelfintech/the13f-mcp) 🐍 ☁️ - Institutional 13F intelligence for Claude Desktop, Cursor, and VS Code. Nine Read tools: manager search, holdings lookup, portfolio similarity, consensus portfolio, market regime, sector flows. SEC EDGAR-sourced. Install `uvx the13f-mcp`.
 - [tradallo/reputation](https://github.com/tradallo/reputation) [![tradallo/reputation MCP server](https://glama.ai/mcp/servers/tradallo/reputation/badges/score.svg)](https://glama.ai/mcp/servers/tradallo/reputation) 📇 ☁️ - MCP server + TS client + CLI for the **Tradallo Verified Record Protocol**. Query cryptographically-verified human + AI-agent trading reputations: track records, agent version history, paginated Universal Trade Receipts, and on-chain Solana memo notarization lookup. Every response is JCS-canonicalized + ed25519-verified locally before returning. Install: `npx @tradallo/reputation`.
 
+- [wuzenghai616-lang/goldbean](https://github.com/wuzenghai616-lang/goldbean) 📇 ☁️ 🍎 🪟 🐧 - x402 Micropaid API Marketplace — 10 AI tools for agents. Crypto prices, web search, weather, image-gen, LLM chat, code execution, translation, sentiment analysis, and QR code generation. Pay-per-call with USDC on Base (no API keys, no registration). Install with \
+px goldbean-mcp\.
+
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
