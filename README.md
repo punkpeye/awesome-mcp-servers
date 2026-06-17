@@ -23,24 +23,29 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Tips & Tricks](#tips-and-tricks)
 
 ## What is MCP?
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 
 ## Clients
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) and [glama.ai/mcp/clients](https://glama.ai/mcp/clients).
 
 ## Tutorials
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 
 ## Community
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
 
 ## Legend
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 * 🎖️ – official implementation
 * programming language
@@ -68,6 +73,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 > * Use cloud when MCP server is talking to remote APIs, e.g. weather API.
 
 ## Server Implementations
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
@@ -2781,6 +2787,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [SPL-BGU/PlanningCopilot](https://github.com/SPL-BGU/PlanningCopilot) [![planning-copilot MCP server](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot/badges/score.svg)](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot) 🐍🏠 - A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.
 - [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp
 ## Frameworks
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
@@ -2801,6 +2808,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [vivek081166/japan-utils-mcp](https://github.com/vivek081166/japan-utils-mcp) [![vivek081166/japan-utils-mcp MCP server](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp) 🐍 🏠 🍎 🪟 🐧 - Japan-specific utilities for AI agents: era ↔ Western year conversion (令和8年 ↔ 2026), kanji-to-romaji transliteration, 7-digit postal code lookup, national holiday calendar, hiragana ↔ katakana conversion, full-width ↔ half-width normalization, and statistical Japanese name splitting. 9 tools, MIT licensed, installable via `uvx japan-utils-mcp`.
 
 ## Tips and Tricks
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 ### Official prompt to inform LLMs how to use MCP
 
@@ -2815,6 +2823,7 @@ Now Claude can answer questions about writing MCP servers and how they work
 - https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/
 
 ## Star History
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 <a href="https://star-history.com/#punkpeye/awesome-mcp-servers&Date">
  <picture>
