@@ -1,0 +1,15 @@
+# Secrets
+.env*
+.secrets/
+*.pem
+*.key
+*secret*
+credentials.json
+service-account*.json
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.bak
+*.log
