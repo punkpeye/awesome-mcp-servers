@@ -2084,7 +2084,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Servers for maritime shipping, chartering, and freight operations.
 
-- [shipping-ship-it/laytime-calculator-pro](https://github.com/shipping-ship-it/laytime-calculator-pro) [![laytime-calculator-pro MCP server](https://glama.ai/mcp/servers/shipping-ship-it/laytime-calculator-pro/badges/score.svg)](https://glama.ai/mcp/servers/shipping-ship-it/laytime-calculator-pro) 🏢 ☁️ - AI laytime, demurrage and despatch calculation for ship chartering. Send a Charter Party, NOR or Statement of Facts and get a full, auditable laytime statement.
+- [shipping-ship-it/laytime-calculator-pro](https://github.com/shipping-ship-it/laytime-calculator-pro) [![laytime-calculator-pro MCP server](https://glama.ai/mcp/servers/shipping-ship-it/laytime-calculator-pro/badges/score.svg)](https://glama.ai/mcp/servers/shipping-ship-it/laytime-calculator-pro) 📇 ☁️ - AI laytime, demurrage and despatch calculation for ship chartering. Send a Charter Party, NOR or Statement of Facts and get a full, auditable laytime statement.
 ### 🎯 <a name="marketing"></a>Marketing
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
