@@ -2820,6 +2820,8 @@ Now Claude can answer questions about writing MCP servers and how they work
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
+   <img alt="Star History Chart" src=
+- [Stash](https://github.com/dancourse/stash) - Hosted MCP record store for Claude. Store contacts, tasks, notes and Notion exports; full-text search in milliseconds. `context()` loads standing context in one call. Google OAuth signup, no local install. Free tier available.
+"https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
