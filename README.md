@@ -2745,6 +2745,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 Astrology, tarot, numerology, Vedic systems, Human Design and other divinatory or esoteric tools — for AI agents that compute charts, draw cards, run dasha cycles, or generate horoscopes.
 
 - [astroway/astroway-mcp](https://github.com/astroway/astroway-mcp) [![astroway/astroway-mcp MCP server](https://glama.ai/mcp/servers/astroway/astroway-mcp/badges/score.svg)](https://glama.ai/mcp/servers/astroway/astroway-mcp) 📇 ☁️ 🍎 🪟 🐧 - Comprehensive astrology MCP exposing every endpoint of the AstroWay Calculation API — natal charts, synastry, transits, Vedic dashas (Vimshottari, Yogini, Ashtottari, Kalachakra), 16 Vargas, Tarot (Rider-Waite-Smith / Marseille / Lenormand), Numerology (5 systems), Human Design, AI horoscopes. Sub-arcsecond Swiss Ephemeris precision, 10 000 free credits/month. Install: `npx @astroway/mcp`.
+- [dangamsoft/cafe-mcp](https://github.com/dangamsoft/cafe-mcp) 📇 🏠 🍎 🪟 🐧 - Korean Saju (Four Pillars / 사주명리) birth-chart analysis — 5 free tools: chart, five elements, gyeokguk, yin-yang/climate, and classical yongshin candidates. Install: `npx -y @dangamsoft/cafe-mcp`.
 
 ### 🏃 <a name="sports"></a>Sports
 
