@@ -1769,6 +1769,9 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [phuocdu/agentpay-vn](https://github.com/phuocdu/agentpay-vn) [![phuocdu/agentpay-vn MCP server](https://glama.ai/mcp/servers/phuocdu/agentpay-vn/badges/score.svg)](https://glama.ai/mcp/servers/phuocdu/agentpay-vn) 🐍 ☁️ - VietQR payments for AI agents in Vietnam. Agents generate a VietQR code, send it to the user, and auto-confirm settlement from the bank feed. Non-custodial — money flows directly to the merchant's bank account, never held by the platform. `pip install agentpay-vn`, ships an MCP server for Claude Desktop/Code.
 - [Gainium/gainium-mcp](https://github.com/Gainium/gainium-mcp) [![gainium-mcp MCP server](https://glama.ai/mcp/servers/Gainium/gainium-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Gainium/gainium-mcp) 🎖️ 📇 ☁️ 🏠 - MCP server for Gainium DCA/Combo/Grid trading bots — manage bots, deals, balances, backtests, the crypto screener, and curated strategy presets via AI assistants.
 
+- [wuzenghai616-lang/goldbean](https://github.com/wuzenghai616-lang/goldbean) 📇 ☁️ 🍎 🪟 🐧 - x402 Micropaid API Marketplace — 10 AI tools for agents. Crypto prices, web search, weather, image-gen, LLM chat, code execution, translation, sentiment analysis, and QR code generation. Pay-per-call with USDC on Base (no API keys, no registration). Install with \
+px goldbean-mcp\.
+
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
