@@ -853,7 +853,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql) 🏎️ 🏠 – Easy to use, zero dependency MySQL MCP server built with Golang with configurable readonly mode and schema inspection.
 - [zilliztech/mcp-server-milvus](https://github.com/zilliztech/mcp-server-milvus) 🐍 🏠 ☁️ - MCP Server for Milvus / Zilliz, making it possible to interact with your database.
 - [wklee610/kafka-mcp](https://github.com/wklee610/kafka-mcp)[![kafka-mcp MCP server](https://glama.ai/mcp/servers/wklee610/kafka-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wklee610/kafka-mcp) 🐍 🏠 ☁️ - MCP server for Apache Kafka that allows LLM agents to inspect topics, consumer groups, and safely manage offsets (reset, rewind).
-
+- [herotech101/Enterprise-SQL-Postgres-MCP-Server-Demo](https://github.com/herotech101/Enterprise-SQL-Postgres-MCP-Server-Demo) #️⃣ 🏠 🪟 - Hardened C# Model Context Protocol (MCP) server for MS SQL Server and PostgreSQL databases featuring read-only transaction safeguards, command security filters, and path traversal protection.
 ### 📊 <a name="data-platforms"></a>Data Platforms
 
 Data Platforms for data integration, transformation and pipeline orchestration.
