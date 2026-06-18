@@ -40,6 +40,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+- [OpenRuna MCP catalog](https://www.openruna.com/hubs/mcp-connectors) — Searchable directory of MCP servers with tool metadata and graph links to agents/workflows.
 
 ## Legend
 
