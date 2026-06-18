@@ -40,6 +40,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [Unyly](https://unyly.org) - 15,000+ MCP servers catalog with one-click install for Claude Desktop, Claude Code, Cursor, and VS Code. Semantic search, security audit, free.
+* [Unyly](https://unyly.org) - 15,000+ MCP servers catalog with one-click install for Claude Desktop, Claude Code, Cursor, and VS Code. Semantic search, security audit, free.
 
 ## Legend
 
