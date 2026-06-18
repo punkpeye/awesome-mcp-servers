@@ -2317,6 +2317,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 - [spranab/saga-mcp](https://github.com/spranab/saga-mcp) [![saga-mcp MCP server](https://glama.ai/mcp/servers/@spranab/saga-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@spranab/saga-mcp) 📇 🏠 🍎 🪟 🐧 - A Jira-like project tracker for AI agents with full hierarchy (Projects > Epics > Tasks > Subtasks), task dependencies with auto-block/unblock, threaded comments, reusable templates, activity logging, and a natural language dashboard. SQLite-backed, 31 tools.
 - [agrath/Trello-Desktop-MCP](https://github.com/agrath/Trello-Desktop-MCP) [![agrath/Trello-Desktop-MCP MCP server](https://glama.ai/mcp/servers/agrath/Trello-Desktop-MCP/badges/score.svg)](https://glama.ai/mcp/servers/agrath/Trello-Desktop-MCP) 📇 ☁️ 🍎 🪟 🐧 - Comprehensive Trello integration: 46 tools covering boards, cards, lists, labels, checklists, attachments, members, custom fields, and search. Read-only mode, image attachment
 auto-download. Install via `npx atlassian-trello-mcp`.
+- [ambix-ai/ambix](https://github.com/ambix-ai/ambix) 🎖️ 🏎️ ☁️ - Shared strategic product memory for product teams, served as a remote MCP server. Connects Claude (and Cursor, Codex, VS Code…) to your Ambix workspace — strategy, initiatives, objectives, opportunities, journey stages and decisions — so the team reasons over its full product context in conversation. Hosted at `https://mcp.ambix.ai`.
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
