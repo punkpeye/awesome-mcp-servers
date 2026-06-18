@@ -2221,11 +2221,9 @@ Servers for controlling the desktop operating system: screenshots, window manage
 
 Servers for podcast production and discovery: hosting APIs, analytics, search, and transcripts.
 
-- [conorbronsdon/op3-mcp](https://github.com/conorbronsdon/op3-mcp) 📇 ☁️ - Podcast analytics from OP3, the Open Podcast Prefix Project: downloads over time, listener geography, app share, and per-episode breakdowns. Read-only by design.
-- [conorbronsdon/podcastindex-mcp](https://github.com/conorbronsdon/podcastindex-mcp) 📇 ☁️ - Search the Podcast Index: podcasts, episodes, guest appearances by person, trending shows, and feed health.
-- [conorbronsdon/Transistor-MCP](https://github.com/conorbronsdon/Transistor-MCP) 📇 ☁️ - Manage Transistor.fm podcasts: episodes, analytics, download summaries, episode comparisons, transcripts, and webhooks.
-- [jonathanmoore/tldl](https://github.com/jonathanmoore/tldl) 🐍 ☁️ - YouTube and Spotify podcast transcripts as clean markdown using platform auto-captions, no LLM transcription.
-- [oscargullberg/apple-podcast-mcp-server](https://github.com/oscargullberg/apple-podcast-mcp-server) 🐍 ☁️ - Lightweight search for Apple Podcasts.
+- [conorbronsdon/op3-mcp](https://github.com/conorbronsdon/op3-mcp) [![conorbronsdon/op3-mcp MCP server](https://glama.ai/mcp/servers/conorbronsdon/op3-mcp/badges/score.svg)](https://glama.ai/mcp/servers/conorbronsdon/op3-mcp) 📇 ☁️ - Podcast analytics from OP3, the Open Podcast Prefix Project: downloads over time, listener geography, app share, and per-episode breakdowns. Read-only by design.
+- [conorbronsdon/podcastindex-mcp](https://github.com/conorbronsdon/podcastindex-mcp) [![conorbronsdon/podcastindex-mcp MCP server](https://glama.ai/mcp/servers/conorbronsdon/podcastindex-mcp/badges/score.svg)](https://glama.ai/mcp/servers/conorbronsdon/podcastindex-mcp) 📇 ☁️ - Search the Podcast Index: podcasts, episodes, guest appearances by person, trending shows, and feed health.
+- [conorbronsdon/Transistor-MCP](https://github.com/conorbronsdon/Transistor-MCP) [![conorbronsdon/Transistor-MCP MCP server](https://glama.ai/mcp/servers/conorbronsdon/Transistor-MCP/badges/score.svg)](https://glama.ai/mcp/servers/conorbronsdon/Transistor-MCP) 📇 ☁️ - Manage Transistor.fm podcasts: episodes, analytics, download summaries, episode comparisons, transcripts, and webhooks.
 - [Red5d/podcast_mcp](https://github.com/Red5d/podcast_mcp) [![Red5d/podcast_mcp MCP server](https://glama.ai/mcp/servers/Red5d/podcast_mcp/badges/score.svg)](https://glama.ai/mcp/servers/Red5d/podcast_mcp) 🐍 ☁️ - Episode data and transcripts from Podcasting 2.0 RSS feeds.
 
 ### 📋 <a name="product-management"></a>Product Management
