@@ -1363,7 +1363,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - A JavaScript-driven M5Stack-embedded super-kawaii robot with MCP server functionality for AI-controlled interactions and emotions.
 - [yoelbassin/gnuradioMCP](https://github.com/yoelbassin/gnuradioMCP) 🐍 📟 🏠 - An MCP server for GNU Radio that enables LLMs to autonomously create and modify RF `.grc` flowcharts.
 - [catallo/misterclaw](https://github.com/catallo/misterclaw) [![catallo/misterclaw MCP server](https://glama.ai/mcp/servers/catallo/misterclaw/badges/score.svg)](https://glama.ai/mcp/servers/catallo/misterclaw) 🏎️ 📟 🏠 🐧 🍎 - MiSTerClaw — MCP remote control for MiSTer-FPGA. Launch games, search ROMs, take screenshots, manage systems, and set up Tailscale VPN. Auto-discovers 70+ systems with dynamic core/ROM scanning.
-- [zackpeters93/ugs-mcp](https://github.com/zackpeters93/ugs-mcp) 🐍 📟 🏠 🍎 - CNC machine control via Universal G-code Sender (GRBL). Jog axes, home, run G-code files, inspect toolpaths, estimate cycle times. Motion commands require two-step token confirmation — Claude cannot move hardware autonomously.
+- [zackpeters93/ugs-mcp](https://github.com/zackpeters93/ugs-mcp) [![zackpeters93/ugs-mcp MCP server](https://glama.ai/mcp/servers/zackpeters93/ugs-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zackpeters93/ugs-mcp) 🐍 📟 🏠 🍎 - CNC machine control via Universal G-code Sender (GRBL). Jog axes, home, run G-code files, inspect toolpaths, estimate cycle times. Motion commands require two-step token confirmation — Claude cannot move hardware autonomously.
 
 ### 🎓 <a name="education"></a>Education
 
