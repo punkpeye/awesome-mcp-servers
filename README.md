@@ -95,6 +95,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
 * 🛒 - [E-Commerce](#e-commerce)
+* 🧬 - [Earth Sciences](#earth-sciences)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
@@ -1354,6 +1355,12 @@ Provides access to documentation and shortcuts for working on embedded devices.
 - [yoelbassin/gnuradioMCP](https://github.com/yoelbassin/gnuradioMCP) 🐍 📟 🏠 - An MCP server for GNU Radio that enables LLMs to autonomously create and modify RF `.grc` flowcharts.
 - [catallo/misterclaw](https://github.com/catallo/misterclaw) [![catallo/misterclaw MCP server](https://glama.ai/mcp/servers/catallo/misterclaw/badges/score.svg)](https://glama.ai/mcp/servers/catallo/misterclaw) 🏎️ 📟 🏠 🐧 🍎 - MiSTerClaw — MCP remote control for MiSTer-FPGA. Launch games, search ROMs, take screenshots, manage systems, and set up Tailscale VPN. Auto-discovers 70+ systems with dynamic core/ROM scanning.
 - [FoundryNet/forge-mcp](https://github.com/FoundryNet/forge-mcp) [![FoundryNet/forge-mcp MCP server](https://glama.ai/mcp/servers/FoundryNet/forge-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FoundryNet/forge-mcp) 🐍 ☁️ 📟 🎖️ - Cross-OEM industrial machine intelligence — normalize and query machine telemetry across Fanuc, Siemens, Haas, DMG Mori, and Mazak through one schema. 14 tools for telemetry normalization, coverage lookup, and edge attestation.
+
+### 🧬 <a name="earth-sciences"></a>Earth Sciences
+
+MCP servers for weather, climate, atmospheric data, and earth observation tools.
+
+- [Tarun-004/Weather-MCP-Server](https://github.com/Tarun-004/Weather-MCP-Server) [![Tarun-004/Weather-MCP-Server MCP server](https://glama.ai/mcp/servers/Tarun-004/Weather-MCP-Server/badges/score.svg)](https://glama.ai/mcp/servers/Tarun-004/Weather-MCP-Server) 🐍 ☁️ 🍎 🪟 🐧 - Real-time weather data server powered by OpenWeatherMap. Provides current conditions, sky state (sunny/cloudy/rainy), air quality index (AQI) with health advisories, and a 5-day plain-English forecast.
 
 ### 🎓 <a name="education"></a>Education
 
