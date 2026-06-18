@@ -788,6 +788,8 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [wklee610/kafka-mcp](https://github.com/wklee610/kafka-mcp)[![kafka-mcp MCP server](https://glama.ai/mcp/servers/wklee610/kafka-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wklee610/kafka-mcp) 🐍 🏠 ☁️ - MCP server for Apache Kafka that allows LLM agents to inspect topics, consumer groups, and safely manage offsets (reset, rewind).
 
 ### 📊 <a name="data-platforms"></a>Data Platforms
+- [CorpusIQ](https://github.com/Ben-Home/cross-source-roas) - Business intelligence MCP server connecting ecommerce, marketing, and analytics data sources to AI assistants. 📊
+
 
 Data Platforms for data integration, transformation and pipeline orchestration.
 
