@@ -100,6 +100,7 @@
 * 🗺️ - [位置服务](#location-services)
 * 🎯 - [营销](#marketing)
 * 📊 - [监测](#monitoring)
+* 🖥️ - [操作系统自动化](#os-automation)
 * 🔎 - [搜索](#search)
 * 🔒 - [安全](#security)
 * 🏃 - [体育](#sports)
@@ -498,6 +499,15 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) 🐍 🏠 - 通过基于提示的智能分析，从代码复杂度到安全漏洞等10个关键维度，提升AI生成代码的质量
 - [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test) 🐍 ☁️ - 互联网速度测试，包括下载/上传速度、延迟、抖动分析和地理映射的CDN服务器检测等网络性能指标
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🏆 🏆 🏠 - 与 [VictoriaMetrics API](https://docs.victoriametrics.com/victoriametrics/url-examples/) 和[文档](https://docs.victoriametrics.com/) 完整集成，监控你的 VictoriaMetrics 实例及排查问题。
+
+### 🖥️ <a name="os-automation"></a>操作系统自动化
+
+用于控制桌面操作系统的服务器：截图、窗口管理、鼠标/键盘输入注入，以及系统级自动化。
+
+- [sbuysse/gnome-desktop-mcp](https://github.com/sbuysse/gnome-desktop-mcp) [![gnome-desktop-mcp MCP server](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sbuysse/gnome-desktop-mcp) 🐍 🏠 🐧 - 面向 AI 智能体的 GNOME 桌面自动化。通过 D-Bus 提供 30 个工具：截图、窗口管理、鼠标/键盘注入、剪贴板、工作区与系统通知。适用于任意 GNOME 45–49 的 Linux 桌面。
+- [dimpagk92/cellar](https://github.com/dimpagk92/cellar) [![dimpagk92/cellar MCP server](https://glama.ai/mcp/servers/dimpagk92/cellar/badges/score.svg)](https://glama.ai/mcp/servers/dimpagk92/cellar) 🦀 📇 🏠 🍎 🐧 - 混合式 computer-use 运行时。将无障碍树（accessibility tree）+ Chrome DevTools Protocol + 视觉融合为带每元素置信度的结构化上下文。提供 4 个 MCP 工具（see/act/think/perceive）。持续感知引擎（Cortex）具备新鲜度与副作用检测。可配合 Ollama + 本地模型离线运行。
+- [Harusame64/desktop-touch-mcp](https://github.com/Harusame64/desktop-touch-mcp) [![desktop-touch-mcp MCP server](https://glama.ai/mcp/servers/Harusame64/desktop-touch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Harusame64/desktop-touch-mcp) 📇 🦀 🏠 🪟 - 面向 LLM 智能体的 Windows 桌面自动化，采用基于实体（entity）的操作而非仅靠坐标点击。使用 UIA、CDP、截图、键盘/鼠标/剪贴板与终端控制，并通过实体租约、送达校验、因果上下文与交互记忆来减少 UI 自动化的静默失败。
+- [tinqiao-oss/clawtouch-mcp](https://github.com/tinqiao-oss/clawtouch-mcp) [![tinqiao-oss/clawtouch-mcp MCP server](https://glama.ai/mcp/servers/tinqiao-oss/clawtouch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tinqiao-oss/clawtouch-mcp) 🐍 🏠 🍎 🪟 🐧 - 通过运行开源固件的 Raspberry Pi Pico 2 实现真实 USB HID 键鼠控制。把移动、点击、拖拽、输入、组合键与滚轮暴露为 MCP 工具，供任意 MCP 客户端使用。走标准驱动路径的真实物理 HID 输入，并提供 `--mock` 模式用于无硬件试用。`pip install clawtouch-mcp`
 
 ### 🔎 <a name="search"></a>搜索
 
