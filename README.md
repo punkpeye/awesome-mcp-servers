@@ -1795,7 +1795,8 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 - [wuzenghai616-lang/goldbean](https://github.com/wuzenghai616-lang/goldbean) [![wuzenghai616-lang/goldbean MCP server](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean/badges/score.svg)](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean) 📇 ☁️ 🍎 🪟 🐧 - x402 Micropaid API Marketplace — 10 AI tools for agents. Crypto prices, web search, weather, image-gen, LLM chat, code execution, translation, sentiment analysis, and QR code generation. Pay-per-call with USDC on Base (no API keys, no registration). Install with \
 px goldbean-mcp\.
-
+- [Faouzi122/Arsenal-Quant-Project](https://github.com/Faouzi122/Arsenal-Quant-Project) &#x1F40D; &#x2601;&#xFE0F; - Deterministic MEV & Slippage Risk Oracle for DeFAI Agents, gated by L402 paywall (150 sats).
+  
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
