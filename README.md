@@ -3171,3 +3171,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [djaregithub/aeo-audit-mcp](https://github.com/djaregithub/aeo-audit-mcp) 📇 ☁️ - First **AEO (Answer Engine Optimization) audit** MCP server. Audit any URL for AI agent readability (Claude, GPT, Perplexity, Google AI Overviews). Returns 0–100 score, grade A+ to F, breakdown across 6 dimensions (llms.txt, robots.txt AI-bot allowance, JSON-LD, meta tags, semantic HTML, Schema.org), and prioritized fix recommendations. Two tools: `aeo_audit` and `aeo_compare`. Free 50 calls/day per agent, $0.05 USDC per call via X402 protocol on Base L2. Hosted at https://mcpaiprotocol.online. Pure PHP, no headless browser, <500ms per audit. MIT.
