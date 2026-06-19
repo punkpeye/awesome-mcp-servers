@@ -1669,6 +1669,7 @@ Control smart home devices, home network equipment, and automation systems.
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
+- [yonro/memory-os-cli](https://github.com/yonro/memory-os-cli) [![xmemo MCP server](https://glama.ai/mcp/servers/yonro/memory-os-cli/badges/score.svg)](https://glama.ai/mcp/servers/yonro/memory-os-cli) 📇 ☁️ - User-owned memory for AI agents over remote MCP. Save, search, recall, update, forget, redact, and explain memories across Copilot, Claude, ChatGPT, IDEs, CLIs, and other MCP-compatible agents. `npx -y @xmemo/client`
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
