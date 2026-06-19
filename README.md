@@ -1473,7 +1473,37 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [finmap-org/mcp-server](https://github.com/finmap-org/mcp-server) - [finmap.org](https://finmap.org/) MCP server provides comprehensive historical data from the US, UK, Russian and Turkish stock exchanges. Access sectors, tickers, company profiles, market cap, volume, value, and trade counts, as well as treemap and histogram visualizations.
 - [flox-foundation/flox-mcp](https://github.com/FLOX-Foundation/flox/tree/main/mcp) [![flox MCP server](https://glama.ai/mcp/servers/FLOX-Foundation/flox/badges/score.svg)](https://glama.ai/mcp/servers/FLOX-Foundation/flox) 🐍 🏠 - MCP server for the FLOX trading systems framework. ~30 tools to run backtests, scaffold strategies, validate for lookahead bias, place orders, query PnL via Claude/Cursor. C++23 core with Python/Node/Codon/QuickJS strategy bindings. Same code from backtest to live (CcxtBroker or native connectors). Install: `pip install flox-mcp`.
 - [Fund-z/fundzwatch-mcp](https://github.com/Fund-z/fundzwatch-mcp) [![Fund-z/fundzwatch-mcp MCP server](https://glama.ai/mcp/servers/Fund-z/fundzwatch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Fund-z/fundzwatch-mcp) 📇 ☁️ - Real-time business event intelligence for AI agents. Funding rounds, acquisitions, executive hires, AI-scored leads, and market intelligence.
-- [gabrielmahia/mpesa-mcp](https://github.com/gabrielmahia/mpesa-mcp) [![gabrielmahia/mpesa-mcp MCP server](https://glama.ai/mcp/servers/gabrielmahia/mpesa-mcp/badges/score.svg)](https://glama.ai/mcp/servers/gabrielmahia/mpesa-mcp) 🐍 ☁️ - First MCP server for M-PESA (Safaricom Daraja API) — STK push, B2C payments, balance queries, transaction status, SIM swap detection, Bill Manager, and 16 more tools for Kenya's 35M+ mobile money users. `pip install mpesa-mcp`.
+- [gabrielmahia/mpesa-mcp](https://github.com/gabrielmahia/mpesa-mcp) - M-Pesa payments, B2C/B2B, STK Push, Africa's Talking SMS across 20+ African networks. 22 tools.
+- [gabrielmahia/wapimaji-mcp](https://github.com/gabrielmahia/wapimaji-mcp) - Kenya NDMA drought phase data across 47 counties with SMS alerting.
+- [gabrielmahia/remit-mcp](https://github.com/gabrielmahia/remit-mcp) - African diaspora remittance corridor comparison and optimization.
+- [gabrielmahia/mkopo-mcp](https://github.com/gabrielmahia/mkopo-mcp) - Alternative credit scoring (300-850) from M-PESA behavioral signals for unbanked adults.
+- [gabrielmahia/bima-mcp](https://github.com/gabrielmahia/bima-mcp) - Kenya insurance intelligence — NHIF coverage, products, parametric crop risk scoring.
+- [gabrielmahia/sifa-mcp](https://github.com/gabrielmahia/sifa-mcp) - Portable reputation and skills passports for East Africa informal workers.
+- [gabrielmahia/soko-mcp](https://github.com/gabrielmahia/soko-mcp) - East Africa commodity price intelligence across 8 markets with sell/hold decisions.
+- [gabrielmahia/kra-mcp](https://github.com/gabrielmahia/kra-mcp) - Kenya Revenue Authority tax compliance — PIN, returns, obligations.
+- [gabrielmahia/faida-mcp](https://github.com/gabrielmahia/faida-mcp) - Kenya capital markets — NSE data, SACCO finance, investment guidance.
+- [gabrielmahia/kilimo-mcp](https://github.com/gabrielmahia/kilimo-mcp) - Kenya precision agriculture — crop diagnosis, weather guidance, buyer matching.
+- [gabrielmahia/familia-mcp](https://github.com/gabrielmahia/familia-mcp) - Kenya family legal matters — inheritance, wills, trusts, diaspora property.
+- [gabrielmahia/diaspora-mcp](https://github.com/gabrielmahia/diaspora-mcp) - Kenyan diaspora services — dual citizenship, diaspora taxes, homeland investment.
+- [gabrielmahia/tafsiri-mcp](https://github.com/gabrielmahia/tafsiri-mcp) - Kenyan language resources — Swahili, Kikuyu, Luo civic terminology translation.
+- [gabrielmahia/historia-mcp](https://github.com/gabrielmahia/historia-mcp) - Kenya and East Africa historical archives from 3000 BCE to present.
+- [gabrielmahia/county-mcp](https://github.com/gabrielmahia/county-mcp) - Kenya 47-county local government data — demographics, budgets, services.
+- [gabrielmahia/ardhi-mcp](https://github.com/gabrielmahia/ardhi-mcp) - Kenya land administration — title search, rates, subdivision, dispute resolution.
+- [gabrielmahia/mazingira-mcp](https://github.com/gabrielmahia/mazingira-mcp) - Kenya environment — NEMA permits, climate data, conservation areas.
+- [gabrielmahia/elimu-mcp](https://github.com/gabrielmahia/elimu-mcp) - Kenya education — school registry, KCSE/KCPE results, HELB loans, TVET.
+- [gabrielmahia/jumuia-mcp](https://github.com/gabrielmahia/jumuia-mcp) - Kenya community finance — SACCO finder, chama formation, cooperative benefits.
+- [gabrielmahia/usafiri-mcp](https://github.com/gabrielmahia/usafiri-mcp) - Kenya transport — matatu routes, NTSA services, boda licensing, freight.
+- [gabrielmahia/afya-mcp](https://github.com/gabrielmahia/afya-mcp) - Kenya health system — SHA/NHIF coverage, facility finder, maternal health.
+- [gabrielmahia/habari-mcp](https://github.com/gabrielmahia/habari-mcp) - Kenya civic information — Kenya Gazette, tenders, parliament tracker.
+- [gabrielmahia/nishati-mcp](https://github.com/gabrielmahia/nishati-mcp) - Kenya energy — KPLC tariffs, off-grid solar, rural electrification programs.
+- [gabrielmahia/kazi-mcp](https://github.com/gabrielmahia/kazi-mcp) - Kenya labour market — job listings, employer guides, employment rights.
+- [gabrielmahia/haki-ya-kazi-mcp](https://github.com/gabrielmahia/haki-ya-kazi-mcp) - Kenya labour rights — Employment Act, dispute resolution, worker protections.
+- [gabrielmahia/afya-ya-akili-mcp](https://github.com/gabrielmahia/afya-ya-akili-mcp) - Kenya mental health resources — facilities, counselling, crisis support.
+- [gabrielmahia/nyumba-mcp](https://github.com/gabrielmahia/nyumba-mcp) - Kenya housing — social housing, tenant rights, building codes.
+- [gabrielmahia/church-mcp](https://github.com/gabrielmahia/church-mcp) - Kenya religious institutions — Catholic dioceses, Protestant, Muslim communities, welfare.
+- [gabrielmahia/fomu-mcp](https://github.com/gabrielmahia/fomu-mcp) - Kenya civic form agent — government process checklists, eCitizen guide, Huduma Centres.
+- [gabrielmahia/offline-mcp](https://github.com/gabrielmahia/offline-mcp) - Offline-first local AI inference via Ollama — data-sovereign, no API key required.
+- [gabrielmahia/civic-agent-kit](https://github.com/gabrielmahia/civic-agent-kit) - Unified SDK for East Africa civic AI agents — orchestrates all 30 domain MCP servers.
 - [gblinproject/GBLIN-MCP](https://github.com/gblinproject/GBLIN-MCP) [![gblinproject/GBLIN-MCP MCP server](https://glama.ai/mcp/servers/gblinproject/GBLIN-MCP/badges/score.svg)](https://glama.ai/mcp/servers/gblinproject/GBLIN-MCP) 📇 ☁️ - Treasury standard for AI agents on Base mainnet. Park idle USDC in a cbBTC/WETH index with Crash Shield protection, JIT-swap to USDC for x402 invoice payments.
 - [getAlby/mcp](https://github.com/getAlby/mcp) 🎖️ 📇 ☁️ 🏠 - Connect any bitcoin lightning wallet to your agent to send and receive instant payments globally.
 - [getalby/nwc-mcp-server](https://github.com/getalby/nwc-mcp-server) 📇 🏠 - Bitcoin Lightning wallet integration powered by Nostr Wallet Connect
