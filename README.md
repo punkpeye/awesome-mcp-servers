@@ -1800,6 +1800,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 - [wuzenghai616-lang/goldbean](https://github.com/wuzenghai616-lang/goldbean) [![wuzenghai616-lang/goldbean MCP server](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean/badges/score.svg)](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean) 📇 ☁️ 🍎 🪟 🐧 - x402 Micropaid API Marketplace — 10 AI tools for agents. Crypto prices, web search, weather, image-gen, LLM chat, code execution, translation, sentiment analysis, and QR code generation. Pay-per-call with USDC on Base (no API keys, no registration). Install with \
 px goldbean-mcp\.
+- [SynderAccounting/gl-importer-plugin](https://github.com/SynderAccounting/gl-importer-plugin) 🎖️ 📇 ☁️ - Import CSV/XLSX accounting data into QuickBooks Online or Xero via the [Synder Importer API](https://importer.synder.com). 19 tools covering imports, field mapping rules, post-import rules, and entity discovery. Install with `npx -y @cloudbusiness/gl-importer-mcp`.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
