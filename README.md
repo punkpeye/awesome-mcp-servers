@@ -3064,6 +3064,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [kiwamizamurai/mcp-kibela-server](https://github.com/kiwamizamurai/mcp-kibela-server) - 📇 ☁️ Powerfully interact with Kibela API.
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ Allows AI models to interact with [Kibela](https://kibe.la/)
 - [Klavis-AI/YouTube](https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/youtube) 🐍 📇 - Extract and convert YouTube video information.
+- [kochetkov-ma/brewpage-mcp](https://github.com/kochetkov-ma/brewpage-openapi) 📇 ☁️ - Publish HTML, Markdown, JSON, key-value pairs, files, and multi-file sites to [brewpage.app](https://brewpage.app) — a free hosting service with short URLs, TTL-based retention (15–30 days), and owner tokens for later updates. No account required. `npx -y brewpage-mcp`.
 - [KS-GEN-AI/confluence-mcp-server](https://github.com/KS-GEN-AI/confluence-mcp-server) 📇 ☁️ 🍎 🪟 - Get Confluence data via CQL and read pages.
 - [KS-GEN-AI/jira-mcp-server](https://github.com/KS-GEN-AI/jira-mcp-server) 📇 ☁️ 🍎 🪟 - Read jira data via JQL and api and execute requests to create and edit tickets.
 - [kw510/strava-mcp](https://github.com/kw510/strava-mcp) 📇 ☁️ - An MCP server for Strava, an app for tracking physical exercise
