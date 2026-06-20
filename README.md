@@ -2277,6 +2277,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [yshngg/pmcp](https://github.com/yshngg/pmcp) 🏎️ ☁️ 🏠 🍎 🪟 🐧 - A Prometheus Model Context Protocol Server.
 - [zw008/VMware-Aria](https://github.com/zw008/VMware-Aria) [![zw008/vmware-aria MCP server](https://glama.ai/mcp/servers/zw008/vmware-aria/badges/score.svg)](https://glama.ai/mcp/servers/zw008/vmware-aria) 🐍 ☁️ - VMware Aria Operations monitoring — performance metrics, alarms, capacity analysis, and anomaly detection across vSphere infrastructure. 27 tools (21 read, 6 write) with audit logging for acknowledge/cancel actions.
 - [aayushmdesai/mcp-dotnet-diagnostics](https://github.com/aayushmdesai/mcp-dotnet-diagnostics) [![aayushmdesai/mcp-dotnet-diagnostics MCP server](https://glama.ai/mcp/servers/aayushmdesai/mcp-dotnet-diagnostics/badges/score.svg)](https://glama.ai/mcp/servers/aayushmdesai/mcp-dotnet-diagnostics) 🏠 🍎 🐧 - Live .NET runtime diagnostics for AI assistants. Ask Claude to diagnose memory leaks, GC pressure, LOH fragmentation, and thread starvation in any running .NET process — no code changes required. Install: `dotnet tool install -g mcp-dotnet-diagnostics`
+- [PixelVault](https://pixelvault.dev/docs#mcp) 🎖️ 📇 ☁️ - Agent-first image hosting — upload images (base64 or URL), list, fetch, and delete; returns instant CDN URLs. Remote streamable-http server at mcp.pixelvault.dev.
 
 ### 🎥 <a name="multimedia-process"></a>Multimedia Process
 
