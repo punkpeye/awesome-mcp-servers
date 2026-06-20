@@ -290,6 +290,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [thelongevityvault/decoder-3am-mcp](https://github.com/thelongevityvault/decoder-3am-mcp) [![thelongevityvault/decoder-3am-mcp MCP server](https://glama.ai/mcp/servers/thelongevityvault/decoder-3am-mcp/badges/score.svg)](https://glama.ai/mcp/servers/thelongevityvault/decoder-3am-mcp) 📇 ☁️ - Sleep disruption cause classifier using The Longevity Vault's 5-cause framework. Identifies the biological mechanism behind 3am wakeups from symptom descriptions, with tracked links to the full interactive 3AM Decoder.
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs. Provides seamless integration with FHIR servers, enabling AI assistants to search, retrieve, create, update, and analyze clinical healthcare data with SMART-on-FHIR authentication support.
 
+- [lm203688/kb-ecosystem](https://github.com/lm203688/kb-ecosystem) 📇 ☁️ - GeneTech Knowledge Engine MCP server: 12 frontier science knowledge bases (4,000+ structured entities) covering gene technology, quantum computing, nuclear energy, brain science, deep-sea tech, exo-science, and more. Search, browse, and retrieve structured data for AI agents. Free API, no key needed for basic tier. `npx @frontierkb/mcp-server`
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
@@ -1558,6 +1559,7 @@ Control smart home devices, home network equipment, and automation systems.
 - [kambriso/fritzbox-mcp-server](https://github.com/kambriso/fritzbox-mcp-server) 🏎️ 🏠 - Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
+- [lm203688/kb-ecosystem](https://github.com/lm203688/kb-ecosystem) 📇 ☁️ - 12-domain structured science knowledge base with 4,000+ entities. Cross-domain references, AI-optimized FAQs, OpenAPI 3.1. Domains: gene tech, life science, quantum, nuclear, brain, deep-sea, exo-science. Free REST API.
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
