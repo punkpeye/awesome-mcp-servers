@@ -1800,7 +1800,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 - [wuzenghai616-lang/goldbean](https://github.com/wuzenghai616-lang/goldbean) [![wuzenghai616-lang/goldbean MCP server](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean/badges/score.svg)](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean) 📇 ☁️ 🍎 🪟 🐧 - x402 Micropaid API Marketplace — 10 AI tools for agents. Crypto prices, web search, weather, image-gen, LLM chat, code execution, translation, sentiment analysis, and QR code generation. Pay-per-call with USDC on Base (no API keys, no registration). Install with \
 px goldbean-mcp\.
-- [GitSerge-crypto/aotrust-skills](https://github.com/GitSerge-crypto/aotrust-skills) 📇 ☁️ - Cryptographic proof-of-existence for AI agent outputs. $0.01 USDC per PDR via x402 on Base. 4 MCP tools: notary_quote, notary_notarize_paid, notary_verify, notary_notarize. NEAR-anchored Merkle roots.
+- [GitSerge-crypto/aotrust-skills](https://github.com/GitSerge-crypto/aotrust-skills) [![GitSerge-crypto/aotrust-skills MCP server](https://glama.ai/mcp/servers/GitSerge-crypto/aotrust-skills/badges/score.svg)](https://glama.ai/mcp/servers/GitSerge-crypto/aotrust-skills) 📇 ☁️ - Cryptographic proof-of-existence for AI agent outputs. $0.01 USDC per PDR via x402 on Base. 4 MCP tools: notary_quote, notary_notarize_paid, notary_verify, notary_notarize. NEAR-anchored Merkle roots.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
