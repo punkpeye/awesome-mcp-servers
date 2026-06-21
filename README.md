@@ -3195,3 +3195,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [io.github.agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Wayland-first Linux desktop control MCP: AT-SPI accessibility trees, compositor-aware window targeting, bounded screenshots, and semantic clicks/typing. Works with Hermes Agent and Hermes Mobile.
