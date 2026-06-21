@@ -1293,6 +1293,8 @@ Tools and integrations that enhance the development workflow and environment man
 - [ysalitrynskyi/opn-mcp](https://github.com/ysalitrynskyi/opn-mcp) [![ysalitrynskyi/opn-mcp MCP server](https://glama.ai/mcp/servers/ysalitrynskyi/opn-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ysalitrynskyi/opn-mcp) 📇 ☁️ 🏠 - Shorten links, read click analytics, generate branded QR codes, and manage links on opn.onl — the open-source, self-hostable URL shortener. Works with the hosted service or your own instance.
 - [mambalabsdev/mcp-domain-deliverability-checker](https://github.com/mambalabsdev/mcp-domain-deliverability-checker) [![mambalabsdev/mcp-domain-deliverability-checker MCP server](https://glama.ai/mcp/servers/mambalabsdev/mcp-domain-deliverability-checker/badges/score.svg)](https://glama.ai/mcp/servers/mambalabsdev/mcp-domain-deliverability-checker) 📇 ☁️ - Audits a domain email deliverability: SPF, DKIM, DMARC, MX, mail provider, DNS blacklist, catch-all, and domain age, returning a 0-100 health score via an Apify actor.
 
+- [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
