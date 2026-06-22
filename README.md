@@ -1800,6 +1800,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 
 - [wuzenghai616-lang/goldbean](https://github.com/wuzenghai616-lang/goldbean) [![wuzenghai616-lang/goldbean MCP server](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean/badges/score.svg)](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean) 📇 ☁️ 🍎 🪟 🐧 - x402 Micropaid API Marketplace — 10 AI tools for agents. Crypto prices, web search, weather, image-gen, LLM chat, code execution, translation, sentiment analysis, and QR code generation. Pay-per-call with USDC on Base (no API keys, no registration). Install with \
 px goldbean-mcp\.
+- [BobMain-2025/fahali-mcp](https://github.com/BobMain-2025/fahali-mcp) [![BobMain-2025/fahali-mcp MCP server](https://glama.ai/mcp/servers/BobMain-2025/fahali-mcp/badges/score.svg)](https://glama.ai/mcp/servers/BobMain-2025/fahali-mcp) 📇 ☁️ - Real-time market-risk intelligence: 18 detection engines across crypto and US equities/ETFs with signal-to-outcome tracking. 22 read-only tools over MCP (Streamable HTTP + SSE). Observation, not financial advice.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
