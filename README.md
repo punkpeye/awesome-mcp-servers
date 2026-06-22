@@ -1440,7 +1440,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [isaacphi/mcp-gdrive](https://github.com/isaacphi/mcp-gdrive) 📇 ☁️ - Model Context Protocol (MCP) Server for reading from Google Drive and editing Google Sheets.
 - [j0hanz/filesystem-context-mcp-server](https://github.com/j0hanz/filesystem-context-mcp-server) 📇 🏠 - Read-only MCP server for secure filesystem exploration, searching, and analysis with symlink protection.
 - [jeannier/homebrew-mcp](https://github.com/jeannier/homebrew-mcp) 🐍 🏠 🍎 - Control your macOS Homebrew setup using natural language via this MCP server. Simply manage your packages, or ask for suggestions, troubleshoot brew issues etc.
-- [mahiuddinalkamal/pdf-api](https://github.com/mahiuddinalkamal/pdf-api) 🐍 ☁️ 🍎 🪟 🐧 - HTML-to-PDF, merge, split, watermark, compress, protect, rotate, and extract text from PDFs. 8 tools via RapidAPI — free tier available.
+- [pdf-api-mcp](https://smithery.ai/servers/mahiuddinalkamal/pdf-api-mcp) 🐍 ☁️ 🍎 🪟 🐧 - HTML-to-PDF, URL-to-PDF, merge, split, watermark, compress, protect, rotate, and extract text from PDFs. 9 tools via RapidAPI — free tier available.
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) 🐍 🏠 🪟 - Fast Windows file search using Everything SDK
 - [MarceauSolutions/md-to-pdf-mcp](https://github.com/MarceauSolutions/md-to-pdf-mcp) 🐍 🏠 🍎 🪟 🐧 - Convert Markdown files to professional PDFs with customizable themes, headers, footers, and styling
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - Golang implementation for local file system access.
