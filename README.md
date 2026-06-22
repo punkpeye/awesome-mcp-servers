@@ -2337,6 +2337,7 @@ Servers for controlling the desktop operating system: screenshots, window manage
 Servers for podcast analytics, search, hosting, and discovery.
 
 - [conorbronsdon/op3-mcp](https://github.com/conorbronsdon/op3-mcp) [![conorbronsdon/op3-mcp MCP server](https://glama.ai/mcp/servers/conorbronsdon/op3-mcp/badges/score.svg)](https://glama.ai/mcp/servers/conorbronsdon/op3-mcp) 📇 ☁️ - Podcast analytics from OP3, the Open Podcast Prefix Project: downloads over time, listener geography, app share, and per-episode breakdowns. Read-only by design.
+- [conorbronsdon/podcastindex-mcp](https://github.com/conorbronsdon/podcastindex-mcp) [![conorbronsdon/podcastindex-mcp MCP server](https://glama.ai/mcp/servers/conorbronsdon/podcastindex-mcp/badges/score.svg)](https://glama.ai/mcp/servers/conorbronsdon/podcastindex-mcp) 📇 ☁️ - Search the Podcast Index: podcasts, episodes, guest appearances by person, trending shows, and feed health.
 
 ### 📋 <a name="product-management"></a>Product Management
 
