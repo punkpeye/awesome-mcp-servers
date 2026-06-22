@@ -215,7 +215,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
-- [AshfordeOU/kshana](https://github.com/AshfordeOU/kshana) 🦀 🏠 🍎 🪟 🐧 - Validated PNT-resilience simulator over MCP: SGP4/SDP4 orbits, IAU reference frames, GNSS availability/DOP, GNSS/INS fusion, ARAIM integrity, and Allan deviations — the engine computes the math instead of the model guessing it. `cargo install kshana-mcp`
+- [AshfordeOU/kshana](https://github.com/AshfordeOU/kshana) [![kshana MCP server](https://glama.ai/mcp/servers/ashfordeOU/kshana/badges/score.svg)](https://glama.ai/mcp/servers/ashfordeOU/kshana) 🦀 🏠 🍎 🪟 🐧 - Validated PNT-resilience simulator over MCP: SGP4/SDP4 orbits, IAU reference frames, GNSS availability/DOP, GNSS/INS fusion, ARAIM integrity, and Allan deviations — the engine computes the math instead of the model guessing it. `cargo install kshana-mcp`
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Accurate astronomical catalog data and observing session planner. 13,000+ deep-sky objects from OpenNGC with deterministic visibility, rise/transit/set, and alt/az calculations. `npx astronomy-oracle`
 - [IO-Aerospace-software-community/mcp-server](https://github.com/IO-Aerospace-software-engineering/mcp-server) #️⃣ ☁️/🏠 🐧 - IO Aerospace MCP Server: a .NET-based MCP server for aerospace & astrodynamics — ephemeris, orbital conversions, DSS tools, time conversions, and unit/math utilities. Supports STDIO and SSE transports; Docker and native .NET deployment documented.
 
