@@ -384,6 +384,7 @@
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) 🐍 ☁️ - 여러 블록체인에서 ERC-20 토큰을 발행하는 도구를 AI 에이전트에게 제공하는 MCP 서버.
 - [kukapay/thegraph-mcp](https://github.com/kukapay/thegraph-mcp) 🐍 ☁️ - The Graph의 인덱싱된 블록체인 데이터로 AI 에이전트를 강화하는 MCP 서버.
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ - 암호화폐 가격을 가져오기 위한 Bitget API.
+- [scjang01/tossinvest-mcp](https://github.com/scjang01/tossinvest-mcp) 📇 ☁️ - 토스증권 Open API MCP 서버. 실시간 시세, 호가, 캔들, 보유 주식, 매수 가능 금액, 주문 생성/정정/취소 등의 기능을 지원합니다.
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - baostock 기반 MCP 서버로 중국 주식 시장 데이터에 대한 액세스 및 분석 기능을 제공합니다.
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - CRIC부동산AI 플랫폼에 접속하는 MCP 서버입니다. CRIC부동산AI는 커얼루이가 부동산 업계를 위해 특별히 개발한 지능형 AI 어시스턴트입니다.
 - [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - 이더리움 가상 머신(EVM) JSON-RPC 메서드에 대한 완전한 액세스를 제공하는 MCP 서버. Infura, Alchemy, QuickNode, 로컬 노드 등 모든 EVM 호환 노드 프로바이더와 함께 작동합니다.
