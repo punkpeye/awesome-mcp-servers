@@ -2337,6 +2337,7 @@ Servers for controlling the desktop operating system: screenshots, window manage
 Servers for podcast analytics, search, hosting, and discovery.
 
 - [conorbronsdon/op3-mcp](https://github.com/conorbronsdon/op3-mcp) [![conorbronsdon/op3-mcp MCP server](https://glama.ai/mcp/servers/conorbronsdon/op3-mcp/badges/score.svg)](https://glama.ai/mcp/servers/conorbronsdon/op3-mcp) 📇 ☁️ - Podcast analytics from OP3, the Open Podcast Prefix Project: downloads over time, listener geography, app share, and per-episode breakdowns. Read-only by design.
+- [conorbronsdon/Transistor-MCP](https://github.com/conorbronsdon/Transistor-MCP) [![conorbronsdon/Transistor-MCP MCP server](https://glama.ai/mcp/servers/conorbronsdon/Transistor-MCP/badges/score.svg)](https://glama.ai/mcp/servers/conorbronsdon/Transistor-MCP) 📇 ☁️ - Manage Transistor.fm podcasts: episodes, analytics, download summaries, episode comparisons, transcripts, and webhooks.
 
 ### 📋 <a name="product-management"></a>Product Management
 
