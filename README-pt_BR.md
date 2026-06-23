@@ -308,6 +308,7 @@ Ferramentas e integrações que aprimoram o fluxo de trabalho de desenvolvimento
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - O servidor Unitree Go2 MCP é um servidor construído sobre o MCP que permite aos usuários controlar o robô Unitree Go2 usando comandos em linguagem natural interpretados por um modelo de linguagem grande (LLM).
 - [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Servidor MCP de renderização de diagramas Mermaid para Claude Code com funcionalidade de recarga ao vivo, suportando múltiplos formatos de exportação (SVG, PNG, PDF) e temas.
 - [selvage-lab/selvage](https://github.com/selvage-lab/selvage) 🐍 🏠 - Servidor MCP de revisão de código baseado em LLM com extração inteligente de contexto baseada em AST. Suporta Claude, GPT, Gemini e mais de 20 modelos via OpenRouter.
+- [plumpslabs/kuma](https://github.com/plumpslabs/kuma) [![plumpslabs/kuma MCP server](https://glama.ai/mcp/servers/plumpslabs/kuma/badges/score.svg)](https://glama.ai/mcp/servers/plumpslabs/kuma) 📇 🏠 🍎 🪟 🐧 - Zero-setup safety toolkit for AI coding agents. 16 tools for context, editing, validation, and memory with built-in safety nets (rollback, circuit breaker, sandbox, timeout, dangerous pattern blocking). `npx -y @plumpslabs/kuma`
 
 ### 🧮 <a name="ferramentas-de-ciência-de-dados"></a>Ferramentas de Ciência de Dados
 
