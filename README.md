@@ -1351,6 +1351,8 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [marzukia/charted](https://github.com/marzukia/charted) [![marzukia/charted MCP server](https://glama.ai/mcp/servers/marzukia/charted/badges/score.svg)](https://glama.ai/mcp/servers/marzukia/charted) 🐍 🏠 🍎 🪟 🐧 - Zero-dependency chart server that renders bar, line, pie, scatter, and more from JSON or CSV to SVG, HTML, PNG, or data URL. Built-in themes; PNG output renders inline in chat. Install via `uvx --from charted[mcp] charted-mcp`.
 
+- [MS-Teja/Glyphic](https://github.com/MS-Teja/Glyphic) [![MS-Teja/Glyphic MCP server](https://glama.ai/mcp/servers/MS-Teja/Glyphic/badges/score.svg)](https://glama.ai/mcp/servers/MS-Teja/Glyphic) 📇 🏠 - Generate diagrams from structured JSON across 18 types (architecture, ERD, sequence, flowchart, Gantt…) — native SVG/PNG, no headless browser. Built for LLMs and agents.
+
 - [pushtodisplay/cli](https://github.com/pushtodisplay/cli)[![Push To Display MCP server](https://glama.ai/mcp/servers/pushtodisplay/cli/badges/score.svg)](https://glama.ai/mcp/servers/pushtodisplay/cli) 📇 🏠 🍎 🪟 🐧 - Push To Display MCP server send structured content to selected boards on iOS and android devices with app [Push To Display](https://pushtodisplay.com), route updates to specific panels, and render in real time with display-focused multi-panel layouts.
 
 - [Ratnaditya-J/csvglow](https://github.com/Ratnaditya-J/csvglow) [![csvglow MCP server](https://glama.ai/mcp/servers/Ratnaditya-J/csvglow/badges/score.svg)](https://glama.ai/mcp/servers/Ratnaditya-J/csvglow) 🐍 🏠 🍎 🪟 🐧 - Generate beautiful self-contained HTML dashboards from CSV/Excel files with interactive ECharts visualizations, dark gradient theme, and sortable data tables.
