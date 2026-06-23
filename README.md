@@ -1298,6 +1298,8 @@ Tools and integrations that enhance the development workflow and environment man
 - [ysalitrynskyi/opn-mcp](https://github.com/ysalitrynskyi/opn-mcp) [![ysalitrynskyi/opn-mcp MCP server](https://glama.ai/mcp/servers/ysalitrynskyi/opn-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ysalitrynskyi/opn-mcp) 📇 ☁️ 🏠 - Shorten links, read click analytics, generate branded QR codes, and manage links on opn.onl — the open-source, self-hostable URL shortener. Works with the hosted service or your own instance.
 - [mambalabsdev/mcp-domain-deliverability-checker](https://github.com/mambalabsdev/mcp-domain-deliverability-checker) [![mambalabsdev/mcp-domain-deliverability-checker MCP server](https://glama.ai/mcp/servers/mambalabsdev/mcp-domain-deliverability-checker/badges/score.svg)](https://glama.ai/mcp/servers/mambalabsdev/mcp-domain-deliverability-checker) 📇 ☁️ - Audits a domain email deliverability: SPF, DKIM, DMARC, MX, mail provider, DNS blacklist, catch-all, and domain age, returning a 0-100 health score via an Apify actor.
 
+- [sohilladhani/codesynapse](https://github.com/sohilladhani/codesynapse) [![sohilladhani/codesynapse MCP server](https://glama.ai/mcp/servers/sohilladhani/codesynapse/badges/score.svg)](https://glama.ai/mcp/servers/sohilladhani/codesynapse) 🦀 🏠 🍎 🪟 🐧 - Code intelligence MCP server that indexes your codebase into a structural graph and exposes 32 tools. Blast radius analysis, call chain tracing, class hierarchy, hybrid BM25 + dense semantic search. Fully local, no cloud API, Rust binary (~10MB).
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
