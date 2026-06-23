@@ -629,6 +629,7 @@
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - یک سرور MCP برای اتصال با pipelineهای MLOps و LLMOps [ZenML](https://www.zenml.io) شما
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - مجموعه ابزاری که حول یک سرور MCP برای اتوماسیون Android برای گردش کار توسعه‌دهنده و تست ساخته شده است
 - [paracetamol951/P-Link-MCP](https://github.com/paracetamol951/P-Link-MCP) 🏠 🐧 🍎 ☁️ - پیاده‌سازی HTTP 402 (کد http نیاز به پرداخت) با تکیه بر Solana
+- [plumpslabs/kuma](https://github.com/plumpslabs/kuma) [![plumpslabs/kuma MCP server](https://glama.ai/mcp/servers/plumpslabs/kuma/badges/score.svg)](https://glama.ai/mcp/servers/plumpslabs/kuma) 📇 🏠 🍎 🪟 🐧 - Zero-setup safety toolkit for AI coding agents. 16 tools for context, editing, validation, and memory with built-in safety nets (rollback, circuit breaker, sandbox, timeout, dangerous pattern blocking). `npx -y @plumpslabs/kuma`
 
 ### 🔒 <a name="delivery"></a>تحویل
 
