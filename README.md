@@ -2359,6 +2359,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 - [agrath/Trello-Desktop-MCP](https://github.com/agrath/Trello-Desktop-MCP) [![agrath/Trello-Desktop-MCP MCP server](https://glama.ai/mcp/servers/agrath/Trello-Desktop-MCP/badges/score.svg)](https://glama.ai/mcp/servers/agrath/Trello-Desktop-MCP) 📇 ☁️ 🍎 🪟 🐧 - Comprehensive Trello integration: 46 tools covering boards, cards, lists, labels, checklists, attachments, members, custom fields, and search. Read-only mode, image attachment
 - [xfloukiex-lab/road-poneglyph](https://github.com/xfloukiex-lab/road-poneglyph) [![xfloukiex-lab/road-poneglyph MCP server](https://glama.ai/mcp/servers/xfloukiex-lab/road-poneglyph/badges/score.svg)](https://glama.ai/mcp/servers/xfloukiex-lab/road-poneglyph) 🐍 🏠 🍎 🪟 🐧 - Reviews a plan for what's missing — unstated assumptions, omitted technical risks, and execution blind spots (a structured pre-mortem). `pip install road-poneglyph-mcp`
 auto-download. Install via `npx atlassian-trello-mcp`.
+- [ambix-ai/ambix](https://github.com/ambix-ai/ambix) 🎖️ 🏎️ ☁️ - Shared strategic product memory for product teams, served as a remote MCP server. Connects Claude (and Cursor, Codex, VS Code…) to your Ambix workspace — strategy, initiatives, objectives, opportunities, journey stages and decisions — so the team reasons over its full product context in conversation. Hosted at `https://mcp.ambix.ai`.
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
