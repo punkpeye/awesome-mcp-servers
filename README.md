@@ -107,6 +107,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
 * 🖥️ - [OS Automation](#os-automation)
+* 🎙️ - [Podcasts](#podcasts)
 * 📋 - [Product Management](#product-management)
 * 🏠 - [Real Estate](#real-estate)
 * 🔬 - [Research](#research)
@@ -2344,6 +2345,13 @@ Servers for controlling the desktop operating system: screenshots, window manage
 - [juergenkoller-software/nemeton-mcp](https://github.com/juergenkoller-software/nemeton-mcp) [![juergenkoller-software/nemeton-mcp MCP server](https://glama.ai/mcp/servers/juergenkoller-software/nemeton-mcp/badges/score.svg)](https://glama.ai/mcp/servers/juergenkoller-software/nemeton-mcp) 🏠 🍎 - MCP bridge for [Nemeton](https://store.juergenkoller.software/en/apps/nemeton) — native macOS virtual machine manager built on Apples Virtualization.framework. Create/control Linux & macOS VMs (no Parallels, no QEMU), CoW snapshots on APFS, 50+ MCP tools across VM lifecycle, console, files, networking, and host metrics.
 - [tinqiao-oss/clawtouch-mcp](https://github.com/tinqiao-oss/clawtouch-mcp) [![tinqiao-oss/clawtouch-mcp MCP server](https://glama.ai/mcp/servers/tinqiao-oss/clawtouch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tinqiao-oss/clawtouch-mcp) 🐍 🏠 🍎 🪟 🐧 - Physical USB HID keyboard/mouse control via a Raspberry Pi Pico 2 running open-source firmware. Exposes move, click, drag, type, key combos, and scroll as MCP tools for any MCP client. Genuine physical HID input on the standard driver path, with a `--mock` mode for hardware-free trials. `pip install clawtouch-mcp`
 - [juergenkoller-software/freezetext-mcp](https://github.com/juergenkoller-software/freezetext-mcp) [![juergenkoller-software/freezetext-mcp MCP server](https://glama.ai/mcp/servers/juergenkoller-software/freezetext-mcp/badges/score.svg)](https://glama.ai/mcp/servers/juergenkoller-software/freezetext-mcp) 🏠 🍎 - MCP server for [FreezeText](https://store.juergenkoller.software/en/apps/freezetext) — OCR anything on your Mac screen. Freeze the screen and extract text via Apple Vision (videos, popups, protected PDFs), OCR a region or base64 image, and manage a searchable capture history. 12 tools.
+
+### 🎙️ <a name="podcasts"></a>Podcasts
+
+Servers for podcast analytics, search, hosting, and discovery.
+
+- [conorbronsdon/op3-mcp](https://github.com/conorbronsdon/op3-mcp) [![conorbronsdon/op3-mcp MCP server](https://glama.ai/mcp/servers/conorbronsdon/op3-mcp/badges/score.svg)](https://glama.ai/mcp/servers/conorbronsdon/op3-mcp) 📇 ☁️ - Podcast analytics from OP3, the Open Podcast Prefix Project: downloads over time, listener geography, app share, and per-episode breakdowns. Read-only by design.
+- [conorbronsdon/Transistor-MCP](https://github.com/conorbronsdon/Transistor-MCP) [![conorbronsdon/Transistor-MCP MCP server](https://glama.ai/mcp/servers/conorbronsdon/Transistor-MCP/badges/score.svg)](https://glama.ai/mcp/servers/conorbronsdon/Transistor-MCP) 📇 ☁️ - Manage Transistor.fm podcasts: episodes, analytics, download summaries, episode comparisons, transcripts, and webhooks.
 
 ### 📋 <a name="product-management"></a>Product Management
 
