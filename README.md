@@ -1316,6 +1316,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
 
+- [Kerry1020/calc-mcp-worker](https://github.com/Kerry1020/calc-mcp-worker) [![Kerry1020/calc-mcp-worker MCP server](https://glama.ai/mcp/servers/Kerry1020/calc-mcp-worker/badges/score.svg)](https://glama.ai/mcp/servers/Kerry1020/calc-mcp-worker) 📇 ☁️ - High-performance math computation: batch eval, calculus, complex numbers, matrices, Newton solver, series, ODE, stats, primes, unit conversion. 25 tools, zero deps.
 - [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - The ultimate math engine unifying SymPy, NumPy & Matplotlib in one powerful server. Perfect for developers & researchers needing symbolic algebra, numerical computing, and data visualization.
 - [Archerkattri/mathlas](https://github.com/Archerkattri/mathlas) [![Archerkattri/mathlas MCP server](https://glama.ai/mcp/servers/Archerkattri/mathlas/badges/score.svg)](https://glama.ai/mcp/servers/Archerkattri/mathlas) 🐍 🏠 - Airtight math for agents: 3.7M-theorem search, PSLQ constant ID, OEIS, real Lean kernel checks, applicability checklists. No LLM inside, no API key.
 - [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp) 🐍 ☁️ - Connects to Kaggle, ability to download and analyze datasets.
