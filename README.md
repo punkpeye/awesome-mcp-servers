@@ -2997,6 +2997,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
+- [deadjim/ai-week-sf](https://github.com/deadjim/ai-week-sf) [![deadjim/ai-week-sf MCP server](https://glama.ai/mcp/servers/deadjim/ai-week-sf/badges/score.svg)](https://glama.ai/mcp/servers/deadjim/ai-week-sf) 📇 ☁️ - AI Week SF event calendar — browse and submit community AI events in San Francisco (September 28 – October 2, 2025). Connect at `https://aiweeksf.com/api/mcp`. Tools: list approved events with filters, get a single event by ID, submit new events for review (AI-reviewed, manually approved within 24–48 hours).
 - [douglasgan/asktian](https://github.com/douglasgan/asktian-mcp) [![douglasgan/asktian-mcp MCP server](https://glama.ai/mcp/servers/douglasgan/asktian-mcp/badges/score.svg)](https://glama.ai/mcp/servers/douglasgan/asktian-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Chinese metaphysics (bazi 八字, qimen 奇門, 5-element, daily 干支) as decision-support tools. Ask "when should I do X" and get specific time windows instead of vague advice. 5 tools: daily reading, compat, best-time-for-action, today's energy, name analysis. `npm install -g @asktian/mcp-server`
 
 - [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - A web-based PlantUML frontend with MCP server integration, enable plantuml image generation and plantuml syntax validation.
