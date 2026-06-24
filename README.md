@@ -1812,6 +1812,8 @@ Provides direct access to local file systems with configurable permissions. Enab
 px goldbean-mcp\.
 - [bevanding/signaldaemon](https://github.com/bevanding/signaldaemon) [![bevanding/signaldaemon MCP server](https://glama.ai/mcp/servers/bevanding/signaldaemon/badges/score.svg)](https://glama.ai/mcp/servers/bevanding/signaldaemon) 🐍 ☁️ - Narrative & signal intelligence for AI agents (crypto/AI/macro): cross-source narrative convergence and capital-vs-narrative divergence. Remote MCP server, self-serve keys, fails safe (says "no coverage" rather than hallucinating).
 
+- [Swiss Whale Intelligence](https://github.com/alpineflow-io/swiss-whale-intelligence-mcp) [![alpineflow-io/swiss-whale-intelligence-mcp MCP server](https://glama.ai/mcp/servers/alpineflow-io/swiss-whale-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alpineflow-io/swiss-whale-intelligence-mcp) ☁️ - Methodology-transparent multi-asset on-chain whale forensics for Bitcoin, Ethereum, Solana, USDT (ETH + Tron), and tokenized gold (XAUT + PAXG). Real-time whale alerts, per-address MVRV, Meiklejohn-canonical clusters, mining-pool attribution (99.6% YTD coverage), exchange + treasury flows, OFAC SDN sanctions tagging, plain-English glossary lookups. 45 tools, anonymous OAuth 2.1, free tier. Click-to-install: `claude mcp add btc-whale-intelligence https://mcp.swisswhaleintelligence.com/mcp`
+
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
