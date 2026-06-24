@@ -1417,6 +1417,8 @@ MCP servers for e-commerce platforms and online store management.
 - [slookisen/lokal](https://github.com/slookisen/lokal) [![slookisen/lokal MCP server](https://glama.ai/mcp/servers/slookisen/lokal/badges/score.svg)](https://glama.ai/mcp/servers/slookisen/lokal) 📇 ☁️ 🍎 🪟 🐧 - Search and discover 1,400+ verified local food producers in Norway — farms, REKO rings, farmers' markets, and farm shops. Natural-language search (NO/EN), geo-filtered discovery, and A2A protocol support, backed by [rettfrabonden.com](https://rettfrabonden.com). Install via `npx lokal-mcp`.
 - [tokenofesteem/mcp](https://github.com/tokenofesteem/mcp) [![tokenofesteem/mcp MCP server](https://glama.ai/mcp/servers/tokenofesteem/mcp/badges/score.svg)](https://glama.ai/mcp/servers/tokenofesteem/mcp) 🎖️ 📇 ☁️ - An agent can commission a funny, personalized printed booklet and have it printed and mailed as a gift, including a surprise for its own user. Pay with an account token, or tokenless with a single-use Stripe payment over HTTP 402. Remote MCP, US shipping, $19.99.
 
+- [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp) [![BuyWhere MCP server](https://glama.ai/mcp/servers/@BuyWhere/buywhere-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@BuyWhere/buywhere-mcp) 📇 ☁️ - Product catalog and price comparison for AI agents. Search products, compare prices across merchants, find deals across US, Singapore, and SEA markets.
+
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
 Provides access to environmental data and nature-related tools, services and information.
