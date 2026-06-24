@@ -3187,6 +3187,8 @@ Now Claude can answer questions about writing MCP servers and how they work
 - https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/
 
 ## Star History
+- [Sovereign Execution Engine](https://api.zuluworksai.com/mcp) - 16 paid x402 execution primitives for AI agents. Cross-chain routing, browser automation, compliance audits, web search, DNS audit, KV/R2 storage, LLM inference, STT, TTS, embeddings, image gen, code execution. Pay per call via x402 (USDC on Base).
+
 
 <a href="https://star-history.com/#punkpeye/awesome-mcp-servers&Date">
  <picture>
