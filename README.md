@@ -3213,3 +3213,29 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+### Hosted MCP Servers
+
+- [Country Data Mcp](https://country-data-mcp.mcpize.run) — Access comprehensive information about countries, including capitals, currencies, and neighboring nations
+- [Currency Converter Mcp](https://currency-converter-mcp.mcpize.run) — Simplify your transactions with our Live Currency Converter
+- [Ecommerce Mcp](https://ecommerce-mcp.mcpize.run) — Enhance your e-commerce strategy with our tools designed for seamless data access
+- [Environment Nature Mcp](https://environment-nature-mcp.mcpize.run) — Discover a treasure trove of environmental insights with the Nature Insights Hub
+- [Git Diff Mcp](https://git-diff-mcp.mcpize.run) — Transform your code review process with Git Diff Analyzer
+- [Home Automation Mcp](https://home-automation-mcp.mcpize.run) — Transform your home into a smart sanctuary with our Home Automation MCP server
+- [Marketing Mcp](https://marketing-mcp.mcpize.run) — Supercharge your marketing efforts with our comprehensive MCP server, designed for seamless data retrieval and analysis
+- [Os Automation Mcp](https://os-automation-mcp.mcpize.run) — Unlock the potential of your OS automation projects with our suite of tools
+- [Product Management Mcp](https://product-management-mcp.mcpize.run) — Unlock the full potential of your product management strategy with our suite of tools
+- [Prozorro Tender Monitor Mcp](https://prozorro-tender-monitor-mcp.mcpize.run) — Unlock the power of the Prozorro API to monitor Ukrainian public procurement tenders effortlessly
+- [Public Holidays Mcp](https://public-holidays-mcp.mcpize.run) — Unlock the knowledge of public holidays across 100+ countries with our reliable Public Holidays API powered by nager
+- [Research Mcp](https://research-mcp.mcpize.run) — Dive deep into the world of research with our suite of tools designed for efficiency and accuracy
+- [Security Mcp](https://security-mcp.mcpize.run) — Dive into the world of security with our MCP server designed for seamless data retrieval
+- [Support Service Management Mcp](https://support-service-management-mcp.mcpize.run) — Unlock the full potential of support service management with our suite of API tools
+- [Texttospeech Mcp](https://texttospeech-mcp.mcpize.run) — Unlock the power of voice with our Text-to-Speech MCP server
+- [Translation Services Mcp](https://translation-services-mcp.mcpize.run) — Unlock global communication with our powerful Translation MCP! Utilize the LibreTranslate API to translate text, detect languages, and even handle batch translations for your projects
+- [Travel Transportation Mcp](https://travel-transportation-mcp.mcpize.run) — Unlock a world of travel opportunities with our Travel & Transportation MCP
+- [Ua E Commerce Price Tracker Mcp](https://ua-e-commerce-price-tracker-mcp.mcpize.run) — Discover the best prices in Ukrainian e-commerce with our powerful price tracker
+- [Ua Postal Tracking Mcp](https://ua-postal-tracking-mcp.mcpize.run) — Stay updated on your shipments with our Ukrainian postal tracking tool for Nova Poshta
+- [Education Mcp](https://education-mcp.mcpize.run) — Unlock your educational journey with our advanced course search and personalized learning paths
+- [Legal Mcp](https://legal-mcp.mcpize.run) — Unlock the power of insightful legal data with our Legal MCP service
+- [Real Estate Mcp](https://real-estate-mcp.mcpize.run) — Discover the future of real estate with our autonomous service designed specifically for agents
+- [Speechtotext Mcp](https://speechtotext-mcp.mcpize.run) — Unlock the power of voice with our Speech-to-Text service
