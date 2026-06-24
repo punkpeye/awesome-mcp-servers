@@ -124,6 +124,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
+- [Mars-proj/verifiable-memory](https://github.com/Mars-proj/verifiable-memory) 🐍 🏠 🍎 🪟 🐧 - Memory for AI agents that can't hallucinate: answers only from stored facts with citation or honestly abstains (0% fabrication), plus provable forgetting (GDPR), valid-time, Merkle proofs, contradiction detection and deterministic recall. Zero deps, no GPU, ~4us/query at 1M facts. `pip install verifiable-memory-mcp`
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
