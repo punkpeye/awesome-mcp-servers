@@ -602,6 +602,8 @@ Run commands, capture output and otherwise interact with shells and command line
 - [laszlopere/mcp-tmux](https://github.com/laszlopere/mcp-tmux) [![laszlopere/mcp-tmux MCP server](https://glama.ai/mcp/servers/laszlopere/mcp-tmux/badges/score.svg)](https://glama.ai/mcp/servers/laszlopere/mcp-tmux) 🐍 🏠 🐧 🍎 - Universal tmux driver: sessions, windows, panes, keystrokes, and pane capture — local or remote over SSH. Curated tools plus a raw `tmux_command` passthrough; works against tmux 1.8+. Shared, visible sessions for pair-programming with the agent. `uvx mcp-tmux`.
 - [zb-ss/servonaut](https://github.com/zb-ss/servonaut) [![zb-ss/servonaut MCP server](https://glama.ai/mcp/servers/@zb-ss/servonaut/badges/score.svg)](https://glama.ai/mcp/servers/@zb-ss/servonaut) 🐍 🏠 🍎 🐧 - Manage AWS EC2, Hetzner, OVH and custom SSH servers: run commands, fetch logs, CloudWatch/CloudTrail queries, fleet health snapshots, IP banning, S3 — with readonly/standard/dangerous guard tiers and a JSONL audit trail.
 
+- [mwl313/KatokMCP](https://github.com/mwl313/KatokMCP) 📇 🏠 🍎 🪟 🐧 - KakaoTalk (Korea #1 messenger) MCP Server. AI assistant (Claude/OpenClaw) can read chats, list rooms, send messages, and manage members. One-time phone auth, token caching. Install: `npm install -g @katok-mcp/mcp-server && katok-mcp setup` [![mwl313/KatokMCP MCP server](https://glama.ai/mcp/servers/mwl313/KatokMCP/badges/score.svg)](https://glama.ai/mcp/servers/mwl313/KatokMCP)
+
 ### 💬 <a name="communication"></a>Communication
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
