@@ -305,8 +305,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [thelongevityvault/decoder-3am-mcp](https://github.com/thelongevityvault/decoder-3am-mcp) [![thelongevityvault/decoder-3am-mcp MCP server](https://glama.ai/mcp/servers/thelongevityvault/decoder-3am-mcp/badges/score.svg)](https://glama.ai/mcp/servers/thelongevityvault/decoder-3am-mcp) 📇 ☁️ - Sleep disruption cause classifier using The Longevity Vault's 5-cause framework. Identifies the biological mechanism behind 3am wakeups from symptom descriptions, with tracked links to the full interactive 3AM Decoder.
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs. Provides seamless integration with FHIR servers, enabling AI assistants to search, retrieve, create, update, and analyze clinical healthcare data with SMART-on-FHIR authentication support.
 
-- [GoldBean](https://goldbean-api.xyz) [![GoldBean MCP server](https://glama.ai/mcp/servers/goldbean/goldbean-mcp/badges/score.svg)](https://glama.ai/mcp/servers/goldbean/goldbean-mcp) - MCP server for Baidu AI (OCR/TTS/ASR/LLM) and HelixFold3 protein structure prediction (Nature-published, AlphaFold3-class). x402 crypto payments, 150+ endpoints. Install: 
-px goldbean-mcp.
+- [GoldBean](https://github.com/wuzenghai616-lang/goldbean) [![wuzenghai616-lang/goldbean MCP server](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean/badges/score.svg)](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean) - MCP server for Baidu AI (OCR/TTS/ASR/LLM) and HelixFold3 protein structure prediction (Nature-published, AlphaFold3-class). x402 crypto payments, 150+ endpoints. Install: npx goldbean-mcp.
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
