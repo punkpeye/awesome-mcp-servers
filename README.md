@@ -1,4 +1,4 @@
-—[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
+[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
@@ -1953,6 +1953,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [ZLeventer/salesforce-marketing-mcp](https://github.com/ZLeventer/salesforce-marketing-mcp) [![salesforce-marketing-mcp MCP server](https://glama.ai/mcp/servers/ZLeventer/salesforce-marketing-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ZLeventer/salesforce-marketing-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Salesforce MCP server built for marketing and revenue ops teams. 47 tools for leads, contacts, accounts, campaigns, campaign members, tasks, and 17 reporting tools including campaign ROI, lead-source attribution, pipeline-by-campaign, multi-touch campaign influence, MQL trend, forecast summary, and the native SFDC Reports API.
 - [andrealufino/aapl-ads-mcp](https://github.com/andrealufino/aapl-ads-mcp) [![andrealufino/aapl-ads-mcp MCP server](https://glama.ai/mcp/servers/andrealufino/aapl-ads-mcp/badges/score.svg)](https://glama.ai/mcp/servers/andrealufino/aapl-ads-mcp) 📇 - 
 - [AppVisionOS/apple-search-ads-mcp](https://github.com/AppVisionOS/apple-search-ads-mcp) [![AppVisionOS/apple-search-ads-mcp MCP server](https://glama.ai/mcp/servers/AppVisionOS/apple-search-ads-mcp/badges/score.svg)](https://glama.ai/mcp/servers/AppVisionOS/apple-search-ads-mcp) 📇 ☁️ - Apple Ads (formerly Apple Search Ads) Campaign Management API v5 with **1:1 endpoint coverage** — 74 typed tools across campaigns, ad groups, ads, creatives, custom product pages, targeting + negative keywords, performance reports, async impression-share reports, budget orders, ACLs, app/geo discovery, and rejection-reason audits. Multi-org support via per-call override. Install: `npm i -g apple-search-ads-mcp`.
+- [ryss30/mcp](https://github.com/ryss30/mcp) [![ryss30/mcp MCP server](https://glama.ai/mcp/servers/ryss30/mcp/badges/score.svg)](https://glama.ai/mcp/servers/ryss30/mcp) 📇 ☁️ - Market signal to a winning ad, fast. Three live feeds: Alerts (competitor moves daily), Patterns (what is winning and why), Reports (week in your category). Sold as Time-to-Winner.
 
 ### 📊 <a name="monitoring"></a>Monitoring
 
