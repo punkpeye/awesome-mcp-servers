@@ -123,6 +123,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+- [usualaccountant/tally-mcp](https://github.com/usualaccountant/tally-mcp) ☁️ 🪟 - AI for Tally Prime and Tally ERP 9. A hosted MCP server to ask your accounts questions in any language.
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
