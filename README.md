@@ -1821,6 +1821,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [wuzenghai616-lang/goldbean](https://github.com/wuzenghai616-lang/goldbean) [![wuzenghai616-lang/goldbean MCP server](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean/badges/score.svg)](https://glama.ai/mcp/servers/wuzenghai616-lang/goldbean) 📇 ☁️ 🍎 🪟 🐧 - x402 Micropaid API Marketplace — 10 AI tools for agents. Crypto prices, web search, weather, image-gen, LLM chat, code execution, translation, sentiment analysis, and QR code generation. Pay-per-call with USDC on Base (no API keys, no registration). Install with \
 px goldbean-mcp\.
 - [bevanding/signaldaemon](https://github.com/bevanding/signaldaemon) [![bevanding/signaldaemon MCP server](https://glama.ai/mcp/servers/bevanding/signaldaemon/badges/score.svg)](https://glama.ai/mcp/servers/bevanding/signaldaemon) 🐍 ☁️ - Narrative & signal intelligence for AI agents (crypto/AI/macro): cross-source narrative convergence and capital-vs-narrative divergence. Remote MCP server, self-serve keys, fails safe (says "no coverage" rather than hallucinating).
+- [usualaccountant/tally-mcp](https://github.com/usualaccountant/tally-mcp) ☁️ 🪟 - AI for Tally Prime and Tally ERP 9. A hosted MCP server to ask your accounts questions in any language.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
