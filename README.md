@@ -398,6 +398,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
 - [ymw0407/auth-fetch-mcp](https://github.com/ymw0407/auth-fetch-mcp) [![ymw0407/auth-fetch-mcp MCP server](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp) 📇 🏠 🍎 🪟 🐧 - Fetch content from login-protected web pages (Notion, Google Docs, Jira, Confluence, etc.) by opening a real browser for authentication with persistent session caching.
 - [PrinceGabriel-lgtm/freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp) [![freshcontext-mcp MCP server](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp) ☁️ 🏠 - Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.
+- [yubao2000/mcp-browser-server](https://github.com/yubao2000/mcp-browser-server) [![@yubao2000/mcp-browser-agent MCP server](https://glama.ai/mcp/servers/@yubao2000/mcp-browser-agent/badges/score.svg)](https://glama.ai/mcp/servers/@yubao2000/mcp-browser-agent) 📇 🏠 - 让 AI Agent 像人一样操作浏览器。36 个工具支持截图、点击、填表、提取、PDF、批量自动化、Cookie 持久化。npm 全局安装即可使用。
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
