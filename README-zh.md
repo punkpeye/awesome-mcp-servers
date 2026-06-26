@@ -1,4 +1,4 @@
-# 精选的 MCP 服务器 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# 精选的 MCP 服务器 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
@@ -180,6 +180,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - 提供对 Netskope Private Access 环境中所有组件的访问权限，包含详细的设置信息和 LLM 使用示例。
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - 一个Terraform MCP服务器，允许AI助手管理和操作Terraform环境，实现读取配置、分析计划、应用配置以及管理Terraform状态的功能。
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) ☁️ - 提供对 Netskope Private Access 环境中所有组件的访问权限，包含详细的设置信息和 LLM 使用示例。
+- [bradyliuY/page-fire](https://github.com/bradyliuY/page-fire) 📇 ☁️ 🏠 🍎 🪟 🐧 - 自托管 MCP 静态发布服务。AI 说一句话，HTML / Markdown / ZIP / 整目录秒变公网 HTTPS 页面，每个部署独立子域名。11 个 MCP 工具 + `pagefire` CLI，支持多租户、密码保护、TTL 管理。在线体验：[pagefire.openhkt.com](https://pagefire.openhkt.com)。
 - [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) 🐍 ☁️ - 提供对 VMware ESXi/vCenter 管理服务器，提供简单的 REST API 接口来管理虚拟机。
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 提供 Kubernetes 集群资源管理, 深度分析集群和应用的健康状态
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - 提供对 Netskope Private Access 环境中所有组件的访问权限，包含详细的设置信息和 LLM 使用示例。
