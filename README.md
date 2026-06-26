@@ -1822,6 +1822,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 px goldbean-mcp\.
 - [bevanding/signaldaemon](https://github.com/bevanding/signaldaemon) [![bevanding/signaldaemon MCP server](https://glama.ai/mcp/servers/bevanding/signaldaemon/badges/score.svg)](https://glama.ai/mcp/servers/bevanding/signaldaemon) 🐍 ☁️ - Narrative & signal intelligence for AI agents (crypto/AI/macro): cross-source narrative convergence and capital-vs-narrative divergence. Remote MCP server, self-serve keys, fails safe (says "no coverage" rather than hallucinating).
 
+- [Homie4570/lso-mcp](https://github.com/Homie4570/lso-mcp) [![Homie4570/lso-mcp MCP server](https://glama.ai/mcp/servers/Homie4570/lso-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Homie4570/lso-mcp) 🐍 ☁️ - 38-tool MCP server giving AI agents pay-per-call access to 39 LoneStarOracle data services on Base mainnet via x402 micropayments: token forensics, smart contract audits (Claude + Slither), 7-model weather consensus, oil & gas intelligence, on-chain whale tracking, DeFi risk, stablecoin monitoring, real estate, macroeconomics, and more. $0.02-$2.00 USDC per call. No API keys or subscriptions. Published to official MCP registry as xyz.lonestaroracle/mcp-server v1.1.0.
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
