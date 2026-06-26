@@ -1180,6 +1180,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [catrinmdonnelly/royalmail-mcp](https://github.com/catrinmdonnelly/royalmail-mcp) [![catrinmdonnelly/royalmail-mcp MCP server](https://glama.ai/mcp/servers/catrinmdonnelly/royalmail-mcp/badges/score.svg)](https://glama.ai/mcp/servers/catrinmdonnelly/royalmail-mcp) 📇 ☁️ - Book, label, track and cancel Royal Mail and Parcelforce shipments. 33 UK and international services via friendly keys or raw Service Register codes. `npx royalmail-mcp`.
 
 - [Yang1Bai/claw-tsaver](https://github.com/Yang1Bai/claw-tsaver)__ 🐍 🏠 🍎 🪟 🐧 - Token-saving MCP proxy that intercepts oversized tool returns and replaces them with a preview + on-demand handle. Real benchmark: 11,507 tokens → 104 tokens (99.1% saved) on a Wikipedia fetch. Works with OpenClaw + Claude.
+- [squidcode/codemouse-mcp](https://github.com/squidcode/codemouse-mcp) 🎖️ 📇 ☁️ - Hosted AI code reviewer for GitHub pull requests. Remote MCP server at `https://codemouse.ai/api/mcp` (OAuth 2.1) with read-only tools to list your accounts, repositories, and PR reviews — status, duration, cost, tokens, and per-provider runs.
   
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
