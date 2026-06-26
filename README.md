@@ -35,6 +35,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+* [Swarm Wiki MCP Documentation](https://swarm-wiki.vercel.app/outils-mcp) — Comprehensive documentation of MCP tools (Supabase, Vercel, Render, Playwright, Context7, 21st.dev) used by a 9-agent software development pipeline. Built with Angular 19, open source at [github.com/JohTandou/agent-swarm](https://github.com/JohTandou/agent-swarm).
 
 ## Community
 
