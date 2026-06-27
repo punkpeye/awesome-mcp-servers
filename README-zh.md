@@ -662,6 +662,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [@integromat/make-mcp-server](https://github.com/integromat/make-mcp-server) 🎖️ 📇 🏠 - Turn your [Make](https://www.make.com/) scenarios into callable tools for AI assistants.
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) - 🐍 Automatic operation of on-screen GUI.
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) - 📇 ☁️ [Kibela](https://kibe.la/) 与 MCP 的集成
+- [YuanJinke/paddleocr_mcp](https://github.com/YuanJinke/paddleocr_mcp) [![YuanJinke/paddleocr_mcp MCP server](https://glama.ai/mcp/servers/YuanJinke/paddleocr_mcp/badges/score.svg)](https://glama.ai/mcp/servers/YuanJinke/paddleocr_mcp) 📇 🏠 🍎 🪟 🐧 - 基于 PaddleOCR 的本地图片文字识别 MCP 服务器，支持 109 种语言，离线运行，无需 API Key，支持 DeepSeek-v4 等模型搭配使用。
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - Allows the AI to query GraphQL servers
 - [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - 使用常规 GraphQL 查询/变异定义工具，gqai 会自动为您生成 MCP 服务器。
 - [@awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - 通过Replicate API提供图像生成功能。
