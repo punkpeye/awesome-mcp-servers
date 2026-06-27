@@ -1306,6 +1306,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
 
+- [Bishop81/imagedimensions-mcp](https://github.com/Bishop81/imagedimensions-mcp) [![Bishop81/imagedimensions-mcp MCP server](https://glama.ai/mcp/servers/Bishop81/imagedimensions-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Bishop81/imagedimensions-mcp) 📇 ☁️ - Audit the images on any web page: natural vs rendered dimensions, oversized-image detection, and format breakdown, so agents can check web-image performance. Calls the hosted imagedimensions.com API, so no local browser is required. `npx -y imagedimensions-mcp`
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
