@@ -2905,6 +2905,7 @@ Access to travel and transportation information. Enables querying schedules, rou
 
 Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
 
+- [abduznik/reposnap-mcp](https://github.com/abduznik/reposnap-mcp) [![abduznik/reposnap-mcp MCP server](https://glama.ai/mcp/servers/abduznik/reposnap-mcp/badges/score.svg)](https://glama.ai/mcp/servers/abduznik/reposnap-mcp) 📇 ☁️ — MCP server that ingests any public GitHub repository into AI context. Works with Claude, Cursor, and Windsurf.
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - Read and analyze GitHub repositories with your LLM
 - [costajohnt/oss-autopilot](https://github.com/costajohnt/oss-autopilot) [![costajohnt/oss-autopilot MCP server](https://glama.ai/mcp/servers/costajohnt/oss-autopilot/badges/score.svg)](https://glama.ai/mcp/servers/costajohnt/oss-autopilot) 📇 ☁️ 🏠 🍎 🪟 🐧 - Open source contribution manager with PR tracking across repos, issue discovery, CI failure diagnosis, and maintainer response drafting. Available as CLI, MCP server, and Claude Code plugin.
 - [ddukbg/github-enterprise-mcp](https://github.com/ddukbg/github-enterprise-mcp) 📇 ☁️ 🏠 - MCP server for GitHub Enterprise API integration
