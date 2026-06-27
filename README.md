@@ -1822,7 +1822,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 px goldbean-mcp\.
 - [bevanding/signaldaemon](https://github.com/bevanding/signaldaemon) [![bevanding/signaldaemon MCP server](https://glama.ai/mcp/servers/bevanding/signaldaemon/badges/score.svg)](https://glama.ai/mcp/servers/bevanding/signaldaemon) 🐍 ☁️ - Narrative & signal intelligence for AI agents (crypto/AI/macro): cross-source narrative convergence and capital-vs-narrative divergence. Remote MCP server, self-serve keys, fails safe (says "no coverage" rather than hallucinating).
 
-- [Hermes Plant](https://hermesplant.com/mcp) 📇 ☁️ - Deterministic finance APIs for AI agents — DCF, IRR, LP/GP waterfalls, Black-Scholes Greeks, bond analytics, portfolio risk, AML — exposed as MCP tools and paid per call over x402 (no API keys). Hosted at hermesplant.com/mcp.
+- [JesseGdotIO/hermesplant-examples](https://github.com/JesseGdotIO/hermesplant-examples) 📇 ☁️ - Integration examples + MCP config for [Hermes Plant](https://hermesplant.com) — deterministic finance APIs (DCF, IRR, LP/GP waterfalls, Black-Scholes Greeks, bond analytics, portfolio risk, AML) AI agents call and pay for per call over x402. Hosted MCP endpoint: hermesplant.com/mcp. Examples in curl, TypeScript, Python, CrewAI, LangChain, and Claude Desktop.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
