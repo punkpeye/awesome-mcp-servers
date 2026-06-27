@@ -327,6 +327,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [the-momentum/fhir-mcp-server](https://github.com/the-momentum/fhir-mcp-server) 🐍 🏠 ☁️ - MCP Server that connects AI agents to FHIR servers. One example use case is querying patient history in natural language.
 - [thelongevityvault/decoder-3am-mcp](https://github.com/thelongevityvault/decoder-3am-mcp) [![thelongevityvault/decoder-3am-mcp MCP server](https://glama.ai/mcp/servers/thelongevityvault/decoder-3am-mcp/badges/score.svg)](https://glama.ai/mcp/servers/thelongevityvault/decoder-3am-mcp) 📇 ☁️ - Sleep disruption cause classifier using The Longevity Vault's 5-cause framework. Identifies the biological mechanism behind 3am wakeups from symptom descriptions, with tracked links to the full interactive 3AM Decoder.
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs. Provides seamless integration with FHIR servers, enabling AI assistants to search, retrieve, create, update, and analyze clinical healthcare data with SMART-on-FHIR authentication support.
+- [micropages/bmikit](https://github.com/micropages/bmikit) 📇 ☁️ - BMI Kit: body composition for AI assistants. Compute BMI, body fat, FFMI and waist-to-height; (signed in) save and trend measurements over time. Remote streamable HTTP + OAuth, cited formulas, general wellness. https://bmikit.com/mcp
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
