@@ -90,6 +90,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📊 - [Data Platforms](#data-platforms)
 * 🚚 - [Delivery](#delivery)
 * 🛠️ - [Developer Tools](#developer-tools)
+- [golproductions/check-mcp](https://github.com/golproductions/check-mcp) 📇 - The universal anti-hallucination engine. Catches hallucinated commands, imports, and function calls before they reach your project. Deterministic, sub-100ms, no AI inside.
 * 🧮 - [Data Science Tools](#data-science-tools)
 * 📊 - [Data Visualization](#data-visualization)
 * 📟 - [Embedded system](#embedded-system)
