@@ -221,6 +221,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Accurate astronomical catalog data and observing session planner. 13,000+ deep-sky objects from OpenNGC with deterministic visibility, rise/transit/set, and alt/az calculations. `npx astronomy-oracle`
 - [IO-Aerospace-software-community/mcp-server](https://github.com/IO-Aerospace-software-engineering/mcp-server) #️⃣ ☁️/🏠 🐧 - IO Aerospace MCP Server: a .NET-based MCP server for aerospace & astrodynamics — ephemeris, orbital conversions, DSS tools, time conversions, and unit/math utilities. Supports STDIO and SSE transports; Docker and native .NET deployment documented.
+- [savecharlie/almanac](https://github.com/savecharlie/almanac) 🐍 🏠 🍎 🪟 🐧 - Verifiable ephemeris & geomagnetism for agents: Sun/Moon/planet positions (JPL DE421) and magnetic declination/field (NOAA WMM2025). Deterministic and re-executable — the geomagnetism reproduces all 100 of NOAA’s published WMM2025 test values. `pip install "almanac-compute[mcp]"`
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
