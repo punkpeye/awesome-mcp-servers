@@ -3228,3 +3228,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [github.com/shelby-protocol/memory-forge](https://github.com/shelby-protocol/memory-forge) - Forge persistent memories for your AI agent. 10 MCP tools + 5 auto-engines. Powered by Shelby decentralized cloud.
