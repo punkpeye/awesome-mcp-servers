@@ -1306,6 +1306,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
 
+- [ankitsxchdeva/account-pool-mcp](https://github.com/ankitsxchdeva/account-pool-mcp) 📇 🏠 🍎 🪟 🐧 - Brokers exclusive, crash-safe leases on a pool of test accounts so parallel Claude/agent QA sessions never grab the same one. SQLite-backed `BEGIN IMMEDIATE` allocation, per-lease TTL auto-reclaim on crash, no shared parent process. `npx -y account-pool-mcp`
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
