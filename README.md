@@ -1210,7 +1210,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [SimplyLiz/CodeMCP](https://github.com/SimplyLiz/CodeMCP) 🏎️ 🏠 🍎 🪟 🐧 - Code intelligence MCP server with 80+ tools for semantic code search, impact analysis, call graphs, ownership detection, and architectural understanding. Supports Go, TypeScript, Python, Rust, Java via SCIP indexing.
 - [simplypixi/bugbug-mcp-server](https://github.com/simplypixi/bugbug-mcp-server) ☁️ - MCP for BugBug API, to manage test and suites on BugBug
 - [skullzarmy/vibealive](https://github.com/skullzarmy/vibealive) 📇 🏠 🍎 🪟 🐧 — Full-featured utility to test Next.js projects for unused files and APIs, with an MCP server that exposes project analysis tools to AI assistants.
-- [smplkit/mcp](https://github.com/smplkit/mcp) 📇 ☁️ - Scheduled HTTP jobs from your AI agent — cron, one-off, or on-demand, with retries and run history.
+- [smplkit/mcp](https://github.com/smplkit/mcp) 📇 ☁️ - Scheduled HTTP jobs from your AI agent — cron, one-off, or on-demand, with retries and run history. [![smplkit/mcp MCP server](https://glama.ai/mcp/servers/smplkit/mcp/badges/score.svg)](https://glama.ai/mcp/servers/smplkit/mcp)
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - Connect any HTTP/REST API server using an Open API spec (v3)
 - [softvoyagers/linkshrink-api](https://github.com/softvoyagers/linkshrink-api) 📇 ☁️ - Free privacy-first URL shortener API with analytics and link management. No API key required.
 - [softvoyagers/ogforge-api](https://github.com/softvoyagers/ogforge-api) 📇 ☁️ - Free Open Graph image generator API with themes, Lucide icons, and custom layouts. No API key required.
