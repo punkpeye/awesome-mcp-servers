@@ -867,6 +867,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [Zhwt/go-mcp-mysql](https://github.com/Zhwt/go-mcp-mysql) 🏎️ 🏠 – Easy to use, zero dependency MySQL MCP server built with Golang with configurable readonly mode and schema inspection.
 - [zilliztech/mcp-server-milvus](https://github.com/zilliztech/mcp-server-milvus) 🐍 🏠 ☁️ - MCP Server for Milvus / Zilliz, making it possible to interact with your database.
 - [wklee610/kafka-mcp](https://github.com/wklee610/kafka-mcp)[![kafka-mcp MCP server](https://glama.ai/mcp/servers/wklee610/kafka-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wklee610/kafka-mcp) 🐍 🏠 ☁️ - MCP server for Apache Kafka that allows LLM agents to inspect topics, consumer groups, and safely manage offsets (reset, rewind).
+- [croc100/Litescope](https://github.com/croc100/Litescope) [![Litescope MCP server](https://glama.ai/mcp/servers/croc100/Litescope/badges/score.svg)](https://glama.ai/mcp/servers/croc100/Litescope) 🏎️ 🏠 ☁️ - MCP-first operations toolchain for SQLite, Cloudflare D1, and Turso. Inspect, diff, migrate, monitor, back up, and repair databases over stdio. Read-only by default; writes are opt-in, dry-run first, and auto-snapshot before applying. `npx -y litescope mcp`
 
 ### 📊 <a name="data-platforms"></a>Data Platforms
 
