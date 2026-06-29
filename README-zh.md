@@ -44,6 +44,7 @@
 ## 教程
 
 * [Model Context Protocol (MCP) 快速开始](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
+* [AI全书 MCP 入门课程](https://aibook.ren/archives/mcp-course) - 中文 MCP 入门教程，覆盖协议概念、工具调用和 Agent 工程实践。
 * [设置 Claude 桌面应用程序以使用 SQLite 数据库](https://youtu.be/wxCCzo9dGj0)
 
 ## 社区
