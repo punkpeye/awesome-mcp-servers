@@ -227,7 +227,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 MCP servers for creating, coordinating, and executing agreements: commitments, escrow, and multi-party decision workflows across humans, agents, and organizations.
 
-- [Shodai Agreements](https://github.com/CNSLabs/agreements-api-sdk) 📇 ☁️ 🏠 - Remote Streamable HTTP and local stdio MCP server for defining, validating, deploying, and operating machine-readable agreements with EIP-712 permit preparation, signed participant inputs, state reads, and input history.
+- [CNSLabs/agreements-api-sdk](https://github.com/CNSLabs/agreements-api-sdk) 📇 ☁️ 🏠 - Remote Streamable HTTP and local stdio MCP server for defining, validating, deploying, and operating machine-readable agreements with EIP-712 permit preparation, signed participant inputs, state reads, and input history.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
