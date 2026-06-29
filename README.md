@@ -1306,6 +1306,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
 
+- [billkinddev/whamlink-mcp](https://github.com/billkinddev/whamlink-mcp) 📇 ☁️ - Publish HTML, Markdown, or text to a permanent, shareable link in one call. Built for agents to publish on a user’s behalf; links can be public, private, password-protected, or shared by email. `npx -y whamlink-mcp`
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
