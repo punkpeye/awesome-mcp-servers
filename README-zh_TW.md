@@ -327,7 +327,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 金融數據訪問和加密貨幣市場資訊。支援查詢即時市場數據、加密貨幣價格和財務分析。
 
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - 使用 CoinCap 的公共 API 集成即時加密貨幣市場數據，無需 API 金鑰即可訪問加密貨幣價格和市場資訊
-- [axiosdevs/agentscoin-mcp](https://github.com/axiosdevs/agentscoin-mcp) 🎖️ 📇 ☁️ - 給 AI Agent 一個自己的鏈上錢包：建立錢包、收發與交易代幣的 MCP 伺服器（智慧體支付 / x402）。
+- [axiosdevs/agentscoin-mcp](https://github.com/axiosdevs/agentscoin-mcp) 🎖️ 📇 ☁️ - 給 AI Agent 一個自己的鏈上錢包：建立錢包、收發與交易代幣的 MCP 伺服器（智慧體支付 / x402）。 [![axiosdevs/agentscoin-mcp MCP server](https://glama.ai/mcp/servers/axiosdevs/agentscoin-mcp/badges/score.svg)](https://glama.ai/mcp/servers/axiosdevs/agentscoin-mcp)
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 ☁️ - Coinmarket API 集成以獲取加密貨幣列表和報價
 - [berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp) 🐍 ☁️ - Alpha Vantage API 集成，用於獲取股票和加密貨幣資訊
 - [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - 透過 deBridge 協議實現 EVM 和 Solana 區塊鏈之間的跨鏈兌換和橋接。使 AI 代理能夠發現最佳路徑、評估費用並發起非託管交易。
