@@ -160,7 +160,6 @@ Acesso e recursos de automação de conteúdo web. Permite pesquisar, extrair e 
 - [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) 📇 🏠 - Um servidor MCP pareado com uma extensão de navegador que permite clientes LLM controlar o navegador do usuário (Firefox).
 - [freema/firefox-devtools-mcp](https://github.com/freema/firefox-devtools-mcp) 📇 🏠 - Automação do navegador Firefox via WebDriver BiDi para testes, raspagem e controle do navegador. Suporta interações baseadas em snapshot/UID, monitoramento de rede, captura de console e screenshots.
 - [fradser/mcp-server-apple-reminders](https://github.com/FradSer/mcp-server-apple-reminders) 📇 🏠 🍎 - Um servidor MCP para interagir com Lembretes da Apple no macOS
-- [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 📇 🏠 - Extraia dados estruturados de qualquer site. Basta solicitar e obter JSON.
 - [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - Busque legendas e transcrições do YouTube para análise de IA
 - [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - Uma implementação `mínima` de servidor/cliente MCP usando Azure OpenAI e Playwright.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Servidor MCP oficial da Microsoft para Playwright, permitindo que LLMs interajam com páginas web através de snapshots de acessibilidade estruturados
@@ -187,7 +186,6 @@ Integração de serviços de plataforma em nuvem. Permite o gerenciamento e inte
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Integração com serviços Cloudflare incluindo Workers, KV, R2 e D1
 - [flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) 📇 ☁️/🏠 - Implementação em TypeScript de operações de cluster Kubernetes para pods, deployments, serviços.
 - [hardik-id/azure-resource-graph-mcp-server](https://github.com/hardik-id/azure-resource-graph-mcp-server) 📇 ☁️/🏠 - Um servidor de Protocolo de Contexto de Modelo para consultar e analisar recursos do Azure em escala usando o Azure Resource Graph, permitindo que assistentes de IA explorem e monitorem a infraestrutura do Azure.
-- [jdubois/azure-cli-mcp](https://github.com/jdubois/azure-cli-mcp) - Um wrapper em torno da linha de comando Azure CLI que permite conversar diretamente com o Azure
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - Um MCP para dar acesso a todos os componentes do Netskope Private Access dentro de ambientes Netskope Private Access, incluindo informações detalhadas de configuração e exemplos de LLM sobre uso.
 - [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) 🏎️ ☁️/🏠 - Um poderoso servidor MCP que permite que assistentes de IA interajam de forma integrada com instâncias do Portainer, fornecendo acesso em linguagem natural ao gerenciamento de contêineres, operações de implantação e recursos de monitoramento de infraestrutura.
 - [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - Um servidor de Protocolo de Contexto de Modelo que se integra com o Tilt para fornecer acesso programático a recursos, logs e operações de gerenciamento do Tilt para ambientes de desenvolvimento Kubernetes.
@@ -197,7 +195,6 @@ Integração de serviços de plataforma em nuvem. Permite o gerenciamento e inte
 
 Servidores de execução de código. Permitem que LLMs executem código em um ambiente seguro, por exemplo, para agentes de codificação.
 
-- [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍🏠 - Execute código Python em uma sandbox segura via chamadas de ferramentas MCP
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute qualquer código gerado por LLM em um ambiente sandbox seguro e escalável e crie suas próprias ferramentas MCP usando JavaScript ou Python, com suporte completo para pacotes NPM e PyPI
 
 ### 🤖 <a name="agentes-de-codificação"></a>Agentes de Codificação
@@ -226,11 +223,9 @@ Integração com plataformas de comunicação para gerenciamento de mensagens e 
 
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - Um servidor MCP Nostr que permite interagir com Nostr, possibilitando a publicação de notas e muito mais.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interaja com pesquisa e timeline do Twitter
-- [agentmail-toolkit/mcp](https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp) 🐍 💬 - Um servidor MCP para criar caixas de entrada instantaneamente para enviar, receber e realizar ações em e-mails. Não somos agentes de IA para e-mail, mas e-mail para Agentes de IA.
 - [arpitbatra123/mcp-googletasks](https://github.com/arpitbatra123/mcp-googletasks) 📇 ☁️ - Um servidor MCP para interface com a API do Google Tasks
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) 🏠 🍎 🚀 - Um servidor MCP que se conecta de forma segura ao seu banco de dados iMessage via Protocolo de Contexto de Modelo (MCP), permitindo que LLMs consultem e analisem conversas do iMessage. Inclui validação robusta de números de telefone, processamento de anexos, gerenciamento de contatos, manipulação de bate-papo em grupo e suporte completo para envio e recebimento de mensagens.
 - [chaindead/telegram-mcp](https://github.com/chaindead/telegram-mcp) 🏎️ 🏠 - Integração com a API do Telegram para acessar dados do usuário, gerenciar diálogos (chats, canais, grupos), recuperar mensagens e lidar com status de leitura
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) 🐍 ☁️ - Um servidor MCP para Inbox Zero. Adiciona funcionalidades ao Gmail, como descobrir quais e-mails você precisa responder ou acompanhar.
 - [FastAlertNow/mcp-server](https://github.com/FastAlertNow/mcp-server) 🎖️ 📇 ☁️ - Servidor oficial Model Context Protocol (MCP) para FastAlert. Este servidor permite que agentes de IA (como Claude, ChatGPT e Cursor) listem seus canais e enviem notificações diretamente através da API FastAlert.
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) 🚀 ☁️ - Uma aplicação servidora MCP que envia vários tipos de mensagens para o robô de grupo WeCom.
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - Um servidor MCP que fornece acesso seguro ao seu banco de dados iMessage através do Protocolo de Contexto de Modelo (MCP), permitindo que LLMs consultem e analisem conversas iMessage com validação adequada de números de telefone e tratamento de anexos
@@ -340,8 +335,8 @@ Fornece acesso direto aos sistemas de arquivos locais com permissões configurá
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) 🐍 🏠 🪟 - Pesquisa rápida de arquivos no Windows usando o SDK Everything
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - Implementação em Golang para acesso ao sistema de arquivos local.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) 🎖️ 🐍 🏠 - Acesso à ferramenta MCP para MarkItDown -- uma biblioteca que converte vários formatos de arquivo (locais ou remotos) para Markdown para consumo por LLM.
-- [modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/filesystem) 📇 🏠 - Acesso direto ao sistema de arquivos local.
-- [modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - Integração com Google Drive para listar, ler e pesquisar arquivos
+- [modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - Acesso direto ao sistema de arquivos local.
+- [modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gdrive) 📇 ☁️ - Integração com Google Drive para listar, ler e pesquisar arquivos
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Acesse qualquer armazenamento com Apache OpenDAL™
 
 ### 💰 <a name="finanças--fintech"></a>Finanças & Fintech
@@ -384,7 +379,7 @@ Armazenamento de memória persistente usando estruturas de grafos de conheciment
 - [kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) 📇 ☁️ - Um conector para LLMs trabalharem com coleções e fontes no seu Zotero Cloud
 - [mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - Servidor MCP de Resumo IA, Suporte para múltiplos tipos de conteúdo: Texto simples, Páginas web, Documentos PDF, Livros EPUB, Conteúdo HTML
 - [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - Um servidor de Protocolo de Contexto de Modelo para Mem0 que ajuda a gerenciar preferências e padrões de codificação, fornecendo ferramentas para armazenar, recuperar e lidar semanticamente com implementações de código, melhores práticas e documentação técnica em IDEs como Cursor e Windsurf
-- [modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/memory) 📇 🏠 - Sistema de memória persistente baseado em grafo de conhecimento para manter contexto
+- [modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - Sistema de memória persistente baseado em grafo de conhecimento para manter contexto
 - [nonatofabio/local-faiss-mcp](https://github.com/nonatofabio/local_faiss_mcp) 🐍 🏠 🍎 🐧 - Database vetorial FAISS local para RAG com ingestão de documentos (PDF/TXT/MD/DOCX), busca semântica, re-ranking e ferramentas CLI
 - [pinecone-io/assistant-mcp](https://github.com/pinecone-io/assistant-mcp) 🎖️ 🦀 ☁️ - Conecta-se ao seu Assistente Pinecone e dá ao agente contexto a partir do seu motor de conhecimento.
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - Recupere contexto da sua base de conhecimento [Ragie](https://www.ragie.ai) (RAG) conectada a integrações como Google Drive, Notion, JIRA e muito mais.
@@ -433,7 +428,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) - Traga facilmente o contexto de produção em tempo real—logs, métricas e traces—para seu ambiente local para corrigir código automaticamente mais rápido
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - Consulte e interaja com ambientes kubernetes monitorados por Metoro
 - [MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - Integração com a API V3 Raygun para relatórios de falhas e monitoramento de usuários reais
-- [modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - Integração com Sentry.io para rastreamento de erros e monitoramento de desempenho
+- [modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sentry) 🐍 ☁️ - Integração com Sentry.io para rastreamento de erros e monitoramento de desempenho
 - [pydantic/logfire-mcp](https://github.com/pydantic/logfire-mcp) 🎖️ 🐍 ☁️ - Fornece acesso a traces e métricas OpenTelemetry através do Logfire
 - [seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor) 🏎️ 🏠 - Uma ferramenta de monitoramento de sistema que expõe métricas do sistema via Protocolo de Contexto de Modelo (MCP). Esta ferramenta permite que LLMs recuperem informações do sistema em tempo real através de uma interface compatível com MCP (suporta CPU, Memória, Disco, Rede, Host, Processo)
 
