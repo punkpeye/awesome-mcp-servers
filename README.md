@@ -604,7 +604,9 @@ Run commands, capture output and otherwise interact with shells and command line
 - [HasanJahidul/localhost-mcp](https://github.com/HasanJahidul/localhost-mcp) [![localhost-mcp MCP server](https://glama.ai/mcp/servers/HasanJahidul/localhost-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasanJahidul/localhost-mcp) 📇 🏠 🍎 🪟 🐧 - Inspect, manage, and kill local dev servers. Lists what's listening on each port (pid, framework, project, uptime, memory, cpu), diagnoses port conflicts with free alternatives nearby, finds zombie processes, and kills by pid or port with a dry-run default.
 - [laszlopere/mcp-tmux](https://github.com/laszlopere/mcp-tmux) [![laszlopere/mcp-tmux MCP server](https://glama.ai/mcp/servers/laszlopere/mcp-tmux/badges/score.svg)](https://glama.ai/mcp/servers/laszlopere/mcp-tmux) 🐍 🏠 🐧 🍎 - Universal tmux driver: sessions, windows, panes, keystrokes, and pane capture — local or remote over SSH. Curated tools plus a raw `tmux_command` passthrough; works against tmux 1.8+. Shared, visible sessions for pair-programming with the agent. `uvx mcp-tmux`.
 - [zb-ss/servonaut](https://github.com/zb-ss/servonaut) [![zb-ss/servonaut MCP server](https://glama.ai/mcp/servers/@zb-ss/servonaut/badges/score.svg)](https://glama.ai/mcp/servers/@zb-ss/servonaut) 🐍 🏠 🍎 🐧 - Manage AWS EC2, Hetzner, OVH and custom SSH servers: run commands, fetch logs, CloudWatch/CloudTrail queries, fleet health snapshots, IP banning, S3 — with readonly/standard/dangerous guard tiers and a JSONL audit trail.
-
+- [Reqly](https://github.com/RutvikPansare/Reqly) - 
+API client with MCP server. Agent builds collections, runs 
+requests, exports flows to GitHub Actions CI automatically.
 ### 💬 <a name="communication"></a>Communication
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
