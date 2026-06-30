@@ -1674,6 +1674,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [kukapay/jupiter-mcp](https://github.com/kukapay/jupiter-mcp) 🐍 ☁️ - An MCP server for executing token swaps on the Solana blockchain using Jupiter's new Ultra API.
 - [kukapay/pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp) 🐍 ☁️ -  An MCP server that tracks newly created pools on Pancake Swap.
 - [axiosdevs/agentscoin-mcp](https://github.com/axiosdevs/agentscoin-mcp) 🎖️ 📇 ☁️ - Give your AI agent its own on-chain wallet — an MCP server for agent payments. [![axiosdevs/agentscoin-mcp MCP server](https://glama.ai/mcp/servers/axiosdevs/agentscoin-mcp/badges/score.svg)](https://glama.ai/mcp/servers/axiosdevs/agentscoin-mcp)
+- [axiosdevs/agentpump-mcp](https://github.com/axiosdevs/agentpump-mcp) 🎖️ 📇 🏠 - Give your AI agent its own Solana wallet to launch & trade tokens on AgentPump — a pump.fun-style bonding-curve launchpad on Solana mainnet (1% fee, auto-graduates to Raydium). `npx -y agentpump-mcp`
 - [kukapay/polymarket-predictions-mcp](https://github.com/kukapay/polymarket-predictions-mcp) 🐍 ☁️ - An MCP server that delivers real-time market odds from Polymarket.
 - [kukapay/pumpswap-mcp](https://github.com/kukapay/pumpswap-mcp) 🐍 ☁️ - Enabling AI agents to interact with PumpSwap for real-time token swaps and automated on-chain trading.
 - [kukapay/raydium-launchlab-mcp](https://github.com/kukapay/raydium-launchlab-mcp) 🐍 ☁️ - An MCP server that enables AI agents to launch, buy, and sell tokens on the Raydium Launchpad(aka LaunchLab).
