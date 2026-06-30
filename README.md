@@ -3204,6 +3204,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) [![rocketride-org/rocketride-server MCP server](https://glama.ai/mcp/servers/rocketride-org/rocketride-server/badges/score.svg)](https://glama.ai/mcp/servers/rocketride-org/rocketride-server) 📇 🏠 - MCP server that exposes RocketRide AI pipelines as tools for Claude, Cursor, and Windsurf. Self-hosted, open-source pipeline tool with multi-LLM support.
 - [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone) 📇 🏠 🍎 🪟 🐧 - Filesystem-direct Obsidian MCP server with low context-tax. Reads your vault directly from disk — no Local REST API plugin required. ~575× smaller payloads than the REST plugin. 8 tools. `npx -y obsidian-mcp-seekstone` (also: `npx -y seekstone`)
 - [vivek081166/japan-utils-mcp](https://github.com/vivek081166/japan-utils-mcp) [![vivek081166/japan-utils-mcp MCP server](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp) 🐍 🏠 🍎 🪟 🐧 - Japan-specific utilities for AI agents: era ↔ Western year conversion (令和8年 ↔ 2026), kanji-to-romaji transliteration, 7-digit postal code lookup, national holiday calendar, hiragana ↔ katakana conversion, full-width ↔ half-width normalization, and statistical Japanese name splitting. 9 tools, MIT licensed, installable via `uvx japan-utils-mcp`.
+- [invertedhoologan/sovereign-engine](https://github.com/invertedhoologan/sovereign-engine) 📇 ☁️ - **Pay-per-call MCP server on Cloudflare Workers.** 15 paid execution primitives for AI agents (LLM, STT, image gen, embeddings, web search, page extract, DNS audit, browser automation, KV/R2 storage, EU AI Act compliance scan, cross-chain routing across XRPL/Hedera/Base). Pricing $0.001–$1.00 USDC per call via the **x402 payment protocol** on Base — every tool call returns HTTP 402 with a payment quote, agent pays USDC onchain and retries with the tx hash. No API keys, no subscriptions. 100% Cloudflare-native, $0/month infra cost. Note: implements a JSON-RPC subset of MCP (tools/list + tools/call) — full `initialize` handshake not yet supported. Endpoint: `https://api.zuluworksai.com/mcp`
 
 ## Tips and Tricks
 
@@ -3220,6 +3221,8 @@ Now Claude can answer questions about writing MCP servers and how they work
 - https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/
 
 ## Star History
+- [Sovereign Execution Engine](https://api.zuluworksai.com/mcp) - 16 paid x402 execution primitives for AI agents. Cross-chain routing, browser automation, compliance audits, web search, DNS audit, KV/R2 storage, LLM inference, STT, TTS, embeddings, image gen, code execution. Pay per call via x402 (USDC on Base).
+
 
 <a href="https://star-history.com/#punkpeye/awesome-mcp-servers&Date">
  <picture>
