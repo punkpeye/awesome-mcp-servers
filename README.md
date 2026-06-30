@@ -2371,6 +2371,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 - [agrath/Trello-Desktop-MCP](https://github.com/agrath/Trello-Desktop-MCP) [![agrath/Trello-Desktop-MCP MCP server](https://glama.ai/mcp/servers/agrath/Trello-Desktop-MCP/badges/score.svg)](https://glama.ai/mcp/servers/agrath/Trello-Desktop-MCP) 📇 ☁️ 🍎 🪟 🐧 - Comprehensive Trello integration: 46 tools covering boards, cards, lists, labels, checklists, attachments, members, custom fields, and search. Read-only mode, image attachment
 - [xfloukiex-lab/road-poneglyph](https://github.com/xfloukiex-lab/road-poneglyph) [![xfloukiex-lab/road-poneglyph MCP server](https://glama.ai/mcp/servers/xfloukiex-lab/road-poneglyph/badges/score.svg)](https://glama.ai/mcp/servers/xfloukiex-lab/road-poneglyph) 🐍 🏠 🍎 🪟 🐧 - Reviews a plan for what's missing — unstated assumptions, omitted technical risks, and execution blind spots (a structured pre-mortem). `pip install road-poneglyph-mcp`
 auto-download. Install via `npx atlassian-trello-mcp`.
+- [i3idea/claude-plugins](https://github.com/i3idea/claude-plugins) 🐍 ☁️ - [ProWoDo](https://prowodo.com) — manage tasks, sprints, and daily planning in chat. 50+ MCP tools for tasks, projects, sprints, daily resumes, and user assignment. OAuth 2.0 hosted connector ([setup](https://prowodo.com/en/docs/mcp-connector)) plus the open-source `prowodo-tasks` Claude Code plugin.
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
