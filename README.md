@@ -2588,6 +2588,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 - [juergenkoller-software/pdf-content-search-mcp](https://github.com/juergenkoller-software/pdf-content-search-mcp) [![juergenkoller-software/pdf-content-search-mcp MCP server](https://glama.ai/mcp/servers/juergenkoller-software/pdf-content-search-mcp/badges/score.svg)](https://glama.ai/mcp/servers/juergenkoller-software/pdf-content-search-mcp) 🏠 🍎 - MCP bridge for [PDF Content Search](https://store.juergenkoller.software/en/apps/pdf-content-search) — full-text PDF search with Apple Vision OCR across thousands of documents in under a second. Advanced filters (date, category, sender, amount), wildcards, boolean operators.
+- [peerpush/mcp-server](https://peerpush.com/mcp) 🎖️ ☁️ - Product discovery for AI agents: structured software product data (use cases, audiences, pricing, platforms, alternatives) with search, compare, trending, new launches, and deals tools. Free remote server, no API key; listed in the official MCP Registry as com.peerpush/peerpush.
 
 ### 🔒 <a name="security"></a>Security
 
