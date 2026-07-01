@@ -1822,7 +1822,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 px goldbean-mcp\.
 - [bevanding/signaldaemon](https://github.com/bevanding/signaldaemon) [![bevanding/signaldaemon MCP server](https://glama.ai/mcp/servers/bevanding/signaldaemon/badges/score.svg)](https://glama.ai/mcp/servers/bevanding/signaldaemon) 🐍 ☁️ - Narrative & signal intelligence for AI agents (crypto/AI/macro): cross-source narrative convergence and capital-vs-narrative divergence. Remote MCP server, self-serve keys, fails safe (says "no coverage" rather than hallucinating).
 
-- [JesseGdotIO/hermesplant-examples](https://github.com/JesseGdotIO/hermesplant-examples) 📇 ☁️ - Runnable stdio MCP bridge, Dockerfile, integration examples, and MCP config for [Hermes Plant](https://glama.ai/mcp/connectors/com.hermesplant/hermes-plant) — deterministic finance APIs (DCF, IRR/XIRR, LP/GP waterfalls, Black-Scholes Greeks, bond analytics, portfolio risk, AML) AI agents call and pay for per call over x402. Hosted endpoint: `https://hermesplant.com/mcp`.
+- [JesseGdotIO/hermesplant-mcp-server](https://github.com/JesseGdotIO/hermesplant-mcp-server) 📇 ☁️ - Runnable stdio MCP server, Dockerfile, integration examples, and MCP config for [Hermes Plant](https://glama.ai/mcp/connectors/com.hermesplant/hermes-plant) — deterministic finance APIs (DCF, IRR/XIRR, LP/GP waterfalls, Black-Scholes Greeks, bond analytics, portfolio risk, AML) AI agents call and pay for per call over x402. Hosted endpoint: `https://hermesplant.com/mcp`.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
