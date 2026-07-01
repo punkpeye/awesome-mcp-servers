@@ -401,6 +401,8 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
 - [ymw0407/auth-fetch-mcp](https://github.com/ymw0407/auth-fetch-mcp) [![ymw0407/auth-fetch-mcp MCP server](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp) 📇 🏠 🍎 🪟 🐧 - Fetch content from login-protected web pages (Notion, Google Docs, Jira, Confluence, etc.) by opening a real browser for authentication with persistent session caching.
 - [PrinceGabriel-lgtm/freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp) [![freshcontext-mcp MCP server](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp) ☁️ 🏠 - Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.
+- [matfy-agent/apiscreenshot-mcp](https://github.com/matfy-agent/apiscreenshot-mcp) 📇 ☁️ 🎖️ - Hosted MCP server for website screenshots — capture any URL or inline HTML as a clean PNG/JPEG/WebP, full-page or a single element, from your agent. No install.
+- [matfy-agent/pdfinvoiceapi-mcp](https://github.com/matfy-agent/pdfinvoiceapi-mcp) 📇 ☁️ 🎖️ - Hosted MCP server that turns HTML or templates into branded invoice & document PDFs (also receipts, statements, contracts) from your agent. No install.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
