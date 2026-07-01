@@ -415,6 +415,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) 🐍 ☁️ -  提供实时和历史加密恐惧与贪婪指数数据。
 - [kukapay/dune-analytics-mcp](https://github.com/kukapay/dune-analytics-mcp) 🐍 ☁️ -  一个将Dune Analytics数据桥接到AI代理的mcp服务器。
 - [kukapay/pancakeswap-poolspy-mcp](https://github.com/kukapay/pancakeswap-poolspy-mcp) 🐍 ☁️ -  一个追踪Pancake Swap上新创建资金池的MCP服务器。
+- [axiosdevs/agentscoin-mcp](https://github.com/axiosdevs/agentscoin-mcp) 🎖️ 📇 ☁️ - 给 AI Agent 一个自己的链上钱包：创建钱包、收发与交易代币的 MCP 服务器（智能体支付 / x402）。 [![axiosdevs/agentscoin-mcp MCP server](https://glama.ai/mcp/servers/axiosdevs/agentscoin-mcp/badges/score.svg)](https://glama.ai/mcp/servers/axiosdevs/agentscoin-mcp)
 - [kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) 🐍 ☁️ -  一个MCP服务器，用于追踪Uniswap在多个区块链上新创建的流动性池。
 - [kukapay/uniswap-trader-mcp](https://github.com/kukapay/uniswap-trader-mcp) 🐍 ☁️ -  一个MCP服务器，用于AI代理在多个区块链上的Uniswap去中心化交易所自动执行代币交换。
 - [kukapay/token-minter-mcp](https://github.com/kukapay/token-minter-mcp) 🐍 ☁️ -  一个MCP服务器，为AI代理提供工具以跨多个区块链铸造ERC-20代币。
