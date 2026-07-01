@@ -91,6 +91,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🚚 - [Delivery](#delivery)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 🧮 - [Data Science Tools](#data-science-tools)
+- [dfayd0/ship-kit-claude-code](https://github.com/dfayd0/ship-kit-claude-code) 📇 🏠 - MCP server for PR reviews: pr_diff, pr_blame, pr_linked_issues, pr_files_changed via gh CLI + git
 * 📊 - [Data Visualization](#data-visualization)
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
