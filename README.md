@@ -281,6 +281,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [TwelveTake-Studios/reaper-mcp](https://github.com/TwelveTake-Studios/reaper-mcp) 🐍 🏠 🍎 🪟 🐧 - MCP server enabling AI assistants to control REAPER DAW for mixing, mastering, MIDI composition, and full music production with 129 tools
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - A MCP server integrating AniList API for anime and manga information
 - [yuvalsuede/agent-media](https://github.com/yuvalsuede/agent-media) 📇 ☁️ 🍎 🪟 🐧 - CLI and MCP server for AI video and image generation with unified access to 7 models (Kling, Veo, Sora, Seedance, Flux, Grok Imagine). Provides 9 tools for generating, managing, and browsing media.
+- [zeus-kim/radiomcp](https://github.com/zeus-kim/radiomcp) 🐍 ☁️ 🏠 🍎 🐧 - AI-powered internet radio + DJ system for Claude. 55,000+ stations from 197 countries, AI DJ with voice commentary, Apple Music integration, video playback. Powered by Airtune API. `pip install radiomcp`
 
 
 ### 📐 <a name="architecture-and-design"></a>Architecture & Design
