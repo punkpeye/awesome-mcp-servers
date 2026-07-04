@@ -1359,6 +1359,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [98lukehall/renoun-mcp](https://github.com/98lukehall/renoun-mcp) [![renoun-mcp MCP server](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@98lukehall/renoun-mcp) 🐍 ☁️ - Structural observability for AI conversations. Detects loops, stuck states, breakthroughs, and convergence across 17 channels without analyzing content.
 - [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) 💎 🏠 - Enables agents to query local information about dependencies in a Ruby project's `Gemfile`.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
+- [laszlopere/mcp-gnu-units](https://github.com/laszlopere/mcp-gnu-units) [![laszlopere/mcp-gnu-units MCP server](https://glama.ai/mcp/servers/laszlopere/mcp-gnu-units/badges/score.svg)](https://glama.ai/mcp/servers/laszlopere/mcp-gnu-units) 🐍 🏠 🐧 - Unit conversion and dimensional analysis backed by the bundled GNU units database (3000+ units, compound expressions, reduction to SI base units). Offline and deterministic. `uvx mcp-gnu-units`.
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
