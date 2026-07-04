@@ -237,6 +237,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pragmar.com/media/static/images/mcp-server-webcrawl/favicon.png" height="14" /> [mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
 
 <br />
+- 🐍 [DocPull](https://github.com/raintree-technology/docpull) - Local-first MCP server and Python CLI for fetching, caching, searching, validating, and exporting cited public docs and web sources as agent-ready context packs.
 
 ## 🗺️ <a name="location-services"></a>Location Services
 
