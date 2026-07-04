@@ -109,6 +109,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🖥️ - [OS Automation](#os-automation)
 * 📋 - [Product Management](#product-management)
 * 🏠 - [Real Estate](#real-estate)
+* 👥 - [Recruiting & Talent](#recruiting-and-talent)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
 * 🔒 - [Security](#security)
@@ -2411,6 +2412,12 @@ MCP servers for real estate CRM, property management, and agent workflows.
 - [forgemeshlabs/disruption-intelligence-mcp](https://github.com/forgemeshlabs/disruption-intelligence-mcp) [![forgemeshlabs/disruption-intelligence-mcp MCP server](https://glama.ai/mcp/servers/forgemeshlabs/disruption-intelligence-mcp/badges/score.svg)](https://glama.ai/mcp/servers/forgemeshlabs/disruption-intelligence-mcp) 📇 ☁️ - AI-native commercial disruption intelligence for MCP clients and x402-powered agents. Supports WARN/layoff intelligence, company context, geospatial territory disruption, and x402 payment challenge inspection via the hosted Forgemesh API.
 - [jbechtel-97/dealflowpro-mcp-server](https://github.com/jbechtel-97/dealflowpro-mcp-server) [![jbechtel-97/dealflowpro-mcp-server MCP server](https://glama.ai/mcp/servers/jbechtel-97/dealflowpro-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/jbechtel-97/dealflowpro-mcp-server) 📇 ☁️ - Multifamily real estate deal analysis — cap rate, DSCR, cash-on-cash, IRR, DFP Score (0-100), max offer price, and market intelligence for 2-200 unit properties.
 - [pedra-ai/pedra-mcp](https://github.com/pedra-ai/pedra-mcp) [![pedra-ai/pedra-mcp MCP server](https://glama.ai/mcp/servers/@pedra-ai/pedra-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@pedra-ai/pedra-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - AI photo and video editing for real-estate listings via the Pedra API: virtual staging, renovation, room emptying, photo enhancement, sky replacement, object removal/blur, and property video generation. `npx @pedra-ai/mcp`
+
+### 👥 <a name="recruiting-and-talent"></a>Recruiting & Talent
+
+MCP servers for recruiting, sourcing, and talent marketplaces.
+
+- [QueryQuarry/QueryQuarry](https://github.com/QueryQuarry/QueryQuarry) 🎖️ 📇 ☁️ - Consent-based, double-blind talent marketplace: recruiters' AIs search an anonymous corpus of opted-in candidates in natural language, evaluate match cards, and request contact — identity is revealed only when the candidate responds.
 
 ### 🔬 <a name="research"></a>Research
 
