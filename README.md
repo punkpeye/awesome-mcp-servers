@@ -1306,6 +1306,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
 
+- [aimasteracc/tree-sitter-analyzer](https://github.com/aimasteracc/tree-sitter-analyzer) [![aimasteracc/tree-sitter-analyzer MCP server](https://glama.ai/mcp/servers/aimasteracc/tree-sitter-analyzer/badges/score.svg)](https://glama.ai/mcp/servers/aimasteracc/tree-sitter-analyzer) 🐍 🏠 🍎 🪟 🐧 - Cross-language-safe code intelligence for AI agents: a classified, cross-file call graph across 13 languages (Python, Java, Go, JS, TS, C, C++, Rust, C#, Kotlin, Ruby, PHP, Swift) that refuses to mis-wire calls between languages. 8 facade tools, TOON-compressed output (50-70% fewer tokens than JSON), 100% local. Run `uvx --from tree-sitter-analyzer miswire-audit .` to audit your repo for cross-language mis-wires.
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
