@@ -2417,7 +2417,7 @@ MCP servers for real estate CRM, property management, and agent workflows.
 
 MCP servers for recruiting, sourcing, and talent marketplaces.
 
-- [QueryQuarry/QueryQuarry](https://github.com/QueryQuarry/QueryQuarry) 🎖️ 📇 ☁️ - Consent-based, double-blind talent marketplace: recruiters' AIs search an anonymous corpus of opted-in candidates in natural language, evaluate match cards, and request contact — identity is revealed only when the candidate responds.
+- [QueryQuarry/QueryQuarry](https://github.com/QueryQuarry/QueryQuarry) [![QueryQuarry/QueryQuarry MCP server](https://glama.ai/mcp/servers/QueryQuarry/QueryQuarry/badges/score.svg)](https://glama.ai/mcp/servers/QueryQuarry/QueryQuarry) 🎖️ 📇 ☁️ - Consent-based, double-blind talent marketplace: recruiters' AIs search an anonymous corpus of opted-in candidates in natural language, evaluate match cards, and request contact — identity is revealed only when the candidate responds.
 
 ### 🔬 <a name="research"></a>Research
 
