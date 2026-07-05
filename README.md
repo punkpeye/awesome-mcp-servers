@@ -1316,7 +1316,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [ozers/hooksense-mcp](https://github.com/ozers/hooksense-mcp) [![ozers/hooksense-mcp MCP server](https://glama.ai/mcp/servers/ozers/hooksense-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ozers/hooksense-mcp) 📇 ☁️ - Webhook & callback layer for AI agents: create a callback URL, then `wait_for_callback` to block until the webhook lands — signature-verified and decrypted — instead of polling. Verify HMAC, list/replay callbacks. `npx -y @hooksense/mcp`
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
-- [raintree-technology/docpull](https://github.com/raintree-technology/docpull) 🐍 🏠 🍎 🪟 🐧 - Local-first MCP server and Python CLI for fetching, caching, searching, validating, and exporting cited public docs and web sources as agent-ready context packs. `pip install 'docpull[mcp]'`
+- [raintree-technology/docpull](https://github.com/raintree-technology/docpull) 🐍 🏠 🍎 🪟 🐧 - Local-first MCP server and Python CLI for fetching, caching, searching, validating, and exporting cited public docs and web sources as agent-ready context packs. [![raintree-technology/docpull MCP server](https://glama.ai/mcp/servers/raintree-technology/docpull/badges/score.svg)](https://glama.ai/mcp/servers/raintree-technology/docpull) `pip install 'docpull[mcp]'`
 
 ### 🔒 <a name="delivery"></a>Delivery
 
