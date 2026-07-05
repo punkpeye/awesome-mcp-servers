@@ -2624,6 +2624,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [zlatkoc/youtube-summarize](https://github.com/zlatkoc/youtube-summarize) 🐍 ☁️ - MCP server that fetches YouTube video transcripts and optionally summarizes them. Supports multiple transcript formats (text, JSON, SRT, WebVTT), multi-language retrieval, and flexible YouTube URL parsing.
 - [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye) 📇 ☁️ - Querying network asset information by ZoomEye MCP Server
 - [juergenkoller-software/pdf-content-search-mcp](https://github.com/juergenkoller-software/pdf-content-search-mcp) [![juergenkoller-software/pdf-content-search-mcp MCP server](https://glama.ai/mcp/servers/juergenkoller-software/pdf-content-search-mcp/badges/score.svg)](https://glama.ai/mcp/servers/juergenkoller-software/pdf-content-search-mcp) 🏠 🍎 - MCP bridge for [PDF Content Search](https://store.juergenkoller.software/en/apps/pdf-content-search) — full-text PDF search with Apple Vision OCR across thousands of documents in under a second. Advanced filters (date, category, sender, amount), wildcards, boolean operators.
+- [HumanLineage/WT](https://github.com/HumanLineage/WT) 🎖️ 📇 ☁️ - Human Lineage: search and query a single public genealogical graph of all humanity. Tools to find a person by name, get full profile details, list immediate relatives, render a family-tree image, and search/lookup places. No API key required, hosted at `https://humanlineage.org/api/mcp`.
 
 ### 🔒 <a name="security"></a>Security
 
