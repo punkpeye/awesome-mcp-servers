@@ -609,6 +609,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- [AMEOBIUS/mcp-email-sender](https://github.com/AMEOBIUS/mcp-email-sender) 🐍 🏠 🍎 🪟 🐧 - MCP server for email validation & SMTP sending. 8 tools: validate_email, validate_email_batch, check_mx_records, is_disposable, is_role_based, send_email, send_email_batch, test_smtp_connection. Zero dependencies, pure Python stdlib.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline
 - [agenticmail/agenticmail](https://github.com/agenticmail/agenticmail) [![agenticmail/agenticmail MCP server](https://glama.ai/mcp/servers/agenticmail/agenticmail/badges/score.svg)](https://glama.ai/mcp/servers/agenticmail/agenticmail) 📇 🏠 🍎 🪟 🐧 - Real email and SMS for AI agents. Run a local mail server with disposable inboxes, send/receive real email, fetch verification codes, and drive a real inbox — all from your machine, no third-party email API. Install with `npx @agenticmail/mcp`.
