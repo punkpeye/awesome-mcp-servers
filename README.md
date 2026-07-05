@@ -333,6 +333,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
+- [AMEOBIUS/mcp-cdp-scraper](https://github.com/AMEOBIUS/mcp-cdp-scraper) 🐍 🏠 🍎 🪟 🐧 - MCP server for AI-agent web scraping via Chrome DevTools Protocol. 12 tools (scrape_page, extract_text/links/images/table, fill_form, click_element, screenshot, get_html, wait_for, scroll_to, list_tabs). Zero dependencies — pure Python stdlib, no Playwright/Selenium. React/Vue compatible form filling.
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts.
 - [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) [![safari-mcp MCP server](https://glama.ai/mcp/servers/achiya-automation/safari-mcp/badges/score.svg)](https://glama.ai/mcp/servers/achiya-automation/safari-mcp) 📇 🏠 🍎 - Native Safari browser automation for AI agents with 80+ tools. No Chrome dependency, optimized for Apple Silicon with 60% less CPU overhead.
 - [agent-infra/mcp-server-browser](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser) 📇 🏠 - Browser automation capabilities using Puppeteer, both support local and remote browser connection.
