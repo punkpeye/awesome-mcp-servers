@@ -1839,6 +1839,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 px goldbean-mcp\.
 - [bevanding/signaldaemon](https://github.com/bevanding/signaldaemon) [![bevanding/signaldaemon MCP server](https://glama.ai/mcp/servers/bevanding/signaldaemon/badges/score.svg)](https://glama.ai/mcp/servers/bevanding/signaldaemon) 🐍 ☁️ - Narrative & signal intelligence for AI agents (crypto/AI/macro): cross-source narrative convergence and capital-vs-narrative divergence. Remote MCP server, self-serve keys, fails safe (says "no coverage" rather than hallucinating).
 - [ENTIA-IA/entia-mcp-server](https://github.com/ENTIA-IA/entia-mcp-server) [![ENTIA-IA/entia-mcp-server MCP server](https://glama.ai/mcp/servers/ENTIA-IA/entia-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/ENTIA-IA/entia-mcp-server) 🎖️ 🐍 ☁️ - Verified business-identity intelligence for AI agents & MCP clients — company verification, VAT, BORME, GLEIF, ownership and risk signals across 34 countries. Remote MCP server, free tier. `npx mcp-remote https://mcp.entia.systems/mcp`
+- [zacattack8/pdf-to-data-mcp](https://github.com/zacattack8/pdf-to-data-mcp) 📇 🏠 🍎 🪟 🐧 - Convert PDF invoices, bank & brokerage statements, utility bills, and purchase orders into structured spreadsheet rows (CSV/Excel). A single convert_document tool, works with any MCP client.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
