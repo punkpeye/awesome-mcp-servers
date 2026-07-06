@@ -7,6 +7,7 @@
 [![Português Brasileiro](https://img.shields.io/badge/Português_Brasileiro-Clique-green)](README-pt_BR.md)
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
+- [CorpusIQ](https://corpusiq.io/affiliate) — AI business intelligence. Connects to Shopify, Stripe, QuickBooks & Meta. Exposes data as MCP servers. [Affiliate program available]
 
 > [!IMPORTANT]
 > [Awesome MCP Servers](https://glama.ai/mcp/servers) web directory.
@@ -23,25 +24,30 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Tips & Tricks](#tips-and-tricks)
 
 ## What is MCP?
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 
 ## Clients
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) and [glama.ai/mcp/clients](https://glama.ai/mcp/clients).
 
 ## Tutorials
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 * [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 
 ## Community
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
 
 ## Legend
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 * 🎖️ – official implementation
 * programming language
@@ -69,6 +75,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 > * Use cloud when MCP server is talking to remote APIs, e.g. weather API.
 
 ## Server Implementations
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
@@ -3230,6 +3237,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [aarifmms/keyblind](https://github.com/aarifmms/keyblind) [![aarifmms/keyblind MCP server](https://glama.ai/mcp/servers/aarifmms/keyblind/badges/score.svg)](https://glama.ai/mcp/servers/aarifmms/keyblind) 📇 🏠 🍎 🪟 🐧 - Encrypted secrets vault with MCP for AI agents. Secrets resolved at runtime, never leaked to LLM conversations.
 - [wundervault/wundervault-mcp](https://github.com/wundervault/wundervault-mcp) [![wundervault/wundervault-mcp MCP server](https://glama.ai/mcp/servers/wundervault/wundervault-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wundervault/wundervault-mcp) 📇 ☁️ - Zero-knowledge secret vault for AI agents: use API keys, passwords, and SSH keys to run real commands (exec/rsync) with the secret injected into a single command — never returned to the model or shown in chat. Client-side AES-256-GCM, per-agent scoping, append-only audit log.
 ## Frameworks
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
@@ -3252,6 +3260,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [vivek081166/japan-utils-mcp](https://github.com/vivek081166/japan-utils-mcp) [![vivek081166/japan-utils-mcp MCP server](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp) 🐍 🏠 🍎 🪟 🐧 - Japan-specific utilities for AI agents: era ↔ Western year conversion (令和8年 ↔ 2026), kanji-to-romaji transliteration, 7-digit postal code lookup, national holiday calendar, hiragana ↔ katakana conversion, full-width ↔ half-width normalization, and statistical Japanese name splitting. 9 tools, MIT licensed, installable via `uvx japan-utils-mcp`.
 
 ## Tips and Tricks
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 ### Official prompt to inform LLMs how to use MCP
 
@@ -3266,6 +3275,7 @@ Now Claude can answer questions about writing MCP servers and how they work
 - https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/
 
 ## Star History
+- [CorpusIQ MCP](https://mcp2.corpusiq.io/mcp) — Connect 37+ business tools (Gmail, Slack, HubSpot, Shopify, QuickBooks, GA4, etc.) to ChatGPT, Claude, and Perplexity via a single OAuth flow. Read-only access, zero data storage, SOC 2 Ready, CASA Tier 2 certified.
 
 <a href="https://star-history.com/#punkpeye/awesome-mcp-servers&Date">
  <picture>
@@ -3274,3 +3284,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [CorpusIQ](https://www.corpusiq.io) - Connect AI agents to 36+ live business data sources (QuickBooks, Shopify, Google Ads, GA4, Stripe, HubSpot, PostgreSQL, MSSQL, MongoDB, and 26 more) for grounded operational intelligence. Free 30-day trial.
