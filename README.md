@@ -1839,6 +1839,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 px goldbean-mcp\.
 - [bevanding/signaldaemon](https://github.com/bevanding/signaldaemon) [![bevanding/signaldaemon MCP server](https://glama.ai/mcp/servers/bevanding/signaldaemon/badges/score.svg)](https://glama.ai/mcp/servers/bevanding/signaldaemon) 🐍 ☁️ - Narrative & signal intelligence for AI agents (crypto/AI/macro): cross-source narrative convergence and capital-vs-narrative divergence. Remote MCP server, self-serve keys, fails safe (says "no coverage" rather than hallucinating).
 - [ENTIA-IA/entia-mcp-server](https://github.com/ENTIA-IA/entia-mcp-server) [![ENTIA-IA/entia-mcp-server MCP server](https://glama.ai/mcp/servers/ENTIA-IA/entia-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/ENTIA-IA/entia-mcp-server) 🎖️ 🐍 ☁️ - Verified business-identity intelligence for AI agents & MCP clients — company verification, VAT, BORME, GLEIF, ownership and risk signals across 34 countries. Remote MCP server, free tier. `npx mcp-remote https://mcp.entia.systems/mcp`
+- [praveendias1180/easypaydirect-mcp](https://github.com/praveendias1180/easypaydirect-mcp) 📇 🏠 - Read-only MCP server for the Easy Pay Direct (EPD) / NMI-family payment gateway. Query transactions, subscriptions, recurring plans, and the Customer Vault — read-only by design (no charges or refunds). Works with any NMI white-label gateway. `npx easypaydirect-mcp`
 
 ### 🎮 <a name="gaming"></a>Gaming
 
