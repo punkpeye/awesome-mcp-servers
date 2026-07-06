@@ -1839,6 +1839,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 px goldbean-mcp\.
 - [bevanding/signaldaemon](https://github.com/bevanding/signaldaemon) [![bevanding/signaldaemon MCP server](https://glama.ai/mcp/servers/bevanding/signaldaemon/badges/score.svg)](https://glama.ai/mcp/servers/bevanding/signaldaemon) 🐍 ☁️ - Narrative & signal intelligence for AI agents (crypto/AI/macro): cross-source narrative convergence and capital-vs-narrative divergence. Remote MCP server, self-serve keys, fails safe (says "no coverage" rather than hallucinating).
 - [ENTIA-IA/entia-mcp-server](https://github.com/ENTIA-IA/entia-mcp-server) [![ENTIA-IA/entia-mcp-server MCP server](https://glama.ai/mcp/servers/ENTIA-IA/entia-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/ENTIA-IA/entia-mcp-server) 🎖️ 🐍 ☁️ - Verified business-identity intelligence for AI agents & MCP clients — company verification, VAT, BORME, GLEIF, ownership and risk signals across 34 countries. Remote MCP server, free tier. `npx mcp-remote https://mcp.entia.systems/mcp`
+- [coinugget/coinugget-mcp](https://github.com/coinugget/coinugget-mcp) - Real-time cryptocurrency market signals from coinugget.com — RSI overbought/oversold, 24h top gainers, price action surges/drops, kimchi premium for 10 countries, major market prices (BTC, ETH, NASDAQ, GOLD, VIX), and derivatives (liquidations, long/short ratios). 500+ coins across Binance, Bybit, Gate.io, updated every 60 seconds. Free, no auth. Remote MCP at https://mcp.coinugget.com/mcp.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
