@@ -1325,6 +1325,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
 
+- [AMEOBIUS/mcp-xml-tools](https://github.com/AMEOBIUS/mcp-xml-tools) 🐍 🏠 🍎 🪟 🐧 - MCP server for XML operations. 15 tools: parse, validate, XML-to-dict, dict-to-XML, pretty format, minify, find by tag, find by attribute, get attributes, count tags, extract text, XML-to-JSON, JSON-to-XML, dot-notation path query, strip namespaces. Zero dependencies, pure Python stdlib.
 - [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - The ultimate math engine unifying SymPy, NumPy & Matplotlib in one powerful server. Perfect for developers & researchers needing symbolic algebra, numerical computing, and data visualization.
 - [Archerkattri/mathlas](https://github.com/Archerkattri/mathlas) [![Archerkattri/mathlas MCP server](https://glama.ai/mcp/servers/Archerkattri/mathlas/badges/score.svg)](https://glama.ai/mcp/servers/Archerkattri/mathlas) 🐍 🏠 - Airtight math for agents: 3.7M-theorem search, PSLQ constant ID, OEIS, real Lean kernel checks, applicability checklists. No LLM inside, no API key.
 - [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp) 🐍 ☁️ - Connects to Kaggle, ability to download and analyze datasets.
