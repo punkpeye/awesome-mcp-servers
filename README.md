@@ -225,6 +225,7 @@ Servers for accessing many apps and tools through a single MCP server.
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
+- [AMEOBIUS/mcp-color-tools](https://github.com/AMEOBIUS/mcp-color-tools) 🐍 🏠 🍎 🪟 🐧 - MCP server for color operations. 19 tools: parse (hex/rgb/hsl), convert (hex/rgb/hsl/hsv), manipulate (lighten/darken/saturate/desaturate/complement/invert/grayscale), palettes (analogous/triadic/gradient), WCAG contrast ratio, blend. Zero dependencies, pure Python stdlib (colorsys).
 - [AceDataCloud/MCPFlux](https://github.com/AceDataCloud/FluxMCP) [![AceDataCloud/MCPFlux MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux) 🐍 ☁️ - Flux AI image generation and editing (Black Forest Labs) via Ace Data Cloud API.
 
 - [AceDataCloud/MCPNanoBanana](https://github.com/AceDataCloud/MCPNanoBanana) [![AceDataCloud/MCPNanoBanana MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana) 🐍 ☁️ - NanoBanana AI image generation and editing with virtual try-on and product placement in realistic scenes.
