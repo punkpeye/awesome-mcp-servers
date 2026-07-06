@@ -3012,6 +3012,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
+- [AMEOBIUS/mcp-conversion-tools](https://github.com/AMEOBIUS/mcp-conversion-tools) 🐍 🏠 🍎 🪟 🐧 - MCP server for unit conversion. 6 tools: convert, list categories/units, batch convert, convert to all units, common conversions. 13 categories: length, weight, temperature, data, speed, area, volume, time, pressure, energy, angle, frequency, fuel. Zero dependencies, pure Python stdlib.
 - [douglasgan/asktian](https://github.com/douglasgan/asktian-mcp) [![douglasgan/asktian-mcp MCP server](https://glama.ai/mcp/servers/douglasgan/asktian-mcp/badges/score.svg)](https://glama.ai/mcp/servers/douglasgan/asktian-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Chinese metaphysics (bazi 八字, qimen 奇門, 5-element, daily 干支) as decision-support tools. Ask "when should I do X" and get specific time windows instead of vague advice. 5 tools: daily reading, compat, best-time-for-action, today's energy, name analysis. `npm install -g @asktian/mcp-server`
 
 - [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - A web-based PlantUML frontend with MCP server integration, enable plantuml image generation and plantuml syntax validation.
