@@ -1317,6 +1317,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
 
+- [sebastienrousseau/inclusio](https://github.com/sebastienrousseau/inclusio) [![sebastienrousseau/inclusio-mcp MCP server](https://glama.ai/mcp/servers/sebastienrousseau/inclusio-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sebastienrousseau/inclusio-mcp) 🐍 🏠 🍎 🪟 🐧 - **Accessibility-first LaTeX publishing engine** with an embedded MCP server for AI-agent integration. PDF/UA-2 + WTPDF + PDF/A-4f triple-conformance tagged-PDF output, C2PA + PAdES + SLSA provenance, multi-format emission (HTML5, JATS, EPUB3), and LLM-augmented accessibility judges. Install `pip install 'inclusio[mcp]'`, run `inclusio-mcp`. MIT-licensed.
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
