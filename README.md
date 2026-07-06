@@ -1317,6 +1317,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
 
+- [sebastienrousseau/rlg](https://github.com/sebastienrousseau/rlg) [![sebastienrousseau/rlg-mcp MCP server](https://glama.ai/mcp/servers/sebastienrousseau/rlg-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sebastienrousseau/rlg-mcp) 🦀 🏠 🍎 🪟 🐧 - **Log-stream tools for on-call / SRE agent workflows** — expose `rlg` (RustLogs) log files as MCP tools. Three tools: `tail_log` (last N events, filtered by level/target), `filter_log` (JSON-path-style predicates), `summarize_errors` (grouped error taxonomy). Speaks JSON-RPC 2.0 over stdio; near-lock-free structured logging engine underneath (65k-slot ring buffer, 14 output formats, `os_log`/`journald` sinks). Install `cargo install rlg-mcp` or `docker run -i ghcr.io/sebastienrousseau/rlg-mcp`. Dual-licensed MIT OR Apache-2.0.
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
