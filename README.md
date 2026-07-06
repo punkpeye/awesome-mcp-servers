@@ -90,6 +90,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📊 - [Data Platforms](#data-platforms)
 * 🚚 - [Delivery](#delivery)
 * 🛠️ - [Developer Tools](#developer-tools)
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 * 🧮 - [Data Science Tools](#data-science-tools)
 * 📊 - [Data Visualization](#data-visualization)
 * 📟 - [Embedded system](#embedded-system)
