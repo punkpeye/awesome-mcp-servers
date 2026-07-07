@@ -1316,6 +1316,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [ozers/hooksense-mcp](https://github.com/ozers/hooksense-mcp) [![ozers/hooksense-mcp MCP server](https://glama.ai/mcp/servers/ozers/hooksense-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ozers/hooksense-mcp) 📇 ☁️ - Webhook & callback layer for AI agents: create a callback URL, then `wait_for_callback` to block until the webhook lands — signature-verified and decrypted — instead of polling. Verify HMAC, list/replay callbacks. `npx -y @hooksense/mcp`
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
+- [verivus-oss/sqry](https://github.com/verivus-oss/sqry) 🦀 🏠 🍎 🪟 🐧 - Semantic code search engine for AI agents. Parses code into an AST graph and answers structural queries exactly (callers, callees, call paths, dead code, cycles) over 38 MCP tools across 37 languages. Local-only, zero telemetry, MIT. `cargo install sqry-cli`
 
 ### 🔒 <a name="delivery"></a>Delivery
 
