@@ -1316,6 +1316,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [ozers/hooksense-mcp](https://github.com/ozers/hooksense-mcp) [![ozers/hooksense-mcp MCP server](https://glama.ai/mcp/servers/ozers/hooksense-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ozers/hooksense-mcp) 📇 ☁️ - Webhook & callback layer for AI agents: create a callback URL, then `wait_for_callback` to block until the webhook lands — signature-verified and decrypted — instead of polling. Verify HMAC, list/replay callbacks. `npx -y @hooksense/mcp`
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
+- [Ganglia](https://ganglia.dev?ref=awesomemcp) 🦀 🏠 🍎 🐧 - Pre-built deterministic call graph served over MCP: callers, callees, impact analysis ("what breaks if I change X"), route→handler traces, dead code, cycles, and cross-session memory — a typical structural query returns ~1.5K tokens instead of ~10K of file reads. Also validates renames/moves/API reshapes against the graph before build. Auto-wires 9 agents (Claude Code, Cursor, Windsurf, Zed, Codex, Cline, Gemini, Continue, opencode). `npx @ganglia/cli@latest install --global`
 
 ### 🔒 <a name="delivery"></a>Delivery
 
