@@ -2402,6 +2402,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 - [agrath/Trello-Desktop-MCP](https://github.com/agrath/Trello-Desktop-MCP) [![agrath/Trello-Desktop-MCP MCP server](https://glama.ai/mcp/servers/agrath/Trello-Desktop-MCP/badges/score.svg)](https://glama.ai/mcp/servers/agrath/Trello-Desktop-MCP) 📇 ☁️ 🍎 🪟 🐧 - Comprehensive Trello integration: 46 tools covering boards, cards, lists, labels, checklists, attachments, members, custom fields, and search. Read-only mode, image attachment
 - [xfloukiex-lab/road-poneglyph](https://github.com/xfloukiex-lab/road-poneglyph) [![xfloukiex-lab/road-poneglyph MCP server](https://glama.ai/mcp/servers/xfloukiex-lab/road-poneglyph/badges/score.svg)](https://glama.ai/mcp/servers/xfloukiex-lab/road-poneglyph) 🐍 🏠 🍎 🪟 🐧 - Reviews a plan for what's missing — unstated assumptions, omitted technical risks, and execution blind spots (a structured pre-mortem). `pip install road-poneglyph-mcp`
 auto-download. Install via `npx atlassian-trello-mcp`.
+- [getpapi/papi](https://github.com/getpapi/papi) 📇 ☁️ 🏠 🍎 🪟 🐧 - Persistent Adaptive Planning Intelligence — structured plan/build/review cycles for AI coding assistants, with memory that persists across sessions, tools, and teammates. Plans break goals into right-sized tasks with build handoffs; reviews and strategy reviews close the loop so every cycle feeds the next. Remote MCP: `claude mcp add --transport http papi https://mcp.getpapi.ai/mcp`.
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
