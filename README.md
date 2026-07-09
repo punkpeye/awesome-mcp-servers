@@ -3274,3 +3274,29 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+### Hosted MCP Servers
+
+- [Country Data Mcp](https://country-data-mcp.mcpize.run) — Unlock comprehensive country information with ease! Discover capitals, currencies, and neighboring nations using our API
+- [Currency Converter Mcp](https://currency-converter-mcp.mcpize.run) — Need to convert currencies on the fly? Our Instant Currency Converter uses live rates from the ECB, ensuring you get the most accurate conversions
+- [Data Compute Stats Mcp](https://data-compute-stats-mcp.mcpize.run) — Dive into a suite of pure Python tools designed for precise mathematical computations and insightful statistics
+- [Ecommerce Mcp](https://ecommerce-mcp.mcpize.run) — Dive into a vast catalog of over 3 million products via Open Food Facts
+- [Education Mcp](https://education-mcp.mcpize.run) — Dive deep into educational topics through comprehensive resources from Wikipedia and Open Library
+- [Environment Nature Mcp](https://environment-nature-mcp.mcpize.run) — Unlock the power of real-time environmental data with our cutting-edge APIs
+- [Finance Fintech Mcp](https://finance-fintech-mcp.mcpize.run) — Instantly access live exchange and crypto prices!
+- [Git Diff Mcp](https://git-diff-mcp.mcpize.run) — Analyze git diffs and PRs effortlessly with Git Diff Analyzer!
+- [Htmlpdf Transform Mcp](https://htmlpdf-transform-mcp.mcpize.run) — Transform HTML effortlessly into Markdown and plain text!
+- [Legal Mcp](https://legal-mcp.mcpize.run) — Transform your legal research with ease and precision!
+- [Marketing Mcp](https://marketing-mcp.mcpize.run) — Transform your marketing with precise SEO keyword insights!
+- [Prozorro Tender Monitor Mcp](https://prozorro-tender-monitor-mcp.mcpize.run) — Your gateway to Ukrainian tender insights, real-time and ready
+- [Public Data Ukraine Mcp](https://public-data-ukraine-mcp.mcpize.run) — Seamlessly access Ukraine's public data with zero authentication!
+- [Public Holidays Mcp](https://public-holidays-mcp.mcpize.run) — Effortlessly access global public holidays data!
+- [Real Estate Mcp](https://real-estate-mcp.mcpize.run) — Unlock real estate potential with precise location data
+- [Research Mcp](https://research-mcp.mcpize.run) — Effortlessly explore 250M+ research papers with OpenAlex!
+- [Security Mcp](https://security-mcp.mcpize.run) — Discover vulnerabilities effortlessly for just $0
+- [Text Intelligence Mcp](https://text-intelligence-mcp.mcpize.run) — Transform text data into insights effortlessly with Text Intelligence!
+- [Translation Services Mcp](https://translation-services-mcp.mcpize.run) — Unlock the power of communication with our translation services! Ideal for developers, businesses, and travelers, our API allows for seamless translation between over 100 languages using MyMemory
+- [Travel Transportation Mcp](https://travel-transportation-mcp.mcpize.run) — Travel smarter with real-time insights on countries, weather, and currency conversions
+- [Ua E Commerce Price Tracker Mcp](https://ua-e-commerce-price-tracker-mcp.mcpize.run) — Discover the best prices in Ukrainian e-commerce with our powerful price tracker
+- [Ua Postal Tracking Mcp](https://ua-postal-tracking-mcp.mcpize.run) — Stay updated on your shipments with our Ukrainian postal tracking tool for Nova Poshta
+- [Web Content Extract Mcp](https://web-content-extract-mcp.mcpize.run) — Extract clean web content effortlessly with our powerful API!
