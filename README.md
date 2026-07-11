@@ -2892,6 +2892,7 @@ Translation tools and services to enable AI assistants to translate content betw
 
 ### 🎙️ <a name="speech-to-text"></a>Speech-to-Text
 
+- [cmoonagent/vocce-agent](https://github.com/cmoonagent/vocce-agent) 📇 ☁️ - Transcribe audio and video files to text, SRT, and VTT subtitles via vocce’s hosted Whisper large-v3. No API key required.
 - [eviscerations/whisper-windows-mcp](https://github.com/eviscerations/whisper-windows-mcp) [![eviscerations/whisper-windows-mcp MCP server](https://glama.ai/mcp/servers/eviscerations/whisper-windows-mcp/badges/score.svg)](https://glama.ai/mcp/servers/eviscerations/whisper-windows-mcp) 📇 🏠 🪟 - Windows-native local audio and video transcription using whisper.cpp with Vulkan GPU acceleration. No cloud APIs, no Python. Batch processing, multilingual support, model management, and background job handling built in.
 - [spokenmd/spoken](https://github.com/spokenmd/spoken) [![spokenmd/spoken MCP server](https://glama.ai/mcp/servers/spokenmd/spoken/badges/score.svg)](https://glama.ai/mcp/servers/spokenmd/spoken) 📇 ☁️ - Fetch published podcast transcripts as clean Markdown with real speaker names (not "Speaker 1") via the [Spoken](https://spoken.md) API. Search episodes, get transcripts, check credit balance.
 
