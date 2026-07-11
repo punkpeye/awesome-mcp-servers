@@ -1839,6 +1839,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 px goldbean-mcp\.
 - [bevanding/signaldaemon](https://github.com/bevanding/signaldaemon) [![bevanding/signaldaemon MCP server](https://glama.ai/mcp/servers/bevanding/signaldaemon/badges/score.svg)](https://glama.ai/mcp/servers/bevanding/signaldaemon) 🐍 ☁️ - Narrative & signal intelligence for AI agents (crypto/AI/macro): cross-source narrative convergence and capital-vs-narrative divergence. Remote MCP server, self-serve keys, fails safe (says "no coverage" rather than hallucinating).
 - [ENTIA-IA/entia-mcp-server](https://github.com/ENTIA-IA/entia-mcp-server) [![ENTIA-IA/entia-mcp-server MCP server](https://glama.ai/mcp/servers/ENTIA-IA/entia-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/ENTIA-IA/entia-mcp-server) 🎖️ 🐍 ☁️ - Verified business-identity intelligence for AI agents & MCP clients — company verification, VAT, BORME, GLEIF, ownership and risk signals across 34 countries. Remote MCP server, free tier. `npx mcp-remote https://mcp.entia.systems/mcp`
+- [theodor90/form4api-mcp](https://github.com/theodor90/form4api-mcp) [![theodor90/form4api-mcp MCP server](https://glama.ai/mcp/servers/@theodor90/form4api-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@theodor90/form4api-mcp) 📇 ☁️ 🍎 🪟 🐧 - Real-time SEC Form 4 insider trading data — transactions with post-trade returns, cluster-buy signals, Form 144 early warnings, and 13F institutional holdings. 27 tools + 6 research prompts, free tier. `npx form4api-mcp`
 
 ### 🎮 <a name="gaming"></a>Gaming
 
