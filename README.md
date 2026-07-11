@@ -3057,8 +3057,6 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
-- [Rehui-2006/aria2-agent](https://github.com/Rehui-2006/aria2-agent) [![Rehui-2006/aria2-agent MCP server](https://glama.ai/mcp/servers/Rehui-2006/aria2-agent/badges/score.svg)](https://glama.ai/mcp/servers/Rehui-2006/aria2-agent) 🐍 🏠 🍎 🪟 🐧 - A powerful download manager built on aria2, designed for AI agents. Features MCP compatibility, proxy support, zero dependencies, and 10 Iron Rules to prevent download failures.
-
 - [douglasgan/asktian](https://github.com/douglasgan/asktian-mcp) [![douglasgan/asktian-mcp MCP server](https://glama.ai/mcp/servers/douglasgan/asktian-mcp/badges/score.svg)](https://glama.ai/mcp/servers/douglasgan/asktian-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Chinese metaphysics (bazi 八字, qimen 奇門, 5-element, daily 干支) as decision-support tools. Ask "when should I do X" and get specific time windows instead of vague advice. 5 tools: daily reading, compat, best-time-for-action, today's energy, name analysis. `npm install -g @asktian/mcp-server`
 
 - [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - A web-based PlantUML frontend with MCP server integration, enable plantuml image generation and plantuml syntax validation.
@@ -3188,6 +3186,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [rae-api-com/rae-mcp](https://github.com/rae-api-com/rae-mcp) - 🏎️ ☁️ 🍎 🪟 🐧 MCP Server to connect your preferred model with https://rae-api.com, Roya Academy of Spanish Dictionary
 - [Rai220/think-mcp](https://github.com/Rai220/think-mcp) 🐍 🏠 - Enhances any agent's reasoning capabilities by integrating the think-tools, as described in [Anthropic's article](https://www.anthropic.com/engineering/claude-think-tool).
 - [reeeeemo/ancestry-mcp](https://github.com/reeeeemo/ancestry-mcp) 🐍 🏠 - Allows the AI to read .ged files and genetic data
+- [Rehui-2006/aria2-agent](https://github.com/Rehui-2006/aria2-agent) [![Rehui-2006/aria2-agent MCP server](https://glama.ai/mcp/servers/Rehui-2006/aria2-agent/badges/score.svg)](https://glama.ai/mcp/servers/Rehui-2006/aria2-agent) 🐍 🏠 🍎 🪟 🐧 - Download manager built on aria2 JSON-RPC for AI agents. Provides MCP tools for file downloads with proxy support and integrity verification. `pip install aria2cli-agent`
 - [rember/rember-mcp](https://github.com/rember/rember-mcp) 📇 🏠 - Create spaced repetition flashcards in [Rember](https://rember.com) to remember anything you learn in your chats.
 - [ReplenishRadar/MCP](https://github.com/ReplenishRadar/MCP) [![ReplenishRadar/MCP MCP server](https://glama.ai/mcp/servers/ReplenishRadar/MCP/badges/score.svg)](https://glama.ai/mcp/servers/ReplenishRadar/MCP) 📇 ☁️ - Multi-channel inventory intelligence for Shopify and Amazon sellers. 28 tools for stockout risk, demand forecasts, purchase order lifecycle, and sales analytics. Human-in-the-loop: all write operations create drafts only.
 - [roychri/mcp-server-asana](https://github.com/roychri/mcp-server-asana) - 📇 ☁️ This Model Context Protocol server implementation of Asana allows you to talk to Asana API from MCP Client such as Anthropic's Claude Desktop Application, and many more.
