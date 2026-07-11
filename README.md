@@ -1317,6 +1317,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
 
+- [SunrisesIllNeverSee/sigrank-mcp](https://github.com/SunrisesIllNeverSee/sigrank-mcp) [![SunrisesIllNeverSee/sigrank-mcp MCP server](https://glama.ai/mcp/servers/SunrisesIllNeverSee/sigrank-mcp/badges/score.svg)](https://glama.ai/mcp/servers/SunrisesIllNeverSee/sigrank-mcp) 📇 🏠 🍎 🪟 🐧 - Operator leaderboard measuring users, not models — ranks AI coding operators by token cascade efficiency (Yield = Cache Reads × Output / Input²). 15 MCP tools: rank, pull, submit (ed25519-signed), diagnose, simulate. Privacy-first: only token counts leave the machine. `npx sigrank`
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
