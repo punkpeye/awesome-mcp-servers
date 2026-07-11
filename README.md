@@ -1316,6 +1316,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [ozers/hooksense-mcp](https://github.com/ozers/hooksense-mcp) [![ozers/hooksense-mcp MCP server](https://glama.ai/mcp/servers/ozers/hooksense-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ozers/hooksense-mcp) 📇 ☁️ - Webhook & callback layer for AI agents: create a callback URL, then `wait_for_callback` to block until the webhook lands — signature-verified and decrypted — instead of polling. Verify HMAC, list/replay callbacks. `npx -y @hooksense/mcp`
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
+- [marmutapp/superbased-observer](https://github.com/marmutapp/superbased-observer) 🏎️ 🏠 🍎 🪟 🐧 - Local-first MCP server that lets a coding agent query its own project history — file/command freshness, past test failures, cost & token spend, and cross-tool session handoff — across 26 supported coding-agent adapters (Claude Code, Cursor, Codex, and more). 100% local, no telemetry.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
