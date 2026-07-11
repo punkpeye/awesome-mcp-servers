@@ -1316,7 +1316,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [ozers/hooksense-mcp](https://github.com/ozers/hooksense-mcp) [![ozers/hooksense-mcp MCP server](https://glama.ai/mcp/servers/ozers/hooksense-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ozers/hooksense-mcp) 📇 ☁️ - Webhook & callback layer for AI agents: create a callback URL, then `wait_for_callback` to block until the webhook lands — signature-verified and decrypted — instead of polling. Verify HMAC, list/replay callbacks. `npx -y @hooksense/mcp`
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
-- [snayyar00/abilyo](https://github.com/snayyar00/abilyo) 🎖️ 📇 🏠 ☁️ - WebAbility — accessibility testing + AI fixes for coding agents (Cursor, Claude Code, Copilot, Windsurf, VS Code). Free local WCAG scans, framework-aware fixes you apply in your own code, a vision pass axe can't do, one-call fix verification, and full audit reports. `npx @webability/mcp`
+- [snayyar00/webability-mcp](https://github.com/snayyar00/webability-mcp) 🎖️ 📇 🏠 ☁️ - WebAbility — accessibility testing + AI fixes for coding agents (Cursor, Claude Code, Copilot, Windsurf, VS Code). Free local WCAG scans, framework-aware fixes you apply in your own code, a vision pass axe can't do, one-call fix verification, and full audit reports. `npx @webability/mcp`
 
 ### 🔒 <a name="delivery"></a>Delivery
 
