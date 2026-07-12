@@ -1322,6 +1322,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
 
+- [sohilladhani/codesynapse](https://github.com/sohilladhani/codesynapse) [![sohilladhani/codesynapse MCP server](https://glama.ai/mcp/servers/sohilladhani/codesynapse/badges/score.svg)](https://glama.ai/mcp/servers/sohilladhani/codesynapse) 🦀 🏠 🍎 🪟 🐧 - Code intelligence MCP server that indexes your codebase into a structural graph and exposes 32 tools. Blast radius analysis, call chain tracing, class hierarchy, hybrid BM25 + dense semantic search. Fully local, no cloud API, Rust binary (~10MB).
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
