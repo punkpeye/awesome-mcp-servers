@@ -345,6 +345,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_74x46.jpg" height="14"> [PayPal](https://github.com/paypal/agent-toolkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - The PayPal Agent Toolkit enables popular agent frameworks including Model Context Protocol (MCP) to integrate with PayPal APIs through function calling.
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
+- <img src="https://hbhqq9.github.io/bde-score/favicon.ico" height="14"/> [BDE Score](https://github.com/hbhqq9/bde-score) - Multi-market (US/HK/A-share) stock scoring MCP with 5-factor quantitative analysis (Momentum, Mean Reversion, Volume, Volatility, Trend), x402 micropayments ($0.01/query USDC), and EU AI Act Art.50 compliance.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
 
 <br />
