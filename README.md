@@ -1,4 +1,4 @@
-[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
+﻿[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
@@ -815,6 +815,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [Michael2150/flamerobin-mcp-server](https://github.com/Michael2150/flamerobin-mcp-server) [![Michael2150/flamerobin-mcp-server MCP server](https://glama.ai/mcp/servers/Michael2150/flamerobin-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Michael2150/flamerobin-mcp-server) #️⃣ 🏠 🪟 - Firebird database MCP server that reads connection details from [FlameRobin's](http://www.flamerobin.org/) config — no credential setup required. Access all locally registered databases in one session with full schema introspection, DDL/DML execution, execution plans, and missing index analysis.
 - [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) 📇 ☁️ - MCP server for Google Sheets API integration with comprehensive reading, writing, formatting, and sheet management capabilities.
 - [FreePeak/db-mcp-server](https://github.com/FreePeak/db-mcp-server) 🏎️ 🏠 – A high-performance multi-database MCP server built with Golang, supporting MySQL & PostgreSQL (NoSQL coming soon). Includes built-in tools for query execution, transaction management, schema exploration, query building, and performance analysis, with seamless Cursor integration for enhanced database workflows.
+- [FROWNINGdev/django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) 🐍 🏠 - Exposes Django ORM schema, models, and relationships (fields, FK/M2M/O2O, on_delete, related_name, Meta) to AI agents via 5 read-only tools. Companion to the VS Code ERD extension. Static parse — no DB, no Django boot.
 - [furey/mongodb-lens](https://github.com/furey/mongodb-lens) 📇 🏠 - MongoDB Lens: Full Featured MCP Server for MongoDB Databases
 - [gannonh/firebase-mcp](https://github.com/gannonh/firebase-mcp) 🔥 ⛅️ - Firebase services including Auth, Firestore and Storage.
 - [get-convex/convex-backend](https://stack.convex.dev/convex-mcp-server) 📇 ☁️ - Convex database integration to introspect tables, functions, and run oneoff queries ([Source](https://github.com/get-convex/convex-backend/blob/main/npm-packages/convex/src/cli/mcp.ts))
