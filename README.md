@@ -1320,6 +1320,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp) 📇 🏠 🍎 🪟 🐧 - Structural code context server for AI agents — compressed symbol indexes, dependency graphs, and git diffs via TypeScript AST analysis. Zero external dependencies, no vector database or embedding API required.
 
+- [sebastienrousseau/noyalib](https://github.com/sebastienrousseau/noyalib) [![sebastienrousseau/noyalib-mcp MCP server](https://glama.ai/mcp/servers/sebastienrousseau/noyalib-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sebastienrousseau/noyalib-mcp) 🦀 🏠 🍎 🪟 🐧 - **Lossless YAML 1.2 editing for AI agents**. Pure-Rust YAML tools (parse, format, get, set, validate) with 100% spec compliance (406/406 official YAML 1.2 Test Suite), zero unsafe, streaming-first serde, lossless concrete syntax tree, and JSON Schema validation. Distributed as an OCI image (`ghcr.io/sebastienrousseau/noyalib-mcp`) and via npm (`npx noyalib-mcp`) so agents do not need a Rust toolchain. Dual-licensed MIT OR Apache-2.0.
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
