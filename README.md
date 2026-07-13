@@ -2512,6 +2512,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 auto-download. Install via `npx atlassian-trello-mcp`.
 
 ### 🏠 <a name="real-estate"></a>Real Estate
+- [easakura/japan-real-estate-mcp](https://github.com/easakura/japan-real-estate-mcp) [![easakura/japan-real-estate-mcp MCP server](https://glama.ai/mcp/servers/easakura/japan-real-estate-mcp/badges/score.svg)](https://glama.ai/mcp/servers/easakura/japan-real-estate-mcp) 📇 ☁️ - Japanese real-estate actual transaction prices and official land prices (official MLIT Reinfolib data): search by area, period, and property type, with published land-price reference points.
 
 MCP servers for real estate CRM, property management, and agent workflows.
 
