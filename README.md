@@ -1348,6 +1348,8 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [SunrisesIllNeverSee/sigrank-mcp](https://github.com/SunrisesIllNeverSee/sigrank-mcp) [![SunrisesIllNeverSee/sigrank-mcp MCP server](https://glama.ai/mcp/servers/SunrisesIllNeverSee/sigrank-mcp/badges/score.svg)](https://glama.ai/mcp/servers/SunrisesIllNeverSee/sigrank-mcp) 📇 🏠 🍎 🪟 🐧 - Operator leaderboard measuring users, not models — ranks AI coding operators by token cascade efficiency (Yield = Cache Reads × Output / Input²). 15 MCP tools: rank, pull, submit (ed25519-signed), diagnose, simulate. Privacy-first: only token counts leave the machine. `npx sigrank`
 
+- [Bishop81/imagedimensions-mcp](https://github.com/Bishop81/imagedimensions-mcp) [![Bishop81/imagedimensions-mcp MCP server](https://glama.ai/mcp/servers/Bishop81/imagedimensions-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Bishop81/imagedimensions-mcp) 📇 ☁️ - Audit the images on any web page: natural vs rendered dimensions, oversized-image detection, and format breakdown, so agents can check web-image performance. Calls the hosted imagedimensions.com API, so no local browser is required. `npx -y imagedimensions-mcp`
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
