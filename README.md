@@ -777,7 +777,7 @@ Tools for encrypting and decrypting data.
 
 Provides access to customer profiles inside of customer data platforms
 
-- [Aleksey-Panf/b2b-enrichment-mcp](https://github.com/Aleksey-Panf/b2b-enrichment-mcp) 🐍 ☁️ - B2B lead enrichment server integrating Hunter.io and Apollo APIs. 9 tools for email discovery, domain search, company data, and contact verification.
+- [Aleksey-Panf/b2b-enrichment-mcp](https://github.com/Aleksey-Panf/b2b-enrichment-mcp) [![Aleksey-Panf/b2b-enrichment-mcp MCP server](https://glama.ai/mcp/servers/Aleksey-Panf/b2b-enrichment-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Aleksey-Panf/b2b-enrichment-mcp) 🐍 ☁️ - B2B lead enrichment server integrating Hunter.io and Apollo APIs. 9 tools for email discovery, domain search, company data, and contact verification.
 - 
 - [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) [![azmartone67/dchub-mcp-server MCP server](https://glama.ai/mcp/servers/azmartone67/dchub-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/azmartone67/dchub-mcp-server) 📇 ☁️ - Data-center, power & gas intelligence MCP server. 33 tools covering 21,000+ data-center facilities (170+ countries), 232 US power markets scored by the DC Hub Power Index (DCPI), 2,000+ tracked M&A deals, ISO grid telemetry (PJM, ERCOT, CAISO, MISO, SPP, NYISO), fiber routes, and energy pricing. Free to cite (CC-BY-4.0).
 - [antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - A Model Context Protocol server for generating visual charts using [AntV](https://github.com/antvis).
