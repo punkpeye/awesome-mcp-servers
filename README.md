@@ -2319,6 +2319,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [geolabel/geolabel-mcp](https://github.com/geolabel/geolabel-mcp) [![geolabel-mcp MCP server](https://glama.ai/mcp/servers/geolabel/geolabel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/geolabel/geolabel-mcp) 🐍 ☁️ - GPS coordinates to AI-ready location context — returns place name, stable category (gym, supermarket, restaurant…), and live opening hours via OpenStreetMap. Works in Claude Desktop, Claude Code, Hermes Agent, OpenClaw, and any MCP client.
 - [xyver/daedal-map](https://github.com/xyver/daedal-map) [![DaedalMap MCP server](https://glama.ai/mcp/servers/xyver/daedal-map/badges/score.svg)](https://glama.ai/mcp/servers/xyver/daedal-map) 🐍 ☁️ - Geographic data packs for disasters, FX rates, and global indicators. New geospatial data packs weekly. Free and x402-paid execution lanes via MCP and HTTP API.
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding MCP server for nominatim, ArcGIS, Bing
+- [gis-mcp-server](https://github.com/matbel91765/gis-mcp-server) 🐍 🏠 🍎 🪟 🐧 - Geospatial tools for AI agents: geocoding, routing, elevation, spatial analysis, and file I/O (Shapefile, GeoJSON, GeoPackage)
 
 ### 🎯 <a name="marketing"></a>Marketing
 
