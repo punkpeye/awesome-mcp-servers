@@ -232,6 +232,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Accurate astronomical catalog data and observing session planner. 13,000+ deep-sky objects from OpenNGC with deterministic visibility, rise/transit/set, and alt/az calculations. `npx astronomy-oracle`
 - [IO-Aerospace-software-community/mcp-server](https://github.com/IO-Aerospace-software-engineering/mcp-server) #️⃣ ☁️/🏠 🐧 - IO Aerospace MCP Server: a .NET-based MCP server for aerospace & astrodynamics — ephemeris, orbital conversions, DSS tools, time conversions, and unit/math utilities. Supports STDIO and SSE transports; Docker and native .NET deployment documented.
+- [oscarjpicazo/spacedata](https://github.com/oscarjpicazo/spacedata) [![oscarjpicazo/spacedata MCP server](https://glama.ai/mcp/servers/oscarjpicazo/spacedata/badges/score.svg)](https://glama.ai/mcp/servers/oscarjpicazo/spacedata) 📇 🏠 🍎 🪟 🐧 - Public space data for AI agents: satellite orbits with derived perigee/apogee/period, the full satellite catalog, conjunction predictions and upcoming launches from CelesTrak, Space-Track and Launch Library 2 — with built-in caching and upstream rate-limit protection. Also usable as a plain CLI. `npx -y spacedata serve`
 
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
 
