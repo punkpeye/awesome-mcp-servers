@@ -73,7 +73,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
-* 🔗 - [Aggregators](#aggregators)
+* 🔗 - [Aggregators](#aggregators)- [wilmalunsford1201-prog/gemini-mcp-server](https://github.com/wilmalunsford1201-prog/gemini-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - A small, clean MCP server for the Google Gemini API (generate, chat, vision, embed, tokens, models).
+- [wilmalunsford1201-prog/deepseek-mcp-server](https://github.com/wilmalunsford1201-prog/deepseek-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - A small, clean MCP server for the DeepSeek API (V3 generation, chat, R1 reasoning).
 * 🤝 - [Agreements & Coordination](#agreements--coordination)
 * 🎨 - [Art & Culture](#art-and-culture)
 * 📐 - [Architecture & Design](#architecture-and-design)
