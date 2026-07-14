@@ -128,6 +128,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
+- [XYG-LUNA/alipay-mcp-server](https://github.com/XYG-LUNA/alipay-mcp-server) 📇 ☁️ 🏠 🍎 🪟 - 252 AI Skills MCP Server with Alipay pay-per-use
+
 Servers for accessing many apps and tools through a single MCP server.
 
 - [forgemeshlabs/coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) [![forgemeshlabs/coinopai-mcp MCP server](https://glama.ai/mcp/servers/forgemeshlabs/coinopai-mcp/badges/score.svg)](https://glama.ai/mcp/servers/forgemeshlabs/coinopai-mcp) 📇 - Local stdio MCP server for x402-powered paid crypto intelligence: preflight checks, trade decisions with `decision_id`, later audit against real prices, risk state, signal history, and agent automation search over USDC micropayments on Base.
