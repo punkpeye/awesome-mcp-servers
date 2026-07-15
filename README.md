@@ -3012,9 +3012,9 @@ Astrology, tarot, numerology, Vedic systems, Human Design and other divinatory o
 
 ### 🏃 <a name="sports"></a>Sports
 
-- [sumal009/garmin-mcp](https://github.com/sumal009/garmin-mcp) 🐍 🏠 - Self-hosted Garmin Connect server with bearer-token auth and a live triathlon dashboard; ask Claude about sleep, heart rate, body battery, and training.
 Tools for accessing sports-related data, results, and statistics.
 
+- [sumal009/garmin-mcp](https://github.com/sumal009/garmin-mcp) 🐍 🏠 - Self-hosted Garmin Connect server with bearer-token auth and a live triathlon dashboard; ask Claude about sleep, heart rate, body battery, and training.
 - [anup-shesh/garmin-local-mcp](https://github.com/anup-shesh/garmin-local-mcp) [![anup-shesh/garmin-local-mcp MCP server](https://glama.ai/mcp/servers/anup-shesh/garmin-local-mcp/badges/score.svg)](https://glama.ai/mcp/servers/anup-shesh/garmin-local-mcp) 🐍 🏠 🍎 🪟 🐧 - Local-first Garmin data warehouse: incremental sync into SQLite you own, with server-side trends, lag-aware correlations, personal baselines, and anomaly detection returned as compact tables. Analysis keeps working offline when Garmin's API breaks, and a zero-auth FIT-bundle import fills gaps with no login at all.
 - [arturogarrido/claudinho](https://github.com/arturogarrido/claudinho) [![arturogarrido/claudinho MCP server](https://glama.ai/mcp/servers/arturogarrido/claudinho/badges/score.svg)](https://glama.ai/mcp/servers/arturogarrido/claudinho) 📇 🏠 🍎 🪟 🐧 - Live scores, fixtures, standings, and read-only prediction-market signals for the 2026 World Cup. No API keys.
 - [Backspace-me/sportscore-mcp](https://github.com/Backspace-me/sportscore-mcp) [![Backspace-me/sportscore-mcp MCP server](https://glama.ai/mcp/servers/Backspace-me/sportscore-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Backspace-me/sportscore-mcp) 📇 ☁️ 🍎 🪟 🐧 - Live scores, standings, top scorers, player stats, and knockout brackets for football, basketball, cricket, and tennis. Free public API, no key required.
