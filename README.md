@@ -238,7 +238,7 @@ Servers for accessing many apps and tools through a single MCP server.
 MCP servers for creating, coordinating, and executing agreements: commitments, escrow, and multi-party decision workflows across humans, agents, and organizations.
 
 - [CNSLabs/agreements-api-sdk](https://github.com/CNSLabs/agreements-api-sdk) [![CNSLabs/agreements-api-sdk MCP server](https://glama.ai/mcp/servers/CNSLabs/agreements-api-sdk/badges/score.svg)](https://glama.ai/mcp/servers/CNSLabs/agreements-api-sdk) 📇 ☁️ 🏠 - Remote Streamable HTTP and local stdio MCP server for defining, validating, deploying, and operating machine-readable agreements with EIP-712 permit preparation, signed participant inputs, state reads, and input history.
-- [humanforai/humanforai-mcp](https://github.com/humanforai/humanforai-mcp) 🎖️ 📇 ☁️ - Hire a real human operator for tasks that need physical presence, perception, or judgment: real-world verification, product testing, AI output review, data collection, and local errands. Remote streamable HTTP at https://humanforai.dev/mcp or local stdio via `npx -y humanforai`.
+- [humanforai/humanforai-mcp](https://github.com/humanforai/humanforai-mcp) [![humanforai/humanforai-mcp MCP server](https://glama.ai/mcp/servers/humanforai/humanforai-mcp/badges/score.svg)](https://glama.ai/mcp/servers/humanforai/humanforai-mcp) 🎖️ 📇 ☁️ - Hire a real human operator for tasks that need physical presence, perception, or judgment: real-world verification, product testing, AI output review, data collection, and local errands. Remote streamable HTTP at https://humanforai.dev/mcp or local stdio via `npx -y humanforai`.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
