@@ -3012,6 +3012,7 @@ Astrology, tarot, numerology, Vedic systems, Human Design and other divinatory o
 
 ### 🏃 <a name="sports"></a>Sports
 
+- [sumal009/garmin-mcp](https://github.com/sumal009/garmin-mcp) 🐍 🏠 - Self-hosted Garmin Connect server with bearer-token auth and a live triathlon dashboard; ask Claude about sleep, heart rate, body battery, and training.
 Tools for accessing sports-related data, results, and statistics.
 
 - [anup-shesh/garmin-local-mcp](https://github.com/anup-shesh/garmin-local-mcp) [![anup-shesh/garmin-local-mcp MCP server](https://glama.ai/mcp/servers/anup-shesh/garmin-local-mcp/badges/score.svg)](https://glama.ai/mcp/servers/anup-shesh/garmin-local-mcp) 🐍 🏠 🍎 🪟 🐧 - Local-first Garmin data warehouse: incremental sync into SQLite you own, with server-side trends, lag-aware correlations, personal baselines, and anomaly detection returned as compact tables. Analysis keeps working offline when Garmin's API breaks, and a zero-auth FIT-bundle import fills gaps with no login at all.
