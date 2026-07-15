@@ -3277,26 +3277,43 @@ Now Claude can answer questions about writing MCP servers and how they work
 
 ### Hosted MCP Servers
 
+- [Air Quality Mcp](https://air-quality-mcp.mcpize.run) — Stay ahead of pollution with our Air Quality MCP
 - [Country Data Mcp](https://country-data-mcp.mcpize.run) — Unlock comprehensive country information with ease! Discover capitals, currencies, and neighboring nations using our API
+- [Crypto Prices Mcp](https://crypto-prices-mcp.mcpize.run) — Unlock the power of real-time cryptocurrency data with our Crypto Price Insights MCP server
 - [Currency Converter Mcp](https://currency-converter-mcp.mcpize.run) — Need to convert currencies on the fly? Our Instant Currency Converter uses live rates from the ECB, ensuring you get the most accurate conversions
 - [Data Compute Stats Mcp](https://data-compute-stats-mcp.mcpize.run) — Dive into a suite of pure Python tools designed for precise mathematical computations and insightful statistics
+- [Dictionary Lexicon Mcp](https://dictionary-lexicon-mcp.mcpize.run) — Discover the true meaning of any English word with our Dictionary Lexicon MCP
+- [Dns Lookup Mcp](https://dns-lookup-mcp.mcpize.run) — Unlock the power of DNS lookups with our DNS Lookup service using Google DNS-over-HTTPS
+- [Earthquake Monitor Mcp](https://earthquake-monitor-mcp.mcpize.run) — Our Earthquake Monitor harnesses the USGS earthquake feed to provide you with up-to-the-minute information on recent seismic activities
 - [Ecommerce Mcp](https://ecommerce-mcp.mcpize.run) — Dive into a vast catalog of over 3 million products via Open Food Facts
 - [Education Mcp](https://education-mcp.mcpize.run) — Dive deep into educational topics through comprehensive resources from Wikipedia and Open Library
 - [Environment Nature Mcp](https://environment-nature-mcp.mcpize.run) — Unlock the power of real-time environmental data with our cutting-edge APIs
-- [Finance Fintech Mcp](https://finance-fintech-mcp.mcpize.run) — Instantly access live exchange and crypto prices!
-- [Git Diff Mcp](https://git-diff-mcp.mcpize.run) — Analyze git diffs and PRs effortlessly with Git Diff Analyzer!
-- [Htmlpdf Transform Mcp](https://htmlpdf-transform-mcp.mcpize.run) — Transform HTML effortlessly into Markdown and plain text!
-- [Legal Mcp](https://legal-mcp.mcpize.run) — Transform your legal research with ease and precision!
-- [Marketing Mcp](https://marketing-mcp.mcpize.run) — Transform your marketing with precise SEO keyword insights!
-- [Prozorro Tender Monitor Mcp](https://prozorro-tender-monitor-mcp.mcpize.run) — Your gateway to Ukrainian tender insights, real-time and ready
-- [Public Data Ukraine Mcp](https://public-data-ukraine-mcp.mcpize.run) — Seamlessly access Ukraine's public data with zero authentication!
-- [Public Holidays Mcp](https://public-holidays-mcp.mcpize.run) — Effortlessly access global public holidays data!
-- [Real Estate Mcp](https://real-estate-mcp.mcpize.run) — Unlock real estate potential with precise location data
-- [Research Mcp](https://research-mcp.mcpize.run) — Effortlessly explore 250M+ research papers with OpenAlex!
-- [Security Mcp](https://security-mcp.mcpize.run) — Discover vulnerabilities effortlessly for just $0
-- [Text Intelligence Mcp](https://text-intelligence-mcp.mcpize.run) — Transform text data into insights effortlessly with Text Intelligence!
-- [Translation Services Mcp](https://translation-services-mcp.mcpize.run) — Unlock the power of communication with our translation services! Ideal for developers, businesses, and travelers, our API allows for seamless translation between over 100 languages using MyMemory
+- [Finance Fintech Mcp](https://finance-fintech-mcp.mcpize.run) — Unlock the power of financial insights with our Finance MCP
+- [Git Diff Mcp](https://git-diff-mcp.mcpize.run) — With Git Diff Analyzer, analyzing git diffs and GitHub pull requests has never been easier
+- [Github Public Repos Mcp](https://github-public-repos-mcp.mcpize.run) — Dive into the world of open-source with the GitHub Repo Explorer! Utilize the powerful GitHub public REST API to get detailed metadata about any public repository or search for repositories that match your interests
+- [Hacker News Mcp](https://hacker-news-mcp.mcpize.run) — Dive into the latest and greatest from the tech world with our Hacker News MCP server
+- [Htmlpdf Transform Mcp](https://htmlpdf-transform-mcp.mcpize.run) — Unlock the power of clean, structured text with our HTML to Markdown transformation tools
+- [Ip Geolocation Mcp](https://ip-geolocation-mcp.mcpize.run) — Unlock the power of IP geolocation with our tool! Whether you're a developer needing location data for user analytics or a cybersecurity expert tracking suspicious activity, our service delivers precise information
+- [Legal Mcp](https://legal-mcp.mcpize.run) — Dive into the world of legal research with our legal_mcp server
+- [Marketing Mcp](https://marketing-mcp.mcpize.run) — Elevate your marketing strategy with our Marketing MCP server
+- [Met Museum Mcp](https://met-museum-mcp.mcpize.run) — Unlock a world of art with the Met Museum MCP! Use the 'search_artworks' API to find stunning pieces from the Metropolitan Museum's open collection and retrieve detailed metadata with 'get_artwork'
+- [Name Demographics Mcp](https://name-demographics-mcp.mcpize.run) — Harness the power of names with our Name Demographics MCP
+- [Npm Package Info Mcp](https://npm-package-info-mcp.mcpize.run) — Dive into the world of npm with our NPM Package Info MCP
+- [Open Food Facts Mcp](https://open-food-facts-mcp.mcpize.run) — Unlock the power of food transparency with our Open Food Facts MCP server
+- [Prozorro Tender Monitor Mcp](https://prozorro-tender-monitor-mcp.mcpize.run) — Stay ahead in the competitive landscape of Ukrainian public procurement with our Prozorro Tender Monitor
+- [Public Data Ukraine Mcp](https://public-data-ukraine-mcp.mcpize.run) — Unlock real-time insights into Ukraine's economy and public services with our comprehensive data APIs
+- [Public Holidays Mcp](https://public-holidays-mcp.mcpize.run) — Streamline your applications with the Global Public Holidays API, offering instant access to holiday data for over 100 countries
+- [Real Estate Mcp](https://real-estate-mcp.mcpize.run) — Dive into the world of real estate with our powerful location intelligence tools
+- [Research Mcp](https://research-mcp.mcpize.run) — Dive into a vast collection of over 250 million academic papers with the OpenAlex API! Whether you're a student, researcher, or academic professional, this tool simplifies your literature search, making it easy to find relevant papers for your projects
+- [Security Mcp](https://security-mcp.mcpize.run) — With security_mcp, developers can easily identify vulnerabilities in their applications using the OSV
+- [Sunrise Sunset Mcp](https://sunrise-sunset-mcp.mcpize.run) — Discover the magic of day and night with our Sunrise & Sunset API
+- [Text Intelligence Mcp](https://text-intelligence-mcp.mcpize.run) — Unleash the potential of your text data with Text Intelligence
+- [Translation Services Mcp](https://translation-services-mcp.mcpize.run) — Unlock the power of communication with our Global Translation Hub! Seamlessly translate text between over 100 languages using our robust MyMemory API
 - [Travel Transportation Mcp](https://travel-transportation-mcp.mcpize.run) — Travel smarter with real-time insights on countries, weather, and currency conversions
+- [Tv Maze Mcp](https://tv-maze-mcp.mcpize.run) — Unlock a world of television with the TV Maze MCP server
 - [Ua E Commerce Price Tracker Mcp](https://ua-e-commerce-price-tracker-mcp.mcpize.run) — Discover the best prices in Ukrainian e-commerce with our powerful price tracker
 - [Ua Postal Tracking Mcp](https://ua-postal-tracking-mcp.mcpize.run) — Stay updated on your shipments with our Ukrainian postal tracking tool for Nova Poshta
-- [Web Content Extract Mcp](https://web-content-extract-mcp.mcpize.run) — Extract clean web content effortlessly with our powerful API!
+- [Uk Postcodes Mcp](https://uk-postcodes-mcp.mcpize.run) — Access comprehensive UK postcode information effortlessly with our geocoding services
+- [Web Content Extract Mcp](https://web-content-extract-mcp.mcpize.run) — Unlock the power of web content extraction with our Web Content Extractor
+- [World Bank Indicators Mcp](https://world-bank-indicators-mcp.mcpize.run) — Dive into the wealth of information provided by the World Bank with our zero-auth API
+
