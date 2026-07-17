@@ -1990,6 +1990,7 @@ Integration with gaming related data, game engines, and services
 - [tomholford/mcp-tic-tac-toe](https://github.com/tomholford/mcp-tic-tac-toe) 🏎️ 🏠 - Play Tic Tac Toe against an AI opponent using this MCP server.
 - [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) 📇 🏠 🍎 🪟 🐧 - Premium MCP server for Godot game engine with 84 tools for scene editing, scripting, animation, tilemap, shader, input simulation, and runtime debugging.
 - [HadiCherkaoui/crafty-mcp](https://github.com/HadiCherkaoui/crafty-mcp) [![HadiCherkaoui/crafty-mcp MCP server](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp) 📇 🏠 🍎 🪟 🐧 - MCP server for managing Minecraft servers through [Crafty Controller 4](https://craftycontrol.com). Start, stop, backup, send commands, manage files, schedules, webhooks, and users via the Crafty API.
+- [The Floor (companion)](https://thefloor-dashboard-production.up.railway.app/mcp) 📇 ☁️ - Unofficial companion to the on-chain strategy game The Floor (Robinhood Chain). Read live desks, alpha, emissions and reinvest-vs-dump analytics; get per-wallet strategy math; and prepare unsigned transactions to join, recruit, upgrade, collect PnL, and swap ETH↔FLOOR. Reads are safe; writes return unsigned calldata for your own signer.
 - 
 
 ### 🏠 <a name="home-automation"></a>Home Automation
