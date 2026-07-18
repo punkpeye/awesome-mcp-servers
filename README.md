@@ -1384,6 +1384,9 @@ Tools and integrations that enhance the development workflow and environment man
 - [Bishop81/imagedimensions-mcp](https://github.com/Bishop81/imagedimensions-mcp) [![Bishop81/imagedimensions-mcp MCP server](https://glama.ai/mcp/servers/Bishop81/imagedimensions-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Bishop81/imagedimensions-mcp) 📇 ☁️ - Audit the images on any web page: natural vs rendered dimensions, oversized-image detection, and format breakdown, so agents can check web-image performance. Calls the hosted imagedimensions.com API, so no local browser is required. `npx -y imagedimensions-mcp`
 
 - [sebastienrousseau/rlg](https://github.com/sebastienrousseau/rlg) [![sebastienrousseau/rlg-mcp MCP server](https://glama.ai/mcp/servers/sebastienrousseau/rlg/badges/score.svg)](https://glama.ai/mcp/servers/sebastienrousseau/rlg) 🦀 🏠 🍎 🪟 🐧 - **Log-stream tools for on-call / SRE agent workflows** — expose `rlg` (RustLogs) log files as MCP tools. Three tools: `tail_log` (last N events, filtered by level/target), `filter_log` (JSON-path-style predicates), `summarize_errors` (grouped error taxonomy). Speaks JSON-RPC 2.0 over stdio; near-lock-free structured logging engine underneath (65k-slot ring buffer, 14 output formats, `os_log`/`journald` sinks). Install `cargo install rlg-mcp` or `docker run -i ghcr.io/sebastienrousseau/rlg-mcp`. Dual-licensed MIT OR Apache-2.0.
+
+- [packkit-mcp](https://github.com/DanMat/create-packkit/tree/main/mcp) 📇 🏠 - Scaffold modern npm packages, CLIs, services, and apps from your agent. Three tools: inspect the option schema, preview the generated file tree, and write the project to disk. Also available as a CLI and a web configurator. `npx -y packkit-mcp`
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
