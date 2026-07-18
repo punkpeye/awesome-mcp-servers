@@ -103,6 +103,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🏠 - [Home Automation](#home-automation)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
+* 🔧 - [Local Services](#local-services)
 * 🗺️ - [Location Services](#location-services)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
@@ -2275,6 +2276,10 @@ Access to legal information, legislation, and legal databases. Enables AI models
 - [ptrinh/finalnotice-mcp](https://github.com/ptrinh/finalnotice-mcp) [![ptrinh/finalnotice-mcp MCP server](https://glama.ai/mcp/servers/ptrinh/finalnotice-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ptrinh/finalnotice-mcp) 📇 ☁️ - Generate localized debt-collection demand-letter PDFs (formal letter + matching envelope) across 100+ jurisdictions and 33 languages. No auth, no key — tools: `list_jurisdictions`, `preview_demand_letter`, `generate_demand_letter`. Hosted Streamable HTTP at finalnotice.io/mcp.
 - [smythmyke/patent-search-mcp-server](https://github.com/smythmyke/patent-search-mcp-server) [![smythmyke/patent-search-mcp-server MCP server](https://glama.ai/mcp/servers/smythmyke/patent-search-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/smythmyke/patent-search-mcp-server) 📇 ☁️ - Patent intelligence and prior-art research for the AI Patent Search Generator. Eleven tools: full patent dossier (bibliography, claims, citations, family, classifications, examiner stats); USPTO prosecution-history file wrappers; AI Office Action analysis (rejection grounds, cited prior art, suggested response arguments); Boolean query generator; multi-strategy patent search (telescoping / onion-ring / faceted); similar-document ranking; citation graph (backward + forward, examiner-cited flagged); family lookup; and CPC classification lookup. Install: `npx -y patent-search-mcp-server`.
 - [Vaquill-AI/canlii-mcp](https://github.com/Vaquill-AI/canlii-mcp) [![Vaquill-AI/canlii-mcp MCP server](https://glama.ai/mcp/servers/Vaquill-AI/canlii-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Vaquill-AI/canlii-mcp) 📇 ☁️ - Canadian case law and legislation metadata via CanLII. Bring-your-own free CanLII API key. Hosted endpoint at canlii-mcp.vaquill.ai. MIT.
+
+### 🔧 <a name="local-services"></a>Local Services
+MCP servers for local service businesses that customers book: pest control, plumbing, electrical, HVAC, cleaning, landscaping, mobile mechanics, and other trades. Enables AI agents to browse services, get quotes, check service areas, submit bookings, and manage appointments, turning local service providers into agent-callable endpoints.
+- [Pesties.au](https://pesties.au) 📇 ☁️ 🍎 🪟 🐧 - Pest control booking for the Gold Coast, Logan, and South Brisbane (Australia). Browse services, get real-time quotes, check service areas, and submit bookings via signed quote tokens with two-phase commit. Live at mcp.pesties.au. First MCP in this category.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
