@@ -2279,7 +2279,7 @@ Access to legal information, legislation, and legal databases. Enables AI models
 
 ### 🔧 <a name="local-services"></a>Local Services
 MCP servers for local service businesses that customers book: pest control, plumbing, electrical, HVAC, cleaning, landscaping, mobile mechanics, and other trades. Enables AI agents to browse services, get quotes, check service areas, submit bookings, and manage appointments, turning local service providers into agent-callable endpoints.
-- [JovianNights/pesties-mcp](https://github.com/JovianNights/pesties-mcp) 📇 ☁️ 🍎 🪟 🐧 - Pest control booking for the Gold Coast, Logan, and South Brisbane (Australia). Browse services, get real-time quotes, check service areas, and submit bookings via signed quote tokens with two-phase commit. Live at mcp.pesties.au. First MCP in this category.
+- [JovianNights/pesties-mcp](https://github.com/JovianNights/pesties-mcp) [![JovianNights/pesties-mcp MCP server](https://glama.ai/mcp/servers/JovianNights/pesties-mcp/badges/score.svg)](https://glama.ai/mcp/servers/JovianNights/pesties-mcp) 📇 ☁️ 🍎 🪟 🐧 - Pest control booking for the Gold Coast, Logan, and South Brisbane (Australia). Browse services, get real-time quotes, check service areas, and submit bookings via signed quote tokens with two-phase commit. Live at mcp.pesties.au. First MCP in this category.
 
 ### 🗺️ <a name="location-services"></a>Location Services
 
