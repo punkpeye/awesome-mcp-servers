@@ -928,6 +928,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 
 ### 📊 <a name="data-platforms"></a>Data Platforms
 
+- [Yacine-ai-tech/AgentKit](https://github.com/Yacine-ai-tech/AgentKit) [![AgentKit MCP server](https://glama.ai/mcp/servers/Yacine-ai-tech/AgentKit/badges/score.svg)](https://glama.ai/mcp/servers/Yacine-ai-tech/AgentKit) 🐍 ☁️ - MCP server for Business Intelligence Agents. Expose enterprise KPIs, health scores, forecasting, and anomaly detection as tools, resources, and prompt templates.
 Data Platforms for data integration, transformation and pipeline orchestration.
 
 - [1luvc0d3/metabase-mcp](https://github.com/1luvc0d3/metabase-mcp) [![1luvc0d3/metabase-mcp MCP server](https://glama.ai/mcp/servers/1luvc0d3/metabase-mcp/badges/score.svg)](https://glama.ai/mcp/servers/1luvc0d3/metabase-mcp) 📇 🏠 - MCP server connecting Claude to Metabase with 28 tools for natural language data analysis, dashboard management, SQL queries, and automated insights. Features SQL guardrails, rate limiting, and audit logging.
