@@ -2542,6 +2542,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 - [xfloukiex-lab/road-poneglyph](https://github.com/xfloukiex-lab/road-poneglyph) [![xfloukiex-lab/road-poneglyph MCP server](https://glama.ai/mcp/servers/xfloukiex-lab/road-poneglyph/badges/score.svg)](https://glama.ai/mcp/servers/xfloukiex-lab/road-poneglyph) 🐍 🏠 🍎 🪟 🐧 - Reviews a plan for what's missing — unstated assumptions, omitted technical risks, and execution blind spots (a structured pre-mortem). `pip install road-poneglyph-mcp`
 - [AIOProductOS/claude-plugin](https://github.com/AIOProductOS/claude-plugin) [![AIOProductOS/claude-plugin MCP server](https://glama.ai/mcp/servers/AIOProductOS/claude-plugin/badges/score.svg)](https://glama.ai/mcp/servers/AIOProductOS/claude-plugin) 🎖️ ☁️ - Product management over a shared product spine: link customer feedback and insights to features, tasks, sprints, releases and objectives; weekly signal memo; roadmap-drift detection; customer 360, funnel, path, retention, NPS and NRR analytics; artifact versioning and identity resolution. 38 tools, hosted remote server with OAuth 2.1 (DCR + PKCE).
 auto-download. Install via `npx atlassian-trello-mcp`.
+- [VoidNullable/lific](https://github.com/VoidNullable/lific) 🦀 🏠 🍎 🐧 - Local-first issue tracker for coding agents: issues, kanban board, docs pages, and plans that persist across agent sessions. Single SQLite-backed binary serving MCP (27 tools), REST, CLI, and a web UI. `cargo install lific`.
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
