@@ -272,6 +272,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[urlDNA](https://github.com/urldna/mcp)** - Dynamically scan and analyze potentially malicious URLs using the [urlDNA](https://urlDNA.io)
 - **[Vectorize](https://github.com/vectorize-io/vectorize-mcp-server/)** - [Vectorize](https://vectorize.io) MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking.
 - **[Verodat](https://github.com/Verodat/verodat-mcp-server)** - Interact with Verodat AI Ready Data platform
+- **[Veriforge](https://github.com/jonnadul/veriforge)** - Neutral verification oracle: compiles a task intent into a machine-checkable rubric, verifies evidence (images/metadata) via provenance + replay gates, vision judgment, and AI-generation forensics, and returns Ed25519-signed, hash-chained verdicts any client can attest. Live at `npx -y mcp-remote https://veriforge.co/mcp`.
 - **[VeyraX](https://github.com/VeyraX/veyrax-mcp)** - Single tool to control all 100+ API integrations, and UI components
 - **[VideoDB](https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol)** - Server for advanced AI-driven video editing, semantic search, multilingual transcription, generative media, voice cloning, and content moderation.
 - **[VISO TRUST](https://github.com/visotrust/viso-mcp-server)** - Access and manage your VISO TRUST third-party risk program directly through your AI assistant.
