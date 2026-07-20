@@ -1385,7 +1385,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 - [sebastienrousseau/rlg](https://github.com/sebastienrousseau/rlg) [![sebastienrousseau/rlg-mcp MCP server](https://glama.ai/mcp/servers/sebastienrousseau/rlg/badges/score.svg)](https://glama.ai/mcp/servers/sebastienrousseau/rlg) 🦀 🏠 🍎 🪟 🐧 - **Log-stream tools for on-call / SRE agent workflows** — expose `rlg` (RustLogs) log files as MCP tools. Three tools: `tail_log` (last N events, filtered by level/target), `filter_log` (JSON-path-style predicates), `summarize_errors` (grouped error taxonomy). Speaks JSON-RPC 2.0 over stdio; near-lock-free structured logging engine underneath (65k-slot ring buffer, 14 output formats, `os_log`/`journald` sinks). Install `cargo install rlg-mcp` or `docker run -i ghcr.io/sebastienrousseau/rlg-mcp`. Dual-licensed MIT OR Apache-2.0.
 
-- [packkit-mcp](https://github.com/DanMat/create-packkit/tree/main/mcp) 📇 🏠 - Scaffold modern npm packages, CLIs, services, and apps from your agent. Three tools: inspect the option schema, preview the generated file tree, and write the project to disk. Also available as a CLI and a web configurator. `npx -y packkit-mcp`
+- [packkit-mcp](https://github.com/DanMat/create-packkit/tree/main/mcp) [![DanMat/create-packkit MCP server](https://glama.ai/mcp/servers/DanMat/create-packkit/badges/score.svg)](https://glama.ai/mcp/servers/DanMat/create-packkit) 📇 🏠 - Scaffold modern npm packages, CLIs, services, and apps from your agent. Three tools: inspect the option schema, preview the generated file tree, and write the project to disk. Also available as a CLI and a web configurator. `npx -y packkit-mcp`
 
 ### 🔒 <a name="delivery"></a>Delivery
 
