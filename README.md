@@ -3333,6 +3333,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [kw510/strava-mcp](https://github.com/kw510/strava-mcp) 📇 ☁️ - An MCP server for Strava, an app for tracking physical exercise
 - [latex-mcp-server](https://github.com/Yeok-c/latex-mcp-server) - An MCP Server to compile latex, download/organize/read cited papers, run visualization scripts and add figures/tables to latex.
 - [louiscklaw/hko-mcp](https://github.com/louiscklaw/hko-mcp) 📇 🏠 - MCP server with basic demonstration of getting weather from Hong Kong Observatory
+- [luotwo/easyaccesspdf-mcp](https://github.com/luotwo/easyaccesspdf-mcp) ☁️ - PDF accessibility checks (veraPDF PDF/UA-1), auto-tagging remediation and document-to-Markdown conversion via a hosted EU service. Remote Streamable HTTP endpoint at easyaccesspdf.com, free tier available.
 - [magarcia/mcp-server-giphy](https://github.com/magarcia/mcp-server-giphy) 📇 ☁️ - Search and retrieve GIFs from Giphy's vast library through the Giphy API.
 - [MAG-Cie/mcp-microsoft-todo](https://github.com/MAG-Cie/mcp-microsoft-todo) [![MAG-Cie/mcp-microsoft-todo MCP server](https://glama.ai/mcp/servers/MAG-Cie/mcp-microsoft-todo/badges/score.svg)](https://glama.ai/mcp/servers/MAG-Cie/mcp-microsoft-todo) 📇 🏠 🍎 🪟 🐧 - Microsoft To Do task management via Microsoft Graph API. MSAL device code flow (no client secret needed), persisted token cache, full MCP safety annotations.
 - [marcelmarais/Spotify](https://github.com/marcelmarais/spotify-mcp-server) - 📇 🏠 Control Spotify playback and manage playlists.
