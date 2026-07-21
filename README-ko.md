@@ -183,6 +183,7 @@
 
 메시지 관리 및 채널 운영을 위한 커뮤니케이션 플랫폼과의 통합. AI 모델이 팀 커뮤니케이션 도구와 상호 작용할 수 있게 합니다.
 
+- [atbridge-ai/atbridge](https://github.com/atbridge-ai/atbridge) 🎖️ 🏠 🍎 🪟 🐧 - Thunderbird용 로컬 MCP 서버 — 모든 메일박스(Gmail, Outlook, IMAP)에서 이메일, 캘린더, 연락처, 노트, 작업을 처리합니다. 프라이버시 중심 설계로 실행 중인 Thunderbird와 로컬로 통신하며 클라우드를 거치지 않습니다. 읽기는 기본 허용, 쓰기는 게이트 처리. 모든 MCP 클라이언트(Claude Desktop, Cursor 등)와 호환됩니다. https://atbridge.ai/download 에서 설치한 뒤 `atbridge mcp setup`을 실행하세요.
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - Google Tasks를 관리하기 위한 MCP 서버
 - [FastAlertNow/mcp-server](https://github.com/FastAlertNow/mcp-server) 💬 ☁️ - FastAlert MCP Server - Official Model Context Protocol (MCP) server for FastAlert. This server allows AI agents (like Claude, ChatGPT, and Cursor) to list your channels and send notifications directly through the FastAlert API. ![FastAlert icon](https://fastalert.now/icons/favicon-32x32.png)
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - 모델 컨텍스트 프로토콜(MCP)을 통해 iMessage 데이터베이스에 안전하게 접근할 수 있게 하는 MCP 서버. LLM이 적절한 전화번호 유효성 검사 및 첨부 파일 처리로 iMessage 대화를 쿼리하고 분석할 수 있도록 지원합니다.
