@@ -101,6 +101,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
+* 🏭 - [Industrial & IoT](#industrial--iot)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
@@ -2012,6 +2013,12 @@ Control smart home devices, home network equipment, and automation systems.
 - [laszlopere/mcp-kodi](https://github.com/laszlopere/mcp-kodi) [![laszlopere/mcp-kodi MCP server](https://glama.ai/mcp/servers/laszlopere/mcp-kodi/badges/score.svg)](https://glama.ai/mcp/servers/laszlopere/mcp-kodi) 🌊 🏠 🐧 - Control a Kodi media player over its JSON-RPC API — transport, volume, library search, queue management, and playback history. 16 tools, targetable across multiple Kodi instances. Written in C on the GLib stack; builds from source (autotools / .deb).
 - [claymore666/debmatic-mcp](https://github.com/claymore666/debmatic-mcp) [![claymore666/debmatic-mcp MCP server](https://glama.ai/mcp/servers/claymore666/debmatic-mcp/badges/score.svg)](https://glama.ai/mcp/servers/claymore666/debmatic-mcp) 📇 🏠 🍎 🪟 🐧 - Control a HomeMatic / debmatic CCU (eq-3 home automation) over its JSON-RPC and HM-Script APIs — switch and dim actuators, read sensors, system variables and service messages, run programs, and manage rooms, functions, channel links and device assignments. 25 tools over HTTP or stdio; runs locally against your own CCU.
 - [NickoScope/nickol-knx-mcp](https://github.com/NickoScope/nickol-knx-mcp) [![NickoScope/nickol-knx-mcp MCP server](https://glama.ai/mcp/servers/NickoScope/nickol-knx-mcp/badges/score.svg)](https://glama.ai/mcp/servers/NickoScope/nickol-knx-mcp) 🐍 🏠 - Design-time KNX/ETS6 assistant: parses .knxproj (read-only, no bus access), validates DPT/naming/command-status pairing, and generates Home Assistant YAML + ETS XML/CSV exports.
+
+### 🏭 <a name="industrial--iot"></a>Industrial & IoT
+
+Connect AI agents to industrial equipment, machinery, and operational technology (OT) — telemetry ingestion, monitoring, and control across manufacturing and factory-floor protocols.
+
+- [FoundryNet/forge-mcp](https://github.com/FoundryNet/forge-mcp) 🐍 ☁️ - Industrial AI infrastructure that connects any AI agent to industrial equipment: 14 protocols, 18 manufacturers, 30 tools, cross-OEM telemetry normalization, health index, and failure prediction. The first physical-world MCP server. Free tier available. ([Smithery](https://smithery.ai/server/@foundrynet/forge)) [![FoundryNet/forge-mcp MCP server](https://glama.ai/mcp/servers/FoundryNet/forge-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FoundryNet/forge-mcp)
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
