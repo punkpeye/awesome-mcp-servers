@@ -2229,6 +2229,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [shyshlakov/pci-dss-mcp](https://github.com/shyshlakov/pci-dss-mcp) [![shyshlakov/pci-dss-mcp MCP server](https://glama.ai/mcp/servers/shyshlakov/pci-dss-mcp/badges/score.svg)](https://glama.ai/mcp/servers/shyshlakov/pci-dss-mcp) 🏎️ 🏠 🍎 🪟 🐧 - PCI DSS v4.0.1 static-analysis MCP server for Go payment codebases. 12 scanners detect PAN/CVV exposure, weak crypto, missing audit logs, vulnerable deps, TLS misconfig, auth weaknesses, plus CycloneDX 1.6 SBOM generation - each finding mapped to the exact PCI requirement. AI-assisted triage via triage_findings. Keyless-signed multi-arch Docker image on ghcr.io.
 - [layervai/qurl-mcp](https://github.com/layervai/qurl-mcp) [![layervai/qurl-mcp MCP server](https://glama.ai/mcp/servers/layervai/qurl-mcp/badges/score.svg)](https://glama.ai/mcp/servers/layervai/qurl-mcp) 📇 ☁️ 🍎 🪟 🐧 - Mint, resolve, audit, and rotate expiring scope-limited access links (qURLs) for AI agents — secure URL gateway for the qURL API. 9 tools (create / resolve / list / get / delete / extend / update / mint-link / batch-create), 3 resources, 3 guided prompts. stdio transport, OIDC-attested npm provenance.
+- [feichangai-team/aishield](https://github.com/feichangai-team/aishield) 🐍 🏠 ☁️ - Agent 安全盾牌，MCP 工具/Agent 安全扫描。覆盖 OWASP MCP Top 10 安全标准，支持 Prompt 注入检测、零宽字符识别、Rug Pull 风险识别、权限审计、依赖监控。提供 Agent 一键入驻、OpenAPI 自动发现、安全徽章生成。
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
@@ -2628,3 +2630,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
