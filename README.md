@@ -868,7 +868,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [joshuarileydev/supabase-mcp-server](https://github.com/joshuarileydev/supabase) - Supabase MCP Server for managing and creating projects and organisations in Supabase
 - [jovezhong/mcp-timeplus](https://github.com/jovezhong/mcp-timeplus) 🐍 ☁️ - MCP server for Apache Kafka and Timeplus. Able to list Kafka topics, poll Kafka messages, save Kafka data locally and query streaming data with SQL via Timeplus
 - [jparkerweb/mcp-sqlite](https://github.com/jparkerweb/mcp-sqlite) 📇 🏠 - Model Context Protocol (MCP) server that provides comprehensive SQLite database interaction capabilities.
-- [kaydet](https://github.com/miratcan/kaydet) 🐍 🏠 - Queryable personal database and terminal diary with SQLite FTS5 search, metadata queries, and MCP/AI integration.
+- [miratcan/kaydet](https://github.com/miratcan/kaydet) 🐍 🏠 - Queryable personal database and terminal diary with SQLite FTS5 search, metadata queries, and MCP/AI integration.
 - [KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server) 🐍 ☁️ - VikingDB integration with collection and index introduction, vector store and search capabilities.
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - A Model Context Protocol Server for MongoDB
 - [kosminus/querywise-mcp](https://github.com/kosminus/querywise-mcp) [![kosminus/querywise-mcp MCP server](https://glama.ai/mcp/servers/kosminus/querywise-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kosminus/querywise-mcp) 🐍 🏠 - Query SQL databases (SQLite, PostgreSQL, BigQuery, Databricks) in natural language through a business semantic layer — glossary, metrics, and a data dictionary grounded against your real schema.
