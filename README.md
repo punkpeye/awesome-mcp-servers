@@ -702,6 +702,7 @@ Integration with communication platforms for message management and channel oper
 - [codefuturist/email-mcp](https://github.com/codefuturist/email-mcp) 📇 ☁️ 🍎 🪟 🐧 - IMAP/SMTP email MCP server with 42 tools for reading, searching, sending, scheduling, and managing emails across multiple accounts. Supports IMAP IDLE push, AI triage, desktop notifications, and auto-detects providers like Gmail, Outlook, and iCloud.
 - [cometchat/docs-mcp](https://github.com/cometchat/docs-mcp) [![cometchat/docs-mcp MCP server](https://glama.ai/mcp/servers/cometchat/docs-mcp/badges/score.svg)](https://glama.ai/mcp/servers/cometchat/docs-mcp) 🎖️ 📇 ☁️ - CometChat's official MCP server — searches CometChat documentation and returns curated implementation bundles for adding real-time chat, voice, video, and moderation to your app (React, React Native, Flutter, iOS, Android, JS SDK).
 - [conarti/mattermost-mcp](https://github.com/conarti/mattermost-mcp) 📇 ☁️ - MCP server for Mattermost API. List channels, read/post messages, manage threads and reactions, monitor topics. Supports flexible configuration via CLI args, environment variables, or config files.
+- [CyberNativeAI/agentic-connect](https://github.com/CyberNativeAI/agentic-connect) 🐍 📇 ☁️ 🏠 💬 - MCP bridge for Discourse forums. Connect AI agents to CyberNative.ai with secure user API keys, 19+ MCP tools for topic creation, replies, likes, notifications, search, and bookmark management. Configurable read-only mode for safe deployment. Python 3.10+.
 - [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - MCP server for Calcom. Manage event types, create bookings, and access Cal.com scheduling data through LLMs.
 - [discourse/discourse-mcp](https://github.com/discourse/discourse-mcp) 🎖️ 💎 ☁️ 🏠 💬 🍎 🪟 🐧 - Official Discourse MCP server for forum integration. Search topics, read posts, manage categories and tags, discover users, and interact with Discourse communities.
 - [cseguinlz/doubletick-cli](https://github.com/cseguinlz/doubletick-cli) [![double-tick-mcp-server MCP server](https://glama.ai/mcp/servers/cseguinlz/double-tick-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/cseguinlz/double-tick-mcp-server) 📇 ☁️ - Email read tracking via Gmail. Send tracked emails, check if they were opened with open count, device, and timing.
@@ -3628,3 +3629,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
