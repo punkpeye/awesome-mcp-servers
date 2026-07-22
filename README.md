@@ -130,7 +130,9 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
-
+- [trelix](https://github.com/sairam0424/trelix) 🐍 🏠 - Semantic code search MCP server — Tree-sitter
+  parsing, hybrid BM25+vector, call-graph. Zero infra. `pip install trelix-mcp` [![Glama](https://glama.ai/mcp/s
+  ervers/sairam0424/trelix/badges/score.svg)](https://glama.ai/mcp/servers/sairam0424/trelix)
 - [forgemeshlabs/coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp) [![forgemeshlabs/coinopai-mcp MCP server](https://glama.ai/mcp/servers/forgemeshlabs/coinopai-mcp/badges/score.svg)](https://glama.ai/mcp/servers/forgemeshlabs/coinopai-mcp) 📇 - Local stdio MCP server for x402-powered paid crypto intelligence: preflight checks, trade decisions with `decision_id`, later audit against real prices, risk state, signal history, and agent automation search over USDC micropayments on Base.
 - [forgemeshlabs/anomaly-mcp](https://github.com/forgemeshlabs/anomaly-mcp) [![forgemeshlabs/anomaly-mcp MCP server](https://glama.ai/mcp/servers/forgemeshlabs/anomaly-mcp/badges/score.svg)](https://glama.ai/mcp/servers/forgemeshlabs/anomaly-mcp) 📇 ☁️ - Real-time anomaly detection powered by NASA-derived sequence mining across blockchain, mempool, stablecoin depeg, aviation, and GitHub signals via x402 USDC micropayments on Base. `npx -y @forgemeshlabs/anomaly-mcp`
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
