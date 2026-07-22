@@ -1445,6 +1445,8 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
 
+- [isatimur/excalidraw-skill-pack](https://github.com/isatimur/excalidraw-skill-pack) 📇 🏠 🍎 🪟 🐧 - Opinionated Excalidraw methodology + themes so agents draw diagrams that argue, not boxes that label. Works in any MCP client. `npx @excalidraw-skill-pack/mcp-server`
+
 - [KyuRish/mcp-dashboards](https://github.com/KyuRish/mcp-dashboards) [![mcp-dashboards MCP server](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards/badges/score.svg)](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards) 📇 🏠 🍎 🪟 🐧 - 45+ interactive chart types (bar, line, pie, candlestick, sankey, geo, radar, funnel, treemap, and more), dashboards with KPI cards, drill-down navigation, live API polling, 20 themes, and export to PNG/PPT/A4. Built on MCP Apps.
 
 - [marzukia/charted](https://github.com/marzukia/charted) [![marzukia/charted MCP server](https://glama.ai/mcp/servers/marzukia/charted/badges/score.svg)](https://glama.ai/mcp/servers/marzukia/charted) 🐍 🏠 🍎 🪟 🐧 - Zero-dependency chart server that renders bar, line, pie, scatter, and more from JSON or CSV to SVG, HTML, PNG, or data URL. Built-in themes; PNG output renders inline in chat. Install via `uvx --from charted[mcp] charted-mcp`.
@@ -2482,6 +2484,8 @@ Access and analyze application monitoring data. Enables AI models to review erro
 
 Provides the ability to handle multimedia, such as audio and video editing, playback, format conversion, also includes video filters, enhancements, and so on
 
+- [isatimur/presentation-skill-pack](https://github.com/isatimur/presentation-skill-pack) 📇 🏠 🍎 🪟 🐧 - Agent authors slide decks as structured JSON, then exports to native, editable PowerPoint, Keynote, and Google Slides. `npx @presentation-skill-pack/install claude-code`
+- [isatimur/remotion-skill-pack](https://github.com/isatimur/remotion-skill-pack) 📇 🏠 🍎 🪟 🐧 - Agents author structured Remotion video specs (scene-by-scene JSON) that render to production-ready MP4. `npx @remotion-skill-pack/install claude-code`
 - [06ketan/slideshot](https://github.com/06ketan/slideshot) [![06ketan/slideshot MCP server](https://glama.ai/mcp/servers/06ketan/slideshot/badges/score.svg)](https://glama.ai/mcp/servers/06ketan/slideshot) 📇 🏠 🍎 🪟 🐧 - Convert HTML to PDF/PNG/WebP/PPTX slide carousels with 11 themes (LinkedIn, Instagram, pitch decks, infographics). Pixel-perfect Puppeteer rendering, dimension-aware reflow for portrait/landscape, token-efficient JSON mode. `npx slideshot-mcp`.
 - [1000ri-jp/atsurae](https://github.com/1000ri-jp/atsurae) 🐍 ☁️ 🍎 🪟 🐧 - AI-powered video editing MCP server with 10 tools for timeline editing, 5-layer compositing, semantic operations, and FFmpeg rendering (1920x1080, 30fps H.264+AAC).
 - [a-y-ibrahim/after-effects-mcp](https://github.com/a-y-ibrahim/after-effects-mcp) [![a-y-ibrahim/after-effects-mcp MCP server](https://glama.ai/mcp/servers/a-y-ibrahim/after-effects-mcp/badges/score.svg)](https://glama.ai/mcp/servers/a-y-ibrahim/after-effects-mcp) 📇 🏠 🍎 🪟 - Control Adobe After Effects from any MCP client: arbitrary ExtendScript, background rendering, deep comp/layer inspection, and first-class Arabic/RTL & multilingual support (works on AE in any UI language). 47 tools.
