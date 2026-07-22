@@ -237,6 +237,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Accurate astronomical catalog data and observing session planner. 13,000+ deep-sky objects from OpenNGC with deterministic visibility, rise/transit/set, and alt/az calculations. `npx astronomy-oracle`
 - [IO-Aerospace-software-community/mcp-server](https://github.com/IO-Aerospace-software-engineering/mcp-server) #️⃣ ☁️/🏠 🐧 - IO Aerospace MCP Server: a .NET-based MCP server for aerospace & astrodynamics — ephemeris, orbital conversions, DSS tools, time conversions, and unit/math utilities. Supports STDIO and SSE transports; Docker and native .NET deployment documented.
+- [viventine-space/orbit-sentinel-mcp](https://github.com/viventine-space/orbit-sentinel-mcp) [![Viventine-Space/orbit-sentinel-mcp MCP server](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp) 🎖️ 🏎️ ☁️ 🍎 🪟 🐧 - Search 419,000+ space regulatory filings from FCC, ITU, UNOOSA, and FAA — semantic search, entity dossiers, spectrum holdings, launch licenses, and filing alerts, powered by [Orbit Sentinel](https://viventine.com/orbit-sentinel/). `brew install --cask viventine-space/tap/orbit-sentinel-mcp`
 
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
 
