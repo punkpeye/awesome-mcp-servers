@@ -236,7 +236,7 @@ LLMがコードの読み取り、編集、実行を行い、一般的なプロ�
 
 - [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - チャネル管理とメッセージングのためのSlackワークスペース統合
 - [@keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - クエリとインタラクションのためのBlueskyインスタンス統合
-- [atbridge-ai/atbridge](https://github.com/atbridge-ai/atbridge) 🎖️ 🏠 🍎 🪟 🐧 - Thunderbird 用のローカル MCP サーバー — メール、カレンダー、連絡先、ノート、タスクをあらゆるメールボックス（Gmail、Outlook、IMAP）で操作。プライバシー重視の設計で、実行中の Thunderbird とローカルに通信し、クラウドを経由しません。読み取りは既定で有効、書き込みはゲート制御。あらゆる MCP クライアント（Claude Desktop、Cursor など）に対応。https://atbridge.ai/ja/download からインストールし、`atbridge mcp setup` を実行します。
+- [atbridge-ai/atbridge](https://github.com/atbridge-ai/atbridge) [![atbridge-ai/atbridge MCP server](https://glama.ai/mcp/servers/atbridge-ai/atbridge/badges/score.svg)](https://glama.ai/mcp/servers/atbridge-ai/atbridge) 🎖️ 🏠 🍎 🪟 🐧 - Thunderbird 用のローカル MCP サーバー — メール、カレンダー、連絡先、ノート、タスクをあらゆるメールボックス（Gmail、Outlook、IMAP）で操作。プライバシー重視の設計で、実行中の Thunderbird とローカルに通信し、クラウドを経由しません。読み取りは既定で有効、書き込みはゲート制御。あらゆる MCP クライアント（Claude Desktop、Cursor など）に対応。https://atbridge.ai/ja/download からインストールし、`atbridge mcp setup` を実行します。
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - GmailとGoogleカレンダーとの統合。
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️  - MCPサーバーアプリケーションは、WeComグループロボットにさまざまなタイプのメッセージを送信します。
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - Messaging APIを利用したLINE公式アカウントとの統合

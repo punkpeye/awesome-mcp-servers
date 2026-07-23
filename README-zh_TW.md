@@ -173,7 +173,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 與通訊平台集成，實現消息管理和渠道運營。使AI模型能夠與團隊溝通工具進行交互。
 
-- [atbridge-ai/atbridge](https://github.com/atbridge-ai/atbridge) 🎖️ 🏠 🍎 🪟 🐧 - 適用於 Thunderbird 的本機 MCP 伺服器 —— 在所有信箱（Gmail、Outlook、IMAP）中處理郵件、行事曆、聯絡人、筆記與工作。隱私優先設計：與執行中的 Thunderbird 本機通訊，不經過雲端；讀取預設開放，寫入受控。相容任何 MCP 用戶端（Claude Desktop、Cursor 等）。從 https://atbridge.ai/download 安裝，然後執行 `atbridge mcp setup`。
+- [atbridge-ai/atbridge](https://github.com/atbridge-ai/atbridge) [![atbridge-ai/atbridge MCP server](https://glama.ai/mcp/servers/atbridge-ai/atbridge/badges/score.svg)](https://glama.ai/mcp/servers/atbridge-ai/atbridge) 🎖️ 🏠 🍎 🪟 🐧 - 適用於 Thunderbird 的本機 MCP 伺服器 —— 在所有信箱（Gmail、Outlook、IMAP）中處理郵件、行事曆、聯絡人、筆記與工作。隱私優先設計：與執行中的 Thunderbird 本機通訊，不經過雲端；讀取預設開放，寫入受控。相容任何 MCP 用戶端（Claude Desktop、Cursor 等）。從 https://atbridge.ai/download 安裝，然後執行 `atbridge mcp setup`。
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - 用於管理 Google Tasks 的 MCP 伺服器
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - MCP 伺服器通過模型上下文協議 (MCP) 提供對 iMessage 資料庫的安全訪問，使 LLM 能夠透過適當的電話號碼驗證和附件處理來查詢和分析 iMessage 對話
 - [FastAlertNow/mcp-server](https://github.com/FastAlertNow/mcp-server) 💬 ☁️ - FastAlert MCP 伺服器 - FastAlert 的官方 Model Context Protocol (MCP) 伺服器。此伺服器允許 AI 代理（如 Claude、ChatGPT 與 Cursor）列出您的頻道，並透過 FastAlert API 直接傳送通知。 ![FastAlert 圖示](https://fastalert.now/icons/favicon-32x32.png)
