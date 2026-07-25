@@ -40,6 +40,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [Agents Launchpad](https://launchpad.smartbizcalc.com) – Curated launch platform for AI agents, MCP servers, Claude Code skills, and indie AI tools
 
 ## Legend
 
