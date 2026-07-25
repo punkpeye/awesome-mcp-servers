@@ -2138,6 +2138,7 @@ Control smart home devices, home network equipment, and automation systems.
 
 Connect AI agents to industrial equipment, machinery, and operational technology (OT) — telemetry ingestion, monitoring, and control across manufacturing and factory-floor protocols.
 
+- [Kiloiot/kilo-mcp](https://github.com/Kiloiot/kilo-mcp) 🏎️ ☁️ - Remote MCP server for the [Kilo IoT Server](https://kiloiot.io), an IoT platform for commercial and industrial sites. Read devices and telemetry, provision LoRaWAN/MQTT/tracker hardware, build, simulate and deploy rules-engine automation, work alarms and dashboards, and send commands to physical equipment. OAuth 2.1 with dynamic client registration — connect with the URL alone, and the connection carries the signed-in user's own permissions. Endpoint: `https://mcp-auth.kiloiot.io/mcp`.
 - [FoundryNet/forge-mcp](https://github.com/FoundryNet/forge-mcp) 🐍 ☁️ - Industrial AI infrastructure that connects any AI agent to industrial equipment: 14 protocols, 18 manufacturers, 30 tools, cross-OEM telemetry normalization, health index, and failure prediction. The first physical-world MCP server. Free tier available. ([Smithery](https://smithery.ai/server/@foundrynet/forge)) [![FoundryNet/forge-mcp MCP server](https://glama.ai/mcp/servers/FoundryNet/forge-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FoundryNet/forge-mcp)
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
