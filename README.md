@@ -2125,7 +2125,7 @@ Integration with gaming related data, game engines, and services
 
 Access health metrics, wellness data, and medical information through various health platforms.
 
-- [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
+- [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
 
 ### 🏠 <a name="home-automation"></a>Home Automation
 
