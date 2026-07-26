@@ -1,4 +1,4 @@
-Open Source Projects[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
+- [IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) - 8-end open-source AI operating system with MCP support, LangGraph+MCP+A2A triple stack, 176 LLM models, RAG knowledge base, and Agent marketplace. Apache 2.0.Open Source Projects[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
