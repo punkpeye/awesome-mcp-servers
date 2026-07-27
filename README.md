@@ -3740,3 +3740,15 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+
+### Security & Compliance
+- [seosiri-api-guard](https://github.com/SEOSiri-Official/seosiri-api-guard-mcp-server) 🐍 🛡️ - Universal API security proxy providing OWASP scanning, PII/PHI redaction (HIPAA, PCI-DSS, GDPR), and G-code safety interlocks.
+- [biometric-iot-bridge](https://github.com/SEOSiri-Official/biometric-iot-bridge-mcp) 🐍 🔒 - Cryptographic security broker verifying Flutter mobile biometric tokens (HMAC-SHA256) for safe physical IoT actuation.
+
+### Business & Data Analysis
+- [lambda-data-pipeline](https://github.com/SEOSiri-Official/lambda-data-pipeline-mcp) 🐍 📊 - High-speed, local-first event-driven data pipeline with Hot/Cold SQLite tiering, identity resolution, and HubSpot integration.
+- [etl-pipeline-mcp](https://github.com/SEOSiri-Official/etl-pipeline-mcp) 🐍 ⚡ - Local-first ETL/ELT pipeline supporting PII scrubbing, ID stitching, Parquet buffers, and data warehouse exports.
+
+### Education & Learning
+- [learning-orchestrator](https://github.com/SEOSiri-Official/learning-orchestrator-mcp) 🐍 📚 - Cognitive pedagogy engine running the SuperMemo SM-2 spaced repetition algorithm and LMS LTI outcomes sync.
