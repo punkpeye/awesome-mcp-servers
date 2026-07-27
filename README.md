@@ -3201,6 +3201,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [mastyf-ai/mastyf.ai](https://github.com/mastyf-ai/mastyf.ai) [![mastyf-ai/mastyf.ai MCP server](https://glama.ai/mcp/servers/mastyf-ai/mastyf.ai/badges/score.svg)](https://glama.ai/mcp/servers/mastyf-ai/mastyf.ai) 📇 🏠 🍎 🪟 🐧 - Open-source runtime security proxy for MCP. Transparently intercepts every tools/call through an 18-class attack defense pipeline (prompt injection, SSRF, shell injection, SQL injection, credential exfil, polyglot attacks) with a YAML policy engine and 304-entry adversarial corpus. Trust scoring for npm MCP packages with 0-100 badges. Cloud dashboard, Docker image, Python SDK. MIT.
 
+- [Drumworks/ssid-mcp](https://www.npmjs.com/package/ssid-mcp) 📇 ☁️ - MAC-address (OUI) vendor lookup and router default-login directory for AI agents. Identify a device manufacturer from its MAC address, detect randomized/private (locally-administered) addresses instead of reporting "unknown", or fetch a router's default login IP and admin credentials — every router field cited to the manufacturer's own documentation. Free tier, no signup. `npx -y ssid-mcp`
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
