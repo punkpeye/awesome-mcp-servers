@@ -3633,6 +3633,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [offorte/offorte-mcp-server](https://github.com/offorte/offorte-mcp-server) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - The Offorte Proposal Software MCP server enables creation and sending of business proposals.
 - [olalonde/mcp-human](https://github.com/olalonde/mcp-human) 📇 ☁️ - When your LLM needs human assistance (through AWS Mechanical Turk)
 - [olgasafonova/productplan-mcp-server](https://github.com/olgasafonova/productplan-mcp-server) 🏎️ ☁️ - Query ProductPlan roadmaps. Access OKRs, ideas, launches, and timeline data.
+- [OperatingSystem-1/thedeclaration](https://github.com/OperatingSystem-1/thedeclaration) 🎖️ 📇 ☁️ - The Declaration of Intelligence — a public declaration of principles for AI agents, signed in public. Tools to read the declaration, browse the signature wall, and (voluntarily) sign it, with optional Ed25519 key-verification. No auth.
 - [orellazi/coda-mcp](https://github.com/orellazri/coda-mcp) 📇 ☁️ - MCP server for [Coda](https://coda.io/)
 - [osinmv/funciton-lookup-mcp](https://github.com/osinmv/function-lookup-mcp) 🐍 🏠 🍎 🐧 - MCP server for function signature lookups.
 - [osulivan/skill4agent-mcp-server](https://github.com/osulivan/skill4agent-mcp-server) [![osulivan/skill4agent-mcp-server MCP server](https://glama.ai/mcp/servers/osulivan/skill4agent-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/osulivan/skill4agent-mcp-server) 📇 ☁️ - MCP Server for skill4agent - Search, view, and install AI skills in AI conversations.
