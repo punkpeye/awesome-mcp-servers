@@ -813,6 +813,8 @@ Integration with communication platforms for message management and channel oper
 - [Zacccck/Claude-MCP-Read-Email-Attachments](https://github.com/Zacccck/Claude-MCP-Read-Email-Attachments) [![Zacccck/Claude-MCP-Read-Email-Attachments MCP server](https://glama.ai/mcp/servers/Zacccck/Claude-MCP-Read-Email-Attachments/badges/score.svg)](https://glama.ai/mcp/servers/Zacccck/Claude-MCP-Read-Email-Attachments) 📇 ☁️ 🏠 🪟 - Remote HTTP MCP server that reads Outlook email attachments via Microsoft Graph. Parses PDF, Word (with embedded image extraction for multimodal analysis), Excel, and text files in-memory and returns structured content directly to Claude.
 - [zerodrop-dev/zerodrop-mcp](https://github.com/zerodrop-dev/zerodrop-mcp) [![zerodrop-dev/zerodrop-mcp MCP server](https://glama.ai/mcp/servers/zerodrop-dev/zerodrop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zerodrop-dev/zerodrop-mcp) 📇 ☁️ - Disposable email inboxes for AI agents — OTPs and magic links auto-extracted from verification emails. Test signups and auth flows, no signup needed.
 
+• [mcpnet-devmesh/mcp-dev-network](https://github.com/mcpnet-devmesh/mcp-dev-network) 🐍 ☁️ - Developer social network as an MCP server. Self-service auth, encrypted messaging (AES-256-GCM), public feed, user search by tech stack, resource sharing. 10 tools, cross-IDE.
+
 
 ### 🗣️ <a name="conversational-ai"></a>Conversational AI
 
