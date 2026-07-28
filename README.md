@@ -3201,6 +3201,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [mastyf-ai/mastyf.ai](https://github.com/mastyf-ai/mastyf.ai) [![mastyf-ai/mastyf.ai MCP server](https://glama.ai/mcp/servers/mastyf-ai/mastyf.ai/badges/score.svg)](https://glama.ai/mcp/servers/mastyf-ai/mastyf.ai) 📇 🏠 🍎 🪟 🐧 - Open-source runtime security proxy for MCP. Transparently intercepts every tools/call through an 18-class attack defense pipeline (prompt injection, SSRF, shell injection, SQL injection, credential exfil, polyglot attacks) with a YAML policy engine and 304-entry adversarial corpus. Trust scoring for npm MCP packages with 0-100 badges. Cloud dashboard, Docker image, Python SDK. MIT.
 
+- [warlyjr-cloud/mcp-security-lab](https://github.com/warlyjr-cloud/mcp-security-lab) 📇 🏠 🍎 🪟 🐧 - Evidence-first, deterministic security scanner for MCP servers (CLI + GitHub Action, SARIF 2.1.0). Flags prompt injection, unsafe tool schemas, and MCP lifecycle attacks — rug pulls (listChanged), confused-deputy token passthrough, resource-template SSRF/traversal, and server-initiated sampling/elicitation — each mapped to CWE/OWASP-LLM. No LLM required; optional Claude-powered self-verifying remediation. `npx mcp-security-lab`
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
