@@ -41,7 +41,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
 
-## Legend
+## Legend 
 
 * 🎖️ – official implementation
 * programming language
@@ -456,6 +456,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [copperline-labs/rendex-mcp](https://github.com/copperline-labs/rendex-mcp) [![rendex-mcp MCP server](https://glama.ai/mcp/servers/copperline-labs/rendex-mcp/badges/score.svg)](https://glama.ai/mcp/servers/copperline-labs/rendex-mcp) 📇 ☁️ - Screenshot, PDF, and HTML rendering API for AI agents. Capture any URL or raw HTML as PNG/JPEG/WebP/PDF with batch processing, geo-targeting, async webhooks, and MCP-native integration. Free tier included.
 - [vincentvella/devloop](https://github.com/vincentvella/devloop) [![vincentvella/devloop MCP server](https://glama.ai/mcp/servers/vincentvella/devloop/badges/score.svg)](https://glama.ai/mcp/servers/vincentvella/devloop) 📇 🏠 🍎 🪟 🐧 - Drives a browser (or a native Expo/React Native app on iOS/Android) and your dev server onto one correlated timeline, so a browser console error and the backend stack trace from the same moment line up. Includes `repro` action sequences, a unified log/network query API, and an Electron cockpit.
 - [webdriverio/mcp](https://github.com/webdriverio/mcp) [![mcp MCP server](https://glama.ai/mcp/servers/webdriverio/mcp/badges/score.svg)](https://glama.ai/mcp/servers/webdriverio/mcp) 📇 🏠 - Browser and mobile app automation using WebdriverIO, enabling AI agents to control browsers, interact with web elements, and automate native Android and iOS apps via the WebDriver and Appium protocols.
+- [webSlingerAI/webslinger-mcp](https://github.com/webSlingerAI/webslinger-mcp) 🐍 🏠 🪟 - The webslinger-mcp server enables users to execute scripts to perform web-based tasks via the webSlinger browser extension. webSlinger is an automation tool where a user demonstrates a task to perform and records a session map which is used to create a script. Such scripts can be run demand, on a schedule, or via the mcp-server.
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
 - [ymw0407/auth-fetch-mcp](https://github.com/ymw0407/auth-fetch-mcp) [![ymw0407/auth-fetch-mcp MCP server](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp) 📇 🏠 🍎 🪟 🐧 - Fetch content from login-protected web pages (Notion, Google Docs, Jira, Confluence, etc.) by opening a real browser for authentication with persistent session caching.
 - [PrinceGabriel-lgtm/freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp) [![freshcontext-mcp MCP server](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp) ☁️ 🏠 - Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.
