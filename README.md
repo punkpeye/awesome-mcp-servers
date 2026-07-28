@@ -112,6 +112,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🎙️ - [Podcasts](#podcasts)
 * 📋 - [Product Management](#product-management)
 * 🏠 - [Real Estate](#real-estate)
+* 👥 - [Recruiting & Talent](#recruiting-and-talent)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
 * 🔒 - [Security](#security)
@@ -2756,6 +2757,12 @@ MCP servers for real estate CRM, property management, and agent workflows.
 - [jbechtel-97/dealflowpro-mcp-server](https://github.com/jbechtel-97/dealflowpro-mcp-server) [![jbechtel-97/dealflowpro-mcp-server MCP server](https://glama.ai/mcp/servers/jbechtel-97/dealflowpro-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/jbechtel-97/dealflowpro-mcp-server) 📇 ☁️ - Multifamily real estate deal analysis — cap rate, DSCR, cash-on-cash, IRR, DFP Score (0-100), max offer price, and market intelligence for 2-200 unit properties.
 - [ogasurfproject-jpg/horizon-shield](https://github.com/ogasurfproject-jpg/horizon-shield/tree/main/workers/hs-mcp) [![ogasurfproject-jpg/horizon-shield MCP server](https://glama.ai/mcp/servers/ogasurfproject-jpg/horizon-shield/badges/score.svg)](https://glama.ai/mcp/servers/ogasurfproject-jpg/horizon-shield) 🎖️ 📇 ☁️ - Audit Japanese construction and renovation estimates for overcharge: fair price ranges by work type, sales tactic red flags, and signed recomputable verdicts (KIRA). Includes an agent intake desk and a directory of independently audited contractors. Remote server, no API key required.
 - [pedra-ai/pedra-mcp](https://github.com/pedra-ai/pedra-mcp) [![pedra-ai/pedra-mcp MCP server](https://glama.ai/mcp/servers/@pedra-ai/pedra-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@pedra-ai/pedra-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - AI photo and video editing for real-estate listings via the Pedra API: virtual staging, renovation, room emptying, photo enhancement, sky replacement, object removal/blur, and property video generation. `npx @pedra-ai/mcp`
+
+### 👥 <a name="recruiting-and-talent"></a>Recruiting & Talent
+
+MCP servers for recruiting, sourcing, and talent marketplaces.
+
+- [QueryQuarry/QueryQuarry](https://github.com/QueryQuarry/QueryQuarry) [![QueryQuarry/QueryQuarry MCP server](https://glama.ai/mcp/servers/QueryQuarry/QueryQuarry/badges/score.svg)](https://glama.ai/mcp/servers/QueryQuarry/QueryQuarry) 🎖️ 📇 ☁️ - Consent-based, double-blind talent marketplace: recruiters' AIs search an anonymous corpus of opted-in candidates in natural language, evaluate match cards, and request contact — identity is revealed only when the candidate responds.
 
 ### 🔬 <a name="research"></a>Research
 
