@@ -853,6 +853,7 @@ Provides access to customer profiles inside of customer data platforms
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
 - [lionkiii/google-searchconsole-mcp](https://github.com/lionkiii/google-searchconsole-mcp) [![google-searchconsole-mcp MCP server](https://glama.ai/mcp/servers/lionkiii/google-searchconsole-mcp/badges/score.svg)](https://glama.ai/mcp/servers/lionkiii/google-searchconsole-mcp) 📇 🏠 - Google Search Console MCP server with 13 SEO tools — search analytics, URL inspection, sitemap management, keyword opportunities, brand analysis, and performance comparison.
 - [saurabhsharma2u/search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)  - An MCP server to interact with Google Search Console and Bing Webmasters.
+- [sudomichael/search-console-mcp](https://github.com/sudomichael/search-console-mcp) 📇 🏠 - Google Search Console with a 30-second login — no Google Cloud project needed. Search analytics, period comparison with computed deltas, batch URL inspection, and five built-in SEO analyses.
 
 ### 🗄️ <a name="databases"></a>Databases
 
