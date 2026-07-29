@@ -96,6 +96,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
 * 🛒 - [E-Commerce](#e-commerce)
+* 🧺 - [Laundry & Dry Cleaning](#laundry-and-dry-cleaning)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
@@ -1646,6 +1647,12 @@ MCP servers for e-commerce platforms and online store management.
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
 - [dearlordylord/voila-sdk](https://github.com/dearlordylord/voila-sdk) [![dearlordylord/voila-sdk MCP server](https://glama.ai/mcp/servers/dearlordylord/voila-sdk/badges/score.svg)](https://glama.ai/mcp/servers/dearlordylord/voila-sdk) 📇 ☁️ 🏠 🍎 🪟 🐧 - Personal Voila grocery automation via MCP. Search products, inspect discounts, list delivery slots, read cart and order history, and update cart quantities.
+
+### 🧺 <a name="laundry-and-dry-cleaning"></a>Laundry & Dry Cleaning
+
+MCP servers for laundromat, dry cleaning, and alterations POS platforms.
+
+- [sanjibani/cleancloud-mcp](https://github.com/sanjibani/cleancloud-mcp) 🐍 ☁️ - First MCP server for the CleanCloud POS API. 9 tools covering orders, order summary, invoices, payments, customers, business accounts, repeat pickups, and pickup availability. CleanCloud serves 2,500+ shops in 90+ countries. 31 tests, ruff + mypy --strict clean. MIT.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
