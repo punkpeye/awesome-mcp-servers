@@ -2142,6 +2142,7 @@ Connect AI agents to industrial equipment, machinery, and operational technology
 - [FoundryNet/forge-mcp](https://github.com/FoundryNet/forge-mcp) 🐍 ☁️ - Industrial AI infrastructure that connects any AI agent to industrial equipment: 14 protocols, 18 manufacturers, 30 tools, cross-OEM telemetry normalization, health index, and failure prediction. The first physical-world MCP server. Free tier available. ([Smithery](https://smithery.ai/server/@foundrynet/forge)) [![FoundryNet/forge-mcp MCP server](https://glama.ai/mcp/servers/FoundryNet/forge-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FoundryNet/forge-mcp)
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
+- [lalithbuilds/engram-mcp](https://github.com/lalithbuilds/engram-mcp) 🐍 🏠 🍎 🪟 🐧 - Zero-dependency persistent memory for AI agents (Claude Code, Cursor, Windsurf). Pure Python stdlib — SQLite FTS5 for full-text retrieval, auto-decay algorithm (memories lose importance after 30 days of no access), WAL-mode concurrency for multi-agent workflows, and payload bounding to prevent context-window blowouts. No pip install, no Docker, no API costs. `git clone + python3 server.py`
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
