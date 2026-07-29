@@ -529,6 +529,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
 
 ### 🤖 <a name="coding-agents"></a>Coding Agents
+- [valtors/forge](https://github.com/valtors/forge) 🏎️ 🏠 - Local-first agent runtime: process supervision, memory, sandboxing, and MCP server wiring.
 
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
 
@@ -1910,6 +1911,7 @@ Control smart home devices, home network equipment, and automation systems.
 - [claymore666/debmatic-mcp](https://github.com/claymore666/debmatic-mcp) [![claymore666/debmatic-mcp MCP server](https://glama.ai/mcp/servers/claymore666/debmatic-mcp/badges/score.svg)](https://glama.ai/mcp/servers/claymore666/debmatic-mcp) 📇 🏠 🍎 🪟 🐧 - Control a HomeMatic / debmatic CCU (eq-3 home automation) over its JSON-RPC and HM-Script APIs — switch and dim actuators, read sensors, system variables and service messages, run programs, and manage rooms, functions, channel links and device assignments. 25 tools over HTTP or stdio; runs locally against your own CCU.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
+- [valtors/cairn](https://github.com/valtors/cairn) 🦀 🏠 - Temporal knowledge store for AI agents in SQLite. Timestamped triples with validity windows, confidence scores, and federated sync.
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
@@ -2266,6 +2268,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [Natden444/pickanagency-mcp](https://github.com/Natden444/pickanagency-mcp) [![Natden444/pickanagency-mcp MCP server](https://glama.ai/mcp/servers/Natden444/pickanagency-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Natden444/pickanagency-mcp) 📇 ☁️ - Search 47,000+ marketing agencies and get AI-matched with fitted agencies (Get Matched engine), from [Pick an Agency](https://www.pickanagency.com).
 
 ### 📊 <a name="monitoring"></a>Monitoring
+- [valtors/observer](https://github.com/valtors/observer) 🏎️ 🏠 - Transparent MCP proxy that logs every tool call to SQLite with metadata-only traces and SARIF output.
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
@@ -2391,6 +2394,7 @@ Servers for controlling the desktop operating system: screenshots, window manage
 - [juergenkoller-software/freezetext-mcp](https://github.com/juergenkoller-software/freezetext-mcp) [![juergenkoller-software/freezetext-mcp MCP server](https://glama.ai/mcp/servers/juergenkoller-software/freezetext-mcp/badges/score.svg)](https://glama.ai/mcp/servers/juergenkoller-software/freezetext-mcp) 🏠 🍎 - MCP server for [FreezeText](https://store.juergenkoller.software/en/apps/freezetext) — OCR anything on your Mac screen. Freeze the screen and extract text via Apple Vision (videos, popups, protected PDFs), OCR a region or base64 image, and manage a searchable capture history. 12 tools.
 
 ### 📋 <a name="product-management"></a>Product Management
+- [valtors/relay](https://github.com/valtors/relay) 🏎️ 🏠 - MCP server for product workflow: planning, research, brand voice, UX, and go-to-market as structured tool calls.
 
 Tools for product planning, customer feedback analysis, and prioritization.
 
@@ -2628,6 +2632,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [juergenkoller-software/pdf-content-search-mcp](https://github.com/juergenkoller-software/pdf-content-search-mcp) [![juergenkoller-software/pdf-content-search-mcp MCP server](https://glama.ai/mcp/servers/juergenkoller-software/pdf-content-search-mcp/badges/score.svg)](https://glama.ai/mcp/servers/juergenkoller-software/pdf-content-search-mcp) 🏠 🍎 - MCP bridge for [PDF Content Search](https://store.juergenkoller.software/en/apps/pdf-content-search) — full-text PDF search with Apple Vision OCR across thousands of documents in under a second. Advanced filters (date, category, sender, amount), wildcards, boolean operators.
 
 ### 🔒 <a name="security"></a>Security
+- [valtors/vault](https://github.com/valtors/vault) 🏎️ 🏠 - Sandbox runtime for AI agents: filesystem overlay, env sanitizer, network policy, MCP injection scanner.
+- [tamish560/mcprobe](https://github.com/tamish560/mcprobe) 🏎️ 🏠 - Security scanner for MCP servers: prompt injection detection, tool shadowing, baseline diffing, SARIF output.
 
 - [astafford8488/agentaegis-mcp](https://github.com/astafford8488/agentaegis-mcp) [![astafford8488/agentaegis-mcp MCP server](https://glama.ai/mcp/servers/astafford8488/agentaegis-mcp/badges/score.svg)](https://glama.ai/mcp/servers/astafford8488/agentaegis-mcp) 📇 ☁️ - Security & trust layer for AI agents. Scan an MCP server or skill *before* you install it (`scan_mcp_plugin`, `scan_skill`) — flags exfiltration, prompt-injection sinks, dangerous capabilities, install hooks and obfuscation → PROCEED/CAUTION/BLOCK. Plus `vet_endpoint` (endpoint safety verdict before an agent calls or pays it) and 25 more tools: vuln scans, threat intel, compliance (SOC 2/ISO 27001/HIPAA), code security (SAST/secret/dependency), identity — 28 total. Per-call billing via API key or x402 USDC on Base; free discovery tier.
 - [qinisolabs/qiniso](https://github.com/qinisolabs/qiniso) [![qinisolabs/qiniso MCP server](https://glama.ai/mcp/servers/qinisolabs/qiniso/badges/score.svg)](https://glama.ai/mcp/servers/qinisolabs/qiniso) 📇 🏠 ☁️ - 56 deterministic fact-checkers in one server (IBAN, VAT, VIN, GTIN/barcodes, national & tax IDs, crypto addresses, phone, dates, holidays) — verify the structured facts an agent emits against checksums and curated data.
@@ -3058,6 +3064,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Servation/job-search-mcp](https://github.com/Servation/job-search-mcp) [![job-search-mcp MCP server](https://glama.ai/mcp/servers/Servation/job-search-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Servation/job-search-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Claude Desktop job search assistant: searches LinkedIn plus 8 ATS boards (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Hacker News, RemoteOK, Remotive), scores each job 0-100 for fit (Claude judges directly, no LLM API key), and shows a ranked, triageable board inline in the chat.
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
+- [valtors/smith](https://github.com/valtors/smith) 🦀 🏠 - Package manager for MCP servers: install, compose, secure, and manage with profiles.
 
 - [douglasgan/asktian](https://github.com/douglasgan/asktian-mcp) [![douglasgan/asktian-mcp MCP server](https://glama.ai/mcp/servers/douglasgan/asktian-mcp/badges/score.svg)](https://glama.ai/mcp/servers/douglasgan/asktian-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Chinese metaphysics (bazi 八字, qimen 奇門, 5-element, daily 干支) as decision-support tools. Ask "when should I do X" and get specific time windows instead of vague advice. 5 tools: daily reading, compat, best-time-for-action, today's energy, name analysis. `npm install -g @asktian/mcp-server`
 
