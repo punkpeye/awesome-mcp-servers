@@ -97,6 +97,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🎓 - [Education](#education)
 * 🛒 - [E-Commerce](#e-commerce)
 * 🌳 - [Environment & Nature](#environment-and-nature)
+* 🙏 - [Faith & Religion](#faith-and-religion)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [Gaming](#gaming)
@@ -1655,6 +1656,12 @@ Provides access to environmental data and nature-related tools, services and inf
 - [nalediym/touch-grass](https://github.com/nalediym/touch-grass) [![nalediym/touch-grass MCP server](https://glama.ai/mcp/servers/nalediym/touch-grass/badges/score.svg)](https://glama.ai/mcp/servers/nalediym/touch-grass) 📇 🏠 🍎 🪟 🐧 - Claude Code plugin and MCP server that nudges you to take outdoor breaks based on local weather, sunset timing, and session streaks. Tools: `check_grass_conditions`, `suggest_activity`, `log_touch_grass`, `get_stats`. Fully local, no API keys, no cloud storage.
 - [Zhonghao1995/Agentic-MIKE-Plus](https://github.com/Zhonghao1995/Agentic-MIKE-Plus) [![Zhonghao1995/Agentic-MIKE-Plus MCP server](https://glama.ai/mcp/servers/Zhonghao1995/Agentic-MIKE-Plus/badges/score.svg)](https://glama.ai/mcp/servers/Zhonghao1995/Agentic-MIKE-Plus) 🐍 🏠 🪟 - MCP server (10 tools) for a headless, natural-language DHI MIKE+ urban-water modelling workflow: model inspection, parameter read/edit, headless simulation runs with parsed QA status, `.res1d` results reading, and plotting (hydrographs, time series, network maps). Read/plot is license-free; run/edit need Windows + a MIKE+ 2026 license. Works with Claude Code, Codex, OpenClaw, and Hermes.
 - [Zhonghao1995/agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow) [![Zhonghao1995/agentic-swmm-workflow MCP server](https://glama.ai/mcp/servers/Zhonghao1995/agentic-swmm-workflow/badges/score.svg)](https://glama.ai/mcp/servers/Zhonghao1995/agentic-swmm-workflow) 📇 🐍 🏠 🍎 🪟 🐧 - Eleven MCP servers exposing a reproducible EPA SWMM stormwater-modelling workflow: model building, simulation runs with manifests and continuity checks, calibration, GIS/QGIS integration, design storms and climate scenarios, uncertainty analysis, plotting, and modelling memory. Config generators included for Codex, Claude Code, OpenClaw, and Hermes.
+
+### 🙏 <a name="faith-and-religion"></a>Faith & Religion
+
+Tools for Christian and other faith content — Scripture lookup and citation, study aids, sermons, and church data — for AI agents that answer faith questions or surface religious content.
+
+- [alansafahi/soapbox-faith](https://github.com/alansafahi) 📇 ☁️ - Faith tools for AI agents from SoapBox: grounded, honestly-cited Christian content callable over Streamable HTTP. Ask ORA for Scripture-grounded answers citing KJV passages, verify Bible quotes, look up Strong's, browse pastor-consented sermons and reading plans, find churches, and (with user consent) post prayer or give. 18 tools; free read tools need no key. Remote server: `https://foyekanoxpnkydoibaas.supabase.co/functions/v1/faith-mcp`.
 
 ### 📂 <a name="file-systems"></a>File Systems
 
