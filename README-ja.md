@@ -523,6 +523,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - Web Platform APIを使ってBaselineの状態を検索してくれるMCPサーバー
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - CRICプロパティAIプラットフォームに接続するMCPサーバーです。CRICプロパティAIは、克而瑞がプロパティ業界向けに開発したインテリジェントAIアシスタントです。
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - 人材発掘にかかる時間を短縮する、最高の人物検索エンジン
+- [Rererr/amenbo](https://github.com/Rererr/amenbo) [![Rererr/amenbo MCP server](https://glama.ai/mcp/servers/Rererr/amenbo/badges/score.svg)](https://glama.ai/mcp/servers/Rererr/amenbo) 📇 🏠 - 日本語Web特化の低負荷・トークン効率重視のWeb収集サーバー。見出しツリーによる段階開示、Shift_JIS/EUC-JPの文字化け対策、PDF/CSV抽出、robots.txt遵守の礼儀正しいクロールを備える。`npx -y amenbo`で導入可能。
 
 ### 🔒 <a name="security"></a>セキュリティ
 
@@ -541,6 +542,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [co-browser/attestable-mcp-server](https://github.com/co-browser/attestable-mcp-server) 🐍 🏠 ☁️ 🐧 - Gramine経由で信頼実行環境（TEE）内で実行されるMCPサーバー。[RA-TLS](https://gramine.readthedocs.io/en/stable/attestation.html)を使用したリモート証明を紹介。MCPクライアントが接続前にサーバーを検証可能
 - [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) ☕ 🏠 - Model Context Protocol（MCP）と直接統合し、ClaudeなどのLLMでライブリバースエンジニアリング支援を提供するJADXデコンパイラー用プラグインとMCPサーバー
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) 🐍 🏠 - APK ToolのMCPサーバー。Android APKのリバースエンジニアリング自動化を提供
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) [![quantakrypto/pqc-tools MCP server](https://glama.ai/mcp/servers/quantakrypto/pqc-tools/badges/score.svg)](https://glama.ai/mcp/servers/quantakrypto/pqc-tools) 📇 🏠 ☁️ - AIコーディングエージェント向けのポスト量子対応ツール。量子に脆弱な暗号（RSA/ECDH/ECDSA/DH）をコードから検出し、harvest-now-decrypt-later（今収集して後で復号）のリスクを説明し、NIST ML-KEM/ML-DSA/SLH-DSA（およびハイブリッド）への移行ガイダンスを提供、修正の検証と依存関係のチェックを行います。内容ベースの助言的ツールのみ。ローカル（`npx @quantakrypto/mcp`）または[mcp.quantakrypto.com](https://mcp.quantakrypto.com)のホスト型OAuthエンドポイントで実行できます。
 
 ### 📟 <a name="embedded-system"></a>組み込みシステム
 
