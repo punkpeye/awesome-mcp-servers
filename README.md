@@ -1541,6 +1541,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
 
+- [Furlen](https://www.npmjs.com/package/furlen-mcp) 📇 ☁️ - Turn a plain-English request for public data (World Bank, IMF, FRED, Eurostat, UN Comtrade, WHO, SEC/ESEF/DART/EDINET filings) or your own CSV into an animated chart video. Every numeric claim in the narration is recomputed from the source rows server-side; one that doesn't reconcile blocks the export.
 - [KyuRish/mcp-dashboards](https://github.com/KyuRish/mcp-dashboards) [![mcp-dashboards MCP server](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards/badges/score.svg)](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards) 📇 🏠 🍎 🪟 🐧 - 45+ interactive chart types (bar, line, pie, candlestick, sankey, geo, radar, funnel, treemap, and more), dashboards with KPI cards, drill-down navigation, live API polling, 20 themes, and export to PNG/PPT/A4. Built on MCP Apps.
 
 - [marzukia/charted](https://github.com/marzukia/charted) [![marzukia/charted MCP server](https://glama.ai/mcp/servers/marzukia/charted/badges/score.svg)](https://glama.ai/mcp/servers/marzukia/charted) 🐍 🏠 🍎 🪟 🐧 - Zero-dependency chart server that renders bar, line, pie, scatter, and more from JSON or CSV to SVG, HTML, PNG, or data URL. Built-in themes; PNG output renders inline in chat. Install via `uvx --from charted[mcp] charted-mcp`.
