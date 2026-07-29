@@ -161,6 +161,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 ☁️ - A MCP server for the Open Library API that enables AI assistants to search for book information.
 - [abhiemj/manim-mcp-server](https://github.com/abhiemj/manim-mcp-server) 🐍 🏠 🪟 🐧 - A local MCP server that generates animations using Manim.
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) 🐍 - MCP server for working with Blender
+- [AytuncYildizli/kahvetabela-mcp](https://github.com/AytuncYildizli/kahvetabela-mcp) 📇 ☁️ - Türkiye's cultural heritage, regional food, and coastal atlas. 32,330 heritage places (28,820 Wikidata-grounded) and 1,679 TürkPatent geographical-indication foods with their registry entries. Hosted streamable HTTP, no key.
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - Provides comprehensive and accurate Bazi (Chinese Astrology) charting and analysis
 - [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server) 📇 ☁️ - MCP server to interact with the Discogs API
