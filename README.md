@@ -2558,6 +2558,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [930m310n/geomelon-mcp](https://github.com/930m310n/geomelon-mcp) [![930m310n/geomelon-mcp MCP server](https://glama.ai/mcp/servers/930m310n/geomelon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/930m310n/geomelon-mcp) 🎖️ 📇 ☁️ - Cities, countries, regions, and languages with multilingual names (50 languages) and a free keyless autocomplete tool. Also runs a public hosted instance at `https://mcp.geomelon.dev/mcp`, no signup required.
 
 ### 🎯 <a name="marketing"></a>Marketing
+- [easakura/japan-company-leads-mcp](https://github.com/easakura/japan-company-leads-mcp) [![easakura/japan-company-leads-mcp MCP server](https://glama.ai/mcp/servers/easakura/japan-company-leads-mcp/badges/score.svg)](https://glama.ai/mcp/servers/easakura/japan-company-leads-mcp) 📇 ☁️ - B2B lead generation for Japan: search 1M+ companies by size, capital, location, and government-subsidy history, with executive names and procurement records (official METI gBizINFO data).
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
