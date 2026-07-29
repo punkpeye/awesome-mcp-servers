@@ -1055,6 +1055,7 @@
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) 🐍 🏠 - APKTool MCP Server یک سرور MCP برای Apk Tool است تا اتوماسیون در مهندسی معکوس APKهای Android را فراهم کند.
 - [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) ☕ 🏠 - JADX-AI-MCP یک پلاگین و سرور MCP برای decompiler JADX است که مستقیماً با Model Context Protocol (MCP) یکپارچه می‌شود تا پشتیبانی از مهندسی معکوس زنده را با LLMهایی مانند Claude فراهم کند.
 - [HaroldFinchIFT/vuln-nist-mcp-server](https://github.com/HaroldFinchIFT/vuln-nist-mcp-server) 🐍 ☁️️ 🍎 🪟 🐧 - یک سرور Model Context Protocol (MCP) برای کوئری نقاط پایانی API پایگاه داده ملی آسیب‌پذیری NIST (NVD).
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) [![quantakrypto/pqc-tools MCP server](https://glama.ai/mcp/servers/quantakrypto/pqc-tools/badges/score.svg)](https://glama.ai/mcp/servers/quantakrypto/pqc-tools) 📇 🏠 ☁️ - آمادگی پساکوانتومی برای عامل‌های کدنویسی هوش مصنوعی: کدها را برای رمزنگاری آسیب‌پذیر در برابر کوانتوم (RSA/ECDH/ECDSA/DH) اسکن می‌کند، مخاطره harvest-now-decrypt-later را توضیح می‌دهد، راهنمای مهاجرت به NIST ML-KEM/ML-DSA/SLH-DSA (و ترکیبی) ارائه می‌دهد، اصلاحات را تأیید و وابستگی‌ها را بررسی می‌کند. فقط ابزارهای مشاوره‌ای مبتنی بر محتوا. به‌صورت محلی (`npx @quantakrypto/mcp`) یا از طریق نقطه‌پایانی OAuth میزبانی‌شده در [mcp.quantakrypto.com](https://mcp.quantakrypto.com) اجرا کنید.
 
 ### 🌐 <a name="social-media"></a>رسانه‌های اجتماعی
 
