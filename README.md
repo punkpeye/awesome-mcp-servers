@@ -2824,6 +2824,7 @@ MCP servers for real estate CRM, property management, and agent workflows.
 - [pedra-ai/pedra-mcp](https://github.com/pedra-ai/pedra-mcp) [![pedra-ai/pedra-mcp MCP server](https://glama.ai/mcp/servers/@pedra-ai/pedra-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@pedra-ai/pedra-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - AI photo and video editing for real-estate listings via the Pedra API: virtual staging, renovation, room emptying, photo enhancement, sky replacement, object removal/blur, and property video generation. `npx @pedra-ai/mcp`
 
 ### 🔬 <a name="research"></a>Research
+- [easakura/japan-parliament-search-mcp](https://github.com/easakura/japan-parliament-search-mcp) [![easakura/japan-parliament-search-mcp MCP server](https://glama.ai/mcp/servers/easakura/japan-parliament-search-mcp/badges/score.svg)](https://glama.ai/mcp/servers/easakura/japan-parliament-search-mcp) 📇 ☁️ - Search Japan's National Diet records (1947-present): ministerial statements, committee Q&A, and policy debates with speaker, party, and citation URLs (official National Diet Library data).
 
 Tools for conducting research, surveys, interviews, and data collection.
 
