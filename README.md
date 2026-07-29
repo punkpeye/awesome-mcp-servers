@@ -1636,6 +1636,8 @@ MCP servers for e-commerce platforms and online store management.
 
 - [dearlordylord/voila-sdk](https://github.com/dearlordylord/voila-sdk) [![dearlordylord/voila-sdk MCP server](https://glama.ai/mcp/servers/dearlordylord/voila-sdk/badges/score.svg)](https://glama.ai/mcp/servers/dearlordylord/voila-sdk) 📇 ☁️ 🏠 🍎 🪟 🐧 - Personal Voila grocery automation via MCP. Search products, inspect discounts, list delivery slots, read cart and order history, and update cart quantities.
 
+- [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp) [![BuyWhere MCP server](https://glama.ai/mcp/servers/@BuyWhere/buywhere-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@BuyWhere/buywhere-mcp) 📇 ☁️ - Product catalog and price comparison for AI agents. Search products, compare prices across merchants, find deals across US, Singapore, and SEA markets.
+
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
 Provides access to environmental data and nature-related tools, services and information.
