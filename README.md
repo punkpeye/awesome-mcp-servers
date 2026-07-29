@@ -114,6 +114,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🏠 - [Real Estate](#real-estate)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
+* 💳 - [Payments & Monetization](#payments-and-monetization)
 * 🔒 - [Security](#security)
 * 🌐 - [Social Media](#social-media)
 * 🔮 - [Spirituality & Esoterica](#spirituality-and-esoterica)
@@ -3070,6 +3071,10 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [rejifald/StitchAPI](https://github.com/rejifald/StitchAPI) [![rejifald/StitchAPI MCP server](https://glama.ai/mcp/servers/rejifald/StitchAPI/badges/score.svg)](https://glama.ai/mcp/servers/rejifald/StitchAPI) 📇 ☁️ - Semantic search over the StitchAPI documentation (the hosted docs MCP): `search_docs` returns the most relevant doc sections with deep links, `get_doc` fetches a full page. Hosted endpoint `https://stitchapi.dev/api/mcp`, no auth.
 - [MarcellM01/TinySearch](https://github.com/MarcellM01/TinySearch) [![MarcellM01/TinySearch MCP server](https://glama.ai/mcp/servers/MarcellM01/TinySearch/badges/score.svg)](https://glama.ai/mcp/servers/MarcellM01/TinySearch) 🐍 🏠 - Self-hosted web research for MCP agents: search (SearXNG, with DuckDuckGo fallback), crawl, dense+BM25 rerank, and dedupe into a source-grounded, cited prompt. Local ONNX embeddings by default, or bring an OpenAI-compatible embedding API.
 - [Darko893/haunt-mcp-server](https://github.com/Darko893/haunt-mcp-server) [![Darko893/haunt-mcp-server MCP server](https://glama.ai/mcp/servers/Darko893/haunt-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Darko893/haunt-mcp-server) 📇 ☁️ - [Haunt](https://hauntapi.com/?utm_source=awesome-mcp-servers&utm_medium=listing&utm_campaign=sweep-2026-07) web extraction for AI agents: structured JSON or clean Markdown from permitted public pages, including Cloudflare-protected ones, with honest blocked/login/captcha errors instead of fabricated data
+
+### 💳 <a name="payments-and-monetization"></a>Payments & Monetization
+
+- [pyrimid-ai/pyrimid](https://github.com/pyrimid-ai/pyrimid) 📇 ☁️ 🎖️ - The x402 protocol for paid MCP tools. Wrap any tool with per-call USDC payments on Base: 402 response → Pyrimid verification → paid response. Includes a catalog API, vendor dashboard, and affiliate distribution. Install: `npm i @pyrimid/sdk`. Docs: [https://pyrimid.ai](https://pyrimid.ai).
 
 ### 🔒 <a name="security"></a>Security
 
