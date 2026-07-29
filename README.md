@@ -4099,6 +4099,7 @@ Translation tools and services to enable AI assistants to translate content betw
 - [eviscerations/whisper-windows-mcp](https://github.com/eviscerations/whisper-windows-mcp) [![eviscerations/whisper-windows-mcp MCP server](https://glama.ai/mcp/servers/eviscerations/whisper-windows-mcp/badges/score.svg)](https://glama.ai/mcp/servers/eviscerations/whisper-windows-mcp) 📇 🏠 🪟 - Local audio and video transcription on Windows using whisper.cpp with Vulkan GPU acceleration: batch processing, multilingual support and background jobs.
 - [ankurmans/pepys-mcp](https://github.com/ankurmans/pepys-mcp) [![ankurmans/pepys-mcp MCP server](https://glama.ai/mcp/servers/ankurmans/pepys-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ankurmans/pepys-mcp) 📇 ☁️ 🏠 - Transcribe audio, video, YouTube links and podcast feeds via Pepys, with speaker diarization, SRT/VTT export and transcript search.
 - [spokenmd/spoken](https://github.com/spokenmd/spoken) [![spokenmd/spoken MCP server](https://glama.ai/mcp/servers/spokenmd/spoken/badges/score.svg)](https://glama.ai/mcp/servers/spokenmd/spoken) 📇 ☁️ - Search podcast episodes and fetch published transcripts as Markdown with real speaker names via the Spoken API.
+- [FreeAudioToText](https://github.com/double2dev/freeaudiototext-mcp) - 100% Free AI audio and video transcription with speaker diarization and YouTube support.
 
 ### 🎧 <a name="text-to-speech"></a>Text-to-Speech
 
