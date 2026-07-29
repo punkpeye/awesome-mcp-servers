@@ -1,4 +1,4 @@
-[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
+﻿[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
@@ -245,6 +245,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [IO-Aerospace-software-community/mcp-server](https://github.com/IO-Aerospace-software-engineering/mcp-server) #️⃣ ☁️/🏠 🐧 - IO Aerospace MCP Server: a .NET-based MCP server for aerospace & astrodynamics — ephemeris, orbital conversions, DSS tools, time conversions, and unit/math utilities. Supports STDIO and SSE transports; Docker and native .NET deployment documented.
 - [viventine-space/orbit-sentinel-mcp](https://github.com/viventine-space/orbit-sentinel-mcp) [![Viventine-Space/orbit-sentinel-mcp MCP server](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp) 🎖️ 🏎️ ☁️ 🍎 🪟 🐧 - Search 419,000+ space regulatory filings from FCC, ITU, UNOOSA, and FAA — semantic search, entity dossiers, spectrum holdings, launch licenses, and filing alerts, powered by [Orbit Sentinel](https://viventine.com/orbit-sentinel/). `brew install --cask viventine-space/tap/orbit-sentinel-mcp`
 
+- [sprytools](https://sprytools.com) 📇 ☁️ - Hub of 30+ developer & utility APIs as MCP tools: hashing, text stats, validation, DNS, currency, IP geolocation, IBAN, QR codes, GEO audits. Hosted, API-key auth.
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
 
 MCP servers for creating, coordinating, and executing agreements: commitments, escrow, and multi-party decision workflows across humans, agents, and organizations.
