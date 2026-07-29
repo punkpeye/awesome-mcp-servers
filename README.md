@@ -111,6 +111,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🖥️ - [OS Automation](#os-automation)
 * 🎙️ - [Podcasts](#podcasts)
 * 📋 - [Product Management](#product-management)
+* ⛪ - [Religion & Nonprofit](#religion-and-nonprofit)
 * 🏠 - [Real Estate](#real-estate)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
@@ -2821,6 +2822,12 @@ MCP servers for real estate CRM, property management, and agent workflows.
 - [jbechtel-97/dealflowpro-mcp-server](https://github.com/jbechtel-97/dealflowpro-mcp-server) [![jbechtel-97/dealflowpro-mcp-server MCP server](https://glama.ai/mcp/servers/jbechtel-97/dealflowpro-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/jbechtel-97/dealflowpro-mcp-server) 📇 ☁️ - Multifamily real estate deal analysis — cap rate, DSCR, cash-on-cash, IRR, DFP Score (0-100), max offer price, and market intelligence for 2-200 unit properties.
 - [ogasurfproject-jpg/horizon-shield](https://github.com/ogasurfproject-jpg/horizon-shield/tree/main/workers/hs-mcp) [![ogasurfproject-jpg/horizon-shield MCP server](https://glama.ai/mcp/servers/ogasurfproject-jpg/horizon-shield/badges/score.svg)](https://glama.ai/mcp/servers/ogasurfproject-jpg/horizon-shield) 🎖️ 📇 ☁️ - Audit Japanese construction and renovation estimates for overcharge: fair price ranges by work type, sales tactic red flags, and signed recomputable verdicts (KIRA). Includes an agent intake desk and a directory of independently audited contractors. Remote server, no API key required.
 - [pedra-ai/pedra-mcp](https://github.com/pedra-ai/pedra-mcp) [![pedra-ai/pedra-mcp MCP server](https://glama.ai/mcp/servers/@pedra-ai/pedra-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@pedra-ai/pedra-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - AI photo and video editing for real-estate listings via the Pedra API: virtual staging, renovation, room emptying, photo enhancement, sky replacement, object removal/blur, and property video generation. `npx @pedra-ai/mcp`
+
+### ⛪ <a name="religion-and-nonprofit"></a>Religion & Nonprofit
+
+MCP servers for church management, faith communities, synagogues, mosques, temples, and nonprofit operations.
+
+- [sanjibani/realm-mp-mcp](https://github.com/sanjibani/realm-mp-mcp) 🐍 ☁️ - The first MCP server for [Realm (MinistryPlatform)](https://help.acst.com/en/ministryplatform/developer-resources/), the church management system by ACS Technologies used by 10,000+ churches. 8 tools for contacts, events, small groups, donations, tasks, and communications via the public OAuth 2.0 REST API. `pip install realm-mp-mcp`. MIT-licensed.
 
 ### 🔬 <a name="research"></a>Research
 
