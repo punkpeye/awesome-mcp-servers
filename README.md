@@ -1643,7 +1643,7 @@ MCP servers for e-commerce platforms and online store management.
 - [tokenofesteem/mcp](https://github.com/tokenofesteem/mcp) [![tokenofesteem/mcp MCP server](https://glama.ai/mcp/servers/tokenofesteem/mcp/badges/score.svg)](https://glama.ai/mcp/servers/tokenofesteem/mcp) 🎖️ 📇 ☁️ - An agent can commission a funny, personalized printed booklet and have it printed and mailed as a gift, including a surprise for its own user. Pay with an account token, or tokenless with a single-use Stripe payment over HTTP 402. Remote MCP, US shipping, $19.99.
 - [wppoland/woocommerce-mcp](https://github.com/wppoland/woocommerce-mcp) [![wppoland/woocommerce-mcp MCP server](https://glama.ai/mcp/servers/wppoland/woocommerce-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wppoland/woocommerce-mcp) 📇 🏠 🍎 🪟 🐧 - Read-only MCP server for WordPress + WooCommerce. Five tools over the existing WP/WooCommerce REST APIs: list/search products, product details, recent orders, sales reports (week/month/last_month/year), and public blog-post search. No writes, no store-side plugin to install. Built by WPPoland. Install: `git clone` + `npm run build`.
 
-### 🛒 <a name="e-commerce"></a>E-Commerce
+### 🛒 <a name="grocery"></a>Grocery
 
 - [dearlordylord/voila-sdk](https://github.com/dearlordylord/voila-sdk) [![dearlordylord/voila-sdk MCP server](https://glama.ai/mcp/servers/dearlordylord/voila-sdk/badges/score.svg)](https://glama.ai/mcp/servers/dearlordylord/voila-sdk) 📇 ☁️ 🏠 🍎 🪟 🐧 - Personal Voila grocery automation via MCP. Search products, inspect discounts, list delivery slots, read cart and order history, and update cart quantities.
 
