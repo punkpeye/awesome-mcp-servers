@@ -24,6 +24,9 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ## What is MCP?
 
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
+
+
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 
 ## Clients
