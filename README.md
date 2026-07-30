@@ -14,6 +14,7 @@
 A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [What is MCP?](#what-is-mcp)
+* [PrivacyScrubber MCP](https://github.com/moxno/privacyscrubber-mcp) - Zero-Trust PII masking MCP server for AI IDEs (Cursor, Antigravity, Windsurf).
 * [Clients](#clients)
 * [Tutorials](#tutorials)
 * [Community](#community)
