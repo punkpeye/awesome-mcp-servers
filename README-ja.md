@@ -542,6 +542,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [co-browser/attestable-mcp-server](https://github.com/co-browser/attestable-mcp-server) 🐍 🏠 ☁️ 🐧 - Gramine経由で信頼実行環境（TEE）内で実行されるMCPサーバー。[RA-TLS](https://gramine.readthedocs.io/en/stable/attestation.html)を使用したリモート証明を紹介。MCPクライアントが接続前にサーバーを検証可能
 - [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) ☕ 🏠 - Model Context Protocol（MCP）と直接統合し、ClaudeなどのLLMでライブリバースエンジニアリング支援を提供するJADXデコンパイラー用プラグインとMCPサーバー
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) 🐍 🏠 - APK ToolのMCPサーバー。Android APKのリバースエンジニアリング自動化を提供
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) [![quantakrypto/pqc-tools MCP server](https://glama.ai/mcp/servers/quantakrypto/pqc-tools/badges/score.svg)](https://glama.ai/mcp/servers/quantakrypto/pqc-tools) 📇 🏠 ☁️ - AIコーディングエージェント向けのポスト量子対応ツール。量子に脆弱な暗号（RSA/ECDH/ECDSA/DH）をコードから検出し、harvest-now-decrypt-later（今収集して後で復号）のリスクを説明し、NIST ML-KEM/ML-DSA/SLH-DSA（およびハイブリッド）への移行ガイダンスを提供、修正の検証と依存関係のチェックを行います。内容ベースの助言的ツールのみ。ローカル（`npx @quantakrypto/mcp`）または[mcp.quantakrypto.com](https://mcp.quantakrypto.com)のホスト型OAuthエンドポイントで実行できます。
 
 ### 📟 <a name="embedded-system"></a>組み込みシステム
 
