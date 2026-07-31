@@ -2562,7 +2562,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 Turn agent intent into physical parts — specification, design-for-manufacture review, quoting, and sourcing of things that do not exist yet (distinct from Industrial & IoT, which connects agents to equipment that already exists).
 
-- [a2a2p](https://github.com/Deadlypillow/a2a2p) 📇 ☁️ - Turns agent intent into manufacturable parts. Describe what must be true about the world ("holds 15kg, outdoors, ten years") and get a deterministic engineering review — material properties, process/tolerance compatibility, environment fit, quantity economics — plus pricing and lead time. Measures attached STL meshes for true volume and bounding box. Open protocol: the specification is public domain (CC0) and implementable by anyone. No API key.
+- [Deadlypillow/a2a2p](https://github.com/Deadlypillow/a2a2p) 📇 ☁️ - Turns agent intent into manufacturable parts. Describe what must be true about the world ("holds 15kg, outdoors, ten years") and get a deterministic engineering review — material properties, process/tolerance compatibility, environment fit, quantity economics — plus pricing and lead time. Measures attached STL meshes for true volume and bounding box. Open protocol: the specification is public domain (CC0) and implementable by anyone. No API key.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
