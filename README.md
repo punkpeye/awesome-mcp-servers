@@ -105,6 +105,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
+* 🏭 - [Manufacturing & Fabrication](#manufacturing--fabrication)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
@@ -2556,6 +2557,12 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [xyver/daedal-map](https://github.com/xyver/daedal-map) [![DaedalMap MCP server](https://glama.ai/mcp/servers/xyver/daedal-map/badges/score.svg)](https://glama.ai/mcp/servers/xyver/daedal-map) 🐍 ☁️ - Geographic data packs for disasters, FX rates, and global indicators. New geospatial data packs weekly. Free and x402-paid execution lanes via MCP and HTTP API.
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding MCP server for nominatim, ArcGIS, Bing
 - [930m310n/geomelon-mcp](https://github.com/930m310n/geomelon-mcp) [![930m310n/geomelon-mcp MCP server](https://glama.ai/mcp/servers/930m310n/geomelon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/930m310n/geomelon-mcp) 🎖️ 📇 ☁️ - Cities, countries, regions, and languages with multilingual names (50 languages) and a free keyless autocomplete tool. Also runs a public hosted instance at `https://mcp.geomelon.dev/mcp`, no signup required.
+
+### 🏭 <a name="manufacturing--fabrication"></a>Manufacturing & Fabrication
+
+Turn agent intent into physical parts — specification, design-for-manufacture review, quoting, and sourcing of things that do not exist yet (distinct from Industrial & IoT, which connects agents to equipment that already exists).
+
+- [a2a2p](https://github.com/Deadlypillow/a2a2p) 📇 ☁️ - Turns agent intent into manufacturable parts. Describe what must be true about the world ("holds 15kg, outdoors, ten years") and get a deterministic engineering review — material properties, process/tolerance compatibility, environment fit, quantity economics — plus pricing and lead time. Measures attached STL meshes for true volume and bounding box. Open protocol: the specification is public domain (CC0) and implementable by anyone. No API key.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
