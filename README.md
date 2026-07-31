@@ -1922,7 +1922,9 @@ Tools for product planning, customer feedback analysis, and prioritization.
 ### 🏠 <a name="real-estate"></a>Real Estate
 
 MCP servers for real estate CRM, property management, and agent workflows.
-- [kairosliquid/kairos-signal](https://github.com/kairosliquid/kairos-signal) 🐍 ☁️ 🏠 - 2B+ enriched real estate distress signals across 19 verticals and 150+ metros. MCP-native structured data for AI agents. Schema-validated, cryptographically footprinted. Products from $9 to $999/mo. MCP endpoint: https://kairossignal.com/mcp/discover
+- [kairosliquid/kairos-signal](https://github.com/kairosliquid/kairos-signal) [![kairosliquid/kairos-signal MCP server](https://glama.ai/mcp/servers/com.kairossignal/kairos-signal/badges/score.svg)](https://glama.ai/mcp/servers/com.kairossignal/kairos-signal) 🐍 ☁️ 🏠 - 63-layer non-Abelian DAG manifold computation, 23K+ verified property leads (77K+ records across 819 cities), GPU LLM inference ($0.0005/1K tokens — 3x cheaper than OpenAI), 1.44M ZK footprints. 6 MCP tools: list_datasets, get_stats, fetch_dataset, verify_footprint, get_zk_provenance, purchase_data. MCP endpoint: https://kairossignal.com/mcp
+
+Kairos Signal — The only API that computes topological invariants of real market signals. 63-layer Continuous Neural ODE symplectic manifold. Calibrated on $2.3T federal contracts. Symplectic norm: 4.9σ N=455K.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
 
