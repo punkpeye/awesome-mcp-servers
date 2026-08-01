@@ -1562,6 +1562,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
 - [laszlopere/mcp-gnu-units](https://github.com/laszlopere/mcp-gnu-units) [![laszlopere/mcp-gnu-units MCP server](https://glama.ai/mcp/servers/laszlopere/mcp-gnu-units/badges/score.svg)](https://glama.ai/mcp/servers/laszlopere/mcp-gnu-units) 🐍 🏠 🐧 - Unit conversion and dimensional analysis backed by the bundled GNU units database (3000+ units, compound expressions, reduction to SI base units). Offline and deterministic. `uvx mcp-gnu-units`.
 
+- [gulmezeren2-byte/andon](https://github.com/gulmezeren2-byte/andon) [![gulmezeren2-byte/andon MCP server](https://glama.ai/mcp/servers/gulmezeren2-byte/andon/badges/score.svg)](https://glama.ai/mcp/servers/gulmezeren2-byte/andon) 🐍 🏠 - Deterministic verification for AI-generated analysis: re-checks a finished report against its source data and against itself with arithmetic, not another LLM — reconciliation, internal consistency and Excel integrity (`#REF!`, values typed over formulas), plus workbook diffing. CLI, GitHub Action, pre-commit hook and MCP server.
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
