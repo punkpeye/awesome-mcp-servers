@@ -880,6 +880,7 @@ Provides access to customer profiles inside of customer data platforms
 ### 🗄️ <a name="databases"></a>Databases
 
 Secure database access with schema inspection capabilities. Enables querying and analyzing data with configurable security controls including read-only access.
+- [AIops-tools/Queue-AIops](https://github.com/AIops-tools/Queue-AIops) 🐍 🏠 - Governed Redis + RabbitMQ operations — memory-pressure, latency, backlog, and churn RCA, plus guardrailed queue and key operations (28 tools) with unbypassable audit logging (MCP + CLI), budget/runaway guards, and undo/rollback.
 
 - [AIops-tools/Postgres-AIops](https://github.com/AIops-tools/Postgres-AIops) [![AIops-tools/Postgres-AIops MCP server](https://glama.ai/mcp/servers/AIops-tools/Postgres-AIops/badges/score.svg)](https://glama.ai/mcp/servers/AIops-tools/Postgres-AIops) 🐍 🏠 - Governed PostgreSQL DBA operations — slow-query, bloat, and blocking-lock RCA, index management, vacuum/analyze, and replication lag (35 tools) with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.
 - [Aiven-Open/mcp-aiven](https://github.com/Aiven-Open/mcp-aiven) - 🐍 ☁️ 🎖️ -  Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services
