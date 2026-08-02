@@ -2171,6 +2171,7 @@ Integration with gaming related data, game engines, and services
 
 Access health metrics, wellness data, and medical information through various health platforms.
 
+- [io.github.MarshallBear1/juno-open-health-tools](https://github.com/MarshallBear1/juno-open-health-tools) 📇 ☁️ - Consent-gated, no-account tools that turn non-identifying symptom notes into plain-language symptom descriptions, health timelines, flare reflections, and appointment briefs. Five read-only, non-diagnostic tools; inputs are processed transiently without intentional application storage.
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
 
 ### 🏠 <a name="home-automation"></a>Home Automation
