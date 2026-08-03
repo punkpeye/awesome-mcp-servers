@@ -964,6 +964,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍🗄️ - provides AI-powered PostgreSQL performance tuning capabilities.
 - [pilat/mcp-datalink](https://github.com/pilat/mcp-datalink) 📇 🏠 - MCP server for secure database access (PostgreSQL, MySQL, SQLite) with parameterized queries and schema inspection
 - [planetscale/mcp](https://github.com/planetscale/cli?tab=readme-ov-file#mcp-server-integration) - The PlanetScale CLI includes an MCP server that provides AI tools direct access to your PlanetScale databases.
+- [postgres-mcp-server](https://github.com/spencerpauly/postgres-mcp-server) 📇 🏠 🍎 🪟 🐧 - A secure, read-only PostgreSQL MCP server for AI assistants.
 - [prisma/mcp](https://github.com/prisma/mcp) 📇 ☁️ 🏠 - Gives LLMs the ability to manage Prisma Postgres databases (e.g. spin up new databases and run migrations or queries).
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) 🐍 🏠 - A Qdrant MCP server
 - [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) 📇 🏠 - MongoDB integration that enables LLMs to interact directly with databases.
