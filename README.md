@@ -323,6 +323,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [XavierFabregat/spotify-mcp](https://github.com/XavierFabregat/spotify-mcp) [![XavierFabregat/spotify-mcp MCP server](https://glama.ai/mcp/servers/XavierFabregat/spotify-mcp/badges/score.svg)](https://glama.ai/mcp/servers/XavierFabregat/spotify-mcp) 📇 🏠 🍎 🪟 🐧 - Conversational Spotify control with intent-shaped tools: play by description, queue, devices, playlists, and library, plus a 2-minute PKCE setup wizard. Built for the post-Feb-2026 Spotify Web API. `npx -y @xavifabregat/spotify-mcp`
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - A MCP server integrating AniList API for anime and manga information
 - [yuvalsuede/agent-media](https://github.com/yuvalsuede/agent-media) 📇 ☁️ 🍎 🪟 🐧 - CLI and MCP server for AI video and image generation with unified access to 7 models (Kling, Veo, Sora, Seedance, Flux, Grok Imagine). Provides 9 tools for generating, managing, and browsing media.
+- [Tianshang301/TianshangCAD](https://github.com/Tianshang301/TianshangCAD) 🐍 🏠 🍎 🪟 🐧 - Modern CAD CLI + MCP Server: 2D/3D drawing, editing, measurement, validation, assembly modeling, engineering drawings, batch automation and real-time collaboration (CRDT + WebSocket). 103 JSON-RPC tools over stdio, streamable HTTP or WebSocket. `pip install cad-mcp-server`
 
 
 ### 📐 <a name="architecture-and-design"></a>Architecture & Design
