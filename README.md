@@ -3375,6 +3375,7 @@ Tools for accessing sports-related data, results, and statistics.
 ### 🎧 <a name="support-and-service-management"></a>Support & Service Management
 Tools for managing customer support, IT service management, and helpdesk operations.
 - [aikts/yandex-tracker-mcp](https://github.com/aikts/yandex-tracker-mcp) 🐍 ☁️ 🏠 - MCP Server for Yandex Tracker. Provides tools for searching and retrieving information about issues, queues, users.
+- [app.steadywrk/mcp-dispatch](https://steadywrk.app) 🎖️ 📇 ☁️ - Field-service dispatch for AI agents: instant quotes, tracked work orders, and public capability evals across 8 trade verticals. Remote Streamable HTTP server at steadywrk.app/api/mcp; evals and index tools need no API key.
 - [Berckan/bugherd-mcp](https://github.com/Berckan/bugherd-mcp) 📇 ☁️ - MCP server for BugHerd bug tracking. List projects, view tasks with filtering by status/priority/tags, get task details, and read comments.
 - [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - MCP server that integrates with Freshdesk, enabling AI models to interact with Freshdesk modules and perform various support operations.
 - [incentivai/quickchat-ai-mcp](https://github.com/incentivai/quickchat-ai-mcp) 🐍 🏠 ☁️ - Launch your conversational Quickchat AI agent as an MCP to give AI apps real-time access to its Knowledge Base and conversational capabilities.
