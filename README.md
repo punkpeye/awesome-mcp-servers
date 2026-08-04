@@ -2191,6 +2191,7 @@ Control smart home devices, home network equipment, and automation systems.
 Connect AI agents to industrial equipment, machinery, and operational technology (OT) — telemetry ingestion, monitoring, and control across manufacturing and factory-floor protocols.
 
 - [FoundryNet/forge-mcp](https://github.com/FoundryNet/forge-mcp) 🐍 ☁️ - Industrial AI infrastructure that connects any AI agent to industrial equipment: 14 protocols, 18 manufacturers, 30 tools, cross-OEM telemetry normalization, health index, and failure prediction. The first physical-world MCP server. Free tier available. ([Smithery](https://smithery.ai/server/@foundrynet/forge)) [![FoundryNet/forge-mcp MCP server](https://glama.ai/mcp/servers/FoundryNet/forge-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FoundryNet/forge-mcp)
+- [nagarjunr/iot-mcp-servers](https://github.com/nagarjunr/iot-mcp-servers) 🐍 ☁️ 🏠 - Five standalone MCP servers for IoT/industrial platforms: [Eclipse Ditto](https://github.com/nagarjunr/iot-mcp-servers/tree/main/eclipse-ditto) (digital twins), [MQTT 5.0](https://github.com/nagarjunr/iot-mcp-servers/tree/main/mqtt), [AWS IoT Core](https://github.com/nagarjunr/iot-mcp-servers/tree/main/aws-iot-core), [Azure IoT Hub](https://github.com/nagarjunr/iot-mcp-servers/tree/main/azure-iot-hub), and [Sparkplug B](https://github.com/nagarjunr/iot-mcp-servers/tree/main/sparkplug-b) (SCADA/OT via MQTT). Full read/write tools per server, tested against real brokers/emulators rather than mocks. MIT.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
