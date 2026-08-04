@@ -1,3 +1,4 @@
+- [pineifyapp/pineify-mcp](https://github.com/pineifyapp/pineify-mcp) 🎖️ ☁️ - Official hosted, read-only MCP server with 14 tools for Pine Script v6, MQL5 and cTrader validation, stock research, technical analysis, unusual options flow, dark-pool activity, congressional trades, market tide and event briefings. Remote Streamable HTTP; Bearer-token authentication.
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
