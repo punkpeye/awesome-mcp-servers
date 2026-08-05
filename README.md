@@ -1,0 +1,2 @@
+
+- [manteclaw/base-l2-agent-kit-mcp](https://github.com/manteclaw/base-l2-agent-kit-mcp) [![manteclaw/base-l2-agent-kit-mcp MCP server](https://glama.ai/mcp/servers/manteclaw/base-l2-agent-kit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/manteclaw/base-l2-agent-kit-mcp) 📇 ☁️ - Base L2 DeFi agent with 9 tools: wallet management, token swaps, liquidity provision, price feeds, contract interaction, flash loan arbitrage. x402-monetized, gas-optimized, circuit breaker protected.
