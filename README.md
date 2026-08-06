@@ -3274,6 +3274,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [mastyf-ai/mastyf.ai](https://github.com/mastyf-ai/mastyf.ai) [![mastyf-ai/mastyf.ai MCP server](https://glama.ai/mcp/servers/mastyf-ai/mastyf.ai/badges/score.svg)](https://glama.ai/mcp/servers/mastyf-ai/mastyf.ai) 📇 🏠 🍎 🪟 🐧 - Open-source runtime security proxy for MCP. Transparently intercepts every tools/call through an 18-class attack defense pipeline (prompt injection, SSRF, shell injection, SQL injection, credential exfil, polyglot attacks) with a YAML policy engine and 304-entry adversarial corpus. Trust scoring for npm MCP packages with 0-100 badges. Cloud dashboard, Docker image, Python SDK. MIT.
 - [timescale/rsigma](https://github.com/timescale/rsigma) [![timescale/rsigma MCP server](https://glama.ai/mcp/servers/timescale/rsigma/badges/score.svg)](https://glama.ai/mcp/servers/timescale/rsigma) 🎖️ 🦀 🏠 🍎 🪟 🐧 - Exposes the RSigma Sigma detection-engineering toolkit to AI agents over stdio or Streamable HTTP with `rsigma mcp serve`. Tools to author, lint, validate, and convert Sigma detection rules, evaluate and explain detections against log events, and inspect correlation state, all backed by a native Rust engine.
+- [rudimentall1/agent-guardrail](https://github.com/rudimentall1/agent-guardrail) 🐍 - Deterministic policy firewall for AI agent tool calls — YAML rules, no LLM calls, no risk scores.
 
 ### 🌐 <a name="social-media"></a>Social Media
 
