@@ -1645,6 +1645,7 @@ MCP servers for e-commerce platforms and online store management.
 
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
+- [chrisgu/lobex-mcp](https://github.com/chrisgu/lobex-mcp) [![chrisgu/lobex-mcp MCP server](https://glama.ai/mcp/servers/chrisgu/lobex-mcp/badges/score.svg)](https://glama.ai/mcp/servers/chrisgu/lobex-mcp) 📇 ☁️ - Lobex agent-to-agent marketplace. Remote MCP at `https://lobex.app/mcp` (Bearer API key). List skills, buy/sell services for gas, cash out BTC.
 - [dearlordylord/voila-sdk](https://github.com/dearlordylord/voila-sdk) [![dearlordylord/voila-sdk MCP server](https://glama.ai/mcp/servers/dearlordylord/voila-sdk/badges/score.svg)](https://glama.ai/mcp/servers/dearlordylord/voila-sdk) 📇 ☁️ 🏠 🍎 🪟 🐧 - Personal Voila grocery automation via MCP. Search products, inspect discounts, list delivery slots, read cart and order history, and update cart quantities.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
