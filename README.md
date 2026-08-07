@@ -392,7 +392,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
-
+- [gologinapp/gologin-mcp](https://github.com/gologinapp/gologin-mcp) 🐍 ☁️ - Run GoLogin Cloud Browser sessions and manage antidetect browser profiles via MCP.
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts.
 - [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) [![safari-mcp MCP server](https://glama.ai/mcp/servers/achiya-automation/safari-mcp/badges/score.svg)](https://glama.ai/mcp/servers/achiya-automation/safari-mcp) 📇 🏠 🍎 - Native Safari browser automation for AI agents with 80+ tools. No Chrome dependency, optimized for Apple Silicon with 60% less CPU overhead.
 - [aethynio/aethyn-browser-mcp](https://github.com/aethynio/aethyn-browser-mcp) [![aethynio/aethyn-browser-mcp MCP server](https://glama.ai/mcp/servers/aethynio/aethyn-browser-mcp/badges/score.svg)](https://glama.ai/mcp/servers/aethynio/aethyn-browser-mcp) 📇 🏠 - Drive a local Playwright browser through residential proxies with the agent choosing the exit country/city and holding one sticky identity per task. 10 tools: launch, navigate, accessibility snapshot, click, type, content extraction, exit-IP verification, and per-task identity rotation. Free trial, no card.
