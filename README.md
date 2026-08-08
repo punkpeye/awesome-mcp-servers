@@ -1441,7 +1441,7 @@ Provides access to environmental data and nature-related tools, services and inf
 
 Tools for Christian and other faith content — Scripture lookup and citation, study aids, sermons, and church data — for AI agents that answer faith questions or surface religious content.
 
-- [alansafahi/soapbox-faith](https://github.com/alansafahi) 📇 ☁️ - Faith tools for AI agents from SoapBox: grounded, honestly-cited Christian content callable over Streamable HTTP. Ask ORA for Scripture-grounded answers citing KJV passages, verify Bible quotes, look up Strong's, browse pastor-consented sermons and reading plans, find churches, and (with user consent) post prayer or give. 18 tools; free read tools need no key. Remote server: `https://foyekanoxpnkydoibaas.supabase.co/functions/v1/faith-mcp`.
+- [alansafahi/soapbox-faith](https://github.com/alansafahi/soapbox-faith) 📇 ☁️ - Faith tools for AI agents from SoapBox: grounded, honestly-cited Christian content callable over Streamable HTTP. Ask ORA for Scripture-grounded answers citing KJV passages, verify Bible quotes, look up Strong's, browse pastor-consented sermons and reading plans, find churches, and (with user consent) post prayer or give. 18 tools; free read tools need no key. Remote server: `https://foyekanoxpnkydoibaas.supabase.co/functions/v1/faith-mcp`.
 
 ### 📂 <a name="file-systems"></a>File Systems
 
