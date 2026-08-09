@@ -1561,6 +1561,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [subelsky/bundler_mcp](https://github.com/subelsky/bundler_mcp) 💎 🏠 - Enables agents to query local information about dependencies in a Ruby project's `Gemfile`.
 - [zcaceres/markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) 📇 🏠 - An MCP server to convert almost any file or web content into Markdown
 - [laszlopere/mcp-gnu-units](https://github.com/laszlopere/mcp-gnu-units) [![laszlopere/mcp-gnu-units MCP server](https://glama.ai/mcp/servers/laszlopere/mcp-gnu-units/badges/score.svg)](https://glama.ai/mcp/servers/laszlopere/mcp-gnu-units) 🐍 🏠 🐧 - Unit conversion and dimensional analysis backed by the bundled GNU units database (3000+ units, compound expressions, reduction to SI base units). Offline and deterministic. `uvx mcp-gnu-units`.
+- [tufantunc/axiom-advanced-math-mcp](https://github.com/tufantunc/axiom-advanced-math-mcp) 📇 🏠 🍎 🐧 - Exact symbolic mathematics from a real computer algebra system (Giac/Xcas compiled to WebAssembly, no network calls): calculus, equation solving, linear algebra, combinatorics, and independent verification of a claim. Also runs as a shell command, so agents can use it as a skill with no MCP configuration. `npx -y axiom-math`
 
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
