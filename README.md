@@ -3796,6 +3796,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone) 📇 🏠 🍎 🪟 🐧 - Filesystem-direct Obsidian MCP server with low context-tax. Reads your vault directly from disk — no Local REST API plugin required. ~575× smaller payloads than the REST plugin. 8 tools. `npx -y obsidian-mcp-seekstone` (also: `npx -y seekstone`)
 - [vivek081166/japan-utils-mcp](https://github.com/vivek081166/japan-utils-mcp) [![vivek081166/japan-utils-mcp MCP server](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp) 🐍 🏠 🍎 🪟 🐧 - Japan-specific utilities for AI agents: era ↔ Western year conversion (令和8年 ↔ 2026), kanji-to-romaji transliteration, 7-digit postal code lookup, national holiday calendar, hiragana ↔ katakana conversion, full-width ↔ half-width normalization, and statistical Japanese name splitting. 9 tools, MIT licensed, installable via `uvx japan-utils-mcp`.
 
+- [weed33834/agent-builder-skill](https://github.com/weed33834/agent-builder-skill) 🐍 🏠 - A TRAE Skill that builds production-ready AI agents. Includes MCP server (FastMCP, stateless 2026-07-28 spec) exposing web_search, web_fetch, calculate, current_time tools via stdio and HTTP transports.
 ## Tips and Tricks
 
 ### Official prompt to inform LLMs how to use MCP
