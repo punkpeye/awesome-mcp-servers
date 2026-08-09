@@ -79,6 +79,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📐 - [Architecture & Design](#architecture-and-design)
 * 📂 - [Browser Automation](#browser-automation)
 * 🧬 - [Biology Medicine and Bioinformatics](#bio)
+* ⚙️ - [CAD & Engineering](#cad-and-engineering)
 * ☁️ - [Cloud Platforms](#cloud-platforms)
 * 👨‍💻 - [Code Execution](#code-execution)
 * 🤖 - [Coding Agents](#coding-agents)
@@ -474,6 +475,13 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [xspadex/bilibili-mcp](https://github.com/xspadex/bilibili-mcp.git) 📇 🏠 - A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.
 - [ymw0407/auth-fetch-mcp](https://github.com/ymw0407/auth-fetch-mcp) [![ymw0407/auth-fetch-mcp MCP server](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ymw0407/auth-fetch-mcp) 📇 🏠 🍎 🪟 🐧 - Fetch content from login-protected web pages (Notion, Google Docs, Jira, Confluence, etc.) by opening a real browser for authentication with persistent session caching.
 - [PrinceGabriel-lgtm/freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp) [![freshcontext-mcp MCP server](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@PrinceGabriel-lgtm/freshcontext-mcp) ☁️ 🏠 - Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.
+
+### ⚙️ <a name="cad-and-engineering"></a>CAD & Engineering
+
+Control and automate professional CAD and engineering data software. Enables AI models to create parts and drawings, manage engineering data, and run manufacturing workflows.
+
+- [Modern-CAD/inventor-ai-mcp-server](https://github.com/Modern-CAD/inventor-ai-mcp-server) 🎖️ #️⃣ 🏠 🪟 - Drive Autodesk Inventor in plain English – 470+ tools for part modelling, sheet metal, drawings, assemblies, iLogic and batch workflows against a running Inventor instance. Runs 100% locally, so designs never leave the machine.
+- [Modern-CAD/vault-ai-mcp-server](https://github.com/Modern-CAD/vault-ai-mcp-server) 🎖️ #️⃣ 🏠 🪟 - Manage Autodesk Vault in plain English – files, properties, items and BOMs, lifecycles, numbering and change orders, with destructive operations gated behind explicit confirmation.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
