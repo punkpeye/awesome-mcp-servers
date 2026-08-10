@@ -254,6 +254,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 
 - [CNSLabs/agreements-api-sdk](https://github.com/CNSLabs/agreements-api-sdk) [![CNSLabs/agreements-api-sdk MCP server](https://glama.ai/mcp/servers/CNSLabs/agreements-api-sdk/badges/score.svg)](https://glama.ai/mcp/servers/CNSLabs/agreements-api-sdk) 📇 ☁️ 🏠 - Remote Streamable HTTP and local stdio MCP server for defining, validating, deploying, and operating machine-readable agreements with EIP-712 permit preparation, signed participant inputs, state reads, and input history.
 - [humanforai/humanforai-mcp](https://github.com/humanforai/humanforai-mcp) [![humanforai/humanforai-mcp MCP server](https://glama.ai/mcp/servers/humanforai/humanforai-mcp/badges/score.svg)](https://glama.ai/mcp/servers/humanforai/humanforai-mcp) 🎖️ 📇 ☁️ - Hire a real human operator for tasks that need physical presence, perception, or judgment: real-world verification, product testing, AI output review, data collection, and local errands. Remote streamable HTTP at https://humanforai.dev/mcp or local stdio via `npx -y humanforai`.
+- [zse4321/decision-anchor-sdk](https://github.com/zse4321/decision-anchor-sdk) 📇 ☁️ - External anchoring layer that records AI agent accountability boundaries on both sides — content-blind, non-judgmental. Remote streamable HTTP at https://mcp.decision-anchor.com/mcp; free trial, then pay-per-call USDC (x402) on Base.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
