@@ -2172,6 +2172,7 @@ Integration with gaming related data, game engines, and services
 Access health metrics, wellness data, and medical information through various health platforms.
 
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
+- [encodi/validar-codigo-medico](https://github.com/encodi/validar-codigo-medico) 📇 ☁️ - Validates ICD-10-CM codes against the real FY2026 billable code catalog (NCHS/CDC, public domain) with official short descriptions; validates CPT codes by structure/category only (5-digit Category I, 4-digit+F/T Category II/III) since CPT descriptions require a paid AMA license. Remote MCP server (Cloudflare Workers), priced per call via x402/USDC on Base. `https://validar-codigo-medico.encodari.workers.dev/mcp`
 
 ### 🏠 <a name="home-automation"></a>Home Automation
 
