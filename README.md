@@ -2873,6 +2873,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [gogabrielordonez/mcp-ragchat](https://github.com/gogabrielordonez/mcp-ragchat) 📇 🏠 - Add RAG-powered AI chat to any website with one command. Local vector store, multi-provider LLM (OpenAI/Anthropic/Gemini), self-contained chat server and embeddable widget.
 - [poll-the-people/customgpt-mcp](https://github.com/Poll-The-People/customgpt-mcp) 🐍 🏠 ☁️ - An MCP server for accessing all of CustomGPT.ai's anti-hallucination RAG-as-a-service API endpoints.
 - [vectara/vectara-mcp](https://github.com/vectara/vectara-mcp) 🐍 🏠 ☁️ - An MCP server for accessing Vectara's trusted RAG-as-a-service platform.
+- [zthewriter/mcp-builder-studio](https://github.com/zthewriter/mcp-builder-studio) ☁️ - No-code platform to build, deploy, and monitor MCP servers from docs, repos, websites, PDFs, and existing MCP endpoints.
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
 - [pgalyen1987/gate402-mcp](https://github.com/pgalyen1987/gate402-mcp) [![pgalyen1987/gate402-mcp MCP server](https://glama.ai/mcp/servers/pgalyen1987/gate402-mcp/badges/score.svg)](https://glama.ai/mcp/servers/pgalyen1987/gate402-mcp) 📇 ☁️ - Pay-per-call agent APIs over x402 (USDC on Base): per-token LLM inference (Llama 3.1/Qwen/Mistral), per-second GPU/CPU compute, on-chain/DeFi + SEC-EDGAR + news data, and clean-Markdown/Cloudflare-stealth web scraping. Signed receipts, no signup — auto-claims a free-tier key. Install via `npx -y gate402-mcp`.
