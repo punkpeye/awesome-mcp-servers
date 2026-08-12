@@ -2171,6 +2171,7 @@ Integration with gaming related data, game engines, and services
 
 Access health metrics, wellness data, and medical information through various health platforms.
 
+- [anatome](https://anatome.dev) ☁️ - Log workouts and meals by telling your AI. 873 exercises with muscle-anatomy diagrams (SVG), food and barcode lookup, per-user workout/meal/cardio/bodyweight logging, weekly check-ins and progression analytics (PRs, volume, training load, recovery). Hosted at `https://anatome.dev/mcp`; exercise search, diagrams and food lookup answer with no API key, and per-user logging works from a free key minted with one unauthenticated POST.
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
 
 ### 🏠 <a name="home-automation"></a>Home Automation
