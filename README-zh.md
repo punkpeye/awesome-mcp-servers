@@ -386,6 +386,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/filesystem) 📇 🏠 - 直接访问本地文件系统。
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - Google Drive 集成，用于列出、阅读和搜索文件
 - [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - AI 原生目录可视化，具有语义分析、AI 消费的超压缩格式和 10 倍令牌减少。支持具有智能文件分类的量子语义模式。
+- [FI-Mihej/text_file_read_and_refactor_mcp](https://github.com/FI-Mihej/text_file_read_and_refactor_mcp) [![text_file_read_and_refactor_mcp MCP server](https://glama.ai/mcp/servers/FI-Mihej/text_file_read_and_refactor_mcp/badges/score.svg)](https://glama.ai/mcp/servers/FI-Mihej/text_file_read_and_refactor_mcp) 🐍 🏠 🍎 🪟 🐧 - 一个注重令牌效率的 Python stdio MCP 服务器，提供安全的文本文件搜索、读取和重构工具。所有工具都会自动识别并处理文件的 BOM 和字符编码；编辑工具会以文件原有的字符编码和 BOM 保存文件。 `uvx text-file-read-and-refactor-mcp`
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - Box 集成，支持文件列表、阅读和搜索功能
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - 用于本地文件系统访问的 Golang 实现。
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) 🐍 🏠 🪟 - 使用 Everything SDK 实现的快速 Windows 文件搜索
@@ -427,6 +428,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [JamesANZ/evm-mcp](https://github.com/JamesANZ/evm-mcp) 📇 ☁️ - 一个MCP服务器，提供对以太坊虚拟机（EVM）JSON-RPC方法的完整访问。可与任何EVM兼容的节点提供商配合使用，包括Infura、Alchemy、QuickNode、本地节点等。
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - 一个MCP服务器，提供来自Polymarket、PredictIt和Kalshi等多个平台的实时预测市场数据。使AI助手能够通过统一接口查询当前赔率、价格和市场信息。
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - 一个MCP服务器，使AI模型能够查询比特币区块链。
+- [litsen/lfwin-payment-mcp](https://github.com/litsen/lfwin-payment-mcp) [![lfwin-payment-mcp MCP server](https://glama.ai/mcp/servers/litsen/lfwin-payment-mcp/badges/score.svg)](https://glama.ai/mcp/servers/litsen/lfwin-payment-mcp) 🐍 ☁️ - 酷收银支付MCP Server - AI原生支付网关（收银台/退款/查单）
 
 ### 🎮 <a name="gaming"></a>游戏
 
@@ -549,6 +551,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) 🐍 🏠 - CVE-Search MCP服务器， 提供CVE漏洞信息查询、漏洞产品信息查询等功能。
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - MCP 服务器用于访问 [Intruder](https://www.intruder.io/)，帮助你识别、理解并修复基础设施中的安全漏洞。
 - [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) [![quantakrypto/pqc-tools MCP server](https://glama.ai/mcp/servers/quantakrypto/pqc-tools/badges/score.svg)](https://glama.ai/mcp/servers/quantakrypto/pqc-tools) 📇 🏠 ☁️ - 面向 AI 编程代理的后量子就绪工具。扫描代码中易受量子攻击的密码算法（RSA/ECDH/ECDSA/DH），解释 harvest-now-decrypt-later（先收集、后解密）风险，提供 NIST ML-KEM/ML-DSA/SLH-DSA（及混合）迁移指南，验证修复并检查依赖。仅为基于内容的咨询类工具。可本地运行（`npx @quantakrypto/mcp`）或使用 [mcp.quantakrypto.com](https://mcp.quantakrypto.com) 的托管 OAuth 端点。
 
 ### 📟 <a name="embedded-system"></a>嵌入式系统
 
