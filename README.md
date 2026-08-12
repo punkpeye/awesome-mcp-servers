@@ -1647,6 +1647,14 @@ MCP servers for e-commerce platforms and online store management.
 
 - [dearlordylord/voila-sdk](https://github.com/dearlordylord/voila-sdk) [![dearlordylord/voila-sdk MCP server](https://glama.ai/mcp/servers/dearlordylord/voila-sdk/badges/score.svg)](https://glama.ai/mcp/servers/dearlordylord/voila-sdk) 📇 ☁️ 🏠 🍎 🪟 🐧 - Personal Voila grocery automation via MCP. Search products, inspect discounts, list delivery slots, read cart and order history, and update cart quantities.
 
+### 🎟️ <a name="events-and-ticketing"></a>Events & Ticketing
+
+MCP servers for event platforms — creating events, selling tickets, and managing attendees.
+
+- [adelaidasofia/luma-mcp](https://github.com/adelaidasofia/luma-mcp) 🐍 ☁️ - lu.ma events MCP server for Claude Code. Create/update events, ticket types, coupons, list RSVPs, email attendees, with draft+confirm on every write. 14 tools. Requires a Luma Plus API key.
+- [joshuachestang/eventbrite-mcp-server](https://github.com/joshuachestang/eventbrite-mcp-server) 📇 ☁️ - Community MCP server for the Eventbrite API. Create and manage events, ticket classes, orders, and attendees on Eventbrite.
+- [socialloopai/socialloop-mcp](https://github.com/socialloopai/socialloop-mcp) 🎖️ ☁️ - Official remote MCP server for SocialLoop, the AI-native event platform. Create and publish events, sell tickets, manage guest lists, run affiliate programs and promo codes — the full event lifecycle from Claude, ChatGPT, Cursor, or any MCP client. Open no-login endpoint (`https://socialloop.ai/mcp`) or OAuth; listed in the official MCP Registry.
+
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
 Provides access to environmental data and nature-related tools, services and information.
