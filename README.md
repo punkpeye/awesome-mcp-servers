@@ -1671,6 +1671,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [ashev87/propstack-mcp](https://github.com/ashev87/propstack-mcp) [![propstack-mcp MCP server](https://glama.ai/mcp/servers/@ashev87/propstack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@ashev87/propstack-mcp) 📇 ☁️ 🍎 🪟 🐧 - Propstack CRM MCP: search contacts, manage properties, track deals, schedule viewings for real estate agents (Makler).
+- [Avena Terminal](https://avenaterminal.com/mcp-server) ☁️ - Live Spanish coastal new-build property data: search and score 2,000+ listings, plus the observation ledger portals don't keep — per-property asking-price history, observed repricings, delistings with final prices, and the AVENA market index. Remote server at avenaterminal.com/mcp, no auth required.
 
 ### 🔬 <a name="research"></a>Research
 
