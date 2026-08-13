@@ -1523,7 +1523,6 @@ Tools and integrations that enhance the development workflow and environment man
 - [LS-SIEM-LLP/qa-probe](https://github.com/LS-SIEM-LLP/qa-probe) [![LS-SIEM-LLP/qa-probe MCP server](https://glama.ai/mcp/servers/LS-SIEM-LLP/qa-probe/badges/score.svg)](https://glama.ai/mcp/servers/LS-SIEM-LLP/qa-probe) 📇 🏠 🍎 🪟 🐧 - Probes your live API and classifies why each endpoint failed (root cause + evidence + calibrated confidence) over MCP, so your AI assistant debugs from evidence instead of guessing. Deterministic rules, no black box. Works with FastAPI, Express, Next.js, tRPC, and GraphQL. `npm i -g qa-probe`
 - [verdochello/verdoc-mcp](https://github.com/verdochello/verdoc-mcp) [![verdochello/verdoc-mcp MCP server](https://glama.ai/mcp/servers/verdochello/verdoc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/verdochello/verdoc-mcp) 📇 ☁️ 🍎 🪟 🐧 - Deterministic AGENTS.md generation and repository analysis (doc-health score, phantom-path detection, build/test commands verified against the git tree - no LLM) for any public GitHub repo, paid per call in USDC over x402 ($0.01-0.02). No account or API key; runs in quote-only mode without a wallet configured. Also installable as a portable `.mcpb` bundle from the latest GitHub Release.
 
-
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
