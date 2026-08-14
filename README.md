@@ -961,6 +961,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [ofershap/mcp-server-sqlite](https://github.com/ofershap/mcp-server-sqlite) [![mcp-server-sqlite MCP server](https://glama.ai/mcp/servers/ofershap/mcp-server-sqlite/badges/score.svg)](https://glama.ai/mcp/servers/ofershap/mcp-server-sqlite) 📇 🏠 - SQLite operations — query databases, inspect schemas, explain queries, and export data.
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - Query and analyze Azure Data Explorer databases
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ -  Query and analyze Prometheus, open-source monitoring system.
+- [pgmnemo/pgmnemo](https://github.com/pgmnemo/pgmnemo) 🐍 🏠 - Agent memory as a PostgreSQL extension: hybrid HNSW+BM25 recall, write-time provenance gates, and an outcome loop A/B-tested against a no-memory control on a live fleet (dataset published).
 - [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍🗄️ - provides AI-powered PostgreSQL performance tuning capabilities.
 - [pilat/mcp-datalink](https://github.com/pilat/mcp-datalink) 📇 🏠 - MCP server for secure database access (PostgreSQL, MySQL, SQLite) with parameterized queries and schema inspection
 - [planetscale/mcp](https://github.com/planetscale/cli?tab=readme-ov-file#mcp-server-integration) - The PlanetScale CLI includes an MCP server that provides AI tools direct access to your PlanetScale databases.
