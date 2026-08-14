@@ -3736,7 +3736,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [SecretiveShell/MCP-wolfram-alpha](https://github.com/SecretiveShell/MCP-wolfram-alpha) 🐍 ☁️ - An MCP server for querying wolfram alpha API.
 - [Seym0n/tiktok-mcp](https://github.com/Seym0n/tiktok-mcp) 📇 ☁️ - Interact with TikTok videos
 - [Shopify/dev-mcp](https://github.com/Shopify/dev-mcp) 📇 ☁️ - Model Context Protocol (MCP) server that interacts with Shopify Dev.
-- [simonpainter/netbox-mcp](https://github.com/simonpainter/netbox-mcp) 🐍 ☁️ - MCP server for interacting with NetBox API.
+- [saitarrun/apple-music-mcp](https://github.com/saitarrun/apple-music-mcp) 🐍 🏠 ☁️ 🍎 - High-efficiency Apple Music server with dual native JXA & Cloud API engines, async parallel batching, cross-platform charts (Shazam, Spotify, YouTube), and zero-timeout execution.
 - [sirmews/apple-notes-mcp](https://github.com/sirmews/apple-notes-mcp) 🐍 🏠 - Allows the AI to read from your local Apple Notes database (macOS only)
  - [rogertheunissenmerge-oss/mcp-server](https://github.com/rogertheunissenmerge-oss/mcp-server) [![rogertheunissenmerge-oss/mcp-server MCP server](https://glama.ai/mcp/servers/rogertheunissenmerge-oss/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/rogertheunissenmerge-oss/mcp-server) 📇 ☁️ - Wine pairing intelligence for AI assistants. 7 MCP tools for sommelier-grade wine recommendations powered by a proprietary Wine DNA algorithm. Pair wines with meals, ingredients, or recipe URLs. Supports API key and x402 (USDC on Base) payments.
 - [suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server) 📇 🏠 - Interacting with Notion API
