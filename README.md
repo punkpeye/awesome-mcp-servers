@@ -96,6 +96,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
 * 🛒 - [E-Commerce](#e-commerce)
+* 🎟️ - [Events & Ticketing](#events-and-ticketing)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
@@ -1651,9 +1652,9 @@ MCP servers for e-commerce platforms and online store management.
 
 MCP servers for event platforms — creating events, selling tickets, and managing attendees.
 
-- [adelaidasofia/luma-mcp](https://github.com/adelaidasofia/luma-mcp) 🐍 ☁️ - lu.ma events MCP server for Claude Code. Create/update events, ticket types, coupons, list RSVPs, email attendees, with draft+confirm on every write. 14 tools. Requires a Luma Plus API key.
-- [joshuachestang/eventbrite-mcp-server](https://github.com/joshuachestang/eventbrite-mcp-server) 📇 ☁️ - Community MCP server for the Eventbrite API. Create and manage events, ticket classes, orders, and attendees on Eventbrite.
-- [socialloopai/socialloop-mcp](https://github.com/socialloopai/socialloop-mcp) 🎖️ ☁️ - Official remote MCP server for SocialLoop, the AI-native event platform. Create and publish events, sell tickets, manage guest lists, run affiliate programs and promo codes — the full event lifecycle from Claude, ChatGPT, Cursor, or any MCP client. Open no-login endpoint (`https://socialloop.ai/mcp`) or OAuth; listed in the official MCP Registry.
+- [adelaidasofia/luma-mcp](https://github.com/adelaidasofia/luma-mcp) [![adelaidasofia/luma-mcp MCP server](https://glama.ai/mcp/servers/adelaidasofia/luma-mcp/badges/score.svg)](https://glama.ai/mcp/servers/adelaidasofia/luma-mcp) 🐍 ☁️ - lu.ma events MCP server for Claude Code. Create/update events, ticket types, coupons, list RSVPs, email attendees, with draft+confirm on every write. 14 tools. Requires a Luma Plus API key.
+- [joshuachestang/eventbrite-mcp-server](https://github.com/joshuachestang/eventbrite-mcp-server) [![joshuachestang/eventbrite-mcp-server MCP server](https://glama.ai/mcp/servers/joshuachestang/eventbrite-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/joshuachestang/eventbrite-mcp-server) 📇 ☁️ - Community MCP server for the Eventbrite API. Create and manage events, ticket classes, orders, and attendees on Eventbrite.
+- [socialloopai/socialloop-mcp](https://github.com/socialloopai/socialloop-mcp) 🎖️ ☁️ - Official remote MCP server for SocialLoop, the AI-native event platform. Create and publish events, sell tickets, manage guest lists, run affiliate programs and promo codes — the full event lifecycle from Claude, ChatGPT, Cursor, or any MCP client. Open no-login endpoint (`https://socialloop.ai/mcp`) or OAuth; listed in the official MCP Registry. Hosted Glama connector (no Dockerfile server listing): [socialloop-mcp](https://glama.ai/mcp/connectors/io.github.socialloopai/socialloop-mcp).
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
