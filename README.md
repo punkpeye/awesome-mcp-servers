@@ -2166,6 +2166,7 @@ Integration with gaming related data, game engines, and services
 - [tomholford/mcp-tic-tac-toe](https://github.com/tomholford/mcp-tic-tac-toe) 🏎️ 🏠 - Play Tic Tac Toe against an AI opponent using this MCP server.
 - [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) 📇 🏠 🍎 🪟 🐧 - Premium MCP server for Godot game engine with 84 tools for scene editing, scripting, animation, tilemap, shader, input simulation, and runtime debugging.
 - [HadiCherkaoui/crafty-mcp](https://github.com/HadiCherkaoui/crafty-mcp) [![HadiCherkaoui/crafty-mcp MCP server](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp) 📇 🏠 🍎 🪟 🐧 - MCP server for managing Minecraft servers through [Crafty Controller 4](https://craftycontrol.com). Start, stop, backup, send commands, manage files, schedules, webhooks, and users via the Crafty API.
+- [yO-oa/claude-unreal-support](https://github.com/yO-oa/claude-unreal-support) 🌊 🐍 🏠 🍎 🪟 - Control the Unreal Engine 5.7 / 5.8 editor from Claude Code or any MCP client — 16 hot-path MCP tools plus a bundled `cu` CLI reaching 486 editor commands across 23 categories (Blueprint, UMG, Niagara, Sequencer, materials, lighting, landscape, PCG, packaging). On UE 5.8 it can also mount its whole toolset onto Unreal's official MCP server. Commercial plugin (Fab), full source included.
 
 ### 🏥 <a name="health-and-wellness"></a>Health & Wellness
 
