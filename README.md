@@ -2280,3 +2280,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [ajfrai/givewell-donate](https://github.com/ajfrai/givewell-donate) 🏎️ ☁️ - Donate to GiveWell (evidence-backed global health charities) in BTC, ETH, and USDC. Three of five tools need no API key.
