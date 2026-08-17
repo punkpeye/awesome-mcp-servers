@@ -35,7 +35,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
-* [Build an AI Trading Agent with Eterna MCP](https://github.com/stevevstd-oss/eterna-mcp-agent-starter)
+* [stevevstd-oss/eterna-mcp-agent-starter](https://github.com/stevevstd-oss/eterna-mcp-agent-starter) 📇 - Tutorial starter repo: build an AI trading agent on Eterna Hybrid Exchange via Claude/MCP, the official CLI, and sandboxed TypeScript strategies.
 
 ## Community
 
