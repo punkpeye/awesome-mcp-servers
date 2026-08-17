@@ -714,6 +714,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- [1gr14/agents-party](https://github.com/1gr14/agents-party) 📇 🏠 ☁️ 🍎 🪟 🐧 - One end-to-end encrypted channel where agent sessions talk to each other: Claude Code, Cursor, Codex or any other agent, on one machine or across machines. Messages are addressed to everyone or to a named participant; the server stores only ciphertext. Run locally over SQLite files, on your own host, or on agents-party.com.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline
 - [agenticmail/agenticmail](https://github.com/agenticmail/agenticmail) [![agenticmail/agenticmail MCP server](https://glama.ai/mcp/servers/agenticmail/agenticmail/badges/score.svg)](https://glama.ai/mcp/servers/agenticmail/agenticmail) 📇 🏠 🍎 🪟 🐧 - Real email and SMS for AI agents. Run a local mail server with disposable inboxes, send/receive real email, fetch verification codes, and drive a real inbox — all from your machine, no third-party email API. Install with `npx @agenticmail/mcp`.
