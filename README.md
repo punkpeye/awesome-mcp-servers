@@ -3414,6 +3414,7 @@ Tools for converting text-to-speech and vice-versa
 - [supertone-inc/supertone-mcp](https://github.com/supertone-inc/supertone-mcp) [![supertone-inc/supertone-mcp MCP server](https://glama.ai/mcp/servers/supertone-inc/supertone-mcp/badges/score.svg)](https://glama.ai/mcp/servers/supertone-inc/supertone-mcp) 🐍 ☁️ 🍎 🪟 🐧 - High-quality Supertone TTS API: generate speech, search & preview the voice catalog, predict duration/cost, and clone voices. Korean, English, Japanese, and 20+ more languages. Install via `uvx supertone-mcp`.
 - [transcribe-app/mcp-transcribe](https://github.com/transcribe-app/mcp-transcribe) 📇 🏠 - This service provides fast and reliable transcriptions for audio/video files and voice memos. It allows LLMs to interact with the text content of audio/video file.
 - [ybouhjira/claude-code-tts](https://github.com/ybouhjira/claude-code-tts) 🏎️ ☁️ 🍎 🪟 🐧 - MCP server plugin for Claude Code that converts text to speech using OpenAI's TTS API. Features 6 voices, worker pool architecture, mutex-protected playback, and cross-platform support.
+- [zanezhao0708/voxagent](https://github.com/zanezhao0708/voxagent) 🐍 🏠 🍎 🪟 🐧 - Local-first voice I/O for coding agents: global push-to-talk dictation straight into `claude -p`, plus `listen`/`speak`/`ask_user` MCP tools for Claude Code, Cursor and any MCP client. Fully offline faster-whisper STT, edge-tts/CosyVoice TTS, no API keys. MIT.
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
