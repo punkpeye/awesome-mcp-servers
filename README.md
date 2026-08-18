@@ -2166,7 +2166,7 @@ Integration with gaming related data, game engines, and services
 - [tomholford/mcp-tic-tac-toe](https://github.com/tomholford/mcp-tic-tac-toe) 🏎️ 🏠 - Play Tic Tac Toe against an AI opponent using this MCP server.
 - [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) 📇 🏠 🍎 🪟 🐧 - Premium MCP server for Godot game engine with 84 tools for scene editing, scripting, animation, tilemap, shader, input simulation, and runtime debugging.
 - [HadiCherkaoui/crafty-mcp](https://github.com/HadiCherkaoui/crafty-mcp) [![HadiCherkaoui/crafty-mcp MCP server](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp) 📇 🏠 🍎 🪟 🐧 - MCP server for managing Minecraft servers through [Crafty Controller 4](https://craftycontrol.com). Start, stop, backup, send commands, manage files, schedules, webhooks, and users via the Crafty API.
-- [SteamGPTnet/steamgpt-mcp](https://github.com/SteamGPTnet/steamgpt-mcp) 🎖️ 📇 ☁️ - Steam profiles, SteamID conversion, VAC/game bans, FACEIT stats and friends. Free, no API key.
+- [SteamGPTnet/steamgpt-mcp](https://github.com/SteamGPTnet/steamgpt-mcp) 🎖️ 📇 ☁️ - Steam profiles, SteamID conversion, VAC/game bans, FACEIT stats and friends. Free, no API key. [![SteamGPTnet/steamgpt-mcp MCP server](https://glama.ai/mcp/servers/q1y6yl24ol/badges/score.svg)](https://glama.ai/mcp/servers/SteamGPTnet/steamgpt-mcp)
 
 ### 🏥 <a name="health-and-wellness"></a>Health & Wellness
 
