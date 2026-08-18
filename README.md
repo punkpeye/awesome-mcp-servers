@@ -2172,6 +2172,7 @@ Integration with gaming related data, game engines, and services
 Access health metrics, wellness data, and medical information through various health platforms.
 
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
+- [proscar87/oura-mcp](https://github.com/proscar87/oura-mcp) [![proscar87/oura-mcp MCP server](https://glama.ai/mcp/servers/proscar87/oura-mcp/badges/score.svg)](https://glama.ai/mcp/servers/proscar87/oura-mcp) 🐍 📇 🏠 ☁️ 🍎 🪟 🐧 - All 19 Oura Ring v2 collections in three tools, with no analysis done in the server. Paginates to exhaustion and reports the page count: one local day of heart rate is 1,231 samples across 2 pages, and a client that stops at the first returns 81% of them with nothing saying so. One-click `.mcpb` for Claude Desktop, and it runs on Oura's official sample data with no account.
 
 ### 🏠 <a name="home-automation"></a>Home Automation
 
