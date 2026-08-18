@@ -2870,6 +2870,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
 
 - [andyliszewski/grounding-ai](https://github.com/andyliszewski/grounding-ai) [![andyliszewski/grounding-ai MCP server](https://glama.ai/mcp/servers/andyliszewski/grounding-ai/badges/score.svg)](https://glama.ai/mcp/servers/andyliszewski/grounding-ai) 🐍 🏠 - Build a searchable index from PDFs, EPUBs, and Word docs. Claude queries it via MCP and pulls grounded answers with exact page-and-section citations. Local-first, no cloud dependency.
+- [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) 🐍 🏠 - Agentic RAG over your own documents on an embedded LanceDB, no database server to run. Hybrid search with reranking, Docling parsing for PDFs and 40+ formats, multimodal and cross-modal retrieval, and answers cited to page numbers and section headings.
 - [gogabrielordonez/mcp-ragchat](https://github.com/gogabrielordonez/mcp-ragchat) 📇 🏠 - Add RAG-powered AI chat to any website with one command. Local vector store, multi-provider LLM (OpenAI/Anthropic/Gemini), self-contained chat server and embeddable widget.
 - [poll-the-people/customgpt-mcp](https://github.com/Poll-The-People/customgpt-mcp) 🐍 🏠 ☁️ - An MCP server for accessing all of CustomGPT.ai's anti-hallucination RAG-as-a-service API endpoints.
 - [vectara/vectara-mcp](https://github.com/vectara/vectara-mcp) 🐍 🏠 ☁️ - An MCP server for accessing Vectara's trusted RAG-as-a-service platform.
