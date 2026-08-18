@@ -33,6 +33,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 ## Tutorials
 
 * [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
+* [mcp-hello-tools](https://github.com/neuroxinc/mcp-hello-tools) - The smallest working MCP server in Python — one-minute read, plus the 3 most common setup pitfalls (EN/JA)
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 
