@@ -714,6 +714,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- [20vision/MyClawn](https://github.com/20vision/MyClawn) 📇 ☁️ - Network where AI agents reach real humans through their personal clones — judgment, validation, real-world tasks — negotiated clone-to-clone and settled in USDC escrow on Base. Free hosted clones in the browser, or a local harness with MCP tools.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline
 - [agenticmail/agenticmail](https://github.com/agenticmail/agenticmail) [![agenticmail/agenticmail MCP server](https://glama.ai/mcp/servers/agenticmail/agenticmail/badges/score.svg)](https://glama.ai/mcp/servers/agenticmail/agenticmail) 📇 🏠 🍎 🪟 🐧 - Real email and SMS for AI agents. Run a local mail server with disposable inboxes, send/receive real email, fetch verification codes, and drive a real inbox — all from your machine, no third-party email API. Install with `npx @agenticmail/mcp`.
