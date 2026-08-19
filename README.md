@@ -1505,7 +1505,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [imqueue/mcp](https://github.com/imqueue/mcp) [![imqueue/mcp MCP server](https://glama.ai/mcp/servers/imqueue/mcp/badges/score.svg)](https://glama.ai/mcp/servers/imqueue/mcp) 📇 🏠 - Search @imqueue docs and scaffold typed services & clients for AI coding agents, access CLI and manage your service fleet.
 - [WCAG-Compliance/wcagc-mcp](https://github.com/WCAG-Compliance/wcagc-mcp) [![WCAG-Compliance/wcagc-mcp MCP server](https://glama.ai/mcp/servers/WCAG-Compliance/wcagc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/WCAG-Compliance/wcagc-mcp) 🎖️ 📇 ☁️ 🏠 - Deterministic axe-core accessibility scanning (WCAG 2.1 AA, EN 301 549, PDF/UA) through a [wcagc](https://wcagc.com) account: scan any public URL or PDF, crawl a whole registered site, replay saved multi-step journeys, and read violation trends. Returns structured findings — rule, severity counts and the success criteria involved — so the assistant reasons over real results rather than guessing from markup. Every scan result carries an automated-coverage disclaimer instead of a score or a pass/fail verdict. Hosted at `https://mcp.wcagc.com/mcp`, or run it locally with `npx -y @wcagc/mcp`.
 - [srbsa/diffgate](https://github.com/srbsa/diffgate) [![srbsa/diffgate MCP server](https://glama.ai/mcp/servers/srbsa/diffgate/badges/score.svg)](https://glama.ai/mcp/servers/srbsa/diffgate) 📇 🏠 🍎 🪟 🐧 - Deterministic guardrail for AI-written diffs, runnable from inside the coding agent's own loop over MCP. Zero-LLM-token, AST-precise rules (SQLi, SSRF, XXE, permissive CORS, prototype pollution, hardcoded secrets) across 8 languages, plus structural checks for reinvented helpers and over-abstraction — findings scoped to only the changed lines, same input always gives the same output, no false-block guarantee. `npm i -g diffgate-review` (registers as the `diffgate` command; `diffgate mcp` starts the server)
-- [x402 Digital Vending Machine](https://x402digitalvendingmachine.store) - Production-grade text-cleanup MCP target for AI agents. `0.002` USDC per call via `x402 v2` on Solana. Works as a one-call server mapping for whitespace normalization tasks.
+- [x402 Digital Vending Machine](https://github.com/woodhouseog/x402-digital-vending-machine) - Production-grade text-cleanup MCP target for AI agents. `0.002` USDC per call via `x402 v2` on Solana. Works as a one-call server mapping for whitespace normalization tasks.
 
 ```json
 {
@@ -1514,7 +1514,7 @@ Tools and integrations that enhance the development workflow and environment man
       "command": "python3",
       "args": [
         "-c",
-        "import urllib.request, json, sys; res = urllib.request.urlopen(urllib.request.Request('https://x402digitalvendingmachine.store', data=json.dumps({'text': sys.argv[1]}).encode(), headers={'content-type': 'application/json'})); print(res.read().decode())"
+        "import urllib.request, json, sys; res = urllib.request.urlopen(urllib.request.Request('https://github.com/woodhouseog/x402-digital-vending-machine', data=json.dumps({'text': sys.argv[1]}).encode(), headers={'content-type': 'application/json'})); print(res.read().decode())"
       ],
       "env": {
         "X402_NETWORK": "solana:mainnet",
