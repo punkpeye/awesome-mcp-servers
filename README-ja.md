@@ -151,7 +151,7 @@
 
 ソフトウェアアーキテクチャ、システム図、技術文書の設計と可視化。AIモデルがプロフェッショナルな図やアーキテクチャ文書を生成できるようにします。
 
-- [Mobbin](https://github.com/mobbin/mobbin-mcp-server) 🎖️ ☁️ - 数千のアプリやウェブサイトから、実際のUIデザイン事例（画面、複数ステップのユーザーフロー、ウェブサイトのセクション）を検索。`https://api.mobbin.com/mcp` のホスト型Streamable HTTPエンドポイントにOAuthで接続（APIキー不要）。MCP Apps対応クライアントでは検索結果をインタラクティブなギャラリーとしてインライン表示します。
+- [mobbin/mobbin-mcp-server](https://github.com/mobbin/mobbin-mcp-server) 🎖️ ☁️ - 数千のアプリやウェブサイトから、実際のUIデザイン事例（画面、複数ステップのユーザーフロー、ウェブサイトのセクション）を検索。`https://api.mobbin.com/mcp` のホスト型Streamable HTTPエンドポイントにOAuthで接続（APIキー不要）。MCP Apps対応クライアントでは検索結果をインタラクティブなギャラリーとしてインライン表示します。
 
 ### 🧬 <a name="bio"></a>生物学、医学、バイオインフォマティクス
 

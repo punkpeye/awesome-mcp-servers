@@ -142,7 +142,7 @@
 
 소프트웨어 아키텍처, 시스템 다이어그램, 기술 문서를 설계하고 시각화합니다. AI 모델이 전문적인 다이어그램과 아키텍처 문서를 생성할 수 있도록 합니다.
 
-- [Mobbin](https://github.com/mobbin/mobbin-mcp-server) 🎖️ ☁️ - 수천 개의 앱과 웹사이트에서 실제 UI 디자인 사례(화면, 다단계 사용자 플로우, 웹사이트 섹션)를 검색합니다. `https://api.mobbin.com/mcp`의 호스팅형 Streamable HTTP 엔드포인트에 OAuth로 연결하며(API 키 불필요), MCP Apps를 지원하는 클라이언트에서는 결과를 인터랙티브 갤러리로 인라인 표시합니다.
+- [mobbin/mobbin-mcp-server](https://github.com/mobbin/mobbin-mcp-server) 🎖️ ☁️ - 수천 개의 앱과 웹사이트에서 실제 UI 디자인 사례(화면, 다단계 사용자 플로우, 웹사이트 섹션)를 검색합니다. `https://api.mobbin.com/mcp`의 호스팅형 Streamable HTTP 엔드포인트에 OAuth로 연결하며(API 키 불필요), MCP Apps를 지원하는 클라이언트에서는 결과를 인터랙티브 갤러리로 인라인 표시합니다.
 
 ### 🧬 <a name="bio"></a>생물학, 의학 및 생물정보학
 

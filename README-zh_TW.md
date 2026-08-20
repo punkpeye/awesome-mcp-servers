@@ -141,7 +141,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 設計並視覺化軟體架構、系統圖與技術文件，讓 AI 模型能夠產生專業的圖表與架構文件。
 
-- [Mobbin](https://github.com/mobbin/mobbin-mcp-server) 🎖️ ☁️ - 從數千個應用程式與網站中搜尋真實的 UI 設計參考——包括畫面、多步驟使用者流程與網站區塊。託管的 Streamable HTTP 端點 `https://api.mobbin.com/mcp`，使用 OAuth 授權（無需 API 金鑰）；在支援 MCP Apps 的用戶端中以互動式圖庫內嵌顯示結果。
+- [mobbin/mobbin-mcp-server](https://github.com/mobbin/mobbin-mcp-server) 🎖️ ☁️ - 從數千個應用程式與網站中搜尋真實的 UI 設計參考——包括畫面、多步驟使用者流程與網站區塊。託管的 Streamable HTTP 端點 `https://api.mobbin.com/mcp`，使用 OAuth 授權（無需 API 金鑰）；在支援 MCP Apps 的用戶端中以互動式圖庫內嵌顯示結果。
 
 ### ☁️ <a name="cloud-platforms"></a>雲平台
 
