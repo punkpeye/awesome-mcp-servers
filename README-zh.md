@@ -463,6 +463,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 访问法律信息、法规和法律数据库。使 AI 模型能够搜索和分析法律文件和监管信息。
 
+- [AchieSun/stdflow-mcp](https://github.com/AchieSun/stdflow-mcp) 📇 ☁️ - 面向 AI Agent 的中国国家标准知识库：GB/GB-T/GB-Z 标准全文检索、法律效力、规范性引用链、版本历史。远程服务端点 https://stdflow.com/mcp
 - [JamesANZ/us-legal-mcp](https://github.com/JamesANZ/us-legal-mcp) 📇 ☁️ - 一个提供全面美国法规的 MCP 服务器。
 
 ### 🗺️ <a name="location-services"></a>位置服务
