@@ -156,7 +156,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 设计并可视化软件架构、系统图和技术文档，让 AI 模型能够生成专业的图表与架构文档。
 
-- [Mobbin](https://mobbin.com/mcp) 🎖️ ☁️ - 从数千个应用和网站中搜索真实的 UI 设计参考——包括界面、多步骤用户流程和网站区块。托管的 Streamable HTTP 端点 `https://api.mobbin.com/mcp`，使用 OAuth 授权（无需 API 密钥）；在支持 MCP Apps 的客户端中以交互式画廊内联展示结果。
+- [Mobbin](https://github.com/mobbin/mobbin-mcp-server) 🎖️ ☁️ - 从数千个应用和网站中搜索真实的 UI 设计参考——包括界面、多步骤用户流程和网站区块。托管的 Streamable HTTP 端点 `https://api.mobbin.com/mcp`，使用 OAuth 授权（无需 API 密钥）；在支持 MCP Apps 的客户端中以交互式画廊内联展示结果。
 
 ### 🧬 <a name="bio"></a>生物学、医学和生物信息学
 

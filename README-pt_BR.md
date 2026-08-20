@@ -140,7 +140,7 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 
 Projete e visualize arquitetura de software, diagramas de sistema e documentação técnica. Permite que modelos de IA gerem diagramas profissionais e documentação de arquitetura.
 
-- [Mobbin](https://mobbin.com/mcp) 🎖️ ☁️ - Pesquise referências reais de design de interface — telas, fluxos de usuário de várias etapas e seções de sites — de milhares de aplicativos e sites. Endpoint hospedado de Streamable HTTP em `https://api.mobbin.com/mcp` com OAuth (sem chave de API) e galeria interativa dos resultados exibida inline em clientes com suporte a MCP Apps.
+- [Mobbin](https://github.com/mobbin/mobbin-mcp-server) 🎖️ ☁️ - Pesquise referências reais de design de interface — telas, fluxos de usuário de várias etapas e seções de sites — de milhares de aplicativos e sites. Endpoint hospedado de Streamable HTTP em `https://api.mobbin.com/mcp` com OAuth (sem chave de API) e galeria interativa dos resultados exibida inline em clientes com suporte a MCP Apps.
 
 ### 🧬 <a name="biologia-medicina-bioinformatica"></a>Biologia, Medicina e Bioinformática
 
