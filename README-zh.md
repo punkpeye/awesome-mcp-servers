@@ -82,6 +82,7 @@
 * 🔗 - [Aggregators](#aggregators)
 * 📂 - [浏览器自动化](#browser-automation)
 * 🎨 - [艺术与文化](#art-and-culture)
+* 📐 - [架构与设计](#architecture-and-design)
 * 🧬 - [生物学、医学和生物信息学](#bio)
 * ☁️ - [云平台](#cloud-platforms)
 * 🤖 - [编程智能体](#coding-agents)
@@ -150,6 +151,12 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 荷兰国立博物馆 API 集成，支持艺术品搜索、详情查询和收藏品浏览
 - [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - 使用 Google Gemini（Nano Banana 2 / Pro）生成图像素材的本地 MCP 服务器。支持透明 PNG/WebP 输出、精确缩放/裁剪、最多 14 张参考图，以及 Google Search grounding。
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 集成 AniList API 获取动画和漫画信息的 MCP 服务器
+
+### 📐 <a name="architecture-and-design"></a>架构与设计
+
+设计并可视化软件架构、系统图和技术文档，让 AI 模型能够生成专业的图表与架构文档。
+
+- [Mobbin](https://mobbin.com/mcp) 🎖️ ☁️ - 从数千个应用和网站中搜索真实的 UI 设计参考——包括界面、多步骤用户流程和网站区块。托管的 Streamable HTTP 端点 `https://api.mobbin.com/mcp`，使用 OAuth 授权（无需 API 密钥）；在支持 MCP Apps 的客户端中以交互式画廊内联展示结果。
 
 ### 🧬 <a name="bio"></a>生物学、医学和生物信息学
 

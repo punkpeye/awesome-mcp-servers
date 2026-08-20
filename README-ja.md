@@ -73,6 +73,7 @@
 
 * 🔗 - [アグリゲーター](#aggregators)
 * 🎨 - [芸術と文化](#art-and-culture)
+* 📐 - [アーキテクチャと設計](#architecture-and-design)
 * 🧬 - [生物学、医学、バイオインフォマティクス](#bio)
 * 📂 - [ブラウザ自動化](#browser-automation)
 * ☁️ - [クラウドプラットフォーム](#cloud-platforms)
@@ -145,6 +146,12 @@
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 ☁️ - AIアシスタントが書籍情報を検索できるOpen Library API用MCPサーバー
 - [PatrickPalmer/MayaMCP](https://github.com/PatrickPalmer/MayaMCP) 🐍 🏠 - Autodesk Maya用MCPサーバー
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 包括的で正確な八字（四柱推命）の命式作成と占い情報を提供
+
+### 📐 <a name="architecture-and-design"></a>アーキテクチャと設計
+
+ソフトウェアアーキテクチャ、システム図、技術文書の設計と可視化。AIモデルがプロフェッショナルな図やアーキテクチャ文書を生成できるようにします。
+
+- [Mobbin](https://mobbin.com/mcp) 🎖️ ☁️ - 数千のアプリやウェブサイトから、実際のUIデザイン事例（画面、複数ステップのユーザーフロー、ウェブサイトのセクション）を検索。`https://api.mobbin.com/mcp` のホスト型Streamable HTTPエンドポイントにOAuthで接続（APIキー不要）。MCP Apps対応クライアントでは検索結果をインタラクティブなギャラリーとしてインライン表示します。
 
 ### 🧬 <a name="bio"></a>生物学、医学、バイオインフォマティクス
 

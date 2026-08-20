@@ -71,6 +71,7 @@
 
 * 🔗 - [รวบรวม](#aggregators)
 * 🎨 - [ศิลปะและวัฒนธรรม](#art-and-culture)
+* 📐 - [สถาปัตยกรรมและการออกแบบ](#architecture-and-design)
 * 🧬 - [ชีววิทยา การแพทย์ และไบโออินฟอร์เมติกส์](#bio)
 * 📂 - [การทำงานอัตโนมัติของเบราว์เซอร์](#browser-automation)
 * ☁️ - [แพลตฟอร์มคลาวด์](#cloud-platforms)
@@ -122,6 +123,12 @@
 - [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP แบบโลคัลสำหรับสร้างแอสเซ็ตรูปภาพด้วย Google Gemini (Nano Banana 2 / Pro) รองรับเอาต์พุต PNG/WebP แบบโปร่งใส การปรับขนาด/ครอบภาพอย่างแม่นยำ รูปอ้างอิงได้สูงสุด 14 รูป และการอ้างอิงข้อมูลด้วย Google Search
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่ผสานรวม AniList API สำหรับข้อมูลอนิเมะและมังงะ
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - ให้บริการจัดทำแผนภูมิปาจื้อ (八字) และการวิเคราะห์ที่ครอบคลุมและแม่นยำ
+
+### 📐 <a name="architecture-and-design"></a>สถาปัตยกรรมและการออกแบบ
+
+ออกแบบและแสดงภาพสถาปัตยกรรมซอฟต์แวร์ ไดอะแกรมระบบ และเอกสารทางเทคนิค ช่วยให้โมเดล AI สร้างไดอะแกรมและเอกสารสถาปัตยกรรมระดับมืออาชีพได้
+
+- [Mobbin](https://mobbin.com/mcp) 🎖️ ☁️ - ค้นหาตัวอย่างการออกแบบ UI จริง — หน้าจอ โฟลว์การใช้งานแบบหลายขั้นตอน และส่วนต่าง ๆ ของเว็บไซต์ — จากแอปและเว็บไซต์หลายพันแห่ง ใช้เอนด์พอยต์ Streamable HTTP ที่โฮสต์ไว้ที่ `https://api.mobbin.com/mcp` ด้วย OAuth (ไม่ต้องใช้ API key) และแสดงผลลัพธ์เป็นแกลเลอรีแบบอินเทอร์แอกทีฟในไคลเอนต์ที่รองรับ MCP Apps
 
 ### 🧬 ชีววิทยา การแพทย์ และไบโออินฟอร์เมติกส์
 

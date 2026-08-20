@@ -72,6 +72,7 @@
 * 🔗 - [Aggregators](#aggregators)
 * 📂 - [브라우저 자동화](#browser-automation)
 * 🎨 - [예술 및 문화](#art-and-culture)
+* 📐 - [아키텍처 및 설계](#architecture-and-design)
 * 🧬 - [생물학, 의학 및 생물정보학](#bio)
 * ☁️ - [클라우드 플랫폼](#cloud-platforms)
 * 🖥️ - [커맨드 라인](#command-line)
@@ -136,6 +137,12 @@
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 작품 검색, 세부 정보 및 컬렉션을 위한 Rijksmuseum API 통합
 - [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - Google Gemini(Nano Banana 2 / Pro)로 이미지 에셋을 생성하는 로컬 MCP 서버. 투명 PNG/WebP 출력, 정확한 리사이즈/크롭, 최대 14개의 참조 이미지, Google Search 그라운딩을 지원합니다.
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 애니메이션 및 만화 정보를 위한 AniList API를 통합하는 MCP 서버
+
+### 📐 <a name="architecture-and-design"></a>아키텍처 및 설계
+
+소프트웨어 아키텍처, 시스템 다이어그램, 기술 문서를 설계하고 시각화합니다. AI 모델이 전문적인 다이어그램과 아키텍처 문서를 생성할 수 있도록 합니다.
+
+- [Mobbin](https://mobbin.com/mcp) 🎖️ ☁️ - 수천 개의 앱과 웹사이트에서 실제 UI 디자인 사례(화면, 다단계 사용자 플로우, 웹사이트 섹션)를 검색합니다. `https://api.mobbin.com/mcp`의 호스팅형 Streamable HTTP 엔드포인트에 OAuth로 연결하며(API 키 불필요), MCP Apps를 지원하는 클라이언트에서는 결과를 인터랙티브 갤러리로 인라인 표시합니다.
 
 ### 🧬 <a name="bio"></a>생물학, 의학 및 생물정보학
 

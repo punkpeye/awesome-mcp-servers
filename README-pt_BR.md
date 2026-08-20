@@ -74,6 +74,7 @@ Confira [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 
 
 * 🔗 - [Agregadores](#agregadores)
 * 🎨 - [Arte e Cultura](#arte-e-cultura)
+* 📐 - [Arquitetura & Design](#arquitetura-e-design)
 * 🧬 - [Biologia, Medicina e Bioinformática](#biologia-medicina-bioinformatica)
 * 📂 - [Automação de Navegadores](#automação-de-navegadores)
 * ☁️ - [Plataformas em Nuvem](#plataformas-em-nuvem)
@@ -134,6 +135,12 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - Um servidor MCP integrando a API do AniList para informações sobre anime e mangá
 - [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - Servidor MCP usando a API do Aseprite para criar pixel art
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - Fornece análises abrangentes e precisas de Bazi (Quatro Pilares do Destino)
+
+### 📐 <a name="arquitetura-e-design"></a>Arquitetura & Design
+
+Projete e visualize arquitetura de software, diagramas de sistema e documentação técnica. Permite que modelos de IA gerem diagramas profissionais e documentação de arquitetura.
+
+- [Mobbin](https://mobbin.com/mcp) 🎖️ ☁️ - Pesquise referências reais de design de interface — telas, fluxos de usuário de várias etapas e seções de sites — de milhares de aplicativos e sites. Endpoint hospedado de Streamable HTTP em `https://api.mobbin.com/mcp` com OAuth (sem chave de API) e galeria interativa dos resultados exibida inline em clientes com suporte a MCP Apps.
 
 ### 🧬 <a name="biologia-medicina-bioinformatica"></a>Biologia, Medicina e Bioinformática
 
