@@ -73,7 +73,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
-* 🔗 - [Aggregators](#aggregators)
+* 🔗 - [Aggregators](#aggregators)- [nohosa001-pixel/x402-cleanweb-agent](https://github.com/nohosa001-pixel/x402-cleanweb-agent) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Autonomous Web3 x402 micropayment MCP suite on Polygon for clean web markdown, batch scraping, YouTube transcripts, and PDF papers. Install: `uvx x402-cleanweb-agent` or `pip install x402-cleanweb-agent`.
+
 * 🤝 - [Agreements & Coordination](#agreements--coordination)
 * 🎨 - [Art & Culture](#art-and-culture)
 * 📐 - [Architecture & Design](#architecture-and-design)
