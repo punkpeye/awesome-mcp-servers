@@ -120,6 +120,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🏃 - [Sports](#sports)
 * 🎧 - [Support & Service Management](#support-and-service-management)
 * 🌎 - [Translation Services](#translation-services)
+* ✍️ - [Text Analysis & Proofreading](#text-analysis-and-proofreading)
 * 🎧 - [Text-to-Speech](#text-to-speech)
 * 🎙️ - [Speech-to-Text](#speech-to-text)
 * 🚆 - [Travel & Transportation](#travel-and-transportation)
@@ -3402,6 +3403,12 @@ Translation tools and services to enable AI assistants to translate content betw
 - [eviscerations/whisper-windows-mcp](https://github.com/eviscerations/whisper-windows-mcp) [![eviscerations/whisper-windows-mcp MCP server](https://glama.ai/mcp/servers/eviscerations/whisper-windows-mcp/badges/score.svg)](https://glama.ai/mcp/servers/eviscerations/whisper-windows-mcp) 📇 🏠 🪟 - Windows-native local audio and video transcription using whisper.cpp with Vulkan GPU acceleration. No cloud APIs, no Python. Batch processing, multilingual support, model management, and background job handling built in.
 - [ankurmans/pepys-mcp](https://github.com/ankurmans/pepys-mcp) [![ankurmans/pepys-mcp MCP server](https://glama.ai/mcp/servers/ankurmans/pepys-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ankurmans/pepys-mcp) 📇 ☁️ 🏠 - Pay-once transcription for audio, video, and whole podcast feeds via [Pepys](https://pepys.co). Transcribe a file or a pasted YouTube/podcast link, get speaker diarization, export SRT/VTT, search a transcript, and check credit balance. Hosted connector (OAuth, no API key) or `npx pepys-mcp`. 99+ languages.
 - [spokenmd/spoken](https://github.com/spokenmd/spoken) [![spokenmd/spoken MCP server](https://glama.ai/mcp/servers/spokenmd/spoken/badges/score.svg)](https://glama.ai/mcp/servers/spokenmd/spoken) 📇 ☁️ - Fetch published podcast transcripts as clean Markdown with real speaker names (not "Speaker 1") via the [Spoken](https://spoken.md) API. Search episodes, get transcripts, check credit balance.
+
+### ✍️ <a name="text-analysis-and-proofreading"></a>Text Analysis & Proofreading
+
+Linguistic analysis, grammar and spelling correction, and other text-quality tooling.
+
+- [gih2yun/bareun-mcp](https://github.com/gih2yun/bareun-mcp) [![gih2yun/bareun-mcp MCP server](https://glama.ai/mcp/servers/gih2yun/bareun-mcp/badges/score.svg)](https://glama.ai/mcp/servers/gih2yun/bareun-mcp) 🎖️ ☁️ - Korean morphological analysis (47-tag POS tagging, tokenization, homograph sense disambiguation) and spelling/spacing correction via the Bareun (바른) engine. Hosted streamable-HTTP endpoint at https://api.bareun.ai/mcp with api-key auth; self-hosted installs expose the same tools.
 
 ### 🎧 <a name="text-to-speech"></a>Text-to-Speech
 
