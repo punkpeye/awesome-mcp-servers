@@ -2812,6 +2812,7 @@ auto-download. Install via `npx atlassian-trello-mcp`.
 - [mohamed-ashraf-elsaed/loupe](https://github.com/mohamed-ashraf-elsaed/loupe) [![mohamed-ashraf-elsaed/loupe MCP server](https://glama.ai/mcp/servers/mohamed-ashraf-elsaed/loupe/badges/score.svg)](https://glama.ai/mcp/servers/mohamed-ashraf-elsaed/loupe) 🎖️ 📇 🏠 - Turns pinned visual product feedback into an actionable backlog: list comments, read one with its target element's HTML, computed styles and screenshot, and update its status. Powers the [Loupe](https://mohamed-ashraf-elsaed.github.io/loupe/) SDK, browser extension, and `loupekit/laravel` package. Install `@loupekit/mcp` (binary `loupe-mcp`).
 
 ### 🏠 <a name="real-estate"></a>Real Estate
+- [easakura/japan-real-estate-mcp](https://github.com/easakura/japan-real-estate-mcp) [![easakura/japan-real-estate-mcp MCP server](https://glama.ai/mcp/servers/easakura/japan-real-estate-mcp/badges/score.svg)](https://glama.ai/mcp/servers/easakura/japan-real-estate-mcp) 📇 ☁️ - Japanese real-estate actual transaction prices and official land prices (official MLIT Reinfolib data): search by area, period, and property type, with published land-price reference points.
 
 MCP servers for real estate CRM, property management, and agent workflows.
 
