@@ -47,4 +47,3 @@ Contributions are welcome and encouraged!  Whether you're fixing a typo, adding 
 * **Clear descriptions:** Write concise and informative descriptions for each server.  Explain what the server does and what its key features are.
 
 Thank you for contributing!
-<!-- pocket-drives-sync -->
