@@ -1526,6 +1526,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
 
+- [inity13/decisionmatrix-mcp](https://github.com/inity13/decisionmatrix-mcp) [![inity13/decisionmatrix-mcp MCP server](https://glama.ai/mcp/servers/inity13/decisionmatrix-mcp/badges/score.svg)](https://glama.ai/mcp/servers/inity13/decisionmatrix-mcp) 📇 ☁️ - Deterministic multi-criteria decision analysis (MCDA): score, rank & explain options against weighted criteria with weighted-sum, weighted-product, or TOPSIS, plus sensitivity analysis (which weights would flip the winner). Exact decimals, stateless. Free hosted endpoint or self-host (MIT). `https://decisionmatrix-mcp.pages.dev/mcp`
 - [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - The ultimate math engine unifying SymPy, NumPy & Matplotlib in one powerful server. Perfect for developers & researchers needing symbolic algebra, numerical computing, and data visualization.
 - [Archerkattri/mathlas](https://github.com/Archerkattri/mathlas) [![Archerkattri/mathlas MCP server](https://glama.ai/mcp/servers/Archerkattri/mathlas/badges/score.svg)](https://glama.ai/mcp/servers/Archerkattri/mathlas) 🐍 🏠 - Airtight math for agents: 3.7M-theorem search, PSLQ constant ID, OEIS, real Lean kernel checks, applicability checklists. No LLM inside, no API key.
 - [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp) 🐍 ☁️ - Connects to Kaggle, ability to download and analyze datasets.
