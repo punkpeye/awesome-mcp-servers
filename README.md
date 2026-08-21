@@ -710,6 +710,8 @@ Run commands, capture output and otherwise interact with shells and command line
 - [blinkingbit-oss/execkit](https://github.com/blinkingbit-oss/execkit) [![blinkingbit-oss/execkit MCP server](https://glama.ai/mcp/servers/blinkingbit-oss/execkit/badges/score.svg)](https://glama.ai/mcp/servers/blinkingbit-oss/execkit) 🦀 🏠 🍎 🐧 - Stateful, structured, auditable shell sessions for AI agents over local, SSH, and Docker. Secret redaction, output budgeting, SSH host-key verification, and a loopback read-only browser viewer that streams the live transcript.
 - [Easton-OU/rootpilot-mcp](https://github.com/Easton-OU/rootpilot-mcp) [![Easton-OU/rootpilot-mcp MCP server](https://glama.ai/mcp/servers/Easton-OU/rootpilot-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Easton-OU/rootpilot-mcp) 📇 🏠 🍎 🪟 🐧 - Safe, read-only SSH diagnostics for Linux/Docker servers: a fixed 38-command whitelist (no arbitrary execution), secret redaction, per-command timeouts. Collects evidence; your model does the reasoning. `npx @rootpilot/mcp-ssh-diagnose`
 
+- [mwl313/KatokMCP](https://github.com/mwl313/KatokMCP) 📇 🏠 🍎 🪟 🐧 - KakaoTalk (Korea #1 messenger) MCP Server. AI assistant (Claude/OpenClaw) can read chats, list rooms, send messages, and manage members. One-time phone auth, token caching. Install: `npm install -g @katok-mcp/mcp-server && katok-mcp setup` [![mwl313/KatokMCP MCP server](https://glama.ai/mcp/servers/mwl313/KatokMCP/badges/score.svg)](https://glama.ai/mcp/servers/mwl313/KatokMCP)
+
 ### 💬 <a name="communication"></a>Communication
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
