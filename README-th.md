@@ -199,7 +199,7 @@
 - [OpenDataMCP/OpenDataMCP](https://github.com/OpenDataMCP/OpenDataMCP) 🐍 ☁️ - เชื่อมต่อข้อมูลเปิดใดๆ กับ LLM ใดๆ ด้วย Model Context Protocol
 - [@antv/mcp-server-chart](https://github.com/antvis/mcp-server-chart) 🎖️ 📇 ☁️ - ปลั๊กอินสำหรับ MCP Server ที่สร้างขึ้นเพื่อสร้างแผนภูมิการมองเห็นข้อมูลโดยใช้ [AntV](https://github.com/antvis)
 - [hustcc/mcp-echarts](https://github.com/hustcc/mcp-echarts) 📇 🏠 - AI สร้างแผนภูมิการมองเห็นที่เขียนด้วยไวยากรณ์ของ [Apache ECharts](https://echarts.apache.org) แบบไดนามิก MCP
-- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - AI สร้างแผนภูมิที่มองเห็นได้แบบไดนามิกโดยใช้ไวยากรณ์ของ [Mermaid](ttps://mermaid.js.org/) MCP
+- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) 📇 🏠 - AI สร้างแผนภูมิที่มองเห็นได้แบบไดนามิกโดยใช้ไวยากรณ์ของ [Mermaid](https://mermaid.js.org/) MCP
 
 ### 🗄️ ฐานข้อมูล
 
@@ -309,7 +309,7 @@
 - [joshuarileydev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server) 📇 🏠 - เซิร์ฟเวอร์ MCP เพื่อควบคุม iOS Simulators
 - [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) [![Kapeli/dash-mcp-server MCP server](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server) 🐍 🏠 🍎 - เซิร์ฟเวอร์ MCP สำหรับ [Dash](https://kapeli.com/dash) แอปเรียกดูเอกสาร API บน macOS ค้นหาทันทีในชุดเอกสารกว่า 200 ชุด
 - [lamemind/mcp-server-multiverse](https://github.com/lamemind/mcp-server-multiverse) 📇 🏠 🛠️ - เซิร์ฟเวอร์มิดเดิลแวร์ที่ช่วยให้อินสแตนซ์ที่แยกจากกันหลายอินสแตนซ์ของเซิร์ฟเวอร์ MCP เดียวกันสามารถอยู่ร่วมกันได้อย่างอิสระด้วยเนมสเปซและการกำหนดค่าที่ไม่ซ้ำกัน
-- [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) 🐍 🏠 - เซิร์ฟเวอร์ MCP เพื่อเข้าถึงและจัดการพรอมต์แอปพลิเคชัน LLM ที่สร้างด้วย [Langfuse]([https://langfuse.com/](https://langfuse.com/docs/prompts/get-started)) Prompt Management
+- [langfuse/mcp-server-langfuse](https://github.com/langfuse/mcp-server-langfuse) 🐍 🏠 - เซิร์ฟเวอร์ MCP เพื่อเข้าถึงและจัดการพรอมต์แอปพลิเคชัน LLM ที่สร้างด้วย [Langfuse](https://langfuse.com/docs/prompts/get-started) Prompt Management
 - [mrexodia/user-feedback-mcp](https://github.com/mrexodia/user-feedback-mcp) 🐍 🏠 - เซิร์ฟเวอร์ MCP อย่างง่ายเพื่อเปิดใช้งานเวิร์กโฟลว์ human-in-the-loop ในเครื่องมือเช่น Cline และ Cursor
 - [OctoMind-dev/octomind-mcp](https://github.com/OctoMind-dev/octomind-mcp) - 📇 ☁️ ให้ตัวแทน AI ที่คุณต้องการสร้างและรันการทดสอบ end-to-end ของ [Octomind](https://www.octomind.dev/) ที่จัดการเต็มรูปแบบจากโค้ดเบสของคุณหรือแหล่งข้อมูลอื่นๆ เช่น Jira, Slack หรือ TestRail
 - [pskill9/website-downloader](https://github.com/pskill9/website-downloader) 🗄️ 🚀 - เซิร์ฟเวอร์ MCP นี้มีเครื่องมือสำหรับดาวน์โหลดเว็บไซต์ทั้งหมดโดยใช้ wget มันรักษาโครงสร้างเว็บไซต์และแปลงลิงก์ให้ทำงานในเครื่อง
