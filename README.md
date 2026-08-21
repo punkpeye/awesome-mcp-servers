@@ -1524,6 +1524,8 @@ Tools and integrations that enhance the development workflow and environment man
   
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
+| [scomp-link](https://github.com/GiacomoSaccaggi/scomp_link) | End-to-end ML toolkit: train, tune, validate, detect drift/anomalies, forecast, check fairness, generate HTML reports with 39 chart types, serve models as REST API. | [Giacomo Saccaggi](https://github.com/GiacomoSaccaggi) |
+
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
 
 - [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - The ultimate math engine unifying SymPy, NumPy & Matplotlib in one powerful server. Perfect for developers & researchers needing symbolic algebra, numerical computing, and data visualization.
