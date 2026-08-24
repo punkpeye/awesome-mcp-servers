@@ -2172,6 +2172,7 @@ Integration with gaming related data, game engines, and services
 Access health metrics, wellness data, and medical information through various health platforms.
 
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
+- [neiltron/apple-health-mcp](https://github.com/neiltron/apple-health-mcp) [![neiltron/apple-health-mcp MCP server](https://glama.ai/mcp/servers/neiltron/apple-health-mcp/badges/score.svg)](https://glama.ai/mcp/servers/neiltron/apple-health-mcp) 📇 🏠 🍎 🪟 🐧 - Ask questions across years of Apple Health data with read-only SQL; the export stays on your machine.
 
 ### 🏠 <a name="home-automation"></a>Home Automation
 
