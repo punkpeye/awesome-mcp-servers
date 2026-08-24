@@ -3820,3 +3820,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [vikash-b5/rookery-mcp](https://github.com/vikash-b5/rookery/tree/main/rookery-mcp) 🐍 🏠 🍎 🪟 🐧 - The Rookery's MCP server: 9 free, fully-offline utility tools (base64, uuid, json validate, sha hash, timestamps, url codec, case convert, secure passwords) - no API keys, no tracking, works offline. Stdlib-only stdio transport. Install: `uvx --from git+https://github.com/vikash-b5/rookery -- rookery-mcp`.
