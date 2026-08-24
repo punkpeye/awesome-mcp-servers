@@ -98,7 +98,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🛒 - [E-Commerce](#e-commerce)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
-* 💰 - [Finance & Fintech](#finance--fintech)
+* 💰 - [Finance & Fintech](#finance--fintech)- [sbanerjee1875/Financegenius.ai](https://github.com/sbanerjee1875/Financegenius.ai) 🐍 ☁️ - India's financial marketplace: search Indian credit cards, loans, FDs, insurance and mutual funds, run EMI/SIP/CAGR/income-tax calculators, and look up AMFI NAVs. Unbiased — no institution pays to be listed or ranked.
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
 * 🏭 - [Industrial & IoT](#industrial--iot)
