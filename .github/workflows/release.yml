@@ -1,0 +1,61 @@
+name: Weekly Release
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Every Monday at 00:00 UTC
+  workflow_dispatch: # Allow manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for changes since last release
+        id: changes
+        run: |
+          LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "")
+          if [ -z "$LATEST_TAG" ]; then
+            echo "No previous release found, will create first release"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            CHANGES=$(git log "${LATEST_TAG}..HEAD" --oneline)
+            if [ -z "$CHANGES" ]; then
+              echo "No changes since last release"
+              echo "has_changes=false" >> $GITHUB_OUTPUT
+            else
+              echo "Changes found since $LATEST_TAG"
+              echo "has_changes=true" >> $GITHUB_OUTPUT
+            fi
+          fi
+
+      - name: Generate CalVer tag
+        if: steps.changes.outputs.has_changes == 'true'
+        id: calver
+        run: |
+          BASE_TAG=$(date +%Y.%m.%d)
+
+          # Check if tag already exists and increment if needed
+          COUNTER=0
+          TAG="$BASE_TAG"
+          while git rev-parse "$TAG" >/dev/null 2>&1; do
+            COUNTER=$((COUNTER + 1))
+            TAG="${BASE_TAG}.${COUNTER}"
+          done
+
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
+
+      - name: Create Release
+        if: steps.changes.outputs.has_changes == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.calver.outputs.tag }}
+          name: Release ${{ steps.calver.outputs.tag }}
+          generate_release_notes: true
+          make_latest: true
