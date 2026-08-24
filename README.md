@@ -2191,6 +2191,7 @@ Control smart home devices, home network equipment, and automation systems.
 Connect AI agents to industrial equipment, machinery, and operational technology (OT) — telemetry ingestion, monitoring, and control across manufacturing and factory-floor protocols.
 
 - [FoundryNet/forge-mcp](https://github.com/FoundryNet/forge-mcp) 🐍 ☁️ - Industrial AI infrastructure that connects any AI agent to industrial equipment: 14 protocols, 18 manufacturers, 30 tools, cross-OEM telemetry normalization, health index, and failure prediction. The first physical-world MCP server. Free tier available. ([Smithery](https://smithery.ai/server/@foundrynet/forge)) [![FoundryNet/forge-mcp MCP server](https://glama.ai/mcp/servers/FoundryNet/forge-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FoundryNet/forge-mcp)
+- [M-Heath-Consulting/etim-json](https://github.com/M-Heath-Consulting/etim-json) 📇 🏠 - The ETIM classification model (the open standard for electrical, HVAC and industrial products) as clean JSON — served to AI agents over MCP with read-only tools for classes, features, units, values and code lookup. Ships no ETIM data; converts the release you are licensed to use.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
