@@ -551,6 +551,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) 🐍 🏠 - CVE-Search MCP服务器， 提供CVE漏洞信息查询、漏洞产品信息查询等功能。
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - MCP 服务器用于访问 [Intruder](https://www.intruder.io/)，帮助你识别、理解并修复基础设施中的安全漏洞。
 - [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) [![quantakrypto/pqc-tools MCP server](https://glama.ai/mcp/servers/quantakrypto/pqc-tools/badges/score.svg)](https://glama.ai/mcp/servers/quantakrypto/pqc-tools) 📇 🏠 ☁️ - 面向 AI 编程代理的后量子就绪工具。扫描代码中易受量子攻击的密码算法（RSA/ECDH/ECDSA/DH），解释 harvest-now-decrypt-later（先收集、后解密）风险，提供 NIST ML-KEM/ML-DSA/SLH-DSA（及混合）迁移指南，验证修复并检查依赖。仅为基于内容的咨询类工具。可本地运行（`npx @quantakrypto/mcp`）或使用 [mcp.quantakrypto.com](https://mcp.quantakrypto.com) 的托管 OAuth 端点。
 
 ### 📟 <a name="embedded-system"></a>嵌入式系统
 
