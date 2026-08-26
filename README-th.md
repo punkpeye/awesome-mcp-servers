@@ -556,6 +556,7 @@ i- [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ �
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับ IDA Pro ช่วยให้คุณทำการวิเคราะห์ไบนารีด้วยผู้ช่วย AI ปลั๊กอินนี้ใช้การดีคอมไพล์ การแยกส่วน และช่วยให้คุณสร้างรายงานการวิเคราะห์มัลแวร์โดยอัตโนมัติ
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - เซิร์ฟเวอร์ MCP สำหรับเข้าถึง [Intruder](https://www.intruder.io/) ช่วยให้คุณระบุ ทำความเข้าใจ และแก้ไขช่องโหว่ด้านความปลอดภัยในโครงสร้างพื้นฐานของคุณ
 - [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) [![quantakrypto/pqc-tools MCP server](https://glama.ai/mcp/servers/quantakrypto/pqc-tools/badges/score.svg)](https://glama.ai/mcp/servers/quantakrypto/pqc-tools) 📇 🏠 ☁️ - ความพร้อมด้านหลังควอนตัมสำหรับ AI coding agent: สแกนโค้ดเพื่อหาการเข้ารหัสที่เสี่ยงต่อควอนตัม (RSA/ECDH/ECDSA/DH) อธิบายความเสี่ยงแบบ harvest-now-decrypt-later ให้คำแนะนำการย้ายไปยัง NIST ML-KEM/ML-DSA/SLH-DSA (และไฮบริด) ตรวจสอบการแก้ไข และตรวจสอบ dependency เป็นเครื่องมือให้คำแนะนำที่อิงเนื้อหาเท่านั้น รันในเครื่อง (`npx @quantakrypto/mcp`) หรือใช้ OAuth endpoint แบบโฮสต์ที่ [mcp.quantakrypto.com](https://mcp.quantakrypto.com)
 
 ### 🏃 <a name="sports"></a>กีฬา
 
