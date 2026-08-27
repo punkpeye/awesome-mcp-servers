@@ -2172,6 +2172,7 @@ Integration with gaming related data, game engines, and services
 
 Access health metrics, wellness data, and medical information through various health platforms.
 
+- [FindSaunaPlunge](https://findsaunaplunge.com/mcp) 🎖️ 📇 ☁️ - Cold plunge, sauna and contrast-therapy venues across 23 US metros, with published temperatures and prices quoted from each venue's own pages and dated. Remote Streamable HTTP, no auth; tools: search_venues, get_venue, list_cities, get_city_stats, get_data_freshness.
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
 
 ### 🏠 <a name="home-automation"></a>Home Automation
