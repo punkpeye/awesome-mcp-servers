@@ -84,6 +84,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🤖 - [Coding Agents](#coding-agents)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
+* ✍️ - [Content Management](#content-management)
 * 🗣️ - [Conversational AI](#conversational-ai)
 * 🔑 - [Cryptography](#cryptography)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
@@ -836,6 +837,12 @@ Integration with communication platforms for message management and channel oper
 - [Zacccck/Claude-MCP-Read-Email-Attachments](https://github.com/Zacccck/Claude-MCP-Read-Email-Attachments) [![Zacccck/Claude-MCP-Read-Email-Attachments MCP server](https://glama.ai/mcp/servers/Zacccck/Claude-MCP-Read-Email-Attachments/badges/score.svg)](https://glama.ai/mcp/servers/Zacccck/Claude-MCP-Read-Email-Attachments) 📇 ☁️ 🏠 🪟 - Remote HTTP MCP server that reads Outlook email attachments via Microsoft Graph. Parses PDF, Word (with embedded image extraction for multimodal analysis), Excel, and text files in-memory and returns structured content directly to Claude.
 - [zerodrop-dev/zerodrop-mcp](https://github.com/zerodrop-dev/zerodrop-mcp) [![zerodrop-dev/zerodrop-mcp MCP server](https://glama.ai/mcp/servers/zerodrop-dev/zerodrop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zerodrop-dev/zerodrop-mcp) 📇 ☁️ - Disposable email inboxes for AI agents — OTPs and magic links auto-extracted from verification emails. Test signups and auth flows, no signup needed.
 
+
+### ✍️ <a name="content-management"></a>Content Management
+
+Publishing platforms and content systems an agent can write to and steward.
+
+- [joiha-steven/quireink](https://github.com/joiha-steven/quireink) 🎖️ 📇 🏠 - The MCP server built into Quire Ink, a self-hosted blog platform: draft, edit, tag, schedule and publish posts, compose the front page, read cookie-free traffic reports, moderate comments, send the newsletter, import a blog from WordPress/Ghost/Substack/Medium, and take backups — through the same rules the admin follows, on a server you own.
 
 ### 🗣️ <a name="conversational-ai"></a>Conversational AI
 
