@@ -125,6 +125,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🚆 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
+* 🛡️ - [Blue Team & SOC](#blueteam-and-soc)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
@@ -3798,6 +3799,9 @@ Interact with Git repositories and version control platforms. Enables repository
 - [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) [![rocketride-org/rocketride-server MCP server](https://glama.ai/mcp/servers/rocketride-org/rocketride-server/badges/score.svg)](https://glama.ai/mcp/servers/rocketride-org/rocketride-server) 📇 🏠 - MCP server that exposes RocketRide AI pipelines as tools for Claude, Cursor, and Windsurf. Self-hosted, open-source pipeline tool with multi-LLM support.
 - [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone) 📇 🏠 🍎 🪟 🐧 - Filesystem-direct Obsidian MCP server with low context-tax. Reads your vault directly from disk — no Local REST API plugin required. ~575× smaller payloads than the REST plugin. 8 tools. `npx -y obsidian-mcp-seekstone` (also: `npx -y seekstone`)
 - [vivek081166/japan-utils-mcp](https://github.com/vivek081166/japan-utils-mcp) [![vivek081166/japan-utils-mcp MCP server](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp) 🐍 🏠 🍎 🪟 🐧 - Japan-specific utilities for AI agents: era ↔ Western year conversion (令和8年 ↔ 2026), kanji-to-romaji transliteration, 7-digit postal code lookup, national holiday calendar, hiragana ↔ katakana conversion, full-width ↔ half-width normalization, and statistical Japanese name splitting. 9 tools, MIT licensed, installable via `uvx japan-utils-mcp`.
+
+### 🔗 <a name="blueteam-and-soc"></a>Blue Team & SOC
+- [INFOKOM-KI/Wazuh-MCP-Server](https://github.com/INFOKOM-KI/Wazuh-MCP-Server) [![Wazuh MCP Server](https://github.com/INFOKOM-KI/Wazuh-MCP-Server)](https://github.com/INFOKOM-KI/Wazuh-MCP-Server) 🛡️ 🐺 🐍 - A defensive MCP server for Claude Desktop / any MCP client - the blue-team counterpart to offensive tooling. 123 tools + 4 resources across Wazuh SIEM, multi-provider threat intelligence, MITRE-driven 3-Sum APT correlation, attack graphing, LangGraph investigation workflows, and host forensics. Read-only by default.
 
 ## Tips and Tricks
 
