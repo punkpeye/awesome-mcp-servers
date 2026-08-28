@@ -2173,6 +2173,7 @@ Integration with gaming related data, game engines, and services
 
 Access health metrics, wellness data, and medical information through various health platforms.
 
+- [lewo-media/safe-mind-tools](https://github.com/lewo-media/safe-mind-tools) 🎖️ 📇 ☁️ - Create and run the legally required psychological risk assessment (GBU Psyche) for German companies via Safe Mind: onboard accounts, set up departments, create survey drafts, and read anonymity-protected aggregated results.
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
 
 ### 🏠 <a name="home-automation"></a>Home Automation
