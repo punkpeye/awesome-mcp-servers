@@ -2173,6 +2173,7 @@ Integration with gaming related data, game engines, and services
 
 Access health metrics, wellness data, and medical information through various health platforms.
 
+- [io.github.ogasurfproject-jpg/hs-femtech-mcp](https://github.com/ogasurfproject-jpg/hs-femtech-mcp) [![hs-femtech-mcp MCP server](https://glama.ai/mcp/servers/ogasurfproject-jpg/hs-femtech-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ogasurfproject-jpg/hs-femtech-mcp) 📇 ☁️ - Neutral verification registry for femtech (women's health) information sources. Indexes sources by provenance, authority tier, jurisdiction, and machine-readable compensation disclosure. No diagnosis, no efficacy claims, no referral fees.
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
 
 ### 🏠 <a name="home-automation"></a>Home Automation
