@@ -125,8 +125,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🚆 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
-* 🛡️ - [Blue Team & SOC](#blueteam-and-soc)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+* 🛡️ - [Blue Team & SOC](#blueteam-and-soc)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
@@ -3778,8 +3778,12 @@ Interact with Git repositories and version control platforms. Enables repository
 - [yyyhy/nash-arena](https://github.com/yyyhy/nash-arena) [![yyyhy/nash-arena MCP server](https://glama.ai/mcp/servers/yyyhy/nash-arena/badges/score.svg)](https://glama.ai/mcp/servers/yyyhy/nash-arena) 🐍 ☁️ - A Chess and Card Game Arena For LLM, Agents can battle in game by mcp
 - [aarifmms/keyblind](https://github.com/aarifmms/keyblind) [![aarifmms/keyblind MCP server](https://glama.ai/mcp/servers/aarifmms/keyblind/badges/score.svg)](https://glama.ai/mcp/servers/aarifmms/keyblind) 📇 🏠 🍎 🪟 🐧 - Encrypted secrets vault with MCP for AI agents. Secrets resolved at runtime, never leaked to LLM conversations.
 - [wundervault/wundervault-mcp](https://github.com/wundervault/wundervault-mcp) [![wundervault/wundervault-mcp MCP server](https://glama.ai/mcp/servers/wundervault/wundervault-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wundervault/wundervault-mcp) 📇 ☁️ - Zero-knowledge secret vault for AI agents: use API keys, passwords, and SSH keys to run real commands (exec/rsync) with the secret injected into a single command — never returned to the model or shown in chat. Client-side AES-256-GCM, per-agent scoping, append-only audit log.
-## Frameworks
 
+### 🛡️ 🐺 <a name="blueteam-and-soc"></a>Blue Team & SOC
+
+* [INFOKOM-KI/Wazuh-MCP-Server](https://github.com/INFOKOM-KI/Wazuh-MCP-Server) [![GitHub Repo stars](https://img.shields.io/github/stars/INFOKOM-KI/Wazuh-MCP-Server?style=social)](https://github.com/INFOKOM-KI/Wazuh-MCP-Server) 🛡️ 🐺 🐍 - A defensive MCP server for Claude Desktop / any MCP client - the blue-team counterpart to offensive tooling. 123 tools + 4 resources across Wazuh SIEM, multi-provider threat intelligence, MITRE-driven 3-Sum APT correlation, attack graphing, LangGraph investigation workflows, and host forensics. Read-only by default.
+
+## Frameworks
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
 > - [Nyrok/flompt](https://github.com/Nyrok/flompt) [![flompt MCP server](https://glama.ai/mcp/servers/@nyrok/flompt/badges/score.svg)](https://glama.ai/mcp/servers/@nyrok/flompt) 🐍 ☁️ - Visual AI prompt builder MCP server. Decompose any prompt into 12 semantic blocks and compile to Claude-optimized XML. Tools: `decompose_prompt`, `compile_prompt`. Setup: `claude mcp add flompt https://flompt.dev/mcp/`
@@ -3799,9 +3803,6 @@ Interact with Git repositories and version control platforms. Enables repository
 - [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) [![rocketride-org/rocketride-server MCP server](https://glama.ai/mcp/servers/rocketride-org/rocketride-server/badges/score.svg)](https://glama.ai/mcp/servers/rocketride-org/rocketride-server) 📇 🏠 - MCP server that exposes RocketRide AI pipelines as tools for Claude, Cursor, and Windsurf. Self-hosted, open-source pipeline tool with multi-LLM support.
 - [shaqmughal/seekstone](https://github.com/shaqmughal/seekstone) 📇 🏠 🍎 🪟 🐧 - Filesystem-direct Obsidian MCP server with low context-tax. Reads your vault directly from disk — no Local REST API plugin required. ~575× smaller payloads than the REST plugin. 8 tools. `npx -y obsidian-mcp-seekstone` (also: `npx -y seekstone`)
 - [vivek081166/japan-utils-mcp](https://github.com/vivek081166/japan-utils-mcp) [![vivek081166/japan-utils-mcp MCP server](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp) 🐍 🏠 🍎 🪟 🐧 - Japan-specific utilities for AI agents: era ↔ Western year conversion (令和8年 ↔ 2026), kanji-to-romaji transliteration, 7-digit postal code lookup, national holiday calendar, hiragana ↔ katakana conversion, full-width ↔ half-width normalization, and statistical Japanese name splitting. 9 tools, MIT licensed, installable via `uvx japan-utils-mcp`.
-
-### 🛡️🐺 <a name="blueteam-and-soc"></a>Blue Team & SOC
-* [INFOKOM-KI/Wazuh-MCP-Server](https://github.com/INFOKOM-KI/Wazuh-MCP-Server) [![GitHub Repo stars](https://img.shields.io/github/stars/INFOKOM-KI/Wazuh-MCP-Server?style=social)](https://github.com/INFOKOM-KI/Wazuh-MCP-Server) 🛡️ 🐺 🐍 - A defensive MCP server for Claude Desktop / any MCP client - the blue-team counterpart to offensive tooling. 123 tools + 4 resources across Wazuh SIEM, multi-provider threat intelligence, MITRE-driven 3-Sum APT correlation, attack graphing, LangGraph investigation workflows, and host forensics. Read-only by default.
 
 ## Tips and Tricks
 
