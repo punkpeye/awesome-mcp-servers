@@ -129,7 +129,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
-- [sandbaseai/cli](https://github.com/sandbaseai/cli) 📇 ☁️ 🏠 - Open-source AI CLI and local MCP server connecting 25 clients to 2,000+ models and APIs, with OAuth onboarding and rollback support.
+- [sandbaseai/cli](https://github.com/sandbaseai/cli) [![sandbaseai/cli MCP server](https://glama.ai/mcp/servers/sandbaseai/cli/badges/score.svg)](https://glama.ai/mcp/servers/sandbaseai/cli) 📇 ☁️ 🏠 - Open-source AI CLI and local MCP server connecting 25 clients to 2,000+ models and APIs, with OAuth onboarding and rollback support.
 
 Servers for accessing many apps and tools through a single MCP server.
 
