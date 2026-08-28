@@ -129,6 +129,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
+- [sandbaseai/cli](https://github.com/sandbaseai/cli) [![sandbaseai/cli MCP server](https://glama.ai/mcp/servers/sandbaseai/cli/badges/score.svg)](https://glama.ai/mcp/servers/sandbaseai/cli) 📇 ☁️ 🏠 - Open-source AI CLI and local MCP server connecting 25 clients to 2,000+ models and APIs, with OAuth onboarding and rollback support.
+
 Servers for accessing many apps and tools through a single MCP server.
 
 - [Correctover/mcp-server](https://github.com/Correctover/mcp-server) [![Correctover MCP server](https://glama.ai/mcp/servers/Correctover/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Correctover/mcp-server) 📇 ☁️ 🏠 🍎 🪟 🐧 - Contract validation and self-healing failover for LLM APIs. 6-dimension verification (structure, schema, latency, cost, identity, integrity) in 22μs P50. 87 self-healing rules with MAPE-K autonomic loop. BYOK direct connect to 9 providers (OpenAI, Anthropic, DeepSeek, Moonshot, Zhipu AI, Qwen, SiliconFlow, Groq, Together AI). L3 failover in 949ms E2E. Install: `npx -y correctover-mcp-server`.
