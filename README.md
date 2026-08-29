@@ -2229,7 +2229,7 @@ Connect AI agents to industrial equipment, machinery, and operational technology
 
 - [Extelligence-ai/bagel](https://github.com/Extelligence-ai/bagel) [![Extelligence-ai/bagel MCP server](https://glama.ai/mcp/servers/Extelligence-ai/bagel/badges/score.svg)](https://glama.ai/mcp/servers/Extelligence-ai/bagel) 🐍 🏠 - Ask questions about robotics, drone, and IoT data (ROS 1/2 bags, MCAP, PX4/ArduPilot/Betaflight logs, CAN/MF4, live MQTT) in plain English; answers are DuckDB SQL over the actual messages, with an intelligent edge data-reduction pipeline and exports to Rerun, PlotJuggler, and LeRobot.
 - [FoundryNet/forge-mcp](https://github.com/FoundryNet/forge-mcp) 🐍 ☁️ - Industrial AI infrastructure that connects any AI agent to industrial equipment: 14 protocols, 18 manufacturers, 30 tools, cross-OEM telemetry normalization, health index, and failure prediction. The first physical-world MCP server. Free tier available. ([Smithery](https://smithery.ai/server/@foundrynet/forge)) [![FoundryNet/forge-mcp MCP server](https://glama.ai/mcp/servers/FoundryNet/forge-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FoundryNet/forge-mcp)
-
+- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) ☕ 🏠 - Open-source, cloud-native industrial IoT platform that automatically exposes its entire HTTP API surface (300+ endpoints) as a risk-annotated MCP tool catalog. Agents authenticate via OAuth 2.1 at the gateway /mcp endpoint to manage devices, query point values, and send commands, with per-tool visibility filtering and two-step confirmation for high-risk operations.
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
