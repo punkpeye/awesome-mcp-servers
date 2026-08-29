@@ -3874,3 +3874,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [UnRemind.me](https://unremind.me/mcp?src=awesome-mcp) — Context-aware reminders that surface when your situation matches, not at a fixed time
