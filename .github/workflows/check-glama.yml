@@ -130,9 +130,11 @@ jobs:
             const duplicateUrls = [];
             const nonGithubUrls = [];
 
-            // Check for non-GitHub URLs in added entry lines (list items with markdown links)
+            // Check for non-GitHub URLs in added entry lines.
+            // ponytail: server entries exist only in README* — scanning other files
+            // (PR template checkboxes, docs) yields false positives
             const allAddedEntryLines = files
-              .filter(f => f.patch)
+              .filter(f => f.patch && /^README(\.[^/]+)?\.md$/i.test(f.filename))
               .flatMap(f => f.patch.split('\n').filter(line => line.startsWith('+')))
               .map(line => line.replace(/^\+/, ''))
               .filter(line => /^\s*-\s*\[/.test(line));
