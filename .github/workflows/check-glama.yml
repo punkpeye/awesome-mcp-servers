@@ -9,6 +9,10 @@ permissions:
   pull-requests: write
   issues: write
 
+concurrency:
+  group: check-glama-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
 jobs:
   # Post-merge welcome comment
   welcome:
@@ -76,6 +80,14 @@ jobs:
               pull_number: pr_number,
               per_page: 100,
             });
+
+            // PRs touching anything beyond README*/CONTRIBUTING.md need human eyes
+            const touchesNonReadme = files.some(
+              f => !/^README(\.[^/]+)?\.md$/i.test(f.filename) && f.filename !== 'CONTRIBUTING.md'
+            );
+
+            // mergeable_state is null briefly after PR creation; the next event refreshes it
+            const hasMergeConflict = context.payload.pull_request.mergeable_state === 'dirty';
 
             // Permitted emojis
             const permittedEmojis = [
@@ -200,6 +212,18 @@ jobs:
               labelsToAdd.push('non-github-url');
             } else {
               labelsToRemove.push('non-github-url');
+            }
+
+            if (touchesNonReadme) {
+              labelsToAdd.push('manual-review');
+            } else {
+              labelsToRemove.push('manual-review');
+            }
+
+            if (hasMergeConflict) {
+              labelsToAdd.push('merge-conflict');
+            } else {
+              labelsToRemove.push('merge-conflict');
             }
 
             await github.rest.issues.addLabels({
@@ -391,4 +415,12 @@ jobs:
             Please update your PR to use the full repository name.`
                 });
               }
+            }
+
+            // Fail the run on hard rule violations so the PR shows a red check
+            if (!noDuplicates || !allGithub) {
+              core.setFailed('Rule violations: ' + [
+                !noDuplicates ? 'duplicate entries' : null,
+                !allGithub ? 'non-GitHub URLs' : null,
+              ].filter(Boolean).join(', '));
             }
