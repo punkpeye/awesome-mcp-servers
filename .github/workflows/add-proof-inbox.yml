@@ -14,22 +14,24 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: add-proof-inbox
-      - name: Fix Proof Inbox listing emoji
+      - name: Normalize Proof Inbox listing
         run: |
           python3 << 'PY'
+          import re
           from pathlib import Path
           p = Path('README.md')
           text = p.read_text()
-          old = r'\u2601\ufe0f'
-          new = '☁️'
-          if old not in text:
-              if 'timdoes/proof-inbox-mcp' in text and new in text:
-                  print('already fixed')
-              else:
-                  raise SystemExit('expected listing not found')
-          else:
-              p.write_text(text.replace(old, new, 1))
-              print('fixed emoji')
+          new_line = (
+              '- [timdoes/proof-inbox-mcp](https://github.com/timdoes/proof-inbox-mcp) '
+              '[![timdoes/proof-inbox-mcp MCP server](https://glama.ai/mcp/servers/timdoes/proof-inbox-mcp/badges/score.svg)]'
+              '(https://glama.ai/mcp/servers/timdoes/proof-inbox-mcp) '
+              '☁️ - Prepaid email-verify credits for MCP agents via Stripe Link.'
+          )
+          text2, n = re.subn(r'^- \[timdoes/proof-inbox-mcp\].*$', new_line, text, count=1, flags=re.M)
+          if n != 1:
+              raise SystemExit(f'expected 1 listing, replaced {n}')
+          p.write_text(text2)
+          print('normalized')
           PY
       - name: Commit listing
         run: |
@@ -39,6 +41,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'no README change'
           else
-            git commit -m "Fix Proof Inbox listing emoji"
+            git commit -m "Normalize Proof Inbox listing"
             git push
           fi
