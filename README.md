@@ -2175,6 +2175,8 @@ Access health metrics, wellness data, and medical information through various he
 
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
 
+- [Thecimal/quantified-self-mcp](https://github.com/Thecimal/quantified-self-mcp) [![Thecimal/quantified-self-mcp MCP server](https://glama.ai/mcp/servers/thecimal/quantified-self-mcp/badge)](https://glama.ai/mcp/servers/thecimal/quantified-self-mcp) 🐍 🏠 🍎 🪟 🐧 - Query personal health metrics and expense data from local SQLite databases. Data stays on your machine — no cloud, no dashboard, no third-party service.
+
 ### 🏠 <a name="home-automation"></a>Home Automation
 
 Control smart home devices, home network equipment, and automation systems.
