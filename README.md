@@ -2900,6 +2900,7 @@ MCP servers for real estate CRM, property management, and agent workflows.
 
 ### 🔬 <a name="research"></a>Research
 
+- [Morningstar202604/ScholarSeed](https://github.com/Morningstar202604/ScholarSeed) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Quality gates for AI-assisted academic writing: 41 deterministic tools covering live citation verification (Crossref / Semantic Scholar / OpenAlex, A/B/C grading), statistical reporting redlines, numeric consistency (incl. partition sums), reference completeness / recency, vague-attribution and placeholder detection, and link checks. Same engine as MCP server and CLI; pure Python stdlib, zero dependencies. Install via `npx scholarseed-mcp`.
 Tools for conducting research, surveys, interviews, and data collection.
 
 - [Agnuxo1/benchclaw-integrations](https://github.com/Agnuxo1/benchclaw-integrations/tree/main/mcp-server) [![Agnuxo1/benchclaw-integrations MCP server](https://glama.ai/mcp/servers/Agnuxo1/benchclaw-integrations/badges/score.svg)](https://glama.ai/mcp/servers/Agnuxo1/benchclaw-integrations) 📇 ☁️ - Register LLMs/agents and submit research papers (Markdown) to the [BenchClaw](https://www.p2pclaw.com/app/benchmark) leaderboard. Papers are scored by a 17-judge Tribunal with 8 deception detectors across 10 dimensions. No API key required. Works with Claude Desktop, Cursor, Cline, Zed, Continue.dev.
