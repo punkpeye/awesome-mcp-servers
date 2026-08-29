@@ -315,6 +315,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/filesystem) 📇 🏠 - 直接訪問本地文件系統。
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - Google Drive 集成，用於列出、閱讀和搜尋文件
 - [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - AI 原生目錄視覺化，具有語義分析、AI 消費的超壓縮格式和 10 倍令牌減少。支援具有智能文件分類的量子語義模式。
+- [FI-Mihej/text_file_read_and_refactor_mcp](https://github.com/FI-Mihej/text_file_read_and_refactor_mcp) [![text_file_read_and_refactor_mcp MCP server](https://glama.ai/mcp/servers/FI-Mihej/text_file_read_and_refactor_mcp/badges/score.svg)](https://glama.ai/mcp/servers/FI-Mihej/text_file_read_and_refactor_mcp) 🐍 🏠 🍎 🪟 🐧 - 一個注重 Token 使用效率、採用 Python 標準輸入/輸出 (stdio) 的 MCP 伺服器，提供安全的文字檔搜尋、讀取與重構工具。這些工具會自動辨識並處理檔案的 BOM (Byte Order Mark，位元組順序標記) 與字元編碼 (code page)；編輯工具則會以檔案原本的字元編碼與 BOM 儲存修改後的檔案。 `uvx text-file-read-and-refactor-mcp`
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - Box 集成，支援文件列表、閱讀和搜尋功能
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - 用於本地文件系統訪問的 Golang 實現。
 - [mamertofabian/mcp-everything-search](https://github.com/mamertofabian/mcp-everything-search) 🐍 🏠 🪟 - 使用 Everything SDK 實現的快速 Windows 文件搜尋
@@ -445,6 +446,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇🛡️☁️ – 一個強大的 MCP (模型上下文協議) 伺服器，審計 npm 包依賴項的安全漏洞。內建遠端 npm 註冊表集成，以進行即時安全檢查。
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - MCP 伺服器可存取 [Intruder](https://www.intruder.io/)，協助你識別、理解並修復基礎設施中的安全漏洞。
 - [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) [![quantakrypto/pqc-tools MCP server](https://glama.ai/mcp/servers/quantakrypto/pqc-tools/badges/score.svg)](https://glama.ai/mcp/servers/quantakrypto/pqc-tools) 📇 🏠 ☁️ - 面向 AI 編程代理的後量子就緒工具。掃描程式碼中易受量子攻擊的密碼演算法（RSA/ECDH/ECDSA/DH），說明 harvest-now-decrypt-later（先收集、後解密）風險，提供 NIST ML-KEM/ML-DSA/SLH-DSA（及混合）遷移指引，驗證修復並檢查相依套件。僅為基於內容的諮詢類工具。可在本機執行（`npx @quantakrypto/mcp`）或使用 [mcp.quantakrypto.com](https://mcp.quantakrypto.com) 的託管 OAuth 端點。
 
 ### 🌎 <a name="translation-services"></a>翻譯服務
 
