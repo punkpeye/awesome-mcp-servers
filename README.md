@@ -2232,6 +2232,7 @@ Integration with gaming related data, game engines, and services
 
 Access health metrics, wellness data, and medical information through various health platforms.
 
+- [findsaunaplunge/mcp](https://github.com/findsaunaplunge/mcp) [![findsaunaplunge/mcp MCP server](https://glama.ai/mcp/servers/findsaunaplunge/mcp/badges/score.svg)](https://glama.ai/mcp/servers/findsaunaplunge/mcp) 🎖️ 📇 ☁️ - Cold plunge, sauna and contrast-therapy venues across 23 US metros, with published temperatures and prices quoted from each venue's own pages and dated. Hosted at https://findsaunaplunge.com/mcp (Streamable HTTP, no auth); tools: search_venues, get_venue, list_cities, get_city_stats, get_data_freshness.
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
 - [Thecimal/quantified-self-mcp](https://github.com/Thecimal/quantified-self-mcp) [![Thecimal/quantified-self-mcp MCP server](https://glama.ai/mcp/servers/Thecimal/quantified-self-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Thecimal/quantified-self-mcp) 🐍 🏠 - Query your personal health and finance data from Claude Desktop. Two local SQLite files, read directly off disk by a Python process you control — no cloud database, no dashboard, no third-party service.
 
