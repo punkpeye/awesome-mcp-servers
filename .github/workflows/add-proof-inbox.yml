@@ -14,27 +14,22 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: add-proof-inbox
-      - name: Insert Proof Inbox listing
+      - name: Fix Proof Inbox listing emoji
         run: |
           python3 << 'PY'
           from pathlib import Path
           p = Path('README.md')
           text = p.read_text()
-          marker = 'timdoes/proof-inbox-mcp'
-          if marker in text:
-              print('already present')
+          old = r'\u2601\ufe0f'
+          new = '☁️'
+          if old not in text:
+              if 'timdoes/proof-inbox-mcp' in text and new in text:
+                  print('already fixed')
+              else:
+                  raise SystemExit('expected listing not found')
           else:
-              needle = '- [timkulbaev/mcp-gmail](https://github.com/timkulbaev/mcp-gmail)'
-              insert = (
-                  '- [timdoes/proof-inbox-mcp](https://github.com/timdoes/proof-inbox-mcp) '
-                  '[![timdoes/proof-inbox-mcp MCP server](https://glama.ai/mcp/servers/timdoes/proof-inbox-mcp/badges/score.svg)]'
-                  '(https://glama.ai/mcp/servers/timdoes/proof-inbox-mcp) '
-                  '\\u2601\\ufe0f - Prepaid email-verify credits for MCP agents via Stripe Link.\n'
-              )
-              if needle not in text:
-                  raise SystemExit('anchor not found')
-              p.write_text(text.replace(needle, insert + needle, 1))
-              print('inserted')
+              p.write_text(text.replace(old, new, 1))
+              print('fixed emoji')
           PY
       - name: Commit listing
         run: |
@@ -44,6 +39,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'no README change'
           else
-            git commit -m "Add Proof Inbox MCP server"
+            git commit -m "Fix Proof Inbox listing emoji"
             git push
           fi
