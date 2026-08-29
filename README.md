@@ -257,7 +257,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 
 ### ♿ <a name="accessibility"></a>Accessibility
 
-- [kinti/a11y-toolkit](https://github.com/kinti/a11y-toolkit) 🐍 🏠 - MCP server + CLI for WCAG 2.2 accessibility: color contrast (pairs plus pixel-level text-over-image sampling), EU accessibility declaration generation (RD 1112/2018, Ley 11/2023 / European Accessibility Act, EN 301 549), and an aria-live announcement monitor. Multilanguage es/en, zero dependencies.
+- [kinti/a11y-toolkit](https://github.com/kinti/a11y-toolkit) [![kinti/a11y-toolkit MCP server](https://glama.ai/mcp/servers/kinti/a11y-toolkit/badges/score.svg)](https://glama.ai/mcp/servers/kinti/a11y-toolkit) 🐍 🏠 - MCP server + CLI for WCAG 2.2 accessibility: color contrast (pairs plus pixel-level text-over-image sampling), EU accessibility declaration generation (RD 1112/2018, Ley 11/2023 / European Accessibility Act, EN 301 549), and an aria-live announcement monitor. Multilanguage es/en, zero dependencies.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
