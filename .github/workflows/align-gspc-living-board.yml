@@ -1,0 +1,31 @@
+name: Align GSPC living board
+
+on:
+  push:
+    paths:
+      - '.github/workflows/align-gspc-living-board.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  align:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Replace stale GSPC fragments when present
+        run: |
+          set -euo pipefail
+          STALE_AXES='Deterministic GSPC axes (13 measured of 14)'
+          STALE_REMOTE='Remote: https://councilof.ai/api/assess'
+          if grep -F -q "$STALE_AXES" README.md || grep -F -q "$STALE_REMOTE" README.md; then
+            sed -i 's|Deterministic GSPC axes (13 measured of 14)|Living board quote totals.public_count from https://councilof.ai/api/gspc (22 axis · 15 measured)|g' README.md
+            sed -i 's|Remote: https://councilof.ai/api/assess|Remote: https://councilof.ai/mcp|g' README.md
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "align: living GSPC board 22 axis · 15 measured; MCP remote"
+            git push
+          else
+            echo "No stale GSPC fragments; nothing to commit"
+          fi
