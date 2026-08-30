@@ -913,6 +913,7 @@ Provides access to customer profiles inside of customer data platforms
 - [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - An MCP server to interact with a Tinybird Workspace from any MCP client.
 - [lionkiii/google-searchconsole-mcp](https://github.com/lionkiii/google-searchconsole-mcp) [![google-searchconsole-mcp MCP server](https://glama.ai/mcp/servers/lionkiii/google-searchconsole-mcp/badges/score.svg)](https://glama.ai/mcp/servers/lionkiii/google-searchconsole-mcp) 📇 🏠 - Google Search Console MCP server with 13 SEO tools — search analytics, URL inspection, sitemap management, keyword opportunities, brand analysis, and performance comparison.
 - [saurabhsharma2u/search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)  - An MCP server to interact with Google Search Console and Bing Webmasters.
+- [katekruger/segment-mcp](https://github.com/katekruger/segment-mcp) 🐍 ☁️ - Read-first MCP server for [Twilio Segment](https://segment.com). Composes reads into five questions (which destinations get which events, which sources are dead, is an event governed by anything) instead of exposing raw endpoints. `SEGMENT_MCP_MODE` defaults to read-only, and data-deletion creation is permanently unreachable in every mode, checked three independent ways — not gated, refused. MIT.
 
 ### 🗄️ <a name="databases"></a>Databases
 
