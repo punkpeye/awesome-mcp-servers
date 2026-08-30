@@ -1577,6 +1577,7 @@ Tools and integrations that enhance the development workflow and environment man
 
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
 
+- [Jackxiaozhiren/datasentry](https://github.com/Jackxiaozhiren/datasentry) [![Jackxiaozhiren/datasentry MCP server](https://glama.ai/mcp/servers/Jackxiaozhiren/datasentry/badges/score.svg)](https://glama.ai/mcp/servers/Jackxiaozhiren/datasentry) 🐍 🏠 - Find data-quality problems, inspect evidence and drift, and run controlled repair workflows locally.
 - [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - The ultimate math engine unifying SymPy, NumPy & Matplotlib in one powerful server. Perfect for developers & researchers needing symbolic algebra, numerical computing, and data visualization.
 - [Archerkattri/mathlas](https://github.com/Archerkattri/mathlas) [![Archerkattri/mathlas MCP server](https://glama.ai/mcp/servers/Archerkattri/mathlas/badges/score.svg)](https://glama.ai/mcp/servers/Archerkattri/mathlas) 🐍 🏠 - Airtight math for agents: 3.7M-theorem search, PSLQ constant ID, OEIS, real Lean kernel checks, applicability checklists. No LLM inside, no API key.
 - [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp) 🐍 ☁️ - Connects to Kaggle, ability to download and analyze datasets.
