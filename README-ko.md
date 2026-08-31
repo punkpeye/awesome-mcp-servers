@@ -507,6 +507,7 @@
 - [VMS MCP 서버](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 VMS MCP 서버는 CCTV 녹화 프로그램(VMS)에 연결하여 녹화된 영상과 실시간 영상을 가져오며, 특정 채널의 특정 시간에 실시간 영상이나 재생 화면을 표시하는 등의 VMS 소프트웨어 제어 도구도 제공합니다.
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - [Intruder](https://www.intruder.io/)에 액세스할 수 있는 MCP 서버로, 인프라의 보안 취약점을 식별, 이해 및 해결하는 데 도움을 줍니다.
 - [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) [![quantakrypto/pqc-tools MCP server](https://glama.ai/mcp/servers/quantakrypto/pqc-tools/badges/score.svg)](https://glama.ai/mcp/servers/quantakrypto/pqc-tools) 📇 🏠 ☁️ - AI 코딩 에이전트를 위한 포스트 양자 대비 도구. 양자에 취약한 암호(RSA/ECDH/ECDSA/DH)를 코드에서 스캔하고, harvest-now-decrypt-later(지금 수집해 나중에 복호화) 위험을 설명하며, NIST ML-KEM/ML-DSA/SLH-DSA(및 하이브리드) 마이그레이션 지침을 제공하고, 수정 사항을 검증하며 의존성을 점검합니다. 콘텐츠 기반의 자문용 도구만 제공. 로컬(`npx @quantakrypto/mcp`) 또는 [mcp.quantakrypto.com](https://mcp.quantakrypto.com)의 호스팅된 OAuth 엔드포인트에서 실행합니다.
 
 ### 🏃 <a name="sports"></a>스포츠
 
