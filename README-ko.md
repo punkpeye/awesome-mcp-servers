@@ -334,6 +334,7 @@
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - GitKraken API와 상호작용하기 위한 CLI입니다. gk mcp를 통해 MCP 서버를 포함하고 있으며, GitKraken API뿐만 아니라 Jira, GitHub, GitLab 등도 래핑합니다. 로컬 도구 및 원격 서비스와 함께 작동합니다.
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP 서버는 MCP 기반으로 구축된 서버로, 사용자가 LLM이 해석한 자연어 명령을 통해 Unitree Go2 로봇을 제어할 수 있도록 해줍니다.
 - [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Claude Code용 Mermaid 다이어그램 렌더링 MCP 서버. 라이브 리로드 기능을 갖추고 있으며 여러 내보내기 형식(SVG, PNG, PDF) 및 테마를 지원합니다.
+- [logisky/logisheets-mcp](https://github.com/logisky/logisheets-mcp) [![logisky/logisheets-mcp MCP server](https://glama.ai/mcp/servers/logisky/logisheets-mcp/badges/score.svg)](https://glama.ai/mcp/servers/logisky/logisheets-mcp) 🎖️ 📇 🏠 🍎 🪟 🐧 - 에이전트를 위한 진짜 Excel 호환 스프레드시트 엔진([LogiSheets](https://github.com/logisky/LogiSheets), Rust로 작성되어 WASM으로 실행). 모델이 암산할 필요 없는 결정론적 수식, 좌표 대신 (블록, 키, 필드)로 주소를 지정해 행을 삽입해도 깨지지 않는 이름 있는 블록, 열 전체에 적용되는 수식 규칙, 시나리오 일괄 계산과 목표값 찾기를 한 번의 호출로 처리, 그리고 마지막에 진짜 `.xlsx` 출력. 로컬에서 실행되며 소켓을 열지 않습니다. `npx logisheets-mcp`
 
 
 ### 🧮 데이터 과학 도구
