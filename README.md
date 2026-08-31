@@ -500,6 +500,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 
 Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
 
+- [4everland/4everland-hosting-mcp](https://github.com/4everland/4everland-hosting-mcp) 🏗️ 💻 🍎 - An MCP server implementation for 4EVERLAND Hosting enabling instant deployment of AI-generated code to decentralized storage networks like Greenfield, IPFS, and Arweave.
 - [KilaWattCloud/kilawatt-mcp-server](https://github.com/KilaWattCloud/kilawatt-mcp-server) ☁️ - Multi-datacenter GPU compute orchestration and dry-run node allocation for AI agents. [![](https://glama.ai/mcp/servers/KilaWattCloud/kilawatt-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/KilaWattCloud/kilawatt-mcp-server)
 
 - [AIops-tools/Nutanix-AIops](https://github.com/AIops-tools/Nutanix-AIops) [![AIops-tools/Nutanix-AIops MCP server](https://glama.ai/mcp/servers/AIops-tools/Nutanix-AIops/badges/score.svg)](https://glama.ai/mcp/servers/AIops-tools/Nutanix-AIops) 🐍 🏠 - Governed Nutanix Prism Central v4 operations — cluster, VM (AHV + ESXi), storage, networking, snapshot/DR, alerts, and LCM (51 tools) with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.
