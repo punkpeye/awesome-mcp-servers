@@ -3939,4 +3939,4 @@ Now Claude can answer questions about writing MCP servers and how they work
 
 ### 🔒 Security & Governance
 
-- [DROS VajraClaw](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) - Deterministic <1µs in-band execution guardrail and W3C DID security gateway for AI Agent MCP tool calls.
+- [DROS VajraClaw](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) [![Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker MCP server](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker/badges/score.svg)](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) - Deterministic <1µs in-band execution guardrail and W3C DID security gateway for AI Agent MCP tool calls.
