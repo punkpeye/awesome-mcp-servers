@@ -3935,3 +3935,8 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+
+### 🔒 Security & Governance
+
+- [DROS VajraClaw](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) - Deterministic <1µs in-band execution guardrail and W3C DID security gateway for AI Agent MCP tool calls.
