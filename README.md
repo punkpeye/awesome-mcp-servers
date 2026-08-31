@@ -2902,6 +2902,8 @@ Tools for product planning, customer feedback analysis, and prioritization.
 auto-download. Install via `npx atlassian-trello-mcp`.
 - [mohamed-ashraf-elsaed/loupe](https://github.com/mohamed-ashraf-elsaed/loupe) [![mohamed-ashraf-elsaed/loupe MCP server](https://glama.ai/mcp/servers/mohamed-ashraf-elsaed/loupe/badges/score.svg)](https://glama.ai/mcp/servers/mohamed-ashraf-elsaed/loupe) 🎖️ 📇 🏠 - Turns pinned visual product feedback into an actionable backlog: list comments, read one with its target element's HTML, computed styles and screenshot, and update its status. Powers the [Loupe](https://mohamed-ashraf-elsaed.github.io/loupe/) SDK, browser extension, and `loupekit/laravel` package. Install `@loupekit/mcp` (binary `loupe-mcp`).
 
+- [Wagglet](https://wagglet.com/docs/mcp) 🎖️ ☁️ - Prepared-task handoff for teams working with coding agents: read the authorized ticket, Story or person record, then move work with explicit lifecycle actions (claim, deliver, review) rather than free-form status writes, with a fresh operation id per mutation so a retry is not a duplicate. Hosted remote server at `https://wagglet.com/api/mcp`; a personal MCP token names one connection and never overrides that person's current Team roles or permissions, and Team-level MCP access is off by default.
+
 ### 🏠 <a name="real-estate"></a>Real Estate
 
 MCP servers for real estate CRM, property management, and agent workflows.
