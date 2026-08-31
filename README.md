@@ -105,6 +105,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
+- [M4F-S/mnemosyne](https://github.com/M4F-S/mnemosyne) 🐍 🏠 🍎 🪟 🐧 - Local-first memory operating system for AI agents featuring hierarchical wing/room scoping, verbatim transcript ingestion, hybrid graph + vector RRF search, and temporal decay.
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
