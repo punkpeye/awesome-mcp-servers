@@ -3172,7 +3172,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔒 <a name="security"></a>Security
 
-- [CSOAI-ORG/councilof-ai](https://github.com/CSOAI-ORG/councilof-ai) 📇 ☁️ - Independent **AI governance** measurement MCP (`npx -y csoai-gspc-mcp` or POST https://councilof.ai/mcp). Live GSPC board + three-state card verify. **Model safety**, **EU AI Act** evidence, **agent verification**. Measurement, not certification.
+- [CSOAI-ORG/councilof-ai](https://github.com/CSOAI-ORG/councilof-ai) [![CSOAI-ORG/councilof-ai MCP server](https://glama.ai/mcp/servers/CSOAI-ORG/councilof-ai/badges/score.svg)](https://glama.ai/mcp/servers/CSOAI-ORG/councilof-ai) 📇 ☁️ - Independent **AI governance** measurement MCP (`npx -y csoai-gspc-mcp` or POST https://councilof.ai/mcp). Live GSPC board + three-state card verify. **Model safety**, **EU AI Act** evidence, **agent verification**. Measurement, not certification.
 
 - [rudimentall1/agentic-wallet-guardian-v3](https://github.com/rudimentall1/agentic-wallet-guardian-v3) [![rudimentall1/agentic-wallet-guardian-v3 MCP server](https://glama.ai/mcp/servers/rudimentall1/agentic-wallet-guardian-v3/badges/score.svg)](https://glama.ai/mcp/servers/rudimentall1/agentic-wallet-guardian-v3) 🐍 🏠 - Self-hosted security and policy layer for AI agents interacting with blockchain wallets. Agents submit a proposed transaction/action and Guardian evaluates wallet, token, contract, threat-intelligence, simulation, policy and reputation signals before returning an explainable ALLOW / WARN / BLOCK decision. Includes an MCP stdio server, real RPC/Blockscout/DexScreener/GoPlus providers, transaction simulation, local threat lists and policy controls.
 
