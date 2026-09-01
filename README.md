@@ -9,7 +9,9 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
 > [!IMPORTANT]
-> [Awesome MCP Servers](https://glama.ai/mcp/servers) web directory.
+> [ray.run](https://ray.run/) – from idea to a production-grade MCP server in under a minute! 🦜
+
+<sup><a href="https://glama.ai/advertise">Ad</a></sup>
 
 A curated list of awesome Model Context Protocol (MCP) servers.
 
