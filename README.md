@@ -131,6 +131,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy)  📇 🏠 - A comprehensive proxy server that combines multiple MCP servers into a single interface with extensive visibility features. It provides discovery and management of tools, prompts, resources, and templates across servers, plus a playground for debugging when building MCP servers.
 - [WayStation-ai/mcp](https://github.com/waystation-ai/mcp) ☁️ 🍎 🪟 - Seamlessly and securely connect Claude Desktop and other MCP hosts to your favorite apps (Notion, Slack, Monday, Airtable, etc.). Takes less than 90 secs.
 - [wegotdocs/open-mcp](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Turn a web API into an MCP server in 10 seconds and add it to the open source registry: https://open-mcp.org
+- [wisechef-ai/loopskill-api](https://github.com/wisechef-ai/loopskill-api) 🐍 ☁️ - Skill, loop and bundle marketplace for AI agents — 47 MCP tools to search, install, and compose skills, loops, and bundles across a curated catalog plus a 91k+ federated index. Hosted StreamableHTTP endpoint at `https://app.loopskill.io/api/mcp/http/`; self-hostable, MPL-2.0. `npx skills add wisechef-ai/loopskill-marketplace` for the meta-skill, or point any MCP client at the hosted endpoint.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
