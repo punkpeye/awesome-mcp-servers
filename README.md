@@ -35,6 +35,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+* [How to publish your MCP server to the MCP Registry](https://mcporbit.com/blog/publish-mcp-server-to-registry)
 
 ## Community
 
