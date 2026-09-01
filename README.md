@@ -114,6 +114,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🏠 - [Real Estate](#real-estate)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
+* 🎬 - [Screen Recording & Visual Feedback](#screen-recording-and-visual-feedback)
 * 🔒 - [Security](#security)
 * 🌐 - [Social Media](#social-media)
 * 🔮 - [Spirituality & Esoterica](#spirituality-and-esoterica)
@@ -3169,6 +3170,10 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [rejifald/StitchAPI](https://github.com/rejifald/StitchAPI) [![rejifald/StitchAPI MCP server](https://glama.ai/mcp/servers/rejifald/StitchAPI/badges/score.svg)](https://glama.ai/mcp/servers/rejifald/StitchAPI) 📇 ☁️ - Semantic search over the StitchAPI documentation (the hosted docs MCP): `search_docs` returns the most relevant doc sections with deep links, `get_doc` fetches a full page. Hosted endpoint `https://stitchapi.dev/api/mcp`, no auth.
 - [MarcellM01/TinySearch](https://github.com/MarcellM01/TinySearch) [![MarcellM01/TinySearch MCP server](https://glama.ai/mcp/servers/MarcellM01/TinySearch/badges/score.svg)](https://glama.ai/mcp/servers/MarcellM01/TinySearch) 🐍 🏠 - Self-hosted web research for MCP agents: search (SearXNG, with DuckDuckGo fallback), crawl, dense+BM25 rerank, and dedupe into a source-grounded, cited prompt. Local ONNX embeddings by default, or bring an OpenAI-compatible embedding API.
 - [Darko893/haunt-mcp-server](https://github.com/Darko893/haunt-mcp-server) [![Darko893/haunt-mcp-server MCP server](https://glama.ai/mcp/servers/Darko893/haunt-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Darko893/haunt-mcp-server) 📇 ☁️ - [Haunt](https://hauntapi.com/?utm_source=awesome-mcp-servers&utm_medium=listing&utm_campaign=sweep-2026-07) web extraction for AI agents: structured JSON or clean Markdown from permitted public pages, including Cloudflare-protected ones, with honest blocked/login/captcha errors instead of fabricated data
+
+### 🎬 <a name="screen-recording-and-visual-feedback"></a>Screen Recording & Visual Feedback
+
+- [hashfunction/MarkuprPlus](https://github.com/hashfunction/MarkuprPlus) 🎖️ 📇 🏠 🍎 🪟 - Record a window while narrating and drawing on the live screen, then turn each mark into a structured Markdown issue with its own annotated screenshot for AI coding agents. Includes a desktop app, CLI, and local MCP server. `npx --yes --package markuprplus markuprplus-mcp`
 
 ### 🔒 <a name="security"></a>Security
 
