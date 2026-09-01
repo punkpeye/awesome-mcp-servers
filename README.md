@@ -16,7 +16,7 @@
 A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [What is MCP?](#what-is-mcp)
-* [Clients](#clients)
+* [Clients](#clients)- [meanusarcanus/google-serp-extractor](https://github.com/meanusarcanus/google-serp-extractor) 🐍 ☁️ 💻 - High-speed Google search intelligence and token-optimized Markdown grounding engine for AI LLMs and autonomous agents.
 * [Tutorials](#tutorials)
 * [Community](#community)
 * [Legend](#legend)
