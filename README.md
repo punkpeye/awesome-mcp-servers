@@ -2638,6 +2638,8 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding MCP server for nominatim, ArcGIS, Bing
 - [930m310n/geomelon-mcp](https://github.com/930m310n/geomelon-mcp) [![930m310n/geomelon-mcp MCP server](https://glama.ai/mcp/servers/930m310n/geomelon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/930m310n/geomelon-mcp) 🎖️ 📇 ☁️ - Cities, countries, regions, and languages with multilingual names (50 languages) and a free keyless autocomplete tool. Also runs a public hosted instance at `https://mcp.geomelon.dev/mcp`, no signup required.
 
+- [everyai-com/agentprofile](https://github.com/everyai-com/agentprofile) 📇 ☁️ 🏠 - One profile — skills, zero-knowledge credentials, and memory — synced to every agent tool over one MCP URL. Semantic recall (Workers AI), per-client grants + audit log, and OAuth 2.1 + PKCE. Listed on the official MCP registry. Remote Streamable HTTP or self-host on your own Cloudflare account. `https://agentprofile.everyai-com.workers.dev/mcp` or `npx @magicteams_ai/agentprofile`
+
 ### 🎯 <a name="marketing"></a>Marketing
 
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
