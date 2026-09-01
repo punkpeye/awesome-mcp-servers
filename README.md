@@ -3711,6 +3711,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
+- [atomno-mcp/mcp-newbuild](https://github.com/atomno-mcp/mcp-newbuild) [![atomno-mcp/mcp-newbuild MCP server](https://glama.ai/mcp/servers/atomno-mcp/mcp-newbuild/badges/score.svg)](https://glama.ai/mcp/servers/atomno-mcp/mcp-newbuild) 🐍 ☁️ - Russian new-build due diligence: developer checks, escrow, construction permits, 214-FZ compliance.
 - [atomno-mcp/mcp-rosreestr](https://github.com/atomno-mcp/mcp-rosreestr) [![atomno-mcp/mcp-rosreestr MCP server](https://glama.ai/mcp/servers/atomno-mcp/mcp-rosreestr/badges/score.svg)](https://glama.ai/mcp/servers/atomno-mcp/mcp-rosreestr) 🐍 ☁️ - MCP-сервер над открытыми данными Росреестра: проверка квартиры/участка, история сделок (по доступным данным), кадастровая стоимость
 - [douglasgan/asktian](https://github.com/douglasgan/asktian-mcp) [![douglasgan/asktian-mcp MCP server](https://glama.ai/mcp/servers/douglasgan/asktian-mcp/badges/score.svg)](https://glama.ai/mcp/servers/douglasgan/asktian-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Chinese metaphysics (bazi 八字, qimen 奇門, 5-element, daily 干支) as decision-support tools. Ask "when should I do X" and get specific time windows instead of vague advice. 5 tools: daily reading, compat, best-time-for-action, today's energy, name analysis. `npm install -g @asktian/mcp-server`
 
