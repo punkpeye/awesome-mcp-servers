@@ -81,7 +81,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 📐 - [Architecture & Design](#architecture-and-design)
 * 📂 - [Browser Automation](#browser-automation)
 * 🧬 - [Biology Medicine and Bioinformatics](#bio)
-* ☁️ - [Cloud Platforms](#cloud-platforms)
+* ☁️ - [Cloud Pla
+* tforms](#cloud-platforms)
 * 👨‍💻 - [Code Execution](#code-execution)
 * 🤖 - [Coding Agents](#coding-agents)
 * 🖥️ - [Command Line](#command-line)
@@ -526,6 +527,7 @@ Cloud platform service integration. Enables management and interaction with clou
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Integration with Cloudflare services including Workers, KV, R2, and D1
 - [davidlandais/ovh-api-mcp](https://github.com/davidlandais/ovh-api-mcp) [![ovh-api-mcp MCP server](https://glama.ai/mcp/servers/davidlandais/ovh-api-mcp/badges/score.svg)](https://glama.ai/mcp/servers/davidlandais/ovh-api-mcp) 🦀 ☁️ - Code Mode MCP server for the entire OVH API. Two tools (search + execute) give LLMs access to all OVH endpoints via sandboxed JavaScript, using ~1,000 tokens instead of thousands of tool definitions.
 - [cyclops-ui/mcp-cyclops](https://github.com/cyclops-ui/mcp-cyclops) 🎖️ 🏎️ ☁️ - An MCP server that allows AI agents to manage Kubernetes resources through Cyclops abstraction
+- [Dplooy](https://www.dplooy.com/mcp-server) 🎖️ 📇 ☁️ - Publish a complete website to a live URL from your AI assistant — pages plus working contact forms, editable content collections, a booking calendar, hosted media and an AI chatbot. Remote MCP over OAuth at `https://api.dplooy.com/mcp` (no install), or npm [`@dplooy/mcp-server`](https://www.npmjs.com/package/@dplooy/mcp-server).
 - [elementfm/mcp](https://gitlab.com/elementfm/mcp) 🎖️ 🐍 📇 🏠 ☁️ - Open source podcast hosting platform
 - [elevy99927/devops-mcp-webui](https://github.com/elevy99927/devops-mcp-webui) 🐍 ☁️/🏠 - MCP Server for Kubernetes integrated with Open-WebUI, bridging the gap between DevOps and non-technical teams. Supports `kubectl` and `helm` operations through natural-language commands.
 - [erikhoward/adls-mcp-server](https://github.com/erikhoward/adls-mcp-server) 🐍 ☁️/🏠 - MCP Server for Azure Data Lake Storage. It can perform manage containers, read/write/upload/download operations on container files and manage file metadata.
