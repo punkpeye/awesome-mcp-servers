@@ -37,6 +37,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+- [traceguard-core](https://github.com/Sigilith/traceguard-core) 🛡️ - Deterministic zero-trust MCP gateway and runtime perimeter for local agent execution. [![Sigilith/traceguard-core MCP server](https://glama.ai/mcp/servers/Sigilith/traceguard-core/badges/score.svg)](https://glama.ai/mcp/servers/Sigilith/traceguard-core)
 
 ## Community
 
