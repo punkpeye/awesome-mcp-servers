@@ -42,6 +42,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [MCP Servers Directory](https://renhongtao2-cell.github.io/mcpdirectory/) – A curated web-based catalog of MCP servers, browsable by category with search and free submissions.
 
 ## Legend
 
