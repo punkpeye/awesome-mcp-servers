@@ -101,6 +101,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
+* 🍳 - [Food & Cooking](#food-and-cooking)
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
 * 🏭 - [Industrial & IoT](#industrial--iot)
@@ -2169,6 +2170,12 @@ px goldbean-mcp\.
 - [SynderAccounting/gl-importer-plugin](https://github.com/SynderAccounting/gl-importer-plugin) [![SynderAccounting/gl-importer-plugin MCP server](https://glama.ai/mcp/servers/SynderAccounting/gl-importer-plugin/badges/score.svg)](https://glama.ai/mcp/servers/SynderAccounting/gl-importer-plugin) 🎖️ 📇 ☁️ - Import CSV/XLSX accounting data into QuickBooks Online or Xero via the [Synder Importer API](https://importer.synder.com). 19 tools covering imports, field mapping rules, post-import rules, and entity discovery. Install with `npx -y @cloudbusiness/gl-importer-mcp`.
 - [sand0vvv/hyperevm-mcp](https://github.com/sand0vvv/hyperevm-mcp) [![sand0vvv/hyperevm-mcp MCP server](https://glama.ai/mcp/servers/sand0vvv/hyperevm-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sand0vvv/hyperevm-mcp) 📇 ☁️ 🍎 🪟 🐧 - Read-only Hyperliquid / HyperEVM: every way to earn on HYPE in one table — liquid staking, lending with utilisation and max LTV, LP pools, and the HLP vault — with yield a pool earns separated from yield paid in emitted tokens. Also protocol TVL, fees actually paid, perp and spot markets, funding history, and order-book depth with a straight answer when a size will not fill. Where a source publishes a figure whose unit cannot be confirmed, the cell reads n/a instead. No keys, no signing, nothing to configure. `npx -y @sand0vvv/hyperevm-mcp`
 - [polyorderbooks/mcp-server](https://github.com/polyorderbooks/mcp-server) [![polyorderbooks/mcp-server MCP server](https://glama.ai/mcp/servers/polyorderbooks/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/polyorderbooks/mcp-server) 📇 ☁️ - Historical Polymarket order book depth — full L2 bid/ask ladders at 1-second resolution on resolved markets, plus prices, spread and liquidity. Polymarket archives no order book history, so this serves depth captured live.
+### 🍳 <a name="food-and-cooking"></a>Food & Cooking
+
+Meal planning, recipes, and grocery workflows.
+
+- [Agent Chef](https://agentchef.net) 🎖️ ☁️ - Family meal planning run by your own agent: proposes ten weekly dinners, the household votes and comments from personal links, the top picks win, and a grocery list is built minus what's in the pantry. Remote server at `https://agentchef.net/mcp`; say "Run Agent Chef."
+
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
