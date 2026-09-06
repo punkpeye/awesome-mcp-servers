@@ -893,6 +893,15 @@ Tools for encrypting and decrypting data.
 - [ogasurfproject-jpg/horizon-shield](https://github.com/ogasurfproject-jpg/horizon-shield/tree/main/workers/hs-jidec-mcp) [![ogasurfproject-jpg/horizon-shield MCP server](https://glama.ai/mcp/servers/ogasurfproject-jpg/horizon-shield/badges/score.svg)](https://glama.ai/mcp/servers/ogasurfproject-jpg/horizon-shield) 📇 ☁️ - Bitcoin-anchored, trustless public verification ledger (JIDEC) for AI-agent evidence: fetch the record bytes, recompute the SHA-256, and check the OpenTimestamps/Bitcoin timestamp — no trust in the issuer required.
 - [laszlopere/mcp-bytesmith](https://github.com/laszlopere/mcp-bytesmith) [![laszlopere/mcp-bytesmith MCP server](https://glama.ai/mcp/servers/laszlopere/mcp-bytesmith/badges/score.svg)](https://glama.ai/mcp/servers/laszlopere/mcp-bytesmith) 🐍 🏠 - Local byte-wrangling toolbox: encoding (hex/Base64/Base32/Base58/Base45…), cryptographic + CRC hashing, base conversion, and CSPRNG tokens/passphrases, plus an opt-in Ethereum/EVM toolset (keccak, ABI/RLP codecs, EIP-191/712 hashing, function/event selectors, EIP-55). No network calls. `uvx mcp-bytesmith`.
 
+### ⚖️ <a name="ai-governance--compliance"></a>AI Governance & Compliance
+
+MCP servers that measure, attest, or audit AI systems against regulation — signed evidence, re-checkable, no vendor lock.
+
+- [CSOAI-ORG/csoai-watermark-attest-mcp](https://github.com/CSOAI-ORG/csoai-watermark-attest-mcp) 🐍 ☁️ - EU AI Act Article 50 watermarking + C2PA 2.1 authenticity attestation, Ed25519-signed and offline-verifiable. `uvx meok-watermark-attest-mcp`.
+- [CSOAI-ORG/csoai-governance-crosswalk-mcp](https://github.com/CSOAI-ORG/csoai-governance-crosswalk-mcp) 🐍 ☁️ - Named crosswalk across 13 AI governance frameworks x 52 articles (EU AI Act, NIST AI RMF, ISO 42001, OWASP, EU CRA...). Query a requirement, get the mapped controls.
+- [CSOAI-ORG/ai-bom-mcp](https://github.com/CSOAI-ORG/ai-bom-mcp) 🐍 ☁️ - AI Bill of Materials generator + auditor: inventory every model, dataset, licence, and provider an AI depends on, with a diffable SBOM.
+- [meok-eu-cra-mcp](https://pypi.org/project/meok-eu-cra-mcp/) 🐍 ☁️ - EU Cyber Resilience Act compliance MCP: map products to CRA annexes and evidence requirements.
+
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
 
