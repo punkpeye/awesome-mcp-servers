@@ -2174,7 +2174,7 @@ px goldbean-mcp\.
 
 Meal planning, recipes, and grocery workflows.
 
-- [Agent Chef](https://agentchef.net) 🎖️ ☁️ - Family meal planning run by your own agent: proposes ten weekly dinners, the household votes and comments from personal links, the top picks win, and a grocery list is built minus what's in the pantry. Remote server at `https://agentchef.net/mcp`; say "Run Agent Chef."
+- [coryshaw/agent-chef-mcp](https://github.com/coryshaw/agent-chef-mcp) [![coryshaw/agent-chef-mcp MCP server](https://glama.ai/mcp/servers/coryshaw/agent-chef-mcp/badges/score.svg)](https://glama.ai/mcp/servers/coryshaw/agent-chef-mcp) 🎖️ ☁️ - Agent Chef: family meal planning run by your own agent: proposes ten weekly dinners, the household votes and comments from personal links, the top picks win, and a grocery list is built minus what's in the pantry. Remote server at `https://agentchef.net/mcp`; say "Run Agent Chef."
 
 ### 🎮 <a name="gaming"></a>Gaming
 
