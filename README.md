@@ -3915,6 +3915,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [vivek081166/japan-utils-mcp](https://github.com/vivek081166/japan-utils-mcp) [![vivek081166/japan-utils-mcp MCP server](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vivek081166/japan-utils-mcp) 🐍 🏠 🍎 🪟 🐧 - Japan-specific utilities for AI agents: era ↔ Western year conversion (令和8年 ↔ 2026), kanji-to-romaji transliteration, 7-digit postal code lookup, national holiday calendar, hiragana ↔ katakana conversion, full-width ↔ half-width normalization, and statistical Japanese name splitting. 9 tools, MIT licensed, installable via `uvx japan-utils-mcp`.
 
 ## Tips and Tricks
+- [labaccessnow/netip-mcp](https://github.com/labaccessnow/netip-mcp) [![labaccessnow/netip-mcp MCP server](https://glama.ai/mcp/servers/labaccessnow/netip-mcp/badges/score.svg)](https://glama.ai/mcp/servers/labaccessnow/netip-mcp) 📇 🏠 🍎 🪟 🐧 - The whatismynetip.com toolbox: subnet math for IPv4 and IPv6, IP conversion, IPv6 normalisation, MAC vendor lookup against the full IEEE registry (bundled), a hand-written 100-port directory with exposure verdicts, DNS and reverse DNS over DNS-over-HTTPS, blocklist checks that are honest about lists that refuse public resolvers, TLS certificate inspection with an SSRF guard, and the public IP the internet sees. No account, no telemetry, nothing read from disk. `npx -y github:labaccessnow/netip-mcp`
 
 ### Official prompt to inform LLMs how to use MCP
 
