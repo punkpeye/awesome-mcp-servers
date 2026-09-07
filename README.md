@@ -3395,6 +3395,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [timescale/rsigma](https://github.com/timescale/rsigma) [![timescale/rsigma MCP server](https://glama.ai/mcp/servers/timescale/rsigma/badges/score.svg)](https://glama.ai/mcp/servers/timescale/rsigma) 🎖️ 🦀 🏠 🍎 🪟 🐧 - Exposes the RSigma Sigma detection-engineering toolkit to AI agents over stdio or Streamable HTTP with `rsigma mcp serve`. Tools to author, lint, validate, and convert Sigma detection rules, evaluate and explain detections against log events, and inspect correlation state, all backed by a native Rust engine.
 - [dengyier/OpenWorkProof](https://github.com/dengyier/OpenWorkProof) [![dengyier/OpenWorkProof MCP server](https://glama.ai/mcp/servers/dengyier/OpenWorkProof/badges/score.svg)](https://glama.ai/mcp/servers/dengyier/OpenWorkProof) 🐍 🏠 ☁️ - Verifiable execution protocol for AI agent tool calls. Ed25519-signed PolicyDecisions, causal evidence chains (RFC 8785 JCS), and offline verification from SQLite ledger. 2,281 tests, 2 real-world bugs demonstrated end-to-end. `pip install openworkproof`
 
+- [Toninobandolero/mcp-lockguard](https://github.com/Toninobandolero/mcp-lockguard) 🐍 🏠 🍎 🪟 🐧 - Cross-session lockfile for MCP servers: hashes each tool's name, description, and input schema, then flags drift (rug-pulls / tool poisoning) between agent sessions with per-field severity. No proxy, no dependencies. `pip install mcp-lockguard`
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
