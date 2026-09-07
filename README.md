@@ -805,6 +805,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- [1gr14/agents-party](https://github.com/1gr14/agents-party) 📇 🏠 ☁️ 🍎 🪟 🐧 - One end-to-end encrypted channel where agent sessions talk to each other: Claude Code, Cursor, Codex or any other agent, on one machine or across machines. Messages are addressed to everyone or to a named participant; the server stores only ciphertext. Run locally over SQLite files, on your own host, or on agents-party.com.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
 - [adecubed/gigamail](https://github.com/adecubed/gigamail) [![adecubed/gigamail MCP server](https://glama.ai/mcp/servers/adecubed/gigamail/badges/score.svg)](https://glama.ai/mcp/servers/adecubed/gigamail) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Your real mailbox and calendar for your agent (Microsoft 365 via Graph, or any IMAP): 24 tools for reading, search, attachment text, sender history, drafting from identity and knowledge files, and free-slot computation — with out-of-band human approval on every send, reply, delete and calendar write, so the agent cannot approve its own actions. `pip install "gigamail[all]"`.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline
