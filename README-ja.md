@@ -341,6 +341,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - GitKraken の API とやり取りするための CLI。gk mcp 経由で MCP サーバーも含まれており、GitKraken の API だけでなく、Jira、GitHub、GitLab などもラップします。ローカルツールやリモートサービスとも連携可能です。
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCPサーバーは、MCP上に構築されたサーバーで、大規模言語モデル（LLM）によって解釈された自然言語コマンドを使用して、ユーザーがUnitree Go2ロボットを制御できるようにします。
 - [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Claude Code向けのMermaid図レンダリングMCPサーバー。ライブリロード機能を備え、複数のエクスポート形式（SVG、PNG、PDF）とテーマをサポート。
+- [logisky/logisheets-mcp](https://github.com/logisky/logisheets-mcp) [![logisky/logisheets-mcp MCP server](https://glama.ai/mcp/servers/logisky/logisheets-mcp/badges/score.svg)](https://glama.ai/mcp/servers/logisky/logisheets-mcp) 🎖️ 📇 🏠 🍎 🪟 🐧 - エージェント向けの本物のExcel互換スプレッドシートエンジン（[LogiSheets](https://github.com/logisky/LogiSheets)、RustをWASMで実行）。モデルが暗算せずに済む決定論的な数式、座標ではなく（ブロック・キー・フィールド）で参照する名前付きブロックにより行を挿入しても参照が壊れない、列全体に対する数式ルール、シナリオの一括計算とゴールシークを1回の呼び出しで実行、そして最後に本物の `.xlsx` を出力。ローカルで動作し、ソケットを一切開きません。`npx logisheets-mcp`
 
 ### 🧮 <a name="data-science-tools"></a>データサイエンスツール
 
@@ -471,6 +472,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - Open Strategy Partnersからの マーケティングツールスイートで、文章スタイル、編集コード、製品マーケティング価値マップ作成を含む。
 - [nictuku/meta-ads-mcp](https://github.com/nictuku/meta-ads-mcp) 🐍 ☁️ 🏠 - AIエージェントがMeta広告のパフォーマンスを監視・最適化し、キャンペーンメトリクスを分析し、オーディエンスターゲティングを調整し、クリエイティブアセットを管理し、シームレスなGraph API統合を通じて広告費とキャンペーン設定についてデータ主導の推奨事項を作成できるようにします。
 - [marketplaceadpros/amazon-ads-mcp-server](https://github.com/MarketplaceAdPros/amazon-ads-mcp-server) 📇 ☁️ - Amazon Advertisingと対話し、キャンペーンメトリクスと設定を分析するツールを有効にします。
+- [rooquiz/rooquiz-mcp](https://github.com/rooquiz/rooquiz-mcp) [![rooquiz/rooquiz-mcp MCP server](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp) 🎖️ 📇 ☁️ - [RooQuiz](https://rooquiz.com) でアセスメントを作成・運用できます。知識クイズ、スコア型クイズ、「あなたはどの X タイプ？」の診断型クイズを AI 支援で作成し、多言語のミラー翻訳にも対応。結果ページで獲得したリード（タグ付け、担当割り当て、コメント）、回答者、送信記録、予約、コンバージョン統計までファネル全体を扱えます。ホスト型の Streamable HTTP エンドポイント `https://payload.rooquiz.com/api/mcp`、OAuth 2.1 の動的クライアント登録に対応し、API キーは不要です。
 
 ### 📊 <a name="monitoring"></a>監視
 

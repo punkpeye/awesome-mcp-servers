@@ -291,6 +291,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - 一個用於與 GitKraken API 互動的 CLI。透過 gk mcp 包含一個 MCP 伺服器，不僅包裝了 GitKraken API，還支援 Jira、GitHub、GitLab 等等。可搭配本地工具與遠端服務使用。
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP伺服器是一個基於MCP構建的伺服器，允許使用者透過由大型語言模型解讀的自然語言指令來控制Unitree Go2機器人。
 - [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Claude Code的Mermaid圖表渲染MCP伺服器，具有即時重新載入功能，支援多種匯出格式（SVG、PNG、PDF）和主題。
+- [logisky/logisheets-mcp](https://github.com/logisky/logisheets-mcp) [![logisky/logisheets-mcp MCP server](https://glama.ai/mcp/servers/logisky/logisheets-mcp/badges/score.svg)](https://glama.ai/mcp/servers/logisky/logisheets-mcp) 🎖️ 📇 🏠 🍎 🪟 🐧 - 面向智慧代理的真正 Excel 相容試算表引擎，基於 [LogiSheets](https://github.com/logisky/LogiSheets)（Rust 撰寫，透過 WASM 執行）。確定性公式，模型無需心算；具名區塊以（區塊、鍵、欄位）定址而非座標，插入列後參照仍指向原本的意義；欄位公式按整欄宣告一次；批次情境掃描與反解目標值皆可一次呼叫完成；最終產出可直接開啟的真實 `.xlsx`。本機執行，不開任何網路連接埠。`npx logisheets-mcp`
 
 ### 🧮 數據科學工具
 
@@ -387,6 +388,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - TikTok Ads API 整合的模型上下文協議伺服器，讓 AI 助手能夠透過 OAuth 認證流程管理廣告活動、分析績效指標、處理受眾和創意內容
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - Open Strategy Partners 提供的行銷工具套件，包含寫作風格指南、編輯規範和產品行銷價值圖譜創建工具
+- [rooquiz/rooquiz-mcp](https://github.com/rooquiz/rooquiz-mcp) [![rooquiz/rooquiz-mcp MCP server](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp) 🎖️ 📇 ☁️ - 在 [RooQuiz](https://rooquiz.com) 上建立和營運測驗——知識問答、計分測驗以及「你是哪種 X」結果型測驗，支援 AI 輔助出題和多語言鏡像翻譯；並打通轉換漏斗：管理結果頁擷取的潛在客戶（標籤、指派、留言）、作答者、提交紀錄、預約和轉換統計。託管的 Streamable HTTP 端點 `https://payload.rooquiz.com/api/mcp`，OAuth 2.1 動態用戶端註冊，無需 API 金鑰。
 
 ### 📊 <a name="monitoring"></a>監測
 
