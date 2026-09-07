@@ -103,6 +103,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
+* 🪪 - [Identity](#identity)
 * 🏭 - [Industrial & IoT](#industrial--iot)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
@@ -2314,6 +2315,12 @@ Control smart home devices, home network equipment, and automation systems.
 - [claymore666/debmatic-mcp](https://github.com/claymore666/debmatic-mcp) [![claymore666/debmatic-mcp MCP server](https://glama.ai/mcp/servers/claymore666/debmatic-mcp/badges/score.svg)](https://glama.ai/mcp/servers/claymore666/debmatic-mcp) 📇 🏠 🍎 🪟 🐧 - Control a HomeMatic / debmatic CCU (eq-3 home automation) over its JSON-RPC and HM-Script APIs — switch and dim actuators, read sensors, system variables and service messages, run programs, and manage rooms, functions, channel links and device assignments. 25 tools over HTTP or stdio; runs locally against your own CCU.
 - [NickoScope/nickol-knx-mcp](https://github.com/NickoScope/nickol-knx-mcp) [![NickoScope/nickol-knx-mcp MCP server](https://glama.ai/mcp/servers/NickoScope/nickol-knx-mcp/badges/score.svg)](https://glama.ai/mcp/servers/NickoScope/nickol-knx-mcp) 🐍 🏠 - Design-time KNX/ETS6 assistant: parses .knxproj (read-only, no bus access), validates DPT/naming/command-status pairing, and generates Home Assistant YAML + ETS XML/CSV exports.
 - [alexpfau/zigbee2mqtt-mcp](https://github.com/alexpfau/zigbee2mqtt-mcp) [![alexpfau/zigbee2mqtt-mcp MCP server](https://glama.ai/mcp/servers/alexpfau/zigbee2mqtt-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alexpfau/zigbee2mqtt-mcp) 📇 🏠 🍎 🪟 🐧 - Administer a Zigbee2MQTT estate over its MQTT bridge API — whole-network health report (offline devices, weak links, low batteries, pending OTA, devices rejoining), mesh topology, pairing, binding, reporting intervals and device options. 23 tools across read/safe/destructive tiers; destructive tools are disabled by default. `npx zigbee2mqtt-mcp`
+
+### 🪪 <a name="identity"></a>Identity
+
+Servers that establish who a person or an agent is and what may be known about them.
+
+- [true-alter/cli](https://github.com/true-alter/cli) [![true-alter/cli MCP server](https://glama.ai/mcp/servers/true-alter/cli/badges/score.svg)](https://glama.ai/mcp/servers/true-alter/cli) 🎖️ 📇 ☁️ - Companies pay other companies to find out who you are. ~Alter pays you because you choose to be found. Claim `~yourname`, take back control of your digital identity, and keep 75% every time someone pays to find you. Golden threads turn curiosity into side quests that prove what you can actually do so you never write a CV again. Start or join a collective where a team, a union, or a whole country earns identity income the same way you do. Being known. `npm i -g @truealter/cli && alter wire`
 
 ### 🏭 <a name="industrial--iot"></a>Industrial & IoT
 
