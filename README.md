@@ -3694,7 +3694,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
 - [wkoverfield/quilt](https://github.com/wkoverfield/quilt) [![wkoverfield/quilt MCP server](https://glama.ai/mcp/servers/wkoverfield/quilt/badges/score.svg)](https://glama.ai/mcp/servers/wkoverfield/quilt) 📇 🏠 🍎 🪟 🐧 - Line-level authorship for a shared Git checkout, so multiple AI coding agents work in one repo and each commits only its own lines. Symbol-level claims prevent collisions and every commit is an ordinary Git commit.
 - [zach-snell/bbkt](https://github.com/zach-snell/bbkt) [![bbkt MCP server](https://glama.ai/mcp/servers/zach-snell/bbkt/badges/score.svg)](https://glama.ai/mcp/servers/zach-snell/bbkt) 🏎️ ☁️ 🍎 🪟 🐧 - Bitbucket Cloud CLI and MCP server. Manages workspaces, repos, PRs, pipelines, issues, and source code. Token introspection hides tools the API key can't use.
-- [zarcherlot/code-relay](https://github.com/zarcherlot/code-relay) 🏎️ 🏠 🍎 🪟 🐧 - Branch-scoped runbooks and cross-machine verification with auditable receipts for coding agents.
+- [zarcherlot/code-relay](https://github.com/zarcherlot/code-relay) [![zarcherlot/code-relay MCP server](https://glama.ai/mcp/servers/zarcherlot/code-relay/badges/score.svg)](https://glama.ai/mcp/servers/zarcherlot/code-relay) 🏎️ 🏠 🍎 🪟 🐧 - Branch-scoped runbooks and cross-machine verification with auditable receipts for coding agents.
 
 ### 🏢 <a name="workplace-and-productivity"></a>Workplace & Productivity
 
