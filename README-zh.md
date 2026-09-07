@@ -368,6 +368,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP服务器是一个基于MCP构建的服务器，允许用户通过由大语言模型解释的自然语言指令来控制Unitree Go2机器人。
 - [zaizaizhao/mcp-swagger-server](https://github.com/zaizaizhao/mcp-swagger-server) 📇 ☁️ 🏠 - mcp-swagger-server将任何符合 OpenAPI/Swagger 规范的 REST API 转换为 Model Context Protocol (MCP) 格式,以支持ai客户端调用。
 - [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Claude Code的Mermaid图表渲染MCP服务器，具有实时重新加载功能，支持多种导出格式（SVG、PNG、PDF）和主题。
+- [logisky/logisheets-mcp](https://github.com/logisky/logisheets-mcp) [![logisky/logisheets-mcp MCP server](https://glama.ai/mcp/servers/logisky/logisheets-mcp/badges/score.svg)](https://glama.ai/mcp/servers/logisky/logisheets-mcp) 🎖️ 📇 🏠 🍎 🪟 🐧 - 面向智能体的真正 Excel 兼容电子表格引擎，基于 [LogiSheets](https://github.com/logisky/LogiSheets)（Rust 编写，通过 WASM 运行）。确定性公式，模型无需心算；命名区块以（区块、键、字段）寻址而非坐标，插入行后引用依然指向原来的含义；字段公式按整列声明一次；批量情景扫描与反解目标值都可一次调用完成；最终产出可直接打开的真实 `.xlsx`。本地运行，不开任何网络端口。`npx logisheets-mcp`
 
 ### 🧮 <a name="data-science-tools"></a>数据科学工具
 
