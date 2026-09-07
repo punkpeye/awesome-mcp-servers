@@ -145,6 +145,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 提供艺术收藏、文化遗产和博物馆数据库的访问与探索。让 AI 模型能够搜索和分析艺术文化内容。
 
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 提供全面精准的八字排盘和测算信息
+- [fatenava/fatenava-mcp](https://github.com/fatenava/fatenava-mcp) [![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp) 🎖️ 📇 🏠 ☁️ 🍎 🪟 🐧 - 一站式命理排盘:八字(四柱)、紫微斗数、西洋占星本命盘三合一——真太阳时校正,多语言输入(中/英/日/韩),免费、无需注册。`npx -y fatenava-mcp`
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - 从您的视频集合中添加、分析、搜索和生成视频剪辑
 - [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - AniList MCP 服务器，提供品味感知推荐、观看分析、社交工具和完整的列表管理。
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 荷兰国立博物馆 API 集成，支持艺术品搜索、详情查询和收藏品浏览
@@ -368,6 +369,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP服务器是一个基于MCP构建的服务器，允许用户通过由大语言模型解释的自然语言指令来控制Unitree Go2机器人。
 - [zaizaizhao/mcp-swagger-server](https://github.com/zaizaizhao/mcp-swagger-server) 📇 ☁️ 🏠 - mcp-swagger-server将任何符合 OpenAPI/Swagger 规范的 REST API 转换为 Model Context Protocol (MCP) 格式,以支持ai客户端调用。
 - [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Claude Code的Mermaid图表渲染MCP服务器，具有实时重新加载功能，支持多种导出格式（SVG、PNG、PDF）和主题。
+- [logisky/logisheets-mcp](https://github.com/logisky/logisheets-mcp) [![logisky/logisheets-mcp MCP server](https://glama.ai/mcp/servers/logisky/logisheets-mcp/badges/score.svg)](https://glama.ai/mcp/servers/logisky/logisheets-mcp) 🎖️ 📇 🏠 🍎 🪟 🐧 - 面向智能体的真正 Excel 兼容电子表格引擎，基于 [LogiSheets](https://github.com/logisky/LogiSheets)（Rust 编写，通过 WASM 运行）。确定性公式，模型无需心算；命名区块以（区块、键、字段）寻址而非坐标，插入行后引用依然指向原来的含义；字段公式按整列声明一次；批量情景扫描与反解目标值都可一次调用完成；最终产出可直接打开的真实 `.xlsx`。本地运行，不开任何网络端口。`npx logisheets-mcp`
 
 ### 🧮 <a name="data-science-tools"></a>数据科学工具
 
@@ -484,6 +486,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - TikTok Ads API 集成的模型上下文协议服务器，让 AI 助手能够通过 OAuth 认证流程管理广告活动、分析性能指标、处理受众和创意内容
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - Open Strategy Partners 提供的营销工具套件，包含写作风格指南、编辑规范和产品营销价值图谱创建工具
+- [rooquiz/rooquiz-mcp](https://github.com/rooquiz/rooquiz-mcp) [![rooquiz/rooquiz-mcp MCP server](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp) 🎖️ 📇 ☁️ - 在 [RooQuiz](https://rooquiz.com) 上创建和运营测评——知识问答、计分测验以及“你是哪种 X”结果型测验，支持 AI 辅助出题和多语言镜像翻译；并打通转化漏斗：管理结果页捕获的销售线索（打标签、分配、评论）、答题者、提交记录、预约和转化统计。托管的 Streamable HTTP 端点 `https://payload.rooquiz.com/api/mcp`，OAuth 2.1 动态客户端注册，无需 API 密钥。
 
 ### 📊 <a name="monitoring"></a>监测
 
