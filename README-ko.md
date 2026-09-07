@@ -131,6 +131,7 @@
 예술 컬렉션, 문화 유산 및 박물관 데이터베이스에 접근하고 탐색합니다. AI 모델이 예술 및 문화 콘텐츠를 검색하고 분석할 수 있게 합니다.
 
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 포괄적이고 정확한 사주팔자(八字) 분석과 해석 제공
+- [fatenava/fatenava-mcp](https://github.com/fatenava/fatenava-mcp) [![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp) 🎖️ 📇 🏠 ☁️ 🍎 🪟 🐧 - 올인원 운명 차트: 사주(팔자)·자미두수·서양 점성술 출생 차트를 하나의 도구로 — 진태양시 보정, 다국어 입력(中/EN/日/한국어), 무료·계정 불필요. `npx -y fatenava-mcp`
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - Video Jungle 컬렉션에서 비디오 편집 추가, 분석, 검색 및 생성
 - [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - 취향 기반 추천, 시청 분석, 소셜 도구 및 전체 목록 관리를 제공하는 AniList MCP 서버
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 작품 검색, 세부 정보 및 컬렉션을 위한 Rijksmuseum API 통합
@@ -334,6 +335,7 @@
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - GitKraken API와 상호작용하기 위한 CLI입니다. gk mcp를 통해 MCP 서버를 포함하고 있으며, GitKraken API뿐만 아니라 Jira, GitHub, GitLab 등도 래핑합니다. 로컬 도구 및 원격 서비스와 함께 작동합니다.
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCP 서버는 MCP 기반으로 구축된 서버로, 사용자가 LLM이 해석한 자연어 명령을 통해 Unitree Go2 로봇을 제어할 수 있도록 해줍니다.
 - [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Claude Code용 Mermaid 다이어그램 렌더링 MCP 서버. 라이브 리로드 기능을 갖추고 있으며 여러 내보내기 형식(SVG, PNG, PDF) 및 테마를 지원합니다.
+- [logisky/logisheets-mcp](https://github.com/logisky/logisheets-mcp) [![logisky/logisheets-mcp MCP server](https://glama.ai/mcp/servers/logisky/logisheets-mcp/badges/score.svg)](https://glama.ai/mcp/servers/logisky/logisheets-mcp) 🎖️ 📇 🏠 🍎 🪟 🐧 - 에이전트를 위한 진짜 Excel 호환 스프레드시트 엔진([LogiSheets](https://github.com/logisky/LogiSheets), Rust로 작성되어 WASM으로 실행). 모델이 암산할 필요 없는 결정론적 수식, 좌표 대신 (블록, 키, 필드)로 주소를 지정해 행을 삽입해도 깨지지 않는 이름 있는 블록, 열 전체에 적용되는 수식 규칙, 시나리오 일괄 계산과 목표값 찾기를 한 번의 호출로 처리, 그리고 마지막에 진짜 `.xlsx` 출력. 로컬에서 실행되며 소켓을 열지 않습니다. `npx logisheets-mcp`
 
 
 ### 🧮 데이터 과학 도구
@@ -443,6 +445,7 @@
 
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - TikTok Ads API 통합을 위한 Model Context Protocol 서버로, AI 어시스턴트가 OAuth 인증 플로우를 통해 캠페인 관리, 성능 분석, 오디언스 및 크리에이티브 처리를 수행할 수 있습니다.
 - [Open Strategy Partners 마케팅 도구](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - 글쓰기 스타일, 편집 코드, 제품 마케팅 가치 맵 생성을 포함한 Open Strategy Partners의 마케팅 도구 모음.
+- [rooquiz/rooquiz-mcp](https://github.com/rooquiz/rooquiz-mcp) [![rooquiz/rooquiz-mcp MCP server](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp) 🎖️ 📇 ☁️ - [RooQuiz](https://rooquiz.com)에서 평가를 만들고 운영합니다. 지식 퀴즈, 점수형 퀴즈, "당신은 어떤 X인가요" 결과형 퀴즈를 AI 지원으로 작성하고 다국어 미러 번역을 제공하며, 결과 페이지에서 수집한 리드(태그, 담당자 지정, 댓글), 응답자, 제출 기록, 예약, 전환 통계까지 퍼널 전체를 다룹니다. 호스팅되는 Streamable HTTP 엔드포인트 `https://payload.rooquiz.com/api/mcp`, OAuth 2.1 동적 클라이언트 등록 지원, API 키 불필요.
 
 ### 📊 <a name="monitoring"></a>모니터링
 
@@ -507,6 +510,7 @@
 - [VMS MCP 서버](https://github.com/jyjune/mcp_vms) 🐍 🏠 🪟 VMS MCP 서버는 CCTV 녹화 프로그램(VMS)에 연결하여 녹화된 영상과 실시간 영상을 가져오며, 특정 채널의 특정 시간에 실시간 영상이나 재생 화면을 표시하는 등의 VMS 소프트웨어 제어 도구도 제공합니다.
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - [Intruder](https://www.intruder.io/)에 액세스할 수 있는 MCP 서버로, 인프라의 보안 취약점을 식별, 이해 및 해결하는 데 도움을 줍니다.
 - [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) [![quantakrypto/pqc-tools MCP server](https://glama.ai/mcp/servers/quantakrypto/pqc-tools/badges/score.svg)](https://glama.ai/mcp/servers/quantakrypto/pqc-tools) 📇 🏠 ☁️ - AI 코딩 에이전트를 위한 포스트 양자 대비 도구. 양자에 취약한 암호(RSA/ECDH/ECDSA/DH)를 코드에서 스캔하고, harvest-now-decrypt-later(지금 수집해 나중에 복호화) 위험을 설명하며, NIST ML-KEM/ML-DSA/SLH-DSA(및 하이브리드) 마이그레이션 지침을 제공하고, 수정 사항을 검증하며 의존성을 점검합니다. 콘텐츠 기반의 자문용 도구만 제공. 로컬(`npx @quantakrypto/mcp`) 또는 [mcp.quantakrypto.com](https://mcp.quantakrypto.com)의 호스팅된 OAuth 엔드포인트에서 실행합니다.
 
 ### 🏃 <a name="sports"></a>스포츠
 
