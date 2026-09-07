@@ -444,6 +444,7 @@
 
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - TikTok Ads API 통합을 위한 Model Context Protocol 서버로, AI 어시스턴트가 OAuth 인증 플로우를 통해 캠페인 관리, 성능 분석, 오디언스 및 크리에이티브 처리를 수행할 수 있습니다.
 - [Open Strategy Partners 마케팅 도구](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - 글쓰기 스타일, 편집 코드, 제품 마케팅 가치 맵 생성을 포함한 Open Strategy Partners의 마케팅 도구 모음.
+- [rooquiz/rooquiz-mcp](https://github.com/rooquiz/rooquiz-mcp) [![rooquiz/rooquiz-mcp MCP server](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp) 🎖️ 📇 ☁️ - [RooQuiz](https://rooquiz.com)에서 평가를 만들고 운영합니다. 지식 퀴즈, 점수형 퀴즈, "당신은 어떤 X인가요" 결과형 퀴즈를 AI 지원으로 작성하고 다국어 미러 번역을 제공하며, 결과 페이지에서 수집한 리드(태그, 담당자 지정, 댓글), 응답자, 제출 기록, 예약, 전환 통계까지 퍼널 전체를 다룹니다. 호스팅되는 Streamable HTTP 엔드포인트 `https://payload.rooquiz.com/api/mcp`, OAuth 2.1 동적 클라이언트 등록 지원, API 키 불필요.
 
 ### 📊 <a name="monitoring"></a>모니터링
 

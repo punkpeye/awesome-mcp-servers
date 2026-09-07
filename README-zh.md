@@ -485,6 +485,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - TikTok Ads API 集成的模型上下文协议服务器，让 AI 助手能够通过 OAuth 认证流程管理广告活动、分析性能指标、处理受众和创意内容
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - Open Strategy Partners 提供的营销工具套件，包含写作风格指南、编辑规范和产品营销价值图谱创建工具
+- [rooquiz/rooquiz-mcp](https://github.com/rooquiz/rooquiz-mcp) [![rooquiz/rooquiz-mcp MCP server](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp) 🎖️ 📇 ☁️ - 在 [RooQuiz](https://rooquiz.com) 上创建和运营测评——知识问答、计分测验以及“你是哪种 X”结果型测验，支持 AI 辅助出题和多语言镜像翻译；并打通转化漏斗：管理结果页捕获的销售线索（打标签、分配、评论）、答题者、提交记录、预约和转化统计。托管的 Streamable HTTP 端点 `https://payload.rooquiz.com/api/mcp`，OAuth 2.1 动态客户端注册，无需 API 密钥。
 
 ### 📊 <a name="monitoring"></a>监测
 

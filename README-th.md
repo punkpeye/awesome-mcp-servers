@@ -485,6 +485,7 @@
 
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - เซิร์ฟเวอร์ Model Context Protocol สำหรับการผสานรวม TikTok Ads API ช่วยให้ผู้ช่วย AI สามารถจัดการแคมเปญ วิเคราะห์เมตริกประสิทธิภาพ จัดการกลุ่มเป้าหมายและสร้างสรรค์ผ่านการรับรองตัวตน OAuth
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - ชุดเครื่องมือทางการตลาดจาก Open Strategy Partners รวมถึงรูปแบบการเขียน รหัสการแก้ไข และการสร้างแผนที่มูลค่าการตลาดผลิตภัณฑ์
+- [rooquiz/rooquiz-mcp](https://github.com/rooquiz/rooquiz-mcp) [![rooquiz/rooquiz-mcp MCP server](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp) 🎖️ 📇 ☁️ - สร้างและใช้งานแบบประเมินบน [RooQuiz](https://rooquiz.com) — แบบทดสอบความรู้ แบบทดสอบให้คะแนน และแบบทดสอบผลลัพธ์ ("คุณเป็น X แบบไหน") พร้อมการเขียนโดยมี AI ช่วย และการแปลหลายภาษาแบบมิเรอร์ จากนั้นจัดการฟันเนลทั้งหมด: ลีดที่เก็บจากหน้าผลลัพธ์ (ติดแท็ก มอบหมาย แสดงความคิดเห็น) ผู้ตอบ การส่งแบบทดสอบ การจอง และสถิติการแปลง เอนด์พอยต์ Streamable HTTP แบบโฮสต์ที่ `https://payload.rooquiz.com/api/mcp` รองรับ OAuth 2.1 พร้อมการลงทะเบียนไคลเอนต์แบบไดนามิก ไม่ต้องใช้ API key
 
 ### 📊 การตรวจสอบ
 

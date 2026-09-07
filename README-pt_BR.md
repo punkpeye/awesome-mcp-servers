@@ -423,6 +423,7 @@ Ferramentas para criar e editar conteúdo de marketing, trabalhar com meta dados
 
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - Um servidor Model Context Protocol para integração com a API do TikTok Ads, permitindo que assistentes de IA gerenciem campanhas, analisem métricas de desempenho, lidem com audiências e criativos através do fluxo de autenticação OAuth.
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - Um conjunto de ferramentas de marketing da Open Strategy Partners, incluindo estilo de escrita, códigos de edição e criação de mapa de valor de marketing de produto.
+- [rooquiz/rooquiz-mcp](https://github.com/rooquiz/rooquiz-mcp) [![rooquiz/rooquiz-mcp MCP server](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp) 🎖️ 📇 ☁️ - Crie e opere avaliações no [RooQuiz](https://rooquiz.com) — quizzes de conhecimento, quizzes pontuados e quizzes de resultado ("qual X você é") com autoria assistida por IA e traduções espelhadas — e trabalhe o funil completo: leads capturados nas páginas de resultado (marcar, atribuir, comentar), respondentes, envios, agendamentos e estatísticas de conversão. Endpoint Streamable HTTP hospedado em `https://payload.rooquiz.com/api/mcp`, OAuth 2.1 com registro dinâmico de cliente, sem chave de API.
 
 ### 📊 <a name="monitoramento"></a>Monitoramento
 
