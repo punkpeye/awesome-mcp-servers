@@ -448,7 +448,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/memory) 📇 🏠 - コンテキストを維持するための知識グラフベースの長期記憶システム
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - AIロールプレイとストーリー生成に焦点を当てた強化されたグラフベースのメモリ
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - CursorやWindsurfなどのIDEでコーディングの好みやパターンを管理するためのMem0用モデルコンテキストプロトコルサーバー。コード実装、ベストプラクティス、技術文書の保存、取得、意味的な処理のためのツールを提供します
-- [memcell-ai/cli](https://github.com/memcell-ai/cli) 📇 🏠 🍎 🪟 🐧 - AIコーディングエージェント（Claude Code、Cursor、Copilot、Codex）のための生きたメモリシステム。MCPとフックを介したクロスツールの永続メモリ、意思決定の想起、成果のキャリブレーション。`npm install -g memcell`
+- [memcell-ai/cli](https://github.com/memcell-ai/cli) [![memcell-ai/cli MCP server](https://glama.ai/mcp/servers/memcell-ai/cli/badges/score.svg)](https://glama.ai/mcp/servers/memcell-ai/cli) 📇 🏠 🍎 🪟 🐧 - AIコーディングエージェント（Claude Code、Cursor、Copilot、Codex）のための生きたメモリシステム。MCPとフックを介したクロスツールの永続メモリ、意思決定の想起、成果のキャリブレーション。`npm install -g memcell`
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - あなたの [Ragie](https://www.ragie.ai) (RAG) ナレッジベースから、Google Drive、Notion、JIRAなどの連携サービスに接続されたコンテキストを取得します。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - MongoDBを使用して複数のLLMからのメモリを保存・取得するMCPサーバー。タイムスタンプとLLM識別を含む会話メモリの保存、取得、追加、クリアのためのツールを提供します。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 異なるAIモデルが協力し、会話間でコンテキストを共有できるようにするクロスLLM通信とメモリ共有を可能にするMCPサーバー。

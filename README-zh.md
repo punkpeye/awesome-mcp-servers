@@ -456,7 +456,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - 生产级RAG平台，结合Graph RAG、向量搜索和全文搜索。构建知识图谱和上下文工程的最佳选择
 - [graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - 将来自Slack、Discord、网站、Google Drive、Linear或GitHub的任何内容摄取到Graphlit项目中，然后在诸如Cursor、Windsurf或Cline等MCP客户端中搜索并检索相关知识。
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 用于 Mem0 的模型上下文协议服务器，帮助管理编码偏好和模式，提供工具用于存储、检索和语义处理代码实现、最佳实践和技术文档，适用于 Cursor 和 Windsurf 等 IDE
-- [memcell-ai/cli](https://github.com/memcell-ai/cli) 📇 🏠 🍎 🪟 🐧 - 面向 AI 编码智能体（Claude Code、Cursor、Copilot、Codex）的活体记忆系统。跨工具持久化记忆、决策召回与结果校准。`npm install -g memcell`
+- [memcell-ai/cli](https://github.com/memcell-ai/cli) [![memcell-ai/cli MCP server](https://glama.ai/mcp/servers/memcell-ai/cli/badges/score.svg)](https://glama.ai/mcp/servers/memcell-ai/cli) 📇 🏠 🍎 🪟 🐧 - 面向 AI 编码智能体（Claude Code、Cursor、Copilot、Codex）的活体记忆系统。跨工具持久化记忆、决策召回与结果校准。`npm install -g memcell`
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - 从您的 [Ragie](https://www.ragie.ai) (RAG) 知识库中检索上下文，该知识库连接到 Google Drive、Notion、JIRA 等多种集成。
 - [redleaves/context-keeper](https://github.com/redleaves/context-keeper) 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - LLM驱动的智能上下文与记忆管理系统，采用宽召回+精排序RAG架构。支持多维度检索（向量/时间线/知识图谱）、短期/长期记忆智能转换，完整实现MCP协议（HTTP/WebSocket/SSE）。
 - [@upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - 最新的LLM和AI代码编辑器的代码文档。

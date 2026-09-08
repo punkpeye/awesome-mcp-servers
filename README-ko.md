@@ -418,7 +418,7 @@
 - [mcp-summarizer](https://github.com/0xshellming/mcp-summarizer) 📕 ☁️ - AI 요약 MCP 서버, 여러 콘텐츠 유형 지원: 일반 텍스트, 웹 페이지, PDF 문서, EPUB 책, HTML 콘텐츠
 - [graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) 📇 ☁️ - Slack, Discord, 웹사이트, Google Drive, Linear 또는 GitHub에서 무엇이든 Graphlit 프로젝트로 수집한 다음 Cursor, Windsurf 또는 Cline과 같은 MCP 클라이언트 내에서 관련 지식을 검색하고 검색합니다.
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 코딩 선호도 및 패턴 관리를 돕는 Mem0용 모델 컨텍스트 프로토콜 서버로, Cursor 및 Windsurf와 같은 IDE에서 코드 구현, 모범 사례 및 기술 문서를 저장, 검색 및 의미론적으로 처리하는 도구를 제공합니다.
-- [memcell-ai/cli](https://github.com/memcell-ai/cli) 📇 🏠 🍎 🪟 🐧 - AI 코딩 에이전트(Claude Code, Cursor, Copilot, Codex)를 위한 살아있는 메모리 시스템. MCP 및 훅을 통한 크로스 도구 영구 메모리, 결정 회상 및 결과 보정. `npm install -g memcell`
+- [memcell-ai/cli](https://github.com/memcell-ai/cli) [![memcell-ai/cli MCP server](https://glama.ai/mcp/servers/memcell-ai/cli/badges/score.svg)](https://glama.ai/mcp/servers/memcell-ai/cli) 📇 🏠 🍎 🪟 🐧 - AI 코딩 에이전트(Claude Code, Cursor, Copilot, Codex)를 위한 살아있는 메모리 시스템. MCP 및 훅을 통한 크로스 도구 영구 메모리, 결정 회상 및 결과 보정. `npm install -g memcell`
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - Google Drive, Notion, JIRA 등과 같은 통합 서비스에 연결된 [Ragie](https://www.ragie.ai) (RAG) 지식 베이스에서 컨텍스트를 검색합니다.
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - MongoDB를 사용하여 여러 LLM의 메모리를 저장하고 검색하는 MCP 서버. 타임스탬프와 LLM 식별을 포함한 대화 메모리의 저장, 검색, 추가 및 삭제를 위한 도구를 제공합니다.
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 다른 AI 모델이 협력하고 대화 간에 컨텍스트를 공유할 수 있게 하는 크로스 LLM 통신 및 메모리 공유를 가능하게 하는 MCP 서버.
