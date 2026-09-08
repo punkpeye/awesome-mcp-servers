@@ -27,7 +27,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 ## What is MCP?
 
-[MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
+[MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on ion-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 
 ## Clients
 
@@ -1891,6 +1891,7 @@ Point your assistant at this server and it can answer questions like "Is it a ba
 
 Provides direct access to local file systems with configurable permissions. Enables AI models to read, write, and manage files within specified directories.
 
+- [srivardhan113/SRIFT-Open_Source](https://github.com/srivardhan113/SRIFT-Open_Source) [![srivardhan113/SRIFT-Open_Source MCP server](https://glama.ai/mcp/servers/srivardhan113/SRIFT-Open_Source/badges/score.svg)](https://glama.ai/mcp/servers/srivardhan113/SRIFT-Open_Source) 📇 🏠 ☁️ 🍎 🪟 🐧 - Zero-config, zero-token peer-to-peer secure file transfer, encrypted chat, and MCP server for AI coding agents (Claude, Cursor, Windsurf) and developers. Delivers artifacts via one-shot download links with zero cloud storage.
 - [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - AI-native directory visualization with semantic analysis, ultra-compressed formats for AI consumption, and 10x token reduction. Supports quantum-semantic mode with intelligent file categorization.
 - [aadilr/changethisfile-mcp](https://github.com/aadilr/changethisfile-mcp) [![aadilr/changethisfile-mcp MCP server](https://glama.ai/mcp/servers/aadilr/changethisfile-mcp/badges/score.svg)](https://glama.ai/mcp/servers/aadilr/changethisfile-mcp) 📇 ☁️ - Free file conversion between 690+ formats. Tools: `convert_file` (URL or base64 in → signed download URL out) and `list_conversions`. Covers image, video, audio, document, data, font, ebook, and archive formats. No auth or signup required; remote streamable-HTTP endpoint available (see README).
 - [Agaveis/hiberden-mcp](https://github.com/Agaveis/hiberden-mcp) [![Agaveis/hiberden-mcp MCP server](https://glama.ai/mcp/servers/Agaveis/hiberden-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Agaveis/hiberden-mcp) 🦀 🏠 🍎 🪟 🐧 - Read and verify your local media-archive catalog from an AI assistant: 3-2-1 coverage across disk, NAS, S3-compatible cloud, and LTO tape. Verifies a copy by physically reading it back and re-hashing it against the source; catalog-management and delete tools are off by default. On Windows it installs as a signed Desktop Extension (MCPB); on Linux the same connector ships as a standalone binary.
