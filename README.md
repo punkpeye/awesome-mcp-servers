@@ -37,11 +37,13 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+* [MCP Server Quickstart (Vietnamese / Tiếng Việt)](https://github.com/tuanone123/mcp-quickstart-vietnamese) - Build your own MCP server from scratch with runnable Python (FastMCP) and TypeScript examples. Bilingual VI/EN.
 
 ## Community
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [Awesome Social & Commerce MCP](https://github.com/tuanone123/awesome-social-commerce-mcp) - Curated list of MCP servers for social media, marketing, advertising and e-commerce.
 
 ## Legend
 
