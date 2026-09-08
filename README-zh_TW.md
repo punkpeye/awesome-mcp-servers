@@ -364,6 +364,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [jinzcdev/markmap-mcp-server](https://github.com/jinzcdev/markmap-mcp-server) 📇 🏠 - 基於 [markmap](https://github.com/markmap/markmap) 構建的 MCP 伺服器，可將 **Markdown** 轉換為互動式的 **思維導圖**。支援多格式匯出（PNG/JPG/SVG）、瀏覽器即時預覽、一鍵複製 Markdown 和動態視覺化功能。
 - [@kaliaboi/mcp-zotero](https://github.com/kaliaboi/mcp-zotero) 📇 ☁️ - 為 LLM 提供的連接器，用於操作 Zotero Cloud 上的文獻集合和資源
 - [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - 用於 Mem0 的模型上下文協議伺服器，幫助管理編碼偏好和模式，提供工具用於儲存、檢索和語義處理代碼實現、最佳實踐和技術文件，適用於 Cursor 和 Windsurf 等 IDE
+- [memcell-ai/cli](https://github.com/memcell-ai/cli) 📇 🏠 🍎 🪟 🐧 - 面向 AI 編碼智能體（Claude Code、Cursor、Copilot、Codex）的活體記憶系統。跨工具持久化記憶、決策召回與結果校準。`npm install -g memcell`
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - 從您的 [Ragie](https://www.ragie.ai) (RAG) 知識庫中檢索上下文，可連接至 Google Drive、Notion、JIRA 等多種整合服務。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - 一個 MCP 伺服器，使用 MongoDB 儲存和檢索來自多個 LLM 的記憶。提供用於儲存、檢索、新增和清除帶有時間戳和 LLM 識別的對話記憶的工具。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 一個 MCP 伺服器，實現跨 LLM 通訊和記憶共享，使不同的 AI 模型能夠在對話間協作和共享上下文。
