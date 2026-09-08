@@ -122,6 +122,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🏠 - [Real Estate](#real-estate)
 * 🔬 - [Research](#research)
 * 🔎 - [Search & Data Extraction](#search)
+* 🎬 - [Screen Recording & Visual Feedback](#screen-recording-and-visual-feedback)
 * 🔒 - [Security](#security)
 * 🌐 - [Social Media](#social-media)
 * 🔮 - [Spirituality & Esoterica](#spirituality-and-esoterica)
@@ -3502,6 +3503,10 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [smeet666/mcp-ptitchef](https://github.com/smeet666/mcp-ptitchef) [![smeet666/mcp-ptitchef MCP server](https://glama.ai/mcp/servers/smeet666/mcp-ptitchef/badges/score.svg)](https://glama.ai/mcp/servers/smeet666/mcp-ptitchef) 📇 ☁️ 🍎 🪟 🐧 - Search Ptitchef, browse its tree of ingredient categories, read a recipe with its ingredients, method, cost and nutrition, and ask what can be cooked from what is in the fridge. Rescales to any number of servings, and lists the other languages a recipe was published in. No API key. `npx -y mcp-ptitchef`
 - [smeet666/mcp-bbc-goodfood](https://github.com/smeet666/mcp-bbc-goodfood) [![smeet666/mcp-bbc-goodfood MCP server](https://glama.ai/mcp/servers/smeet666/mcp-bbc-goodfood/badges/score.svg)](https://glama.ai/mcp/servers/smeet666/mcp-bbc-goodfood) 📇 ☁️ 🍎 🪟 🐧 - Search BBC Good Food and read a recipe in either of the two renditions the site writes, its own and the one restated for readers in the United States. Publishes the vocabulary each search facet accepts, since the site answers a value it does not know with a total of zero. Rescales to any number of people. No API key. `npx -y mcp-bbc-goodfood`
 - [smeet666/mcp-supertoinette](https://github.com/smeet666/mcp-supertoinette) [![smeet666/mcp-supertoinette MCP server](https://glama.ai/mcp/servers/smeet666/mcp-supertoinette/badges/score.svg)](https://glama.ai/mcp/servers/smeet666/mcp-supertoinette) 📇 ☁️ 🍎 🪟 🐧 - Read Supertoinette's French recipes: ingredients with the quantity separated from the line, steps, difficulty, cost level, resting time, and the five wines the site ranks for a dish. Rescales any recipe to a number of people, saying on each line whether the arithmetic landed exactly. No API key. `npx -y mcp-supertoinette`
+
+### 🎬 <a name="screen-recording-and-visual-feedback"></a>Screen Recording & Visual Feedback
+
+- [hashfunction/MarkuprPlus](https://github.com/hashfunction/MarkuprPlus) 🎖️ 📇 🏠 🍎 🪟 - Record a window while narrating and drawing on the live screen, then turn each mark into a structured Markdown issue with its own annotated screenshot for AI coding agents. Includes a desktop app, CLI, and local MCP server. `npx --yes --package markuprplus markuprplus-mcp`
 
 ### 🔒 <a name="security"></a>Security
 
