@@ -130,6 +130,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 提供藝術收藏、文化遺產和博物館資料庫的訪問與探索。讓 AI 模型能夠搜尋和分析藝術文化內容。
 
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 提供全面精準的八字排盤和測算信息
+- [fatenava/fatenava-mcp](https://github.com/fatenava/fatenava-mcp) [![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp) 🎖️ 📇 🏠 ☁️ 🍎 🪟 🐧 - 一站式命理排盤:八字(四柱)、紫微斗數、西洋占星本命盤三合一——真太陽時校正,多語言輸入(中/英/日/韓),免費、無需註冊。`npx -y fatenava-mcp`
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - 從您的影片集合中添加、分析、搜尋和生成影片剪輯
 - [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - AniList MCP 伺服器，提供品味感知推薦、觀看分析、社交工具和完整的清單管理。
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 荷蘭國立博物館 API 整合，支援藝術品搜尋、詳情查詢和收藏品瀏覽
@@ -252,6 +253,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 增強開發工作流程和環境管理的工具和集成。
 
 - [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOS程式碼品質分析與測試自動化伺服器。提供全面的Xcode測試執行、SwiftLint整合及詳細的故障分析。支援CLI和MCP伺服器兩種模式，適用於開發者直接使用和AI助手整合。
+- [FI-Mihej/codebase-agent-mcp](https://github.com/FI-Mihej/codebase-agent-mcp) [![codebase-agent-mcp MCP server](https://glama.ai/mcp/servers/FI-Mihej/codebase-agent-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FI-Mihej/codebase-agent-mcp) 🐍 🏠 🍎 🪟 🐧 - 一個子代理 (同時作為 MCP 伺服器與 MCP 用戶端)。它會將文件與原始碼分析，以及與相關、提供上下文的 MCP 伺服器之間的互動，委派給本機或低成本、相容於 OpenAI API 的大型語言模型 (LLM) 處理。這可大幅降低頂級 LLM 在程式設計代理中的權杖 (token) 使用量與上下文大小。 `uvx codebase-agent-mcp`
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - 將大量程式開發助手的系統提示轉為 MCP 工具，具備模型感知推薦與人格啟用，可模擬 Cursor、Devin 等代理。
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - 與[QA Sphere](https://qasphere.com/)測試管理系統整合，使LLM能夠發現、總結和操作測試用例，並可直接從AI驅動的IDE訪問
 - [mhmzdev/Figma-Flutter-MCP](https://github.com/mhmzdev/Figma-Flutter-MCP) 📇 🏠 - 為編碼代理提供直接訪問 Figma 數據的權限，協助他們編寫 Flutter 代碼來構建應用程序，包括資源導出、組件維護和全屏實現。
