@@ -3197,6 +3197,8 @@ auto-download. Install via `npx atlassian-trello-mcp`.
 - [gonnagetapower/kelvia-mcp](https://github.com/gonnagetapower/kelvia-mcp) [![kelvia-mcp MCP server](https://glama.ai/mcp/servers/@gonnagetapower/kelvia-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@gonnagetapower/kelvia-mcp) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - [Kelvia](https://kelvia.app) task manager an agent can fully operate: boards, tasks, sprints, member roles, worklogs and a time-blocking day planner. 58 tools with MCP safety annotations and selectable toolsets. Hosted endpoint with OAuth 2.1 — one command, no token to paste. `npx kelvia-mcp`
 - [illodev/workfile](https://github.com/illodev/workfile) [![illodev/workfile MCP server](https://glama.ai/mcp/servers/illodev/workfile/badges/score.svg)](https://glama.ai/mcp/servers/illodev/workfile) 🎖️ 📇 🏠 🍎 🪟 🐧 - Work, Docs, History and durable Memory as Markdown inside the repository, so the backlog reviews, branches and merges with the code that answers it. Cards carry a lifecycle and a claim, so parallel agents refuse to edit a card another actor holds. 30 tools, plus a CLI, a Claude Code plugin and a local UI. `npx -y @illodev/workfile mcp`
 
+- [zaialamm/citable-mcp](https://github.com/zaialamm/citable-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - SEO and AI-visibility checks the agent buys per call in USDC on Solana via x402 — keyword volumes, Google rank checks, on-page/citability audits, backlinks, and which AI engines cite a domain for a buyer question. No API key, no account; failed calls are never charged. `npx -y citable-mcp`
+
 ### 🏠 <a name="real-estate"></a>Real Estate
 
 MCP servers for real estate CRM, property management, and agent workflows.
