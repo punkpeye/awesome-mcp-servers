@@ -17,6 +17,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [What is MCP?](#what-is-mcp)
 * [Clients](#clients)
+* [Remote Servers](#remote-servers)
 * [Tutorials](#tutorials)
 * [Community](#community)
 * [Legend](#legend)
@@ -31,6 +32,10 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 ## Clients
 
 Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) and [glama.ai/mcp/clients](https://glama.ai/mcp/clients).
+
+## Remote Servers
+
+This list is for servers with a GitHub repo you install and run yourself. Looking for a hosted server you just connect to over a URL? See [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers).
 
 ## Tutorials
 
