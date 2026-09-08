@@ -842,7 +842,7 @@ Integration with communication platforms for message management and channel oper
 
 Publishing platforms and content systems an agent can write to and steward.
 
-- [joiha-steven/quireink](https://github.com/joiha-steven/quireink) 🎖️ 📇 🏠 - The MCP server built into Quire Ink, a self-hosted blog platform: draft, edit, tag, schedule and publish posts, compose the front page, read cookie-free traffic reports, moderate comments, send the newsletter, import a blog from WordPress/Ghost/Substack/Medium, and take backups — through the same rules the admin follows, on a server you own.
+- [joiha-steven/quireink](https://github.com/joiha-steven/quireink) [![joiha-steven/quireink MCP server](https://glama.ai/mcp/servers/joiha-steven/quireink/badges/score.svg)](https://glama.ai/mcp/servers/joiha-steven/quireink) 🎖️ 📇 🏠 - The MCP server built into Quire Ink, a self-hosted blog platform: draft, edit, tag, schedule and publish posts, compose the front page, read cookie-free traffic reports, moderate comments, send the newsletter, import a blog from WordPress/Ghost/Substack/Medium, and take backups — through the same rules the admin follows, on a server you own.
 
 ### 🗣️ <a name="conversational-ai"></a>Conversational AI
 
