@@ -432,6 +432,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [JamesANZ/prediction-market-mcp](https://github.com/JamesANZ/prediction-market-mcp) 📇 ☁️ - 一个MCP服务器，提供来自Polymarket、PredictIt和Kalshi等多个平台的实时预测市场数据。使AI助手能够通过统一接口查询当前赔率、价格和市场信息。
 - [JamesANZ/bitcoin-mcp](https://github.com/JamesANZ/bitcoin-mcp) 📇 🏠 - 一个MCP服务器，使AI模型能够查询比特币区块链。
 - [litsen/lfwin-payment-mcp](https://github.com/litsen/lfwin-payment-mcp) [![lfwin-payment-mcp MCP server](https://glama.ai/mcp/servers/litsen/lfwin-payment-mcp/badges/score.svg)](https://glama.ai/mcp/servers/litsen/lfwin-payment-mcp) 🐍 ☁️ - 酷收银支付MCP Server - AI原生支付网关（收银台/退款/查单）
+- [kyrodata/mcp](https://github.com/kyrodata/mcp) 🎖️ 📇 ☁️ - 巴西外贸数据 MCP 服务器：来自 MDIC/ComexStat 的进出口数据（2000 年至今，按 HS 四位编码和贸易伙伴国划分，以美元 FOB 和公斤计），另有农作物产量、供需平衡表、气候读数，以及大豆、咖啡、玉米、牛肉等品类的商品预测。14 个只读工具。所有对比都在等长的时间窗口之间进行，并标注实际测量的区间；每条回答都会说明所用的时间窗口和数据来源，数据不足以支撑结论时如实返回“无信号”。远程服务，无需安装：https://mcp.kyrodata.com/mcp ，使用 API 密钥或 OAuth 2.1。已在官方 registry 注册为 `com.kyrodata/kyrodata`。
 
 ### 🎮 <a name="gaming"></a>游戏
 
