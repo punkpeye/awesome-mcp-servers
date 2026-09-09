@@ -3166,6 +3166,8 @@ Servers for controlling the desktop operating system: screenshots, window manage
 - [emazaheri/ios-agent](https://github.com/emazaheri/ios-agent) [![emazaheri/ios-agent MCP server](https://glama.ai/mcp/servers/emazaheri/ios-agent/badges/score.svg)](https://glama.ai/mcp/servers/emazaheri/ios-agent) 🐍 🏠 🍎 - Drive a real iPhone or an iOS Simulator through XCUIAutomation and WebDriverAgent. Screens arrive as a compact digest rather than raw accessibility XML (37,000 tokens to 329 on a long list), element resolution runs server-side through six tiers so a retry costs no model tokens, every action returns the screen it produced, and destructive actions are classified before they run and ask first.
 
 
+- [huseyinstif/oculos](https://github.com/huseyinstif/oculos) [![huseyinstif/oculos MCP server](https://glama.ai/mcp/servers/huseyinstif/oculos/badges/score.svg)](https://glama.ai/mcp/servers/huseyinstif/oculos) 🦀 🏠 🪟 🐧 🍎 - Deterministic desktop automation via the OS accessibility tree: every button, text field, and menu of every app becomes a queryable JSON endpoint. Find elements by text/type, click, set text, send keys, wait for dialogs — no screenshots, no pixel coordinates, no vision model. REST API + MCP server in one binary, with a web dashboard, element inspector, and a recorder that exports automations as Python/JS/curl.
+
 ### 🎙️ <a name="podcasts"></a>Podcasts
 
 Servers for podcast analytics, search, hosting, and discovery.
