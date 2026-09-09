@@ -134,6 +134,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+* - [Lattice Protocol](https://github.com/shahzain112/Lattice-Protocol) - A decentralized P2P agent economy with Ed25519 identity, trust scoring, and an MCP bridge.
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
