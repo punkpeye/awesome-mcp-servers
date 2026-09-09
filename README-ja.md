@@ -145,6 +145,7 @@
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 ☁️ - AIアシスタントが書籍情報を検索できるOpen Library API用MCPサーバー
 - [PatrickPalmer/MayaMCP](https://github.com/PatrickPalmer/MayaMCP) 🐍 🏠 - Autodesk Maya用MCPサーバー
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 包括的で正確な八字（四柱推命）の命式作成と占い情報を提供
+- [fatenava/fatenava-mcp](https://github.com/fatenava/fatenava-mcp) [![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp) 🎖️ 📇 🏠 ☁️ 🍎 🪟 🐧 - オールインワン命式作成:四柱推命(八字)・紫微斗数・西洋占星術の出生図を一つのツールで——真太陽時補正、多言語入力(中・英・日・韓)対応、無料・アカウント不要。`npx -y fatenava-mcp`
 
 ### 🧬 <a name="bio"></a>生物学、医学、バイオインフォマティクス
 
@@ -307,6 +308,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 開発ワークフローと環境管理を強化するツールと統合。
 
 - [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOSコード品質分析とテスト自動化サーバー。包括的なXcodeテスト実行、SwiftLint統合、詳細な障害分析を提供。CLIとMCPサーバーモードの両方で動作し、直接開発者使用とAIアシスタント統合に対応。
+- [FI-Mihej/codebase-agent-mcp](https://github.com/FI-Mihej/codebase-agent-mcp) [![codebase-agent-mcp MCP server](https://glama.ai/mcp/servers/FI-Mihej/codebase-agent-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FI-Mihej/codebase-agent-mcp) 🐍 🏠 🍎 🪟 🐧 - サブハーネス (MCPサーバーとMCPクライアントの両方として機能)。ドキュメントやソースコードの解析、および関連するコンテキストを提供するMCPサーバーとのやり取りを、ローカルまたは低コストのOpenAI互換LLMに委譲します。これにより、最上位クラスのLLMを使用するコーディングエージェントにおけるトークン消費量とコンテキストサイズを大幅に削減します。 `uvx codebase-agent-mcp`
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - 多数のコーディングアシスタント向けシステムプロンプトを MCP ツールとして公開し、モデル感知のレコメンドとペルソナ切り替えで Cursor や Devin などを再現できます。
 - [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) [![Kapeli/dash-mcp-server MCP server](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server) 🐍 🏠 🍎 - macOS APIドキュメントブラウザ[Dash](https://kapeli.com/dash)用のMCPサーバー。200以上のドキュメントセットを即座に検索。
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - [QA Sphere](https://qasphere.com/)テスト管理システムとの統合。LLMがテストケースを発見、要約、操作できるようにし、AI搭載IDEから直接アクセス可能
@@ -472,6 +474,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - Open Strategy Partnersからの マーケティングツールスイートで、文章スタイル、編集コード、製品マーケティング価値マップ作成を含む。
 - [nictuku/meta-ads-mcp](https://github.com/nictuku/meta-ads-mcp) 🐍 ☁️ 🏠 - AIエージェントがMeta広告のパフォーマンスを監視・最適化し、キャンペーンメトリクスを分析し、オーディエンスターゲティングを調整し、クリエイティブアセットを管理し、シームレスなGraph API統合を通じて広告費とキャンペーン設定についてデータ主導の推奨事項を作成できるようにします。
 - [marketplaceadpros/amazon-ads-mcp-server](https://github.com/MarketplaceAdPros/amazon-ads-mcp-server) 📇 ☁️ - Amazon Advertisingと対話し、キャンペーンメトリクスと設定を分析するツールを有効にします。
+- [rooquiz/rooquiz-mcp](https://github.com/rooquiz/rooquiz-mcp) [![rooquiz/rooquiz-mcp MCP server](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp) 🎖️ 📇 ☁️ - [RooQuiz](https://rooquiz.com) でアセスメントを作成・運用できます。知識クイズ、スコア型クイズ、「あなたはどの X タイプ？」の診断型クイズを AI 支援で作成し、多言語のミラー翻訳にも対応。結果ページで獲得したリード（タグ付け、担当割り当て、コメント）、回答者、送信記録、予約、コンバージョン統計までファネル全体を扱えます。ホスト型の Streamable HTTP エンドポイント `https://payload.rooquiz.com/api/mcp`、OAuth 2.1 の動的クライアント登録に対応し、API キーは不要です。
 
 ### 📊 <a name="monitoring"></a>監視
 

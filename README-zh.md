@@ -145,6 +145,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 提供艺术收藏、文化遗产和博物馆数据库的访问与探索。让 AI 模型能够搜索和分析艺术文化内容。
 
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 提供全面精准的八字排盘和测算信息
+- [fatenava/fatenava-mcp](https://github.com/fatenava/fatenava-mcp) [![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp) 🎖️ 📇 🏠 ☁️ 🍎 🪟 🐧 - 一站式命理排盘:八字(四柱)、紫微斗数、西洋占星本命盘三合一——真太阳时校正,多语言输入(中/英/日/韩),免费、无需注册。`npx -y fatenava-mcp`
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 📹🎬 - 从您的视频集合中添加、分析、搜索和生成视频剪辑
 - [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - AniList MCP 服务器，提供品味感知推荐、观看分析、社交工具和完整的列表管理。
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 荷兰国立博物馆 API 集成，支持艺术品搜索、详情查询和收藏品浏览
@@ -313,6 +314,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - 将大量编码助手的系统提示提供为 MCP 工具，支持模型感知推荐与人格激活，可模拟 Cursor、Devin 等代理。
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - 打造受21世纪顶尖设计工程师启发的精致UI组件。
 - [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOS代码质量分析和测试自动化服务器。提供全面的Xcode测试执行、SwiftLint集成和详细的故障分析。支持CLI和MCP服务器两种模式，适用于开发者直接使用和AI助手集成。
+- [FI-Mihej/codebase-agent-mcp](https://github.com/FI-Mihej/codebase-agent-mcp) [![codebase-agent-mcp MCP server](https://glama.ai/mcp/servers/FI-Mihej/codebase-agent-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FI-Mihej/codebase-agent-mcp) 🐍 🏠 🍎 🪟 🐧 - 一个子级编排器(同时充当 MCP 服务器和 MCP 客户端)。它将文档分析、源代码分析，以及与相关上下文提供型 MCP 服务器的交互，委托给本地或低成本的 OpenAI 兼容大语言模型(LLM)处理。这可以显著降低顶级 LLM 编码代理的令牌(Token)消耗和上下文规模。 `uvx codebase-agent-mcp`
 - [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - 与[QA Sphere](https://qasphere.com/)测试管理系统集成，使LLM能够发现、总结和操作测试用例，并可直接从AI驱动的IDE访问
 - [Coment-ML/Opik-MCP](https://github.com/comet-ml/opik-mcp) 🎖️ 📇 ☁️ 🏠 - 使用自然语言与您的LLM可观测性、Opik捕获的追踪和监控数据进行对话。
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) 📇 🏠 - 为编码代理提供直接访问Figma数据的权限，助力其一次性完成设计实现。
@@ -485,6 +487,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 - [AdsMCP/tiktok-ads-mcp-server](https://github.com/AdsMCP/tiktok-ads-mcp-server) 🐍 ☁️ - TikTok Ads API 集成的模型上下文协议服务器，让 AI 助手能够通过 OAuth 认证流程管理广告活动、分析性能指标、处理受众和创意内容
 - [Open Strategy Partners Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - Open Strategy Partners 提供的营销工具套件，包含写作风格指南、编辑规范和产品营销价值图谱创建工具
+- [rooquiz/rooquiz-mcp](https://github.com/rooquiz/rooquiz-mcp) [![rooquiz/rooquiz-mcp MCP server](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp) 🎖️ 📇 ☁️ - 在 [RooQuiz](https://rooquiz.com) 上创建和运营测评——知识问答、计分测验以及“你是哪种 X”结果型测验，支持 AI 辅助出题和多语言镜像翻译；并打通转化漏斗：管理结果页捕获的销售线索（打标签、分配、评论）、答题者、提交记录、预约和转化统计。托管的 Streamable HTTP 端点 `https://payload.rooquiz.com/api/mcp`，OAuth 2.1 动态客户端注册，无需 API 密钥。
 
 ### 📊 <a name="monitoring"></a>监测
 
