@@ -376,6 +376,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 
 
 ### 📐 <a name="architecture-and-design"></a>Architecture & Design
+- [AETumiApp/aetumi-mcp](https://github.com/AETumiApp/aetumi-mcp) 📇 ☁️ - AETumi MCP — gateway for AI coding assistants (Claude Code, Cursor, Codex) to production-ready Three.js/WebGL 3D web components, templates and interactive scenes.
 
 Design and visualize software architecture, system diagrams, and technical documentation. Enables AI models to generate professional diagrams and architectural documentation.
 
