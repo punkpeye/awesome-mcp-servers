@@ -377,6 +377,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 
 ### 📐 <a name="architecture-and-design"></a>Architecture & Design
 
+- [AETumiApp/aetumi-mcp](https://github.com/AETumiApp/aetumi-mcp) 📇 ☁️ - AETumi MCP — gateway for AI coding assistants (Claude Code, Cursor, Codex) to production-ready Three.js/WebGL 3D web components, templates and interactive scenes.
 Design and visualize software architecture, system diagrams, and technical documentation. Enables AI models to generate professional diagrams and architectural documentation.
 
 - [aidc2026ai-melon/aidc-ai-mcp](https://github.com/aidc2026ai-melon/aidc-ai-mcp) [![aidc2026ai-melon/aidc-ai-mcp MCP server](https://glama.ai/mcp/servers/aidc2026ai-melon/aidc-ai-mcp/badges/score.svg)](https://glama.ai/mcp/servers/aidc2026ai-melon/aidc-ai-mcp) 🎖️ 📇 ☁️ - Deterministic AI data-center design engine exposed as MCP tools (design, validate, layout): rack count, design PUE, total MVA, liquid/air cooling split, CDU planning, cost & timeline. NVIDIA Rubin-era, 22.9 kV intake, Korea. Remote Streamable HTTP at https://aidc-ai.io/api/mcp; no key for the anonymous tier.
