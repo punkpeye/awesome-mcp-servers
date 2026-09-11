@@ -451,6 +451,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [wjgoarxiv/pymol-mcp](https://github.com/wjgoarxiv/pymol-mcp) [![wjgoarxiv/pymol-mcp MCP server](https://glama.ai/mcp/servers/wjgoarxiv/pymol-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wjgoarxiv/pymol-mcp) 🐍 🏠 🍎 🪟 🐧 - Headless PyMOL for molecular visualization, GROMACS/LAMMPS MD trajectories, and clathrate-hydrate cage analysis: H-bond networks, F3/F4 order parameters, and TRACE cage perception + occupancy.
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
+- [IrMaho/TeleDOM](https://github.com/IrMaho/TeleDOM) 📇 🏠 🍎 🪟 🐧 - Unified Browser Forensic Recorder, sub-millisecond DOM time-travel debugger, Chrome DevTools capability fusion, and 206-tool MCP server for AI coding agents.
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
@@ -1213,6 +1214,7 @@ Data Platforms for data integration, transformation and pipeline orchestration.
 
 
 ### 💻 <a name="developer-tools"></a>Developer Tools
+- [IrMaho/antigravity-base-mcp](https://github.com/IrMaho/antigravity-base-mcp) 📇 🏠 🍎 🪟 🐧 - Enterprise-grade Base MCP Server Starter Kit for TypeScript & Node.js with Zod schema validation, isolated Stdio transport, and autonomous on-demand bootstrapping.
 - [rafim-dev/mcp-context-condenser](https://github.com/rafim-dev/mcp-context-condenser) [![rafim-dev/mcp-context-condenser MCP server](https://glama.ai/mcp/servers/rafim-dev/mcp-context-condenser/badges/score.svg)](https://glama.ai/mcp/servers/rafim-dev/mcp-context-condenser) 📇 🏠 🍎 🪟 🐧 - Token-slimming AST code outliner, log compressor, and context budget analyzer cutting LLM context bills by up to 85%.
 - [om-tajne/pkgdiet](https://github.com/om-tajne/pkgdiet) [![om-tajne/pkgdiet MCP server](https://glama.ai/mcp/servers/om-tajne/pkgdiet/badges/score.svg)](https://glama.ai/mcp/servers/om-tajne/pkgdiet) 📇 🏠 🍎 🪟 🐧 - AST-based dependency analyzer that flags unused packages, calculates actual install sizes, and catches unmaintained legacy bloat. `npx pkgdiet mcp`
 - [2ools/mcp-server](https://github.com/2ools/mcp-server) [![2ools/mcp-server MCP server](https://glama.ai/mcp/servers/2ools/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/2ools/mcp-server) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Turn what your assistant just built into a durable, versioned project. One free authless tool (`create_public_preview`) renders a standalone HTML document as a real shareable URL; 42 more cover projects, refinement, version comparison, separately-delegated approvals, artifacts, work assignments and source export. Build authority and review authority are deliberately separate scopes. Remote Streamable HTTP, OAuth 2.1 + PKCE. `https://2ools.app/mcp`
