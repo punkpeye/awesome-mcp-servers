@@ -3846,6 +3846,7 @@ Tools for accessing sports-related data, results, and statistics.
 ### 🎧 <a name="support-and-service-management"></a>Support & Service Management
 Tools for managing customer support, IT service management, and helpdesk operations.
 - [aikts/yandex-tracker-mcp](https://github.com/aikts/yandex-tracker-mcp) 🐍 ☁️ 🏠 - MCP Server for Yandex Tracker. Provides tools for searching and retrieving information about issues, queues, users.
+- [autorevai/autorev-mcp](https://github.com/autorevai/autorev-mcp) 📇 ☁️ 🏠 - Run a field service business from an MCP client. Answer and review calls, book and dispatch jobs, build and send estimates, chase invoices, manage the pricebook and pull daily numbers for HVAC, plumbing, electrical, roofing and pest control companies. Remote streamable HTTP with OAuth 2.1, or stdio via `@autorevai/mcp-server` on npm.
 - [Berckan/bugherd-mcp](https://github.com/Berckan/bugherd-mcp) 📇 ☁️ - MCP server for BugHerd bug tracking. List projects, view tasks with filtering by status/priority/tags, get task details, and read comments.
 - [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - MCP server that integrates with Freshdesk, enabling AI models to interact with Freshdesk modules and perform various support operations.
 - [incentivai/quickchat-ai-mcp](https://github.com/incentivai/quickchat-ai-mcp) 🐍 🏠 ☁️ - Launch your conversational Quickchat AI agent as an MCP to give AI apps real-time access to its Knowledge Base and conversational capabilities.
