@@ -287,6 +287,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 ### ♿ <a name="accessibility"></a>Accessibility
 
 - [kinti/a11y-toolkit](https://github.com/kinti/a11y-toolkit) [![kinti/a11y-toolkit MCP server](https://glama.ai/mcp/servers/kinti/a11y-toolkit/badges/score.svg)](https://glama.ai/mcp/servers/kinti/a11y-toolkit) 🐍 🏠 - MCP server + CLI for WCAG 2.2 accessibility: color contrast (pairs plus pixel-level text-over-image sampling), EU accessibility declaration generation (RD 1112/2018, Ley 11/2023 / European Accessibility Act, EN 301 549), and an aria-live announcement monitor. Multilanguage es/en, zero dependencies.
+- [vince-gonzalez/opticquiz-mcp](https://github.com/vince-gonzalez/opticquiz-mcp) [![vince-gonzalez/opticquiz-mcp MCP server](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp) 📇 🏠 🍎 🪟 🐧 - Color-vision accessibility. Check whether a palette or an image is colorblind-safe and name the conflicting pairs, generate colorblind-safe palettes (Okabe-Ito seeded), recolor an image as protanopia/deuteranopia/tritanopia renders it, and generate Ishihara-style test plates. Built on Machado, Oliveira & Fernandes (2009) + CIEDE2000, published open access at doi.org/10.5281/zenodo.21310578. Runs locally over stdio, no network calls. Install: `npx -y cvdsafe-mcp` and `npx -y colorblind-mcp`.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
