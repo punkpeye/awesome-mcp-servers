@@ -2467,6 +2467,7 @@ Control smart home devices, home network equipment, and automation systems.
 
 Servers that establish who a person or an agent is and what may be known about them.
 
+- [AIops-tools/Identity-AIops](https://github.com/AIops-tools/Identity-AIops) 🐍 🏠 - Governed SSO/IAM operations (Keycloak + Authentik) — login-failure, stale-permission, client-config, and MFA RCA, plus guardrailed writes (29 tools) with unbypassable audit logging (MCP + CLI), budget/runaway guards, and undo/rollback.
 - [true-alter/cli](https://github.com/true-alter/cli) [![true-alter/cli MCP server](https://glama.ai/mcp/servers/true-alter/cli/badges/score.svg)](https://glama.ai/mcp/servers/true-alter/cli) 🎖️ 📇 ☁️ - Companies pay other companies to find out who you are. ~Alter pays you because you choose to be found. Claim `~yourname`, take back control of your digital identity, and keep 75% every time someone pays to find you. Golden threads turn curiosity into side quests that prove what you can actually do so you never write a CV again. Start or join a collective where a team, a union, or a whole country earns identity income the same way you do. Being known. `npm i -g @truealter/cli && alter wire`
 
 ### 🏭 <a name="industrial--iot"></a>Industrial & IoT
