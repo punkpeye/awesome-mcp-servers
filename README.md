@@ -2172,6 +2172,7 @@ Integration with gaming related data, game engines, and services
 Access health metrics, wellness data, and medical information through various health platforms.
 
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Query 190 Apple Health metrics from any MCP agent — zero-dependency, read-only, local-first.
+- [skeletonarmytech/marrow-mcp](https://github.com/skeletonarmytech/marrow-mcp) 🐍 🏠 🍎 🪟 🐧 - Self-hosted mirror and MCP server for your own Apple Health data, fed by the free Marrow iOS app: 172 HealthKit types plus a meal diary and set-by-set strength log, seven read-only tools, one stdlib Python file. `pip install marrow-mcp`
 
 ### 🏠 <a name="home-automation"></a>Home Automation
 
