@@ -3146,7 +3146,8 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [afghanfansmedia-ai/songcheck-mcp](https://github.com/afghanfansmedia-ai/songcheck-mcp) [![afghanfansmedia-ai/songcheck-mcp MCP server](https://glama.ai/mcp/servers/afghanfansmedia-ai/songcheck-mcp/badges/score.svg)](https://glama.ai/mcp/servers/afghanfansmedia-ai/songcheck-mcp) 🐍 ☁️ - Is this song AI or human? Detect AI-generated music (Suno, Udio) and media from any AI agent. Returns a verdict, AI-probability score, confidence, and provenance signals (Content Credentials / SynthID), plus scan_catalog to audit a whole music folder.
 - [xDarkzx/Reaper-MCP](https://github.com/xDarkzx/Reaper-MCP) [![xDarkzx/Reaper-MCP MCP server](https://glama.ai/mcp/servers/xDarkzx/Reaper-MCP/badges/score.svg)](https://glama.ai/mcp/servers/xDarkzx/Reaper-MCP) 🐍 🏠 🍎 🪟 🐧 - AI-powered music production in REAPER through natural conversation - 173 tools across 26 modules covering transport, tracks, MIDI (insert/edit/quantize/humanize), mixing and FX (EQ, compression, sidechain, sends), tempo maps, markers/regions, ReaScript discovery/execution, and more.
 - [apancyborg/appsgolem-mcp](https://github.com/apancyborg/appsgolem-mcp) [![apancyborg/appsgolem-mcp MCP server](https://glama.ai/mcp/servers/apancyborg/appsgolem-mcp/badges/score.svg)](https://glama.ai/mcp/servers/apancyborg/appsgolem-mcp) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Cut clips from any YouTube video via the AppsGolem API — pick the format and quality, get a direct download URL, and let an AI agent do the editing. `npx appsgolem-mcp`
-
+- [industriesfatty-spec/fattly-mcp](https://github.com/industriesfatty-spec/fattly-mcp) 📇 ☁️ - Generate AI images, video, voiceovers, avatars and UGC ads through 50+ models via fattly.app
+- 
 ### 🖥️ <a name="os-automation"></a>OS Automation
 
 Servers for controlling the desktop operating system: screenshots, window management, mouse/keyboard input injection, and system-level automation.
