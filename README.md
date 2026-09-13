@@ -486,6 +486,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Reloaderoo](https://github.com/cameroncooke/reloaderoo)** - A local MCP server for developers that mirrors your in-development MCP server, allowing seamless restarts and tool updates so you can build, test, and iterate on your MCP server within the same AI session without interruption.
 - **[Reminder](https://github.com/arifszn/reminder-mcp)** - MCP server for scheduling and triggering reminders via Slack or Telegram.
 - **[Renamify](https://docspring.github.io/renamify/mcp/overview/)** - Smart, case-aware search & replace for codebases. Provides atomic renaming of symbols, files, and directories with full undo/redo. The MCP server lets AI assistants plan, preview, and apply rename operations safely, handling all naming conventions (snake_case, camelCase, PascalCase, etc.) automatically.
+- **[Ridealong](https://github.com/williamblaismedia-create/ridealong)** - Drive a real Google Chrome from Claude Code and watch it live as GPU-encoded H.264 on any device; point at elements, approve sensitive actions, or take the wheel from your phone in a no-capture manual mode.
 - **[Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)** - MCP server for the incident management platform [Rootly](https://rootly.com/).
 
 - **[run-sql-connectorx](https://github.com/gigamori/mcp-run-sql-connectorx)** - Execute SQL (PostgreSQL, MariaDB, BigQuery, MS SQL Server, RedShift, etc.) via ConnectorX and stream results to CSV/Parquet. MCP tool: run_sql.
