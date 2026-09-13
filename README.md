@@ -828,6 +828,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- [2Chat](https://developers.2chat.co/docs/MCP/setup) 🎖️ ☁️ - WhatsApp (Web + Business API), SMS, contacts, groups, statuses, and voice call records via the official 2Chat MCP server. OAuth, hosted.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - A Nostr MCP server that allows to interact with Nostr, enabling posting notes, and more.
 - [adecubed/gigamail](https://github.com/adecubed/gigamail) [![adecubed/gigamail MCP server](https://glama.ai/mcp/servers/adecubed/gigamail/badges/score.svg)](https://glama.ai/mcp/servers/adecubed/gigamail) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Your real mailbox and calendar for your agent (Microsoft 365 via Graph, or any IMAP): 24 tools for reading, search, attachment text, sender history, drafting from identity and knowledge files, and free-slot computation — with out-of-band human approval on every send, reply, delete and calendar write, so the agent cannot approve its own actions. `pip install "gigamail[all]"`.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline
