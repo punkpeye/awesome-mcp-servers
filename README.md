@@ -3039,6 +3039,11 @@ Tools for creating and editing marketing content, working with web meta data, pr
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
+- [CSOAI-ORG/gspc-harness](https://github.com/CSOAI-ORG/gspc-harness) 🐍 ☁️ 🏠 - Runs CSOAI governance benchmarks as self-contained Inspect AI evaluations. 22-axis measurement of AI governance compliance.
+- [CSOAI-ORG/gspc-board](https://github.com/CSOAI-ORG/gspc-board) 🐍 ☁️ - GSPC Board — 22-axis AI measurement, Ed25519-signed cards, merkle-rooted, Bitcoin-anchored. Public API at councilof.ai.
+- [CSOAI-ORG/corpus-watch](https://github.com/CSOAI-ORG/corpus-watch) 🐍 🏠 - Watches the EU AI Act (CELLAR) and UK statute daily by hash-diffing. Regulatory change detection for AI governance.
+
+
 - [adanb13/cirdan](https://github.com/adanb13/cirdan) [![adanb13/cirdan MCP server](https://glama.ai/mcp/servers/adanb13/cirdan/badges/score.svg)](https://glama.ai/mcp/servers/adanb13/cirdan) 🐍 🏠 🍎 🪟 🐧 - AI infrastructure cartographer & MCP server: fingerprints, graphs, and watches the live infrastructure an agent can reach (Docker, Kubernetes, cloud, IaC) and detects incidents.
 - [agentkitai/agentlens](https://github.com/agentkitai/agentlens) [![agentkitai/agentlens MCP server](https://glama.ai/mcp/servers/agentkitai/agentlens/badges/score.svg)](https://glama.ai/mcp/servers/agentkitai/agentlens) 📇 🏠 ☁️ 🍎 🪟 🐧 - Tamper-evident observability for AI agents: a SHA-256 hash-chained audit log with chain verification and signed export (EU AI Act Art. 12). Instrument any agent with zero code via `npx -y @agentlensai/mcp`; also ingests OpenTelemetry GenAI traces.
 - [AIops-tools/Endpoint-AIops](https://github.com/AIops-tools/Endpoint-AIops) [![AIops-tools/Endpoint-AIops MCP server](https://glama.ai/mcp/servers/AIops-tools/Endpoint-AIops/badges/score.svg)](https://glama.ai/mcp/servers/AIops-tools/Endpoint-AIops) 🐍 🏠 - Governed managed-endpoint fleet operations (thin-client/VDI) — login-storm and patch/config-drift analysis, inventory, and guardrailed remediation (13 tools) with unbypassable audit logging (MCP + CLI), budget/runaway guards, and undo/rollback.
