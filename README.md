@@ -3779,6 +3779,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [epistemedeus/skillguard](https://github.com/epistemedeus/skillguard) [![epistemedeus/skillguard MCP server](https://glama.ai/mcp/servers/epistemedeus/skillguard/badges/score.svg)](https://glama.ai/mcp/servers/epistemedeus/skillguard) 📇 🏠 - Static security scanner for Claude Code skills, plugins, and MCP servers — vet a dependency for malware (secret/env exfiltration, install-time hooks, prompt injection, committed binaries) **before** you install it. Static-only: it clones and reads files, never executes the scanned code. `npx -y github:epistemedeus/skillguard mcp`
 
+- [mthamil107/prompt-shield](https://github.com/mthamil107/prompt-shield) 🐍 🏠 🍎 🪟 🐧 - Prompt-injection firewall for LLM applications, exposed as an MCP server. Four tools: `scan_input` (34 detectors — regex families, NFKC + homoglyph normalization, DeBERTa semantic classifier, Smith-Waterman sequence alignment against a signature database, stylometric discontinuity, honeypot-tool detection, multilingual), `scan_output` (9 output scanners — toxicity, code injection, prompt leakage, PII, schema validation, jailbreak, sentiment, bias/fairness, hallucination), `scan_tool_result` (indirect-injection defense with optional in-place sanitization), and `list_detectors`. Federated ed25519-signed threat feed, tool-result boundary primitive, 1,246 tests. `pip install "prompt-shield-ai[mcp]"` then run `prompt-shield-mcp`.
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
