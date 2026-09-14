@@ -2971,4 +2971,4 @@ Now Claude can answer questions about writing MCP servers and how they work
 </a>
 
 ## Web3 & Payments
-- [Nano Reach x402 Gateway](https://nanoempireai.com) - An autonomous Agent Reach and Neon DB provisioning gateway secured behind a Solana micro-payment paywall.
+- [Nano Reach x402 Gateway](https://nanoempireai.com) [![roblambert9/nano-empire-mcp-suite MCP server](https://glama.ai/mcp/servers/roblambert9/nano-empire-mcp-suite/badges/score.svg)](https://glama.ai/mcp/servers/roblambert9/nano-empire-mcp-suite) - An autonomous Agent Reach and Neon DB provisioning gateway secured behind a Solana micro-payment paywall.
