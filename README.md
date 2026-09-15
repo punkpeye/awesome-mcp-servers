@@ -3894,6 +3894,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [Drumworks/ssid-mcp](https://github.com/Drumworks/ssid-mcp) [![Drumworks/ssid-mcp MCP server](https://glama.ai/mcp/servers/Drumworks/ssid-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Drumworks/ssid-mcp) 📇 ☁️ - MAC-address (OUI) vendor lookup and router default-login directory for AI agents. Identify a device manufacturer from its MAC address, detect randomized/private (locally-administered) addresses instead of reporting "unknown", or fetch a router's default login IP and admin credentials — every router field cited to the manufacturer's own documentation. Free tier, no signup. `npx -y ssid-mcp`
 
+- [mthamil107/prompt-shield](https://github.com/mthamil107/prompt-shield) 🐍 🏠 🍎 🪟 🐧 - Prompt-injection firewall for LLM applications, exposed as an MCP server. Four tools: `scan_input` (34 detectors — regex families, NFKC + homoglyph normalization, DeBERTa semantic classifier, Smith-Waterman sequence alignment against a signature database, stylometric discontinuity, honeypot-tool detection, multilingual), `scan_output` (9 output scanners — toxicity, code injection, prompt leakage, PII, schema validation, jailbreak, sentiment, bias/fairness, hallucination), `scan_tool_result` (indirect-injection defense with optional in-place sanitization), and `list_detectors`. Federated ed25519-signed threat feed, tool-result boundary primitive, 1,246 tests. `pip install "prompt-shield-ai[mcp]"` then run `prompt-shield-mcp`.
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
