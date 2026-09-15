@@ -3329,6 +3329,8 @@ Servers for controlling the desktop operating system: screenshots, window manage
 - [dockndevai/mcp-macos](https://github.com/dockndevai/mcp-macos) [![dockndevai/mcp-macos MCP server](https://glama.ai/mcp/servers/dockndevai/mcp-macos/badges/score.svg)](https://glama.ai/mcp/servers/dockndevai/mcp-macos) 📇 🏠 🍎 - Safe-by-default control of a Mac: read files, list processes & apps, take screenshots, read the clipboard; and behind explicit opt-ins, run shell commands (allowlisted), AppleScript, move files to Trash, and inject GUI input. Read-only by default with layered access modes, per-path/command allowlists, and human confirmation (MCP elicitation) on the dangerous calls. `npx -y @dockndevai/mcp-macos`
 
 
+- [huseyinstif/oculos](https://github.com/huseyinstif/oculos) [![huseyinstif/oculos MCP server](https://glama.ai/mcp/servers/huseyinstif/oculos/badges/score.svg)](https://glama.ai/mcp/servers/huseyinstif/oculos) 🦀 🏠 🪟 🐧 🍎 - Deterministic desktop automation via the OS accessibility tree: every button, text field, and menu of every app becomes a queryable JSON endpoint. Find elements by text/type, click, set text, send keys, wait for dialogs — no screenshots, no pixel coordinates, no vision model. REST API + MCP server in one binary, with a web dashboard, element inspector, and a recorder that exports automations as Python/JS/curl.
+
 ### 🎙️ <a name="podcasts"></a>Podcasts
 
 Servers for podcast analytics, search, hosting, and discovery.
