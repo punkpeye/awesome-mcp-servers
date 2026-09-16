@@ -1,0 +1,58 @@
+name: Apply health4ai listing
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [add-health4ai-glama]
+    paths:
+      - '.github/workflows/apply-health4ai.yml'
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: add-health4ai-glama
+
+      - name: Insert health4ai line alphabetically in Health & Wellness
+        run: |
+          python3 << 'PY'
+          from pathlib import Path
+          path = Path('README.md')
+          text = path.read_text(encoding='utf-8')
+          if 'jefflitt1/health4ai' in text:
+              print('already present')
+              raise SystemExit(0)
+          new_line = (
+              '- [jefflitt1/health4ai](https://github.com/jefflitt1/health4ai) '
+              '[![jefflitt1/health4ai MCP server](https://glama.ai/mcp/servers/jefflitt1/health4ai/badges/score.svg)]'
+              '(https://glama.ai/mcp/servers/jefflitt1/health4ai) 🐍 ☁️ 🍎 - '
+              'Apple HealthKit → your own Supabase project + MCP server for Claude Code, Cursor, and Ollama. '
+              'iOS app with background sync (HKObserverQuery), MCP tools for health summary, sleep, HRV, workouts, '
+              'and a coaching brief. Requires a Supabase project you own.'
+          )
+          anchor = '- [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp)'
+          idx = text.find(anchor)
+          if idx < 0:
+              raise SystemExit('anchor not found')
+          nl = text.find('\n', idx)
+          if nl < 0:
+              raise SystemExit('newline after anchor not found')
+          path.write_text(text[:nl+1] + new_line + '\n' + text[nl+1:], encoding='utf-8')
+          print('inserted')
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "jefflitt1"
+          git config user.email "jefflitt1@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No README changes to commit"
+            exit 0
+          fi
+          git commit -m "Add jefflitt1/health4ai to Health & Wellness"
+          git push origin HEAD:add-health4ai-glama
