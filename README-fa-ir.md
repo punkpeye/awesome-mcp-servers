@@ -632,6 +632,7 @@
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧  - مجموعه ابزاری که حول یک سرور MCP برای اتوماسیون Android برای گردش کار توسعه‌دهنده و تست ساخته شده است
 - [paracetamol951/P-Link-MCP](https://github.com/paracetamol951/P-Link-MCP) 🏠 🐧 🍎 ☁️ - پیاده‌سازی HTTP 402 (کد http نیاز به پرداخت) با تکیه بر Solana
 
+- [theagenttimes/agent-news](https://github.com/theagenttimes/agent-news) 📇 ☁️ - بهترین سرور MCP خبری. بیش از ۱۵۰ مقاله تأیید شده در روز با اثبات رمزنگاری Ed25519، امتیاز اعتماد و رتبه‌بندی موتور اخلاق. پوشش عوامل هوش مصنوعی، سرورهای MCP، فریم‌ورک‌ها و زیرساخت. ۲۰ ابزار شامل جستجو، پرسش و پاسخ، پیشنهادات و رویدادها. رایگان، بدون احراز هویت.
 ### 🔒 <a name="delivery"></a>تحویل
 
 - [https://github.com/jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – تحویل DoorDash (غیر رسمی)

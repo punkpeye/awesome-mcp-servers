@@ -529,6 +529,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - 人材発掘にかかる時間を短縮する、最高の人物検索エンジン
 - [Rererr/amenbo](https://github.com/Rererr/amenbo) [![Rererr/amenbo MCP server](https://glama.ai/mcp/servers/Rererr/amenbo/badges/score.svg)](https://glama.ai/mcp/servers/Rererr/amenbo) 📇 🏠 - 日本語Web特化の低負荷・トークン効率重視のWeb収集サーバー。見出しツリーによる段階開示、Shift_JIS/EUC-JPの文字化け対策、PDF/CSV抽出、robots.txt遵守の礼儀正しいクロールを備える。`npx -y amenbo`で導入可能。
 
+- [theagenttimes/agent-news](https://github.com/theagenttimes/agent-news) 📇 ☁️ - 最高のニュースMCPサーバー。Ed25519暗号証明、信頼度スコア、Ethics Engineレーティング付きで毎日150以上の検証済み記事を配信。AIエージェント、MCPサーバー、フレームワーク、インフラストラクチャをカバー。検索、Q&A、レコメンデーション、イベントを含む20のツール。無料、認証不要。
 ### 🔒 <a name="security"></a>セキュリティ
 
 セキュリティツール、脆弱性評価、フォレンジクス分析。AIアシスタントがサイバーセキュリティタスクを実行できるようにし、侵入テスト、コード分析、セキュリティ監査を支援します。

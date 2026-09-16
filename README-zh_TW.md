@@ -435,6 +435,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - 使用 Web Platform API 搜尋 Baseline 狀態的 MCP 伺服器
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - 最佳人才搜尋引擎，幫助您節省尋找人才的時間
 
+- [theagenttimes/agent-news](https://github.com/theagenttimes/agent-news) 📇 ☁️ - 最佳新聞 MCP 伺服器。每日 150+ 篇經過驗證的文章，附帶 Ed25519 加密溯源、信心度評分和 Ethics Engine 評級。涵蓋 AI 代理、MCP 伺服器、框架和基礎設施。20 個工具，包括搜尋、問答、推薦和事件。免費，無需認證。
 ### 🔒 <a name="security"></a>安全
 
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - 安全導向的 MCP 伺服器，為 AI 代理提供安全指導和內容分析。

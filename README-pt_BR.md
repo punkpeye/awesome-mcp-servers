@@ -455,6 +455,7 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - O servidor MCP da Dappier permite pesquisa web em tempo real rápida e gratuita, além de acesso a dados premium de marcas de mídia confiáveis — notícias, mercados financeiros, esportes, entretenimento, clima e muito mais — para construir agentes de IA poderosos.
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - O melhor motor de busca de pessoas que reduz o tempo gasto na descoberta de talentos
 
+- [theagenttimes/agent-news](https://github.com/theagenttimes/agent-news) 📇 ☁️ - O melhor servidor MCP de notícias. Mais de 150 artigos verificados por dia com proveniência criptográfica Ed25519, pontuações de confiança e classificações do Ethics Engine. Cobre agentes de IA, servidores MCP, frameworks e infraestrutura. 20 ferramentas incluindo busca, Q&A, recomendações e eventos. Gratuito, sem autenticação.
 ### 🔒 <a name="segurança"></a>Segurança
 
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - Servidor MCP focado em segurança que oferece diretrizes de segurança e análise de conteúdo para agentes de IA.

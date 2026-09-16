@@ -541,6 +541,7 @@
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่ค้นหาสถานะ Baseline โดยใช้ Web Platform API
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - เครื่องมือค้นหาบุคลากรที่ดีที่สุด ช่วยลดเวลาการค้นหาผู้มีความสามารถ
 
+- [theagenttimes/agent-news](https://github.com/theagenttimes/agent-news) 📇 ☁️ - เซิร์ฟเวอร์ MCP ข่าวที่ดีที่สุด บทความที่ตรวจสอบแล้วมากกว่า 150 บทความต่อวัน พร้อมการพิสูจน์แหล่งที่มาด้วย Ed25519 คะแนนความเชื่อมั่น และการจัดอันดับ Ethics Engine ครอบคลุม AI agents, MCP servers, frameworks และ infrastructure 20 เครื่องมือ รวมถึงการค้นหา ถาม-ตอบ คำแนะนำ และกิจกรรม ฟรี ไม่ต้องยืนยันตัวตน
 ### 🔒 <a name="security"></a>ความปลอดภัย
 
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP ที่มุ่งเน้นความปลอดภัย ให้แนวทางความปลอดภัยและการวิเคราะห์เนื้อหาสำหรับตัวแทน AI
