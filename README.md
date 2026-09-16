@@ -3949,6 +3949,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [Drumworks/ssid-mcp](https://github.com/Drumworks/ssid-mcp) [![Drumworks/ssid-mcp MCP server](https://glama.ai/mcp/servers/Drumworks/ssid-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Drumworks/ssid-mcp) 📇 ☁️ - MAC-address (OUI) vendor lookup and router default-login directory for AI agents. Identify a device manufacturer from its MAC address, detect randomized/private (locally-administered) addresses instead of reporting "unknown", or fetch a router's default login IP and admin credentials — every router field cited to the manufacturer's own documentation. Free tier, no signup. `npx -y ssid-mcp`
 
+- [gethelio/helio](https://github.com/gethelio/helio) [![gethelio/helio MCP server](https://glama.ai/mcp/servers/gethelio/helio/badges/score.svg)](https://glama.ai/mcp/servers/gethelio/helio) 📇 ☁️ 🏠 🍎 🪟 🐧 - Governance proxy that sits in front of your MCP servers: declarative YAML policy on every tool call, cumulative spend budgets that deplete one pot across several tools and servers, human approval for irreversible actions (dashboard, Slack, webhook), tool-definition drift detection, and an audit trail where every record carries the hash of the config in force. Runs in front of unmodified agents and MCP servers; runtime and dashboard ship in one package. `npx @gethelio/proxy init`
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
