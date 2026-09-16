@@ -3330,6 +3330,7 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [apancyborg/appsgolem-mcp](https://github.com/apancyborg/appsgolem-mcp) [![apancyborg/appsgolem-mcp MCP server](https://glama.ai/mcp/servers/apancyborg/appsgolem-mcp/badges/score.svg)](https://glama.ai/mcp/servers/apancyborg/appsgolem-mcp) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Cut clips from any YouTube video via the AppsGolem API — pick the format and quality, get a direct download URL, and let an AI agent do the editing. `npx appsgolem-mcp`
 - [industriesfatty-spec/fattly-mcp](https://github.com/industriesfatty-spec/fattly-mcp) [![industriesfatty-spec/fattly-mcp MCP server](https://glama.ai/mcp/servers/industriesfatty-spec/fattly-mcp/badges/score.svg)](https://glama.ai/mcp/servers/industriesfatty-spec/fattly-mcp) 📇 ☁️ - Generate AI images, video, voiceovers, avatars and UGC ads through 50+ models via fattly.app
 - 
+- [samma1997/sammapix](https://github.com/samma1997/sammapix) 📇 ☁️ - 20+ image & PDF tools for AI agents: compress, convert, resize, crop, rotate, watermark, PDF compress/merge/split/rotate, image-to-PDF, plus AI vision (describe, alt text, OCR, tags) and a pipeline that chains operations in one call. Connect over OAuth 2.1 (no API key to paste) or REST; zero-retention, pay-per-use with a free daily tier. Remote Streamable HTTP at `https://www.sammapix.com/api/mcp`.
 ### 🖥️ <a name="os-automation"></a>OS Automation
 
 Servers for controlling the desktop operating system: screenshots, window management, mouse/keyboard input injection, and system-level automation.
