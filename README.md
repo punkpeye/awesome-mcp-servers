@@ -3949,6 +3949,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [Drumworks/ssid-mcp](https://github.com/Drumworks/ssid-mcp) [![Drumworks/ssid-mcp MCP server](https://glama.ai/mcp/servers/Drumworks/ssid-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Drumworks/ssid-mcp) 📇 ☁️ - MAC-address (OUI) vendor lookup and router default-login directory for AI agents. Identify a device manufacturer from its MAC address, detect randomized/private (locally-administered) addresses instead of reporting "unknown", or fetch a router's default login IP and admin credentials — every router field cited to the manufacturer's own documentation. Free tier, no signup. `npx -y ssid-mcp`
 
+- [MichaelS1011/ephemora-cell](https://github.com/MichaelS1011/ephemora-cell) [![MichaelS1011/ephemora-cell MCP server](https://glama.ai/mcp/servers/MichaelS1011/ephemora-cell/badges/score.svg)](https://glama.ai/mcp/servers/MichaelS1011/ephemora-cell) 🐍 🏠 - Capability-based WASM sandbox for MCP tools. Tools isolated via WASI (wasmtime), fuel/memory/time/I/O capped, attested `get-policy` + signed manifests fail-closed, pooled 0.5ms. `pip install ephemora-cell` `ephemora-cell-mcp`
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
