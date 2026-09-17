@@ -4122,6 +4122,7 @@ Tools for converting text-to-speech and vice-versa
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
+- [forgemeshlabs/travel-assistant-mcp](https://github.com/forgemeshlabs/travel-assistant-mcp) - No-key travel MCP for Claude Desktop, Codex-style agents, Hermes, and other clients.
 
 - [HasData/booking-mcp](https://github.com/HasData/booking-mcp) [![HasData/booking-mcp MCP server](https://glama.ai/mcp/servers/HasData/booking-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/booking-mcp) 📇 ☁️ - Remote MCP server for Booking.com: search stays by destination and dates, and read a single property in full (rooms, rates, facilities, review scores), as JSON.
 - [afiliptsov/pickadive-mcp](https://github.com/afiliptsov/pickadive-mcp) [![afiliptsov/pickadive-mcp MCP server](https://glama.ai/mcp/servers/afiliptsov/pickadive-mcp/badges/score.svg)](https://glama.ai/mcp/servers/afiliptsov/pickadive-mcp) 🎖️ ☁️ - Live scuba-dive planning for AI agents — ranked dive-forecast windows near any place for any day, month-by-month best-time climatology per destination, marine-life seasonality from GBIF sighting records, and facts for 4,800+ dive sites. Hosted at https://pickadive.com/mcp (Streamable HTTP, no auth, free).
