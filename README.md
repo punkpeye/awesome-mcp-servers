@@ -4560,9 +4560,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [fireostendere/mcp_diptrace](https://github.com/fireostendere/mcp_diptrace) [![fireostendere/mcp_diptrace MCP server](https://glama.ai/mcp/servers/fireostendere/mcp_diptrace/badges/score.svg)](https://glama.ai/mcp/servers/fireostendere/mcp_diptrace) 🐍 🏠 🪟 - Local MCP server and Windows bridge for reading, reviewing, and guarded editing of DipTrace PCB and schematic projects, with cross-platform offline XML analysis.
 - [SynapseLayer/synapse-layer](https://github.com/SynapseLayer/synapse-layer) [![SynapseLayer/synapse-layer MCP server](https://glama.ai/mcp/servers/SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/servers/SynapseLayer/synapse-layer) 📇 ☁️ - MCP-native Trust Infrastructure for AI Agents. Persistent encrypted memory with Trust Quotient scoring, cross-agent handover, and immutable audit trail.
 - [DROOdotFOO/raxol](https://github.com/DROOdotFOO/raxol/tree/master/packages/raxol_mcp) [![DROOdotFOO/raxol MCP server]
-- - [Freelance Clearing](https://freelanceclearing.com/api/mcp) - A transparent freelance marketplace for humans and AI agents.
 - (https://glama.ai/mcp/servers/DROOdotFOO/raxol/badges/score.svg)](https://glama.ai/mcp/servers/DROOdotFOO/raxol) 🏠 🍎 🪟 🐧 - An Elixir/OTP framework for MCP servers and clients (stdio and in-process transports). Tools are derived from a running UI component tree rather than hand-written schemas, so `mix mcp.server` lets an agent drive a terminal application: read its state, send keys, take a structured screenshot.
-
+- [Freelance Clearing](https://freelanceclearing.com/api/mcp) [![Freelance Clearing MCP server](https://glama.ai/mcp/servers/com.freelanceclearing/badges/score.svg)](https://glama.ai/mcp/servers/com.freelanceclearing) - A transparent freelance marketplace for humans and AI agents.
 ## Tips and Tricks
 
 ### Official prompt to inform LLMs how to use MCP
