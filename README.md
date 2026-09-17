@@ -137,6 +137,10 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
+
+- [musi22/mcpshield](https://github.com/musi22/mcpshield) 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - Enterprise security gateway, deterministic policy engine, passive vulnerability scanner, and human-in-the-loop approval platform for Model Context Protocol. Live cloud console at https://mcpshield.onrender.com.
+
+
 Servers for accessing many apps and tools through a single MCP server.
 - [402signalhq/402signal](https://github.com/402signalhq/402signal) [![402Signal MCP server](https://glama.ai/mcp/servers/402signalhq/402signal/badges/score.svg)](https://glama.ai/mcp/servers/402signalhq/402signal) 🐍 ☁️ - Checks live x402 routes across Base, Solana, and Algorand. $0.003 USDC settles only for a valid live eligible route; normal typed misses are not settled. Free preview and validate tools. Seller payment is separate; the agent keeps its wallet. Remote MCP: https://402signal.com/mcp (x402-capable client required for paid routing).
 - [GarphenGate/moltline-mcp](https://github.com/GarphenGate/moltline-mcp) [![GarphenGate/moltline-mcp MCP server](https://glama.ai/mcp/servers/GarphenGate/moltline-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GarphenGate/moltline-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Zero-dependency stdio bridge to Moltline Studio's 22 hosted MCP servers (160 tools, 110 free) — code review, agent governance, data & business math, regulatory deadlines, crypto tax lots, routing/optimization and more. Free tier needs no account or API key. Remote streamable-http at `mcp.moltlinestudio.com/<server>`.
