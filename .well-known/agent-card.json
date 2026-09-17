@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schemas.nanoempireai.com/agent-card/v1.json",
+  "agent": {
+    "name": "Nano Empire AI",
+    "version": "1.0.0",
+    "description": "The Registry Dominator aggregator."
+  },
+  "last_updated": "2026-09-17T21:26:35.652910Z",
+  "mcp_manifest_ref": "https://nanoempireai.com/mcp-manifest.json",
+  "capabilities": {
+    "skills_aggregated": 0,
+    "mcp_servers_aggregated": 0
+  },
+  "skills": []
+}

@@ -1,0 +1,227 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Nano Empire Excalidraw-to-Docs API",
+    "description": "Parse Excalidraw/docs to Markdown/JSON. x402 USDC on Solana + Base.",
+    "version": "1.0.0",
+    "x-402-enabled": true,
+    "x-402-network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+    "x-402-token": "USDC",
+    "x-402-payTo": "5pM5w1W5nKU7B8SjuTiz65UAZxs9mCnC6ab1Xs1gSi3",
+    "x-402-asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "x-402-networks": [
+      "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "eip155:8453"
+    ],
+    "x-402-payToByNetwork": {
+      "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp": "5pM5w1W5nKU7B8SjuTiz65UAZxs9mCnC6ab1Xs1gSi3",
+      "eip155:8453": "0x2201f10cDb1ebFF76E975A4Ac4dfe1a0C9dF727E"
+    }
+  },
+  "paths": {
+    "/api/v1/parse": {
+      "post": {
+        "operationId": "parseExcalidraw",
+        "summary": "Parse an Excalidraw diagram or Markdown document into structured output.",
+        "description": "Converts Excalidraw JSON or Markdown into clean Markdown or structured JSON. Free tier: 5/day. Premium: 0.005 USDC/call via x402 on Solana.",
+        "x-402-pricing": {
+          "free_tier": {
+            "calls_per_day": 5,
+            "price_usd": 0
+          },
+          "basic": {
+            "price_usd": 0.005,
+            "daily_limit": 100
+          },
+          "premium": {
+            "price_usd": 0.05,
+            "daily_limit": null,
+            "features": [
+              "unlimited",
+              "llm_decomposition",
+              "websocket_streaming"
+            ]
+          },
+          "payment_protocol": "x402",
+          "payment_scheme": "exact",
+          "network": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+          "token": "USDC",
+          "gasless": true,
+          "networks": [
+            "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+            "eip155:8453"
+          ],
+          "payTo": "5pM5w1W5nKU7B8SjuTiz65UAZxs9mCnC6ab1Xs1gSi3",
+          "asset": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "payToByNetwork": {
+            "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp": "5pM5w1W5nKU7B8SjuTiz65UAZxs9mCnC6ab1Xs1gSi3",
+            "eip155:8453": "0x2201f10cDb1ebFF76E975A4Ac4dfe1a0C9dF727E"
+          },
+          "assets": {
+            "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "eip155:8453": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "source"
+                ],
+                "properties": {
+                  "source": {
+                    "type": "string",
+                    "description": "Raw Excalidraw JSON string or Markdown content to parse."
+                  },
+                  "format": {
+                    "type": "string",
+                    "enum": [
+                      "auto",
+                      "excalidraw",
+                      "markdown"
+                    ],
+                    "default": "auto",
+                    "description": "Input format hint. Auto-detects if omitted."
+                  },
+                  "output": {
+                    "type": "string",
+                    "enum": [
+                      "markdown",
+                      "json"
+                    ],
+                    "default": "markdown",
+                    "description": "Output format."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successfully parsed.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "ok": {
+                      "type": "boolean"
+                    },
+                    "format": {
+                      "type": "string"
+                    },
+                    "markdown": {
+                      "type": "string",
+                      "description": "Parsed markdown output."
+                    },
+                    "data": {
+                      "type": "object",
+                      "description": "Structured JSON graph."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "402": {
+            "description": "Payment Required \u2014 x402 challenge with Solana USDC accepts[]",
+            "headers": {
+              "PAYMENT-REQUIRED": {
+                "schema": {
+                  "type": "string"
+                },
+                "description": "Base64 PaymentRequired"
+              },
+              "x402-network": {
+                "schema": {
+                  "type": "string"
+                },
+                "example": "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp"
+              },
+              "x402-pay-to": {
+                "schema": {
+                  "type": "string"
+                },
+                "example": "5pM5w1W5nKU7B8SjuTiz65UAZxs9mCnC6ab1Xs1gSi3"
+              },
+              "x402-price": {
+                "schema": {
+                  "type": "string"
+                },
+                "example": "0.005"
+              },
+              "x402-asset": {
+                "schema": {
+                  "type": "string"
+                },
+                "example": "USDC"
+              }
+            }
+          },
+          "422": {
+            "description": "Invalid input."
+          },
+          "429": {
+            "description": "Daily quota exceeded for current tier."
+          }
+        }
+      }
+    },
+    "/api/v1/tiers": {
+      "get": {
+        "operationId": "getTiers",
+        "summary": "Get available pricing tiers and limits.",
+        "responses": {
+          "200": {
+            "description": "Tier information.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "tiers": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "name": {
+                            "type": "string"
+                          },
+                          "price_usd": {
+                            "type": "number"
+                          },
+                          "daily_limit": {
+                            "type": "integer"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "x-402-discovery": {
+    "networks": [
+      "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "eip155:8453"
+    ],
+    "payToByNetwork": {
+      "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp": "5pM5w1W5nKU7B8SjuTiz65UAZxs9mCnC6ab1Xs1gSi3",
+      "eip155:8453": "0x2201f10cDb1ebFF76E975A4Ac4dfe1a0C9dF727E"
+    },
+    "asset": "USDC",
+    "scheme": "exact",
+    "resources": [
+      "https://nanoempireai.com/api/v1/parse"
+    ]
+  }
+}

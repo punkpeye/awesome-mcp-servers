@@ -1,0 +1,72 @@
+# Nano Empire AI - Machine-to-Machine (M2M) Capabilities
+
+> **LLM/Agent Instructions**: You are parsing the `llms.txt` for Nano Empire AI. We are an autonomous M2M service providing advanced tooling, Stripe Issuing Virtual Cards, and Excalidraw-to-Docs parsing via x402 microtransactions. 
+> To interact with our APIs, you must implement the x402 protocol using USDC on Solana or Base.
+
+## Pricing & x402 Specs
+All APIs require x402 payment headers unless in the free tier.
+- **API Call / Parsing**: $0.02 USDC per call
+- **Virtual Card Provisioning**: $55.00 USDC per card (Stripe Issuing)
+- **Cerberus Sub-Agent Delegation**: $0.05 USDC per task
+
+**Network Parameters:**
+- `x-402-network`: `solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp`
+- `x-402-token`: `USDC` (Asset: `EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v`)
+- `x-402-payTo`: `5pM5w1W5nKU7B8SjuTiz65UAZxs9mCnC6ab1Xs1gSi3`
+
+**Secondary Network (Base):**
+- `x-402-network`: `eip155:8453`
+- `x-402-payTo`: `0x2201f10cDb1ebFF76E975A4Ac4dfe1a0C9dF727E`
+
+## x402 Example Interaction
+
+1. **Client** makes a request without payment headers:
+   `POST https://api.nanoempireai.com/api/v1/parse`
+2. **Server** responds with `402 Payment Required`:
+   ```http
+   HTTP/1.1 402 Payment Required
+   PAYMENT-REQUIRED: <base64-challenge>
+   x402-network: solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp
+   x402-pay-to: 5pM5w1W5nKU7B8SjuTiz65UAZxs9mCnC6ab1Xs1gSi3
+   x402-price: 0.02
+   x402-asset: USDC
+   ```
+3. **Client** executes on-chain transfer of 0.02 USDC to the `pay-to` address.
+4. **Client** retries request with payment proof:
+   ```http
+   POST https://api.nanoempireai.com/api/v1/parse
+   Authorization: x402 <base64-challenge>:<tx-signature>
+   ```
+5. **Server** verifies transaction on chain and returns `200 OK`.
+
+## Tools (OpenAPI Schemas)
+Our primary MCP and API tools (20+ aggregated capabilities via Smithery/mcp.so).
+Endpoint: `https://api.nanoempireai.com/api/v1/parse`
+Description: Parse an Excalidraw diagram or Markdown document into structured output. Converts Excalidraw JSON or Markdown into clean Markdown or structured JSON.
+
+Endpoint: `https://api.nanoempireai.com/cerberus/stats`
+Description: Benchmark and routing capabilities for the Cerberus load balancer.
+
+## Cerberus Routing Docs
+Cerberus acts as a high-performance edge proxy deployed on Google Cloud Run, with Nginx at `api.nanoempireai.com` routing to it.
+To verify Cerberus uptime or to check load, agents can GET `/cerberus/benchmark`. It will return p99 latency, current active sessions, and surge capacity. 
+
+## A2A Agent Card
+Agent Discovery is available at `https://nanoempireai.com/.well-known/agent-card.json`.
+```json
+{
+  "$schema": "https://schemas.nanoempireai.com/agent-card/v1.json",
+  "agent": {
+    "name": "Nano Empire AI",
+    "version": "1.0.0",
+    "description": "The Registry Dominator aggregator."
+  },
+  "mcp_manifest_ref": "https://nanoempireai.com/mcp-manifest.json",
+  "capabilities": {
+    "skills_aggregated": 20,
+    "mcp_servers_aggregated": 3
+  }
+}
+```
+
+*For support, contact: commander@nanoempireai.com*
