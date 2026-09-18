@@ -100,6 +100,7 @@
 * 🗺️ - [位置服务](#location-services)
 * 🎯 - [营销](#marketing)
 * 📊 - [监测](#monitoring)
+* 🎥 - [多媒体处理](#multimedia-process)
 * 🔎 - [搜索](#search)
 * 🔒 - [安全](#security)
 * 🏃 - [体育](#sports)
@@ -503,6 +504,12 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) 🐍 🏠 - 通过基于提示的智能分析，从代码复杂度到安全漏洞等10个关键维度，提升AI生成代码的质量
 - [inventer-dev/mcp-internet-speed-test](https://github.com/inventer-dev/mcp-internet-speed-test) 🐍 ☁️ - 互联网速度测试，包括下载/上传速度、延迟、抖动分析和地理映射的CDN服务器检测等网络性能指标
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🏆 🏆 🏠 - 与 [VictoriaMetrics API](https://docs.victoriametrics.com/victoriametrics/url-examples/) 和[文档](https://docs.victoriametrics.com/) 完整集成，监控你的 VictoriaMetrics 实例及排查问题。
+
+### 🎥 <a name="multimedia-process"></a>多媒体处理
+
+提供多媒体处理能力，如音频、视频编辑、播放、格式转换，以及视频滤镜、增强等。
+
+- [gridhra/atx-mcp](https://github.com/gridhra/atx-mcp) [![gridhra/atx-mcp MCP server](https://glama.ai/mcp/servers/gridhra/atx-mcp/badges/score.svg)](https://glama.ai/mcp/servers/gridhra/atx-mcp) 🦀 🏠 🍎 🪟 🐧 - 面向智能体的确定性、非生成式图像编辑：通过声明式变换配方完成校正倾斜、裁剪、蒙版、图层合成、应用 LUT、去除 EXIF/GPS，并编码为 WebP/AVIF/JPEG/PNG。原始文件永不修改，每个结果都是带完整谱系的不可变修订版本，同一配方在任何机器上都能复现字节级一致的输出。`npx -y atx-mcp --workspace /path/to/asset-workspace`
 
 ### 🔎 <a name="search"></a>搜索
 

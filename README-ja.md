@@ -498,6 +498,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 音声・動画編集、再生、フォーマット変換、および動画フィルタ、拡張などを含むマルチメディア処理機能を提供。
 
 - [video-creator/ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp.git) 🎥 🔊 - ffmpegコマンドラインを使用してMCPサーバーを実現。対話を通じてローカル動画の検索、カット、結合、再生などの機能を非常に便利に実現できます
+- [gridhra/atx-mcp](https://github.com/gridhra/atx-mcp) [![gridhra/atx-mcp MCP server](https://glama.ai/mcp/servers/gridhra/atx-mcp/badges/score.svg)](https://glama.ai/mcp/servers/gridhra/atx-mcp) 🦀 🏠 🍎 🪟 🐧 - エージェント向けの決定論的・非生成の画像編集: 傾き補正、切り抜き、マスク、レイヤー合成、LUT 適用、EXIF/GPS 除去、WebP/AVIF/JPEG/PNG へのエンコードを宣言的な変換レシピで実行。原本は変更されず、すべての結果は系譜つきの不変な revision として記録され、同じレシピはどのマシンでもバイト同一の出力を再現する。`npx -y atx-mcp --workspace /path/to/asset-workspace`
 - [stass/exif-mcp](https://github.com/stass/exif-mcp) 📇 🏠 🐧 🍎 🪟 - EXIF、XMP、JFIF、GPSなどの画像メタデータを調べることができるMCPサーバー。これにより、フォトライブラリや画像コレクションのLLM駆動検索と分析の基盤を提供します。
 - [sunriseapps/imagesorcery-mcp](https://github.com/sunriseapps/imagesorcery-mcp) 🐍 🏠 🐧 🍎 🪟 - AIアシスタント向けのコンピュータービジョンベースの🪄画像認識・編集ツールの魔法
 
