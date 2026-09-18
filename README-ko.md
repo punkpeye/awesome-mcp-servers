@@ -102,7 +102,6 @@
 
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - 여러 MCP 서버를 하나의 MCP 서버로 통합하는 통합 모델 컨텍스트 프로토콜 서버 구현.
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - 웹 API를 10초 만에 MCP 서버로 전환하고 오픈 소스 레지스트리에 추가하세요: https://open-mcp.org
-- [tigranbs/mcgravity](https://github.com/krayniok/mcgravity) 📇 🏠 🪟 🐧 - 여러 MCP 서버를 단일 연결 포인트로 통합하여 프록시하는 도구로, 요청 부하를 분산하여 AI 도구를 확장합니다.
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP는 GUI를 통해 MCP 연결을 관리하는 통합 미들웨어 MCP 서버입니다.
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - 서버 측 코드를 변경하지 않고 한 번의 클릭으로 웹 API를 MCP 서버로 변환합니다.
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - MCP를 통해 Google의 Imagen 3.0 API를 사용하는 강력한 이미지 생성 도구. 고급 사진, 예술 및 사실적인 컨트롤로 텍스트 프롬프트에서 고품질 이미지를 생성합니다.
@@ -116,14 +115,12 @@
 - [@executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 🌐⚡️ - 브라우저 자동화 및 웹 스크래핑을 위해 Playwright를 사용하는 MCP 서버
 - [@automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🌐 🖱️ - Playwright를 사용한 브라우저 자동화를 위한 MCP 서버
 - [@brutalzinn/simple-mcp-selenium](https://github.com/brutalzinn/simple-mcp-selenium) 📇 🏠 - Cursor IDE에서 자연어로 브라우저를 제어하기 위한 MCP Selenium 서버입니다. 테스트, 자동화, 다중 사용자 시나리오에 최적화되어 있습니다.
-- [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) 📇 🏠 - 웹 스크래핑 및 상호 작용을 위한 브라우저 자동화
+- [@modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) 📇 🏠 - 웹 스크래핑 및 상호 작용을 위한 브라우저 자동화
 - [@kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - AI 분석을 위해 YouTube 자막 및 스크립트 가져오기
 - [@recursechat/mcp-server-apple-shortcuts](https://github.com/recursechat/mcp-server-apple-shortcuts) 📇 🏠 🍎 - Apple Shortcuts와의 MCP 서버 통합
-- [@kimtth/mcp-aoai-web-Browse](https://github.com/kimtth/mcp-aoai-web-Browse) 🐍 🏠 - Azure OpenAI 및 Playwright를 사용하는 `최소한의` 서버/클라이언트 MCP 구현
 - [@pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - API 키 없이 Google 검색 결과를 사용하여 무료 웹 검색을 가능하게 하는 MCP 서버
 - [@co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🌐🔮 - SSE 전송을 지원하는 MCP 서버로 패키징된 browser-use. Docker에서 Chromium을 실행하기 위한 Dockerfile + VNC 서버 포함.
 - [@34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Bilibili 콘텐츠 검색을 지원하는 MCP 서버. LangChain 통합 예제 및 테스트 스크립트 제공.
-- [@getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 📇 🏠 - 모든 웹사이트에서 구조화된 데이터 추출. 프롬프트만 입력하면 JSON 획득.
 - [freema/firefox-devtools-mcp](https://github.com/freema/firefox-devtools-mcp) 📇 🏠 - WebDriver BiDi를 통한 Firefox 브라우저 자동화. 테스트, 스크래핑 및 브라우저 제어 지원. 스냅샷/UID 기반 상호작용, 네트워크 모니터링, 콘솔 캡처 및 스크린샷 지원
 
 ### 🎨 <a name="art-and-culture"></a>예술 및 문화
@@ -187,13 +184,12 @@
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - Google Tasks를 관리하기 위한 MCP 서버
 - [FastAlertNow/mcp-server](https://github.com/FastAlertNow/mcp-server) 💬 ☁️ - FastAlert MCP Server - Official Model Context Protocol (MCP) server for FastAlert. This server allows AI agents (like Claude, ChatGPT, and Cursor) to list your channels and send notifications directly through the FastAlert API. ![FastAlert icon](https://fastalert.now/icons/favicon-32x32.png)
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) 🐍 🏠 🍎 - 모델 컨텍스트 프로토콜(MCP)을 통해 iMessage 데이터베이스에 안전하게 접근할 수 있게 하는 MCP 서버. LLM이 적절한 전화번호 유효성 검사 및 첨부 파일 처리로 iMessage 대화를 쿼리하고 분석할 수 있도록 지원합니다.
-- [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) 📇 ☁️ - 채널 관리 및 메시징을 위한 Slack 워크스페이스 통합
+- [@modelcontextprotocol/server-slack](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack) 📇 ☁️ - 채널 관리 및 메시징을 위한 Slack 워크스페이스 통합
 - [@keturiosakys/bluesky-context-server](https://github.com/keturiosakys/bluesky-context-server) 📇 ☁️ - 쿼리 및 상호 작용을 위한 Bluesky 인스턴스 통합
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) - 🐍 ☁️ - Gmail 및 Google Calendar와의 통합.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - 트위터 검색 및 타임라인과 상호 작용
 - [gotoolkits/wecombot](https://github.com/gotoolkits/mcp-wecombot-server.git) - 🚀 ☁️ - WeCom 그룹 로봇에게 다양한 유형의 메시지를 보내는 MCP 서버 애플리케이션.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) - 🌐 ☁️ - Nostr과 상호 작용하여 노트 게시 등을 할 수 있는 Nostr MCP 서버.
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server) - 🐍 ☁️ - Inbox Zero를 위한 MCP 서버. 답장해야 할 이메일이나 후속 조치가 필요한 이메일을 찾는 등 Gmail 위에 기능을 추가합니다.
 - [carterlasalle/mac_messages_mcp](https://github.com/carterlasalle/mac_messages_mcp) 🏠 🍎 🚀 - 모델 컨텍스트 프로토콜(MCP)을 통해 iMessage 데이터베이스와 안전하게 인터페이스하는 MCP 서버로, LLM이 iMessage 대화를 쿼리하고 분석할 수 있게 합니다. 강력한 전화번호 유효성 검사, 첨부 파일 처리, 연락처 관리, 그룹 채팅 처리 및 메시지 송수신 전체 지원을 포함합니다.
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) 🎖 📇 ☁️ - LINE 공식 계정을 통합하는 MCP 서버
 - [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) 📇 ☁️ 🏠 - 내장된 Feishu OAuth 인증을 갖춘 Model Context Protocol(MCP) 서버로, 원격 연결을 지원하고 블록 생성, 콘텐츠 업데이트 및 고급 기능을 포함한 포괄적인 Feishu 문서 관리 도구를 제공합니다.
@@ -351,8 +347,8 @@
 
 구성 가능한 권한으로 로컬 파일 시스템에 직접 접근을 제공합니다. AI 모델이 지정된 디렉토리 내에서 파일을 읽고, 쓰고, 관리할 수 있게 합니다.
 
-- [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/filesystem) 📇 🏠 - 로컬 파일 시스템 직접 접근.
-- [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - 파일 목록 조회, 읽기 및 검색을 위한 Google Drive 통합
+- [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - 로컬 파일 시스템 직접 접근.
+- [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gdrive) 📇 ☁️ - 파일 목록 조회, 읽기 및 검색을 위한 Google Drive 통합
 - [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - AI 네이티브 디렉토리 시각화. 의미 분석, AI 소비를 위한 초압축 형식, 10배 토큰 감소 지원. 지능형 파일 분류를 갖춘 양자 의미 모드 지원.
 - [FI-Mihej/text_file_read_and_refactor_mcp](https://github.com/FI-Mihej/text_file_read_and_refactor_mcp) [![text_file_read_and_refactor_mcp MCP server](https://glama.ai/mcp/servers/FI-Mihej/text_file_read_and_refactor_mcp/badges/score.svg)](https://glama.ai/mcp/servers/FI-Mihej/text_file_read_and_refactor_mcp) 🐍 🏠 🍎 🪟 🐧 - 안전한 텍스트 파일 검색, 읽기 및 리팩터링 도구를 제공하는, 토큰 효율적인 Python 표준 입출력(stdio) MCP 서버입니다. 도구는 파일의 BOM(Byte Order Mark)과 문자 인코딩(codepage)을 자동으로 감지하며, 편집 도구는 원래의 문자 인코딩과 BOM을 유지한 채 파일을 저장합니다. `uvx text-file-read-and-refactor-mcp`
 - [hmk/box-mcp-server](https://github.com/hmk/box-mcp-server) 📇 ☁️ - 파일 목록 조회, 읽기 및 검색을 위한 Box 통합
@@ -409,7 +405,7 @@
 지식 그래프 구조를 사용한 영구 메모리 저장. AI 모델이 세션 간에 구조화된 정보를 유지하고 쿼리할 수 있게 합니다.
 
 - [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) 🐍 ☁️ 🏠 - Graph RAG, 벡터 검색, 전문 검색을 결합한 프로덕션급 RAG 플랫폼. 지식 그래프 구축과 컨텍스트 엔지니어링을 위한 최고의 선택
-- [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/memory) 📇 🏠 - 컨텍스트 유지를 위한 지식 그래프 기반 영구 메모리 시스템
+- [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) 📇 🏠 - 컨텍스트 유지를 위한 지식 그래프 기반 영구 메모리 시스템
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - AI 역할극 및 스토리 생성에 중점을 둔 향상된 그래프 기반 메모리
 - [/topoteretes/cognee](https://github.com/topoteretes/cognee/tree/dev/cognee-mcp) 📇 🏠 - 다양한 그래프 및 벡터 저장소를 사용하고 30개 이상의 데이터 소스에서 수집을 허용하는 AI 앱 및 에이전트용 메모리 관리자
 - [@hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) 🐍 🏠 - 벡터 검색을 통해 문서를 검색하고 처리하는 도구를 제공하는 MCP 서버 구현으로, AI 어시스턴트가 관련 문서 컨텍스트로 응답을 보강할 수 있도록 지원합니다.
@@ -453,7 +449,7 @@
 애플리케이션 모니터링 데이터 접근 및 분석. AI 모델이 오류 보고서 및 성능 지표를 검토할 수 있게 합니다.
 
 - [tumf/grafana-loki-mcp](https://github.com/tumf/grafana-loki-mcp) 🐍 🏠 - Grafana API를 통해 Loki 로그를 쿼리할 수 있는 MCP 서버입니다.
-- [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) 🐍 ☁️ - 오류 추적 및 성능 모니터링을 위한 Sentry.io 통합
+- [@modelcontextprotocol/server-sentry](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sentry) 🐍 ☁️ - 오류 추적 및 성능 모니터링을 위한 Sentry.io 통합
 - [@MindscapeHQ/server-raygun](https://github.com/MindscapeHQ/mcp-server-raygun) 📇 ☁️ - 충돌 보고 및 실제 사용자 모니터링을 위한 Raygun API V3 통합
 - [metoro-io/metoro-mcp-server](https://github.com/metoro-io/metoro-mcp-server) 🎖️ 🏎️ ☁️ - Metoro로 모니터링되는 쿠버네티스 환경 쿼리 및 상호 작용
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) 🎖️ 🐍 🏠 ☁️ - Grafana 인스턴스에서 대시보드 검색, 인시던트 조사 및 데이터 소스 쿼리
@@ -467,7 +463,7 @@
 - [scrapeless-ai/scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server) 🐍 ☁️ - Scrapeless Model Context Protocol 서비스는 MCP 생태계 내에서 떠나지 않고 웹 검색을 가능하게 하는 Google SERP API에 대한 MCP 서버 커넥터 역할을 합니다.
 - [brave/brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server) 📇 ☁️ - Brave의 검색 API를 사용한 웹 검색 기능
 - [@angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - NYTimes API를 사용하여 기사 검색
-- [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/fetch) 🐍 🏠 ☁️ - AI 소비를 위한 효율적인 웹 콘텐츠 가져오기 및 처리
+- [@modelcontextprotocol/server-fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) 🐍 🏠 ☁️ - AI 소비를 위한 효율적인 웹 콘텐츠 가져오기 및 처리
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - Kagi 검색 API 통합
 - [DappierAI/dappier-mcp](https://github.com/DappierAI/dappier-mcp) 🐍 ☁️ - Dappier MCP 서버는 신뢰할 수 있는 미디어 브랜드의 뉴스, 금융 시장, 스포츠, 엔터테인먼트, 날씨 등의 프리미엄 데이터와 빠르고 무료인 실시간 웹 검색 기능을 AI 에이전트에 제공합니다.
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) 🎖️ 📇 ☁️ – 모델 컨텍스트 프로토콜(MCP) 서버는 Claude와 같은 AI 어시스턴트가 웹 검색을 위해 Exa AI 검색 API를 사용할 수 있게 합니다. 이 설정은 AI 모델이 안전하고 통제된 방식으로 실시간 웹 정보를 얻을 수 있도록 합니다.
@@ -500,7 +496,6 @@
 - [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - 캡처, 프로토콜 통계, 필드 추출 및 보안 분석 기능을 갖춘 Wireshark 네트워크 패킷 분석 MCP 서버.
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – AI 에이전트가 인증 앱과 상호 작용할 수 있도록 하는 보안 MCP(Model Context Protocol) 서버입니다.
 - [dnstwist MCP 서버](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - 타이포스쿼팅, 피싱 및 기업 스파이 활동 탐지를 돕는 강력한 DNS 퍼징 도구인 dnstwist용 MCP 서버.
-- [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary Ninja를 위한 MCP 서버 및 브릿지. 바이너리 분석 및 리버스 엔지니어링을 위한 도구를 제공합니다.
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ 🏠 - Ghidra용 네이티브 Model Context Protocol 서버입니다. GUI 구성 및 로깅 기능, 31개의 강력한 도구, 외부 종속성 없음이 포함되어 있습니다.
 - [Maigret MCP 서버](https://github.com/BurtTheCoder/mcp-maigret) 📇 🪟 ☁️ - 다양한 공개 소스에서 사용자 계정 정보를 수집하는 강력한 OSINT 도구인 maigret용 MCP 서버. 이 서버는 소셜 네트워크에서 사용자 이름 검색 및 URL 분석 도구를 제공합니다.
 - [Shodan MCP 서버](https://github.com/BurtTheCoder/mcp-shodan) 📇 🪟 ☁️ - Shodan API 및 Shodan CVEDB 쿼리를 위한 MCP 서버. 이 서버는 IP 조회, 장치 검색, DNS 조회, 취약점 쿼리, CPE 조회 등을 위한 도구를 제공합니다.
@@ -564,7 +559,6 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - MCP 프로토콜을 사용하여 Claude에서 직접 OpenAI 모델 쿼리
 - [@modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📇 🏠 - MCP 프로토콜의 모든 기능을 실행하는 MCP 서버
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) 🐍 ☁️ 🏠 - REST API를 통해 Obsidian과 상호 작용
-- [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📇 🏠 - Claude 데스크톱(또는 모든 MCP 클라이언트)이 마크다운 노트(예: Obsidian 보관소)를 포함하는 모든 디렉토리를 읽고 검색할 수 있도록 하는 커넥터입니다.
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) 📇 ☁️ - YouTube 자막 가져오기
 - [Seym0n/tiktok-mcp](https://github.com/Seym0n/tiktok-mcp) 📇 ☁️ - TikTok 동영상과 상호 작용
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) 🐍 ☁️ - 개인 할 일 목록 관리를 위해 Notion의 API와 통합
