@@ -4589,3 +4589,5 @@ Now Claude can answer questions about writing MCP servers and how they work
 ### 🔒 Security & Governance
 
 - [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) [![Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker MCP server](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker/badges/score.svg)](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) 🐍 🏠 🐧 🪟 🍎 - Deterministic in-band execution governance gateway and W3C DID security guardrail for AI Agent MCP tool calls.
+
+- [Levea AI Video Editor](https://github.com/brajendrak00068/openclaw-ai-video-editor) 📇 ☁️ — Autonomous in-browser AI video editor: prompt to finished project, viral clips, captions, reframe, chroma key, B-roll, voiceover, and multi-platform export. [![brajendrak00068/openclaw-ai-video-editor MCP server](https://glama.ai/mcp/servers/brajendrak00068/openclaw-ai-video-editor/badges/score.svg)](https://glama.ai/mcp/servers/brajendrak00068/openclaw-ai-video-editor)
