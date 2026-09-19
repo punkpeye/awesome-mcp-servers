@@ -3949,6 +3949,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [Drumworks/ssid-mcp](https://github.com/Drumworks/ssid-mcp) [![Drumworks/ssid-mcp MCP server](https://glama.ai/mcp/servers/Drumworks/ssid-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Drumworks/ssid-mcp) 📇 ☁️ - MAC-address (OUI) vendor lookup and router default-login directory for AI agents. Identify a device manufacturer from its MAC address, detect randomized/private (locally-administered) addresses instead of reporting "unknown", or fetch a router's default login IP and admin credentials — every router field cited to the manufacturer's own documentation. Free tier, no signup. `npx -y ssid-mcp`
 
+- [boy-offi9-inc/hexforge-gateway](https://github.com/boy-offi9-inc/hexforge-gateway) 📇 🏠 ☁️ 🐧 - AI-assisted APK reverse-engineering workspace. Orchestrates jadx, apktool, adb, and frida as MCP agents through a Workflow engine, with a stdio MCP Server Frontend for Claude Desktop/Code/Cursor. Runs on Termux (Android) or PC; Supabase persistence is opt-in.
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
