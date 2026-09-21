@@ -344,6 +344,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCPサーバーは、MCP上に構築されたサーバーで、大規模言語モデル（LLM）によって解釈された自然言語コマンドを使用して、ユーザーがUnitree Go2ロボットを制御できるようにします。
 - [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Claude Code向けのMermaid図レンダリングMCPサーバー。ライブリロード機能を備え、複数のエクスポート形式（SVG、PNG、PDF）とテーマをサポート。
 - [logisky/logisheets-mcp](https://github.com/logisky/logisheets-mcp) [![logisky/logisheets-mcp MCP server](https://glama.ai/mcp/servers/logisky/logisheets-mcp/badges/score.svg)](https://glama.ai/mcp/servers/logisky/logisheets-mcp) 🎖️ 📇 🏠 🍎 🪟 🐧 - エージェント向けの本物のExcel互換スプレッドシートエンジン（[LogiSheets](https://github.com/logisky/LogiSheets)、RustをWASMで実行）。モデルが暗算せずに済む決定論的な数式、座標ではなく（ブロック・キー・フィールド）で参照する名前付きブロックにより行を挿入しても参照が壊れない、列全体に対する数式ルール、シナリオの一括計算とゴールシークを1回の呼び出しで実行、そして最後に本物の `.xlsx` を出力。ローカルで動作し、ソケットを一切開きません。`npx logisheets-mcp`
+- [gridhra/port-keeper-mcp](https://github.com/gridhra/port-keeper-mcp) [![gridhra/port-keeper-mcp MCP server](https://glama.ai/mcp/servers/gridhra/port-keeper-mcp/badges/score.svg)](https://glama.ai/mcp/servers/gridhra/port-keeper-mcp) 🏎️ 🏠 🍎 🪟 🐧 - ローカル開発で使うポート番号を台帳で管理します。プロジェクトの作業コピー（cloneやgit worktree）ごとに専用のポート範囲を貸し出して`.env`ファイルに書き出し、サービス名からURLを引けるようにするので、並列で動かすコーディングエージェントが互いのポートを奪い合いません。デーモンもネットワークの待ち受けも持たないため、構成が単純で、攻撃を受ける面もほとんどありません。
 
 ### 🧮 <a name="data-science-tools"></a>データサイエンスツール
 
