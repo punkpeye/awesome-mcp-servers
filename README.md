@@ -4021,6 +4021,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [boy-offi9-inc/hexforge-gateway](https://github.com/boy-offi9-inc/hexforge-gateway) [![boy-offi9-inc/hexforge-gateway MCP server](https://glama.ai/mcp/servers/boy-offi9-inc/hexforge-gateway/badges/score.svg)](https://glama.ai/mcp/servers/boy-offi9-inc/hexforge-gateway) 📇 🏠 ☁️ 🐧 - AI-assisted APK reverse-engineering workspace. Orchestrates jadx, apktool, adb, and frida as MCP agents through a Workflow engine, with a stdio MCP Server Frontend for Claude Desktop/Code/Cursor. Runs on Termux (Android) or PC; Supabase persistence is opt-in.
 
+- [gostanos/smallprint-action](https://github.com/gostanos/smallprint-action/tree/main/mcp) [![gostanos/smallprint-action MCP server](https://glama.ai/mcp/servers/gostanos/smallprint-action/badges/score.svg)](https://glama.ai/mcp/servers/gostanos/smallprint-action) 📇 ☁️ - Read the Small Print record: the tool descriptions, schemas and instructions of MCP servers, agent skills and plugins, hashed every version and diffed between releases, each change graded by a printed rule, with public advisories joined by version. Four read-only tools over the public record, including a yes-or-no check that a server's small print has not moved since the version you approved; `npx -y smallprint-mcp`.
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
