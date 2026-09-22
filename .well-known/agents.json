@@ -1,0 +1,783 @@
+{
+  "schema": "agentlookup-v1",
+  "registry": "https://agentlookup.dev",
+  "agents": [
+    {
+      "name": "mindsdb/mindsdb",
+      "endpoint": "https://github.com/mindsdb/mindsdb",
+      "description": "Connect and unify data across various platforms and databases with [MindsDB as a single MCP server](https://docs.mindsdb.com/mcp/overview).",
+      "capabilities": [
+        "mcp-server",
+        "data-analysis",
+        "database",
+        "documentation"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "thinkchainai/mcpbundles",
+      "endpoint": "https://github.com/thinkchainai/mcpbundles",
+      "description": "MCP Bundles: Create custom bundles of tools and connect providers with OAuth or API keys. Use one MCP server across thousands of integrations, with programmatic tool calling and MCP UI for managing bundles and credentials.",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "microsoft/playwright-mcp",
+      "endpoint": "https://github.com/microsoft/playwright-mcp",
+      "description": "Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility snapshots",
+      "capabilities": [
+        "web-scraping",
+        "browser-automation",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "hashicorp/terraform-mcp-server",
+      "endpoint": "https://github.com/hashicorp/terraform-mcp-server",
+      "description": "🎖️🏎️☁️ - The official Terraform MCP Server seamlessly integrates with the Terraform ecosystem, enabling provider discovery, module analysis, and direct Registry API integration for advanced Infrastructure as Code workflows.",
+      "capabilities": [
+        "cloud-infrastructure",
+        "mcp-server",
+        "code-generation"
+      ],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "jdubois/azure-cli-mcp",
+      "endpoint": "https://github.com/jdubois/azure-cli-mcp",
+      "description": "A wrapper around the Azure CLI command line that allows you to talk directly to Azure",
+      "capabilities": [
+        "cloud-infrastructure"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "nwiizo/tfmcp",
+      "endpoint": "https://github.com/nwiizo/tfmcp",
+      "description": "🦀 🏠 - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.",
+      "capabilities": [
+        "cloud-infrastructure",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "automateyournetwork/pyATS_MCP",
+      "endpoint": "https://github.com/automateyournetwork/pyATS_MCP",
+      "description": "Cisco pyATS server enabling structured, model-driven interaction with network devices.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "maxim-saplin/mcp_safe_local_python_executor",
+      "endpoint": "https://github.com/maxim-saplin/mcp_safe_local_python_executor",
+      "description": "Safe Python interpreter based on HF Smolagents `LocalPythonExecutor`",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "sonirico/mcp-shell",
+      "endpoint": "https://github.com/sonirico/mcp-shell",
+      "description": "🏎️ 🏠 🍎 🪟 🐧 Give hands to AI. MCP server to run shell commands securely, auditably, and on demand on isolated environments like docker.",
+      "capabilities": [
+        "mcp-server",
+        "documentation"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "tumf/mcp-shell-server",
+      "endpoint": "https://github.com/tumf/mcp-shell-server",
+      "description": "A secure shell command execution server implementing the Model Context Protocol (MCP)",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "areweai/tsgram-mcp",
+      "endpoint": "https://github.com/areweai/tsgram-mcp",
+      "description": "TSgram: Telegram + Claude with local workspace access on your phone in typescript. Read, write, and vibe code on the go!",
+      "capabilities": [
+        "messaging",
+        "email",
+        "code-generation"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "sawa-zen/vrchat-mcp",
+      "endpoint": "https://github.com/sawa-zen/vrchat-mcp",
+      "description": "📇 🏠 This is an MCP server for interacting with the VRChat API. You can retrieve information about friends, worlds, avatars, and more in VRChat.",
+      "capabilities": [
+        "messaging",
+        "email",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "teddyzxcv/ntfy-mcp",
+      "endpoint": "https://github.com/teddyzxcv/ntfy-mcp",
+      "description": "The MCP server that keeps you informed by sending the notification on phone using ntfy",
+      "capabilities": [
+        "messaging",
+        "email",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "saurabhsharma2u/search-console-mcp",
+      "endpoint": "https://github.com/saurabhsharma2u/search-console-mcp",
+      "description": "An MCP server to interact with Google Search Console and Bing Webmasters.",
+      "capabilities": [
+        "data-analysis",
+        "data-extraction",
+        "mcp-server",
+        "web-search"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "Aiven-Open/mcp-aiven",
+      "endpoint": "https://github.com/Aiven-Open/mcp-aiven",
+      "description": "🐍 ☁️ 🎖️ -  Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services",
+      "capabilities": [
+        "data-analysis",
+        "data-extraction",
+        "database",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "alexanderzuev/supabase-mcp-server",
+      "endpoint": "https://github.com/alexander-zuev/supabase-mcp-server",
+      "description": "Supabase MCP Server with support for SQL query execution and database exploration tools",
+      "capabilities": [
+        "data-analysis",
+        "data-extraction",
+        "database",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "bram2w/baserow",
+      "endpoint": "https://github.com/bram2w/baserow",
+      "description": "Baserow database integration with table search, list, and row create, read, update, and delete capabilities.",
+      "capabilities": [
+        "data-analysis",
+        "data-extraction",
+        "database",
+        "web-search"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "joshuarileydev/supabase-mcp-server",
+      "endpoint": "https://github.com/joshuarileydev/supabase",
+      "description": "Supabase MCP Server for managing and creating projects and organisations in Supabase",
+      "capabilities": [
+        "data-analysis",
+        "data-extraction",
+        "database",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "planetscale/mcp",
+      "endpoint": "https://github.com/planetscale/cli?tab=readme-ov-file#mcp-server-integration",
+      "description": "The PlanetScale CLI includes an MCP server that provides AI tools direct access to your PlanetScale databases.",
+      "capabilities": [
+        "data-analysis",
+        "data-extraction",
+        "database",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "21st-dev/Magic-MCP",
+      "endpoint": "https://github.com/21st-dev/magic-mcp",
+      "description": "Create crafted UI components inspired by the best 21st.dev design engineers.",
+      "capabilities": [],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "OpenZeppelin/contracts-wizard",
+      "endpoint": "https://github.com/OpenZeppelin/contracts-wizard/tree/master/packages/mcp",
+      "description": "A Model Context Protocol (MCP) server that allows AI agents to generate secure smart contracts in multiples languages based on [OpenZeppelin Wizard templates](https://wizard.openzeppelin.com/).",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "shadcn/studio MCP",
+      "endpoint": "https://shadcnstudio.com/mcp",
+      "description": "Integrate shadcn/studio MCP Server directly into your favorite IDE and craft stunning shadcn/ui Components, Blocks and Pages inspired by shadcn/studio.",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "TamarEngel/jira-github-mcp",
+      "endpoint": "https://github.com/TamarEngel/jira-github-mcp",
+      "description": "MCP server that integrates Jira and GitHub to automate end-to-end developer workflows, from issue tracking to branches, commits, pull requests, and merges inside the IDE.",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "finmap-org/mcp-server",
+      "endpoint": "https://github.com/finmap-org/mcp-server",
+      "description": "[finmap.org](https://finmap.org/) MCP server provides comprehensive historical data from the US, UK, Russian and Turkish stock exchanges. Access sectors, tickers, company profiles, market cap, volume, value, and trade counts, as well as treemap and histogram visualizations.",
+      "capabilities": [
+        "mcp-server",
+        "data-analysis"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "lnbits/LNbits-MCP-Server",
+      "endpoint": "https://github.com/lnbits/LNbits-MCP-Server",
+      "description": "Am MCP server for LNbits Lightning Network wallet integration.",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "longportapp/openapi",
+      "endpoint": "https://github.com/longportapp/openapi/tree/main/mcp",
+      "description": "🐍 ☁️ - LongPort OpenAPI provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.",
+      "capabilities": [
+        "mcp-server",
+        "data-analysis"
+      ],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "traceloop/opentelemetry-mcp-server",
+      "endpoint": "https://github.com/traceloop/opentelemetry-mcp-server.git",
+      "description": "🐍🏠 - An MCP server for connecting to any OpenTelemetry backend (Datadog, Grafana, Dynatrace, Traceloop, etc.).",
+      "capabilities": [
+        "mcp-server",
+        "data-analysis"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "sonirico/mcp-stockfish",
+      "endpoint": "https://github.com/sonirico/mcp-stockfish",
+      "description": "🏎️ 🏠 🍎 🪟 🐧️ MCP server connecting AI systems to Stockfish chess engine.",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "chatmcp/mcp-server-chatsum",
+      "endpoint": "https://github.com/chatmcp/mcp-server-chatsum",
+      "description": "Query and summarize your chat messages with AI prompts.",
+      "capabilities": [],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "harrison/ai-counsel",
+      "endpoint": "https://github.com/harrison/ai-counsel",
+      "description": "🐍 🏠 🍎 🪟 🐧 - Deliberative consensus engine enabling multi-round debate between AI models with structured voting, convergence detection, and persistent decision graph memory.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "QGIS MCP",
+      "endpoint": "https://github.com/jjsantos01/qgis_mcp",
+      "description": "connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer loading, code execution, and more.",
+      "capabilities": [
+        "mcp-server",
+        "code-generation"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "last9/last9-mcp-server",
+      "endpoint": "https://github.com/last9/last9-mcp-server",
+      "description": "Seamlessly bring real-time production context—logs, metrics, and traces—into your local environment to auto-fix code faster",
+      "capabilities": [
+        "monitoring",
+        "code-generation"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "thinkchainai/agentinterviews_mcp",
+      "endpoint": "https://github.com/thinkchainai/agentinterviews_mcp",
+      "description": "Conduct AI-powered qualitative research interviews and surveys at scale with [Agent Interviews](https://agentinterviews.com). Create interviewers, manage research projects, recruit participants, and analyze interview data through MCP.",
+      "capabilities": [
+        "web-search",
+        "mcp-server",
+        "data-analysis"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "andybrandt/mcp-simple-arxiv",
+      "endpoint": "https://github.com/andybrandt/mcp-simple-arxiv",
+      "description": "🐍 ☁️  MCP for LLM to search and read papers from arXiv",
+      "capabilities": [
+        "data-analysis",
+        "data-extraction",
+        "web-search",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "andybrandt/mcp-simple-pubmed",
+      "endpoint": "https://github.com/andybrandt/mcp-simple-pubmed",
+      "description": "🐍 ☁️  MCP to search and read medical / life sciences papers from PubMed.",
+      "capabilities": [
+        "data-analysis",
+        "data-extraction",
+        "web-search",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "hbg/mcp-paperswithcode",
+      "endpoint": "https://github.com/hbg/mcp-paperswithcode",
+      "description": "🐍 ☁️ MCP to search through PapersWithCode API",
+      "capabilities": [
+        "data-analysis",
+        "data-extraction",
+        "web-search",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "urlbox/urlbox-mcp-server",
+      "endpoint": "https://github.com/urlbox/urlbox-mcp-server/",
+      "description": "📇 🏠 A reliable MCP server for generating and managing screenshots, PDFs, and videos, performing AI-powered screenshot analysis, and extracting web content (Markdown, metadata, and HTML) via the [Urlbox](https://urlbox.com) API.",
+      "capabilities": [
+        "data-analysis",
+        "data-extraction",
+        "web-search",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "dkvdm/onepassword-mcp-server",
+      "endpoint": "https://github.com/dkvdm/onepassword-mcp-server",
+      "description": "An MCP server that enables secure credential retrieval from 1Password to be used by Agentic AI.",
+      "capabilities": [
+        "security-scanning",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "Gaffx/volatility-mcp",
+      "endpoint": "https://github.com/Gaffx/volatility-mcp",
+      "description": "MCP server for Volatility 3.x, allowing you to perform memory forensics analysis with AI assistant. Experience memory forensics without barriers as plugins like pslist and netscan become accessible through clean REST APIs and LLMs.",
+      "capabilities": [
+        "security-scanning",
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "macrocosm-os/macrocosmos-mcp",
+      "endpoint": "https://github.com/macrocosm-os/macrocosmos-mcp",
+      "description": "🎖️ 🐍 ☁️ Access real-time X/Reddit/YouTube data directly in your LLM applications  with search phrases, users, and date filtering.",
+      "capabilities": [
+        "web-search",
+        "data-analysis"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "AbdelStark/bitcoin-mcp",
+      "endpoint": "https://github.com/AbdelStark/bitcoin-mcp",
+      "description": "₿ A Model Context Protocol (MCP) server that enables AI models to interact with Bitcoin, allowing them to generate keys, validate addresses, decode transactions, query the blockchain, and more.",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "akseyh/bear-mcp-server",
+      "endpoint": "https://github.com/akseyh/bear-mcp-server",
+      "description": "Allows the AI to read from your Bear Notes (macOS only)",
+      "capabilities": [],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "andybrandt/mcp-simple-openai-assistant",
+      "endpoint": "https://github.com/andybrandt/mcp-simple-openai-assistant",
+      "description": "🐍 ☁️  MCP to talk to OpenAI assistants (Claude can use any GPT model as his assitant)",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "Azure/azure-mcp",
+      "endpoint": "https://github.com/Azure/azure-mcp",
+      "description": "Official Microsoft MCP server for Azure services including Storage, Cosmos DB, and Azure Monitor.",
+      "capabilities": [
+        "mcp-server",
+        "cloud-infrastructure",
+        "monitoring"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "gotoolkits/DifyWorkflow",
+      "endpoint": "https://github.com/gotoolkits/mcp-difyworkflow-server",
+      "description": "🏎️ ☁️ Tools to the query and execute of Dify workflows",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "HenryHaoson/Yuque-MCP-Server",
+      "endpoint": "https://github.com/HenryHaoson/Yuque-MCP-Server",
+      "description": "📇 ☁️ A Model-Context-Protocol (MCP) server for integrating with Yuque API, allowing AI models to manage documents, interact with knowledge bases, search content, and access analytics data from the Yuque platform.",
+      "capabilities": [
+        "mcp-server",
+        "web-search",
+        "data-analysis",
+        "documentation"
+      ],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "hmk/attio-mcp-server",
+      "endpoint": "https://github.com/hmk/attio-mcp-server",
+      "description": "📇 ☁️ Allows AI clients to manage records and notes in Attio CRM",
+      "capabilities": [],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "kelvin6365/plane-mcp-server",
+      "endpoint": "https://github.com/kelvin6365/plane-mcp-server",
+      "description": "🏎️ 🏠 This MCP Server will help you to manage projects and issues through [Plane's](https://plane.so) API",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "kiarash-portfolio-mcp",
+      "endpoint": "https://kiarash-adl.pages.dev/.well-known/mcp.llmfeed.json",
+      "description": "WebMCP-enabled portfolio with Ed25519 signed discovery. AI agents can query projects, skills, and execute terminal commands. Built on Cloudflare Pages Functions.",
+      "capabilities": [
+        "cloud-infrastructure"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "kiwamizamurai/mcp-kibela-server",
+      "endpoint": "https://github.com/kiwamizamurai/mcp-kibela-server",
+      "description": "📇 ☁️ Powerfully interact with Kibela API.",
+      "capabilities": [],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "kj455/mcp-kibela",
+      "endpoint": "https://github.com/kj455/mcp-kibela",
+      "description": "📇 ☁️ Allows AI models to interact with [Kibela](https://kibe.la/)",
+      "capabilities": [],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "latex-mcp-server",
+      "endpoint": "https://github.com/Yeok-c/latex-mcp-server",
+      "description": "An MCP Server to compile latex, download/organize/read cited papers, run visualization scripts and add figures/tables to latex.",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "marcelmarais/Spotify",
+      "endpoint": "https://github.com/marcelmarais/spotify-mcp-server",
+      "description": "📇 🏠 Control Spotify playback and manage playlists.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "mediar-ai/screenpipe",
+      "endpoint": "https://github.com/mediar-ai/screenpipe",
+      "description": "🎖️ 🦀 🏠 🍎 Local-first system capturing screen/audio with timestamped indexing, SQL/embedding storage, semantic search, LLM-powered history analysis, and event-triggered actions - enables building context-aware AI agents through a NextJS plugin ecosystem.",
+      "capabilities": [
+        "web-search",
+        "database"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "metorial/metorial",
+      "endpoint": "https://github.com/metorial/metorial",
+      "description": "🎖️ 📇 ☁️ Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included",
+      "capabilities": [
+        "monitoring"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MonadsAG/capsulecrm-mcp",
+      "endpoint": "https://github.com/MonadsAG/capsulecrm-mcp",
+      "description": "📇 ☁️ Allows AI clients to manage contacts, opportunities and tasks in Capsule CRM including Claude Desktop ready DTX-file",
+      "capabilities": [
+        "file-management"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "NON906/omniparser-autogui-mcp",
+      "endpoint": "https://github.com/NON906/omniparser-autogui-mcp",
+      "description": "🐍 Automatic operation of on-screen GUI.",
+      "capabilities": [],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "pskill9/hn-server",
+      "endpoint": "https://github.com/pskill9/hn-server",
+      "description": "📇 ☁️ Parses the HTML content from news.ycombinator.com (Hacker News) and provides structured data for different types of stories (top, new, ask, show, jobs).",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "pwh-pwh/cal-mcp",
+      "endpoint": "https://github.com/pwh-pwh/cal-mcp",
+      "description": "An MCP server for Mathematical expression calculation",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "pyroprompts/any-chat-completions-mcp",
+      "endpoint": "https://github.com/pyroprompts/any-chat-completions-mcp",
+      "description": "Chat with any other OpenAI SDK Compatible Chat Completions API, like Perplexity, Groq, xAI and more",
+      "capabilities": [],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "rae-api-com/rae-mcp",
+      "endpoint": "https://github.com/rae-api-com/rae-mcp",
+      "description": "🏎️ ☁️ 🍎 🪟 🐧 MCP Server to connect your preferred model with https://rae-api.com, Roya Academy of Spanish Dictionary",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "roychri/mcp-server-asana",
+      "endpoint": "https://github.com/roychri/mcp-server-asana",
+      "description": "📇 ☁️ This Model Context Protocol server implementation of Asana allows you to talk to Asana API from MCP Client such as Anthropic's Claude Desktop Application, and many more.",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp",
+        "http-rest"
+      ]
+    },
+    {
+      "name": "tan-yong-sheng/ai-vision-mcp",
+      "endpoint": "https://github.com/tan-yong-sheng/ai-vision-mcp",
+      "description": "📇 🏠 🍎 🪟 🐧 - Multimodal AI vision MCP server for image, video, and object detection analysis. Enables UI/UX evaluation, visual regression testing, and interface understanding using Google Gemini and Vertex AI.",
+      "capabilities": [
+        "mcp-server",
+        "test-generation",
+        "image-generation"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "wanaku-ai/wanaku",
+      "endpoint": "https://github.com/wanaku-ai/wanaku",
+      "description": "☁️ 🏠 The Wanaku MCP Router is a SSE-based MCP server that provides an extensible routing engine that allows integrating your enterprise systems with AI agents.",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    },
+    {
+      "name": "ws-mcp",
+      "endpoint": "https://github.com/nick1udwig/ws-mcp",
+      "description": "Wrap MCP servers with a WebSocket (for use with [kitbitz](https://github.com/nick1udwig/kibitz))",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp",
+        "websocket"
+      ]
+    },
+    {
+      "name": "ZeparHyfar/mcp-datetime",
+      "endpoint": "https://github.com/ZeparHyfar/mcp-datetime",
+      "description": "MCP server providing date and time functions in various formats",
+      "capabilities": [
+        "mcp-server"
+      ],
+      "protocols": [
+        "mcp"
+      ]
+    }
+  ]
+}
