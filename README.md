@@ -4316,6 +4316,8 @@ Access to travel and transportation information. Enables querying schedules, rou
 ### 🔄 <a name="version-control"></a>Version Control
 
 Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
+- [gitlog-mcp](https://github.com/ManiaSacha/gitlog-mcp) [![gitlog-mcp MCP server](https://glama.ai/mcp/servers/ManiaSacha/gitlog-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ManiaSacha/gitlog-mcp) 🐍 🏠 🍎 🪟 🐧 - Give AI coding agents structured access to git history — changelogs, commit analysis, blame attribution, and release notes via MCP. Zero runtime dependencies.
+
 
 - [dockndevai/mcp-azure-devops](https://github.com/dockndevai/mcp-azure-devops) [![dockndevai/mcp-azure-devops MCP server](https://glama.ai/mcp/servers/dockndevai/mcp-azure-devops/badges/score.svg)](https://glama.ai/mcp/servers/dockndevai/mcp-azure-devops) 📇 🏠 🍎 🪟 🐧 - Azure DevOps boards/work items, repos/pull requests, pipelines & projects — governed with access modes, project allowlists, protected projects, delete gating, and typed confirmation. `npx -y @dockndevai/mcp-azure-devops`
 - [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - Read and analyze GitHub repositories with your LLM
