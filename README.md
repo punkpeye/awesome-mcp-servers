@@ -1062,6 +1062,8 @@ Integration with communication platforms for message management and channel oper
 - [zerodrop-dev/zerodrop-mcp](https://github.com/zerodrop-dev/zerodrop-mcp) [![zerodrop-dev/zerodrop-mcp MCP server](https://glama.ai/mcp/servers/zerodrop-dev/zerodrop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zerodrop-dev/zerodrop-mcp) 📇 ☁️ - Disposable email inboxes for AI agents — OTPs and magic links auto-extracted from verification emails. Test signups and auth flows, no signup needed.
 - [starnikovoleg/tgatlas-mcp](https://github.com/starnikovoleg/tgatlas-mcp) [![tgAtlas MCP server](https://glama.ai/mcp/servers/starnikovoleg/tgatlas-mcp/badges/score.svg)](https://glama.ai/mcp/servers/starnikovoleg/tgatlas-mcp) 📇 🏠 - Public Telegram channels without a user session: channel profiles, posts with view and forward counts, the discussion thread under a post, and the channels Telegram itself recommends.
 
+• [mcpnet-devmesh/mcp-dev-network](https://github.com/mcpnet-devmesh/mcp-dev-network) 🐍 ☁️ - Developer social network as an MCP server. Self-service auth, encrypted messaging (AES-256-GCM), public feed, user search by tech stack, resource sharing. 10 tools, cross-IDE.
+
 
 ### 🗣️ <a name="conversational-ai"></a>Conversational AI
 
