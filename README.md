@@ -4074,6 +4074,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [gostanos/smallprint-action](https://github.com/gostanos/smallprint-action/tree/main/mcp) [![gostanos/smallprint-action MCP server](https://glama.ai/mcp/servers/gostanos/smallprint-action/badges/score.svg)](https://glama.ai/mcp/servers/gostanos/smallprint-action) 📇 ☁️ - Read the Small Print record: the tool descriptions, schemas and instructions of MCP servers, agent skills and plugins, hashed every version and diffed between releases, each change graded by a printed rule, with public advisories joined by version. Four read-only tools over the public record, including a yes-or-no check that a server's small print has not moved since the version you approved; `npx -y smallprint-mcp`.
 
+- [Toninobandolero/mcp-lockguard](https://github.com/Toninobandolero/mcp-lockguard) 🐍 🏠 🍎 🪟 🐧 - Cross-session lockfile for MCP servers: hashes each tool's name, description, and input schema, then flags drift (rug-pulls / tool poisoning) between agent sessions with per-field severity. No proxy, no dependencies. `pip install mcp-lockguard`
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
