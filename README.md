@@ -4138,6 +4138,8 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) [![Xquik-dev/x-twitter-scraper MCP server](https://glama.ai/mcp/servers/Xquik-dev/x-twitter-scraper/badges/score.svg?v=2)](https://glama.ai/mcp/servers/Xquik-dev/x-twitter-scraper) 📇 ☁️ - Remote X (Twitter) MCP server with 121 endpoints via 2 tools. Post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways, and monitor accounts. StreamableHTTP at xquik.com/mcp with API key auth.
 - [ilyautov/vk-mcp-ru](https://github.com/ilyautov/vk-mcp-ru) [![ilyautov/vk-mcp-ru MCP server](https://glama.ai/mcp/servers/ilyautov/vk-mcp-ru/badges/score.svg)](https://glama.ai/mcp/servers/ilyautov/vk-mcp-ru) 🐍 🏠 🍎 🪟 🐧 - VK API for AI assistants: wall posts, communities, messages, market items, ads and stats through 373 schema-driven methods with a read/write/destructive safety gate. The agent searches methods in plain language instead of getting 373 tools. PyPI (`uvx vk-mcp-ru`).
 
+- [llmops-pro/marketplace-mcp](https://github.com/llmops-pro/marketplace-mcp) [![llmops-pro/marketplace-mcp MCP server](https://glama.ai/mcp/servers/llmops-pro/marketplace-mcp/badges/score.svg)](https://glama.ai/mcp/servers/llmops-pro/marketplace-mcp) 📇 🏠 - Run a Shopstr / NOSTR marketplace storefront from an agent (NIP-15 stalls/products + Shopstr-modern NIP-99 listings, with the cache POST that makes cards render). MIT.
+
 ### 🔮 <a name="spirituality-and-esoterica"></a>Spirituality & Esoterica
 
 Astrology, tarot, numerology, Vedic systems, Human Design and other divinatory or esoteric tools — for AI agents that compute charts, draw cards, run dasha cycles, or generate horoscopes.
