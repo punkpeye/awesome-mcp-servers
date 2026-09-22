@@ -1871,6 +1871,8 @@ Tools and integrations that enhance the development workflow and environment man
   
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
+| [scomp-link](https://github.com/GiacomoSaccaggi/scomp_link) | End-to-end ML toolkit: train, tune, validate, detect drift/anomalies, forecast, check fairness, generate HTML reports with 39 chart types, serve models as REST API. | [Giacomo Saccaggi](https://github.com/GiacomoSaccaggi) |
+
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
 
 - [inity13/decisionmatrix-mcp](https://github.com/inity13/decisionmatrix-mcp) [![inity13/decisionmatrix-mcp MCP server](https://glama.ai/mcp/servers/inity13/decisionmatrix-mcp/badges/score.svg)](https://glama.ai/mcp/servers/inity13/decisionmatrix-mcp) 📇 ☁️ - Deterministic multi-criteria decision analysis (MCDA): score, rank & explain options against weighted criteria with weighted-sum, weighted-product, or TOPSIS, plus sensitivity analysis (which weights would flip the winner). Exact decimals, stateless. Free hosted endpoint or self-host (MIT). `https://decisionmatrix-mcp.pages.dev/mcp`
