@@ -133,6 +133,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🚆 - [Travel & Transportation](#travel-and-transportation)
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
+- [Credit Optimizer](https://github.com/rafsilva85/credit-optimizer-v5) - Save 30-75% on AI agent credits through intelligent task routing. Audited across 53 scenarios with zero quality loss. Free MCP server + paid Manus skill.
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
