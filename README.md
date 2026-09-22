@@ -3487,6 +3487,8 @@ auto-download. Install via `npx atlassian-trello-mcp`.
 - [kenzotp/mcp-server-zuuna](https://github.com/kenzotp/mcp-server-zuuna) [![kenzotp/mcp-server-zuuna MCP server](https://glama.ai/mcp/servers/kenzotp/mcp-server-zuuna/badges/score.svg)](https://glama.ai/mcp/servers/kenzotp/mcp-server-zuuna) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - MCP server for [Zuuna](https://app.zuuna.de) developer project management: 8 tools for boards, cards, moves, and comments over the Zuuna v1 API; the agent reads the board, codes in the repo, and when the PR merges, git activity moves the card. `npx -y mcp-server-zuuna`
   [![kenzotp/mcp-server-zuuna MCP server](https://glama.ai/mcp/servers/kenzotp/mcp-server-zuuna/badges/score.svg)](https://glama.ai/mcp/servers/kenzotp/mcp-server-zuuna)
 
+- [zaialamm/citable-mcp](https://github.com/zaialamm/citable-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - SEO and AI-visibility checks the agent buys per call in USDC on Solana via x402 — keyword volumes, Google rank checks, on-page/citability audits, backlinks, and which AI engines cite a domain for a buyer question. No API key, no account; failed calls are never charged. `npx -y citable-mcp`
+
 ### 🏠 <a name="real-estate"></a>Real Estate
 
 MCP servers for real estate CRM, property management, and agent workflows.
