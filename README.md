@@ -2688,6 +2688,7 @@ Connect AI agents to industrial equipment, machinery, and operational technology
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
+- [manuvamp/orano-mcp-examples](https://github.com/manuvamp/orano-mcp-examples) ☁️ 📇 - Personal, read-only MCP server for your ORANO library: give ChatGPT, Claude, or Cursor grounded access to the videos you saved — summaries, key points, and flashcards with timestamps. Docs at oranoai.com/mcp; curl examples in the repo.
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
 - [dockndevai/ossian-mcp](https://github.com/dockndevai/ossian-mcp) [![dockndevai/ossian-mcp MCP server](https://glama.ai/mcp/servers/dockndevai/ossian-mcp/badges/score.svg)](https://glama.ai/mcp/servers/dockndevai/ossian-mcp) 📇 🏠 🍎 🪟 🐧 - Ask your own documents and get answers with the exact passages they came from (RAG with citations, and it says "not found" rather than inventing an answer), plus durable agent memory ranked by relevance, importance and recency. Safe by default: starts in a read-only access mode, with write/ingest and irreversible forget behind explicit opt-ins. `npx -y ossian-mcp`
