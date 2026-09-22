@@ -42,6 +42,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+* [Awesome MCP Servers: 65 Ranked by What's Maintained (2026)](https://maketocreate.com/awesome-mcp-servers-65-ranked-by-whats-maintained-2026/)
 
 ## Community
 
