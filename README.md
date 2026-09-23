@@ -3484,6 +3484,8 @@ Servers for controlling the desktop operating system: screenshots, window manage
 
 - [Dominic-DK/askew-mcp](https://github.com/Dominic-DK/askew-mcp) [![Dominic-DK/askew-mcp MCP server](https://glama.ai/mcp/servers/Dominic-DK/askew-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Dominic-DK/askew-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - Let an agent use a real iPhone, iPad or Mac through Apple Shortcuts: run a Shortcut on a locked phone and get the result back, send lock-screen notifications, and read what the phone sends (Calendar, Reminders, Notes, HomeKit, Wallet events). End-to-end encrypted relay, one automation on the phone. `npx -y askew-mcp`
 
+- [huseyinstif/oculos](https://github.com/huseyinstif/oculos) [![huseyinstif/oculos MCP server](https://glama.ai/mcp/servers/huseyinstif/oculos/badges/score.svg)](https://glama.ai/mcp/servers/huseyinstif/oculos) 🦀 🏠 🪟 🐧 🍎 - Deterministic desktop automation via the OS accessibility tree: every button, text field, and menu of every app becomes a queryable JSON endpoint. Find elements by text/type, click, set text, send keys, wait for dialogs — no screenshots, no pixel coordinates, no vision model. REST API + MCP server in one binary, with a web dashboard, element inspector, and a recorder that exports automations as Python/JS/curl.
+
 ### 🎙️ <a name="podcasts"></a>Podcasts
 
 Servers for podcast analytics, search, hosting, and discovery.
