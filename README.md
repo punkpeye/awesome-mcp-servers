@@ -4291,6 +4291,7 @@ Translation tools and services to enable AI assistants to translate content betw
 
 Tools for converting text-to-speech and vice-versa
 
+- [AudiopodAI/audiopod-mcp](https://github.com/AudiopodAI/audiopod-mcp) 🎖️ ☁️ - Hosted audio AI: text-to-speech, voice cloning, music generation, stem separation, transcription and noise removal over one Streamable HTTP endpoint.
 - [daisys-ai/daisys-mcp](https://github.com/daisys-ai/daisys-mcp) 🐍 🏠 🍎 🪟 🐧 - Generate high-quality text-to-speech and text-to-voice outputs using the [DAISYS](https://www.daisys.ai/) platform and make it able to play and store audio generated.
 - [fasuizu-br/brainiall-mcp-server](https://github.com/fasuizu-br/brainiall-mcp-server) [![brainiall-mcp-server MCP server](https://glama.ai/mcp/servers/fasuizu-br/brainiall-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/fasuizu-br/brainiall-mcp-server) 🐍 ☁️ - AI-powered speech tools: pronunciation assessment with phoneme-level feedback, speech-to-text with language detection, and text-to-speech with multiple voices.
 - [forgemeshlabs/voice-mcp](https://github.com/forgemeshlabs/voice-mcp) [![voice-mcp MCP server](https://glama.ai/mcp/servers/forgemeshlabs/voice-mcp/badges/score.svg)](https://glama.ai/mcp/servers/forgemeshlabs/voice-mcp) 📇 ☁️ - Give Your Agent A Voice: x402 pay-per-call speech on Base with 20 voices, 10 personas, 31 languages, granular speed/quality controls, OpenAI-shaped requests, voice samples, and batch audio.
