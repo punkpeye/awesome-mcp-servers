@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="20" role="img" aria-label="العربية: اضغط">
+  <title>العربية: اضغط</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="110" height="20" rx="3" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="64" height="20" fill="#555"/>
+    <rect x="64" width="46" height="20" fill="#4c1"/>
+    <rect width="110" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" direction="rtl" font-family="'Segoe UI','Noto Sans Arabic','Tahoma','DejaVu Sans',Verdana,sans-serif" font-size="11">
+    <text x="32" y="15">العربية</text>
+    <text x="87" y="15">اضغط</text>
+  </g>
+</svg>
