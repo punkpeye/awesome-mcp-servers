@@ -16,7 +16,7 @@
 A curated list of awesome Model Context Protocol (MCP) servers.
 
 * [What is MCP?](#what-is-mcp)
-* [Clients](#clients)h
+* [Clients](#clients)
 * [Remote Servers](#remote-servers)
 * [Tutorials](#tutorials)
 * [Community](#community)
