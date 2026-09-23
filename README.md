@@ -4119,6 +4119,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [aurelio-nakamura/cmdxray](https://github.com/aurelio-nakamura/cmdxray) [![aurelio-nakamura/cmdxray MCP server](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray/badges/score.svg)](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray) 📇 🏠 🍎 🪟 🐧 - A safety gate and explainer for AI coding agents that run shell commands. `check_command_safety` returns a danger/caution/none verdict for a proposed command — catching `rm -rf /`, `curl | sudo bash`, `dd`/`mkfs`/`shred` to a device, `chmod -R 777 /`, fork bombs, `git push --force` and CI `${{ }}` script-injection — so an agent can guard a command before executing it. `explain_command` gives a token-by-token breakdown of every flag, pipe, redirect and subshell. Fully offline, zero dependencies, nothing leaves the machine. `npx -y cmdxray mcp`.
 
+- [MichaelS1011/ephemora-cell](https://github.com/MichaelS1011/ephemora-cell) [![MichaelS1011/ephemora-cell MCP server](https://glama.ai/mcp/servers/MichaelS1011/ephemora-cell/badges/score.svg)](https://glama.ai/mcp/servers/MichaelS1011/ephemora-cell) 🐍 🏠 - Capability-based WASM sandbox for MCP tools. Tools isolated via WASI (wasmtime), fuel/memory/time/I/O capped, attested `get-policy` + signed manifests fail-closed, pooled 0.5ms. `pip install ephemora-cell` `ephemora-cell-mcp`
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
