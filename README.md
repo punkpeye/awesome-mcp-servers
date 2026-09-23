@@ -402,7 +402,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - A MCP server integrating AniList API for anime and manga information
 - [yuvalsuede/agent-media](https://github.com/yuvalsuede/agent-media) 📇 ☁️ 🍎 🪟 🐧 - CLI and MCP server for AI video and image generation with unified access to 7 models (Kling, Veo, Sora, Seedance, Flux, Grok Imagine). Provides 9 tools for generating, managing, and browsing media.
 - [smeet666/mcp-bideetmusique](https://github.com/smeet666/mcp-bideetmusique) [![smeet666/mcp-bideetmusique MCP server](https://glama.ai/mcp/servers/smeet666/mcp-bideetmusique/badges/score.svg)](https://glama.ai/mcp/servers/smeet666/mcp-bideetmusique) 📇 ☁️ 🍎 🪟 🐧 - Search the Bide & Musique collection of forgotten French songs, catalogued by hand by the volunteer association that runs the station. Search along one axis at a time: performer, title, writer, a word of the lyrics, label or year. Read a record with its credits, its sleeve and its transcription, or draw a random one. No API key. `npx -y mcp-bideetmusique`
-
+- [Z-Han-Z/apple-music-playlists](https://github.com/Z-Han-Z/apple-music-playlists) [![Z-Han-Z/apple-music-playlists MCP server](https://glama.ai/mcp/servers/Z-Han-Z/apple-music-playlists/badges/score.svg)](https://glama.ai/mcp/servers/Z-Han-Z/apple-music-playlists) 🐍 🏠 🍎 🪟 🐧 - Deep Apple Music playlist curation from nuanced natural-language briefs: catalog-grounded selections, exact-version checks, narrative arcs, and flow-aware sequencing. Pure Python stdio; no Apple Developer Program membership required.
 
 ### 📐 <a name="architecture-and-design"></a>Architecture & Design
 
