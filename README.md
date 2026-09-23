@@ -91,6 +91,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🤖 - [Coding Agents](#coding-agents)
 * 🖥️ - [Command Line](#command-line)
 * 💬 - [Communication](#communication)
+* ✍️ - [Content Management](#content-management)
 * 🗣️ - [Conversational AI](#conversational-ai)
 * 🔑 - [Cryptography](#cryptography)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
@@ -1069,6 +1070,12 @@ Integration with communication platforms for message management and channel oper
 - [zerodrop-dev/zerodrop-mcp](https://github.com/zerodrop-dev/zerodrop-mcp) [![zerodrop-dev/zerodrop-mcp MCP server](https://glama.ai/mcp/servers/zerodrop-dev/zerodrop-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zerodrop-dev/zerodrop-mcp) 📇 ☁️ - Disposable email inboxes for AI agents — OTPs and magic links auto-extracted from verification emails. Test signups and auth flows, no signup needed.
 - [starnikovoleg/tgatlas-mcp](https://github.com/starnikovoleg/tgatlas-mcp) [![tgAtlas MCP server](https://glama.ai/mcp/servers/starnikovoleg/tgatlas-mcp/badges/score.svg)](https://glama.ai/mcp/servers/starnikovoleg/tgatlas-mcp) 📇 🏠 - Public Telegram channels without a user session: channel profiles, posts with view and forward counts, the discussion thread under a post, and the channels Telegram itself recommends.
 
+
+### ✍️ <a name="content-management"></a>Content Management
+
+Publishing platforms and content systems an agent can write to and steward.
+
+- [joiha-steven/quireink](https://github.com/joiha-steven/quireink) [![joiha-steven/quireink MCP server](https://glama.ai/mcp/servers/joiha-steven/quireink/badges/score.svg)](https://glama.ai/mcp/servers/joiha-steven/quireink) 🎖️ 📇 🏠 - The MCP server built into Quire Ink, a self-hosted blog platform: draft, edit, tag, schedule and publish posts, compose the front page, read cookie-free traffic reports, moderate comments, send the newsletter, import a blog from WordPress/Ghost/Substack/Medium, and take backups — through the same rules the admin follows, on a server you own.
 
 ### 🗣️ <a name="conversational-ai"></a>Conversational AI
 
