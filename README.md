@@ -2003,6 +2003,8 @@ MCP servers for learning management systems (LMS) and educational tools.
 
 - [peopleworks/SignsofAI](https://github.com/peopleworks/SignsofAI/tree/main/src/SignsOfAI.Mcp) [![peopleworks/SignsofAI MCP server](https://glama.ai/mcp/servers/peopleworks/SignsofAI/badges/score.svg)](https://glama.ai/mcp/servers/peopleworks/SignsofAI) #️⃣ 🏠 🍎 🪟 🐧 - Explainable AI-writing detection and originality checking for teachers, students and writers, in English **and Spanish**. `analyze_ai_writing` returns a 0–100 score *and every tell behind it* — overused vocabulary, rhetorical crutches, syntactic patterns and sentence-rhythm burstiness — each with the matched text and a concrete fix, instead of a black-box percentage. `check_originality` returns the shared passages between documents as evidence; `check_citations` cross-checks a bibliography against the text offline; `compare_to_baseline` runs Burrows's Delta against the same writer's earlier work; `inspect_characters` finds hidden and lookalike characters; `write_report` exports the evidence as a document a person can take to a committee. Every tool but two runs entirely on the machine and the text never leaves it; the two server-backed ones (perplexity, cross-language paraphrase) disclose that they send text. Published false-positive rate at its 30/100 boundary: 2 of 296 texts written before 2022 (0.7%, 95% interval 0.2–2.4%). .NET 10, MIT. Install: `dnx SignsOfAI.Mcp --yes`. Browser demo: <https://peopleworks.github.io/SignsofAI/>
 
+- [MIt9/mcp-book-lover](https://github.com/MIt9/mcp-book-lover) 🐍 🏠 - MCP server for book lovers — track reading lists, manage progress, get AI recommendations, write reviews, set goals and sync with ElevenReader for TTS playback.
+
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
 MCP servers for e-commerce platforms and online store management.
@@ -3458,6 +3460,8 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [apancyborg/appsgolem-mcp](https://github.com/apancyborg/appsgolem-mcp) [![apancyborg/appsgolem-mcp MCP server](https://glama.ai/mcp/servers/apancyborg/appsgolem-mcp/badges/score.svg)](https://glama.ai/mcp/servers/apancyborg/appsgolem-mcp) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Cut clips from any YouTube video via the AppsGolem API — pick the format and quality, get a direct download URL, and let an AI agent do the editing. `npx appsgolem-mcp`
 - [industriesfatty-spec/fattly-mcp](https://github.com/industriesfatty-spec/fattly-mcp) [![industriesfatty-spec/fattly-mcp MCP server](https://glama.ai/mcp/servers/industriesfatty-spec/fattly-mcp/badges/score.svg)](https://glama.ai/mcp/servers/industriesfatty-spec/fattly-mcp) 📇 ☁️ - Generate AI images, video, voiceovers, avatars and UGC ads through 50+ models via fattly.app
 - 
+- [MIt9/mcp-elevenreader](https://github.com/MIt9/mcp-elevenreader) 🐍 🏠 - MCP server for ElevenReader — upload documents, manage TTS reading queue, track progress and control playback via Claude or Cursor.
+
 ### 🖥️ <a name="os-automation"></a>OS Automation
 
 Servers for controlling the desktop operating system: screenshots, window management, mouse/keyboard input injection, and system-level automation.
