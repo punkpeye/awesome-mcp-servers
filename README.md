@@ -1095,6 +1095,8 @@ Tools for encrypting and decrypting data.
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
 
+- [Lingshu Solver](https://github.com/genesis-plan/lingshu-solver) - Deterministic equation-system solver MCP (≤6 vars) with interval + Krawczyk certification; offline, zero-dependency, no LLM.
+
 Provides access to customer profiles inside of customer data platforms
 
 - [Aleksey-Panf/b2b-enrichment-mcp](https://github.com/Aleksey-Panf/b2b-enrichment-mcp) [![Aleksey-Panf/b2b-enrichment-mcp MCP server](https://glama.ai/mcp/servers/Aleksey-Panf/b2b-enrichment-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Aleksey-Panf/b2b-enrichment-mcp) 🐍 ☁️ - B2B lead enrichment server integrating Hunter.io and Apollo APIs. 9 tools for email discovery, domain search, company data, and contact verification.
