@@ -99,6 +99,8 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🚚 - [Delivery](#delivery)
 * 🛠️ - [Developer Tools](#developer-tools)
 * 🧮 - [Data Science Tools](#data-science-tools)
+
+- [Lingshu Solver](https://github.com/genesis-plan/lingshu-solver) - Deterministic equation-system solver MCP (≤6 vars) with interval + Krawczyk certification; offline, zero-dependency, no LLM.
 * 📊 - [Data Visualization](#data-visualization)
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
@@ -1094,6 +1096,7 @@ Tools for encrypting and decrypting data.
 
 
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
+
 
 Provides access to customer profiles inside of customer data platforms
 
