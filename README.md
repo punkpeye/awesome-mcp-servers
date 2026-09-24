@@ -3458,6 +3458,8 @@ Provides the ability to handle multimedia, such as audio and video editing, play
 - [apancyborg/appsgolem-mcp](https://github.com/apancyborg/appsgolem-mcp) [![apancyborg/appsgolem-mcp MCP server](https://glama.ai/mcp/servers/apancyborg/appsgolem-mcp/badges/score.svg)](https://glama.ai/mcp/servers/apancyborg/appsgolem-mcp) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Cut clips from any YouTube video via the AppsGolem API — pick the format and quality, get a direct download URL, and let an AI agent do the editing. `npx appsgolem-mcp`
 - [industriesfatty-spec/fattly-mcp](https://github.com/industriesfatty-spec/fattly-mcp) [![industriesfatty-spec/fattly-mcp MCP server](https://glama.ai/mcp/servers/industriesfatty-spec/fattly-mcp/badges/score.svg)](https://glama.ai/mcp/servers/industriesfatty-spec/fattly-mcp) 📇 ☁️ - Generate AI images, video, voiceovers, avatars and UGC ads through 50+ models via fattly.app
 - 
+- [MIt9/kie-media-cli](https://github.com/MIt9/kie-media-cli) 📇 🏠 🍎 🪟 🐧 - CLI for KIE API (kie.ai) — generate image/video/audio, live model registry, cost, history.
+
 ### 🖥️ <a name="os-automation"></a>OS Automation
 
 Servers for controlling the desktop operating system: screenshots, window management, mouse/keyboard input injection, and system-level automation.
