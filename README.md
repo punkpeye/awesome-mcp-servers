@@ -4781,3 +4781,5 @@ Now Claude can answer questions about writing MCP servers and how they work
 ### 🔒 Security & Governance
 
 - [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) [![Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker MCP server](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker/badges/score.svg)](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) 🐍 🏠 🐧 🪟 🍎 - Deterministic in-band execution governance gateway and W3C DID security guardrail for AI Agent MCP tool calls.
+
+- [Biopharma Intelligence Platform](https://github.com/frankhoran07-hash/daas-platform) - ClinicalTrials.gov v2 pipelines, openFDA adverse safety profiles, Orange Book patent cliffs, SEC filings, and HMAC-signed webhook delivery.
