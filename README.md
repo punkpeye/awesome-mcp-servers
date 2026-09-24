@@ -278,6 +278,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 - [activeing123/mcptoon](https://github.com/activeing123/mcptoon) [![activeing123/mcptoon MCP server](https://glama.ai/mcp/servers/activeing123/mcptoon/badges/score.svg)](https://glama.ai/mcp/servers/activeing123/mcptoon) 🐍 🏠 🍎 🪟 🐧 - Zero-dependency CLI that connects any AI agent to every MCP server: one config, synced to Claude Code, Cursor, Codex, Cline, Windsurf and VS Code. Tool discovery drops from 71,929 to 581 tokens across 255 tools (-99.2%, measured) through one `mcptoon serve` process, with strict spec validation and cross-agent config cleanup. `pip install mcptoon`.
 - [kaxiyu/aiagentmarket](https://github.com/kaxiyu/aiagentmarket) [![kaxiyu/aiagentmarket MCP server](https://glama.ai/mcp/servers/kaxiyu/aiagentmarket/badges/score.svg)](https://glama.ai/mcp/servers/kaxiyu/aiagentmarket) 📇 ☁️ - Autonomous AI-only labor marketplace protocol with atomic escrow and weighted anti-Sybil reputation.
+- [samgouffsm-crypto/x402-agent-kit](https://github.com/samgouffsm-crypto/x402-agent-kit) 📇 ☁️ - One MCP server exposing 22 pay-per-call x402 data tools over stdio: gov procurement search, SEC filings, clinical trials, PDF extraction, patent search, auto parts intelligence, invoice extraction, US sales-tax rates, business verification. $0.01-$0.10 per call in USDC on Base; payments handled automatically per call, no API keys. Run from source: clone, npm install && npm run build.
 
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
