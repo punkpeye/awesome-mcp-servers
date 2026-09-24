@@ -2358,6 +2358,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [kukapay/bridge-rates-mcp](https://github.com/kukapay/bridge-rates-mcp) 📇 ☁️ - Delivering real-time cross-chain bridge rates and optimal transfer routes to onchain AI agents.
 - [kukapay/chainlink-feeds-mcp](https://github.com/kukapay/chainlink-feeds-mcp) 📇 ☁️ -  Providing real-time access to Chainlink's decentralized on-chain price feeds.
 - [kukapay/chainlist-mcp](https://github.com/kukapay/chainlist-mcp) 📇 ☁️ -  An MCP server that gives AI agents fast access to verified EVM chain information, including RPC URLs, chain IDs, explorers, and native tokens.
+- [kontragentpro/kontragentpro-mcp](https://github.com/kontragentpro/kontragentpro-mcp) [![kontragentpro/kontragentpro-mcp MCP server](https://glama.ai/mcp/servers/kontragentpro/kontragentpro-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kontragentpro/kontragentpro-mcp) 🐍 ☁️ - Russian company data from state registers by INN or OGRN: registry profile, financial statements, tax and enforcement records, inspections and an event timeline.
 - [kukapay/cointelegraph-mcp](https://github.com/kukapay/cointelegraph-mcp) 🐍 ☁️ -  Providing real-time access to the latest news from Cointelegraph.
 - [kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) 🐍 ☁️ -  Providing real-time and historical Crypto Fear & Greed Index data.
 - [kukapay/crypto-funds-mcp](https://github.com/kukapay/crypto-funds-mcp) 🐍 ☁️ -  Providing AI agents with structured, real-time data on cryptocurrency investment funds.
