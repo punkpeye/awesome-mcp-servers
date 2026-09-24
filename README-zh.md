@@ -118,6 +118,7 @@
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP是一个统一的中间件MCP服务器，通过GUI管理您的MCP连接。
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧  - 一键将Web API转成为MCP服务器，而无需对服务器端代码进行任何修改。
 - [hamflx/imagen3-mcp](https://github.com/hamflx/imagen3-mcp) 📇 🏠 🪟 🍎 🐧 - 一个通过 MCP 使用 Google Imagen 3.0 API 的强大图像生成工具。使用文本提示生成具有高级摄影、艺术和逼真控制的高质量图像。
+- [SoWhatI/mcp-asset-gateway](https://github.com/SoWhatI/mcp-asset-gateway) 🐍 🏠 🍎 🪟 🐧 - 自托管 MCP 资产网关：让 AI 客户端以最小权限受控访问企业资产（MySQL 默认只读、SSH、Kubernetes、Jenkins、Git 仓库、Redis、FileBrowser 与上游 MCP 服务器），统一 MCP 端点之后是具名授权组——客户端绑定按账号的工具白名单，参数受精确/正则规则约束，凭据加密存储，出站目标允许列表，Web 控制台全量审计。提供多架构 Docker 镜像，docker-compose 三步部署。
 - [YangLiangwei/PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) 🐍 ☁️ 🏠 🍎 🪟 🐧 - 全面的个人数据聚合MCP服务器，集成Steam、YouTube、Bilibili、Spotify、Reddit等平台。具有OAuth2认证、自动令牌管理和90+工具，用于游戏、音乐、视频和社交平台数据访问。
 
 ### 📂 <a name="browser-automation"></a>浏览器自动化
