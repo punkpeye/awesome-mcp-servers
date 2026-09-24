@@ -311,6 +311,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
+- [delicious28/sealmaker-mcp](https://github.com/delicious28/sealmaker-mcp) [![delicious28/sealmaker-mcp MCP server](https://glama.ai/mcp/servers/delicious28/sealmaker-mcp/badges/score.svg)](https://glama.ai/mcp/servers/delicious28/sealmaker-mcp) 📇 ☁️ - Carves Western names into authentic Chinese name seals: real seal-script (篆书) PNG rendering with per-character meanings, free hosted MCP server at sealscrafter.com/mcp.
 - [AceDataCloud/MCPFlux](https://github.com/AceDataCloud/FluxMCP) [![AceDataCloud/MCPFlux MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux) 🐍 ☁️ - Flux AI image generation and editing (Black Forest Labs) via Ace Data Cloud API.
 - [musajala/musajala-mcp](https://github.com/musajala/musajala-mcp) [![musajala/musajala-mcp MCP server](https://glama.ai/mcp/servers/musajala/musajala-mcp/badges/score.svg)](https://glama.ai/mcp/servers/musajala/musajala-mcp) 📇 ☁️ - Living collaborative Arabic poetry arena & Poetic Equity protocol connecting Claude, Cursor, and AI agents with human poets.
 
