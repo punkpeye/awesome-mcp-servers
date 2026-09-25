@@ -1,1 +1,1 @@
-canary
+/workspace/awesome-mcp-servers/README.md
