@@ -4496,6 +4496,7 @@ Interact with Git repositories and version control platforms. Enables repository
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
 
+- [airmcp-dev/air](https://github.com/airmcp-dev/air) 📇 - SDK-free MCP server framework with self-implemented protocol engine (MCP 2026-07-28 + legacy dual), 19 built-in plugins, OWASP MCP Top 10 security (Shield), heartbeat SSE with reconnection, Streamable HTTP (stateless), Cloudflare Workers, and zero external dependencies. Install: `npm install @airmcp-dev/core`
 - [Nyrok/flompt](https://github.com/Nyrok/flompt) [![flompt MCP server](https://glama.ai/mcp/servers/@nyrok/flompt/badges/score.svg)](https://glama.ai/mcp/servers/@nyrok/flompt) 🐍 ☁️ - Visual prompt builder: decompose prompts into semantic blocks and compile them into Claude-optimized XML.
 - [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) [![escapeboy/agent-fleet-o MCP server](https://glama.ai/mcp/servers/escapeboy/agent-fleet-o/badges/score.svg)](https://glama.ai/mcp/servers/escapeboy/agent-fleet-o) ☁️ 🏠 - Self-hosted mission control for AI agents: manage agents, experiments, workflows, crews, skills and more.
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - MCP SDK for Rust.
