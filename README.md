@@ -42,6 +42,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+* [stevevstd-oss/eterna-mcp-agent-starter](https://github.com/stevevstd-oss/eterna-mcp-agent-starter) [![stevevstd-oss/eterna-mcp-agent-starter MCP server](https://glama.ai/mcp/servers/stevevstd-oss/eterna-mcp-agent-starter/badges/score.svg)](https://glama.ai/mcp/servers/stevevstd-oss/eterna-mcp-agent-starter) 📇 - Tutorial starter repo and MCP server: build an AI trading agent on Eterna Hybrid Exchange via Claude/MCP, the official CLI, and sandboxed TypeScript strategies. Ships fee, comparison and setup tools that work without an account, plus a bridge to the official Eterna endpoint.
 
 ## Community
 
