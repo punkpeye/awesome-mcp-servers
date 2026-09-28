@@ -295,6 +295,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 ### ♿ <a name="accessibility"></a>Accessibility
 
 - [kinti/a11y-toolkit](https://github.com/kinti/a11y-toolkit) [![kinti/a11y-toolkit MCP server](https://glama.ai/mcp/servers/kinti/a11y-toolkit/badges/score.svg)](https://glama.ai/mcp/servers/kinti/a11y-toolkit) 🐍 🏠 - WCAG 2.2 accessibility tools: color contrast checks including text over images, EU accessibility declaration generation and an aria-live announcement monitor.
+- [parthsevak2/curb-cut](https://github.com/parthsevak2/curb-cut) 📇 🏠 - Workplace accommodation options, cost evidence and request drafts, with a no-diagnosis-by-design schema; tools never send anything on the person's behalf.
 - [vince-gonzalez/opticquiz-mcp](https://github.com/vince-gonzalez/opticquiz-mcp) [![vince-gonzalez/opticquiz-mcp MCP server](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp) 📇 🏠 🍎 🪟 🐧 - Color-vision accessibility: check palettes and images for colorblind safety, generate safe palettes, simulate color blindness and create Ishihara-style plates.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
