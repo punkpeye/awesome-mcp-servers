@@ -364,6 +364,7 @@
 - [modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/filesystem) 📇 🏠 - การเข้าถึงระบบไฟล์ในเครื่องโดยตรง
 - [modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - การผสานรวม Google Drive สำหรับการแสดงรายการ อ่าน และค้นหาไฟล์
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - เข้าถึงที่เก็บข้อมูลใดๆ ด้วย Apache OpenDAL™
+- [duringyl/wsl-rwx-7](https://github.com/duringyl/wsl-rwx-7) 📇 🏠 🪟 - เซิร์ฟเวอร์ MCP สำหรับ WSL (Windows Subsystem for Linux): อ่าน/เขียน/รันไฟล์ด้วยการ escape ที่ปลอดภัยผ่าน bash -s stdin และรองรับสภาพแวดล้อม login shell
 
 ### 💰 การเงินและฟินเทค
 

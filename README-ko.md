@@ -349,6 +349,7 @@
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) 🐍 🏠 - MCP 또는 클립보드를 통해 LLM과 코드 컨텍스트 공유
 - [filesystem@quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem) ☕ 🏠 - Quarkus를 사용하여 Java로 구현된 파일 탐색 및 편집을 허용하는 파일 시스템. jar 또는 네이티브 이미지로 사용 가능.
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Apache OpenDAL™을 사용하여 모든 스토리지에 접근
+- [duringyl/wsl-rwx-7](https://github.com/duringyl/wsl-rwx-7) 📇 🏠 🪟 - WSL (Windows Subsystem for Linux)용 MCP 서버: 안전한 bash -s stdin 이스케이프와 로그인 셸 환경 지원으로 파일 읽기/쓰기/실행.
 
 ### 💰 <a name="finance--fintech"></a>금융 및 핀테크
 

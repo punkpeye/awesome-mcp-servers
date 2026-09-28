@@ -661,6 +661,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) 🎖️ 🐍 🏠 - دسترسی ابزار MCP به MarkItDown -- کتابخانه‌ای که بسیاری از فرمت‌های فایل (محلی یا راه دور) را برای مصرف LLM به Markdown تبدیل می‌کند.
 - [modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - دسترسی مستقیم به سیستم فایل محلی.
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - دسترسی به هر ذخیره‌سازی با Apache OpenDAL™
+- [duringyl/wsl-rwx-7](https://github.com/duringyl/wsl-rwx-7) 📇 🏠 🪟 - سرور MCP برای WSL (Windows Subsystem for Linux): خواندن/نوشتن/اجرای فایل‌ها با escape امن از طریق bash -s stdin و پشتیبانی از محیط login shell.
 
 ### 💰 <a name="finance--fintech"></a>مالی و فین‌تک
 

@@ -314,6 +314,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) 🐍 🏠 - 通過 MCP 或剪貼簿與 LLM 共享代碼上下文
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - 使用 Apache OpenDAL™ 訪問任何儲存
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 📇 🏠 - 文件合併工具，適配AI Chat長度限制
+- [duringyl/wsl-rwx-7](https://github.com/duringyl/wsl-rwx-7) 📇 🏠 🪟 - WSL (Windows Subsystem for Linux) 的 MCP 伺服器：使用安全的 bash -s stdin 轉義和登入 shell 環境支援讀取/寫入/執行檔案。
 
 ### 💰 <a name="finance--fintech"></a>金融 & 金融科技
 

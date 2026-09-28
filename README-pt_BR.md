@@ -334,6 +334,7 @@ Fornece acesso direto aos sistemas de arquivos locais com permissões configurá
 - [modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/filesystem) 📇 🏠 - Acesso direto ao sistema de arquivos local.
 - [modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - Integração com Google Drive para listar, ler e pesquisar arquivos
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Acesse qualquer armazenamento com Apache OpenDAL™
+- [duringyl/wsl-rwx-7](https://github.com/duringyl/wsl-rwx-7) 📇 🏠 🪟 - Servidor MCP para WSL (Windows Subsystem for Linux): ler/escrever/executar arquivos com escape seguro via bash -s stdin e suporte a ambiente de shell de login.
 
 ### 💰 <a name="finanças--fintech"></a>Finanças & Fintech
 

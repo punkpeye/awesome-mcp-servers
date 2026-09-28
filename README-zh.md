@@ -384,6 +384,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [filesystem@quarkiverse/quarkus-mcp-servers](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/filesystem) ☕ 🏠 - 一个基于Java和Quarkus实现的文件系统，支持浏览和编辑文件。提供jar包或原生镜像两种形式。
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - 使用 Apache OpenDAL™ 访问任何存储
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 📇 🏠 - 文件合并工具，适配AI Chat长度限制
+- [duringyl/wsl-rwx-7](https://github.com/duringyl/wsl-rwx-7) 📇 🏠 🪟 - WSL (Windows Subsystem for Linux) 的 MCP 服务器：使用安全的 bash -s stdin 转义和登录 shell 环境支持读取/写入/执行文件。
 
 ### 💰 <a name="finance--fintech"></a>金融与金融科技
 
