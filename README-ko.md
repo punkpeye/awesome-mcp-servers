@@ -74,6 +74,7 @@
 * 🎨 - [예술 및 문화](#art-and-culture)
 * 🧬 - [생물학, 의학 및 생물정보학](#bio)
 * ☁️ - [클라우드 플랫폼](#cloud-platforms)
+* 👨‍💻 - [코드 실행](#code-execution)
 * 🖥️ - [커맨드 라인](#command-line)
 * 💬 - [커뮤니케이션](#communication)
 * 👤 - [고객 데이터 플랫폼](#customer-data-platforms)
@@ -167,6 +168,12 @@
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) - 🦀 🏠 - AI 어시스턴트가 Terraform 환경을 관리하고 운영할 수 있게 하는 Terraform MCP 서버. 구성 읽기, 계획 분석, 구성 적용 및 Terraform 상태 관리를 가능하게 합니다.
 - [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - Tilt와 통합되어 Kubernetes 개발 환경을 위한 Tilt 리소스, 로그 및 관리 작업에 대한 프로그래밍 방식 액세스를 제공하는 Model Context Protocol 서버.
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S는 AI 기반 Kubernetes 리소스 관리 도구로, 자연어 상호작용을 통해 사용자가 Kubernetes 클러스터의 모든 리소스(네이티브 리소스(예: Deployment, Service) 및 사용자 정의 리소스(CRD) 포함)를 운영할 수 있게 합니다. 복잡한 명령어를 외울 필요 없이 요구사항만 설명하면 AI가 해당 클러스터 작업을 정확하게 실행하여 Kubernetes의 사용성을 크게 향상시킵니다.
+
+### 👨‍💻 <a name="code-execution"></a>코드 실행
+
+코드 실행 서버입니다. LLM이 코딩 에이전트 등의 용도로 안전한 환경에서 코드를 실행할 수 있게 합니다.
+
+- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — AI 에이전트를 위한 명령 및 파일 작업 제한 MCP 서버입니다. 명시적인 허용 목록으로 명령 실행을 제한하고, 각 도구를 개별적으로 비활성화할 수 있으며, 자동 생성 인증 토큰을 지원합니다. 제한 없는 셸을 노출하지 않으면서 제한된 Unix 명령, 파일 작업, 패치 적용 및 URL 가져오기 기능을 제공합니다.
 
 ### 🖥️ <a name="command-line"></a>커맨드 라인
 

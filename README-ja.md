@@ -192,6 +192,7 @@
 
 コード実行サーバー。LLMが安全な環境でコードを実行できるようにし、コーディングエージェントなどに使用されます。
 
+- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — AIエージェント向けの、コマンド実行とファイル操作を制限するMCPサーバー。明示的な許可リストによってコマンド実行を制限し、各ツールを個別に無効化でき、自動生成される認証トークンにも対応します。無制限のシェルを公開することなく、制限されたUnixコマンド、ファイル操作、パッチ適用、URL取得を提供します。
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - 安全でスケーラブルなサンドボックス環境でLLM生成コードを実行し、NPMやPyPIパッケージの完全サポートでJavaScriptやPythonを使用してMCPツールを作成
 - [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) 🏎️ ☁️ - OpenAPI-MCP：既存のAPIドキュメントを持つ任意のAPIへのアクセスを可能にするDockerized MCPサーバー。
 - [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) 📇 🏠 – その場でのnpm依存関係インストールとクリーンな破棄を含む、JavaScriptスニペット実行のための分離されたDockerベースサンドボックスを立ち上げるNode.js MCPサーバー
