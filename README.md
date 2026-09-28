@@ -137,6 +137,8 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
+- [nexusgrid-mcp](https://github.com/benjaminsamson0210/nexusgrid-mcp) - Official MCP server providing edge-native AI agent tools: Web-to-Markdown scraper (NexusScrape), email deliverability & RFC 7208 auditor (MailAuthGuard), and disposable email fraud detector (FraudShield).
+
 Servers for accessing many apps and tools through a single MCP server.
 - [402signalhq/402signal](https://github.com/402signalhq/402signal) [![402Signal MCP server](https://glama.ai/mcp/servers/402signalhq/402signal/badges/score.svg)](https://glama.ai/mcp/servers/402signalhq/402signal) 🐍 ☁️ - Checks and validates live x402 payment routes across Base, Solana and Algorand.
 - [GarphenGate/moltline-mcp](https://github.com/GarphenGate/moltline-mcp) [![GarphenGate/moltline-mcp MCP server](https://glama.ai/mcp/servers/GarphenGate/moltline-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GarphenGate/moltline-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Bridge to Moltline Studio's hosted MCP servers: code review, agent governance, business math, regulatory deadlines, crypto tax lots, routing and optimization.
