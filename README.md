@@ -3409,6 +3409,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 ### 🔎 <a name="RAG"></a>end to end RAG platforms
 
 - [andyliszewski/grounding-ai](https://github.com/andyliszewski/grounding-ai) [![andyliszewski/grounding-ai MCP server](https://glama.ai/mcp/servers/andyliszewski/grounding-ai/badges/score.svg)](https://glama.ai/mcp/servers/andyliszewski/grounding-ai) 🐍 🏠 - Local searchable index of PDFs, EPUBs and Word documents for grounded answers with page and section citations.
+- [dirstral/dir2mcp](https://github.com/dirstral/dir2mcp) 🏎️ 🏠 🍎 🪟 🐧 - Serve any folder as an MCP knowledge server: local indexing of text, code, PDFs, office documents, audio and video; every answer cites a line range, page or time span; runs fully local with Ollama.
 - [gogabrielordonez/mcp-ragchat](https://github.com/gogabrielordonez/mcp-ragchat) 📇 🏠 - Add RAG-based AI chat to any website: local vector store, OpenAI, Anthropic or Gemini models, a self-contained chat server and an embeddable widget.
 - [notwhiteblank/scholar-rag-mcp](https://github.com/notwhiteblank/scholar-rag-mcp) [![notwhiteblank/scholar-rag-mcp MCP server](https://glama.ai/mcp/servers/notwhiteblank/scholar-rag-mcp/badges/score.svg)](https://glama.ai/mcp/servers/notwhiteblank/scholar-rag-mcp) 🐍 🏠 🐧 - Academic paper knowledge base over local PDFs: MinerU parsing, metadata normalization, Qdrant vector search with reranking and paginated full-text reading.
 - [poll-the-people/customgpt-mcp](https://github.com/Poll-The-People/customgpt-mcp) 🐍 🏠 ☁️ - Access the CustomGPT.ai RAG-as-a-service API.
