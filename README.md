@@ -1,38 +1,33 @@
-# awesome-mcp-servers PR entry for FreeLLM-MCP
+# FreeLLM-MCP
 
-## Repository and Entry Details
+An open Model Context Protocol (MCP) server for real-time free LLM performance and availability.
 
-**Repository:** emberfreellm/freellm-mcp  
-**PR Target:** emberfreellm/awesome-mcp-servers
-**Entry Type:** Server Implementations (🔗 Aggregators)
+## What it does
 
-## Server Information
+`freellm-mcp` exposes live measured metrics from [Free LLM Watch](https://freellmwatch.xyz/) (throughput in tokens/sec, availability, 7-day uptime, tool-calling success, and verbatim failure text) to AI coding assistants and agent workflows via the Model Context Protocol.
 
-- **Name:** FreeLLM-MCP
-- **Repository:** https://github.com/emberfreellm/freellm-mcp
-- **Homepage:** https://freellmwatch.xyz/
-- **Description:** An open Model Context Protocol (MCP) server for real-time free LLM performance and availability
+Agents can use tools like:
+- `list_free_models` — list all tracked free models with status and throughput.
+- `get_fastest_free_model` — find the currently fastest healthy free model.
+- `check_model_status` — get detailed diagnostics for a specific model ID.
+- `get_most_reliable_free_model` — find the healthy free model with the best 7-day uptime.
 
-## Key Features
+## Install
 
-- **Real-time monitoring:** Exposes live measured metrics from Free LLM Watch (throughput, availability, uptime, tool-calling success)
-- **AI agent integration:** Provides programmatic access via MCP for coding assistants and agent workflows
-- **Zero runtime dependencies:** Self-contained implementation with optional MCP SDK for conformance checks
-- **Rich tool set:** 
-  - `list_free_models` - List all tracked free models with status and throughput
-  - `get_fastest_free_model` - Find currently fastest healthy free model
-  - `check_model_status` - Get detailed diagnostics for specific model
-  - `get_most_reliable_free_model` - Find healthy free model with best 7-day uptime
+From a checkout, install the console entry point:
 
-## Usage
-
-### Installation
 ```bash
 python3 -m pip install .
 ```
 
-### Configuration
-Add to your MCP configuration (`claude_desktop_config.json`):
+The installed command is `freellm-mcp`. It has no third-party runtime dependencies; the optional
+MCP SDK is only needed for the conformance check.
+
+## Usage in Claude Desktop / Cursor
+
+Add to your MCP configuration (`claude_desktop_config.json`). Use the installed command after
+installation, or point directly at `server.py` in a checkout:
+
 ```json
 {
   "mcpServers": {
@@ -44,106 +39,48 @@ Add to your MCP configuration (`claude_desktop_config.json`):
 }
 ```
 
-### Local Testing
+By default the server fetches the public board at `https://freellmwatch.xyz/api/status.json` and
+caches it for five minutes. Override the source with `FREEMCP_REMOTE_URL`, point it at a local status
+JSON file with `FREEMCP_STATUS_PATH`, or move the cache with `FREEMCP_CACHE_PATH`.
+
+Set `FREEMCP_TRANSPORT=http` to serve Streamable HTTP on `http://127.0.0.1:8901/mcp` instead of stdio
+(port via `FREEMCP_HTTP_PORT`).
+
+## Local Testing
+
+You can quickly test the server locally with Python:
+
 ```bash
 python3 server.py
 ```
+And feed JSON-RPC initialization requests to stdin.
 
-## Verification Status
+Run the unit tests and the independent official-SDK conformance check with:
 
-- **Unit Tests:** 11/11 pass (`test_server.py`)
-- **Conformance Checks:** 14/14 pass (`conformance_check.py`)
-- **Installation Test:** `freellm-watch-mcp 1.1.0` resolves successfully
-- **Integration:** Tested with official MCP SDK
+```bash
+python3 -m pytest -q test_server.py
+python3 -m pip install mcp   # optional, for the conformance check
+python3 conformance_check.py
+```
 
-## Monitoring Integration
+## Verification
 
-- **Live data source:** https://freellmwatch.xyz/api/status.json
-- **Cache duration:** 5 minutes default
-- **Configuration options:**
-  - `FREEMCP_REMOTE_URL` - Override data source
-  - `FREEMCP_STATUS_PATH` - Use local JSON file
-  - `FREEMCP_CACHE_PATH` - Custom cache location
-  - `FREEMCP_TRANSPORT=http` - Enable HTTP Streamable-MCP
-  - `FREEMCP_HTTP_PORT` - Custom HTTP port
+- `test_server.py`: 11/11 unit tests pass, including end-to-end HTTP transport checks.
+- `conformance_check.py`: 14/14 checks pass when run with the optional official MCP SDK.
+- A clean isolated installation resolves as `freellm-watch-mcp 1.1.0`; the installed
+  `freellm-mcp` entry point completes a negotiated JSON-RPC initialization handshake.
+- Runtime dependencies: none.
 
 ## Repository Structure
 
 ```text
 freellm-mcp/
-├── server.py                  # Core MCP server implementation
-├── test_server.py             # Comprehensive unit tests
-├── conformance_check.py       # Official SDK conformance verification
-├── README.md                  # Documentation
-├── pyproject.toml             # Package metadata and entry point
-├── registry.json              # Agent configuration example
-├── .gitignore                 # Generated path exclusions
+├── server.py                  # MCP server implementation
+├── test_server.py             # unit tests
+├── conformance_check.py       # official SDK conformance check
+├── README.md                  # this documentation
+├── pyproject.toml             # package metadata and entry point
+├── registry.json              # example agent configuration
+├── .gitignore                 # generated paths
 └── LICENSE                    # MIT license
 ```
-
-## Key Differentiators
-
-1. **Measured reliability:** Uses 5,500+ continuous probes with per-model throughput and failure analytics
-2. **Agent-ready:** Direct MCP integration for coding assistants
-3. **Developer focused:** Zero dependencies, comprehensive testing, official conformance
-4. **Real-time metrics:** Current model status, uptime tracking, tool-calling verification
-
-## Community Impact
-
-This server enables AI coding agents to:
-- Query which free LLM APIs actually work right now
-- Get quantitative performance metrics (tokens/sec, uptime)
-- Make informed model selection decisions programmatically
-- Integrate real-time free LLM data into their workflows
-
-## Badge Configuration
-
-The server is indexed by Glama with badge data:
-```json
-{
-  "$schema": "https://glama.ai/schemas/mcp-registry.json",
-  "name": "FreeLLM-MCP",
-  "description": "Real-time free LLM monitoring for AI agents",
-  "maintainers": ["emberfreellm"],
-  "tools": ["list_free_models", "get_fastest_free_model", "check_model_status", "get_most_reliable_free_model"],
-  "rating": "A"
-}
-```
-
-## Monitoring Summary
-
-- **Total probes since 2026-09-11:** 5,588+
-- **Current uptime:** 23 of 44 free models up
-- **Continuous monitoring:** Every 2 hours
-- **Failure analytics:** Exact failure types and response times recorded
-
-## Deployment Example
-
-The server is ready for production use:
-
-```bash
-# Install
-pip install freellm-watch-mcp
-
-# Start server
-freellm-mcp
-
-# Or use HTTP transport
-FREEMCP_TRANSPORT=http FREEMCP_HTTP_PORT=8901 freellm-mcp
-```
-
-## Future Enhancements
-
-Planned features (tracked in projects.md):
-- External install detection via User-Agent headers
-- MCP directory submissions (Glama, mcp.so, etc.)
-- Official MCP Registry publication
-- Automated churn detection feed
-
-## Contributing
-
-This implementation follows production-ready standards:
-- Comprehensive test coverage
-- Official conformance verification
-- Zero optional runtime dependencies
-- Clean package structure with clear documentation
