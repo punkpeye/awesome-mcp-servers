@@ -2554,6 +2554,8 @@ Control smart home devices, home network equipment, and automation systems.
 
 Servers that establish who a person or an agent is and what may be known about them.
 
+- [kjames2001/authyouragent](https://github.com/kjames2001/authyouragent) 🐍 🏡 ☁️ - Let AI agents act for a person on websites, with the person's approval on their phone. Take over lets the owner drive a stuck agent's browser from their phone.
+
 - [AIops-tools/Identity-AIops](https://github.com/AIops-tools/Identity-AIops) [![AIops-tools/Identity-AIops MCP server](https://glama.ai/mcp/servers/AIops-tools/Identity-AIops/badges/score.svg)](https://glama.ai/mcp/servers/AIops-tools/Identity-AIops) 🐍 🏠 - Keycloak and Authentik SSO/IAM operations: root-cause analysis for login, permission, client and MFA issues, plus guarded writes with audit logs and rollback.
 - [true-alter/cli](https://github.com/true-alter/cli) [![true-alter/cli MCP server](https://glama.ai/mcp/servers/true-alter/cli/badges/score.svg)](https://glama.ai/mcp/servers/true-alter/cli) 🎖️ 📇 ☁️ - Personal identity profiles under a ~name handle, paid lookups that share revenue with the person found, skill-proving quests and collectives.
 
