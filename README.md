@@ -3906,6 +3906,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [aurelio-nakamura/cmdxray](https://github.com/aurelio-nakamura/cmdxray) [![aurelio-nakamura/cmdxray MCP server](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray/badges/score.svg)](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray) 📇 🏠 🍎 🪟 🐧 - Offline safety gate for agent shell commands: rates each command as danger, caution or none and explains every flag, pipe, redirect and subshell.
 - [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) [![Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker MCP server](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker/badges/score.svg)](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) 🐍 🏠 🐧 🪟 🍎 - Deterministic execution governance gateway and W3C DID security guardrail for AI agent MCP tool calls.
+- [holistis/bug-bounty-intelligence-mcp](https://github.com/holistis/bug-bounty-intelligence-mcp) 📇 🏠 🍎 🪟 🐧 - MCP server that scans Solidity repos through a 7-gate verification framework (Al-Mizaan) to cut LLM false positives, benchmarked against Slither; free pattern-search from 1,032 reconciled Sherlock findings, paid full scan via x402 (USDC/Base).
 
 ### 🌐 <a name="social-media"></a>Social Media
 
