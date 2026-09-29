@@ -1723,6 +1723,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zaizaizhao/mcp-swagger-server](https://github.com/zaizaizhao/mcp-swagger-server) 📇 ☁️ 🏠 - Converts OpenAPI/Swagger specifications to MCP format so AI assistants can call REST APIs.
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - Fetch JSON, text and HTML data.
 - [zelentsov-dev/asc-mcp](https://github.com/zelentsov-dev/asc-mcp) 🏠 🍎 - Manage App Store Connect apps, builds, TestFlight, subscriptions, reviews and more via its API.
+- [gbatistuta0/appfactory](https://github.com/gbatistuta0/appfactory) 🐍 🏠 🍎 - Lets your coding agent ship a SwiftUI iOS subscription app from idea to TestFlight: niche validation with live App Store data, SwiftUI scaffold, Supabase backend, App Store Connect subscriptions and RevenueCat, localization, ASO, screenshots. Gated stages, human approval for irreversible actions, every service optional.
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - Connect to ZenML MLOps and LLMOps pipelines.
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧 - Android automation tool suite for developer workflows and testing.
 - [ztuskes/garmin-documentation-mcp-server](https://github.com/ztuskes/garmin-documentation-mcp-server) 📇 🏠 - Offline Garmin Connect IQ SDK documentation with search and API examples.
