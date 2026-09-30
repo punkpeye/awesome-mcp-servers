@@ -2552,6 +2552,7 @@ Control smart home devices, home network equipment, and automation systems.
 
 ### 🪪 <a name="identity"></a>Identity
 
+- [JOJO-Adam/Stemem](https://github.com/JOJO-Adam/Stemem) [![JOJO-Adam/Stemem MCP server](https://glama.ai/mcp/servers/JOJO-Adam/Stemem/badges/score.svg)](https://glama.ai/mcp/servers/JOJO-Adam/Stemem) 📇 🏠 🍎 🖧 🐧 - Local-first agent persona runtime (MCP): a living identity layer that remembers you across sessions and shifts tone with events, surviving context compaction.
 Servers that establish who a person or an agent is and what may be known about them.
 
 - [AIops-tools/Identity-AIops](https://github.com/AIops-tools/Identity-AIops) [![AIops-tools/Identity-AIops MCP server](https://glama.ai/mcp/servers/AIops-tools/Identity-AIops/badges/score.svg)](https://glama.ai/mcp/servers/AIops-tools/Identity-AIops) 🐍 🏠 - Keycloak and Authentik SSO/IAM operations: root-cause analysis for login, permission, client and MFA issues, plus guarded writes with audit logs and rollback.
