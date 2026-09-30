@@ -1,0 +1,9 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "emberfreellm"
+  ],
+  "name": "FreeLLM-MCP",
+  "description": "Model Context Protocol server exposing live measured free LLM API availability, throughput (tokens/sec), uptime, and tool conformance.",
+  "category": "developer-tools"
+}

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "freellm-watch-mcp"
+version = "1.1.0"
+description = "An MCP server for live measured free LLM availability and performance"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+
+[project.scripts]
+freellm-mcp = "server:main"
+
+[tool.setuptools]
+py-modules = ["server"]

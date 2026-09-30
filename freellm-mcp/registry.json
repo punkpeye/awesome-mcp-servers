@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "freellm": {
+      "command": "freellm-mcp",
+      "args": []
+    }
+  }
+}
