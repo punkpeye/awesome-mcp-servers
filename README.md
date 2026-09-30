@@ -2902,7 +2902,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [zensation-ai/zenbrain](https://github.com/zensation-ai/zenbrain) [![zensation-ai/zenbrain MCP server](https://glama.ai/mcp/servers/zensation-ai/zenbrain/badges/score.svg)](https://glama.ai/mcp/servers/zensation-ai/zenbrain) 📇 🏠 🍎 🪟 🐧 - Seven-layer local agent memory that routes input into facts, episodes or procedures, searches all layers and consolidates repeated episodes into facts.
 - [dat999zx/knowl](https://github.com/dat999zx/knowl) [![dat999zx/knowl MCP server](https://glama.ai/mcp/servers/dat999zx/knowl/badges/score.svg)](https://glama.ai/mcp/servers/dat999zx/knowl) 📇 🏠 🍎 🪟 🐧 - Persistent local memory for coding agents that retires replaced facts at write time, so agents read the current answer; facts are typed with provenance.
 
-- [amu-pgvector](https://github.com/sangaraju1988/amu-pgvector) 🐍 ☁️ - Lineage-gated agent memory on PostgreSQL + pgvector: a cached analytical result is only served back if every sensitive column touched by its derivation is in the requester's permitted set, enforced by Postgres row-level security rather than application code.
+- [sangaraju1988/amu-pgvector](https://github.com/sangaraju1988/amu-pgvector) 🐍 ☁️ - Lineage-gated agent memory on PostgreSQL + pgvector: a cached analytical result is only served back if every sensitive column touched by its derivation is in the requester's permitted set, enforced by Postgres row-level security rather than application code.
 
 ### ⚖️ <a name="legal"></a>Legal
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
