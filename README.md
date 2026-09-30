@@ -4185,6 +4185,8 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🏢 <a name="workplace-and-productivity"></a>Workplace & Productivity
 
+- [Avtandil-abu/jira-ai-auditor](https://github.com) 🚀 - Advanced project and sprint health auditing for Jira Cloud via MCP.
+
 - [adacreativeco/ada-turbo-ai-mcp](https://github.com/adacreativeco/ada-turbo-ai-mcp) [![adacreativeco/ada-turbo-ai-mcp MCP server](https://glama.ai/mcp/servers/adacreativeco/ada-turbo-ai-mcp/badges/score.svg)](https://glama.ai/mcp/servers/adacreativeco/ada-turbo-ai-mcp) 🐍 🏠 🪟 🍎 🐧 - Agency OS: specialized AI roles with a real-time retro Pixel Office visualizer and a multi-provider LLM engine.
 - [alex13slem/openproject-codex-plugin](https://github.com/alex13slem/openproject-codex-plugin) [![alex13slem/openproject-codex-plugin MCP server](https://glama.ai/mcp/servers/alex13slem/openproject-codex-plugin/badges/score.svg)](https://glama.ai/mcp/servers/alex13slem/openproject-codex-plugin) 📇 ☁️ 🏠 🍎 🪟 🐧 - OpenProject API v3 with Community Edition support: search, create, update, assign, prioritize and comment on work packages.
 - [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) [![CrossPaste/crosspaste-desktop MCP server](https://glama.ai/mcp/servers/CrossPaste/crosspaste-desktop/badges/score.svg)](https://glama.ai/mcp/servers/CrossPaste/crosspaste-desktop) 🎖️ ☕ 🏠 🍎 🪟 🐧 - Cross-device clipboard manager: search synced clipboard history, read OCR text from copied images and add new clipboard items.
