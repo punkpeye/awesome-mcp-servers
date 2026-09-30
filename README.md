@@ -4539,3 +4539,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [x402-scraper-api](https://github.com/ihen404/x402-scraper-api) - High-performance web scraping and text extraction MCP service, fee-gated with on-chain USDC micro-payments on Base.
