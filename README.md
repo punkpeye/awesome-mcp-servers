@@ -3906,6 +3906,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [aurelio-nakamura/cmdxray](https://github.com/aurelio-nakamura/cmdxray) [![aurelio-nakamura/cmdxray MCP server](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray/badges/score.svg)](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray) 📇 🏠 🍎 🪟 🐧 - Offline safety gate for agent shell commands: rates each command as danger, caution or none and explains every flag, pipe, redirect and subshell.
 - [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) [![Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker MCP server](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker/badges/score.svg)](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) 🐍 🏠 🐧 🪟 🍎 - Deterministic execution governance gateway and W3C DID security guardrail for AI agent MCP tool calls.
+- [writ](https://github.com/AvenueDAdmin/pywrit) - Commit-time policy checks for AI agent writes (ALLOW/DENY/STEP_UP) with a tamper-evident audit log. 8 tools via `uvx writ-mcp`.
 
 ### 🌐 <a name="social-media"></a>Social Media
 
