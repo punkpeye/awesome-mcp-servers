@@ -3906,6 +3906,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [aurelio-nakamura/cmdxray](https://github.com/aurelio-nakamura/cmdxray) [![aurelio-nakamura/cmdxray MCP server](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray/badges/score.svg)](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray) 📇 🏠 🍎 🪟 🐧 - Offline safety gate for agent shell commands: rates each command as danger, caution or none and explains every flag, pipe, redirect and subshell.
 - [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) [![Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker MCP server](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker/badges/score.svg)](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) 🐍 🏠 🐧 🪟 🍎 - Deterministic execution governance gateway and W3C DID security guardrail for AI agent MCP tool calls.
+- [OxToF/watchdog-mcp](https://github.com/OxToF/watchdog-mcp) [![OxToF/watchdog-mcp MCP server](https://glama.ai/mcp/servers/OxToF/watchdog-mcp/badges/score.svg)](https://glama.ai/mcp/servers/OxToF/watchdog-mcp) 📇 ☁️ - Security checks for Solana and EVM, paid per call in USDC over x402: who can upgrade a program or contract (key, multisig, timelock), known advisories in a Cargo.lock or npm lockfile, repo scans and signed watches. Per-call cap and session budget enforced before signing.
 
 ### 🌐 <a name="social-media"></a>Social Media
 
