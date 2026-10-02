@@ -4475,6 +4475,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [wanaku-ai/wanaku](https://github.com/wanaku-ai/wanaku) ☁️ 🏠 - Wanaku MCP router: an extensible routing engine for integrating enterprise systems with AI agents.
 - [megberts/mcp-websitepublisher-ai](https://github.com/megberts/mcp-websitepublisher-ai) ☁️ - Build and publish websites through conversation: manage pages, assets, entities, records and integrations.
 - [vin-spiegel/htmldrop](https://github.com/vin-spiegel/htmldrop) [![vin-spiegel/htmldrop MCP server](https://glama.ai/mcp/servers/vin-spiegel/htmldrop/badges/score.svg)](https://glama.ai/mcp/servers/vin-spiegel/htmldrop) 🎖️ 📇 ☁️ - Publish HTML reports, dashboards and demos as shareable links with expiry, social preview cards and optional password protection. Self-hostable.
+- [waytzhang/pantry-relay](https://github.com/waytzhang/pantry-relay) 📇 🏠 - Local household dinner planner with MCP tools for pantry stock, meal recommendations, ingredient reservations, shopping needs and cooking history.
 - [wishfinity/wishfinity-mcp-plusw](https://github.com/wishfinity/wishfinity-mcp-plusw) 📇 ☁️ 🏠 - Save product URLs from any store to a universal wishlist.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 📇 🏠 - CLI tool for testing MCP servers.
 - [ws-mcp](https://github.com/nick1udwig/ws-mcp) - Wrap MCP servers with a WebSocket, for use with kibitz.
