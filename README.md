@@ -1705,6 +1705,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [Wolfe-Jam/faf-mcp](https://github.com/Wolfe-Jam/faf-mcp) 📇 🏠 - Persistent project context in the IANA-registered .faf format, with AI-readiness scoring.
 - [Wooonster/hocr_mcp_server](https://github.com/Wooonster/hocr_mcp_server) 🐍 🏠 - Extract handwritten math formulas from uploaded images as LaTeX using a vision-language model, with a Vue frontend.
 - [wyattjoh/jsr-mcp](https://github.com/wyattjoh/jsr-mcp) 📇 ☁️ - Access JSR, the JavaScript Registry.
+- [xcalibur73/webaudits-mcp](https://github.com/xcalibur73/webaudits-mcp) [![xcalibur73/webaudits-mcp MCP server](https://glama.ai/mcp/servers/xcalibur73/webaudits-mcp/badges/score.svg)](https://glama.ai/mcp/servers/xcalibur73/webaudits-mcp) 📇 🐍 ☁️ 🏠 - Real-time Core Web Vitals (LCP) telemetry, DOM bloat analysis, and AI search crawler (GEO) readiness audits for AI coding assistants.
 - [xcodebuild](https://github.com/ShenghaiWang/xcodebuild) 🍎 - Build iOS Xcode workspaces or projects and feed errors back to the LLM.
 - [XixianLiang/HarmonyOS-mcp-server](https://github.com/XixianLiang/HarmonyOS-mcp-server) 🐍 🏠 - Device control and UI automation for HarmonyOS Next devices.
 - [xzq.xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) 📇 🏠 - JVM-based MCP server implementation.
