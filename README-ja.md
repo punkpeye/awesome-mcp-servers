@@ -113,11 +113,8 @@
 
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - 複数のMCPサーバーを1つのMCPサーバーに集約する統一的なモデルコンテキストプロトコルサーバー実装。
 - [OpenMCP](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Web APIを10秒でMCPサーバーに変換し、オープンソースレジストリに追加する: https://open-mcp.org
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - [MindsDBを単一のMCPサーバーとして](https://docs.mindsdb.com/mcp/overview)使用し、様々なプラットフォームとデータベース間でデータを接続・統合
 - [glenngillen/mcpmcp-server](https://github.com/glenngillen/mcpmcp-server) ☁️ 📇 🍎 🪟 🐧 - MCPサーバーのリストを提供し、日常のワークフローを改善するために使用できるサーバーをクライアントに問い合わせることができる
-- [pipedream/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - 8,000以上の事前構築ツールで2,500のAPIに接続し、独自のアプリでユーザー向けサーバーを管理
 - [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) 📇 🏠 - 複数のMCPサーバーを1つのインターフェースに統合する包括的なプロキシサーバー。サーバー間でツール、プロンプト、リソース、テンプレートの発見と管理を提供し、MCPサーバー構築時のデバッグ用プレイグラウンドも含む
-- [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) 📇 🏠 - 複数のMCPサーバーを1つの統一エンドポイントに構成するためのプロキシツール。Nginxがウェブサーバーのために機能するのと同様に、複数のMCPサーバー間でリクエストの負荷分散を行うことで、AIツールをスケーリングします。
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCPは、GUIでMCP接続を管理する統合ミドルウェアMCPサーバーです。
 - [WayStation-ai/mcp](https://github.com/waystation-ai/mcp) ☁️ 🍎 🪟 - Claude Desktopやその他のMCPホストを、お気に入りのアプリ（Notion、Slack、Monday、Airtableなど）にシームレスかつ安全に接続。90秒以下で完了
 - [MCP Access Point](https://github.com/sxhxliang/mcp-access-point)  📇 ☁️ 🏠 🍎 🪟 🐧 - サーバー側のコードに変更を加えることなく、Web API を 1 回のクリックで MCP サーバーに変換します。。
@@ -133,16 +130,19 @@
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) 🐍 - Video Jungle Collectionから動画編集の追加、分析、検索、生成
 - [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server) 📇 ☁️ - Discogs APIと連携するMCPサーバー
 - [djalal/quran-mcp-server](https://github.com/djalal/quran-mcp-server) 📇 ☁️ 公式REST API v4を通してQuran.comコーパスと連携するMCPサーバー
+- [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp) [glama](https://glama.ai/mcp/servers/gavxm/ani-mcp) 📇 🏠 - 好みに応じたおすすめ、視聴分析、ソーシャルツール、リスト管理機能を備えたAniList MCPサーバー
 - [mikechao/metmuseum-mcp](https://github.com/mikechao/metmuseum-mcp) 📇 ☁️ - コレクション内の芸術作品を検索・表示するメトロポリタン美術館コレクションAPI統合
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 芸術作品検索、詳細、コレクションのためのライクスミュージアムAPI統合
 - [r-huijts/oorlogsbronnen-mcp](https://github.com/r-huijts/oorlogsbronnen-mcp) 📇 ☁️ - オランダの歴史的第二次大戦記録、写真、文書（1940-1945）にアクセスするためのOorlogsbronnen（War Sources）API統合
 - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) 🐍 - 動画編集、カラーグレーディング、メディア管理、プロジェクト制御の強力なツールを提供するDaVinci Resolve用MCPサーバー統合
+- [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - Google Gemini（Nano Banana 2 / Pro）で画像アセットを生成するローカルMCPサーバー。透過PNG/WebP出力、正確なリサイズ/クロップ、最大14枚の参照画像、Google検索グラウンディングに対応。
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - アニメとマンガの情報をAniList APIと連携するMCPサーバー
 - [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - Aseprite APIを使用してピクセルアートを作成するMCPサーバー
 - [omni-mcp/isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp) 📇 ☁️ - NVIDIA Isaac Sim、Lab、OpenUSDなどの自然言語制御を可能にするMCPサーバーと拡張機能
 - [8enSmith/mcp-open-library](https://github.com/8enSmith/mcp-open-library) 📇 ☁️ - AIアシスタントが書籍情報を検索できるOpen Library API用MCPサーバー
 - [PatrickPalmer/MayaMCP](https://github.com/PatrickPalmer/MayaMCP) 🐍 🏠 - Autodesk Maya用MCPサーバー
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 包括的で正確な八字（四柱推命）の命式作成と占い情報を提供
+- [fatenava/fatenava-mcp](https://github.com/fatenava/fatenava-mcp) [![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp) 🎖️ 📇 🏠 ☁️ 🍎 🪟 🐧 - オールインワン命式作成:四柱推命(八字)・紫微斗数・西洋占星術の出生図を一つのツールで——真太陽時補正、多言語入力(中・英・日・韓)対応、無料・アカウント不要。`npx -y fatenava-mcp`
 
 ### 🧬 <a name="bio"></a>生物学、医学、バイオインフォマティクス
 
@@ -164,19 +164,17 @@
 - [alexbakers/mcp-ipfs](https://github.com/alexbakers/mcp-ipfs) 📇 ☁️ - IPFSストレージのアップロードと操作
 - [reza-gholizade/k8s-mcp-server](https://github.com/reza-gholizade/k8s-mcp-server) 🏎️ ☁️🏠 - API リソース検出、リソース管理、Pod ログ、メトリクス、イベントなど、標準化されたインターフェースを通じて Kubernetes クラスターと対話するためのツールを提供する Kubernetes モデルコンテキストプロトコル（MCP）サーバー。
 - [VmLia/books-mcp-server](https://github.com/VmLia/books-mcp-server) 📇 ☁️ - 書籍クエリに使用されるMCPサーバーで、Cherry Studioなどの一般的なMCPクライアントに適用できます。
-- [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - AIアシスタントがAWS CLIコマンドを実行し、Unixパイプを使用し、マルチアーキテクチャサポート付きの安全なDocker環境で一般的なAWSタスクのプロンプトテンプレートを適用できるようにする軽量で強力なサーバー
-- [alexei-led/k8s-mcp-server](https://github.com/alexei-led/k8s-mcp-server) 🐍 - AIアシスタントがマルチアーキテクチャサポート付きの安全なDocker環境でKubernetes CLIコマンド（`kubectl`、`helm`、`istioctl`、`argocd`）をUnixパイプを使用して安全に実行できるようにする軽量で堅牢なサーバー。
 - [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) 🎖️ 🐍 ☁️ - MCPサーバーは、AIアシスタントがAlibaba Cloud上のリソースを運用・管理できるようにし、ECS、クラウドモニタリング、OOS、およびその他の広く使用されているクラウド製品をサポートします。
 - [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) 🐍 ☁️ - MCP（Model Control Protocol）に基づくVMware ESXi/vCenter管理サーバーで、仮想マシン管理のためのシンプルなREST APIインターフェースを提供。
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Workers、KV、R2、D1を含むCloudflareサービスとの統合
 - [cyclops-ui/mcp-cyclops](https://github.com/cyclops-ui/mcp-cyclops) 🎖️ 🏎️ ☁️ - AIエージェントがCyclops抽象化を通じてKubernetesリソースを管理できるようにするMCPサーバー
 - [flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) 📇 ☁️🏠 - Pod、デプロイメント、サービスのKubernetesクラスター操作のTypeScript実装。
 - [hardik-id/azure-resource-graph-mcp-server](https://github.com/hardik-id/azure-resource-graph-mcp-server) 📇 ☁️🏠 - Azure Resource Graphを使用してAzureリソースを大規模にクエリおよび分析するためのModel Context Protocolサーバー。AIアシスタントがAzureインフラストラクチャを探索および監視できるようにします。
-- [jdubois/azure-cli-mcp](https://github.com/jdubois/azure-cli-mcp) - Azureと直接対話できるAzure CLIコマンドラインのラッパー
 - [johnneerdael/netskope-mcp](https://github.com/johnneerdael/netskope-mcp) 🔒 ☁️ - 詳細なセットアップ情報とLLMの使用例を含む、Netskope Private Access環境内のすべてのNetskope Private Accessコンポーネントへのアクセスを提供するMCP。
 - [manusa/Kubernetes MCP Server](https://github.com/manusa/kubernetes-mcp-server) 🏎️ 🏠 - OpenShiftの追加サポートを備えた強力なKubernetes MCPサーバー。**任意の**Kubernetesリソースに対するCRUD操作の提供に加えて、このサーバーはクラスターと対話するための専用ツールを提供します。
+- [mctlhq/mctl-mcp](https://github.com/mctlhq/mctl-mcp) [![mctl-mcp MCP server](https://glama.ai/mcp/servers/mctlhq/mctl-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mctlhq/mctl-mcp) ☁️ - Kubernetes 管理と自動化された GitOps のための AI ネイティブプラットフォーム（30 以上のツール）。
+- [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server) [glama](https://glama.ai/mcp/servers/mrostamii/rancher-mcp-server) 🏎️ ☁️/🏠 - Rancherエコシステム向けのMCPサーバー。マルチクラスターKubernetes運用、Harvester HCI管理（VM、ストレージ、ネットワーク）、Fleet GitOpsツールを提供します。
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) 🦀 🏠 - AIアシスタントがTerraform環境を管理および操作できるようにするTerraform MCPサーバー。設定の読み取り、プランの分析、設定の適用、Terraformステートの管理を可能にします。
-- [pulumi/mcp-server](https://github.com/pulumi/mcp-server) 🎖️ 📇 🏠 - Pulumi Automation APIとPulumi Cloud APIを使用してPulumiと対話するためのMCPサーバー。MCPクライアントがパッケージ情報の取得、変更のプレビュー、更新のデプロイ、スタック出力の取得などのPulumi操作をプログラムで実行できるようにします。
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) 🐍 ☁️🏠 - Claude、Cursor、その他のAIアシスタントが自然言語を通じてKubernetesクラスターと対話できるようにするKubernetes用Model Context Protocol（MCP）サーバー。
 - [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - Tiltと統合し、Kubernetes開発環境のためのTiltリソース、ログ、管理操作へのプログラマティックアクセスを提供するModel Context Protocolサーバー。
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) 🏎️ ☁️🏠 - MCPを通じたKubernetesクラスター操作
@@ -194,7 +192,6 @@
 
 コード実行サーバー。LLMが安全な環境でコードを実行できるようにし、コーディングエージェントなどに使用されます。
 
-- [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python) 🐍 🏠- MCPツールコールを介して安全なサンドボックスでPythonコードを実行
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - 安全でスケーラブルなサンドボックス環境でLLM生成コードを実行し、NPMやPyPIパッケージの完全サポートでJavaScriptやPythonを使用してMCPツールを作成
 - [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) 🏎️ ☁️ - OpenAPI-MCP：既存のAPIドキュメントを持つ任意のAPIへのアクセスを可能にするDockerized MCPサーバー。
 - [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) 📇 🏠 – その場でのnpm依存関係インストールとクリーンな破棄を含む、JavaScriptスニペット実行のための分離されたDockerベースサンドボックスを立ち上げるNode.js MCPサーバー
@@ -215,6 +212,7 @@ LLMがコードの読み取り、編集、実行を行い、一般的なプロ�
 
 コマンドの実行、出力の取得、シェルやコマンドラインツールとの対話。
 
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - [OpenClaw](https://github.com/openclaw/openclaw) AIアシスタント統合用のMCPサーバー。同期/非同期ツール、OAuth 2.1認証、Claude.ai向けSSEトランスポートにより、ClaudeからOpenClawエージェントへのタスク委任を可能にします。
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - iTermへのアクセスを提供するモデルコンテキストプロトコルサーバー。コマンドを実行し、iTermターミナルで見た内容について質問することができます。
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - `run_command`と`run_script`ツールで任意のコマンドを実行。
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - HF SmolagentsのLocalPythonExecutorベースの安全なPythonインタープリター
@@ -238,7 +236,6 @@ LLMがコードの読み取り、編集、実行を行い、一般的なプロ�
 - [sawa-zen/vrchat-mcp](https://github.com/sawa-zen/vrchat-mcp) - 📇 🏠 VRChat APIと対話するためのMCPサーバーです。VRChatのフレンドやワールド、アバターなどの情報を取得することができます。
 - [takumi0706/google-calendar-mcp](https://github.com/takumi0706/google-calendar-mcp) 📇 ☁️ - GoogleカレンダーAPIと連携するためのMCPサーバーです。GoogleCalendar APIの作成、更新、取得、削除ができます。また、TypeScriptベースです。
 - [teddyzxcv/ntfy-mcp](https://github.com/teddyzxcv/ntfy-mcp) ntfy を使用してスマートフォンに通知を送信し、情報を確実に伝達する MCP サーバーです。
-- [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - YCloudプラットフォーム経由でWhatsAppビジネスメッセージを送信するためのMCPサーバー。
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Huntのための MCP サーバー。トレンド投稿、コメント、コレクション、ユーザーなどと対話できます。
 - [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: TypeScriptでスマートフォンからローカルワークスペースへアクセス可能なTelegram + Claude。移動中にコードを読み書きしてvibe code
 
@@ -266,12 +263,9 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) 🐍 ☁️ - TiDB データベースの統合、テーブル構造の作成（DDL）および SQL の実行
 - [ergut/mcp-bigquery-server](https://github.com/ergut/mcp-bigquery-server) 📇 ☁️ - Google BigQuery統合のためのサーバー実装で、直接的なBigQueryデータベースアクセスとクエリ機能を提供
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) 🐍 🏠 - 構成可能なアクセス制御、スキーマ検査、包括的なセキュリティガイドラインを備えたMySQLデータベース統合
-- [@modelcontextprotocol/server-postgres](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres) 📇 🏠 - スキーマ検査とクエリ機能を備えたPostgreSQLデータベース統合
-- [@modelcontextprotocol/server-sqlite](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite) 🐍 🏠 - 組み込みの分析機能を備えたSQLiteデータベース操作
 - [@joshuarileydev/supabase-mcp-server](https://github.com/joshuarileydev/supabase) - Supabaseでプロジェクトと組織を管理および作成するためのSupabase MCPサーバー
 - [ktanaka101/mcp-server-duckdb](https://github.com/ktanaka101/mcp-server-duckdb) 🐍 🏠 - スキーマ検査とクエリ機能を備えたDuckDBデータベース統合
 - [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) 📇 🏠 - LLMがデータベースと直接対話できるようにするMongoDB統合。
-- [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - クエリとAPI機能を備えたTinybird統合
 - [kiliczsh/mcp-mongo-server](https://github.com/kiliczsh/mcp-mongo-server) 📇 🏠 - MongoDBのためのモデルコンテキストプロトコルサーバー
 - [tuannvm/mcp-trino](https://github.com/tuannvm/mcp-trino) 🏎️ ☁️ - Trino用のModel Context Protocol (MCP)サーバーのGo実装。
 - [KashiwaByte/vikingdb-mcp-server](https://github.com/KashiwaByte/vikingdb-mcp-server) 🐍 ☁️ - コレクションとインデックスの紹介、ベクトルストアと検索機能を備えたVikingDB統合。
@@ -282,7 +276,6 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [GreptimeTeam/greptimedb-mcp-server](https://github.com/GreptimeTeam/greptimedb-mcp-server) 🐍 🏠 - GreptimeDBのMCPサービスにクエリを実行する。
 - [xing5/mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) 🐍 ☁️ - Google Sheetsと対話するためのモデルコンテキストプロトコルサーバー。このサーバーはGoogle Sheets APIを通じてスプレッドシートの作成、読み取り、更新、管理のためのツールを提供します。
 - [freema/mcp-gsheets](https://github.com/freema/mcp-gsheets) 📇 ☁️ - 包括的な読み取り、書き込み、フォーマット、シート管理機能を備えたGoogle Sheets API統合のMCPサーバー。
-- [prisma/mcp](https://github.com/prisma/mcp) 📇 ☁️ 🏠 - LLMがPrismaのPostgresデータベースを管理できるようにします（例: 新しいデータベースを立ち上げ、マイグレーションやクエリを実行）。
 - [ydb/ydb-mcp](https://github.com/ydb-platform/ydb-mcp) 🎖️ 🐍 ☁️ – MCPサーバー：[YDB](https://ydb.tech)データベースと対話するための。
 
 ### 📊 <a name="data-platforms"></a>データプラットフォーム
@@ -301,12 +294,15 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 開発ワークフローと環境管理を強化するツールと統合。
 
+- [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOSコード品質分析とテスト自動化サーバー。包括的なXcodeテスト実行、SwiftLint統合、詳細な障害分析を提供。CLIとMCPサーバーモードの両方で動作し、直接開発者使用とAIアシスタント統合に対応。
+- [FI-Mihej/codebase-agent-mcp](https://github.com/FI-Mihej/codebase-agent-mcp) [![codebase-agent-mcp MCP server](https://glama.ai/mcp/servers/FI-Mihej/codebase-agent-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FI-Mihej/codebase-agent-mcp) 🐍 🏠 🍎 🪟 🐧 - サブハーネス (MCPサーバーとMCPクライアントの両方として機能)。ドキュメントやソースコードの解析、および関連するコンテキストを提供するMCPサーバーとのやり取りを、ローカルまたは低コストのOpenAI互換LLMに委譲します。これにより、最上位クラスのLLMを使用するコーディングエージェントにおけるトークン消費量とコンテキストサイズを大幅に削減します。 `uvx codebase-agent-mcp`
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - 多数のコーディングアシスタント向けシステムプロンプトを MCP ツールとして公開し、モデル感知のレコメンドとペルソナ切り替えで Cursor や Devin などを再現できます。
-- [Hypersequent/qasphere-mcp](https://github.com/Hypersequent/qasphere-mcp) 🎖️ 📇 ☁️ - [QA Sphere](https://qasphere.com/)テスト管理システムとの統合。LLMがテストケースを発見、要約、操作できるようにし、AI搭載IDEから直接アクセス可能
+- [Kapeli/dash-mcp-server](https://github.com/Kapeli/dash-mcp-server) [![Kapeli/dash-mcp-server MCP server](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server) 🐍 🏠 🍎 - macOS APIドキュメントブラウザ[Dash](https://kapeli.com/dash)用のMCPサーバー。200以上のドキュメントセットを即座に検索。
 - [mhmzdev/Figma-Flutter-MCP](https://github.com/mhmzdev/Figma-Flutter-MCP) 📇 🏠 - コーディングエージェントがFigmaデータに直接アクセスし、アセットエクスポート、ウィジェット保守、フルスクリーン実装を含むアプリ構築のためのFlutterコードを書くのを支援します。
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - MCPを通じたDockerコンテナの管理と操作
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - JSON、テキスト、HTMLデータを柔軟に取得するためのMCPサーバー
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - 📇 ☁️ - Google タスクを管理するための MCP サーバー
+- [FastAlertNow/mcp-server](https://github.com/FastAlertNow/mcp-server) 💬 ☁️ - FastAlert MCP サーバー - FastAlert の公式 Model Context Protocol (MCP) サーバーです。このサーバーにより、AI エージェント（Claude、ChatGPT、Cursor など）はチャンネルの一覧取得や、FastAlert API を通じた通知の直接送信が可能になります。 ![FastAlert アイコン](https://fastalert.now/icons/favicon-32x32.png)
 - [snaggle-ai/openapi-mcp-server](https://github.com/snaggle-ai/openapi-mcp-server) 🏎️ 🏠 - Open API spec (v3) を使用して任意のHTTP/REST APIサーバーに接続
 - [@joshuarileydev/terminal-mcp-server](https://www.npmjs.com/package/@joshuarileydev/terminal-mcp-server) 📇 🏠 - 任意のシェルターミナルコマンドを実行するためのMCPサーバー
 - [tumf/mcp-text-editor](https://github.com/tumf/mcp-text-editor) - ラインエディタ 行単位の取得と編集ができるので、特に大きなファイルの一部書き換えを効率的に行う
@@ -315,6 +311,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [YuChenSSR/mindmap-mcp-server](https://github.com/YuChenSSR/mindmap-mcp-server) 🐍 🏠 - きれいなインタラクティブなマインドマップを生成するためのモデルコンテキストプロトコル（MCP）サーバ。
 - [InhiblabCore/mcp-image-compression](https://github.com/InhiblabCore/mcp-image-compression) 🐍 🏠 - 様々な画像フォーマットのローカル圧縮のためのMCPサーバー。
 - [SDGLBL/mcp-claude-code](https://github.com/SDGLBL/mcp-claude-code) 🐍 🏠 - MCPを使用したClaude Code機能の実装で、AIによるコード理解、修正、プロジェクト分析を包括的なツールサポートで実現します。
+- [selvage-lab/selvage](https://github.com/selvage-lab/selvage) 🐍 🏠 - ASTを活用したスマートコンテキスト抽出機能を備えたLLMベースのコードレビューMCPサーバー。Claude、GPT、Gemini、OpenRouter経由の20以上のモデルをサポートします。
 - [api7/apisix-mcp](https://github.com/api7/apisix-mcp) 🎖️ 📇 🏠 [Apache APISIX](https://github.com/apache/apisix) のすべてのリソースの照会と管理をサポートするMCPサービス。
 - [davidan90/time-node-mcp](https://github.com/davidan90/time-node-mcp) 📇 🏠 - IANAタイムゾーン対応の日時操作、タイムゾーン変換、夏時間の処理をサポート。
 - [endorhq/cli](https://github.com/endorhq/cli) 📇 ☁️ 🏠 🪟 🐧 🍎 - Endorを使用すると、AIエージェントはMariaDB、Postgres、Redis、Memcached、Alpine、Valkeyなどのサービスを隔離されたサンドボックス内で実行できます。5秒以内に起動する、事前構成済みのアプリケーションを入手できます。.
@@ -332,6 +329,8 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - GitKraken の API とやり取りするための CLI。gk mcp 経由で MCP サーバーも含まれており、GitKraken の API だけでなく、Jira、GitHub、GitLab などもラップします。ローカルツールやリモートサービスとも連携可能です。
 - [lpigeon/unitree-go2-mcp-server](https://github.com/lpigeon/unitree-go2-mcp-server) 🐍 🏠 🐧 - Unitree Go2 MCPサーバーは、MCP上に構築されたサーバーで、大規模言語モデル（LLM）によって解釈された自然言語コマンドを使用して、ユーザーがUnitree Go2ロボットを制御できるようにします。
 - [veelenga/claude-mermaid](https://github.com/veelenga/claude-mermaid/) 📇 🏠 🍎 🪟 🐧 - Claude Code向けのMermaid図レンダリングMCPサーバー。ライブリロード機能を備え、複数のエクスポート形式（SVG、PNG、PDF）とテーマをサポート。
+- [logisky/logisheets-mcp](https://github.com/logisky/logisheets-mcp) [![logisky/logisheets-mcp MCP server](https://glama.ai/mcp/servers/logisky/logisheets-mcp/badges/score.svg)](https://glama.ai/mcp/servers/logisky/logisheets-mcp) 🎖️ 📇 🏠 🍎 🪟 🐧 - エージェント向けの本物のExcel互換スプレッドシートエンジン（[LogiSheets](https://github.com/logisky/LogiSheets)、RustをWASMで実行）。モデルが暗算せずに済む決定論的な数式、座標ではなく（ブロック・キー・フィールド）で参照する名前付きブロックにより行を挿入しても参照が壊れない、列全体に対する数式ルール、シナリオの一括計算とゴールシークを1回の呼び出しで実行、そして最後に本物の `.xlsx` を出力。ローカルで動作し、ソケットを一切開きません。`npx logisheets-mcp`
+- [gridhra/port-keeper-mcp](https://github.com/gridhra/port-keeper-mcp) [![gridhra/port-keeper-mcp MCP server](https://glama.ai/mcp/servers/gridhra/port-keeper-mcp/badges/score.svg)](https://glama.ai/mcp/servers/gridhra/port-keeper-mcp) 🏎️ 🏠 🍎 🪟 🐧 - ローカル開発で使うポート番号を台帳で管理します。プロジェクトの作業コピー（cloneやgit worktree）ごとに専用のポート範囲を貸し出して`.env`ファイルに書き出し、サービス名からURLを引けるようにするので、並列で動かすコーディングエージェントが互いのポートを奪い合いません。デーモンもネットワークの待ち受けも持たないため、構成が単純で、攻撃を受ける面もほとんどありません。
 
 ### 🧮 <a name="data-science-tools"></a>データサイエンスツール
 
@@ -343,7 +342,6 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [julien040/anyquery](https://github.com/julien040/anyquery) 🏎️ 🏠 ☁️ - SQLを使用して40以上のアプリを1つのバイナリでクエリ。PostgreSQL、MySQL、またはSQLite互換データベースに接続することも可能。ローカルファーストでプライベート設計。
 - [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) 📇 🏠 - LLMがデータベースと直接対話できるようにするMongoDB統合
 - [runekaagaard/mcp-alchemy](https://github.com/runekaagaard/mcp-alchemy) 🐍 🏠 - PostgreSQL、MySQL、MariaDB、SQLite、Oracle、MS SQL Serverなど多数のデータベースをサポートするSQLAlchemyベースの汎用データベース統合。スキーマと関係の検査、大規模データセット分析機能を備えています
-- [tinybirdco/mcp-tinybird](https://github.com/tinybirdco/mcp-tinybird) 🐍 ☁️ - クエリとAPI機能を備えたTinybird統合
 - [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - 究極の数学エンジンで、SymPy、NumPy、Matplotlibを1つの強力なサーバーに統合します。記号代数、数値計算、データ可視化を必要とする開発者や研究者に最適です。
 
 ### 📟 <a name="embedded-system"></a>組み込みシステム
@@ -361,10 +359,12 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 - [A1X5H04/binance-mcp-server](https://github.com/A1X5H04/binance-mcp-server) 🐍 ☁️ - Binance APIとの統合で、暗号通貨価格、市場データ、口座情報へのアクセスを提供
 - [akdetrick/mcp-teller](https://github.com/akdetrick/mcp-teller) 🐍 🏠 - カナダのフィンテック企業Tellerのアカウント集約APIへのアクセス
+- [debridge-finance/debridge-mcp](https://github.com/debridge-finance/debridge-mcp) [glama](https://glama.ai/mcp/servers/@debridge-finance/de-bridge) 📇 🏠 ☁️ - deBridgeプロトコルを介したEVMおよびSolanaブロックチェーン間のクロスチェーンスワップとブリッジング。AIエージェントが最適なルートの発見、手数料の評価、ノンカストディアル取引の開始を可能にします。
 - [fatwang2/alpaca-trade-mcp](https://github.com/fatwang2/alpaca-trade-mcp) 📇 ☁️ - Alpaca取引プラットフォームとの統合
 - [fatwang2/coinbase-mcp](https://github.com/fatwang2/coinbase-mcp) 📇 ☁️ - Coinbase Advanced Trade APIとの統合
 - [fatwang2/robinhood-mcp](https://github.com/fatwang2/robinhood-mcp) 📇 ☁️ - Robinhood取引プラットフォームとの統合
 - [HuggingAGI/mcp-baostock-server](https://github.com/HuggingAGI/mcp-baostock-server) 🐍 ☁️ - baostockに基づくMCPサーバーで、中国株式市場データへのアクセスと分析機能を提供
+- [hoqqun/stooq-mcp](https://github.com/hoqqun/stooq-mcp) 🦀 ☁️ - APIキー不要でStooqからリアルタイム株価を取得。グローバル市場（米国、日本、英国、ドイツ）をサポート。
 - [jarvis2f/polygon-mcp](https://github.com/jarvis2f/polygon-mcp) 🐍 ☁️ - Polygon.io金融市場データAPIへのアクセス
 - [kukapay/dune-analytics-mcp](https://github.com/kukapay/dune-analytics-mcp) 🐍 ☁️ - AIエージェントにDune Analyticsデータを橋渡しするMCPサーバー
 - [kukapay/etf-flow-mcp](https://github.com/kukapay/etf-flow-mcp) 🐍 ☁️ - 暗号通貨ETFフローデータを提供してAIエージェントの意思決定を支援
@@ -391,7 +391,6 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [pwh-pwh/coin-mcp-server](https://github.com/pwh-pwh/coin-mcp-server) 🐍 ☁️ - 暗号通貨価格を取得するためのBitget API
 - [QuantGeekDev/coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) 📇 ☁️ - CoinCapのパブリックAPIを使用したリアルタイム暗号通貨市場データ統合、APIキー不要で暗号通貨価格と市場情報へのアクセスを提供
 - [SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop.git) 🐍 ☁️ - CoinGecko APIを使用して暗号通貨市場データを提供するMCPツール
-- [tooyipjee/yahoofinance-mcp](https://github.com/tooyipjee/yahoofinance-mcp.git) 📇 ☁️ - Yahoo Finance MCP のTypeScript版
 - [SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop](https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop.git) 🐍 ☁️ - Yahoo Finance APIを使用して株式市場データと分析を提供するMCPツール
 - [RomThpt/xrpl-mcp-server](https://github.com/RomThpt/mcp-xrpl) 📇 ☁️ - アカウント情報、取引履歴、ネットワークデータへのアクセスを提供するXRP Ledger用MCPサーバー。台帳オブジェクトの照会、取引の送信、XRPLネットワークの監視が可能
 - [janswist/mcp-dexscreener](https://github.com/janswist/mcp-dexscreener) 📇 ☁️ - オープンで無料のDexscreener APIを使用したリアルタイムオンチェーン市場価格
@@ -412,6 +411,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [@modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/filesystem) 📇 🏠 - ローカルファイルシステムへの直接アクセス。
 - [@modelcontextprotocol/server-google-drive](https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive) 📇 ☁️ - ファイルのリスト、読み取り、検索のためのGoogle Drive統合
 - [8b-is/smart-tree](https://github.com/8b-is/smart-tree) 🦀 🏠 🍎 🪟 🐧 - AI ネイティブのディレクトリ可視化。セマンティック分析、AI 消費用の超圧縮フォーマット、10倍のトークン削減をサポート。インテリジェントなファイル分類を備えた量子セマンティックモードをサポート。
+- [FI-Mihej/text_file_read_and_refactor_mcp](https://github.com/FI-Mihej/text_file_read_and_refactor_mcp) [![text_file_read_and_refactor_mcp MCP server](https://glama.ai/mcp/servers/FI-Mihej/text_file_read_and_refactor_mcp/badges/score.svg)](https://glama.ai/mcp/servers/FI-Mihej/text_file_read_and_refactor_mcp) 🐍 🏠 🍎 🪟 🐧 - 安全なテキストファイルの検索、読み取り、およびリファクタリング用ツールを提供する、トークン効率の高い Python 標準入出力 (stdio) MCP サーバーです。ツールはファイルの BOM と文字コードを自動的に判別し、編集ツールは元の文字コードと BOM を保持したままファイルを保存します。 `uvx text-file-read-and-refactor-mcp`
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) 🏎️ 🏠 - ローカルファイルシステムアクセスのためのGolang実装。
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Apache OpenDAL™ でどのストレージにもアクセスできます
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 📇 🏠 - AI Chatの長さ制限に適応するファイルマージツール
@@ -432,7 +432,6 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [jinzcdev/markmap-mcp-server](https://github.com/jinzcdev/markmap-mcp-server) 📇 🏠 - [markmap](https://github.com/markmap/markmap) を基にしたMCPサーバーで、**Markdown**をインタラクティブな**マインドマップ**に変換します。複数のフォーマット（PNG/JPG/SVG）でのエクスポート、ブラウザでのリアルタイムプレビュー、ワンクリックでのMarkdownコピー、ダイナミックな視覚化機能をサポートしています。
 - [@modelcontextprotocol/server-memory](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/memory) 📇 🏠 - コンテキストを維持するための知識グラフベースの長期記憶システム
 - [/CheMiguel23/MemoryMesh](https://github.com/CheMiguel23/MemoryMesh) 📇 🏠 - AIロールプレイとストーリー生成に焦点を当てた強化されたグラフベースのメモリ
-- [@mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp) 🐍 🏠 - CursorやWindsurfなどのIDEでコーディングの好みやパターンを管理するためのMem0用モデルコンテキストプロトコルサーバー。コード実装、ベストプラクティス、技術文書の保存、取得、意味的な処理のためのツールを提供します
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - あなたの [Ragie](https://www.ragie.ai) (RAG) ナレッジベースから、Google Drive、Notion、JIRAなどの連携サービスに接続されたコンテキストを取得します。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - MongoDBを使用して複数のLLMからのメモリを保存・取得するMCPサーバー。タイムスタンプとLLM識別を含む会話メモリの保存、取得、追加、クリアのためのツールを提供します。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 異なるAIモデルが協力し、会話間でコンテキストを共有できるようにするクロスLLM通信とメモリ共有を可能にするMCPサーバー。
@@ -447,7 +446,6 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 地理および位置ベースのサービス統合。地図データ、方向、および場所情報へのアクセスを提供します。
 
-- [@modelcontextprotocol/server-google-maps](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps) 📇 ☁️ - 位置情報サービス、ルート計画、および場所の詳細のためのGoogle Maps統合
 - [isdaniel/mcp_weather_server](https://github.com/isdaniel/mcp_weather_server) 🐍 ☁️ - https://api.open-meteo.com API から天気情報を取得。
 
 ### 🎯 <a name="marketing"></a>マーケティング
@@ -459,6 +457,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools) 🐍 🏠 - Open Strategy Partnersからの マーケティングツールスイートで、文章スタイル、編集コード、製品マーケティング価値マップ作成を含む。
 - [nictuku/meta-ads-mcp](https://github.com/nictuku/meta-ads-mcp) 🐍 ☁️ 🏠 - AIエージェントがMeta広告のパフォーマンスを監視・最適化し、キャンペーンメトリクスを分析し、オーディエンスターゲティングを調整し、クリエイティブアセットを管理し、シームレスなGraph API統合を通じて広告費とキャンペーン設定についてデータ主導の推奨事項を作成できるようにします。
 - [marketplaceadpros/amazon-ads-mcp-server](https://github.com/MarketplaceAdPros/amazon-ads-mcp-server) 📇 ☁️ - Amazon Advertisingと対話し、キャンペーンメトリクスと設定を分析するツールを有効にします。
+- [rooquiz/rooquiz-mcp](https://github.com/rooquiz/rooquiz-mcp) [![rooquiz/rooquiz-mcp MCP server](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rooquiz/rooquiz-mcp) 🎖️ 📇 ☁️ - [RooQuiz](https://rooquiz.com) でアセスメントを作成・運用できます。知識クイズ、スコア型クイズ、「あなたはどの X タイプ？」の診断型クイズを AI 支援で作成し、多言語のミラー翻訳にも対応。結果ページで獲得したリード（タグ付け、担当割り当て、コメント）、回答者、送信記録、予約、コンバージョン統計までファネル全体を扱えます。ホスト型の Streamable HTTP エンドポイント `https://payload.rooquiz.com/api/mcp`、OAuth 2.1 の動的クライアント登録に対応し、API キーは不要です。
 
 ### 📊 <a name="monitoring"></a>監視
 
@@ -500,9 +499,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [Crawleo/Crawleo-MCP](https://github.com/Crawleo/Crawleo-MCP) ☁️ 🐍 – Crawleo Search & Crawl API
 - [Tomatio13/mcp-server-tavily](https://github.com/Tomatio13/mcp-server-tavily) ☁️ 🐍 – Tavily AI検索API
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - ArXiv研究論文を検索
-- [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) 🔍📚 - Googleを検索し、任意のトピックに関する深いWebリサーチを行う
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️  MCPを使用してLLMがArXivの論文を検索および読む
-- [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - Apify の RAG Web Browser Actor 用の MCP サーバーで、ウェブ検索を実行し、URL をスクレイピングし、Markdown 形式でコンテンツを返します。
 - [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) 📇 🏠/☁️ - [SearXNG](https://docs.searxng.org)のモデルコンテキストプロトコルサーバー
 - [erithwik/mcp-hn](https://github.com/erithwik/mcp-hn) 🐍 ☁️ - Hacker Newsの検索、トップストーリーの取得などを行うMCPサーバー。
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - 自動トピック分類、多言語サポート、[SerpAPI](https://serpapi.com/)を通じたヘッドライン、ストーリー、関連トピックの包括的な検索機能を備えたGoogle News統合。
@@ -511,27 +508,33 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - Web Platform APIを使ってBaselineの状態を検索してくれるMCPサーバー
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - CRICプロパティAIプラットフォームに接続するMCPサーバーです。CRICプロパティAIは、克而瑞がプロパティ業界向けに開発したインテリジェントAIアシスタントです。
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - 人材発掘にかかる時間を短縮する、最高の人物検索エンジン
+- [Rererr/amenbo](https://github.com/Rererr/amenbo) [![Rererr/amenbo MCP server](https://glama.ai/mcp/servers/Rererr/amenbo/badges/score.svg)](https://glama.ai/mcp/servers/Rererr/amenbo) 📇 🏠 - 日本語Web特化の低負荷・トークン効率重視のWeb収集サーバー。見出しツリーによる段階開示、Shift_JIS/EUC-JPの文字化け対策、PDF/CSV抽出、robots.txt遵守の礼儀正しいクロールを備える。`npx -y amenbo`で導入可能。
 
 ### 🔒 <a name="security"></a>セキュリティ
 
 セキュリティツール、脆弱性評価、フォレンジクス分析。AIアシスタントがサイバーセキュリティタスクを実行できるようにし、侵入テスト、コード分析、セキュリティ監査を支援します。
 
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - セキュリティ重視のMCPサーバーで、AIエージェントに安全ガイドラインとコンテンツ分析を提供
+- [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - キャプチャ、プロトコル統計、フィールド抽出、およびセキュリティ分析機能を備えた、Wireshark ネットワーク パケット分析 MCP サーバー。
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – AIエージェントが認証アプリと連携できるようにする安全なMCP（Model Context Protocol）サーバー。
 - [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary NinjaのためのMCPサーバーとブリッジ。バイナリ分析とリバースエンジニアリングのためのツールを提供します。
 - [Security Audit MCP Server](https://github.com/qianniuspace/mcp-security-audit) 📇 ☁️ 強力なモデルコンテキストプロトコル（MCP）サーバーで、npmパッケージ依存関係のセキュリティ脆弱性を監査します。リモートnpmレジストリ統合を備えたリアルタイムセキュリティチェックを使用して構築されています。
 - [GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - GhidraをAIアシスタントと統合するためのMCPサーバー。このプラグインはバイナリ分析を可能にし、モデルコンテキストプロトコルを通じて関数検査、逆コンパイル、メモリ探索、インポート/エクスポート分析などのツールを提供します。
 - [intruder-io/intruder-mcp](https://github.com/intruder-io/intruder-mcp) 🐍 ☁️ - [Intruder](https://www.intruder.io/) にアクセスするためのMCPサーバー。インフラストラクチャのセキュリティ脆弱性の特定、理解、修正を支援します。
+- [joergmichno/clawguard-mcp](https://github.com/joergmichno/clawguard-mcp) ([glama](https://glama.ai/mcp/servers/joergmichno/clawguard-mcp)) 🐍 🏠 - Security scanner for AI agents that detects prompt injections using 42+ regex patterns
 - [Gaffx/volatility-mcp](https://github.com/Gaffx/volatility-mcp) - Volatility 3.x用MCPサーバー。AIアシスタントでメモリフォレンジクス分析を実行可能。pslistやnetscanなどのプラグインをクリーンなREST APIとLLMを通じてアクセス可能にし、メモリフォレンジクスを障壁なく体験
 - [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ 🏠 - Ghidra 用のネイティブな Model Context Protocol サーバー。GUI 設定およびログ機能、31 種類の強力なツール、外部依存なし。
 - [co-browser/attestable-mcp-server](https://github.com/co-browser/attestable-mcp-server) 🐍 🏠 ☁️ 🐧 - Gramine経由で信頼実行環境（TEE）内で実行されるMCPサーバー。[RA-TLS](https://gramine.readthedocs.io/en/stable/attestation.html)を使用したリモート証明を紹介。MCPクライアントが接続前にサーバーを検証可能
 - [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) ☕ 🏠 - Model Context Protocol（MCP）と直接統合し、ClaudeなどのLLMでライブリバースエンジニアリング支援を提供するJADXデコンパイラー用プラグインとMCPサーバー
 - [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) 🐍 🏠 - APK ToolのMCPサーバー。Android APKのリバースエンジニアリング自動化を提供
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools) [![quantakrypto/pqc-tools MCP server](https://glama.ai/mcp/servers/quantakrypto/pqc-tools/badges/score.svg)](https://glama.ai/mcp/servers/quantakrypto/pqc-tools) 📇 🏠 ☁️ - AIコーディングエージェント向けのポスト量子対応ツール。量子に脆弱な暗号（RSA/ECDH/ECDSA/DH）をコードから検出し、harvest-now-decrypt-later（今収集して後で復号）のリスクを説明し、NIST ML-KEM/ML-DSA/SLH-DSA（およびハイブリッド）への移行ガイダンスを提供、修正の検証と依存関係のチェックを行います。内容ベースの助言的ツールのみ。ローカル（`npx @quantakrypto/mcp`）または[mcp.quantakrypto.com](https://mcp.quantakrypto.com)のホスト型OAuthエンドポイントで実行できます。
 
 ### 📟 <a name="embedded-system"></a>組み込みシステム
 
 組み込みデバイスでの作業のためのドキュメントとショートカットへのアクセスを提供します。
 
+- [adancurusul/embedded-debugger-mcp](https://github.com/adancurusul/embedded-debugger-mcp) 🦀 📟 - probe-rsを使用した組み込みデバッグ用のモデルコンテキストプロトコルサーバー - J-Link、ST-Link等によるARM Cortex-M、RISC-Vデバッグをサポート
+- [adancurusul/serial-mcp-server](https://github.com/adancurusul/serial-mcp-server) 🦀 📟 - シリアルポート通信用の包括的なMCPサーバー
 - [stack-chan/stack-chan](https://github.com/stack-chan/stack-chan) 📇 📟 - JavaScriptで動作するM5Stack組み込みｽｰﾊﾟｰｶﾜｲｲロボット。AI制御による対話と感情表現のためのMCPサーバー機能を搭載。
 
 ### 🌎 <a name="translation-services"></a>翻訳サービス
@@ -552,7 +555,6 @@ AIアシスタントが異なる言語間でコンテンツを翻訳できるよ
 Gitリポジトリおよびバージョン管理プラットフォームとの対話。標準化されたAPIを通じて、リポジトリ管理、コード分析、プルリクエスト処理、問題追跡、およびその他のバージョン管理操作を実行できます。
 
 - [@modelcontextprotocol/server-github](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/github) 📇 ☁️ - リポジトリ管理、PR、問題などのためのGitHub API統合
-- [@modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab) 📇 ☁️ 🏠 - プロジェクト管理およびCI/CD操作のためのGitLabプラットフォーム統合
 - [@modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/git) 🐍 🏠 - ローカルリポジトリの読み取り、検索、および分析を含む直接的なGitリポジトリ操作
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - リポジトリ管理、作業項目、パイプラインのためのAzure DevOps統合
 - [kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp) 📇 ☁️ - GitLabプロジェクトの課題やマージリクエストとシームレスにやり取りできます。
@@ -560,10 +562,8 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 ### 🛠️ <a name="other-tools-and-integrations"></a>その他のツールと統合
 
 - [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - MCPサーバー統合を備えたWebベースのPlantUMLフロントエンド。PlantUML画像生成と構文検証を可能にします。
-- [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - 任意のテキスト（日本語文字を含む）をQRコードに変換し、カスタマイズ可能な色とbase64エンコード出力をサポートするQRコード生成MCPサーバー。
 - [AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp) - ₿ AIモデルがBitcoinと相互作用できるModel Context Protocol（MCP）サーバー。キー生成、アドレス検証、トランザクションデコード、ブロックチェーンクエリなどが可能
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - AIがBear Notes（macOSのみ）から読み取り可能にする
-- [allenporter/mcp-server-home-assistant](https://github.com/allenporter/mcp-server-home-assistant) 🐍 🏠 - Model Context Protocolサーバーを通じてすべてのHome Assistant音声インテントを公開し、ホーム制御を可能にする
 - [Amazon Bedrock Nova Canvas](https://github.com/zxkane/mcp-server-amazon-bedrock) 📇 ☁️ - Amazon Nova Canvasモデルを使用した画像生成
 - [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server) 🐍/📇 ☁️ - MCPプロトコル経由でOpenAI、MistralAI、Anthropic、xAI、Google AI、DeepSeekにリクエストを送信。ツールまたは事前定義プロンプトを使用。ベンダーAPIキーが必要
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) 🐍 🏠 - 他のMCPサーバーをインストールするMCPサーバー
@@ -578,14 +578,12 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [bart6114/my-bear-mcp-server](https://github.com/bart6114/my-bear-mcp-server/) 📇 🏠 🍎 - BearのsqliteDBと直接統合してBear Note取得アプリのノートとタグを読み取り可能
 - [billster45/mcp-chatgpt-responses](https://github.com/billster45/mcp-chatgpt-responses) 🐍 ☁️ - ClaudeがChatGPTと通信してWeb検索機能を使用するためのMCPサーバー
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - AIがGraphQLサーバーをクエリ可能にする
-- [calclavia/mcp-obsidian](https://github.com/calclavia/mcp-obsidian) 📇 🏠 - Claude Desktop（または任意のMCPクライアント）がMarkdownノート（Obsidianボルトなど）を含むディレクトリを読み取り・検索できるコネクター
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) 🐍 🏠 - MCPサーバーテスト用のもう一つのCLIツール
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) 🐍 ☁️ - NotionのAPIと統合してパーソナルToDoリストを管理
 - [ekkyarmandi/ticktick-mcp](https://github.com/ekkyarmandi/ticktick-mcp) 🐍 ☁️ - [TickTick](https://ticktick.com/)のAPIと統合してパーソナルToDoプロジェクトとタスクを管理するTickTick MCPサーバー
 - [esignaturescom/mcp-server-esignatures](https://github.com/esignaturescom/mcp-server-esignatures) 🐍 ☁️ - eSignatures API経由で拘束力のある契約の起草、レビュー、送信を行う契約・テンプレート管理
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro) 📇 ☁️ - MIROホワイトボードにアクセス、アイテムの一括作成・読み取り。REST API用OAUTHキーが必要
 - [feuerdev/keep-mcp](https://github.com/feuerdev/keep-mcp) 🐍 ☁️ - Google Keepノートの読み取り、作成、更新、削除
-- [future-audiences/wikimedia-enterprise-model-context-protocol](https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol) 🐍 ☁️ - Wikipedia記事検索API
 - [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - 通常のGraphQLクエリ/ミューテーションを使ってツールを定義すると、gqaiが自動的にMCPサーバーを生成
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - LLMが正確な数値計算のために電卓を使用できるサーバー
 - [gotoolkits/DifyWorkflow](https://github.com/gotoolkits/mcp-difyworkflow-server) 🏎️ ☁️ - Difyワークフローのクエリと実行ツール
@@ -606,6 +604,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp) 📇 🏠 🍎 🪟 🐧 - ローカルユーザープロンプトとチャット機能を MCP ループに直接追加することで、インタラクティブな LLM ワークフローを有効にします。
 - [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - GROWI APIと統合するための公式MCPサーバー。
 - [JamesANZ/medical-mcp](https://github.com/JamesANZ/medical-mcp) 📇 🏠 - 医療情報、薬物データベース、医療リソースへのアクセスを提供するMCPサーバー。AIアシスタントが医療データ、薬物相互作用、臨床ガイドラインをクエリできるようにします。
+- [SPL-BGU/PlanningCopilot](https://github.com/SPL-BGU/PlanningCopilot) [glama](https://glama.ai/mcp/servers/SPL-BGU/planning-copilot) 🐍🏠 - ドメイン訓練なしで完全な PDDL プランニングパイプラインをサポートし、LLM の計画能力と信頼性を向上させるツール拡張型システム。
 
 ### 🌐 <a name="social-media"></a>ソーシャルメディア
 
@@ -687,17 +686,15 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Bilibiliコンテンツの検索をサポートするMCPサーバー。LangChain連携のサンプルとテストスクリプトを提供
 - [automatalabs/mcp-server-playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - Playwrightを使用したブラウザ自動化のためのMCPサーバー
 - [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - Playwrightを使用したブラウザ自動化のためのMCP Pythonサーバー、LLMにより適している
-- [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - クラウドでのブラウザ相互作用の自動化（ウェブナビゲーション、データ抽出、フォーム入力など）
 - [browsermcp/mcp](https://github.com/browsermcp/mcp) 📇 🏠 - ローカルChromeブラウザを自動化
+- [brutalzinn/simple-mcp-selenium](https://github.com/brutalzinn/simple-mcp-selenium) 📇 🏠 - Cursor IDE 内で自然言語を使ってブラウザを制御できる MCP Selenium サーバー。テスト、自動化、マルチユーザー環境に最適です。
 - [co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🐍 - SSEトランスポートでMCPサーバーとしてパッケージ化されたbrowser-use。dockerでchromiumを実行するdockerファイル + vncサーバーを含む
 - [executeautomation/playwright-mcp-server](https://github.com/executeautomation/mcp-playwright) 📇 - Playwrightを使用したブラウザ自動化とWebスクレイピングのためのMCPサーバー
 - [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) 📇 🏠 - LLMクライアントがユーザーのブラウザ（Firefox）を制御できるブラウザ拡張機能と組み合わせたMCPサーバー
 - [fradser/mcp-server-apple-reminders](https://github.com/FradSer/mcp-server-apple-reminders) 📇 🏠 🍎 - macOS用Apple Remindersと統合されたMCPサーバー
-- [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 🐍 🏠 - 任意のWebサイトから構造化データを抽出。プロンプトを入力するだけでJSONを取得
 - [kimtaeyoon83/mcp-server-youtube-transcript](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript) 📇 ☁️ - AI分析のためのYouTube字幕とトランスクリプトの取得
 - [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - Azure OpenAIとPlaywrightを使用した「最小限の」サーバー/クライアントMCP実装
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - MicrosoftのオフィシャルPlaywright MCPサーバー。構造化アクセシビリティスナップショットを通じてLLMがWebページと相互作用可能
-- [modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) 📇 🏠 - Webスクレイピングとインタラクションのためのブラウザ自動化
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - manifest v2互換ブラウザとの相互作用のためのMCPサーバー
 - [pskill9/web-search](https://github.com/pskill9/web-search) 📇 🏠 - APIキー不要でGoogleの検索結果を使った無料Web検索を可能にするMCPサーバー
 - [public-ui/kolibri](https://github.com/public-ui/kolibri) 📇 ☁️ 🏠 - ストリーミング対応KoliBri MCPサーバー（NPM: `@public-ui/mcp`）。ホストされたHTTPエンドポイントまたはローカルの`kolibri-mcp` CLI経由で、保証されたアクセシビリティを備えた200以上のWebコンポーネントのサンプル、仕様、ドキュメント、シナリオを提供。
