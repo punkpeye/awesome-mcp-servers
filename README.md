@@ -866,6 +866,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- [A1-x-Tech/mcp-google-chat](https://github.com/A1-x-Tech/mcp-google-chat) [![A1-x-Tech/mcp-google-chat MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat) 📇 ☁️ - Google Chat API: list and search spaces, read and send messages, and work with threads and reactions.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - Interact with Nostr: post notes and more.
 - [adecubed/gigamail](https://github.com/adecubed/gigamail) [![adecubed/gigamail MCP server](https://glama.ai/mcp/servers/adecubed/gigamail/badges/score.svg)](https://glama.ai/mcp/servers/adecubed/gigamail) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Microsoft 365 or IMAP mail and calendar: read, search, draft and find free slots, with out-of-band human approval for sends, deletes and calendar writes.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline.
