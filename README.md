@@ -3906,6 +3906,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [aurelio-nakamura/cmdxray](https://github.com/aurelio-nakamura/cmdxray) [![aurelio-nakamura/cmdxray MCP server](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray/badges/score.svg)](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray) 📇 🏠 🍎 🪟 🐧 - Offline safety gate for agent shell commands: rates each command as danger, caution or none and explains every flag, pipe, redirect and subshell.
 - [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) [![Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker MCP server](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker/badges/score.svg)](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) 🐍 🏠 🐧 🪟 🍎 - Deterministic execution governance gateway and W3C DID security guardrail for AI agent MCP tool calls.
+- [pratham-jain33/security-mcp](https://github.com/pratham-jain33/security-mcp) [![pratham-jain33/security-mcp MCP server](https://glama.ai/mcp/servers/pratham-jain33/security-mcp/badges/score.svg)](https://glama.ai/mcp/servers/pratham-jain33/security-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Zero-key security toolkit: grade any website's security A+ to F, check if CVEs are actively exploited via CISA KEV and EPSS, and get MITRE ATT&CK defenses in plain English. `uvx security-mcp`.
 
 ### 🌐 <a name="social-media"></a>Social Media
 
