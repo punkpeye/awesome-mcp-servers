@@ -4301,6 +4301,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
+- [sean0007/free-agent-tools](https://github.com/sean0007/free-agent-tools) [![sean0007/free-agent-tools MCP server](https://glama.ai/mcp/servers/sean0007/free-agent-tools/badges/score.svg)](https://glama.ai/mcp/servers/sean0007/free-agent-tools) 📇 ☁️ - Free no-auth hosted server with 16 deterministic tools: business idea MOAT score, price headroom, hotel OTA commission, open-source SaaS swaps, Google/Meta ads notice risk, App Store 4.2 precheck, Japan trip plans.
 - [wangkuangkuang/jev-mcp-server](https://github.com/wangkuangkuang/jev-mcp-server) [![wangkuangkuang/jev-mcp-server MCP server](https://glama.ai/mcp/servers/wangkuangkuang/jev-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/wangkuangkuang/jev-mcp-server) 🐍 🏠 🍎 🪟 🐧 - Typed judgments from TypeSafe Jev: calibrated choice and score questions, A/B comparison, claim-vs-evidence verification and batch classification.
 - [siweina/dsh-novel-writer](https://github.com/siweina/dsh-novel-writer) [![siweina/dsh-novel-writer MCP server](https://glama.ai/mcp/servers/siweina/dsh-novel-writer/badges/score.svg)](https://glama.ai/mcp/servers/siweina/dsh-novel-writer) 📇 🏠 🍎 🪟 🐧 - Offline novel-writing toolkit for Chinese web-novel authors: chapter stats, style checks, plot-thread tracking, continuity audits and semantic search.
 
