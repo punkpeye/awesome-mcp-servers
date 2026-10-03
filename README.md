@@ -3446,6 +3446,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [ac3xx/mcp-servers-kagi](https://github.com/ac3xx/mcp-servers-kagi) 📇 ☁️ - Kagi search API integration.
 - [adawalli/nexus](https://github.com/adawalli/nexus) 📇 ☁️ - Web search using Perplexity Sonar models, with source citations.
 - [adjacentai/necl-hn-mcp](https://github.com/adjacentai/necl-hn-mcp) [![necl-hn-mcp MCP server](https://glama.ai/mcp/servers/adjacentai/necl-hn-mcp/badges/score.svg)](https://glama.ai/mcp/servers/adjacentai/necl-hn-mcp) 🐍 ☁️ - Hacker News: top stories by time window, category feeds, comment threads and full-text search via Algolia.
+- [ambolt/ambolt-mcp](https://github.com/ambolt/ambolt-mcp) 📇 ☁️ - Company registers, EU and UK tenders, documents, exchange rates and on-chain facts, each answer with its source and date; free, plus a non-custodial Solana swap.
 - [ananddtyagi/webpage-screenshot-mcp](https://github.com/ananddtyagi/webpage-screenshot-mcp) 📇 🏠 - Take screenshots of webpages to use as feedback during UI development.
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) 🐍 ☁️ - Search and read papers from arXiv.
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) 🐍 ☁️ - Search and read medical and life sciences papers from PubMed.
