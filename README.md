@@ -3660,6 +3660,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔒 <a name="security"></a>Security
 
+- [alicelabs-llc/marketnow](https://github.com/alicelabs-llc/marketnow) [![alicelabs-llc/marketnow MCP server](https://glama.ai/mcp/servers/alicelabs-llc/marketnow/badges/score.svg)](https://glama.ai/mcp/servers/alicelabs-llc/marketnow) 📇 ☁️ - Trust infrastructure for AI agents: certified skills marketplace with Ed25519-signed trust cards and URL scam-check scoring, via hosted endpoint or npm.
+
 - [fredyee/hallucc-mcp](https://github.com/fredyee/hallucc-mcp) [![fredyee/hallucc-mcp MCP server](https://glama.ai/mcp/servers/fredyee/hallucc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fredyee/hallucc-mcp) 📇 ☁️ - Claim-level hallucination detection with sources, agent trajectory verification, risk gating for computer-use actions and prompt-injection defense.
 - [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) [![ucsandman/DashClaw MCP server](https://glama.ai/mcp/servers/ucsandman/DashClaw/badges/score.svg)](https://glama.ai/mcp/servers/ucsandman/DashClaw) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Fail-closed approval layer for unattended agent runs: checks actions against org policy, requests human approval and logs every decision to a causal ledger.
 - [26zl/cybersec-toolkit](https://github.com/26zl/cybersec-toolkit) [![26zl/cybersec-toolkit MCP server](https://glama.ai/mcp/servers/26zl/cybersec-toolkit/badges/score.svg)](https://glama.ai/mcp/servers/26zl/cybersec-toolkit) 🐍 🏠 🐧 - Install a large security toolset and discover and run it through an authorization-gated server for CTF, pentesting, bug bounty and DFIR.
