@@ -1,0 +1,39 @@
+name: apply-maven-mcp-listing
+on:
+  workflow_dispatch:
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Add maven-mcp entry and reset branch
+        run: |
+          set -euo pipefail
+          git config user.name "Kirill Rozov"
+          git config user.email "kirill@androidbroadcast.dev"
+          git checkout -B add-maven-mcp
+          python3 <<'PY'
+          from pathlib import Path
+          p = Path('README.md')
+          text = p.read_text(encoding='utf-8')
+          needle = '- [kindly-software/kdb](https://github.com/kindly-software/kdb) 🦀 ☁️ - Time-travel debugger with bidirectional execution replay, hash-chain audit logging and SIMD-accelerated stack unwinding.\n'
+          entry = '- [kirich1409/maven-mcp](https://github.com/kirich1409/maven-mcp) [![kirich1409/maven-mcp MCP server](https://glama.ai/mcp/servers/kirich1409/maven-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kirich1409/maven-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - MCP server / agent plugin for Maven and Gradle dependency intelligence: latest versions, outdated deps, CVEs, changelogs, licenses and project audits.\n'
+          if 'kirich1409/maven-mcp' in text:
+              print('already present')
+          elif needle not in text:
+              raise SystemExit('needle missing')
+          else:
+              p.write_text(text.replace(needle, needle + entry, 1), encoding='utf-8')
+              print('patched')
+          PY
+          rm -f .github/workflows/apply-maven-mcp-listing.yml
+          git add README.md
+          git add -A .github/workflows || true
+          git status
+          git commit -m "Add kirich1409/maven-mcp to Developer Tools"
+          git push -f origin add-maven-mcp
