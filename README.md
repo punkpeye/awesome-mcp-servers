@@ -1475,6 +1475,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) 🐍 🏠 - Excel workbook creation, data operations, formatting, charts, pivot tables and formulas.
 - [hechtcarmel/jetbrains-debugger-mcp-plugin](https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin) ☕ 🏠 - JetBrains IDE plugin giving coding agents programmatic control of the debugger.
 - [hechtcarmel/jetbrains-index-mcp-plugin](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin) ☕ 🏠 - JetBrains IDE plugin exposing indexing and refactoring features: rename, safe delete, find references, call and type hierarchy, diagnostics and more.
+- [herakles-dev/safexl](https://github.com/herakles-dev/safexl) 🐍 🏠 - Edits .xlsx and .xlsm files and leaves the macros, pivots and charts alone. It can't delete rows or columns, and it doesn't recalculate.
 - [hidai25/eval-view](https://github.com/hidai25/eval-view) [![hidai25/eval-view MCP server](https://glama.ai/mcp/servers/hidai25/eval-view/badges/score.svg)](https://glama.ai/mcp/servers/hidai25/eval-view) 🐍 🏠 🍎 🪟 🐧 - Regression testing for AI agents: save golden baselines, detect behavioral drift and block regressions in CI.
 - [higress-group/higress-ops-mcp-server](https://github.com/higress-group/higress-ops-mcp-server) 🐍 🏠 - Manage Higress gateway configuration and operations.
 - [hijaz/postmancer](https://github.com/hijaz/postmancer) 📇 🏠 - Maintain and use API collections, replacing REST clients like Postman or Insomnia.
