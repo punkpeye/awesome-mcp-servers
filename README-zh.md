@@ -446,6 +446,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [@upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - 最新的LLM和AI代码编辑器的代码文档。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - 一个MCP服务器，使用MongoDB存储和检索来自多个LLM的记忆。提供保存、检索、添加和清除带有时间戳和LLM识别的对话记忆的工具。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 一个MCP服务器，实现跨LLM通信和记忆共享，使不同的AI模型能够在对话间协作和共享上下文。
+- [samvallad33/vestige](https://github.com/samvallad33/vestige) [![samvallad33/vestige MCP server](https://glama.ai/mcp/servers/samvallad33/vestige/badges/score.svg)](https://glama.ai/mcp/servers/samvallad33/vestige) 🦀 🏠 🍎 🪟 🐧 - 面向 AI 代理的因果证明引擎与操作系统，构建在只追加的签名日志 Strata 之上。零向量，零 RAG。每个回答都附带证明：记忆 id、边路径或回执。可将故障追溯到引发它的提交。代理记忆是其中一个子系统。
 
 ### ⚖️ <a name="legal"></a>法律
 
