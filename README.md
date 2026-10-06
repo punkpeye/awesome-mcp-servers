@@ -501,6 +501,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Robotics, drones and physical AI.
 
 - <img height="14" src="https://avatars.githubusercontent.com/u/224125194?s=200&v=4" alt="Extelligence Logo"> [Bagel](https://github.com/Extelligence-ai/bagel) - ChatGPT for physical data. Troubleshoot your robots and drones with natural language. No fuss.
+- <img height="14" src="https://codeatoms.ai/icon-192.png" alt="CodeNinja Atoms Logo"> [CodeNinja Atoms](https://github.com/muhammadumar89/codeninja-research/tree/main/mcp-server) - Reference architectures for physical AI as tools: 13 open industrial system designs with ontologies, model and hardware registers, three-year costs and full papers.
 
 <br />
 
