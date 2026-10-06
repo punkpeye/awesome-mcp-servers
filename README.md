@@ -3660,6 +3660,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔒 <a name="security"></a>Security
 
+- [AW-1 Execution Guard](https://github.com/MvikManners/aw1-circuit-breaker) 🐍 🏠 🍎 🪟 🐧 - Deterministic AST deconstruction and runtime circuit breaker preventing rogue shell escapes, dynamic eval(), and covert lateral socket egress.
 - [fredyee/hallucc-mcp](https://github.com/fredyee/hallucc-mcp) [![fredyee/hallucc-mcp MCP server](https://glama.ai/mcp/servers/fredyee/hallucc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fredyee/hallucc-mcp) 📇 ☁️ - Claim-level hallucination detection with sources, agent trajectory verification, risk gating for computer-use actions and prompt-injection defense.
 - [ucsandman/DashClaw](https://github.com/ucsandman/DashClaw) [![ucsandman/DashClaw MCP server](https://glama.ai/mcp/servers/ucsandman/DashClaw/badges/score.svg)](https://glama.ai/mcp/servers/ucsandman/DashClaw) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Fail-closed approval layer for unattended agent runs: checks actions against org policy, requests human approval and logs every decision to a causal ledger.
 - [26zl/cybersec-toolkit](https://github.com/26zl/cybersec-toolkit) [![26zl/cybersec-toolkit MCP server](https://glama.ai/mcp/servers/26zl/cybersec-toolkit/badges/score.svg)](https://glama.ai/mcp/servers/26zl/cybersec-toolkit) 🐍 🏠 🐧 - Install a large security toolset and discover and run it through an authorization-gated server for CTF, pentesting, bug bounty and DFIR.
