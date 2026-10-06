@@ -832,6 +832,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [Yomiracle/trinity-lite](https://github.com/Yomiracle/trinity-lite) [![Yomiracle/trinity-lite MCP server](https://glama.ai/mcp/servers/Yomiracle/trinity-lite/badges/score.svg)](https://glama.ai/mcp/servers/Yomiracle/trinity-lite) 🐍 🏠 - Local task bus for CLI AI agents such as Codex and Claude Code: route work, persist state in SQLite and collaborate through a shared server.
 - [REX-codebase/fable-mode](https://github.com/REX-codebase/fable-mode) [![REX-codebase/fable-mode MCP server](https://glama.ai/mcp/servers/REX-codebase/fable-mode/badges/score.svg)](https://glama.ai/mcp/servers/REX-codebase/fable-mode) 🐍 🏠 🍎 🪟 🐧 - Control plane for AI coding agents: time-locks writing, requires evidence for claims, runs adversarial review and keeps a sealed verification record.
 
+- [cortex](https://github.com/Buzburg/cortex) - Universal Prefrontal Cortex, Associative Memory (Titans + Gated DeltaNet-2), 98.8% SnapKV Log Sieve, 25.61x Mojo 1.1.0 Knapsack Context Packer, CoW Time Machine & Safety Harness for AI Coding Agents.
 ### 🖥️ <a name="command-line"></a>Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
 
