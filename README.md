@@ -390,7 +390,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [yuluo688/gen-image-mcp](https://github.com/yuluo688/gen-image-mcp) [![yuluo688/gen-image-mcp MCP server](https://glama.ai/mcp/servers/yuluo688/gen-image-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yuluo688/gen-image-mcp) 📇 🏠 🍎 🪟 🐧 - Generate and edit images via your own OpenAI-compatible or Gemini image APIs and save them into the project directory, with optional model fallback.
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - Anime and manga information from the AniList API.
 - [smeet666/mcp-bideetmusique](https://github.com/smeet666/mcp-bideetmusique) [![smeet666/mcp-bideetmusique MCP server](https://glama.ai/mcp/servers/smeet666/mcp-bideetmusique/badges/score.svg)](https://glama.ai/mcp/servers/smeet666/mcp-bideetmusique) 📇 ☁️ 🍎 🪟 🐧 - Search Bide & Musique's hand-catalogued collection of forgotten French songs by performer, title, writer, lyrics, label or year, and read full records.
-- [velin-api/velin-mcp](https://github.com/velin-api/velin-mcp) 📇 ☁️ 🍎 🪟 🐧 - Generate images (Nano Banana Pro/2, GPT Image 2/2.5) and Suno 5.5 music via the VELIN pay-per-use API; zero dependencies, saves files locally.
+- [velin-api/velin-mcp](https://github.com/velin-api/velin-mcp) [![velin-api/velin-mcp MCP server](https://glama.ai/mcp/servers/velin-api/velin-mcp/badges/score.svg)](https://glama.ai/mcp/servers/velin-api/velin-mcp) 📇 ☁️ 🍎 🪟 🐧 - Generate images (Nano Banana Pro/2, GPT Image 2/2.5) and Suno 5.5 music via the VELIN pay-per-use API; zero dependencies, saves files locally.
 
 ### 📐 <a name="architecture-and-design"></a>Architecture & Design
 
