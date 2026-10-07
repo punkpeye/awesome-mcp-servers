@@ -3906,6 +3906,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [aurelio-nakamura/cmdxray](https://github.com/aurelio-nakamura/cmdxray) [![aurelio-nakamura/cmdxray MCP server](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray/badges/score.svg)](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray) 📇 🏠 🍎 🪟 🐧 - Offline safety gate for agent shell commands: rates each command as danger, caution or none and explains every flag, pipe, redirect and subshell.
 - [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) [![Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker MCP server](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker/badges/score.svg)](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) 🐍 🏠 🐧 🪟 🍎 - Deterministic execution governance gateway and W3C DID security guardrail for AI agent MCP tool calls.
+- [thu-lawyer/keystash](https://github.com/thu-lawyer/keystash) [![thu-lawyer/keystash MCP server](https://glama.ai/mcp/servers/thu-lawyer/keystash/badges/score.svg)](https://glama.ai/mcp/servers/thu-lawyer/keystash) 🐍 🏠 🍎 - Local-first encrypted vault for agent secrets that keeps values out of model context: injects a key into a subprocess environment, scrubs leaked values from the output, and gates access behind Touch ID.
 
 ### 🌐 <a name="social-media"></a>Social Media
 
