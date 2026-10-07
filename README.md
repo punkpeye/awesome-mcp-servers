@@ -3297,6 +3297,7 @@ Servers for controlling the desktop operating system: screenshots, window manage
 - [munimtechnologies/munim-computer-use](https://github.com/munimtechnologies/munim-computer-use) [![munimtechnologies/munim-computer-use MCP server](https://glama.ai/mcp/servers/munimtechnologies/munim-computer-use/badges/score.svg)](https://glama.ai/mcp/servers/munimtechnologies/munim-computer-use) 🦀 📇 🏠 🍎 🪟 🐧 - Accessibility-first computer use on macOS, Windows and Linux: element IDs instead of pixels, background input, a pointer overlay and its own Chrome tab group.
 
 - [Dominic-DK/askew-mcp](https://github.com/Dominic-DK/askew-mcp) [![Dominic-DK/askew-mcp MCP server](https://glama.ai/mcp/servers/Dominic-DK/askew-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Dominic-DK/askew-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - Run Apple Shortcuts on an iPhone, iPad or Mac (even locked), send lock-screen notifications and receive device events over an end-to-end encrypted relay.
+- [auten-ai/auten-mcp](https://github.com/auten-ai/auten-mcp) 🎖️ 📇 🏠 🍎 🪟 🐧 - Computer use over the accessibility tree on macOS, Windows and Linux: give Claude Code, Codex, Cursor or any MCP client hands on your desktop by element ID instead of pixels, record a task once and replay it deterministically with no AI call, and self-heal when the UI shifts.
 
 ### 🎙️ <a name="podcasts"></a>Podcasts
 
