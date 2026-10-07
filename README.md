@@ -295,7 +295,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 ### ♿ <a name="accessibility"></a>Accessibility
 
 - [kinti/a11y-toolkit](https://github.com/kinti/a11y-toolkit) [![kinti/a11y-toolkit MCP server](https://glama.ai/mcp/servers/kinti/a11y-toolkit/badges/score.svg)](https://glama.ai/mcp/servers/kinti/a11y-toolkit) 🐍 🏠 - WCAG 2.2 accessibility tools: color contrast checks including text over images, EU accessibility declaration generation and an aria-live announcement monitor.
-- [tristanlawrenceguy/sameway](https://github.com/tristanlawrenceguy/sameway) 🏎️ 🏠 🍎 🪟 🐧 - Local workspace for notes, tasks and projects whose accessible pages and MCP tools come from the same definitions, so agents can do what people can; any page can be read back as a screen reader gets it.
+- [tristanlawrenceguy/sameway](https://github.com/tristanlawrenceguy/sameway) 🏎️ 🏠 🍎 🪟 🐧 - Local workspace for notes, tasks and projects whose accessible pages and MCP tools come from the same definitions, so agents can do what people can; any page can be read back as a screen reader gets it. [![tristanlawrenceguy/sameway MCP server](https://glama.ai/mcp/servers/tristanlawrenceguy/sameway/badges/score.svg)](https://glama.ai/mcp/servers/tristanlawrenceguy/sameway)
 - [vince-gonzalez/opticquiz-mcp](https://github.com/vince-gonzalez/opticquiz-mcp) [![vince-gonzalez/opticquiz-mcp MCP server](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp) 📇 🏠 🍎 🪟 🐧 - Color-vision accessibility: check palettes and images for colorblind safety, generate safe palettes, simulate color blindness and create Ishihara-style plates.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
