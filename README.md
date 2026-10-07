@@ -3198,6 +3198,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 
 Provides the ability to handle multimedia, such as audio and video editing, playback, format conversion, also includes video filters, enhancements, and so on
 
+- [seyitwb-svg/qrdock-mcp](https://github.com/seyitwb-svg/qrdock-mcp) 🐍 🏠 🍎 🪟 🐧 - Local QR code generation for agents: PNG (custom colors), SVG and terminal-scannable ASCII output, no API keys or network calls.
 - [06ketan/slideshot](https://github.com/06ketan/slideshot) [![06ketan/slideshot MCP server](https://glama.ai/mcp/servers/06ketan/slideshot/badges/score.svg)](https://glama.ai/mcp/servers/06ketan/slideshot) 📇 🏠 🍎 🪟 🐧 - Convert HTML into PDF, PNG, WebP or PPTX slide carousels with themes for LinkedIn, Instagram, pitch decks and infographics, rendered via Puppeteer.
 - [1000ri-jp/atsurae](https://github.com/1000ri-jp/atsurae) 🐍 ☁️ 🍎 🪟 🐧 - Video editing: timeline editing, five-layer compositing, semantic operations and FFmpeg rendering to 1080p H.264.
 - [a-y-ibrahim/after-effects-mcp](https://github.com/a-y-ibrahim/after-effects-mcp) [![a-y-ibrahim/after-effects-mcp MCP server](https://glama.ai/mcp/servers/a-y-ibrahim/after-effects-mcp/badges/score.svg)](https://glama.ai/mcp/servers/a-y-ibrahim/after-effects-mcp) 📇 🏠 🍎 🪟 - Control Adobe After Effects: run ExtendScript, render in the background and inspect comps and layers, with Arabic/RTL and multilingual support.
