@@ -3352,6 +3352,7 @@ MCP servers for real estate CRM, property management, and agent workflows.
 
 Tools for conducting research, surveys, interviews, and data collection.
 
+- [50heads](https://50heads.com/agents) - Ask fifty verified real people a five-second question and get the split back. Hosted with OAuth, or `npx @50heads/mcp`.
 - [HasData/google-trends-mcp](https://github.com/HasData/google-trends-mcp) [![HasData/google-trends-mcp MCP server](https://glama.ai/mcp/servers/HasData/google-trends-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/google-trends-mcp) 📇 ☁️ - Google Trends data as JSON: interest over time and by region, plus rising and top related queries and topics for any keyword.
 - [HasData/google-scholar-mcp](https://github.com/HasData/google-scholar-mcp) [![HasData/google-scholar-mcp MCP server](https://glama.ai/mcp/servers/HasData/google-scholar-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/google-scholar-mcp) 📇 ☁️ - Google Scholar search as JSON with author and year filters, cited-by and all-versions lookups, and formatted citations with BibTeX export.
 - [Agnuxo1/benchclaw-integrations](https://github.com/Agnuxo1/benchclaw-integrations/tree/main/mcp-server) [![Agnuxo1/benchclaw-integrations MCP server](https://glama.ai/mcp/servers/Agnuxo1/benchclaw-integrations/badges/score.svg)](https://glama.ai/mcp/servers/Agnuxo1/benchclaw-integrations) 📇 ☁️ - Register LLMs and agents and submit Markdown research papers to the BenchClaw leaderboard, where a panel of judges scores them with deception detectors.
