@@ -4539,3 +4539,19 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+
+## 🚀 AmyGraphics Production MCP Servers
+
+- [AgentWeb](https://github.com/AmyGraphics/agentweb-mcp) - Autonomous web scraping, markdown extraction, and LLM text parser MCP server.
+- [DBForge](https://github.com/AmyGraphics/dbforge-mcp) - Complete Database Architect, Prisma & Drizzle ORM, SQL Optimizer & Mock Seed Engine MCP.
+- [CloudOps](https://github.com/AmyGraphics/cloudops-mcp) - Production Multi-Stage Docker, Nginx TLS 1.3 & CI/CD Pipeline Architect MCP.
+- [APISniper](https://github.com/AmyGraphics/apisniper-mcp) - Reverse API, cURL to TypeScript SDK, Zod Schema & Network Inspector MCP.
+- [RankForge](https://github.com/AmyGraphics/rankforge-mcp) - Autonomous SEO Agency, Keyword Intent & SERP Rich Snippet Intelligence MCP.
+- [AuditForge](https://github.com/AmyGraphics/auditforge-mcp) - Smart Contract Security Auditor, Honeypot Detector & Gas Optimizer MCP.
+- [CommerceForge](https://github.com/AmyGraphics/commerceforge-mcp) - Autonomous E-Commerce, Stripe Checkout & Shopify Storefront Engine MCP.
+- [UIForge](https://github.com/AmyGraphics/uiforge-mcp) - Tailwind CSS, Shadcn UI Components & Lucide Icon Engine MCP.
+- [OmniFlow](https://github.com/AmyGraphics/omniflow-mcp) - Autonomous Agent Automation, Multi-Channel Webhooks & Cron Scheduler MCP.
+- [LeadHunter](https://github.com/AmyGraphics/leadhunter-mcp) - B2B Lead Generation & Verified Email Discovery Intelligence MCP.
+- [SolanaRadar](https://github.com/AmyGraphics/solana-radar-mcp) - Solana Memecoin, DEX Pairs & Whale Activity Intelligence MCP.
+- [DeepResearch](https://github.com/AmyGraphics/deep-research-mcp) - Academic ArXiv Research, Patent Search & Fact-Checking Intelligence MCP.
