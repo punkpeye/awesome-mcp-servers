@@ -4539,3 +4539,8 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+
+## Security & Validation
+
+- [mcpdoctor](https://github.com/xka0085-byte/mcp-doctor) — Read-only MCP initialize/tools/list schema checker and x402 HTTP 402 endpoint inspector. Includes a GitHub Action for CI checks. [Docs](https://xka0085-byte.github.io/mcp-doctor/)
