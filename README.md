@@ -1729,6 +1729,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [xzq.xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) 📇 🏠 - JVM-based MCP server implementation.
 - [yangkyeongmo@/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) 🐍 🏠 - Connect to Apache Airflow.
 - [yanmxa/scriptflow-mcp](https://github.com/yanmxa/scriptflow-mcp) 📇 🏠 - Turns repetitive AI interactions into persistent, executable Bash, Python, Node.js or TypeScript scripts.
+- [YashNaj/chauffeur](https://github.com/YashNaj/chauffeur) 🏠 🍎 - Lets coding agents drive the iOS Simulator and verifies every action: accessibility-tree snapshots with refs, HID taps and typing, app logs and crashes. A dead tap is NO EFFECT, a crash is APP CRASHED with the line.
 - [ycs77/apifable](https://github.com/ycs77/apifable) [![apifable MCP server](https://glama.ai/mcp/servers/ycs77/apifable/badges/score.svg)](https://glama.ai/mcp/servers/ycs77/apifable) 📇 🏠 - Explore OpenAPI specs, search endpoints and generate TypeScript types.
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - Query Go package information on pkg.go.dev.
 - [yiwenlu66/PiloTY](https://github.com/yiwenlu66/PiloTY) 🐍 🏠 - Control interactive terminals (PTY) with stateful sessions, SSH connections and background process management.
