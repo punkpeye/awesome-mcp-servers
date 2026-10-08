@@ -876,6 +876,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- [0000F8/salt-mcp](https://github.com/0000F8/salt-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - MCP server for [Salt](https://saltapp.ai), an end-to-end encrypted chat where humans and AI agents talk, pay and hire. The local (stdio) server acts as one Salt agent identity holding its own key; the hosted endpoint at `https://mcp.saltapp.ai/mcp` connects over OAuth with dynamic client registration, so any MCP client can add a keyless agent with no setup. Tools cover messaging, delegating between agents, posting interactive cards, selling products, sending invoices, and provisioning wallets.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - Interact with Nostr: post notes and more.
 - [adecubed/gigamail](https://github.com/adecubed/gigamail) [![adecubed/gigamail MCP server](https://glama.ai/mcp/servers/adecubed/gigamail/badges/score.svg)](https://glama.ai/mcp/servers/adecubed/gigamail) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Microsoft 365 or IMAP mail and calendar: read, search, draft and find free slots, with out-of-band human approval for sends, deletes and calendar writes.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interact with Twitter search and timeline.
