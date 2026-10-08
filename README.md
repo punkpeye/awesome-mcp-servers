@@ -835,6 +835,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [eliottreich/taskbounty-mcp-server](https://github.com/eliottreich/taskbounty-mcp-server) [![eliottreich/taskbounty-mcp-server MCP server](https://glama.ai/mcp/servers/eliottreich/taskbounty-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/eliottreich/taskbounty-mcp-server) 📇 ☁️ - Post and fund TaskBounty bounties for GitHub bugs and test coverage, or solve them with PRs that include regression tests and are verified in a sandbox.
 - [Yomiracle/trinity-lite](https://github.com/Yomiracle/trinity-lite) [![Yomiracle/trinity-lite MCP server](https://glama.ai/mcp/servers/Yomiracle/trinity-lite/badges/score.svg)](https://glama.ai/mcp/servers/Yomiracle/trinity-lite) 🐍 🏠 - Local task bus for CLI AI agents such as Codex and Claude Code: route work, persist state in SQLite and collaborate through a shared server.
 - [REX-codebase/fable-mode](https://github.com/REX-codebase/fable-mode) [![REX-codebase/fable-mode MCP server](https://glama.ai/mcp/servers/REX-codebase/fable-mode/badges/score.svg)](https://glama.ai/mcp/servers/REX-codebase/fable-mode) 🐍 🏠 🍎 🪟 🐧 - Control plane for AI coding agents: time-locks writing, requires evidence for claims, runs adversarial review and keeps a sealed verification record.
+- [contentforge-press/mcp-ai-coding-assistant](https://github.com/contentforge-press/mcp-ai-coding-assistant) - MCP server template that gives AI coding agents live context: HN trending, web search and math tools for smarter code generation.
 
 ### 🖥️ <a name="command-line"></a>Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
@@ -1785,6 +1786,18 @@ Tools and integrations that enhance the development workflow and environment man
 - [WilliamSmithEdward/xlide_mcp](https://github.com/WilliamSmithEdward/xlide_mcp) [![WilliamSmithEdward/xlide_mcp MCP server](https://glama.ai/mcp/servers/WilliamSmithEdward/xlide_mcp/badges/score.svg)](https://glama.ai/mcp/servers/WilliamSmithEdward/xlide_mcp) 🐍 🏠 🍎 🪟 🐧 - Read, write, analyze and test VBA in Excel, Word, PowerPoint and Access files, with static analysis; the file layer works without Office installed.
 - [motock/fagan](https://github.com/motock/fagan) [![motock/fagan MCP server](https://glama.ai/mcp/servers/motock/fagan/badges/score.svg)](https://glama.ai/mcp/servers/motock/fagan) 🐍 🏠 - Autonomous coding pipeline: a frontier model plans and reviews, a local model implements under TDD, and a merge gate re-runs the suite on the rebased branch.
 - [ni-c/opengist-mcp](https://github.com/ni-c/opengist-mcp) [![ni-c/opengist-mcp MCP server](https://glama.ai/mcp/servers/ni-c/opengist-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ni-c/opengist-mcp) 📇 🏠 🍎 🪟 🐧 - Read, search, create, update and delete gists on your own [Opengist](https://github.com/thomiceli/opengist) instance — the self-hosted pastebin powered by Git. File contents and revisions, commit history, forks and likes. Bounded results, untrusted-content markers, and a server-issued confirmation token on everything that deletes or publishes. `npx -y opengist-mcp`
+- [contentforge-press/mcp-server-starter-ts](https://github.com/contentforge-press/mcp-server-starter-ts) - Production-ready MCP server template: JSON-RPC over HTTP, initialize/tools/list/tools/call, zero-dependency. Ship a working MCP server in 5 minutes.
+- [contentforge-press/change-intelligence-hub](https://github.com/contentforge-press/change-intelligence-hub) - Hourly-synced intelligence on new U.S. federal contract opportunities from SAM.gov (the official government system of record). Built for small federal contractors, BD teams and AI agents.
+- [contentforge-press/dependency-track-mcp](https://github.com/contentforge-press/dependency-track-mcp) - A Model Context Protocol server for OWASP Dependency-Track,
+- [contentforge-press/gov-contract-radar](https://github.com/contentforge-press/gov-contract-radar) - gov-contract-radar MCP server (see repo README)
+- [contentforge-press/app-store-change-intelligence](https://github.com/contentforge-press/app-store-change-intelligence) - app-store-change-intelligence MCP server (see repo README)
+- [contentforge-press/hiring-change-intelligence](https://github.com/contentforge-press/hiring-change-intelligence) - hiring-change-intelligence MCP server (see repo README)
+- [contentforge-press/hackernews-mention-intelligence](https://github.com/contentforge-press/hackernews-mention-intelligence) - hackernews-mention-intelligence MCP server (see repo README)
+- [contentforge-press/github-repo-change-intelligence](https://github.com/contentforge-press/github-repo-change-intelligence) - github-repo-change-intelligence MCP server (see repo README)
+- [contentforge-press/shopify-change-intelligence](https://github.com/contentforge-press/shopify-change-intelligence) - shopify-change-intelligence MCP server (see repo README)
+- [contentforge-press/code-review-mcp](https://github.com/contentforge-press/code-review-mcp) - AI-powered code review MCP server for automated pull request analysis.
+- [contentforge-press/groundtruth-calculator](https://github.com/contentforge-press/groundtruth-calculator) - Free 2026 US import-duty & landed-cost calculator, embeddable widget, and open-source
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [A1-x-Tech/mcp-yandex-dostavka](https://github.com/A1-x-Tech/mcp-yandex-dostavka) [![A1-x-Tech/mcp-yandex-dostavka MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-yandex-dostavka/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-yandex-dostavka) 📇 ☁️ - Yandex Delivery B2B API: express-courier claims (price check, create, track, cancel) and pickup-point/NDD orders.
@@ -1900,6 +1913,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 - [zackpeters93/ugs-mcp](https://github.com/zackpeters93/ugs-mcp) [![zackpeters93/ugs-mcp MCP server](https://glama.ai/mcp/servers/zackpeters93/ugs-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zackpeters93/ugs-mcp) 🐍 📟 🏠 🍎 - CNC control via Universal G-code Sender (GRBL): jog, home, run G-code files, inspect toolpaths and estimate cycle times, with two-step motion confirmation.
 - [codeofaxel/Kiln](https://github.com/codeofaxel/Kiln) [![codeofaxel/Kiln MCP server](https://glama.ai/mcp/servers/codeofaxel/Kiln/badges/score.svg)](https://glama.ai/mcp/servers/codeofaxel/Kiln) 🐍 📟 🏠 🍎 🪟 🐧 - Run 3D printers end to end: design, slice, queue, monitor via camera and recover from failures over OctoPrint, Moonraker/Klipper, PrusaLink or USB.
 - [Gearotons/servomotor-mcp](https://github.com/Gearotons/servomotor-mcp) [![Gearotons/servomotor-mcp MCP server](https://glama.ai/mcp/servers/Gearotons/servomotor-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Gearotons/servomotor-mcp) 🎖️ 🐍 🏠 📟 🍎 🪟 🐧 - Control the Gearotons M17 open-source closed-loop NEMA-17 servomotor over RS-485: port discovery, motor auto-detection and the full firmware command set.
+- [contentforge-press/esp32-mcp](https://github.com/contentforge-press/esp32-mcp) - Control and read ESP32 IoT devices directly from AI agents (Claude, Cursor, any MCP client).
 
 ### 🎓 <a name="education"></a>Education
 
@@ -2468,6 +2482,8 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [henfrydls/actual-budget-mcp](https://github.com/henfrydls/actual-budget-mcp) [![henfrydls/actual-budget-mcp MCP server](https://glama.ai/mcp/servers/henfrydls/actual-budget-mcp/badges/score.svg)](https://glama.ai/mcp/servers/henfrydls/actual-budget-mcp) 📇 🏠 🍎 🪟 🐧 - Self-hosted Actual Budget analysis: spending breakdowns, category trends, projections and budget vs. actual, with guarded writes and an optional read-only mode.
 - [yourmatematt/agent-billboard-mcp](https://github.com/yourmatematt/agent-billboard-mcp) [![yourmatematt/agent-billboard-mcp MCP server](https://glama.ai/mcp/servers/yourmatematt/agent-billboard-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yourmatematt/agent-billboard-mcp) 📇 🏠 🍎 🪟 🐧 - Read and post to The Agent Billboard, a single on-chain Solana message slot won by outbidding the previous poster, with operator spend limits.
 - [tillbooks/tillbooks](https://github.com/tillbooks/tillbooks) [![tillbooks/tillbooks MCP server](https://glama.ai/mcp/servers/tillbooks/tillbooks/badges/score.svg)](https://glama.ai/mcp/servers/tillbooks/tillbooks) 📇 🏠 🍎 🐧 - Local-first Swiss accounting: double-entry journal entries, invoice categorization and follow-up, and Swiss VAT (MWST) returns, stored in local SQLite.
+- [contentforge-press/mcp-server-billing-kit](https://github.com/contentforge-press/mcp-server-billing-kit) - Monetize an MCP server: Dodo subscription check + KV usage metering + 402 payment-required overage. The missing payment layer for the MCP economy (<5% servers monetized).
+
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
@@ -3932,6 +3948,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 - [aurelio-nakamura/cmdxray](https://github.com/aurelio-nakamura/cmdxray) [![aurelio-nakamura/cmdxray MCP server](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray/badges/score.svg)](https://glama.ai/mcp/servers/aurelio-nakamura/cmdxray) 📇 🏠 🍎 🪟 🐧 - Offline safety gate for agent shell commands: rates each command as danger, caution or none and explains every flag, pipe, redirect and subshell.
 - [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) [![Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker MCP server](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker/badges/score.svg)](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) 🐍 🏠 🐧 🪟 🍎 - Deterministic execution governance gateway and W3C DID security guardrail for AI agent MCP tool calls.
+- [contentforge-press/mcp-server-auth-kit](https://github.com/contentforge-press/mcp-server-auth-kit) - Secure MCP server template with API-Key authentication: Bearer token validation, KV-backed key management, protected tools. Add auth to any MCP server in minutes.
 
 ### 🌐 <a name="social-media"></a>Social Media
 
