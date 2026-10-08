@@ -1745,6 +1745,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zaebee/codegraph-brain](https://github.com/zaebee/codegraph-brain) [![zaebee/codegraph-brain MCP server](https://glama.ai/mcp/servers/zaebee/codegraph-brain/badges/score.svg)](https://glama.ai/mcp/servers/zaebee/codegraph-brain) 🐍 🏠 - Local Python/TypeScript code graph: call tracing, multi-hop impact analysis, authz reachability audits, coupling metrics and architectural drift detection.
 - [zaizaizhao/mcp-swagger-server](https://github.com/zaizaizhao/mcp-swagger-server) 📇 ☁️ 🏠 - Converts OpenAPI/Swagger specifications to MCP format so AI assistants can call REST APIs.
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) 📇 🏠 - Fetch JSON, text and HTML data.
+- [zeitcow/implicit-core](https://github.com/zeitcow/implicit-core) 🐍 🏠 🍎 🪟 🐧 - Bounded synthetic experience addressing, selective state materialization, provenance and fixed benchmark/adapter rehearsal over local stdio. Real environment adapters use the Python SDK.
 - [zelentsov-dev/asc-mcp](https://github.com/zelentsov-dev/asc-mcp) 🏠 🍎 - Manage App Store Connect apps, builds, TestFlight, subscriptions, reviews and more via its API.
 - [zenml-io/mcp-zenml](https://github.com/zenml-io/mcp-zenml) 🐍 🏠 ☁️ - Connect to ZenML MLOps and LLMOps pipelines.
 - [zillow/auto-mobile](https://github.com/zillow/auto-mobile) 📇 🏠 🐧 - Android automation tool suite for developer workflows and testing.
