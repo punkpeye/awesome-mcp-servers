@@ -1787,6 +1787,9 @@ Tools and integrations that enhance the development workflow and environment man
 - [contentforge-press/shopify-change-intelligence](https://github.com/contentforge-press/shopify-change-intelligence) - shopify-change-intelligence MCP server (see repo README)
 - [contentforge-press/code-review-mcp](https://github.com/contentforge-press/code-review-mcp) - AI-powered code review MCP server for automated pull request analysis.
 - [contentforge-press/groundtruth-calculator](https://github.com/contentforge-press/groundtruth-calculator) - Free 2026 US import-duty & landed-cost calculator, embeddable widget, and open-source
+- [contentforge-press/mcp-server-billing-kit](https://github.com/contentforge-press/mcp-server-billing-kit) - Monetize an MCP server: Dodo subscription check + KV usage metering + 402 payment-required overage. The missing payment layer for the MCP economy (<5% servers monetized).
+- [contentforge-press/mcp-server-auth-kit](https://github.com/contentforge-press/mcp-server-auth-kit) - Secure MCP server template with API-Key authentication: Bearer token validation, KV-backed key management, protected tools. Add auth to any MCP server in minutes.
+- [contentforge-press/esp32-mcp](https://github.com/contentforge-press/esp32-mcp) - Control and read ESP32 IoT devices directly from AI agents (Claude, Cursor, any MCP client).
 
 ### 🔒 <a name="delivery"></a>Delivery
 
@@ -1815,12 +1818,4 @@ Tools and integrations that enhance the development workflow and environment man
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
 
 - [inity13/decisionmatrix-mcp](https://github.com/inity13/decisionmatrix-mcp) [![inity13/decisionmatrix-mcp MCP server](https://glama.ai/mcp/servers/inity13/decisionmatrix-mcp/badges/score.svg)](https://glama.ai/mcp/servers/inity13/decisionmatrix-mcp) 📇 ☁️ - Deterministic multi-criteria decision analysis: rank options on weighted criteria via weighted-sum, weighted-product or TOPSIS, with sensitivity analysis.
-- [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - Math engine combining SymPy, NumPy and Matplotlib for symbolic algebra, numerical computing and data visualization.
-- [agmonetti/mathmethods-mcp](https://github.com/agmonetti/mathmethods-mcp) [![agmonetti/mathmethods-mcp MCP server](https://glama.ai/mcp/servers/agmonetti/mathmethods-mcp/badges/score.svg)](https://glama.ai/mcp/servers/agmonetti/mathmethods-mcp) 🐍 🏠 🍎 🪟 🐧 - Numerical methods: root finding, numerical integration, differential equations (RK4) and Lagrange interpolation.
-- [Archerkattri/mathlas](https://github.com/Archerkattri/mathlas) [![Archerkattri/mathlas MCP server](https://glama.ai/mcp/servers/Archerkattri/mathlas/badges/score.svg)](https://glama.ai/mcp/servers/Archerkattri/mathlas) 🐍 🏠 - Math tools for agents: theorem search, PSLQ constant identification, OEIS lookup, Lean kernel checks and applicability checklists.
-- [arrismo/kaggle-mcp](https://github.com/arrismo/kaggle-mcp) 🐍 ☁️ - Connect to Kaggle to download and analyze datasets.
-- [aurelio-nakamura/dataloupe](https://github.com/aurelio-nakamura/dataloupe) [![aurelio-nakamura/dataloupe MCP server](https://glama.ai/mcp/servers/aurelio-nakamura/dataloupe/badges/score.svg)](https://glama.ai/mcp/servers/aurelio-nakamura/dataloupe) 📇 🏠 🍎 🪟 🐧 - Offline tabular data access: describe, preview and query CSV, TSV, JSON, Parquet and Excel files, diff datasets and build an interactive HTML explorer.
-- [avisangle/calculator-server](https://github.com/avisangle/calculator-server) 🏎️ 🏠 - Mathematical computations: basic arithmetic, advanced functions, statistical analysis, unit conversions and financial calculations.
-- [bradleylab/stella-mcp](https://github.com/bradleylab/stella-mcp) 🐍 🏠 - Create, read, validate and save Stella system dynamics models (.stmx files in XMILE format) for scientific simulation and modeling.
-- [Bright-L01/networkx-mcp-server](https://github.com/Bright-L01/networkx-mcp-server) 🐍 🏠 - Graph analysis with NetworkX: centrality algorithms, community detection, PageRank and graph visualization.
-- [chohyerinn/filter-mcp-server](https://github.com/chohyerinn/filter-mcp-server) [![filter-mcp-server MCP server](https://glama.ai/mcp/servers/chohyerinn/filter-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/chohyerinn/filter-mcp-server) 🐍 �
+- [abhiphile/fermat-mcp](https:
