@@ -4543,19 +4543,36 @@ Now Claude can answer questions about writing MCP servers and how they work
 
 ## 🚀 AmyGraphics Production MCP Servers
 
-- [AmyGraphics/agentsuite-mcp](https://github.com/AmyGraphics/agentsuite-mcp) 📇 ☁️ - All-in-one autonomous AI agent and developer MCP super gateway with 15+ integrated engines.
 - [AmyGraphics/agentweb-mcp](https://github.com/AmyGraphics/agentweb-mcp) 📇 ☁️ - Autonomous web scraping, clean markdown extraction and security auditing.
 - [AmyGraphics/deep-research-mcp](https://github.com/AmyGraphics/deep-research-mcp) 📇 ☁️ - Academic ArXiv research, multi-engine web search and live fact-checking.
 - [AmyGraphics/apisniper-mcp](https://github.com/AmyGraphics/apisniper-mcp) 📇 ☁️ - Reverse API, cURL to TypeScript SDK, Zod schema generation and network inspection.
-- [AmyGraphics/dbforge-mcp](https://github.com/AmyGraphics/dbforge-mcp) 📇 ☁️ - Database architect with Prisma and Drizzle ORM, SQL optimizer and seed engine.
-- [AmyGraphics/cloudops-mcp](https://github.com/AmyGraphics/cloudops-mcp) 📇 ☁️ - Production multi-stage Docker, Nginx TLS 1.3 and CI/CD pipeline architect.
-- [AmyGraphics/uiforge-mcp](https://github.com/AmyGraphics/uiforge-mcp) 📇 ☁️ - Tailwind CSS, Shadcn UI components and Lucide icon engine.
-- [AmyGraphics/omniflow-mcp](https://github.com/AmyGraphics/omniflow-mcp) 📇 ☁️ - Agent automation, multi-channel webhooks and cron scheduler.
-- [AmyGraphics/promptforge-mcp](https://github.com/AmyGraphics/promptforge-mcp) 📇 ☁️ - Prompt engineering, jailbreak defense and LLM cost optimizer.
-- [AmyGraphics/gitpulse-mcp](https://github.com/AmyGraphics/gitpulse-mcp) 📇 ☁️ - Git conventional commits, PR code reviewer and ReleaseOps automation.
-- [AmyGraphics/mediaforge-mcp](https://github.com/AmyGraphics/mediaforge-mcp) 📇 ☁️ - Viral video scripts, YouTube SEO and SRT subtitle engine.
-- [AmyGraphics/commerceforge-mcp](https://github.com/AmyGraphics/commerceforge-mcp) 📇 ☁️ - E-commerce, Stripe checkout and Shopify storefront engine.
-- [AmyGraphics/rankforge-mcp](https://github.com/AmyGraphics/rankforge-mcp) 📇 ☁️ - SEO agency, keyword intent and SERP rich snippet intelligence.
+- [AmyGraphics/competitorforge-mcp](https://github.com/AmyGraphics/competitorforge-mcp) 📇 ☁️ - Competitor intelligence, pricing watch and market gap analysis.
+- [AmyGraphics/solana-radar-mcp](https://github.com/AmyGraphics/solana-radar-mcp) 📇 ☁️ - Solana memecoin, DEX pairs and whale activity intelligence.
 - [AmyGraphics/auditforge-mcp](https://github.com/AmyGraphics/auditforge-mcp) 📇 ☁️ - Smart contract security auditor, honeypot detector and gas optimizer.
 - [AmyGraphics/leadhunter-mcp](https://github.com/AmyGraphics/leadhunter-mcp) 📇 ☁️ - B2B lead generation and verified email discovery intelligence.
-- [AmyGraphics/solana-radar-mcp](https://github.com/AmyGraphics/solana-radar-mcp) 📇 ☁️ - Solana memecoin, DEX pairs and whale activity intelligence.
+- [AmyGraphics/bidforge-mcp](https://github.com/AmyGraphics/bidforge-mcp) 📇 ☁️ - Freelance bidding, Upwork proposals and win-rate optimizer.
+- [AmyGraphics/rankforge-mcp](https://github.com/AmyGraphics/rankforge-mcp) 📇 ☁️ - SEO agency, keyword intent and SERP rich snippet intelligence.
+- [AmyGraphics/mediaforge-mcp](https://github.com/AmyGraphics/mediaforge-mcp) 📇 ☁️ - Viral video scripts, YouTube SEO and SRT subtitle engine.
+- [AmyGraphics/mailcraft-mcp](https://github.com/AmyGraphics/mailcraft-mcp) 📇 ☁️ - Email architecture, responsive MJML templates and deliverability engine.
+- [AmyGraphics/uiforge-mcp](https://github.com/AmyGraphics/uiforge-mcp) 📇 ☁️ - Tailwind CSS, Shadcn UI components and Lucide icon engine.
+- [AmyGraphics/i18nforge-mcp](https://github.com/AmyGraphics/i18nforge-mcp) 📇 ☁️ - i18n pipelines, translation management and full RTL support.
+- [AmyGraphics/speedforge-mcp](https://github.com/AmyGraphics/speedforge-mcp) 📇 ☁️ - Core Web Vitals, bundle size and React rendering performance.
+- [AmyGraphics/dbforge-mcp](https://github.com/AmyGraphics/dbforge-mcp) 📇 ☁️ - Database architect with Prisma/Drizzle ORM, SQL optimizer and seed engine.
+- [AmyGraphics/typeforge-mcp](https://github.com/AmyGraphics/typeforge-mcp) 📇 ☁️ - JSON to Zod schemas, TypeScript interfaces and Pydantic models.
+- [AmyGraphics/authshield-mcp](https://github.com/AmyGraphics/authshield-mcp) 📇 ☁️ - JWT, OAuth, RBAC, session security and zero-trust architectures.
+- [AmyGraphics/cronforge-mcp](https://github.com/AmyGraphics/cronforge-mcp) 📇 ☁️ - Background tasks, distributed cron, queues and retry policies.
+- [AmyGraphics/realtimeforge-mcp](https://github.com/AmyGraphics/realtimeforge-mcp) 📇 ☁️ - WebSocket/SSE gateways, multiplayer presence and pub/sub fan-out.
+- [AmyGraphics/cloudops-mcp](https://github.com/AmyGraphics/cloudops-mcp) 📇 ☁️ - Production multi-stage Docker, Nginx TLS and CI/CD pipeline architect.
+- [AmyGraphics/costforge-mcp](https://github.com/AmyGraphics/costforge-mcp) 📇 ☁️ - Cloud cost optimization, FinOps budget alerts and right-sizing.
+- [AmyGraphics/gitpulse-mcp](https://github.com/AmyGraphics/gitpulse-mcp) 📇 ☁️ - Git conventional commits, PR code reviewer and ReleaseOps automation.
+- [AmyGraphics/testforge-mcp](https://github.com/AmyGraphics/testforge-mcp) 📇 ☁️ - Unit, E2E Playwright, contract and visual regression testing.
+- [AmyGraphics/agentsuite-mcp](https://github.com/AmyGraphics/agentsuite-mcp) 📇 ☁️ - All-in-one autonomous AI agent super gateway with 15+ integrated engines.
+- [AmyGraphics/omniflow-mcp](https://github.com/AmyGraphics/omniflow-mcp) 📇 ☁️ - Agent automation, multi-channel webhooks and cron scheduler.
+- [AmyGraphics/promptforge-mcp](https://github.com/AmyGraphics/promptforge-mcp) 📇 ☁️ - Prompt engineering, jailbreak defense and LLM cost optimizer.
+- [AmyGraphics/ragcraft-mcp](https://github.com/AmyGraphics/ragcraft-mcp) 📇 ☁️ - RAG architecture, semantic chunking, embeddings and hybrid search.
+- [AmyGraphics/commerceforge-mcp](https://github.com/AmyGraphics/commerceforge-mcp) 📇 ☁️ - E-commerce, Stripe checkout and Shopify storefront engine.
+- [AmyGraphics/docucraft-mcp](https://github.com/AmyGraphics/docucraft-mcp) 📇 ☁️ - PDF invoices, legal contracts and ATS resume optimizer.
+- [AmyGraphics/privacyforge-mcp](https://github.com/AmyGraphics/privacyforge-mcp) 📇 ☁️ - GDPR privacy policies, SaaS terms of service and cookie consent.
+- [AmyGraphics/observforge-mcp](https://github.com/AmyGraphics/observforge-mcp) 📇 ☁️ - Observability, Sentry error tracking, SLO burn-rate alerts and postmortems.
+- [AmyGraphics/pipelineforge-mcp](https://github.com/AmyGraphics/pipelineforge-mcp) 📇 ☁️ - ETL/ELT pipelines, dbt models, star schemas and DAG orchestration.
+- [AmyGraphics/mobileforge-mcp](https://github.com/AmyGraphics/mobileforge-mcp) 📇 ☁️ - React Native/Expo apps, offline sync engines and app store releases.
