@@ -1872,7 +1872,7 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 Provides access to documentation and shortcuts for working on embedded devices.
 
 - [0x1abin/matter-controller-mcp](https://github.com/0x1abin/matter-controller-mcp) 📇 📟 - Control and interact with Matter devices via a Matter controller.
-- [AbhijatSaxena/uvc-ptz-camera-mcp](https://github.com/AbhijatSaxena/uvc-ptz-camera-mcp) 🐍 🏠 🪟 - Drive a USB (UVC) pan/tilt/zoom camera and confirm every move from the picture, not from the device's own position report.
+- [AbhijatSaxena/uvc-ptz-camera-mcp](https://github.com/AbhijatSaxena/uvc-ptz-camera-mcp) [![AbhijatSaxena/uvc-ptz-camera-mcp MCP server](https://glama.ai/mcp/servers/AbhijatSaxena/uvc-ptz-camera-mcp/badges/score.svg)](https://glama.ai/mcp/servers/AbhijatSaxena/uvc-ptz-camera-mcp) 🐍 🏠 🪟 - Drive a USB (UVC) pan/tilt/zoom camera and confirm every move from the picture, not from the device's own position report.
 - [JannLeo/telinksdk-builder-mcp](https://github.com/JannLeo/telinksdk-builder-mcp) [![JannLeo/telinksdk-builder-mcp MCP server](https://glama.ai/mcp/servers/JannLeo/telinksdk-builder-mcp/badges/score.svg)](https://glama.ai/mcp/servers/JannLeo/telinksdk-builder-mcp) 🐍 🏠 🪟 🐧 🍎 - Build Telink and other embedded SDKs (Eclipse headless, Make or generic) via natural language, with automatic build pattern detection.
 - [adancurusul/embedded-debugger-mcp](https://github.com/adancurusul/embedded-debugger-mcp) 🦀 📟 - Embedded debugging with probe-rs: ARM Cortex-M and RISC-V targets via J-Link, ST-Link and other probes.
 - [adancurusul/serial-mcp-server](https://github.com/adancurusul/serial-mcp-server) 🦀 📟 - Serial port communication.
