@@ -1,4 +1,4 @@
-[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
+﻿[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
@@ -274,6 +274,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Astronomical catalog data and observing session planning: OpenNGC deep-sky objects with visibility, rise/transit/set and alt/az calculations.
 - [viventine-space/orbit-sentinel-mcp](https://github.com/viventine-space/orbit-sentinel-mcp) [![Viventine-Space/orbit-sentinel-mcp MCP server](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp) 🎖️ 🏎️ ☁️ 🍎 🪟 🐧 - Search FCC, ITU, UNOOSA and FAA space regulatory filings via Orbit Sentinel: semantic search, entity dossiers, spectrum holdings, launch licenses and alerts.
 
+- [sprytools](https://sprytools.com) 📇 ☁️ - Hub of 30+ developer & utility APIs as MCP tools: hashing, text stats, validation, DNS, currency, IP geolocation, IBAN, QR codes, GEO audits. Hosted, API-key auth.
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
 
 MCP servers for creating, coordinating, and executing agreements: commitments, escrow, and multi-party decision workflows across humans, agents, and organizations.
