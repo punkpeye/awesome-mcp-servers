@@ -393,6 +393,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [yuluo688/gen-image-mcp](https://github.com/yuluo688/gen-image-mcp) [![yuluo688/gen-image-mcp MCP server](https://glama.ai/mcp/servers/yuluo688/gen-image-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yuluo688/gen-image-mcp) 📇 🏠 🍎 🪟 🐧 - Generate and edit images via your own OpenAI-compatible or Gemini image APIs and save them into the project directory, with optional model fallback.
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - Anime and manga information from the AniList API.
 - [smeet666/mcp-bideetmusique](https://github.com/smeet666/mcp-bideetmusique) [![smeet666/mcp-bideetmusique MCP server](https://glama.ai/mcp/servers/smeet666/mcp-bideetmusique/badges/score.svg)](https://glama.ai/mcp/servers/smeet666/mcp-bideetmusique) 📇 ☁️ 🍎 🪟 🐧 - Search Bide & Musique's hand-catalogued collection of forgotten French songs by performer, title, writer, lyrics, label or year, and read full records.
+- [pratham-jain33/icon-mcp](https://github.com/pratham-jain33/icon-mcp) [![pratham-jain33/icon-mcp MCP server](https://glama.ai/mcp/servers/pratham-jain33/icon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/pratham-jain33/icon-mcp) 🐍 🏠 🍎 🪟 🐧 - Parametric icon server: generate matching SVG icon sets from 2000+ bundled Lucide icons in one call, with shared stroke width, color and size. Offline, zero keys. `uvx icon-mcp`.
 
 ### 📐 <a name="architecture-and-design"></a>Architecture & Design
 
