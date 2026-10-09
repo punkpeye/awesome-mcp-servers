@@ -3731,6 +3731,12 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [AG-Bureau/mcp-search](https://github.com/AG-Bureau/mcp-search) [![AG-Bureau/mcp-search MCP server](https://glama.ai/mcp/servers/AG-Bureau/mcp-search/badges/score.svg)](https://glama.ai/mcp/servers/AG-Bureau/mcp-search) 🐍 🏠 - Search, page reading, images, screenshots and multi-source answers over your own SearXNG, reporting which engines were queried and what to distrust.
 - [double2dev/boltpatternhq-mcp](https://github.com/double2dev/boltpatternhq-mcp) [![double2dev/boltpatternhq-mcp MCP server](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp/badges/score.svg)](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp) 📇 ☁️ - Official MCP Server for BoltPatternHQ providing AI assistants with instant automotive wheel fitment, PCD, center bore, and offset reference data.
 
+### 💼 <a name="jobs"></a>Jobs
+
+MCP servers for job search and career platforms.
+
+- [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+
 ### 🔒 <a name="security"></a>Security
 
 - [tunahanaliozturk/derbent](https://github.com/tunahanaliozturk/derbent) [![tunahanaliozturk/derbent MCP server](https://glama.ai/mcp/servers/tunahanaliozturk/derbent/badges/score.svg)](https://glama.ai/mcp/servers/tunahanaliozturk/derbent) 🏎️ 🏠 🍎 🪟 🐧 - One local gate for Claude Code, Codex, Copilot CLI and Antigravity: allow, deny and ask rules over MCP and built-in tool calls, approvals from a terminal UI, and hash-chained receipts.
