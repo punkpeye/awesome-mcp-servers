@@ -45,8 +45,9 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 ## Community
 
-* [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [MCPList.site](https://mcplist.site) - Open directory of MCP servers with trust scores, security scanning, and user reviews
+* [r/mcp Reddit](https://www.reddit.com/r/mcp)
 
 ## Legend
 
