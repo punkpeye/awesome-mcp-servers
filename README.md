@@ -3986,6 +3986,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) [![Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker MCP server](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker/badges/score.svg)](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) 🐍 🏠 🐧 🪟 🍎 - Deterministic execution governance gateway and W3C DID security guardrail for AI agent MCP tool calls.
 - [Jimil-Joshi/blastradius-mcp](https://github.com/Jimil-Joshi/blastradius-mcp) [![Jimil-Joshi/blastradius-mcp MCP server](https://glama.ai/mcp/servers/Jimil-Joshi/blastradius-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Jimil-Joshi/blastradius-mcp) 📇 🏠 🍎 🪟 🐧 - Zero-trust security proxy, pre-execution blast radius simulation, DLP secret redaction, and cryptographic audit logging for MCP.
 
+- [MichaelS1011/ephemora-cell](https://github.com/MichaelS1011/ephemora-cell) [![MichaelS1011/ephemora-cell MCP server](https://glama.ai/mcp/servers/MichaelS1011/ephemora-cell/badges/score.svg)](https://glama.ai/mcp/servers/MichaelS1011/ephemora-cell) 🐍 🏠 - Capability-based WASM sandbox for MCP tools. Tools isolated via WASI (wasmtime), fuel/memory/time/I/O capped, attested `get-policy` + signed manifests fail-closed, pooled 0.5ms. `pip install ephemora-cell` `ephemora-cell-mcp`
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
