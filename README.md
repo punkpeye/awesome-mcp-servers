@@ -105,7 +105,8 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🛒 - [E-Commerce](#e-commerce)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
-* 💰 - [Finance & Fintech](#finance--fintech)
+* 💰 - [Finance & Fintech](#finance--fintech) * [CharlesStrogish/bitcoin-stratigraphy-mcp](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp) 📇 ☁️ - An enterprise-grade, L402-gated AI Notary Hub vending thermodynamic Bitcoin telemetry and OpenTimestamps state anchoring. Features a free test sandbox, 100-call Macro-Macaroon batch payments, and native LangChain/LlamaIndex cookbooks.
+
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
 * 🪪 - [Identity](#identity)
