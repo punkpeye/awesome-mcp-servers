@@ -1742,6 +1742,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [Wooonster/hocr_mcp_server](https://github.com/Wooonster/hocr_mcp_server) 🐍 🏠 - Extract handwritten math formulas from uploaded images as LaTeX using a vision-language model, with a Vue frontend.
 - [wyattjoh/jsr-mcp](https://github.com/wyattjoh/jsr-mcp) 📇 ☁️ - Access JSR, the JavaScript Registry.
 - [xcodebuild](https://github.com/ShenghaiWang/xcodebuild) 🍎 - Build iOS Xcode workspaces or projects and feed errors back to the LLM.
+- [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) [![getsentry/XcodeBuildMCP MCP server](https://glama.ai/mcp/servers/getsentry/XcodeBuildMCP/badges/score.svg)](https://glama.ai/mcp/servers/getsentry/XcodeBuildMCP) 📇 🏠 🍎 - MCP server and CLI for iOS and macOS development: build, test and manage Xcode projects and simulators, manage signing and deployment targets, capture screenshots and UI hierarchy, tail and parse logs, and inspect Instruments and Performance frameworks.
 - [XixianLiang/HarmonyOS-mcp-server](https://github.com/XixianLiang/HarmonyOS-mcp-server) 🐍 🏠 - Device control and UI automation for HarmonyOS Next devices.
 - [xzq.xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) 📇 🏠 - JVM-based MCP server implementation.
 - [yangkyeongmo@/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) 🐍 🏠 - Connect to Apache Airflow.
