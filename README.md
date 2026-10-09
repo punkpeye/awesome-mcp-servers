@@ -396,6 +396,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [smeet666/mcp-bideetmusique](https://github.com/smeet666/mcp-bideetmusique) [![smeet666/mcp-bideetmusique MCP server](https://glama.ai/mcp/servers/smeet666/mcp-bideetmusique/badges/score.svg)](https://glama.ai/mcp/servers/smeet666/mcp-bideetmusique) 📇 ☁️ 🍎 🪟 🐧 - Search Bide & Musique's hand-catalogued collection of forgotten French songs by performer, title, writer, lyrics, label or year, and read full records.
 
 ### 📐 <a name="architecture-and-design"></a>Architecture & Design
+- [AETumiApp/aetumi-mcp](https://github.com/AETumiApp/aetumi-mcp) [![AETumiApp/aetumi-mcp MCP server](https://glama.ai/mcp/servers/AETumiApp/aetumi-mcp/badges/score.svg)](https://glama.ai/mcp/servers/AETumiApp/aetumi-mcp) 📇 ☁️ - AETumi MCP — gateway for AI coding assistants (Claude Code, Cursor, Codex) to production-ready Three.js/WebGL 3D web components, templates and interactive scenes.
 
 Design and visualize software architecture, system diagrams, and technical documentation. Enables AI models to generate professional diagrams and architectural documentation.
 
