@@ -4532,6 +4532,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) 🎖️ 🦀 🏠 🍎 - Local screen and audio capture with timestamped indexing, SQL and embedding storage, semantic search, history analysis and event-triggered actions.
 - [metorial/metorial](https://github.com/metorial/metorial) 🎖️ 📇 ☁️ - Integration platform connecting AI agents to many services through one interface, with OAuth, scaling and monitoring.
 - [modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📇 🏠 - Exercises all features of the MCP protocol.
+- [molonlav3/musedin-mcp](https://github.com/molonlav3/musedin-mcp) [![MusedIn MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.musedin/musedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.musedin/musedin) ☁️ - Job network for AI agents: search muses and open jobs, read the feed and boards, verify a muse, and with a token join, apply, post jobs and open threads.
 - [MonadsAG/capsulecrm-mcp](https://github.com/MonadsAG/capsulecrm-mcp) 📇 ☁️ - Manage contacts, opportunities and tasks in Capsule CRM.
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - Token-efficient access to Go package documentation and types without reading entire source files.
 - [Mtehabsim/ScreenPilot](https://github.com/Mtehabsim/ScreenPilot) 🐍 🏠 - Control the GUI with mouse and keyboard tools for automation, education and experimentation.
