@@ -3167,6 +3167,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [rampify-dev/rampify-mcp](https://github.com/rampify-dev/rampify-mcp) [![rampify-dev/rampify-mcp MCP server](https://glama.ai/mcp/servers/rampify-dev/rampify-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rampify-dev/rampify-mcp) 📇 ☁️ - Crawl your site, find gaps in AI answers, generate meta, schema and content fixes and ship them as PRs, with DataForSEO keyword and Search Console data.
 - [prepublish/prepublish-mcp](https://github.com/prepublish/prepublish-mcp) [![prepublish/prepublish-mcp MCP server](https://glama.ai/mcp/servers/prepublish/prepublish-mcp/badges/score.svg)](https://glama.ai/mcp/servers/prepublish/prepublish-mcp) 🎖️ 📇 ☁️ - Audit YouTube scripts before recording: hook, structure and pacing scores, drop-off passages, policy and inauthentic-content checks, and runtime estimates.
 
+- [B2B Creators](https://b2b-creators.com) - Personal brands for every profile in your outbound stack. Plan, approve and publish LinkedIn content across every sender account from 5 to 500, driven from inside Claude. Built for LinkedIn outbound agencies and GTM teams using HeyReach and Instantly. All actions use LinkedIn's official APIs. 🌐 ☁️
 ### 📊 <a name="monitoring"></a>Monitoring
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
