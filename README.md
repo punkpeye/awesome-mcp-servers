@@ -1888,6 +1888,8 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [KyuRish/mcp-dashboards](https://github.com/KyuRish/mcp-dashboards) [![mcp-dashboards MCP server](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards/badges/score.svg)](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards) 📇 🏠 🍎 🪟 🐧 - Interactive charts (bar, line, candlestick, Sankey, geo and more) and dashboards with KPI cards, drill-down, live API polling, themes and PNG/PPT export.
 
+- [liliang-cn/aigui](https://github.com/liliang-cn/aigui/tree/main/packages/mcp) 📇 🏠 🍎 🪟 🐧 - Charts, mermaid, maths, 3D scenes, molecules and infrastructure topologies whose steps play, drawn as PNGs or a live browser page; fills charts from CSV/JSON files, checks drawings for overlapping or clipped labels, and exports PDF, standalone HTML or GIF.
+
 - [marzukia/charted](https://github.com/marzukia/charted) [![marzukia/charted MCP server](https://glama.ai/mcp/servers/marzukia/charted/badges/score.svg)](https://glama.ai/mcp/servers/marzukia/charted) 🐍 🏠 🍎 🪟 🐧 - Render bar, line, pie, scatter and other charts from JSON or CSV to SVG, HTML, PNG or data URL, with built-in themes.
 
 - [MS-Teja/Glyphic](https://github.com/MS-Teja/Glyphic) [![MS-Teja/Glyphic MCP server](https://glama.ai/mcp/servers/MS-Teja/Glyphic/badges/score.svg)](https://glama.ai/mcp/servers/MS-Teja/Glyphic) 📇 🏠 - Generate architecture, ERD, sequence, flowchart, Gantt and other diagrams from structured JSON as SVG or PNG, without a headless browser.
