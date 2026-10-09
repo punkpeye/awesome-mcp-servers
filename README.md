@@ -3733,6 +3733,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [double2dev/boltpatternhq-mcp](https://github.com/double2dev/boltpatternhq-mcp) [![double2dev/boltpatternhq-mcp MCP server](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp/badges/score.svg)](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp) 📇 ☁️ - Official MCP Server for BoltPatternHQ providing AI assistants with instant automotive wheel fitment, PCD, center bore, and offset reference data.
 
 ### 🔒 <a name="security"></a>Security
+- **SupraWall MCP Plugin** - Deterministic policy enforcement and audit logging for MCP tool calls. Apache 2.0. [supra-wall.com](https://supra-wall.com)
 
 - [tunahanaliozturk/derbent](https://github.com/tunahanaliozturk/derbent) [![tunahanaliozturk/derbent MCP server](https://glama.ai/mcp/servers/tunahanaliozturk/derbent/badges/score.svg)](https://glama.ai/mcp/servers/tunahanaliozturk/derbent) 🏎️ 🏠 🍎 🪟 🐧 - One local gate for Claude Code, Codex, Copilot CLI and Antigravity: allow, deny and ask rules over MCP and built-in tool calls, approvals from a terminal UI, and hash-chained receipts.
 - [fredyee/hallucc-mcp](https://github.com/fredyee/hallucc-mcp) [![fredyee/hallucc-mcp MCP server](https://glama.ai/mcp/servers/fredyee/hallucc-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fredyee/hallucc-mcp) 📇 ☁️ - Claim-level hallucination detection with sources, agent trajectory verification, risk gating for computer-use actions and prompt-injection defense.
