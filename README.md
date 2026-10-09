@@ -2600,6 +2600,7 @@ Access health metrics, wellness data, and medical information through various he
 - [io.github.PhilipAD/health-export-mcp](https://github.com/PhilipAD/health-export-mcp) [![io.github.PhilipAD/health-export-mcp MCP server](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp/badges/score.svg)](https://glama.ai/mcp/servers/PhilipAD/health-export-mcp) 🍎 🏠 - Read-only, local-first queries of Apple Health metrics.
 - [proscar87/oura-mcp](https://github.com/proscar87/oura-mcp) [![proscar87/oura-mcp MCP server](https://glama.ai/mcp/servers/proscar87/oura-mcp/badges/score.svg)](https://glama.ai/mcp/servers/proscar87/oura-mcp) 🐍 📇 🏠 ☁️ 🍎 🪟 🐧 - Raw access to all Oura Ring API v2 collections with full pagination and page counts, without server-side analysis.
 - [Thecimal/quantified-self-mcp](https://github.com/Thecimal/quantified-self-mcp) [![Thecimal/quantified-self-mcp MCP server](https://glama.ai/mcp/servers/Thecimal/quantified-self-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Thecimal/quantified-self-mcp) 🐍 🏠 - Query personal health and finance data stored in local SQLite files, without any cloud service.
+- [simkessy/icarus](https://github.com/simkessy/icarus) 🐍 ☁️ - Adaptive running coach MCP server: athlete profile, activities, sleep, HRV, training load, plans, recovery status and run debriefs for runners, via a hosted Streamable HTTP endpoint (per-user API key).
 
 ### 🏠 <a name="home-automation"></a>Home Automation
 
