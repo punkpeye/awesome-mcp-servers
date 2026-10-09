@@ -297,6 +297,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 
 - [kinti/a11y-toolkit](https://github.com/kinti/a11y-toolkit) [![kinti/a11y-toolkit MCP server](https://glama.ai/mcp/servers/kinti/a11y-toolkit/badges/score.svg)](https://glama.ai/mcp/servers/kinti/a11y-toolkit) 🐍 🏠 - WCAG 2.2 accessibility tools: color contrast checks including text over images, EU accessibility declaration generation and an aria-live announcement monitor.
 - [vince-gonzalez/opticquiz-mcp](https://github.com/vince-gonzalez/opticquiz-mcp) [![vince-gonzalez/opticquiz-mcp MCP server](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp) 📇 🏠 🍎 🪟 🐧 - Color-vision accessibility: check palettes and images for colorblind safety, generate safe palettes, simulate color blindness and create Ishihara-style plates.
+- [wisechef-ai/loopskill-api](https://github.com/wisechef-ai/loopskill-api) 🐍 ☁️ - Skill, loop and bundle marketplace for AI agents: search, install and compose skills across a curated catalog plus a 100k+ federated index. Hosted StreamableHTTP endpoint at `https://app.loopskill.io/api/mcp/http/`; self-hostable, MPL-2.0.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
