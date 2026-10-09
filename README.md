@@ -113,6 +113,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
+* 🏭 - [Manufacturing & Fabrication](#manufacturing--fabrication)
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
@@ -3054,6 +3055,12 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding via Nominatim, ArcGIS and Bing.
 - [930m310n/geomelon-mcp](https://github.com/930m310n/geomelon-mcp) [![930m310n/geomelon-mcp MCP server](https://glama.ai/mcp/servers/930m310n/geomelon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/930m310n/geomelon-mcp) 🎖️ 📇 ☁️ - Cities, countries, regions and languages with multilingual names, plus place autocomplete.
 - [ArtBreguez/greeks-mcp](https://github.com/ArtBreguez/greeks-mcp) [![ArtBreguez/greeks-mcp MCP server](https://glama.ai/mcp/servers/ArtBreguez/greeks-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ArtBreguez/greeks-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Live options analytics: Greeks, GEX/DEX and gamma flip, max pain, unusual flow, IV surface, expected move, term structure, a screener and GEX heatmap.
+
+### 🏭 <a name="manufacturing--fabrication"></a>Manufacturing & Fabrication
+
+Turn agent intent into physical parts — specification, design-for-manufacture review, quoting, and sourcing of things that do not exist yet (distinct from Industrial & IoT, which connects agents to equipment that already exists).
+
+- [Deadlypillow/a2a2p](https://github.com/Deadlypillow/a2a2p) [![Deadlypillow/a2a2p MCP server](https://glama.ai/mcp/servers/Deadlypillow/a2a2p/badges/score.svg)](https://glama.ai/mcp/servers/Deadlypillow/a2a2p) 📇 ☁️ - Turns agent intent into manufacturable parts. Describe what must be true about the world ("holds 15kg, outdoors, ten years") and get a deterministic engineering review — material properties, process/tolerance compatibility, environment fit, quantity economics — plus pricing and lead time. Measures attached STL meshes for true volume and bounding box. Open protocol: the specification is public domain (CC0) and implementable by anyone. No API key.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
