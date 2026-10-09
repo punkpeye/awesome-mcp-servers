@@ -435,6 +435,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - あなたの [Ragie](https://www.ragie.ai) (RAG) ナレッジベースから、Google Drive、Notion、JIRAなどの連携サービスに接続されたコンテキストを取得します。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - MongoDBを使用して複数のLLMからのメモリを保存・取得するMCPサーバー。タイムスタンプとLLM識別を含む会話メモリの保存、取得、追加、クリアのためのツールを提供します。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 異なるAIモデルが協力し、会話間でコンテキストを共有できるようにするクロスLLM通信とメモリ共有を可能にするMCPサーバー。
+- [samvallad33/vestige](https://github.com/samvallad33/vestige) [![samvallad33/vestige MCP server](https://glama.ai/mcp/servers/samvallad33/vestige/badges/score.svg)](https://glama.ai/mcp/servers/samvallad33/vestige) 🦀 🏠 🍎 🪟 🐧 - AI エージェントのための因果証明エンジン兼オペレーティングシステム。追記専用の署名付きログ Strata の上に構築。ベクトルも RAG も使わない。すべての回答に証明（メモリ id、エッジのパス、またはレシート）が付く。障害を引き起こしたコミットまで遡って特定する。エージェントメモリはサブシステムの一つ。
 
 ### ⚖️ <a name="legal"></a>法律
 

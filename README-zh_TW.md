@@ -355,6 +355,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - 從您的 [Ragie](https://www.ragie.ai) (RAG) 知識庫中檢索上下文，可連接至 Google Drive、Notion、JIRA 等多種整合服務。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - 一個 MCP 伺服器，使用 MongoDB 儲存和檢索來自多個 LLM 的記憶。提供用於儲存、檢索、新增和清除帶有時間戳和 LLM 識別的對話記憶的工具。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 一個 MCP 伺服器，實現跨 LLM 通訊和記憶共享，使不同的 AI 模型能夠在對話間協作和共享上下文。
+- [samvallad33/vestige](https://github.com/samvallad33/vestige) [![samvallad33/vestige MCP server](https://glama.ai/mcp/servers/samvallad33/vestige/badges/score.svg)](https://glama.ai/mcp/servers/samvallad33/vestige) 🦀 🏠 🍎 🪟 🐧 - 面向 AI 代理的因果證明引擎與作業系統，建構於只追加的簽名日誌 Strata 之上。零向量，零 RAG。每個回答都附帶證明：記憶 id、邊路徑或回執。可將故障追溯到引發它的提交。代理記憶是其中一個子系統。
 
 ### ⚖️ <a name="legal"></a>法律
 
