@@ -2271,6 +2271,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [kukapay/chainlist-mcp](https://github.com/kukapay/chainlist-mcp) 📇 ☁️ - Verified EVM chain information: RPC URLs, chain IDs, explorers and native tokens.
 - [kukapay/cointelegraph-mcp](https://github.com/kukapay/cointelegraph-mcp) 🐍 ☁️ - Real-time access to the latest Cointelegraph news.
 - [kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) 🐍 ☁️ - Real-time and historical Crypto Fear & Greed Index data.
+- [kontragentpro/kontragentpro-mcp](https://github.com/kontragentpro/kontragentpro-mcp) [![kontragentpro/kontragentpro-mcp MCP server](https://glama.ai/mcp/servers/kontragentpro/kontragentpro-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kontragentpro/kontragentpro-mcp) 🐍 ☁️ - Russian company data from state registers by INN or OGRN: registry profile, financial statements, tax records, inspections and an event timeline.
 - [kukapay/crypto-funds-mcp](https://github.com/kukapay/crypto-funds-mcp) 🐍 ☁️ - Structured, real-time data on cryptocurrency investment funds.
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) 🐍 ☁️ - Cryptocurrency technical analysis indicators and strategies.
 - [kukapay/crypto-liquidations-mcp](https://github.com/kukapay/crypto-liquidations-mcp) 🐍 ☁️ - Streams real-time cryptocurrency liquidation events from Binance.
