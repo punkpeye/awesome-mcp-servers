@@ -45,6 +45,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 ## Community
 
+* [Protodex](https://protodex.io) - Discover 5,618+ MCP servers with security scores, one-click install configs for Claude Desktop/Code/Cursor, and organized by category.
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
 
