@@ -2954,6 +2954,8 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [dat999zx/knowl](https://github.com/dat999zx/knowl) [![dat999zx/knowl MCP server](https://glama.ai/mcp/servers/dat999zx/knowl/badges/score.svg)](https://glama.ai/mcp/servers/dat999zx/knowl) 📇 🏠 🍎 🪟 🐧 - Persistent local memory for coding agents that retires replaced facts at write time, so agents read the current answer; facts are typed with provenance.
 - [memokar/brainy](https://github.com/memokar/brainy) [![memokar/brainy MCP server](https://glama.ai/mcp/servers/memokar/brainy/badges/score.svg)](https://glama.ai/mcp/servers/memokar/brainy) 🎖️ 🐍 🏠 🐧 - Self-hosted shared brain for multiple agents: Git-versioned Markdown knowledge plus a task queue with atomic claims, per-space ACL, audit log and human approval, so Claude, ChatGPT and other agents can hand work to each other.
 
+- [sangaraju1988/amu-pgvector](https://github.com/sangaraju1988/amu-pgvector) 🐍 ☁️ - Lineage-gated agent memory on PostgreSQL + pgvector: a cached analytical result is only served back if every sensitive column touched by its derivation is in the requester's permitted set, enforced by Postgres row-level security rather than application code.
+
 ### ⚖️ <a name="legal"></a>Legal
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 - [ad0750/regintel-mcp](https://github.com/ad0750/regintel-mcp) [![regintel-mcp MCP server](https://glama.ai/mcp/servers/ad0750/regintel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ad0750/regintel-mcp) 🐍 ☁️ - Structured regulatory data from the RegIntel API (GDPR, MiCA, DORA, SEC, FINRA, FCA and more): search, lookup, recent updates and compliance checks.
