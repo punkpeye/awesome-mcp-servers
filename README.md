@@ -1181,6 +1181,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - Query and analyze Prometheus, the open-source monitoring system.
 - [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍 - PostgreSQL performance tuning.
 - [pilat/mcp-datalink](https://github.com/pilat/mcp-datalink) 📇 🏠 - Secure access to PostgreSQL, MySQL and SQLite databases with parameterized queries and schema inspection.
+- [pixeltable/mcp-server-pixeltable-developer](https://github.com/pixeltable/mcp-server-pixeltable-developer) [![pixeltable/mcp-server-pixeltable-developer MCP server](https://glama.ai/mcp/servers/pixeltable/mcp-server-pixeltable-developer/badges/score.svg)](https://glama.ai/mcp/servers/pixeltable/mcp-server-pixeltable-developer) 🐍 🏠 - Build, inspect and operate Pixeltable multimodal data apps: tables, computed columns, embedding indexes and FastAPI routes.
 - [planetscale/mcp](https://github.com/planetscale/cli?tab=readme-ov-file#mcp-server-integration) - Built into the PlanetScale CLI: direct access to your PlanetScale databases.
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) 🐍 🏠 - Qdrant integration.
 - [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) 📇 🏠 - MongoDB integration for interacting directly with databases.
