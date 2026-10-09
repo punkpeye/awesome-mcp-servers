@@ -732,6 +732,7 @@ Cloud platform service integration. Enables management and interaction with clou
 
 Code execution servers. Allow LLMs to execute code in a secure environment, e.g. for coding agents.
 
+- [agend-sh/cli](https://github.com/agend-sh/cli) 🎖️ 🏎️ ☁️ 🍎 🪟 🐧 - Persistent Linux environments with interactive PTY sessions, input-wait event feedback, background tasks, file transfers and HTTPS previews. Local stdio MCP server; requires an agend account.
 - [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) 📇 🏠 - Run JavaScript snippets in isolated Docker sandboxes with on-the-fly npm dependency installation and clean teardown.
 - [alvii147/piston-mcp](https://github.com/alvii147/piston-mcp) 🐍 ☁️ 🐧 🍎 🪟 - Execute code through the Piston remote code execution engine.
 - [asif-nvc/e2b-sandbox-mcp](https://github.com/asif-nvc/e2b-sandbox-mcp) [![asif-nvc/e2b-sandbox-mcp MCP server](https://glama.ai/mcp/servers/asif-nvc/e2b-sandbox-mcp/badges/score.svg)](https://glama.ai/mcp/servers/asif-nvc/e2b-sandbox-mcp) 📇 ☁️ 🍎 🪟 🐧 - E2B cloud sandboxes: create isolated Linux VMs, clone repos, run commands, manage files and perform git operations without touching the local machine.
