@@ -103,6 +103,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
 * 🛒 - [E-Commerce](#e-commerce)
+* 🧺 - [Laundry & Dry Cleaning](#laundry-and-dry-cleaning)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
@@ -1990,6 +1991,12 @@ MCP servers for e-commerce platforms and online store management.
 - [ztemerbekov/a1-yandex-kit-skills](https://github.com/ztemerbekov/a1-yandex-kit-skills) [![ztemerbekov/a1-yandex-kit-skills MCP server](https://glama.ai/mcp/servers/ztemerbekov/a1-yandex-kit-skills/badges/score.svg)](https://glama.ai/mcp/servers/ztemerbekov/a1-yandex-kit-skills) 📇 ☁️ - Yandex KIT e-commerce platform: manage products and variants, prices, orders, discounts, promo codes, collections, warehouses and webhooks.
 - [ilyautov/chestny-znak-mcp-ru](https://github.com/ilyautov/chestny-znak-mcp-ru) [![ilyautov/chestny-znak-mcp-ru MCP server](https://glama.ai/mcp/servers/ilyautov/chestny-znak-mcp-ru/badges/score.svg)](https://glama.ai/mcp/servers/ilyautov/chestny-znak-mcp-ru) 🐍 🏠 🍎 🪟 🐧 - Chestny ZNAK (Russian mandatory product marking, GIS MT and SUZ) API: marking codes, emission orders, circulation documents and code checks.
 - [dearlordylord/voila-sdk](https://github.com/dearlordylord/voila-sdk) [![dearlordylord/voila-sdk MCP server](https://glama.ai/mcp/servers/dearlordylord/voila-sdk/badges/score.svg)](https://glama.ai/mcp/servers/dearlordylord/voila-sdk) 📇 ☁️ 🏠 🍎 🪟 🐧 - Personal Voila grocery automation: search products, check discounts, list delivery slots, read cart and order history and update cart quantities.
+
+### 🧺 <a name="laundry-and-dry-cleaning"></a>Laundry & Dry Cleaning
+
+MCP servers for laundromat, dry cleaning, and alterations POS platforms.
+
+- [sanjibani/cleancloud-mcp](https://github.com/sanjibani/cleancloud-mcp) 🐍 ☁️ - First MCP server for the CleanCloud POS API. 9 tools covering orders, order summary, invoices, payments, customers, business accounts, repeat pickups, and pickup availability. CleanCloud serves 2,500+ shops in 90+ countries. 31 tests, ruff + mypy --strict clean. MIT.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
