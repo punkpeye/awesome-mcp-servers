@@ -67,6 +67,7 @@
 * 🧬 - [生物學、醫學與生物資訊學](#biology-and-medicine)
 * 🎨 - [藝術與文化](#art-and-culture)
 * ☁️ - [雲端平台](#cloud-platforms)
+* 👨‍💻 - [程式碼執行](#code-execution)
 * 🖥️ - [命令行](#command-line)
 * 💬 - [社交](#communication)
 * 👤 - [數據平台](#customer-data-platforms)
@@ -158,6 +159,12 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 - [weibaohui/kom](https://github.com/weibaohui/kom) - 🏎️ ☁️/🏠 提供MCP多集群k8s管理操作，可作為SDK集成到您自己的項目中，內建近50種工具，覆蓋常見運維開發場景，支援常規資源、CRD資源。
 - [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - 一個與 Tilt 整合的 Model Context Protocol 伺服器，為 Kubernetes 開發環境提供對 Tilt 資源、日誌和管理操作的程式化存取。
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S 是一個 AI 驅動的 Kubernetes 資源管理工具，通過自然語言交互方式，讓用戶能夠輕鬆操作 Kubernetes 集群中的任意資源，包括原生資源（如 Deployment、Service）和自定義資源（CRD）。無需記憶複雜命令，只需描述需求，AI 就能準確執行對應的集群操作，大大提升了 Kubernetes 的易用性。
+
+### 👨‍💻 <a name="code-execution"></a>程式碼執行
+
+程式碼執行伺服器。允許大型語言模型在安全環境中執行程式碼，例如供程式設計代理使用。
+
+- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — 為 AI 代理提供受限命令與檔案操作的 MCP 伺服器。透過明確的允許清單限制命令執行，可個別停用每項工具，並支援自動產生的驗證權杖。在不開放無限制 shell 的情況下，提供受限的 Unix 命令、檔案操作、套用修補程式及 URL 擷取功能。
 
 ### 🖥️ <a name="command-line"></a>Command Line
 

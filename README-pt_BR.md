@@ -190,6 +190,7 @@ Integração de serviços de plataforma em nuvem. Permite o gerenciamento e inte
 
 Servidores de execução de código. Permitem que LLMs executem código em um ambiente seguro, por exemplo, para agentes de codificação.
 
+- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — Um servidor MCP com restrições de comandos e operações de arquivos para agentes de IA. Limita a execução de comandos por meio de uma lista de permissões explícita, permite desativar cada ferramenta individualmente e oferece suporte a tokens de autenticação gerados automaticamente. Fornece comandos Unix restritos, operações de arquivos, aplicação de patches e busca de URLs sem expor um shell irrestrito.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute qualquer código gerado por LLM em um ambiente sandbox seguro e escalável e crie suas próprias ferramentas MCP usando JavaScript ou Python, com suporte completo para pacotes NPM e PyPI
 
 ### 🤖 <a name="agentes-de-codificação"></a>Agentes de Codificação

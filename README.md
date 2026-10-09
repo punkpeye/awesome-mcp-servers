@@ -729,6 +729,7 @@ Cloud platform service integration. Enables management and interaction with clou
 
 Code execution servers. Allow LLMs to execute code in a secure environment, e.g. for coding agents.
 
+- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — A constrained command and file-operation MCP server for AI agents. Limits command execution through an explicit allowlist, lets every tool be individually disabled, and supports automatically generated authentication tokens. Provides constrained Unix commands, file operations, patching, and URL fetching without exposing an unrestricted shell.
 - [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) 📇 🏠 - Run JavaScript snippets in isolated Docker sandboxes with on-the-fly npm dependency installation and clean teardown.
 - [alvii147/piston-mcp](https://github.com/alvii147/piston-mcp) 🐍 ☁️ 🐧 🍎 🪟 - Execute code through the Piston remote code execution engine.
 - [asif-nvc/e2b-sandbox-mcp](https://github.com/asif-nvc/e2b-sandbox-mcp) [![asif-nvc/e2b-sandbox-mcp MCP server](https://glama.ai/mcp/servers/asif-nvc/e2b-sandbox-mcp/badges/score.svg)](https://glama.ai/mcp/servers/asif-nvc/e2b-sandbox-mcp) 📇 ☁️ 🍎 🪟 🐧 - E2B cloud sandboxes: create isolated Linux VMs, clone repos, run commands, manage files and perform git operations without touching the local machine.
@@ -750,6 +751,8 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 - [telleroutlook/agentkit-js/mcp-server](https://github.com/telleroutlook/agentkit-js/tree/main/packages/mcp-server) [![telleroutlook/agentkit-js MCP server](https://glama.ai/mcp/servers/telleroutlook/agentkit-js/badges/score.svg)](https://glama.ai/mcp/servers/telleroutlook/agentkit-js) 📇 ☁️ 🏠 🐧 🍎 🪟 - Code-mode MCP server: collapses user-defined tools into code execution plus docs search, sandboxed in node:vm, WASM or remote microVMs.
 - [The-40-Thieves/codecalc](https://github.com/The-40-Thieves/codecalc) [![The-40-Thieves/codecalc MCP server](https://glama.ai/mcp/servers/The-40-Thieves/codecalc/badges/score.svg)](https://glama.ai/mcp/servers/The-40-Thieves/codecalc) 🐍 🏠 🍎 🪟 🐧 - Code and logic calculator with an offline core: run code, exact symbolic math, SMT/logic and complexity analysis, with optional gVisor/AppContainer sandboxing.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Run LLM-generated code in a YepCode sandbox and create custom MCP tools in JavaScript or Python with npm and PyPI packages.
+
+
 ### 🤖 <a name="coding-agents"></a>Coding Agents
 
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.

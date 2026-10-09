@@ -84,6 +84,7 @@
 * 🎨 - [艺术与文化](#art-and-culture)
 * 🧬 - [生物学、医学和生物信息学](#bio)
 * ☁️ - [云平台](#cloud-platforms)
+* 👨‍💻 - [代码执行](#code-execution)
 * 🤖 - [编程智能体](#coding-agents)
 * 🖥️ - [命令行](#command-line)
 * 💬 - [社交](#communication)
@@ -185,6 +186,12 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - 一个与 Tilt 集成的 Model Context Protocol 服务器，为 Kubernetes 开发环境提供对 Tilt 资源、日志和管理操作的程序化访问。
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 MCP-K8S 是一个 AI 驱动的 Kubernetes 资源管理工具，通过自然语言交互方式，让用户能够轻松操作 Kubernetes 集群中的任意资源，包括原生资源（如 Deployment、Service）和自定义资源（CRD）。无需记忆复杂命令，只需描述需求，AI 就能准确执行对应的集群操作，大大提升了 Kubernetes 的易用性。
 - [portainer/portainer-mcp](https://github.com/portainer/mcp-server) 🏎️ ☁️/🏠 - 一个用于管理 Portainer 容器管理平台的 MCP 服务器，支持通过自然语言交互来管理容器、镜像、网络和卷等资源。
+
+### 👨‍💻 <a name="code-execution"></a>代码执行
+
+代码执行服务器。允许大语言模型在安全环境中执行代码，例如用于编程智能体。
+
+- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — 面向 AI 智能体的受限命令和文件操作 MCP 服务器。通过明确的允许列表限制命令执行，可单独禁用每个工具，并支持自动生成身份验证令牌。在不暴露无限制 shell 的情况下，提供受限 Unix 命令、文件操作、补丁应用和 URL 获取功能。
 
 ### 🤖 <a name="coding-agents"></a>编程智能体
 
