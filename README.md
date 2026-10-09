@@ -107,6 +107,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [Gaming](#gaming)
+* 🚪 - [Gateways & Proxies](#gateways-and-proxies)
 * 🏠 - [Home Automation](#home-automation)
 * 🪪 - [Identity](#identity)
 * 🏭 - [Industrial & IoT](#industrial--iot)
@@ -2570,6 +2571,10 @@ Integration with gaming related data, game engines, and services
 - [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) 📇 🏠 🍎 🪟 🐧 - Godot game engine integration: scene editing, scripting, animation, tilemaps, shaders, input simulation and runtime debugging.
 - [HadiCherkaoui/crafty-mcp](https://github.com/HadiCherkaoui/crafty-mcp) [![HadiCherkaoui/crafty-mcp MCP server](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp) 📇 🏠 🍎 🪟 🐧 - Manage Minecraft servers via the Crafty Controller 4 API: start, stop, back up, send commands and manage files, schedules, webhooks and users.
 - [yanjingzhaisun/cozyvtt-mcp](https://github.com/yanjingzhaisun/cozyvtt-mcp) [![yanjingzhaisun/cozyvtt-mcp MCP server](https://glama.ai/mcp/servers/yanjingzhaisun/cozyvtt-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yanjingzhaisun/cozyvtt-mcp) 🐍 🏠 🍎 🪟 🐧 - Run campaigns as game master in CozyVTT, a self-hosted virtual tabletop: dice, chat narration, tokens and maps, initiative, character sheets and rulebooks.
+
+### 🚪 <a name="gateways-and-proxies"></a>Gateways & Proxies
+
+- [JUSICK/Argos-mcp-guardrail](https://github.com/JUSICK/Argos-mcp-guardrail) 🦀 🤖 🔒 🐧 🪟 🍎 🏠 - A lightweight, sub-millisecond security shim and policy gateway for MCP servers written in Rust.
 
 ### 🏥 <a name="health-and-wellness"></a>Health & Wellness
 
