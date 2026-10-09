@@ -47,6 +47,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [MCP Servers Directory](https://renhongtao2-cell.github.io/mcpdirectory/) – A curated web-based catalog of MCP servers, browsable by category with search and free submissions.
 
 ## Legend
 
