@@ -1899,6 +1899,8 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [nteract/semiotic](https://github.com/nteract/semiotic) [![nteract/semiotic MCP server](https://glama.ai/mcp/servers/nteract/semiotic/badges/score.svg)](https://glama.ai/mcp/servers/nteract/semiotic) 📇 🏠 🍎 🪟 🐧 - Semiotic React data visualization: suggest charts for a dataset, render validated configs to SVG, diagnose anti-patterns and fetch component schemas.
 
+- [xkqg/MatPlotLibNet](https://github.com/xkqg/MatPlotLibNet) #️⃣ 🏠 🍎 🪟 🐧 - Charts an agent can look at. Hand it the JSON for a figure and it renders a PNG and says in one line what it drew; ask for SVG or PDF and it writes the file and tells you where. 83 chart types, from a line plot to a candlestick to a 3-D surface, and the spec is checked before anything is drawn, so a typo comes back named instead of blank. Runs on your machine as a .NET tool.
+
 ### 📟 <a name="embedded-system"></a>Embedded System
 
 Provides access to documentation and shortcuts for working on embedded devices.
