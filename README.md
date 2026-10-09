@@ -3739,6 +3739,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [AG-Bureau/mcp-search](https://github.com/AG-Bureau/mcp-search) [![AG-Bureau/mcp-search MCP server](https://glama.ai/mcp/servers/AG-Bureau/mcp-search/badges/score.svg)](https://glama.ai/mcp/servers/AG-Bureau/mcp-search) 🐍 🏠 - Search, page reading, images, screenshots and multi-source answers over your own SearXNG, reporting which engines were queried and what to distrust.
 - [double2dev/boltpatternhq-mcp](https://github.com/double2dev/boltpatternhq-mcp) [![double2dev/boltpatternhq-mcp MCP server](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp/badges/score.svg)](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp) 📇 ☁️ - Official MCP Server for BoltPatternHQ providing AI assistants with instant automotive wheel fitment, PCD, center bore, and offset reference data.
 
+- [MIt9/perplexity-pro-mcp](https://github.com/MIt9/perplexity-pro-mcp) [![MIt9/perplexity-pro-mcp MCP server](https://glama.ai/mcp/servers/MIt9/perplexity-pro-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/perplexity-pro-mcp) 📇 🏠 🍎 🪟 🐧 - MCP server for Perplexity AI Pro — deep web search, follow-up questions, conversation threads and export via your browser session cookie. Zero-config npx install.
+
 ### 🔒 <a name="security"></a>Security
 
 - [tunahanaliozturk/derbent](https://github.com/tunahanaliozturk/derbent) [![tunahanaliozturk/derbent MCP server](https://glama.ai/mcp/servers/tunahanaliozturk/derbent/badges/score.svg)](https://glama.ai/mcp/servers/tunahanaliozturk/derbent) 🏎️ 🏠 🍎 🪟 🐧 - One local gate for Claude Code, Codex, Copilot CLI and Antigravity: allow, deny and ask rules over MCP and built-in tool calls, approvals from a terminal UI, and hash-chained receipts.
