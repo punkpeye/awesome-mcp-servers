@@ -3986,6 +3986,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker](https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) [![Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker MCP server](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker/badges/score.svg)](https://glama.ai/mcp/servers/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker) 🐍 🏠 🐧 🪟 🍎 - Deterministic execution governance gateway and W3C DID security guardrail for AI agent MCP tool calls.
 - [Jimil-Joshi/blastradius-mcp](https://github.com/Jimil-Joshi/blastradius-mcp) [![Jimil-Joshi/blastradius-mcp MCP server](https://glama.ai/mcp/servers/Jimil-Joshi/blastradius-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Jimil-Joshi/blastradius-mcp) 📇 🏠 🍎 🪟 🐧 - Zero-trust security proxy, pre-execution blast radius simulation, DLP secret redaction, and cryptographic audit logging for MCP.
 
+- [Ventrova/sentinel-scan-cli](https://github.com/Ventrova/sentinel-scan-cli) 🐍 📇 🏠 - Not an MCP server itself: a free, offline CLI that runs a 15-attack prompt-injection test suite against your own LLM endpoint, no API key or cloud upload required. Useful for vetting LLM backends before wiring them into MCP tool calls. `pip install sentinel-scan-cli` or `npm i -g sentinel-scan-cli`.
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
