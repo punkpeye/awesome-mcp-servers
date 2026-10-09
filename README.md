@@ -1896,6 +1896,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
 
 - [ganapativs/microcharts](https://github.com/ganapativs/microcharts/tree/main/packages/mcp) [![ganapativs/microcharts MCP server](https://glama.ai/mcp/servers/ganapativs/microcharts/badges/score.svg)](https://glama.ai/mcp/servers/ganapativs/microcharts) 📇 🏠 🍎 🪟 🐧 - Word-sized charts (sparklines, bars, bullets and more) rendered to self-contained SVG with generated alt text, plus chart suggestions for a given question.
+- [Haswell119/chartbytes-mcp](https://github.com/Haswell119/chartbytes-mcp) [![Haswell119/chartbytes-mcp MCP server](https://glama.ai/mcp/servers/Haswell119/chartbytes-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Haswell119/chartbytes-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Render bar, pie, donut, line and area charts to a static PNG/SVG URL via the hosted ChartBytes API, returned inline or as a paste-ready markdown/img snippet. Free 500 renders/mo; Pro unlocks dark/brand themes.
 
 - [kleinicke/ply-visualizer](https://github.com/kleinicke/ply-visualizer) [![kleinicke/ply-visualizer MCP server](https://glama.ai/mcp/servers/kleinicke/ply-visualizer/badges/score.svg)](https://glama.ai/mcp/servers/kleinicke/ply-visualizer) 🐍 🏠 🍎 🪟 🐧 - Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.
 
