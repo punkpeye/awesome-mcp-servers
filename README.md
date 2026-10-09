@@ -3046,6 +3046,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 - [webcoderz/MCP-Geo](https://github.com/webcoderz/MCP-Geo) 🐍 🏠 - Geocoding via Nominatim, ArcGIS and Bing.
 - [930m310n/geomelon-mcp](https://github.com/930m310n/geomelon-mcp) [![930m310n/geomelon-mcp MCP server](https://glama.ai/mcp/servers/930m310n/geomelon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/930m310n/geomelon-mcp) 🎖️ 📇 ☁️ - Cities, countries, regions and languages with multilingual names, plus place autocomplete.
 - [ArtBreguez/greeks-mcp](https://github.com/ArtBreguez/greeks-mcp) [![ArtBreguez/greeks-mcp MCP server](https://glama.ai/mcp/servers/ArtBreguez/greeks-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ArtBreguez/greeks-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Live options analytics: Greeks, GEX/DEX and gamma flip, max pain, unusual flow, IV surface, expected move, term structure, a screener and GEX heatmap.
+- [paperandbeyond23-gif/restosignal](https://github.com/paperandbeyond23-gif/restosignal) 🐍 ☁️ - Find restaurants and bars 1-6 months before they open, fused from public US liquor-license, food-permit and new-business-filing data into scored venues with owner contact.
 
 ### 🎯 <a name="marketing"></a>Marketing
 
