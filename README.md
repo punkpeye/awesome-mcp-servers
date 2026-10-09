@@ -1740,6 +1740,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [XixianLiang/HarmonyOS-mcp-server](https://github.com/XixianLiang/HarmonyOS-mcp-server) 🐍 🏠 - Device control and UI automation for HarmonyOS Next devices.
 - [xzq.xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) 📇 🏠 - JVM-based MCP server implementation.
 - [yangkyeongmo@/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) 🐍 🏠 - Connect to Apache Airflow.
+- [yaniswav/TopicForge](https://github.com/yaniswav/TopicForge) [![yaniswav/TopicForge MCP server](https://glama.ai/mcp/servers/yaniswav/TopicForge/badges/score.svg)](https://glama.ai/mcp/servers/yaniswav/TopicForge) 🐍 🏠 🍎 🪟 🐧 - Read-only ROS 2 and DDS inspection: topics, message samples, rosbags, QoS mismatches and DDS participants across vendors. No write path: it cannot publish or command a robot.
 - [yanmxa/scriptflow-mcp](https://github.com/yanmxa/scriptflow-mcp) 📇 🏠 - Turns repetitive AI interactions into persistent, executable Bash, Python, Node.js or TypeScript scripts.
 - [ycs77/apifable](https://github.com/ycs77/apifable) [![apifable MCP server](https://glama.ai/mcp/servers/ycs77/apifable/badges/score.svg)](https://glama.ai/mcp/servers/ycs77/apifable) 📇 🏠 - Explore OpenAPI specs, search endpoints and generate TypeScript types.
 - [yikakia/godoc-mcp-server](https://github.com/yikakia/godoc-mcp-server) 🏎️ ☁️ 🪟 🐧 🍎 - Query Go package information on pkg.go.dev.
