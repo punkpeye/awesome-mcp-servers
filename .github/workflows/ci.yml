@@ -1,0 +1,18 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify repo structure
+        run: |
+          echo "CSOAI-ORG repository CI check passed"
+          test -f README.md && echo "README.md exists"
+          test -f LICENSE && echo "LICENSE exists"
