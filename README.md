@@ -3773,6 +3773,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [smeet666/mcp-supertoinette](https://github.com/smeet666/mcp-supertoinette) [![smeet666/mcp-supertoinette MCP server](https://glama.ai/mcp/servers/smeet666/mcp-supertoinette/badges/score.svg)](https://glama.ai/mcp/servers/smeet666/mcp-supertoinette) 📇 ☁️ 🍎 🪟 🐧 - Read Supertoinette's French recipes: ingredients, steps, difficulty, cost, resting time and wine pairings, and rescale to any number of people.
 - [AG-Bureau/mcp-search](https://github.com/AG-Bureau/mcp-search) [![AG-Bureau/mcp-search MCP server](https://glama.ai/mcp/servers/AG-Bureau/mcp-search/badges/score.svg)](https://glama.ai/mcp/servers/AG-Bureau/mcp-search) 🐍 🏠 - Search, page reading, images, screenshots and multi-source answers over your own SearXNG, reporting which engines were queried and what to distrust.
 - [double2dev/boltpatternhq-mcp](https://github.com/double2dev/boltpatternhq-mcp) [![double2dev/boltpatternhq-mcp MCP server](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp/badges/score.svg)](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp) 📇 ☁️ - Official MCP Server for BoltPatternHQ providing AI assistants with instant automotive wheel fitment, PCD, center bore, and offset reference data.
+- [Timur99/PDF2Text](https://github.com/Timur99/PDF2Text) 🐍 🏠 🍎 - Extract text and Markdown from local PDFs and images, using native PDF text first and Apple Vision OCR on macOS. No OCR API key required.
 
 ### 🔒 <a name="security"></a>Security
 
