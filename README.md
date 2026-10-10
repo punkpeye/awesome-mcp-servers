@@ -883,6 +883,8 @@ Run commands, capture output and otherwise interact with shells and command line
 - [Easton-OU/rootpilot-mcp](https://github.com/Easton-OU/rootpilot-mcp) [![Easton-OU/rootpilot-mcp MCP server](https://glama.ai/mcp/servers/Easton-OU/rootpilot-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Easton-OU/rootpilot-mcp) 📇 🏠 🍎 🪟 🐧 - Read-only SSH diagnostics for Linux and Docker servers using a fixed command allowlist, with secret redaction and per-command timeouts.
 - [tarides/sudo-proxy](https://github.com/tarides/sudo-proxy) [![tarides/sudo-proxy MCP server](https://glama.ai/mcp/servers/tarides/sudo-proxy/badges/score.svg)](https://glama.ai/mcp/servers/tarides/sudo-proxy) 🦀 🏠 🐧 - Run privileged commands locally or over SSH, each gated by a single-keypress human approval before sudo, with audit logging and no stored password.
 
+- [shaguocgl/buff-term](https://github.com/shaguocgl/buff-term) 🦀 🏠 🍎 🪟 - Desktop SSH/SFTP manager that exposes your servers as an MCP server: run commands, read files and query resource usage, with token auth, three permission modes and dangerous-command approval.
+
 ### 💬 <a name="communication"></a>Communication
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
