@@ -21,7 +21,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Tutorials](#tutorials)
 * [Community](#community)
 * [Legend](#legend)
-* [Server Implementations](#server-implementations) 
+* [Server Implementations](#server-implementations)
 * [Frameworks](#frameworks)
 * [Tips & Tricks](#tips-and-tricks)
 
@@ -1844,7 +1844,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [LS-SIEM-LLP/qa-probe](https://github.com/LS-SIEM-LLP/qa-probe) [![LS-SIEM-LLP/qa-probe MCP server](https://glama.ai/mcp/servers/LS-SIEM-LLP/qa-probe/badges/score.svg)](https://glama.ai/mcp/servers/LS-SIEM-LLP/qa-probe) 📇 🏠 🍎 🪟 🐧 - Probe live APIs and classify why each endpoint failed, with root cause, evidence and confidence. Supports FastAPI, Express, Next.js, tRPC and GraphQL.
 - [zyqzyq/Unfour](https://github.com/zyqzyq/Unfour) [![Unfour MCP server](https://glama.ai/mcp/servers/zyqzyq/Unfour/badges/score.svg)](https://glama.ai/mcp/servers/zyqzyq/Unfour) 🦀 🏠 🪟 🍎 - Local-first backend dev workspace: API debugging, SSH, database and diagnostics tools, with scoped safety policies and confirmation for risky actions.
 - [getproxykit/proxykit-mcp](https://github.com/getproxykit/proxykit-mcp) [![getproxykit/proxykit-mcp MCP server](https://glama.ai/mcp/servers/getproxykit/proxykit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/getproxykit/proxykit-mcp) 🏎️ 🏠 🍎 🪟 🐧 - Drive the local ProxyKit MITM debugging proxy: inspect HTTP(S), gRPC and WebSocket traffic, create mocks and rewrites, replay requests and run chaos scenarios.
-  
+
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
@@ -2643,6 +2643,7 @@ Connect AI agents to industrial equipment, machinery, and operational technology
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 
+- [Round-Tower/M1K3](https://github.com/Round-Tower/M1K3) 🏠 🍎 - Mac app (Apple Silicon) serving 18 tools over token-gated loopback HTTP: search your own notes and PDFs, a temporal memory graph that supersedes stale facts, an on-device LLM via `ask_m1k3`, and neural voice in and out. Source-available.
 - [kyle-visner/stellarjay](https://github.com/kyle-visner/stellarjay) [![kyle-visner/stellarjay MCP server](https://glama.ai/mcp/servers/kyle-visner/stellarjay/badges/score.svg)](https://glama.ai/mcp/servers/kyle-visner/stellarjay) 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - Safe write access for AI agents: an append-only business fact store where every change is kept, attributed to the agent that made it, and can be undone (`undo_changes`). Self-host with `stellarjay-mcp` or use the hosted AvianSuite server.
 - [dockndevai/ossian-mcp](https://github.com/dockndevai/ossian-mcp) [![dockndevai/ossian-mcp MCP server](https://glama.ai/mcp/servers/dockndevai/ossian-mcp/badges/score.svg)](https://glama.ai/mcp/servers/dockndevai/ossian-mcp) 📇 🏠 🍎 🪟 🐧 - RAG over your own documents with cited passages, plus durable agent memory ranked by relevance, importance and recency; read-only by default.
 - [anuragsync78/subctx-connector](https://github.com/anuragsync78/subctx-connector) [![anuragsync78/subctx-connector MCP server](https://glama.ai/mcp/servers/anuragsync78/subctx-connector/badges/score.svg)](https://glama.ai/mcp/servers/anuragsync78/subctx-connector) 📇 ☁️ - Support center for autonomous artificial minds.
