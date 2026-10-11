@@ -1130,6 +1130,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 Provides the ability to handle multimedia, such as audio and video editing, playback, format conversion, also includes video filters, enhancements, and so on
 
 - [AIDC-AI/Pixelle-MCP](https://github.com/AIDC-AI/Pixelle-MCP) 🐍 📇 🏠 🎥 🔊 🖼️ - An omnimodal AIGC framework that seamlessly converts ComfyUI workflows into MCP tools with zero code, enabling full-modal support for Text, Image, Sound, and Video generation with Chainlit-based web interface.
+- [agent-media-ai/agent-media](https://github.com/agent-media-ai/agent-media) 📇 ☁️ - The video step for Claude/Codex UGC workflows: create captioned vertical videos, narrated b-roll overlays, reusable characters, images and voice from agent prompts.
 - [ananddtyagi/gif-creator-mcp](https://github.com/ananddtyagi/gif-creator-mcp/tree/main) 📇 🏠 - A MCP server for creating GIFs from your videos.
 - [bogdan01m/zapcap-mcp-server](https://github.com/bogdan01m/zapcap-mcp-server) 🐍 ☁️ - MCP server for ZapCap API providing video caption and B-roll generation via natural language
 - [elestirelbilinc-sketch/vap-showcase](https://github.com/elestirelbilinc-sketch/vap-showcase) 🐍 ☁️ 🍎 🪟 🐧 - AI media generation (Flux, Veo, Suno) with cost control. Pre-commit pricing, budget enforcement, reserve-burn-refund billing.
@@ -1604,4 +1605,3 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
-
