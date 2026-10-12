@@ -629,6 +629,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 
 テキストから音声への変換とその逆のためのツール。
 
+- [leemysw/yovoice](https://github.com/leemysw/yovoice) 🏎️ 🏠 🍎 🪟 🐧 - IndexTTS 2、VoxCPM2、Qwen3-TTS、OmniVoice、Kokoro によるローカル音声合成。ボイスクローンと感情コントロールに対応し、`render_score` で複数トラックの楽譜を WAV にレンダリング可能。`yovoice serve` で認証付き HTTP API と非同期タスクツールを提供。
 - [mberg/kokoro-tts-mcp](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - オープンウェイトKokoro TTSモデルを使用してテキストから音声に変換するMCPサーバー。ローカルドライブでMP3に変換するか、S3バケットに自動アップロード可能
 - [mbailey/voice-mcp](https://github.com/mbailey/voice-mcp) 🐍 🏠 - ローカルマイク、OpenAI互換API、LiveKit統合を通じて音声からテキスト、テキストから音声、リアルタイム音声会話をサポートする完全な音声インタラクションサーバー
 
