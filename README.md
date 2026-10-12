@@ -3086,7 +3086,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 ### 🎯 <a name="marketing"></a>Marketing
 
-- [omniforce-mcp](https://github.com/rmb/omniforce-mcp) 📇 🏠 🍎 🪩 🐧 - Audit any site's GEO/AI-search readiness and query OmniForce's tracked prompts, competitors and AI citation runs. (npm: @omniforce/mcp)
+- [omniforce-mcp](https://github.com/rmb/omniforce-mcp) 📇 🏠 🍎 🪟 🐧 - Audit any site's GEO/AI-search readiness and query OmniForce's tracked prompts, competitors and AI citation runs. (npm: @omniforce/mcp)
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
 - [A1-x-Tech/mcp-google-search-console](https://github.com/A1-x-Tech/mcp-google-search-console) [![A1-x-Tech/mcp-google-search-console MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-search-console/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-search-console) 📇 ☁️ - Google Search Console: analyze search performance, inspect URL indexing and manage sitemaps.
