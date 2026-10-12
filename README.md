@@ -4684,3 +4684,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [omniforce-mcp](https://github.com/rmb/omniforce-mcp) - Audit any site's GEO/AI-search readiness and query OmniForce's tracked prompts, competitors and citation runs. (npm: @omniforce/mcp)
