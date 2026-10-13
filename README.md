@@ -113,6 +113,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
+- [eddyflores100-lang/alethech](https://github.com/eddyflores100-lang/alethech) [![eddyflores100-lang/alethech MCP server](https://glama.ai/mcp/servers/eddyflores100-lang/alethech/badges/score.svg)](https://glama.ai/mcp/servers/eddyflores100-lang/alethech) 📇 🏠 🍎 🪟 🐧 - Verifiable Ed25519-signed agent memory chain with fail-closed verification; offline-first TF-IDF recall (zero LLM tokens at runtime), artifact audit, durable snapshots with zero secret leakage, and a measured 42-second disaster-recovery drill.
 * 🎯 - [Marketing](#marketing)
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
