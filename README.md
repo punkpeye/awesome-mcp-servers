@@ -1077,6 +1077,8 @@ Tools for encrypting and decrypting data.
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
 [-](https://github.com/atushi1841/awesome-mcp-servers) - [**@atushi1841**'s Kensho Japan Data MCP Bundle](https://github.com/atushi1841?query=kensho) 🐍 ☁️ - 16 servers covering Japanese e-commerce (Rakuten, Mercari), real estate, TCG card prices, fuel/utility data, and anime figures. Registry: [registry.modelcontextprotocol.io](https://registry.modelcontextprotocol.io)
 
+[-](https://github.com/atushi1841/awesome-mcp-servers) - [**@atushi1841**'s Kensho Japan Data MCP Bundle](https://github.com/atushi1841?query=kensho) 🐍 ☁️ - 16 servers covering Japanese e-commerce (Rakuten, Mercari), real estate, TCG card prices, fuel/utility data, and anime figures. Registry: [registry.modelcontextprotocol.io](https://registry.modelcontextprotocol.io)
+
 
 Provides access to customer profiles inside of customer data platforms
 
