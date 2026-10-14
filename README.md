@@ -1966,6 +1966,7 @@ MCP servers for learning management systems (LMS) and educational tools.
 
 MCP servers for e-commerce platforms and online store management.
 
+- [clo-paz/is-agentic-mcp](https://github.com/clo-paz/is-agentic-mcp) 📇 ☁️ - Read-only Is Agentic storefront catalog search, collections and gift recommendations, with cart links for customer-approved checkout via a public Streamable HTTP endpoint.
 - [HasData/walmart-mcp](https://github.com/HasData/walmart-mcp) [![HasData/walmart-mcp MCP server](https://glama.ai/mcp/servers/HasData/walmart-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/walmart-mcp) 📇 ☁️ - Walmart data as JSON: search results, product pages with the buy-box seller and customer reviews from Walmart US and Canada.
 - [HasData/amazon-mcp](https://github.com/HasData/amazon-mcp) [![HasData/amazon-mcp MCP server](https://glama.ai/mcp/servers/HasData/amazon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/amazon-mcp) 📇 ☁️ - Amazon data as JSON: keyword search, product details by ASIN, reviews, seller profiles and seller catalogs across marketplaces.
 - [A1-x-Tech/mcp-yandex-merchants](https://github.com/A1-x-Tech/mcp-yandex-merchants) [![A1-x-Tech/mcp-yandex-merchants MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-yandex-merchants/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-yandex-merchants) 📇 ☁️ - Yandex Merchants API: product feeds, offer prices, discounts and hiding or unhiding offers in Yandex Search.
