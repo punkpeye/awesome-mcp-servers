@@ -4036,6 +4036,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
 
+- [Thorarinsson22/smart-post-studio-mcp](https://github.com/Thorarinsson22/smart-post-studio-mcp) 📇 ☁️ - Read, draft and schedule social media posts to 8 platforms (Instagram, X, TikTok, LinkedIn, YouTube, Threads, Facebook, Fanvue). No "post now" tool by design: everything lands in a human-visible queue.
 - [HasData/instagram-mcp](https://github.com/HasData/instagram-mcp) [![HasData/instagram-mcp MCP server](https://glama.ai/mcp/servers/HasData/instagram-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/instagram-mcp) 📇 ☁️ - Public Instagram data: profiles and post feeds by handle, with follower counts, captions, hashtags and mentions parsed as JSON.
 - [HasData/facebook-mcp](https://github.com/HasData/facebook-mcp) [![HasData/facebook-mcp MCP server](https://glama.ai/mcp/servers/HasData/facebook-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/facebook-mcp) 📇 ☁️ - Public Facebook pages and profiles as JSON: likes, followers, talking-about counts, contact details and post feeds with reactions.
 - [HasData/youtube-mcp](https://github.com/HasData/youtube-mcp) [![HasData/youtube-mcp MCP server](https://glama.ai/mcp/servers/HasData/youtube-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/youtube-mcp) 📇 ☁️ - YouTube search, video and channel data and transcripts as JSON.
