@@ -2543,7 +2543,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
-
+- [flipzitcg/flipzi-mcp](https://github.com/flipzitcg/flipzi-mcp) [![flipzitcg/flipzi-mcp MCP server](https://glama.ai/mcp/servers/flipzitcg/flipzi-mcp/badges/score.svg)](https://glama.ai/mcp/servers/flipzitcg/flipzi-mcp) 📇 ☁️ 🍎 🪟 🐧 - Trading card prices for Pokémon, Magic, Yu-Gi-Oh!, One Piece, Lorcana and more: current prices, eBay sold comps, price history, market movers and sealed-box value. Bring your own key; free plan available.
 - [26048608982lp-ai/gamenumerics](https://github.com/26048608982lp-ai/gamenumerics) [![26048608982lp-ai/gamenumerics MCP server](https://glama.ai/mcp/servers/26048608982lp-ai/gamenumerics/badges/score.svg)](https://glama.ai/mcp/servers/26048608982lp-ai/gamenumerics) 📇 🏠 🍎 🪟 🐧 - Game balance design and auditing: import xlsx config tables, audit growth curves, simulate battle and gacha systems, and reverse-engineer spreadsheet formulas.
 - [3aKHP/prts-mcp](https://github.com/3aKHP/prts-mcp) [![3aKHP/prts-mcp MCP server](https://glama.ai/mcp/servers/3aKHP/prts-mcp/badges/score.svg)](https://glama.ai/mcp/servers/3aKHP/prts-mcp) 🐍 📇 ☁️ 🏠 - Arknights game data via the PRTS Wiki API, with auto-synced operator archives and voice lines for fan-work creation.
 - [antics-gg/antics-mcp](https://github.com/antics-gg/antics-mcp) [![antics-gg/antics-mcp MCP server](https://glama.ai/mcp/servers/antics-gg/antics-mcp/badges/score.svg)](https://glama.ai/mcp/servers/antics-gg/antics-mcp) 📇 ☁️ - Deploy a single-file HTML game to a shareable multiplayer URL with rooms, state sync and leaderboards, without a backend or player accounts.
