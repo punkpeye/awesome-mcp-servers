@@ -407,6 +407,7 @@
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - Google Drive, Notion, JIRA 등과 같은 통합 서비스에 연결된 [Ragie](https://www.ragie.ai) (RAG) 지식 베이스에서 컨텍스트를 검색합니다.
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - MongoDB를 사용하여 여러 LLM의 메모리를 저장하고 검색하는 MCP 서버. 타임스탬프와 LLM 식별을 포함한 대화 메모리의 저장, 검색, 추가 및 삭제를 위한 도구를 제공합니다.
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 다른 AI 모델이 협력하고 대화 간에 컨텍스트를 공유할 수 있게 하는 크로스 LLM 통신 및 메모리 공유를 가능하게 하는 MCP 서버.
+- [IvenKooLab/loci](https://github.com/IvenKooLab/loci) [![IvenKooLab/loci MCP server](https://glama.ai/mcp/servers/IvenKooLab/loci/badges/score.svg)](https://glama.ai/mcp/servers/IvenKooLab/loci) 🐍 🏠 🍎 🪟 🐧 - 흩어진 노트, 문서, PDF, 채팅 내보내기를 아우르는 질의 가능한 "세컨드 브레인": 하이브리드 검색(벡터 + BM25를 RRF로 융합), 섹션 단위 출처 인용, 선택적 주장별 검증 패스, Obsidian 스타일 위키링크 그래프. 완전 로컬, 모든 OpenAI 호환 API 지원, Ollama로 100% 오프라인 가능. `pip install loci-rag`
 
 ### ⚖️ <a name="legal"></a>법률
 
