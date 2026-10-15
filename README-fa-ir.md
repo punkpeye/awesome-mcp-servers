@@ -1065,6 +1065,7 @@
 ابزارهایی برای تبدیل متن به گفتار و بالعکس
 
 - [daisys-ai/daisys-mcp](https://github.com/daisys-ai/daisys-mcp) 🐍 🏠 🍎 🪟 🐧 - تولید خروجی‌های تبدیل متن به گفتار و متن به صدا با کیفیت بالا با استفاده از پلتفرم [DAISYS](https://www.daisys.ai/) و امکان پخش و ذخیره صدای تولید شده.
+- [leemysw/yovoice](https://github.com/leemysw/yovoice) 🏎️ 🏠 🍎 🪟 🐧 - تبدیل متن به گفتار به‌صورت محلی با شبیه‌سازی صدا و کنترل احساس (IndexTTS 2، VoxCPM2، Qwen3-TTS، OmniVoice، Kokoro) و ابزار `render_score` برای تبدیل پارتیتورهای چندتراکی به WAV. با `yovoice serve` همراه با HTTP API دارای احراز هویت و ابزارهای کار ناهمگام اجرا می‌شود.
 - [mbailey/voice-mcp](https://github.com/mbailey/voice-mcp) 🐍 🏠 - سرور تعامل صوتی کامل که از تبدیل گفتار به متن، تبدیل متن به گفتار و مکالمات صوتی بی‌درنگ از طریق میکروفون محلی، APIهای سازگار با OpenAI و یکپارچه‌سازی LiveKit پشتیبانی می‌کند
 - [mberg/kokoro-tts-mcp](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - سرور MCP که از مدل‌های Kokoro TTS با وزن باز برای تبدیل متن به گفتار استفاده می‌کند. می‌تواند متن را به MP3 در یک درایو محلی تبدیل کند یا به طور خودکار به یک سطل S3 آپلود کند.
 - [transcribe-app/mcp-transcribe](https://github.com/transcribe-app/mcp-transcribe) 📇 🏠 - این سرویس رونویسی‌های سریع و قابل اعتمادی را برای فایل‌های صوتی/تصویری و یادداشت‌های صوتی فراهم می‌کند. این به LLMها امکان تعامل با محتوای متنی فایل‌های صوتی/تصویری را می‌دهد.
