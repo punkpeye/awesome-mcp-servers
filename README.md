@@ -47,6 +47,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [mcpappdirectory.com](https://mcpappdirectory.com) — Curated directory of the best MCP servers with search and filter
 
 ## Legend
 
