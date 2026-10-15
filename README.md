@@ -1925,6 +1925,8 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [MS-Teja/Glyphic](https://github.com/MS-Teja/Glyphic) [![MS-Teja/Glyphic MCP server](https://glama.ai/mcp/servers/MS-Teja/Glyphic/badges/score.svg)](https://glama.ai/mcp/servers/MS-Teja/Glyphic) 📇 🏠 - Generate architecture, ERD, sequence, flowchart, Gantt and other diagrams from structured JSON as SVG or PNG, without a headless browser.
 
+- [nuncaeslupus/drawspec](https://github.com/nuncaeslupus/drawspec) 🐍 🏠 🍎 🪟 🐧 - Declarative JSON diagram spec rendered to themeable SVG. The format has no coordinates, so an LLM can write a correct diagram; `validate`, `render` and `kinds` tools.
+
 - [oscarleoo/chartlink-agents](https://github.com/oscarleoo/chartlink-agents) [![oscarleoo/chartlink-agents MCP server](https://glama.ai/mcp/servers/oscarleoo/chartlink-agents/badges/score.svg)](https://glama.ai/mcp/servers/oscarleoo/chartlink-agents) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Charts, maps and sortable tables with live-updating embed links: draft, preview and publish, then update the data and every embed follows.
 
 - [pushtodisplay/cli](https://github.com/pushtodisplay/cli) [![Push To Display MCP server](https://glama.ai/mcp/servers/pushtodisplay/cli/badges/score.svg)](https://glama.ai/mcp/servers/pushtodisplay/cli) 📇 🏠 🍎 🪟 🐧 - Send structured content to boards in the Push To Display app on iOS and Android, route updates to specific panels and render them in real time.
