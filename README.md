@@ -3424,6 +3424,8 @@ Servers for controlling the desktop operating system: screenshots, window manage
 
 - [Dominic-DK/askew-mcp](https://github.com/Dominic-DK/askew-mcp) [![Dominic-DK/askew-mcp MCP server](https://glama.ai/mcp/servers/Dominic-DK/askew-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Dominic-DK/askew-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - Run Apple Shortcuts on an iPhone, iPad or Mac (even locked), send lock-screen notifications and receive device events over an end-to-end encrypted relay.
 
+- [kastro5/opendeck-mcp](https://github.com/kastro5/opendeck-mcp) 🐍 🏠 🪟 - Configure OpenDeck stream controllers (Elgato Stream Deck and plugin-supported decks) in natural language: keys, profiles, Multi/Toggle Actions, folders, app-based profile switching, plugins and generated icons. Changes are staged and shown as a rendered picture before a backed-up apply; title, image and settings tweaks apply instantly.
+
 ### 🎙️ <a name="podcasts"></a>Podcasts
 
 Servers for podcast analytics, search, hosting, and discovery.
