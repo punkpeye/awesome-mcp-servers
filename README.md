@@ -1861,6 +1861,8 @@ Tools and integrations that enhance the development workflow and environment man
   
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
+| [scomp-link](https://github.com/GiacomoSaccaggi/scomp_link) | End-to-end ML toolkit: train, tune, validate, detect drift/anomalies, forecast, check fairness, generate HTML reports with 39 chart types, serve models as REST API. | [Giacomo Saccaggi](https://github.com/GiacomoSaccaggi) |
+
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
 
 - [dockndevai/mcp-laya](https://github.com/dockndevai/mcp-laya) [![dockndevai/mcp-laya MCP server](https://glama.ai/mcp/servers/dockndevai/mcp-laya/badges/score.svg)](https://glama.ai/mcp/servers/dockndevai/mcp-laya) 🐍 🏠 🍎 🪟 🐧 - Fast, local, non-autoregressive System-1 decision engine as MCP tools — typed decisions (classify / score / yes-no) over text, email, tickets or JSON in 100+ languages, with calibrated confidence and no text generation, so nothing to hallucinate. Offloads routing/triage/gating judgment calls from the main model; runs on-device, offline by default. `pipx install mcp-laya`
