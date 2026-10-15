@@ -2075,10 +2075,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [willianpinho/large-file-mcp](https://github.com/willianpinho/large-file-mcp) 📇 🏠 🍎 🪟 🐧 - Large-file handling with chunking, navigation, streaming, regex search and LRU caching.
 - [Xuanwo/mcp-server-opendal](https://github.com/Xuanwo/mcp-server-opendal) 🐍 🏠 ☁️ - Access any storage backend through Apache OpenDAL.
 - [juergenkoller-software/distill-mcp](https://github.com/juergenkoller-software/distill-mcp) [![juergenkoller-software/distill-mcp MCP server](https://glama.ai/mcp/servers/juergenkoller-software/distill-mcp/badges/score.svg)](https://glama.ai/mcp/servers/juergenkoller-software/distill-mcp) 🏠 🍎 - Rename files with descriptive names via Distill, which analyzes PDF, OCR, Office, email and media content, with folder monitoring.
-- [tastenkasperle/hyperdrive-mesh](https://github.
-  com/tastenkasperle/hyperdrive-mesh) 📇 🏠 🍎 🪟 🐧 - Serverless,
-  decentralized P2P storage engine and shared memory mesh for autonomous
-  AI agents via Hyperswarm DHT and Hypercore v10.
+- [tastenkasperle/hyperdrive-mesh](https://github.com/tastenkasperle/hyperdrive-mesh) [![tastenkasperle/hyperdrive-mesh MCP server](https://glama.ai/mcp/servers/tastenkasperle/hyperdrive-mesh/badges/score.svg)](https://glama.ai/mcp/servers/tastenkasperle/hyperdrive-mesh) 📇 🏠 🍎 🪟 🐧 - Serverless, decentralized P2P storage engine and shared memory mesh for autonomous AI agents via Hyperswarm DHT and Hypercore v10.
 - [alebgl77/ftp-deploy-mcp](https://github.com/alebgl77/ftp-deploy-mcp) [![alebgl77/ftp-deploy-mcp MCP server](https://glama.ai/mcp/servers/alebgl77/ftp-deploy-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alebgl77/ftp-deploy-mcp) 📇 🏠 🍎 🪟 🐧 - Deploy files to FTP, FTPS or SFTP servers: multi-server config, recursive deploys with dry-run and excludes, path jails, read-only mode and FileZilla import.
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
