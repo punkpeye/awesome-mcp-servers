@@ -212,6 +212,7 @@ LLMがコードの読み取り、編集、実行を行い、一般的なプロ�
 
 コマンドの実行、出力の取得、シェルやコマンドラインツールとの対話。
 
+- [arthjean/paneflow](https://github.com/arthjean/paneflow) - ターミナルアプリ Paneflow のローカル読み取り専用 MCP ブリッジ。`list_panes`、`read_pane`、`search_pane` でペインを一覧表示し、出力を読み取り・検索できます。
 - [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp) [glama](https://glama.ai/mcp/servers/@freema/openclaw-mcp) 📇 ☁️ 🏠 - [OpenClaw](https://github.com/openclaw/openclaw) AIアシスタント統合用のMCPサーバー。同期/非同期ツール、OAuth 2.1認証、Claude.ai向けSSEトランスポートにより、ClaudeからOpenClawエージェントへのタスク委任を可能にします。
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - iTermへのアクセスを提供するモデルコンテキストプロトコルサーバー。コマンドを実行し、iTermターミナルで見た内容について質問することができます。
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - `run_command`と`run_script`ツールで任意のコマンドを実行。
