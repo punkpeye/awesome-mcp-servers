@@ -3400,6 +3400,7 @@ Servers for controlling the desktop operating system: screenshots, window manage
 - [munimtechnologies/munim-computer-use](https://github.com/munimtechnologies/munim-computer-use) [![munimtechnologies/munim-computer-use MCP server](https://glama.ai/mcp/servers/munimtechnologies/munim-computer-use/badges/score.svg)](https://glama.ai/mcp/servers/munimtechnologies/munim-computer-use) 🦀 📇 🏠 🍎 🪟 🐧 - Accessibility-first computer use on macOS, Windows and Linux: element IDs instead of pixels, background input, a pointer overlay and its own Chrome tab group.
 
 - [Dominic-DK/askew-mcp](https://github.com/Dominic-DK/askew-mcp) [![Dominic-DK/askew-mcp MCP server](https://glama.ai/mcp/servers/Dominic-DK/askew-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Dominic-DK/askew-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - Run Apple Shortcuts on an iPhone, iPad or Mac (even locked), send lock-screen notifications and receive device events over an end-to-end encrypted relay.
+- [Erikdai/bridge-agent](https://github.com/Erikdai/bridge-agent) 🐍 🏠 🪟 - Web agent that keeps working when a task leaves the browser: deterministic routing between the page DOM and Windows UI Automation, focus-safe execution, permission manifest, LLM-free skill replay. [![Erikdai/bridge-agent MCP server](https://glama.ai/mcp/servers/Erikdai/bridge-agent/badges/score.svg)](https://glama.ai/mcp/servers/Erikdai/bridge-agent)
 
 ### 🎙️ <a name="podcasts"></a>Podcasts
 
