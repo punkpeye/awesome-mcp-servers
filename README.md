@@ -2316,6 +2316,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [kukapay/cointelegraph-mcp](https://github.com/kukapay/cointelegraph-mcp) 🐍 ☁️ - Real-time access to the latest Cointelegraph news.
 - [kukapay/crypto-feargreed-mcp](https://github.com/kukapay/crypto-feargreed-mcp) 🐍 ☁️ - Real-time and historical Crypto Fear & Greed Index data.
 - [kukapay/crypto-funds-mcp](https://github.com/kukapay/crypto-funds-mcp) 🐍 ☁️ - Structured, real-time data on cryptocurrency investment funds.
+- [bartosz-kuc/honest-nbp-mcp](https://github.com/bartosz-kuc/honest-nbp-mcp) [![bartosz-kuc/honest-nbp-mcp MCP server](https://glama.ai/mcp/servers/bartosz-kuc/honest-nbp-mcp/badges/score.svg)](https://glama.ai/mcp/servers/bartosz-kuc/honest-nbp-mcp) 🐍 ☁️ 🍎 🪟 🐧 - National Bank of Poland (NBP) exchange rates (tables A/B/C) and gold prices, latest or historical (`get_rate`, `list_rates`, `get_rate_history`, `get_gold`, `get_gold_history`), plus `convert` at NBP mid-rates, e.g. invoices to PLN. No API key; runs locally and calls api.nbp.pl directly with no third-party middleman.
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) 🐍 ☁️ - Cryptocurrency technical analysis indicators and strategies.
 - [kukapay/crypto-liquidations-mcp](https://github.com/kukapay/crypto-liquidations-mcp) 🐍 ☁️ - Streams real-time cryptocurrency liquidation events from Binance.
 - [kukapay/crypto-news-mcp](https://github.com/kukapay/crypto-news-mcp) 🐍 ☁️ - Real-time cryptocurrency news from NewsData.
