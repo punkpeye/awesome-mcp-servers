@@ -137,6 +137,10 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
+
+- [musi22/mcpshield](https://github.com/musi22/mcpshield) [![musi22/mcpshield MCP server](https://glama.ai/mcp/servers/musi22/mcpshield/badges/score.svg)](https://glama.ai/mcp/servers/musi22/mcpshield) 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - Enterprise security gateway, deterministic policy engine, passive vulnerability scanner, and human-in-the-loop approval platform for Model Context Protocol. Live cloud console at https://mcpshield.onrender.com.
+
+
 Servers for accessing many apps and tools through a single MCP server.
 - [402signalhq/402signal](https://github.com/402signalhq/402signal) [![402Signal MCP server](https://glama.ai/mcp/servers/402signalhq/402signal/badges/score.svg)](https://glama.ai/mcp/servers/402signalhq/402signal) 🐍 ☁️ - Checks and validates live x402 payment routes across Base, Solana and Algorand.
 - [GarphenGate/moltline-mcp](https://github.com/GarphenGate/moltline-mcp) [![GarphenGate/moltline-mcp MCP server](https://glama.ai/mcp/servers/GarphenGate/moltline-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GarphenGate/moltline-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Bridge to Moltline Studio's hosted MCP servers: code review, agent governance, business math, regulatory deadlines, crypto tax lots, routing and optimization.
