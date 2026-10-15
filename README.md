@@ -1911,6 +1911,8 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 - [tufantunc/axiom-advanced-math-mcp](https://github.com/tufantunc/axiom-advanced-math-mcp) [![tufantunc/axiom-advanced-math-mcp MCP server](https://glama.ai/mcp/servers/tufantunc/axiom-advanced-math-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tufantunc/axiom-advanced-math-mcp) 📇 🏠 🍎 🐧 - Offline exact symbolic math via the Giac/Xcas computer algebra system: calculus, equation solving, linear algebra, combinatorics and claim verification.
 - [hanshs474/jevx-mcp](https://github.com/hanshs474/jevx-mcp) [![hanshs474/jevx-mcp MCP server](https://glama.ai/mcp/servers/hanshs474/jevx-mcp/badges/score.svg)](https://glama.ai/mcp/servers/hanshs474/jevx-mcp) 📇 ☁️ - Run zero-shot Jev AI typed decisions with criteria defined in the request and get calibrated probabilities for every option.
 
+- [Singularis](https://pypi.org/project/singularis-mcp/) 🐍 🏠 🍎 🪟 🐧 - Unlimited computation for agents: bring your hardest problems. Free tryout; results depend on your equipment, GPU optional for even greater results. Matrix solves, matrix exponential, FFT, heat diffusion, blur and bit-exact operator compression run on your machine through a sealed shell, each returned with a verifiable check. `pip install singularis-mcp`
+
 ### 📊 <a name="data-visualization"></a>Data Visualization
 
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
