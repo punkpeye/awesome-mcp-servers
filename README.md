@@ -3423,6 +3423,7 @@ Servers for controlling the desktop operating system: screenshots, window manage
 - [munimtechnologies/munim-computer-use](https://github.com/munimtechnologies/munim-computer-use) [![munimtechnologies/munim-computer-use MCP server](https://glama.ai/mcp/servers/munimtechnologies/munim-computer-use/badges/score.svg)](https://glama.ai/mcp/servers/munimtechnologies/munim-computer-use) 🦀 📇 🏠 🍎 🪟 🐧 - Accessibility-first computer use on macOS, Windows and Linux: element IDs instead of pixels, background input, a pointer overlay and its own Chrome tab group.
 
 - [Dominic-DK/askew-mcp](https://github.com/Dominic-DK/askew-mcp) [![Dominic-DK/askew-mcp MCP server](https://glama.ai/mcp/servers/Dominic-DK/askew-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Dominic-DK/askew-mcp) 📇 🏠 ☁️ 🍎 🪟 🐧 - Run Apple Shortcuts on an iPhone, iPad or Mac (even locked), send lock-screen notifications and receive device events over an end-to-end encrypted relay.
+- [mandalacomputer/mcp](https://github.com/mandalacomputer/mcp) [![mandalacomputer/mcp MCP server](https://glama.ai/mcp/servers/mandalacomputer/mcp/badges/score.svg)](https://glama.ai/mcp/servers/mandalacomputer/mcp) 🎖️ 📇 ☁️ 🐧 - Cloud Linux desktops for AI agents: create a computer, take screenshots, click, type and drag, read open windows, or hand it a whole task with `run_agent`. Also hosted at `https://app.mandala.computer/mcp` with OAuth.
 
 ### 🎙️ <a name="podcasts"></a>Podcasts
 
