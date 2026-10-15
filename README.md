@@ -95,17 +95,21 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🔑 - [Cryptography](#cryptography)
 * 👤 - [Customer Data Platforms](#customer-data-platforms)
 * 🗄️ - [Databases](#databases)
-* 📊 - [Data Platforms](#data-platforms)
+* 📊 - [Data Platforms](#data-platforms- [x402 CleanWeb Agent](https://github.com/nohosa001-pixel/x402-cleanweb-agent) 🪙 - Autonomous Web3 x402 micropayment MCP suite on Polygon for clean web markdown, batch scraping, YouTube transcripts, and PDF papers.
+)
 * 🚚 - [Delivery](#delivery)
 * 🛠️ - [Developer Tools](#developer-tools)
-* 🧮 - [Data Science Tools](#data-science-tools)
+* 🧮 - [Data Science Tools](#data-science-tools- [x402 CleanWeb Agent](https://github.com/nohosa001-pixel/x402-cleanweb-agent) 🪙 - Autonomous Web3 x402 micropayment MCP suite on Polygon for clean web markdown, batch scraping, YouTube transcripts, and PDF papers.
+)
 * 📊 - [Data Visualization](#data-visualization)
 * 📟 - [Embedded system](#embedded-system)
 * 🎓 - [Education](#education)
-* 🛒 - [E-Commerce](#e-commerce)
+* 🛒 - [E-Commerce](#e-commerce- [x402 CleanWeb Agent](https://github.com/nohosa001-pixel/x402-cleanweb-agent) 🪙 - Autonomous Web3 x402 micropayment MCP suite on Polygon for clean web markdown, batch scraping, YouTube transcripts, and PDF papers.
+)
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
-* 💰 - [Finance & Fintech](#finance--fintech)
+* 💰 - [Finance & Fintech](#finance--fintech- [x402 CleanWeb Agent](https://github.com/nohosa001-pixel/x402-cleanweb-agent) 🪙 - Autonomous Web3 x402 micropayment MCP suite on Polygon for clean web markdown, batch scraping, YouTube transcripts, and PDF papers.
+)
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
 * 🪪 - [Identity](#identity)
@@ -114,7 +118,8 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
 * 🎯 - [Marketing](#marketing)
-* 📊 - [Monitoring](#monitoring)
+* 📊 - [Monitoring](#monitoring- [x402 CleanWeb Agent](https://github.com/nohosa001-pixel/x402-cleanweb-agent) 🪙 - Autonomous Web3 x402 micropayment MCP suite on Polygon for clean web markdown, batch scraping, YouTube transcripts, and PDF papers.
+)
 * 🎥 - [Multimedia Process](#multimedia-process)
 * 🖥️ - [OS Automation](#os-automation)
 * 🎙️ - [Podcasts](#podcasts)
