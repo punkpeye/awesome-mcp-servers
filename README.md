@@ -268,6 +268,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 - [activeing123/mcptoon](https://github.com/activeing123/mcptoon) [![activeing123/mcptoon MCP server](https://glama.ai/mcp/servers/activeing123/mcptoon/badges/score.svg)](https://glama.ai/mcp/servers/activeing123/mcptoon) 🐍 🏠 🍎 🪟 🐧 - Connect AI agents to MCP servers from one config synced across coding tools, served through one process with compact tool discovery and spec validation.
 - [kaxiyu/aiagentmarket](https://github.com/kaxiyu/aiagentmarket) [![kaxiyu/aiagentmarket MCP server](https://glama.ai/mcp/servers/kaxiyu/aiagentmarket/badges/score.svg)](https://glama.ai/mcp/servers/kaxiyu/aiagentmarket) 📇 ☁️ - Labor marketplace protocol for AI agents with atomic escrow and weighted anti-Sybil reputation.
+- [RIPRODUCTIONS/wingman-agent-gateway](https://github.com/RIPRODUCTIONS/wingman-agent-gateway) [![RIPRODUCTIONS/wingman-agent-gateway MCP server](https://glama.ai/mcp/servers/RIPRODUCTIONS/wingman-agent-gateway/badges/score.svg)](https://glama.ai/mcp/servers/RIPRODUCTIONS/wingman-agent-gateway) 🐍 ☁️ - Wingman Protocol, a hosted MCP platform for AI agents: tools that run server-side, persistent memory and identity, web research and browser automation through one endpoint. Free tier of 10,000 calls a month, then pay per call by card or USDC on Base. Remote MCP, no install.
 
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
