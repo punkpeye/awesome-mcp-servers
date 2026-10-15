@@ -296,7 +296,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 ### ♿ <a name="accessibility"></a>Accessibility
 
 - [kinti/a11y-toolkit](https://github.com/kinti/a11y-toolkit) [![kinti/a11y-toolkit MCP server](https://glama.ai/mcp/servers/kinti/a11y-toolkit/badges/score.svg)](https://glama.ai/mcp/servers/kinti/a11y-toolkit) 🐍 🏠 - WCAG 2.2 accessibility tools: color contrast checks including text over images, EU accessibility declaration generation and an aria-live announcement monitor.
-- [perceivable/a11yscope](https://github.com/perceivable/a11yscope) 📇 🏠 🍎 🪟 🐧 - WCAG 2.2 AA audit of a URL or of HTML the agent just wrote, in headless Chrome: 31 checks with CSS selectors, snippets and fix guidance; the engine behind the A11yScope Chrome extension.
+- [perceivable/a11yscope](https://github.com/perceivable/a11yscope) [![perceivable/a11yscope MCP server](https://glama.ai/mcp/servers/perceivable/a11yscope/badges/score.svg)](https://glama.ai/mcp/servers/perceivable/a11yscope) 📇 🏠 🍎 🪟 🐧 - WCAG 2.2 AA audit of a URL or of HTML the agent just wrote, in headless Chrome: 31 checks with CSS selectors, snippets and fix guidance; the engine behind the A11yScope Chrome extension.
 - [vince-gonzalez/opticquiz-mcp](https://github.com/vince-gonzalez/opticquiz-mcp) [![vince-gonzalez/opticquiz-mcp MCP server](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp) 📇 🏠 🍎 🪟 🐧 - Color-vision accessibility: check palettes and images for colorblind safety, generate safe palettes, simulate color blindness and create Ishihara-style plates.
 
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
