@@ -1199,6 +1199,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [openlink/mcp-server-odbc](https://github.com/OpenLinkSoftware/mcp-odbc-server) 🐍 🏠 - Generic database (DBMS) connectivity via ODBC.
 - [openlink/mcp-server-sqlalchemy](https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server) 🐍 🏠 - Generic database (DBMS) connectivity via SQLAlchemy using pyodbc.
 - [ofershap/mcp-server-sqlite](https://github.com/ofershap/mcp-server-sqlite) [![mcp-server-sqlite MCP server](https://glama.ai/mcp/servers/ofershap/mcp-server-sqlite/badges/score.svg)](https://glama.ai/mcp/servers/ofershap/mcp-server-sqlite) 📇 🏠 - SQLite operations: query databases, inspect schemas, explain queries and export data.
+- [OtterMind/sqlx](https://github.com/OtterMind/sqlx) 🦀 🏠 🍎 🐧 🪟 - Database CLI for agents: 31 engines over one binary, datasources saved encrypted, credentials entered by the human, and complete structured results.
 - [pab1it0/adx-mcp-server](https://github.com/pab1it0/adx-mcp-server) 🐍 ☁️ - Query and analyze Azure Data Explorer databases.
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - Query and analyze Prometheus, the open-source monitoring system.
 - [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍 - PostgreSQL performance tuning.
