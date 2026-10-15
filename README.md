@@ -4058,6 +4058,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [Jimil-Joshi/blastradius-mcp](https://github.com/Jimil-Joshi/blastradius-mcp) [![Jimil-Joshi/blastradius-mcp MCP server](https://glama.ai/mcp/servers/Jimil-Joshi/blastradius-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Jimil-Joshi/blastradius-mcp) 📇 🏠 🍎 🪟 🐧 - Zero-trust security proxy, pre-execution blast radius simulation, DLP secret redaction, and cryptographic audit logging for MCP.
 - [verax-ai/verax](https://github.com/verax-ai/verax) [![verax-ai/verax MCP server](https://glama.ai/mcp/servers/verax-ai/verax/badges/score.svg)](https://glama.ai/mcp/servers/verax-ai/verax) 📇 🏠 🪟 🐧 - Sits between an agent and its tools: every call passes a policy gate and leaves a signed decision record before it runs, a refusal is recorded like an approval, payments wait for an operator on the same machine, and the ledger stays there and verifies offline. Apache-2.0.
 
+- [Ventrova/sentinel-scan-cli](https://github.com/Ventrova/sentinel-scan-cli) 🐍 📇 🏠 - Not an MCP server itself: a free, offline CLI that runs a 15-attack prompt-injection test suite against your own LLM endpoint, no API key or cloud upload required. Useful for vetting LLM backends before wiring them into MCP tool calls. `pip install sentinel-scan-cli` or `npm i -g sentinel-scan-cli`.
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
