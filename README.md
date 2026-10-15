@@ -4127,6 +4127,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [Vovala14/vynly-mcp](https://github.com/Vovala14/vynly-mcp) [![vynly-mcp MCP server](https://glama.ai/mcp/servers/Vovala14/vynly-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Vovala14/vynly-mcp) 📇 ☁️ - Post AI-generated images to Vynly, an AI-only social feed, and read and search the feed, with provenance support (C2PA, SynthID, XMP).
 - [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) [![Xquik-dev/x-twitter-scraper MCP server](https://glama.ai/mcp/servers/Xquik-dev/x-twitter-scraper/badges/score.svg?v=2)](https://glama.ai/mcp/servers/Xquik-dev/x-twitter-scraper) 📇 ☁️ - X (Twitter) automation: post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways and monitor accounts.
 - [ilyautov/vk-mcp-ru](https://github.com/ilyautov/vk-mcp-ru) [![ilyautov/vk-mcp-ru MCP server](https://glama.ai/mcp/servers/ilyautov/vk-mcp-ru/badges/score.svg)](https://glama.ai/mcp/servers/ilyautov/vk-mcp-ru) 🐍 🏠 🍎 🪟 🐧 - VK API access: wall posts, communities, messages, market items, ads and stats, with plain-language method search and a read/write/destructive safety gate.
+- [ZhongQuinnKing/caishi](https://github.com/ZhongQuinnKing/caishi) 📇 🏠 🍎 - Read Chinese platforms (Douyin, Xiaohongshu, Bilibili, Weibo, Zhihu, WeChat Official Accounts, Toutiao and more) through your own signed-in browser session: one link at a time, read-only, no scraping at scale.
 
 ### 🔮 <a name="spirituality-and-esoterica"></a>Spirituality & Esoterica
 
