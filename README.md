@@ -111,6 +111,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🪪 - [Identity](#identity)
 * 🏭 - [Industrial & IoT](#industrial--iot)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
+- [Reasoning & Verification](#reasoning--verification)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
 * 🎯 - [Marketing](#marketing)
@@ -1865,6 +1866,8 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 
 - [dockndevai/mcp-laya](https://github.com/dockndevai/mcp-laya) [![dockndevai/mcp-laya MCP server](https://glama.ai/mcp/servers/dockndevai/mcp-laya/badges/score.svg)](https://glama.ai/mcp/servers/dockndevai/mcp-laya) 🐍 🏠 🍎 🪟 🐧 - Fast, local, non-autoregressive System-1 decision engine as MCP tools — typed decisions (classify / score / yes-no) over text, email, tickets or JSON in 100+ languages, with calibrated confidence and no text generation, so nothing to hallucinate. Offloads routing/triage/gating judgment calls from the main model; runs on-device, offline by default. `pipx install mcp-laya`
 
+- [genesis-plan/lingshu-solver](https://github.com/genesis-plan/lingshu-solver) [![genesis-plan/lingshu-solver MCP server](https://glama.ai/mcp/servers/genesis-plan/lingshu-solver/badges/score.svg)](https://glama.ai/mcp/servers/genesis-plan/lingshu-solver) 🐍 🏠 🍎 🪟 🐧 - Deterministic solver for systems of real equations (up to 6 variables / 6 decimals): interval branch-and-bound with Krawczyk certification returns verified, globally-exhaustive solutions (or proves none) with rigorous error bounds. No LLM, fully reproducible, data never leaves your machine. Ships as an npm package, stdio MCP, or hosted HTTPS MCP endpoint.
+
 - [inity13/decisionmatrix-mcp](https://github.com/inity13/decisionmatrix-mcp) [![inity13/decisionmatrix-mcp MCP server](https://glama.ai/mcp/servers/inity13/decisionmatrix-mcp/badges/score.svg)](https://glama.ai/mcp/servers/inity13/decisionmatrix-mcp) 📇 ☁️ - Deterministic multi-criteria decision analysis: rank options on weighted criteria via weighted-sum, weighted-product or TOPSIS, with sensitivity analysis.
 - [abhiphile/fermat-mcp](https://github.com/abhiphile/fermat-mcp) 🐍 🏠 🍎 🪟 🐧 - Math engine combining SymPy, NumPy and Matplotlib for symbolic algebra, numerical computing and data visualization.
 - [agmonetti/mathmethods-mcp](https://github.com/agmonetti/mathmethods-mcp) [![agmonetti/mathmethods-mcp MCP server](https://glama.ai/mcp/servers/agmonetti/mathmethods-mcp/badges/score.svg)](https://glama.ai/mcp/servers/agmonetti/mathmethods-mcp) 🐍 🏠 🍎 🪟 🐧 - Numerical methods: root finding, numerical integration, differential equations (RK4) and Lagrange interpolation.
@@ -3002,6 +3005,12 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [zensation-ai/zenbrain](https://github.com/zensation-ai/zenbrain) [![zensation-ai/zenbrain MCP server](https://glama.ai/mcp/servers/zensation-ai/zenbrain/badges/score.svg)](https://glama.ai/mcp/servers/zensation-ai/zenbrain) 📇 🏠 🍎 🪟 🐧 - Seven-layer local agent memory that routes input into facts, episodes or procedures, searches all layers and consolidates repeated episodes into facts.
 - [dat999zx/knowl](https://github.com/dat999zx/knowl) [![dat999zx/knowl MCP server](https://glama.ai/mcp/servers/dat999zx/knowl/badges/score.svg)](https://glama.ai/mcp/servers/dat999zx/knowl) 📇 🏠 🍎 🪟 🐧 - Persistent local memory for coding agents that retires replaced facts at write time, so agents read the current answer; facts are typed with provenance.
 - [memokar/brainy](https://github.com/memokar/brainy) [![memokar/brainy MCP server](https://glama.ai/mcp/servers/memokar/brainy/badges/score.svg)](https://glama.ai/mcp/servers/memokar/brainy) 🎖️ 🐍 🏠 🐧 - Self-hosted shared brain for multiple agents: Git-versioned Markdown knowledge plus a task queue with atomic claims, per-space ACL, audit log and human approval, so Claude, ChatGPT and other agents can hand work to each other.
+
+### 🧩 <a name="reasoning--verification"></a>Reasoning & Verification
+
+Deterministic reasoning and formal-verification tools that give AI agents auditable, reproducible proofs (no LLM, fail-closed).
+
+- [genesis-plan/lingnao](https://github.com/genesis-plan/lingnao) [![genesis-plan/lingnao MCP server](https://glama.ai/mcp/servers/genesis-plan/lingnao/badges/score.svg)](https://glama.ai/mcp/servers/genesis-plan/lingnao) 📇 🏠 🍎 🪟 🐧 - Deterministic reasoning / formal-proof gate for AI agents: given premises plus a claim, returns verified / refuted / unknown with an auditable derivation chain (consistency, entailment, dependency synthesis). Fail-closed, no LLM, fully reproducible.
 
 ### ⚖️ <a name="legal"></a>Legal
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
