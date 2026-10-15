@@ -4496,6 +4496,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Amazon Bedrock Nova Canvas](https://github.com/zxkane/mcp-server-amazon-bedrock) 📇 ☁️ - Generate images with the Amazon Nova Canvas model.
 - [amidabuddha/jev-decision-mcp](https://github.com/amidabuddha/jev-decision-mcp) 📇 ☁️ - TypeSafe Jev typed decisions through one batched tool: classification, rubric scores and yes/no probabilities.
 - [amidabuddha/unichat-mcp-server](https://github.com/amidabuddha/unichat-mcp-server) 🐍/📇 ☁️ - Send requests to OpenAI, Mistral AI, Anthropic, xAI, Google AI or DeepSeek via a tool or predefined prompts.
+- [BonChanxxx/mcd-archive](https://github.com/BonChanxxx/mcd-archive) 🐍 🏠 - McDonald's personal data archive built on the official McDonald's MCP: profile summary (orders/stores/points/tickets/coupons/prizes), festival ticket timeline, 17-rule achievement engine and points status, all read-only.
 - [anaisbetts/mcp-installer](https://github.com/anaisbetts/mcp-installer) 🐍 🏠 - Install other MCP servers.
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) 📇 ☁️ - Fetch YouTube subtitles.
 - [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) 🐍 ☁️ - Talk to OpenAI assistants, letting Claude use any GPT model as its assistant.
