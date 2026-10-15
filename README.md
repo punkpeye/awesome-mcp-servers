@@ -4235,6 +4235,7 @@ Translation tools and services to enable AI assistants to translate content betw
 
 Tools for converting text-to-speech and vice-versa
 
+- [AudiopodAI/audiopod-mcp](https://github.com/AudiopodAI/audiopod-mcp) [![audiopod-mcp MCP server](https://glama.ai/mcp/servers/AudiopodAI/audiopod-mcp/badges/score.svg)](https://glama.ai/mcp/servers/AudiopodAI/audiopod-mcp) 🎖️ ☁️ - Hosted audio AI: transcription with speaker labels, stem separation, noise removal, audio-to-MIDI, text-to-speech, voice cloning and music over one Streamable HTTP endpoint with OAuth.
 - [daisys-ai/daisys-mcp](https://github.com/daisys-ai/daisys-mcp) 🐍 🏠 🍎 🪟 🐧 - Generate text-to-speech and text-to-voice audio with the DAISYS platform, and play and store the generated audio.
 - [fasuizu-br/brainiall-mcp-server](https://github.com/fasuizu-br/brainiall-mcp-server) [![brainiall-mcp-server MCP server](https://glama.ai/mcp/servers/fasuizu-br/brainiall-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/fasuizu-br/brainiall-mcp-server) 🐍 ☁️ - Speech tools: pronunciation assessment with phoneme-level feedback, speech-to-text with language detection and text-to-speech with multiple voices.
 - [forgemeshlabs/voice-mcp](https://github.com/forgemeshlabs/voice-mcp) [![voice-mcp MCP server](https://glama.ai/mcp/servers/forgemeshlabs/voice-mcp/badges/score.svg)](https://glama.ai/mcp/servers/forgemeshlabs/voice-mcp) 📇 ☁️ - Pay-per-call x402 speech generation on Base: multiple voices, personas and languages, speed and quality controls, OpenAI-style requests and batch audio.
