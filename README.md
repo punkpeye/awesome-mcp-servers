@@ -2530,7 +2530,7 @@ Integration with gaming related data, game engines, and services
 
 ### 🚪 <a name="gateways-and-proxies"></a>Gateways & Proxies
 
-- [JUSICK/Argos-mcp-guardrail](https://github.com/JUSICK/Argos-mcp-guardrail) 🦀 🤖 🔒 🐧 🪟 🍎 🏠 - A lightweight, sub-millisecond security shim and policy gateway for MCP servers written in Rust.
+- [JUSICK/Argos-mcp-guardrail](https://github.com/JUSICK/Argos-mcp-guardrail) [![Argos-mcp-guardrail MCP server – quality and maintenance score on Glama](https://glama.ai/mcp/servers/JUSICK/Argos-mcp-guardrail/badges/score.svg)](https://glama.ai/mcp/servers/JUSICK/Argos-mcp-guardrail) 🦀🐧🪟🍎🏠 - A lightweight, sub-millisecond security shim and policy gateway for MCP servers written in Rust.
 
 ### 🏥 <a name="health-and-wellness"></a>Health & Wellness
 
