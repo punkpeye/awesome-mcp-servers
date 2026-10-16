@@ -2026,6 +2026,9 @@ MCP servers for e-commerce platforms and online store management.
 - [ilyautov/chestny-znak-mcp-ru](https://github.com/ilyautov/chestny-znak-mcp-ru) [![ilyautov/chestny-znak-mcp-ru MCP server](https://glama.ai/mcp/servers/ilyautov/chestny-znak-mcp-ru/badges/score.svg)](https://glama.ai/mcp/servers/ilyautov/chestny-znak-mcp-ru) 🐍 🏠 🍎 🪟 🐧 - Chestny ZNAK (Russian mandatory product marking, GIS MT and SUZ) API: marking codes, emission orders, circulation documents and code checks.
 - [dearlordylord/voila-sdk](https://github.com/dearlordylord/voila-sdk) [![dearlordylord/voila-sdk MCP server](https://glama.ai/mcp/servers/dearlordylord/voila-sdk/badges/score.svg)](https://glama.ai/mcp/servers/dearlordylord/voila-sdk) 📇 ☁️ 🏠 🍎 🪟 🐧 - Personal Voila grocery automation: search products, check discounts, list delivery slots, read cart and order history and update cart quantities.
 
+
+- [atushi1841/japan-market-mcp](https://github.com/atushi1841/japan-market-mcp) [![atushi1841/japan-market-mcp MCP server](https://glama.ai/mcp/servers/atushi1841/japan-market-mcp/badges/score.svg)](https://glama.ai/mcp/servers/atushi1841/japan-market-mcp) 🐍 🏠 - Compare used-good prices across 9 Japanese secondhand shops plus Rakuten Ichiba, with MAFF food price data included. Price comparison and deal spotting for AI agents.
+- [atushi1841/japan-food-delivery-mcp](https://github.com/atushi1841/japan-food-delivery-mcp) [![atushi1841/japan-food-delivery-mcp MCP server](https://glama.ai/mcp/servers/atushi1841/japan-food-delivery-mcp/badges/score.svg)](https://glama.ai/mcp/servers/atushi1841/japan-food-delivery-mcp) 🐍 ☁️ - Uber Eats Japan data for AI agents: search restaurants, browse menus, compare delivery options and track orders through a read-only MCP interface.
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
 Provides access to environmental data and nature-related tools, services and information.
