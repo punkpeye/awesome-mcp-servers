@@ -3225,7 +3225,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 ### 📊 <a name="monitoring"></a>Monitoring
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
-
+- [asinha07/spoor](https://github.com/asinha07/spoor) [![asinha07/spoor MCP server](https://glama.ai/mcp/servers/asinha07/spoor/badges/score.svg)](https://glama.ai/mcp/servers/asinha07/spoor) 🏎️ 🏠 🍎 🪟 🐧 - Tells AI agents what changed across VictoriaMetrics, VictoriaLogs and VictoriaTraces, and where it started: a ranked, token-budgeted digest that separates root causes from echoes using trace structure.
 - [dockndevai/mcp-grafana](https://github.com/dockndevai/mcp-grafana) [![dockndevai/mcp-grafana MCP server](https://glama.ai/mcp/servers/dockndevai/mcp-grafana/badges/score.svg)](https://glama.ai/mcp/servers/dockndevai/mcp-grafana) 📇 🏠 - Safe-by-default MCP server for Grafana: search & read dashboards and the dashboard JSON model, query datasources (Prometheus/Loki/SQL via the unified query API), and inspect alert rules & annotations; in higher modes, create/update dashboards and folders, write annotations, and delete. Read-only by default with access modes, folder/datasource allowlists, and human confirmation (MCP elicitation) on deletes. `npx -y @dockndevai/mcp-grafana`
 
 - [A1-x-Tech/mcp-google-crux](https://github.com/A1-x-Tech/mcp-google-crux) [![A1-x-Tech/mcp-google-crux MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-crux/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-crux) 📇 ☁️ - Google CrUX: real-user Core Web Vitals with mobile and desktop comparison and 40-week trends.
