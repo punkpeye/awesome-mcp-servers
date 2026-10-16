@@ -4346,6 +4346,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [wkoverfield/quilt](https://github.com/wkoverfield/quilt) [![wkoverfield/quilt MCP server](https://glama.ai/mcp/servers/wkoverfield/quilt/badges/score.svg)](https://glama.ai/mcp/servers/wkoverfield/quilt) 📇 🏠 🍎 🪟 🐧 - Line-level authorship in a shared Git checkout: multiple coding agents work in one repo, each committing only its own lines, with symbol-level claims.
 - [zach-snell/bbkt](https://github.com/zach-snell/bbkt) [![bbkt MCP server](https://glama.ai/mcp/servers/zach-snell/bbkt/badges/score.svg)](https://glama.ai/mcp/servers/zach-snell/bbkt) 🏎️ ☁️ 🍎 🪟 🐧 - Bitbucket Cloud workspaces, repos, PRs, pipelines, issues and source code, hiding tools the API key cannot use.
 - [zarcherlot/code-relay](https://github.com/zarcherlot/code-relay) [![zarcherlot/code-relay MCP server](https://glama.ai/mcp/servers/zarcherlot/code-relay/badges/score.svg)](https://glama.ai/mcp/servers/zarcherlot/code-relay) 🏎️ 🏠 🍎 🪟 🐧 - Branch-scoped runbooks and cross-machine verification with auditable receipts for coding agents.
+- [zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp) [![zereight/gitlab-mcp MCP server](https://glama.ai/mcp/servers/zereight/gitlab-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zereight/gitlab-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - GitLab REST/GraphQL API: projects, merge requests, issues, pipelines, wikis, releases and more, for gitlab.com or self-hosted instances.
 
 ### 🏢 <a name="workplace-and-productivity"></a>Workplace & Productivity
 
