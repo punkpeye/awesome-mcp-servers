@@ -3475,6 +3475,9 @@ MCP servers for real estate CRM, property management, and agent workflows.
 
 - [zornade/zornade-mcp](https://github.com/zornade/zornade-mcp) [![zornade-mcp MCP server](https://glama.ai/mcp/servers/zornade/zornade-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zornade/zornade-mcp) 📇 ☁️ - Italian cadastral, geospatial and real estate data: address geocoding, parcel profiles (risk, solar potential, valuations, POIs) and parcel lookup.
 
+
+- [atushi1841/mlit-property-prices-mcp](https://github.com/atushi1841/mlit-property-prices-mcp) [![atushi1841/mlit-property-prices-mcp MCP server](https://glama.ai/mcp/servers/atushi1841/mlit-property-prices-mcp/badges/score.svg)](https://glama.ai/mcp/servers/atushi1841/mlit-property-prices-mcp) 🐍 ☁️ - MLIT Japan real estate prices: query official land price data by prefecture, municipality and district, with price per square metre and year-over-year trends.
+- [atushi1841/japan-property-hazard-mcp](https://github.com/atushi1841/japan-property-hazard-mcp) [![atushi1841/japan-property-hazard-mcp MCP server](https://glama.ai/mcp/servers/atushi1841/japan-property-hazard-mcp/badges/score.svg)](https://glama.ai/mcp/servers/atushi1841/japan-property-hazard-mcp) 🐍 ☁️ - Convert a Japanese postal address into location coordinates and per-hazard risk scores for flood, landslide, tsunami and liquefaction using authoritative national APIs.
 ### 🔬 <a name="research"></a>Research
 
 Tools for conducting research, surveys, interviews, and data collection.
