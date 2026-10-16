@@ -734,6 +734,7 @@ Cloud platform service integration. Enables management and interaction with clou
 - [zw008/VMware-Storage](https://github.com/zw008/VMware-Storage) [![zw008/vmware-storage MCP server](https://glama.ai/mcp/servers/zw008/vmware-storage/badges/score.svg)](https://glama.ai/mcp/servers/zw008/vmware-storage) 🐍 ☁️ - VMware vSphere storage management: NFS/VMFS datastores, iSCSI software adapters and dynamic targets, and vSAN cluster operations, with dry-run previews.
 - [zw008/VMware-VKS](https://github.com/zw008/VMware-VKS) [![zw008/vmware-vks MCP server](https://glama.ai/mcp/servers/zw008/vmware-vks/badges/score.svg)](https://glama.ai/mcp/servers/zw008/vmware-vks) 🐍 ☁️ - VMware Tanzu / vSphere Kubernetes Service: Supervisor cluster, namespace and Tanzu Kubernetes Cluster lifecycle, with dry-run mode and kubeconfig export.
 - [zyli5313/dochost-mcp](https://github.com/zyli5313/dochost-mcp) [![dochost-mcp MCP server](https://glama.ai/mcp/servers/zyli5313/dochost-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zyli5313/dochost-mcp) 📇 ☁️ - Publish Markdown or HTML to a public shareable link, served script-free from a separate cookieless origin.
+- [zyvorai/zyvor-atlas](https://github.com/zyvorai/zyvor-atlas) 🦀 🏠 🐧 - Storage control plane over Ceph, NFS, ZFS and Longhorn: read-only MCP tools for inventory, risk scoring, eBPF I/O risk, DR status and jobs, plus opt-in, audited, two-phase snapshot and alert-ack writes.
 
 ### 👨‍💻 <a name="code-execution"></a>Code Execution
 
