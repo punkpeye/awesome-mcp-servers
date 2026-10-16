@@ -2345,6 +2345,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [kukapay/etf-flow-mcp](https://github.com/kukapay/etf-flow-mcp) 🐍 ☁️ - Crypto ETF flow data.
 - [kukapay/ethereum-validator-queue-mcp](https://github.com/kukapay/ethereum-validator-queue-mcp) 🐍 ☁️ - Track Ethereum validator activation and exit queues in real time.
 - [kukapay/freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp) 🐍 ☁️ - Integrate with the Freqtrade cryptocurrency trading bot.
+- [tonyderide/exchange-truth](https://github.com/tonyderide/exchange-truth) 🐍 🏠 🐧 🍎 🪟 - Read-only watchdog for trading-bot accounts: checks every open position really has a stop loss on the exchange (side-aware), flags undersized/duplicate stops, orphan reduce-only orders and freqtrade-vs-exchange mismatches, on any CCXT exchange. Never places or cancels orders.
 - [kukapay/funding-rates-mcp](https://github.com/kukapay/funding-rates-mcp) 🐍 ☁️ - Real-time funding rate data across major crypto exchanges.
 - [kukapay/hyperliquid-info-mcp](https://github.com/kukapay/hyperliquid-info-mcp) 🐍 ☁️ - Real-time data and insights from the Hyperliquid perp DEX for bots, dashboards and analytics.
 - [kukapay/hyperliquid-whalealert-mcp](https://github.com/kukapay/hyperliquid-whalealert-mcp) 🐍 ☁️ - Real-time Hyperliquid whale alerts for positions with a notional value above $1 million.
