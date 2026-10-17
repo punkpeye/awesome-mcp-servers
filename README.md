@@ -4218,6 +4218,7 @@ Tools for managing customer support, IT service management, and helpdesk operati
 
 Translation tools and services to enable AI assistants to translate content between different languages.
 
+- [everbary/everbary-mcp](https://github.com/everbary/everbary-mcp) [![everbary/everbary-mcp MCP server](https://glama.ai/mcp/servers/everbary/everbary-mcp/badges/score.svg)](https://glama.ai/mcp/servers/everbary/everbary-mcp) 🎖️ 📇 ☁️ - Order, pay for and track certified translations of official documents for USCIS, courts and universities.
 - [KyaniteLabs/DialectOS](https://github.com/KyaniteLabs/DialectOS) [![KyaniteLabs/DialectOS MCP server](https://glama.ai/mcp/servers/KyaniteLabs/DialectOS/badges/score.svg)](https://glama.ai/mcp/servers/KyaniteLabs/DialectOS) 📇 🏠 - Spanish dialect localization: translate and QA-check text across 25 regional variants with register control, structure preservation and quality gates.
 - [mmntm/weblate-mcp](https://github.com/mmntm/weblate-mcp) 📇 ☁️ - Weblate translation management: translation tasks, project management and content discovery with format transformations.
 - [RaiGanja/kaeris-mcp](https://github.com/RaiGanja/kaeris-mcp) [![RaiGanja/kaeris-mcp MCP server](https://glama.ai/mcp/servers/RaiGanja/kaeris-mcp/badges/score.svg)](https://glama.ai/mcp/servers/RaiGanja/kaeris-mcp) 🐍 ☁️ - Translate app string files (JSON, .arb, .po, .strings, Android XML) into 46 languages with placeholder-safe, reproducible output.
