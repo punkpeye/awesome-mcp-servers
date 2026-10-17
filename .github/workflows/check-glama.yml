@@ -13,10 +13,10 @@ jobs:
   # Post-merge welcome comment
   welcome:
     if: github.event.action == 'closed' && github.event.pull_request.merged == true
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Post welcome comment
-        uses: actions/github-script@v7
+        uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8.0.0
         with:
           script: |
             const { owner, repo } = context.repo;
@@ -46,15 +46,16 @@ jobs:
   # Validation checks (only on open PRs)
   check-submission:
     if: github.event.action != 'closed'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout base branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
+          persist-credentials: false
           ref: ${{ github.event.pull_request.base.ref }}
 
       - name: Validate PR submission
-        uses: actions/github-script@v7
+        uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8.0.0
         with:
           script: |
             const fs = require('fs');
