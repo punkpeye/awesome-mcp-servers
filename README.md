@@ -1859,6 +1859,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [zyqzyq/Unfour](https://github.com/zyqzyq/Unfour) [![Unfour MCP server](https://glama.ai/mcp/servers/zyqzyq/Unfour/badges/score.svg)](https://glama.ai/mcp/servers/zyqzyq/Unfour) 🦀 🏠 🪟 🍎 - Local-first backend dev workspace: API debugging, SSH, database and diagnostics tools, with scoped safety policies and confirmation for risky actions.
 - [getproxykit/proxykit-mcp](https://github.com/getproxykit/proxykit-mcp) [![getproxykit/proxykit-mcp MCP server](https://glama.ai/mcp/servers/getproxykit/proxykit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/getproxykit/proxykit-mcp) 🏎️ 🏠 🍎 🪟 🐧 - Drive the local ProxyKit MITM debugging proxy: inspect HTTP(S), gRPC and WebSocket traffic, create mocks and rewrites, replay requests and run chaos scenarios.
   
+- [newmathphys/kern](https://github.com/newmathphys/kern) [![newmathphys/kern MCP server](https://glama.ai/mcp/servers/newmathphys/kern/badges/score.svg)](https://glama.ai/mcp/servers/newmathphys/kern) 🐍 🏠 🐧 - Zero-trust verification gateway for AI-written code: checks `@kern:requires`/`@kern:ensures` contracts with Z3 across Python, Zig, C and Rust, re-checks every proof DAG in its own Zig kernel and returns a verdict plus the exact counterexample (a refuted contract is reported, never silently weakened). 42 Lean 4 theorems, 0 sorry.
 ### 🧮 <a name="data-science-tools"></a>Data Science Tools
 
 Integrations and tools designed to simplify data exploration, analysis and enhance data science workflows.
