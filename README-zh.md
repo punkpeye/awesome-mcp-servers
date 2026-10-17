@@ -191,7 +191,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 代码执行服务器。允许大语言模型在安全环境中执行代码，例如用于编程智能体。
 
-- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — 面向 AI 智能体的受限命令和文件操作 MCP 服务器。通过明确的允许列表限制命令执行，可单独禁用每个工具，并支持自动生成身份验证令牌。在不暴露无限制 shell 的情况下，提供受限 Unix 命令、文件操作、补丁应用和 URL 获取功能。
+- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) [![ag88/cmdshellmcp](https://glama.ai/mcp/servers/ag88/cmdshellmcp/badges/score.svg)](https://glama.ai/mcp/servers/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — 面向 AI 智能体的受限命令和文件操作 MCP 服务器。通过明确的允许列表限制命令执行，可单独禁用每个工具，并支持自动生成身份验证令牌。在不暴露无限制 shell 的情况下，提供受限 Unix 命令、文件操作、补丁应用和 URL 获取功能。
 
 ### 🤖 <a name="coding-agents"></a>编程智能体
 

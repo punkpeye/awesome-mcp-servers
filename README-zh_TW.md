@@ -164,7 +164,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 程式碼執行伺服器。允許大型語言模型在安全環境中執行程式碼，例如供程式設計代理使用。
 
-- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — 為 AI 代理提供受限命令與檔案操作的 MCP 伺服器。透過明確的允許清單限制命令執行，可個別停用每項工具，並支援自動產生的驗證權杖。在不開放無限制 shell 的情況下，提供受限的 Unix 命令、檔案操作、套用修補程式及 URL 擷取功能。
+- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) [![ag88/cmdshellmcp](https://glama.ai/mcp/servers/ag88/cmdshellmcp/badges/score.svg)](https://glama.ai/mcp/servers/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — 為 AI 代理提供受限命令與檔案操作的 MCP 伺服器。透過明確的允許清單限制命令執行，可個別停用每項工具，並支援自動產生的驗證權杖。在不開放無限制 shell 的情況下，提供受限的 Unix 命令、檔案操作、套用修補程式及 URL 擷取功能。
 
 ### 🖥️ <a name="command-line"></a>Command Line
 

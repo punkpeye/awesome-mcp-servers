@@ -173,7 +173,7 @@
 
 코드 실행 서버입니다. LLM이 코딩 에이전트 등의 용도로 안전한 환경에서 코드를 실행할 수 있게 합니다.
 
-- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — AI 에이전트를 위한 명령 및 파일 작업 제한 MCP 서버입니다. 명시적인 허용 목록으로 명령 실행을 제한하고, 각 도구를 개별적으로 비활성화할 수 있으며, 자동 생성 인증 토큰을 지원합니다. 제한 없는 셸을 노출하지 않으면서 제한된 Unix 명령, 파일 작업, 패치 적용 및 URL 가져오기 기능을 제공합니다.
+- [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) [![ag88/cmdshellmcp](https://glama.ai/mcp/servers/ag88/cmdshellmcp/badges/score.svg)](https://glama.ai/mcp/servers/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — AI 에이전트를 위한 명령 및 파일 작업 제한 MCP 서버입니다. 명시적인 허용 목록으로 명령 실행을 제한하고, 각 도구를 개별적으로 비활성화할 수 있으며, 자동 생성 인증 토큰을 지원합니다. 제한 없는 셸을 노출하지 않으면서 제한된 Unix 명령, 파일 작업, 패치 적용 및 URL 가져오기 기능을 제공합니다.
 
 ### 🖥️ <a name="command-line"></a>커맨드 라인
 
