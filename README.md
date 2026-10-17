@@ -3655,6 +3655,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [hellokaton/unsplash-mcp-server](https://github.com/hellokaton/unsplash-mcp-server) 🐍 ☁️ - Unsplash image search.
 - [HughesCuit/heventure-search-mcp](https://github.com/HughesCuit/heventure-search-mcp) [![HughesCuit/heventure-search-mcp MCP server](https://glama.ai/mcp/servers/HughesCuit/heventure-search-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HughesCuit/heventure-search-mcp) 🐍 ☁️ 🏠 - Web search across DuckDuckGo, Bing, Google (via SerpAPI) and Tavily with automatic rate limiting, caching and multi-language support.
 - [Himalayas-App/himalayas-mcp](https://github.com/Himalayas-App/himalayas-mcp) 📇 ☁️ - Real-time access to remote job listings and company information from the Himalayas jobs database.
+- [HirePulse Agent Gateway](https://github.com/edtool79-collab/hirepulse-open-source) - Remote MCP server & API for live ATS job listings (Greenhouse, Lever, Ashby, Workable) and company tech-stack detection. 5 free calls/day, then $0.01 per call via x402 on Base.
 - [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) 📇 🏠/☁️ - Web search via SearXNG.
 - [imprvhub/mcp-claude-hackernews](https://github.com/imprvhub/mcp-claude-hackernews) 📇 🏠 ☁️ - Interact with Hacker News.
 - [imprvhub/mcp-domain-availability](https://github.com/imprvhub/mcp-domain-availability) 🐍 ☁️ - Check domain availability across many TLDs with DNS and WHOIS verification, bulk checking and name suggestions.
