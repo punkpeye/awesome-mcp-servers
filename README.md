@@ -1169,6 +1169,8 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [benborla29/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) ☁️ 🏠 - MySQL database integration with configurable access controls and schema inspection.
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow database integration: search and list tables, and create, read, update and delete rows.
 - [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) 🐍 ☁️ - TiDB database integration with schema inspection and query capabilities.
+- [caiderek/LogCarver.Mcp](https://github.com/caiderek/LogCarver.Mcp) #️⃣ 🏠 🪟 - Read-only SQL Server tool that recovers deleted and changed rows from the transaction log (fn_dblog) when there is no backup, Audit or CDC, and suggests undo SQL that it never runs.
+- [caiderek/LogCarverGuard](https://github.com/caiderek/LogCarverGuard) #️⃣ 🏠 🪟 🐧 - Guardrail proxy for AI agents on SQL Server: each statement runs as the caller's own login, a T-SQL parser blocks dangerous statements, and every statement is audited. Local stdio mode or a central Docker service.
 - [centralmind/gateway](https://github.com/centralmind/gateway) 🏎️ 🏠 🍎 🪟 - Automatically generate APIs from database schema and data for PostgreSQL, ClickHouse, MySQL, Snowflake, BigQuery and Supabase.
 - [ChristianHinge/dicom-mcp](https://github.com/ChristianHinge/dicom-mcp) 🐍 ☁️ 🏠 - DICOM integration to query, read and move medical images and reports from PACS and other DICOM-compliant systems.
 - [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) 🎖️ 🐍 ☁️ 🏠 - Access local and cloud Chroma instances for retrieval.
