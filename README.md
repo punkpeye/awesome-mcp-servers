@@ -460,6 +460,7 @@ AI model & ML service integrations.
 - Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp
 - Creatify — https://github.com/TSavo/creatify-mcp
 - ZenML (⭐) — https://github.com/zenml-io/mcp-zenml
+- Zerouter (AI API gateway: Claude, GPT, Gemini, Grok, Kimi via one OpenAI-compatible key; chat, model comparison, API pricing) — https://github.com/ZerouterAI/zerouter-mcp
 
 ---
 
