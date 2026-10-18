@@ -4360,6 +4360,8 @@ Tools for converting text-to-speech and vice-versa
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
 
+- [canalthailexa-lgtm/mcp-eletricoleve-repo](https://github.com/canalthailexa-lgtm/mcp-eletricoleve-repo) [![Elétrico Leve MCP server](https://glama.ai/mcp/connectors/io.github.canalthailexa-lgtm/eletricoleve/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.canalthailexa-lgtm/eletricoleve) 📇 ☁️ - Brazilian light electric vehicles (e-bikes, scooters, e-scooters, tricycles): measured specs, real prices and classification under Resolução Contran 996/2023.
+
 - [cuqu-net/cuqu-skill](https://github.com/cuqu-net/cuqu-skill) [![cuqu-net/cuqu-skill MCP server](https://glama.ai/mcp/servers/cuqu-net/cuqu-skill/badges/score.svg)](https://glama.ai/mcp/servers/cuqu-net/cuqu-skill) ☁️ 🏠 - Find, book, and pay for local offline social activities (board games, badminton, hiking, frisbee and 100+ hobby categories) across cities in China via natural language. Hosted MCP gateway (agent.cuqu.net) with per-user API keys; also supports organizer-side event creation and venue search.
 
 - [HasData/airbnb-mcp](https://github.com/HasData/airbnb-mcp) [![HasData/airbnb-mcp MCP server](https://glama.ai/mcp/servers/HasData/airbnb-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/airbnb-mcp) 📇 ☁️ - Search Airbnb stays by location, dates and guests, and read full listing details (price, amenities, host, reviews) as JSON.
