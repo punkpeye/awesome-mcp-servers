@@ -2724,6 +2724,7 @@ Control smart home devices, home network equipment, and automation systems.
 Servers that establish who a person or an agent is and what may be known about them.
 
 - [AIops-tools/Identity-AIops](https://github.com/AIops-tools/Identity-AIops) [![AIops-tools/Identity-AIops MCP server](https://glama.ai/mcp/servers/AIops-tools/Identity-AIops/badges/score.svg)](https://glama.ai/mcp/servers/AIops-tools/Identity-AIops) 🐍 🏠 - Keycloak and Authentik SSO/IAM operations: root-cause analysis for login, permission, client and MFA issues, plus guarded writes with audit logs and rollback.
+- [proofable/mcp](https://github.com/proofable/mcp) [![proofable/mcp MCP server](https://glama.ai/mcp/servers/proofable/mcp/badges/score.svg)](https://glama.ai/mcp/servers/proofable/mcp) 🎖️ 📇 ☁️ - Context and control for any AI. Agent identity, scoped access, and proof across tools.
 - [true-alter/cli](https://github.com/true-alter/cli) [![true-alter/cli MCP server](https://glama.ai/mcp/servers/true-alter/cli/badges/score.svg)](https://glama.ai/mcp/servers/true-alter/cli) 🎖️ 📇 ☁️ - Personal identity profiles under a ~name handle, paid lookups that share revenue with the person found, skill-proving quests and collectives.
 
 ### 🏭 <a name="industrial--iot"></a>Industrial & IoT
