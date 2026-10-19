@@ -4794,7 +4794,7 @@ Interact with Git repositories and version control platforms. Enables repository
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
 
-- [A7mdMe/mcp-production-kit](https://github.com/A7mdMe/mcp-production-kit) 📇 ☁️ 🏠 - Production-ready, type-safe TypeScript MCP server boilerplate with dual transports (stdio/SSE), SSRF security guards, and in-memory agent state persistence.
+- [A7mdMe/mcp-production-kit](https://github.com/A7mdMe/mcp-production-kit) [![A7mdMe/mcp-production-kit MCP server](https://glama.ai/mcp/servers/A7mdMe/mcp-production-kit/badges/score.svg)](https://glama.ai/mcp/servers/A7mdMe/mcp-production-kit) 📇 ☁️ 🏠 - Production-ready, type-safe TypeScript MCP server boilerplate with dual transports (stdio/SSE), SSRF security guards, and in-memory agent state persistence.
 - [Nyrok/flompt](https://github.com/Nyrok/flompt) [![flompt MCP server](https://glama.ai/mcp/servers/@nyrok/flompt/badges/score.svg)](https://glama.ai/mcp/servers/@nyrok/flompt) 🐍 ☁️ - Visual prompt builder: decompose prompts into semantic blocks and compile them into Claude-optimized XML.
 - [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) [![escapeboy/agent-fleet-o MCP server](https://glama.ai/mcp/servers/escapeboy/agent-fleet-o/badges/score.svg)](https://glama.ai/mcp/servers/escapeboy/agent-fleet-o) ☁️ 🏠 - Self-hosted mission control for AI agents: manage agents, experiments, workflows, crews, skills and more.
 - [Epistates/TurboMCP](https://github.com/Epistates/turbomcp) 🦀 - MCP SDK for Rust.
