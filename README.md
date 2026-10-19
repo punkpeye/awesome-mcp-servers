@@ -2618,6 +2618,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [D-Asce/pandastocksdk](https://github.com/D-Asce/pandastocksdk) [![D-Asce/pandastocksdk MCP server](https://glama.ai/mcp/servers/D-Asce/pandastocksdk/badges/score.svg)](https://glama.ai/mcp/servers/D-Asce/pandastocksdk) 🐍 🏠 - A-share realtime market data via MCP: NATS-pushed quotes, Level2, DDX, capital flow, news. 22 tools, free public test account. Install: `pip install pandastock-mcp`
 - [SlothyAfk/finance-pulse-python](https://github.com/SlothyAfk/finance-pulse-python) [![SlothyAfk/finance-pulse-python MCP server](https://glama.ai/mcp/servers/SlothyAfk/finance-pulse-python/badges/score.svg)](https://glama.ai/mcp/servers/SlothyAfk/finance-pulse-python) 🐍 ☁️ - Financial news as sourced statements with sentiment and tickers, grouped into developments and company storylines. Search by ticker or sector, trending stories, sentiment time series and news-attention screeners.
 - [AZW27/aihot-mcp](https://github.com/AZW27/aihot-mcp) - Real-time Chinese finance news, market sentiment index (0-100), event clustering and auto-generated daily digest for AI agents.
+
 ### 🎮 <a name="gaming"></a>Gaming
 
 Integration with gaming related data, game engines, and services
