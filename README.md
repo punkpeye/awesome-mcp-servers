@@ -4814,9 +4814,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [fireostendere/mcp_diptrace](https://github.com/fireostendere/mcp_diptrace) [![fireostendere/mcp_diptrace MCP server](https://glama.ai/mcp/servers/fireostendere/mcp_diptrace/badges/score.svg)](https://glama.ai/mcp/servers/fireostendere/mcp_diptrace) 🐍 🏠 🪟 - Reading, review and guarded editing of DipTrace PCB and schematic projects via a Windows bridge, with cross-platform offline XML analysis.
 - [SynapseLayer/synapse-layer](https://github.com/SynapseLayer/synapse-layer) [![SynapseLayer/synapse-layer MCP server](https://glama.ai/mcp/servers/SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/servers/SynapseLayer/synapse-layer) 📇 ☁️ - Persistent encrypted memory for AI agents with Trust Quotient scoring, cross-agent handover and an immutable audit trail.
 - [DROOdotFOO/raxol](https://github.com/DROOdotFOO/raxol/tree/master/packages/raxol_mcp) [![DROOdotFOO/raxol MCP server](https://glama.ai/mcp/servers/DROOdotFOO/raxol/badges/score.svg)](https://glama.ai/mcp/servers/DROOdotFOO/raxol) 🏠 🍎 🪟 🐧 - Elixir/OTP framework for MCP servers and clients that derives tools from a running UI component tree, letting agents drive terminal apps.
-- [Sathish27/didyouseo-mcp](https://github.com/Sathish27/didyouseo-mcp) 📇 ☁️ - SEO and AI search tools: audit any URL, read Google Search Console and GA4 data, keyword and backlink lookups, PageSpeed Insights, and free checks for meta tags, robots.txt, schema and hreflang.
-
-## Tips and Tricks
+- [Sathish27/didyouseo-mcp](https://github.com/Sathish27/didyouseo-mcp) [![Sathish27/didyouseo-mcp MCP server](https://glama.ai/mcp/connectors/com.didyouseo/did-you-seo-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.didyouseo/did-you-seo-mcp) 📇 ☁️ - SEO and AI search tools: audit any URL, read Google Search Console and GA4 data, keyword and backlink lookups, PageSpeed Insights, and free checks for meta tags, robots.txt, schema and hreflang.
+ ## Tips and Tricks
 
 ### Official prompt to inform LLMs how to use MCP
 
