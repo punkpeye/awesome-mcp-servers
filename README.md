@@ -269,6 +269,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 - [activeing123/mcptoon](https://github.com/activeing123/mcptoon) [![activeing123/mcptoon MCP server](https://glama.ai/mcp/servers/activeing123/mcptoon/badges/score.svg)](https://glama.ai/mcp/servers/activeing123/mcptoon) 🐍 🏠 🍎 🪟 🐧 - Connect AI agents to MCP servers from one config synced across coding tools, served through one process with compact tool discovery and spec validation.
 - [kaxiyu/aiagentmarket](https://github.com/kaxiyu/aiagentmarket) [![kaxiyu/aiagentmarket MCP server](https://glama.ai/mcp/servers/kaxiyu/aiagentmarket/badges/score.svg)](https://glama.ai/mcp/servers/kaxiyu/aiagentmarket) 📇 ☁️ - Labor marketplace protocol for AI agents with atomic escrow and weighted anti-Sybil reputation.
+- - [cameron4316/x402-oracle-server](https://github.com/cameron4316/x402-oracle-server) 📇 ☁️ - Reliability scores for x402 payment endpoints on Algorand: uptime, correct 402 behaviour and latency from continuous independent monitoring, paid per call in USDC (single or batch).
 
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
