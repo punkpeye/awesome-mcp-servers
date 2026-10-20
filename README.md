@@ -272,6 +272,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
+- [chenlong2019/drone-camera](https://github.com/chenlong2019/drone-camera/tree/main/mcp) [![drone-camera MCP server](https://glama.ai/mcp/servers/chenlong2019/drone-camera/badges/score.svg)](https://glama.ai/mcp/servers/chenlong2019/drone-camera) 📇 🏠 🍎 🪟 🐧 - Fly a simulated drone over a three.js sandbox or real-Earth CesiumJS scene: 14 tools for takeoff, waypoint missions, gimbal, automatic panorama capture, flight state and screenshots.
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Astronomical catalog data and observing session planning: OpenNGC deep-sky objects with visibility, rise/transit/set and alt/az calculations.
 - [viventine-space/orbit-sentinel-mcp](https://github.com/viventine-space/orbit-sentinel-mcp) [![Viventine-Space/orbit-sentinel-mcp MCP server](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp) 🎖️ 🏎️ ☁️ 🍎 🪟 🐧 - Search FCC, ITU, UNOOSA and FAA space regulatory filings via Orbit Sentinel: semantic search, entity dossiers, spectrum holdings, launch licenses and alerts.
 
