@@ -653,6 +653,10 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [MCP-Connect](https://github.com/EvalsOne/MCP-Connect) クラウドベースのAIサービスがローカルのStdioベースのMCPサーバーにHTTP/HTTPSリクエストでアクセスできるようにするツール
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - 複数のMCPリソースサーバーを、単一のHTTPサーバーを通して集約し、提供するMCPプロキシサーバー。
 
+## ディレクトリとリスト
+
+- [MCPNavi](https://mcpnavi.jp) - 日本国内向けのMCP（Model Context Protocol）サービスディレクトリです。242台以上のMCPサーバーが登録されており、AIエージェント、接続タイプ、および日本語対応の有無で絞り込むことが可能です。
+
 ## ヒントとコツ
 
 ### LLMがMCPを使用する方法を通知するための公式プロンプト

@@ -4828,6 +4828,10 @@ Now Claude can answer questions about writing MCP servers and how they work
 
 - https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/
 
+## Discovery & Directories
+
+- [MCPNavi](https://mcpnavi.jp/en/) - Japanese focused MCP service directory with over 242+ MCP servers, filterable by AI agent, connection type and Japanese compatibility.
+
 ## Star History
 
 <a href="https://star-history.com/#punkpeye/awesome-mcp-servers&Date">
