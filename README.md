@@ -1969,6 +1969,8 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
 
+- [eyeinthesky6/unseen](https://github.com/eyeinthesky6/unseen) 📇 🏠 ☁️ 🍎 🪟 🐧 - Turn messy standard operating procedures (SOPs), incident playbooks, policies, and documents into source-grounded, publication-ready visual workflows and diagrams with SVG, Mermaid, and Excalidraw output.
+
 - [ganapativs/microcharts](https://github.com/ganapativs/microcharts/tree/main/packages/mcp) [![ganapativs/microcharts MCP server](https://glama.ai/mcp/servers/ganapativs/microcharts/badges/score.svg)](https://glama.ai/mcp/servers/ganapativs/microcharts) 📇 🏠 🍎 🪟 🐧 - Word-sized charts (sparklines, bars, bullets and more) rendered to self-contained SVG with generated alt text, plus chart suggestions for a given question.
 
 - [kleinicke/ply-visualizer](https://github.com/kleinicke/ply-visualizer) [![kleinicke/ply-visualizer MCP server](https://glama.ai/mcp/servers/kleinicke/ply-visualizer/badges/score.svg)](https://glama.ai/mcp/servers/kleinicke/ply-visualizer) 🐍 🏠 🍎 🪟 🐧 - Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.
