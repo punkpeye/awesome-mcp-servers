@@ -494,6 +494,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Search, retrieve, create, update and analyze clinical data via FHIR APIs, with SMART-on-FHIR authentication.
 - [wjgoarxiv/pymol-mcp](https://github.com/wjgoarxiv/pymol-mcp) [![wjgoarxiv/pymol-mcp MCP server](https://glama.ai/mcp/servers/wjgoarxiv/pymol-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wjgoarxiv/pymol-mcp) 🐍 🏠 🍎 🪟 🐧 - Headless PyMOL for molecular visualization, GROMACS/LAMMPS trajectories and clathrate-hydrate cage analysis, including H-bond networks and order parameters.
 
+- [ToukoUrsin/clify](https://github.com/ToukoUrsin/clify) 📇 ☁️ - Turn public websites into typed JSON commands and MCP tools; includes a hosted no-auth endpoint and a local CLI.
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
