@@ -1969,6 +1969,8 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
 
+- [ashark-ai-05/opencanvas](https://github.com/ashark-ai-05/opencanvas) 📇 🏠 🍎 🪟 🐧 - Infinite canvas where agents place typed widgets (charts, kanbans, code, live timers, sandboxed HTML) instead of markdown. Run `pnpm mcp` to let Claude Code, Codex and other agents draw on it.
+
 - [ganapativs/microcharts](https://github.com/ganapativs/microcharts/tree/main/packages/mcp) [![ganapativs/microcharts MCP server](https://glama.ai/mcp/servers/ganapativs/microcharts/badges/score.svg)](https://glama.ai/mcp/servers/ganapativs/microcharts) 📇 🏠 🍎 🪟 🐧 - Word-sized charts (sparklines, bars, bullets and more) rendered to self-contained SVG with generated alt text, plus chart suggestions for a given question.
 
 - [kleinicke/ply-visualizer](https://github.com/kleinicke/ply-visualizer) [![kleinicke/ply-visualizer MCP server](https://glama.ai/mcp/servers/kleinicke/ply-visualizer/badges/score.svg)](https://glama.ai/mcp/servers/kleinicke/ply-visualizer) 🐍 🏠 🍎 🪟 🐧 - Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.
