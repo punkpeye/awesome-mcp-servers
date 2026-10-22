@@ -1992,7 +1992,7 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 ### 📟 <a name="embedded-system"></a>Embedded System
 
 Provides access to documentation and shortcuts for working on embedded devices.
-
+- [Zeraissh/stm32-gdb-mcp](https://github.com/Zeraissh/stm32-gdb-mcp) 🐍 📟 🏠 🪟 🐧 - Debug STM32 firmware on real hardware via GDB + OpenOCD/ST-Link/J-Link: flash, breakpoints, memory/registers, HardFault-to-source triage, FreeRTOS awareness, SWO/RTT logging and multi-board sessions, with decoded structured results.
 - [0x1abin/matter-controller-mcp](https://github.com/0x1abin/matter-controller-mcp) 📇 📟 - Control and interact with Matter devices via a Matter controller.
 - [JannLeo/telinksdk-builder-mcp](https://github.com/JannLeo/telinksdk-builder-mcp) [![JannLeo/telinksdk-builder-mcp MCP server](https://glama.ai/mcp/servers/JannLeo/telinksdk-builder-mcp/badges/score.svg)](https://glama.ai/mcp/servers/JannLeo/telinksdk-builder-mcp) 🐍 🏠 🪟 🐧 🍎 - Build Telink and other embedded SDKs (Eclipse headless, Make or generic) via natural language, with automatic build pattern detection.
 - [adancurusul/embedded-debugger-mcp](https://github.com/adancurusul/embedded-debugger-mcp) 🦀 📟 - Embedded debugging with probe-rs: ARM Cortex-M and RISC-V targets via J-Link, ST-Link and other probes.
