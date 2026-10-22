@@ -1987,6 +1987,8 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [Ratnaditya-J/csvglow](https://github.com/Ratnaditya-J/csvglow) [![csvglow MCP server](https://glama.ai/mcp/servers/Ratnaditya-J/csvglow/badges/score.svg)](https://glama.ai/mcp/servers/Ratnaditya-J/csvglow) 🐍 🏠 🍎 🪟 🐧 - Generate self-contained HTML dashboards from CSV/Excel files with interactive ECharts visualizations and sortable data tables.
 
+- [rohanbeingsocial/showboard](https://github.com/rohanbeingsocial/showboard) [![rohanbeingsocial/showboard MCP server](https://glama.ai/mcp/servers/rohanbeingsocial/showboard/badges/score.svg)](https://glama.ai/mcp/servers/rohanbeingsocial/showboard) 📇 🏠 🍎 🪟 🐧 - Your coding agent answers with dashboards: charts, tables and headline numbers from read-only SQL (Postgres, SQLite) or Excel and CSV files, in your browser, your app or a terminal pane.
+
 - [nteract/semiotic](https://github.com/nteract/semiotic) [![nteract/semiotic MCP server](https://glama.ai/mcp/servers/nteract/semiotic/badges/score.svg)](https://glama.ai/mcp/servers/nteract/semiotic) 📇 🏠 🍎 🪟 🐧 - Semiotic React data visualization: suggest charts for a dataset, render validated configs to SVG, diagnose anti-patterns and fetch component schemas.
 
 ### 📟 <a name="embedded-system"></a>Embedded System
