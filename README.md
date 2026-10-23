@@ -4022,6 +4022,7 @@ MCP servers for job search and career platforms.
 
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
+- [Trustbaselab/trustbaselab-mcp](https://github.com/Trustbaselab/trustbaselab-mcp) [![com.trustbaselab/rcb-data MCP server](https://glama.ai/mcp/connectors/com.trustbaselab/rcb-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.trustbaselab/rcb-data) 📇 ☁️ - Verified industry facts (recycled carbon black, carbon, telecom, health, compute) with stable IDs, byte-frozen source snapshots, and dual hashes anyone can recompute offline. 59 tools, free, no auth required.
 ### 🔒 <a name="security"></a>Security
 
 - [mrpkk/attest](https://github.com/mrpkk/attest) [![mrpkk/attest MCP server](https://glama.ai/mcp/servers/mrpkk/attest/badges/score.svg)](https://glama.ai/mcp/servers/mrpkk/attest) 🐍 ☁️ 🍎 🪟 🐧 - Verifies an artifact an AI agent produced (JSON, code, structured output) against a JSON Schema plus positional prompt-injection checks, returning a verdict with reasons before you accept the result. x402-paid with a free tier of 20 checks/day.
