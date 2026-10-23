@@ -1866,6 +1866,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [Wolfe-Jam/claude-faf-mcp](https://github.com/Wolfe-Jam/claude-faf-mcp) 📇 🏠 - Persistent project context in the .faf (Foundational AI-context Format), with project DNA and Podium scoring.
 - [Wolfe-Jam/faf-mcp](https://github.com/Wolfe-Jam/faf-mcp) 📇 🏠 - Persistent project context in the IANA-registered .faf format, with AI-readiness scoring.
 - [Wooonster/hocr_mcp_server](https://github.com/Wooonster/hocr_mcp_server) 🐍 🏠 - Extract handwritten math formulas from uploaded images as LaTeX using a vision-language model, with a Vue frontend.
+- [WSattazahn/caveat-lang](https://github.com/WSattazahn/caveat-lang) 📇 🦀 🏠 🍎 🪟 🐧 - A decision ledger for agents: validate, check and test Caveat programs, `explain` what a decision rested on, and see what `dependents` change when evidence is withdrawn. Runs locally with `npx -y caveat-lang mcp`. [![WSattazahn/caveat-lang MCP server](https://glama.ai/mcp/servers/WSattazahn/caveat-lang/badges/score.svg)](https://glama.ai/mcp/servers/WSattazahn/caveat-lang)
 - [wyattjoh/jsr-mcp](https://github.com/wyattjoh/jsr-mcp) 📇 ☁️ - Access JSR, the JavaScript Registry.
 - [xcodebuild](https://github.com/ShenghaiWang/xcodebuild) 🍎 - Build iOS Xcode workspaces or projects and feed errors back to the LLM.
 - [XixianLiang/HarmonyOS-mcp-server](https://github.com/XixianLiang/HarmonyOS-mcp-server) 🐍 🏠 - Device control and UI automation for HarmonyOS Next devices.
