@@ -3945,7 +3945,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 MCP servers for job search and career platforms.
 
-- [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
 ### 🔒 <a name="security"></a>Security
 
