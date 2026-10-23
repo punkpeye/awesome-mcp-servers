@@ -1244,6 +1244,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [pilat/mcp-datalink](https://github.com/pilat/mcp-datalink) 📇 🏠 - Secure access to PostgreSQL, MySQL and SQLite databases with parameterized queries and schema inspection.
 - [planetscale/mcp](https://github.com/planetscale/cli?tab=readme-ov-file#mcp-server-integration) - Built into the PlanetScale CLI: direct access to your PlanetScale databases.
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) 🐍 🏠 - Qdrant integration.
+- [MlkBlk-IT/Mcp-QadGraph](https://github.com/MlkBlk-IT/Mcp-QadGraph) 🐍 📇 🏠 🪟 - Read-only Qdrant control plane: 3D similarity dashboard (server-side cosine, ~40KB topology instead of raw vectors), 9 MCP tools to inspect memory metrics, topology, search and logs. Python stdlib, 100% local.
 - [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) 📇 🏠 - MongoDB integration for interacting directly with databases.
 - [quarkiverse/mcp-server-jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) ☕ 🏠 - Connect to any JDBC-compatible database to query, insert, update, delete and more.
 - [questdb/mcp-server-questdb](https://github.com/questdb/mcp-server-questdb) [![questdb/mcp-server-questdb MCP server](https://glama.ai/mcp/servers/questdb/mcp-server-questdb/badges/score.svg)](https://glama.ai/mcp/servers/questdb/mcp-server-questdb) 🎖️ 📇 🏠 - Drive the QuestDB Web Console: notebook cells, SQL queries and charts on live time-series data.
@@ -3314,6 +3315,8 @@ Tools for creating and editing marketing content, working with web meta data, pr
 ### 📊 <a name="monitoring"></a>Monitoring
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
+
+- [MlkBlk-IT/Mcp-CacheForge](https://github.com/MlkBlk-IT/Mcp-CacheForge) 🐍 🏠 🪟 - Local LLM proxy with semantic cache: Aho-Corasick prompt normalization (1114 rules), SQLite cache with TTL, metrics dashboard and 4 MCP tools (stats, clear, normalize preview, cached-prompt search). 100% CPU, no paid API.
 - [asinha07/spoor](https://github.com/asinha07/spoor) [![asinha07/spoor MCP server](https://glama.ai/mcp/servers/asinha07/spoor/badges/score.svg)](https://glama.ai/mcp/servers/asinha07/spoor) 🏎️ 🏠 🍎 🪟 🐧 - Tells AI agents what changed across VictoriaMetrics, VictoriaLogs and VictoriaTraces, and where it started: a ranked, token-budgeted digest that separates root causes from echoes using trace structure.
 - [dockndevai/mcp-grafana](https://github.com/dockndevai/mcp-grafana) [![dockndevai/mcp-grafana MCP server](https://glama.ai/mcp/servers/dockndevai/mcp-grafana/badges/score.svg)](https://glama.ai/mcp/servers/dockndevai/mcp-grafana) 📇 🏠 - Safe-by-default MCP server for Grafana: search & read dashboards and the dashboard JSON model, query datasources (Prometheus/Loki/SQL via the unified query API), and inspect alert rules & annotations; in higher modes, create/update dashboards and folders, write annotations, and delete. Read-only by default with access modes, folder/datasource allowlists, and human confirmation (MCP elicitation) on deletes. `npx -y @dockndevai/mcp-grafana`
 
