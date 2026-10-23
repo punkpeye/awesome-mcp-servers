@@ -4653,6 +4653,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [microsoft/mcp](https://github.com/microsoft/mcp/tree/main/servers/Azure.Mcp.Server) 🎖️ #️⃣ ☁️ - Access Azure services including Storage, Cosmos DB and Azure Monitor.
 - [Badhansen/notion-mcp](https://github.com/Badhansen/notion-mcp) 🐍 ☁️ - Manage personal todo lists via Notion's API.
 - [bart6114/my-bear-mcp-server](https://github.com/bart6114/my-bear-mcp-server/) 📇 🏠 🍎 - Read notes and tags from the Bear note-taking app directly from its SQLite database.
+- [beiryu/vn-skills](https://github.com/beiryu/vn-skills) [![beiryu/vn-skills MCP server](https://glama.ai/mcp/servers/beiryu/vn-skills/badges/score.svg)](https://glama.ai/mcp/servers/beiryu/vn-skills) 📇 🏠 🍎 🪟 🐧 - Offline Vietnam toolkit: VietQR payment codes, 34-province addresses, tax IDs, CCCD, phone numbers, holidays, lunar calendar, money in words and e-invoices.
 - [billster45/mcp-chatgpt-responses](https://github.com/billster45/mcp-chatgpt-responses) 🐍 ☁️ - Talk to ChatGPT and use its web search capability.
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - Query GraphQL servers.
 - [boldsign/boldsign-mcp](https://github.com/boldsign/boldsign-mcp) 📇 ☁️ - Search, request and manage e-signature contracts with BoldSign.
