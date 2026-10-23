@@ -4116,6 +4116,9 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 MCP servers for job search and career platforms.
 
+- [Jucamhc/mcp-elempleo](https://github.com/Jucamhc/mcp-elempleo) [![Jucamhc/mcp-elempleo MCP server](https://glama.ai/mcp/servers/Jucamhc/mcp-elempleo/badges/score.svg)](https://glama.ai/mcp/servers/Jucamhc/mcp-elempleo) 📇 ☁️ 🏠 - Job search for elempleo.com (Colombia): search and inspect offers, score fit against a master profile, review screening questions and apply only after explicit confirmation. Also syncs your CV and profile.
+- [Jucamhc/mcp-magneto](https://github.com/Jucamhc/mcp-magneto) [![Jucamhc/mcp-magneto MCP server](https://glama.ai/mcp/servers/Jucamhc/mcp-magneto/badges/score.svg)](https://glama.ai/mcp/servers/Jucamhc/mcp-magneto) 📇 ☁️ 🏠 - Job search for Magneto365 (Colombia): search and inspect offers, score fit against a master profile, propose screening answers and apply only after explicit confirmation. Also syncs your CV and profile.
+- [Jucamhc/mcp-workatastartup](https://github.com/Jucamhc/mcp-workatastartup) [![Jucamhc/mcp-workatastartup MCP server](https://glama.ai/mcp/servers/Jucamhc/mcp-workatastartup/badges/score.svg)](https://glama.ai/mcp/servers/Jucamhc/mcp-workatastartup) 📇 ☁️ 🏠 - Unofficial server for Y Combinator's Work at a Startup: search jobs and companies, check fit (location, visa, skills), draft applications and send them only after explicit confirmation, tracking the weekly limit.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
 ### 🔒 <a name="security"></a>Security
