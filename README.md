@@ -4398,6 +4398,7 @@ MCP servers for job search and career platforms.
 - [verax-ai/verax](https://github.com/verax-ai/verax) [![verax-ai/verax MCP server](https://glama.ai/mcp/servers/verax-ai/verax/badges/score.svg)](https://glama.ai/mcp/servers/verax-ai/verax) 📇 🏠 🪟 🐧 - Sits between an agent and its tools: every call passes a policy gate and leaves a signed decision record before it runs, a refusal is recorded like an approval, payments wait for an operator on the same machine, and the ledger stays there and verifies offline. Apache-2.0.
 
 - [ak10082247-max/canaryguard-402](https://github.com/ak10082247-max/canaryguard-402) [![ak10082247-max/canaryguard-402 MCP server](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402/badges/score.svg)](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402) 📇 ☁️ 🏠 🍎 🪟 🐧 - Deterministic prompt-injection detector, concealed Unicode scrubber, and honeypot wallet defense MCP server for AI agents.
+- [stand-out-of-my-sun/diogenes-micro-gateway](https://github.com/stand-out-of-my-sun/diogenes-micro-gateway) [![stand-out-of-my-sun/diogenes-micro-gateway MCP server](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway/badges/score.svg)](https://glama.ai/mcp/servers/stand-out-of-my-sun/diogenes-micro-gateway) 📇 ☁️ 🏠 - Autonomous gateway to 85 edge microservices across 6 modular domain MCP packages.
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
