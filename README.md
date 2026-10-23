@@ -136,6 +136,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+- [rotenkus-dot/b2b-lead-quant-mcp](https://github.com/rotenkus-dot/b2b-lead-quant-mcp) [![rotenkus-dot/b2b-lead-quant-mcp MCP server](https://glama.ai/mcp/servers/rotenkus-dot/b2b-lead-quant-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rotenkus-dot/b2b-lead-quant-mcp) 🎖️ 📇 ☁️ 🏠 - 15-tool B2B email deliverability verification (MX/SPF/DMARC), LLMO `/llms.txt` AI search readiness auditor, OpenAPI contract release gate, and quantitative portfolio risk analysis.
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
