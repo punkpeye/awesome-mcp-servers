@@ -302,6 +302,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 
 ### ♿ <a name="accessibility"></a>Accessibility
 
+- [kim-dongho/krds-a11y-mcp](https://github.com/kim-dongho/krds-a11y-mcp) [![kim-dongho/krds-a11y-mcp MCP server](https://glama.ai/mcp/servers/kim-dongho/krds-a11y-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kim-dongho/krds-a11y-mcp) 📇 🏠 🍎 🐧 - Korea's government design system (KRDS) components with KWCAG 2.2 (Korean web accessibility standard) built in: refuses markup when labels or alt text are missing, checks rendered pages with axe plus real keyboard and contrast measurements, and ships Claude Code/Codex hooks that keep agents from finishing while violations remain.
 - [kinti/a11y-toolkit](https://github.com/kinti/a11y-toolkit) [![kinti/a11y-toolkit MCP server](https://glama.ai/mcp/servers/kinti/a11y-toolkit/badges/score.svg)](https://glama.ai/mcp/servers/kinti/a11y-toolkit) 🐍 🏠 - WCAG 2.2 accessibility tools: color contrast checks including text over images, EU accessibility declaration generation and an aria-live announcement monitor.
 - [vince-gonzalez/opticquiz-mcp](https://github.com/vince-gonzalez/opticquiz-mcp) [![vince-gonzalez/opticquiz-mcp MCP server](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp/badges/score.svg)](https://glama.ai/mcp/servers/vince-gonzalez/opticquiz-mcp) 📇 🏠 🍎 🪟 🐧 - Color-vision accessibility: check palettes and images for colorblind safety, generate safe palettes, simulate color blindness and create Ishihara-style plates.
 
