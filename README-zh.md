@@ -519,6 +519,10 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [yamanoku/baseline-mcp-server](https://github.com/yamanoku/baseline-mcp-server) 📇 🏠 - 使用Web平台API查询Baseline状态的MCP服务器
 - [Pearch-ai/mcp_pearch](https://github.com/Pearch-ai/mcp_pearch) 🎖️ 🐍 ☁️ - 最佳人才搜索引擎，帮您节省寻找人才的时间
 
+### 🔬 <a name="research"></a>科研
+
+- [sun-praise/latex-agent](https://github.com/sun-praise/latex-agent) 🐍 ☁️ - 无需本地 TeX，通过 MCP 写作和编译学术 LaTeX：支持从 zip/git 导入项目、读写文件、异步编译出真实 PDF、结构化报错修复、synctex 往返，以及可检索、可按页阅读的个人论文库。
+
 ### 🔒 <a name="security"></a>安全
 
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - 安全导向的 MCP 服务器，为 AI 代理提供安全指导和内容分析。
