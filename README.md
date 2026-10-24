@@ -802,6 +802,7 @@ Cloud platform service integration. Enables management and interaction with clou
 - [zw008/VMware-VKS](https://github.com/zw008/VMware-VKS) [![zw008/vmware-vks MCP server](https://glama.ai/mcp/servers/zw008/vmware-vks/badges/score.svg)](https://glama.ai/mcp/servers/zw008/vmware-vks) 🐍 ☁️ - VMware Tanzu / vSphere Kubernetes Service: Supervisor cluster, namespace and Tanzu Kubernetes Cluster lifecycle, with dry-run mode and kubeconfig export.
 - [zyli5313/dochost-mcp](https://github.com/zyli5313/dochost-mcp) [![dochost-mcp MCP server](https://glama.ai/mcp/servers/zyli5313/dochost-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zyli5313/dochost-mcp) 📇 ☁️ - Publish Markdown or HTML to a public shareable link, served script-free from a separate cookieless origin.
 
+- [zhulianxing/dsh-seed-sandbox](https://github.com/zhulianxing/dsh-seed-sandbox) [![zhulianxing/dsh-seed-sandbox MCP server](https://glama.ai/mcp/servers/zhulianxing/dsh-seed-sandbox/badges/score.svg)](https://glama.ai/mcp/servers/zhulianxing/dsh-seed-sandbox) 📇 ☁️ 🟢 - Run code in Seed10000 isolated Docker sandbox via MCP. 3 tools: run_code (python/node/bash/go/rust/java), sandbox_status, list_languages. Zero dependencies. Run with `npx dsh-seed-sandbox`.
 ### 👨‍💻 <a name="code-execution"></a>Code Execution
 
 Code execution servers. Allow LLMs to execute code in a secure environment, e.g. for coding agents.
