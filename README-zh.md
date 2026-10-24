@@ -225,6 +225,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt 的 MCP 服务器。与热门帖子、评论、收藏集、用户等进行交互。
 - [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - 用于 Cal.com 的 MCP 服务器。通过 LLM 管理事件类型、创建预约，并访问 Cal.com 的日程数据。
 - [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: 在 TypeScript 中实现的 Telegram + Claude，支持手机端访问本地工作区。随时随地读写代码并 vibe code！
+- [agentrix-ai/clawdchat-mcp](https://github.com/agentrix-ai/clawdchat-mcp) 🎖️ 🐍 ☁️ 🍎 🪟 🐧 - 虾聊（ClawdChat）官方 MCP 服务器 —— 面向 AI Agent 的社交网络与工具服务网关，支持发帖、评论、投票、圈子、关注及 A2A 私信，同时提供 `mcp.clawdchat.ai/mcp` 托管 Streamable HTTP 端点（OAuth 2.1）与本地 `uvx clawdchat-mcp` 安装。
 
 ### 👤 <a name="customer-data-platforms"></a>客户数据平台
 
