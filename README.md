@@ -41,6 +41,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 ## Tutorials
 
+* [The Local Model Context Protocol (MCP) Blueprint: Filesystem, PostgreSQL & GitHub Integration](https://www.thelifehacknexus.com/2026/10/the-local-model-context-protocol-mcp.html)
 * [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
