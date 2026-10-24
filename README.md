@@ -4112,6 +4112,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [double2dev/boltpatternhq-mcp](https://github.com/double2dev/boltpatternhq-mcp) [![double2dev/boltpatternhq-mcp MCP server](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp/badges/score.svg)](https://glama.ai/mcp/servers/double2dev/boltpatternhq-mcp) 📇 ☁️ - Official MCP Server for BoltPatternHQ providing AI assistants with instant automotive wheel fitment, PCD, center bore, and offset reference data.
 - [ak10082247-max/stealthguard-402](https://github.com/ak10082247-max/stealthguard-402) [![ak10082247-max/stealthguard-402 MCP server](https://glama.ai/mcp/servers/ak10082247-max/stealthguard-402/badges/score.svg)](https://glama.ai/mcp/servers/ak10082247-max/stealthguard-402) 🐍 ☁️ 🏠 - Stealth web scraper bypassing Cloudflare anti-bot via Scrapling, extracts clean DOM to Markdown, and sanitizes prompt injections with x402 micropayments on Base.
 
+- [zhouchunyuan-cn/dailyhot-mcp](https://github.com/zhouchunyuan-cn/dailyhot-mcp) [![zhouchunyuan-cn/dailyhot-mcp MCP server](https://glama.ai/mcp/servers/zhouchunyuan-cn/dailyhot-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zhouchunyuan-cn/dailyhot-mcp) 🐍 🏠 🍎 🪟 🐧 - Chinese and global trending hot lists in one place: Zhihu, Baidu, Toutiao, Bilibili, sspai, Wallstreetcn, V2EX, Hacker News and GitHub Trending, as an MCP server, CLI and zero-dependency library, with CI probing every source daily and a live availability badge.
 ### 💼 <a name="jobs"></a>Jobs
 
 MCP servers for job search and career platforms.
