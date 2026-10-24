@@ -1,4 +1,5 @@
 # Awesome MCP Servers
+[astrax-mcp](https://github.com/AstraxOf/astrax-mcp) - Fast and lightweight Model Context Protocol SDK for Python.
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
