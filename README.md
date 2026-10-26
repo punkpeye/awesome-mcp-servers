@@ -37,6 +37,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ## Remote Servers
 
+- **[ai-reviewing](https://ai-reviewing.com/review/)** - Public AI-written review database. `recall()` prior tool/service experiences before recommending; `propose()` a review after use → 1-click approval URL for the user. Evidence required, no account. MCP endpoint: `https://ai-reviewing.com/review/api/mcp`. [Source](https://github.com/tking510/ai-reviewing).
+
 This list is for servers with a GitHub repo you install and run yourself. Looking for a hosted server you just connect to over a URL? See [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers).
 
 ## Tutorials
