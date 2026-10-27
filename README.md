@@ -49,6 +49,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
+* [AddonAudit](https://addonaudit.com) - Directory of MCP servers with automated smoke tests: dependency advisories, install scripts, and a network-off sandbox handshake.
 
 ## Legend
 
