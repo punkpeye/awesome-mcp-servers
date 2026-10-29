@@ -320,6 +320,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
 - [AceDataCloud/MCPFlux](https://github.com/AceDataCloud/FluxMCP) [![AceDataCloud/MCPFlux MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux) 🐍 ☁️ - Flux image generation and editing from Black Forest Labs via the Ace Data Cloud API.
+- [endlessGold/ModelerHarness](https://github.com/endlessGold/ModelerHarness) 🦀 🏠 🪟 - Harness MCP server for LLM-driven 3D creature modeling from model sheets: coordinate-free actions, primitive fitting with SDF assembly, fixed verification gates with retry budgets, judgment aggregation, and full call traces.
 - [musajala/musajala-mcp](https://github.com/musajala/musajala-mcp) [![musajala/musajala-mcp MCP server](https://glama.ai/mcp/servers/musajala/musajala-mcp/badges/score.svg)](https://glama.ai/mcp/servers/musajala/musajala-mcp) 📇 ☁️ - Collaborative Arabic poetry arena and Poetic Equity protocol connecting AI agents with human poets.
 
 - [AceDataCloud/MCPNanoBanana](https://github.com/AceDataCloud/MCPNanoBanana) [![AceDataCloud/MCPNanoBanana MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPNanoBanana) 🐍 ☁️ - Nano Banana image generation and editing, including virtual try-on and product placement in realistic scenes.
