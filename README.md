@@ -970,6 +970,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 ### 💬 <a name="communication"></a>Communication
 
+- [cleverfox-77/octadezx-mcp](https://github.com/cleverfox-77/octadezx-mcp) ☁️ - [OctaDezx](https://octadezx.com/ai-agent-mcp-server) Model Context Protocol server enabling LLMs to orchestrate customer care, order verification, booking schedules, and live voice dispatch.
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
 - [A1-x-Tech/mcp-google-chat](https://github.com/A1-x-Tech/mcp-google-chat) [![A1-x-Tech/mcp-google-chat MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat) 📇 ☁️ - Google Chat API: list and search spaces, read and send messages, and work with threads and reactions.
