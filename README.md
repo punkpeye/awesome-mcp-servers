@@ -4116,6 +4116,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 MCP servers for job search and career platforms.
 
+- [groundtruthtools/ats-jobs-mcp](https://github.com/groundtruthtools/ats-jobs-mcp) [![groundtruthtools/ats-jobs-mcp MCP server](https://glama.ai/mcp/servers/groundtruthtools/ats-jobs-mcp/badges/score.svg)](https://glama.ai/mcp/servers/groundtruthtools/ats-jobs-mcp) 🐍 ☁️ - Open jobs read first-hand from the applicant-tracking system behind a company's careers page (Greenhouse, Ashby, Lever), with a directory of 7,479 company boards and salaries parsed into numbers. Also hosted with no install at `https://ats-jobs-api.groundtruthtools.workers.dev/mcp`.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
 ### 🔒 <a name="security"></a>Security
