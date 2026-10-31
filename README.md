@@ -4402,7 +4402,7 @@ MCP servers for job search and career platforms.
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
 
-- [Neerajvasupali/instagram-mcp](https://github.com/Neerajvasupali/instagram-mcp) 🐍 🏠 🍎 🪟 🐧 - Meta Graph API v22.0 server with 31 tools for publishing Photos, Reels, Stories and Carousels, comment moderation, demographics and analytics.
+- [Neerajvasupali/instagram-mcp](https://github.com/Neerajvasupali/instagram-mcp) [![Neerajvasupali/instagram-mcp MCP server](https://glama.ai/mcp/servers/Neerajvasupali/instagram-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Neerajvasupali/instagram-mcp) 🐍 🏠 🍎 🪟 🐧 - Meta Graph API v22.0 server with 31 tools for publishing Photos, Reels, Stories and Carousels, comment moderation, demographics and analytics.
 
 - [HasData/instagram-mcp](https://github.com/HasData/instagram-mcp) [![HasData/instagram-mcp MCP server](https://glama.ai/mcp/servers/HasData/instagram-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/instagram-mcp) 📇 ☁️ - Public Instagram data: profiles and post feeds by handle, with follower counts, captions, hashtags and mentions parsed as JSON.
 - [HasData/facebook-mcp](https://github.com/HasData/facebook-mcp) [![HasData/facebook-mcp MCP server](https://glama.ai/mcp/servers/HasData/facebook-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/facebook-mcp) 📇 ☁️ - Public Facebook pages and profiles as JSON: likes, followers, talking-about counts, contact details and post feeds with reactions.
