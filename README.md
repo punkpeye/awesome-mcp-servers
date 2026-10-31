@@ -1,5 +1,10 @@
 # Awesome MCP Servers
 
+</a>
+- [Reits0/forthclear-plugin](https://github.com/Reits0/forthclear-plugin) [![Reits0/forthclear-plugin MCP server](https://glama.ai/mcp/servers/Reits0/forthclear-plugin/badges/score.svg)](https://glama.ai/mcp/servers/Reits0/forthclear-plugin) 🎖️ ☁️ - B2B marketplace for surplus, overstock and returned inventory. Search live lots, check details and manifests, ask sellers for quotes and place orders. Remote server at https://app.forthclear.io/mcp.
+
+# Awesome MCP Servers
+
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
@@ -2173,7 +2178,6 @@ MCP servers for e-commerce platforms and online store management.
 
 - [Pangolin-spg/amazon-data-mcp](https://github.com/Pangolin-spg/amazon-data-mcp) [![Pangolin-spg/amazon-data-mcp MCP server](https://glama.ai/mcp/servers/Pangolin-spg/amazon-data-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Pangolin-spg/amazon-data-mcp) 📇 ☁️ - Read-only Amazon research via Pangolinfo: product details, keyword results, reviews, niche signals, Alexa shopping recommendations and AI-search data.
 
-- [Reits0/forthclear-plugin](https://github.com/Reits0/forthclear-plugin) [![Reits0/forthclear-plugin MCP server](https://glama.ai/mcp/servers/Reits0/forthclear-plugin/badges/score.svg)](https://glama.ai/mcp/servers/Reits0/forthclear-plugin) 🎖️ ☁️ - B2B marketplace for surplus, overstock and returned inventory. Search live lots, check details and manifests, ask sellers for quotes and place orders. Remote server at https://app.forthclear.io/mcp.
 - [samrothschild23/intelligence-api](https://github.com/samrothschild23/intelligence-api) [![MCP Server](https://glama.ai/mcp/servers/samrothschild23/intelligence-api/badges/score.svg)](https://glama.ai/mcp/servers/samrothschild23/intelligence-api) 📇 ☁️ - E-commerce intelligence: analyze Shopify stores, score Amazon product opportunities and FBA profitability, and find sales leads from Google Maps.
 
 - [the402ai/mcp-server](https://github.com/the402ai/mcp-server) [![the402ai/mcp-server MCP server](https://glama.ai/mcp/servers/the402ai/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/the402ai/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - Agent service marketplace with x402 micropayments (USDC on Base): browse and buy services, manage threads and subscriptions, sell services and track earnings.
