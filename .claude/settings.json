@@ -1,0 +1,33 @@
+{
+  "autoMemoryEnabled": false,
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "[ -x \"$HOME/.claude/hooks/rtk-rewrite.sh\" ] && exec \"$HOME/.claude/hooks/rtk-rewrite.sh\" || exit 0"
+          },
+          {
+            "type": "command",
+            "command": "[ -x \"$HOME/@github/ai/scripts/agent/claude-precommit-secrets.sh\" ] && exec \"$HOME/@github/ai/scripts/agent/claude-precommit-secrets.sh\" || exit 0"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "[ -x \"$HOME/@github/ai/scripts/agent/claude-stop-git-status.sh\" ] && exec \"$HOME/@github/ai/scripts/agent/claude-stop-git-status.sh\" || { if [ -n \"$(git status --porcelain 2>/dev/null)\" ]; then printf '%s\\n' '{\"systemMessage\":\"WARN uncommitted changes: commit+push and run npm --prefix ~/@github/ai run session:errors:review before closeout\"}'; fi; exit 0; }"
+          }
+        ]
+      }
+    ]
+  },
+  "env": {
+    "OPENVIKING_RECALL_EXCLUDE_URIS": "viking://resources/4iq,viking://resources/4iq-lv,viking://resources/agoma-lt,viking://resources/ai,viking://resources/auto-product-catalog,viking://resources/b2b-ilprimo-lt,viking://resources/basecoat-ui-mcp,viking://resources/begemotas-serveriai-lt,viking://resources/cursor-global,viking://resources/dentesa,viking://resources/dev-puls-lt,viking://resources/duguva-lt,viking://resources/ilprimo-hostingas-lt,viking://resources/intellmedia-eu,viking://resources/intellmedia-paperclip-os,viking://resources/kolega,viking://resources/lucida-lt,viking://resources/manuals-hatis-eu,viking://resources/modern-minimalist-ui-mcp,viking://resources/muziejusrokiskyje-lt,viking://resources/pass,viking://resources/paulius-zygis,viking://resources/ponytail,viking://resources/pricewatch-v2,viking://resources/rokiskiokarvute-lt,viking://resources/rokiskis-eu,viking://resources/rokiskis-eu-v2,viking://resources/rokvesta-lt,viking://resources/serviceplus-lt,viking://resources/transportas-ilprimo,viking://resources/venera,viking://resources/wp-puls-lt,viking://resources/zygimantas-jasiulionis-eu"
+  }
+}

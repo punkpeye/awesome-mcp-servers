@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "codebase-memory": {
+      "type": "stdio",
+      "command": "${HOME}/.local/bin/codebase-memory-mcp",
+      "args": []
+    },
+    "neuledge-context": {
+      "type": "stdio",
+      "command": "${HOME}/.local/bin/mcp-node",
+      "args": [
+        "${HOME}/@github/ai/tools/mcp-context-proxy.js"
+      ],
+      "env": {
+        "CONTEXT_MCP_URL": "${CONTEXT_MCP_URL:-http://127.0.0.1:8080/mcp}"
+      }
+    }
+  }
+}
