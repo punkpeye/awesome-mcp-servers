@@ -4117,6 +4117,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 MCP servers for job search and career platforms.
 
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [saeedsepehr/jobinja-employer-mcp](https://github.com/saeedsepehr/jobinja-employer-mcp) 🐍 🏠 🍎 🪟 🐧 - Employer-side MCP server for Jobinja, a major Iranian job board: screen and shortlist the resumes your job ads receive with low-token digests, read resume text, star candidates, add team notes, organise folders and reject with a reason.
 
 ### 🔒 <a name="security"></a>Security
 
