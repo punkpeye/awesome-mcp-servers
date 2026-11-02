@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "globatics-live-docs-mcp-80724196",
+  "source": {
+    "issue": 5125,
+    "projectUrl": "https://globatics.live/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://globatics.live/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor"
+  ],
+  "license": "Proprietary (hosted service, no public source repository)"
+}

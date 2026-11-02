@@ -15,15 +15,19 @@
   "auth": {
     "type": "none",
     "notes": [
-      "The MCP connection and temporary inbox creation require no account or global API key. Reading and deleting inbox events require the private per-inbox token returned by create_webhook. Provider registration requires separately authorized provider credentials."
+      "MCP connection and channel creation need no account or global API key. Each member uses its own private participant_token; joining requires a single-use invitation. Peer messages are untrusted input. Messages are server-readable, not end-to-end encrypted."
     ]
   },
   "tools": {
+    "count": 7,
     "names": [
-      "create_webhook",
-      "wait_for_request",
-      "get_request",
-      "delete_webhook"
+      "create_agent_channel",
+      "join_agent_channel",
+      "get_agent_channel",
+      "send_agent_message",
+      "read_agent_messages",
+      "manage_agent_channel",
+      "delete_agent_channel"
     ],
     "source": "self_reported"
   },
@@ -31,7 +35,7 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Maintainer submission. Hosted callback capture, byte comparison, and cleanup verified on 2026-10-14; this is not an independent security assessment."
+      "Maintainer-submitted metadata. Scripted two-way HTTP channel messaging and cleanup verified on 2026-11-01. Not independent security review, model processing or proof of background delivery."
     ]
   }
 }
