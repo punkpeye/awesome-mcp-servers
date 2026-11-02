@@ -2,6 +2,7 @@
 
 Servers focused on interacting with local or remote file systems for reading, writing, editing, listing, or managing files and directories.
 
+- [ctxd-dev/ctxd](https://github.com/ctxd-dev/ctxd) - Open-source context infrastructure with a local MCP bridge for path inspection and bounded source reads.
 - [us-all/google-drive-mcp-server](https://github.com/us-all/google-drive-mcp-server) - Google Drive + Workspace MCP server with 98 tools across Docs, Sheets, Slides, Shared Drives, Labels, and Approvals. OAuth2 / Service Account + Domain-Wide Delegation auth.
 - [raullenchai/vnsh-mcp](https://github.com/raullenchai/vnsh/tree/main/mcp): Ephemeral encrypted file sharing for AI workflows. Client-side AES-256 encryption with 24h auto-vaporization. Read vnsh URLs and share large outputs securely.
 - [MVA-MCP-servers/filesystem](https://github.com/MVA-MCP-servers/filesystem): Node.js server for advanced filesystem operations using Model Context Protocol, featuring smart file management and directory navigation.

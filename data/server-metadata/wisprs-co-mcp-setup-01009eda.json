@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "wisprs-co-mcp-setup-01009eda",
+  "source": {
+    "issue": 5123,
+    "projectUrl": "https://wisprs.co/mcp/setup"
+  },
+  "links": {
+    "endpoint": "https://wisprs.co/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Codex",
+    "Cursor"
+  ],
+  "license": "MIT (client package: https://github.com/Wisprs/wisprs-ai-connectors)"
+}
