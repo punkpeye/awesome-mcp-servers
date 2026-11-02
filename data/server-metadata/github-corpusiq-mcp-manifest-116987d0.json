@@ -5,8 +5,17 @@
     "issue": 5018,
     "projectUrl": "https://github.com/CorpusIQ/mcp-manifest"
   },
+  "description": "One read-only MCP endpoint for 40+ business systems, so an agent can answer a question that spans several of them at once. Every figure is returned with the source system it was read from.",
+  "category": "Data Analysis & Business Intelligence",
   "links": {
-    "endpoint": "https://mcp2.corpusiq.io/mcp"
+    "endpoint": "https://mcp2.corpusiq.io/mcp",
+    "docs": "https://docs.corpusiq.io/hermes/mcp",
+    "homepage": "https://www.corpusiq.io"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
@@ -14,7 +23,7 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth 2.1. Each connected system authorizes independently and read-only, and the hosted service keeps the connection rather than the data."
     ]
   },
   "clients": [
@@ -22,5 +31,19 @@
     "Cursor",
     "VS Code and any MCP-capable client over the remote endpoint."
   ],
-  "license": "Proprietary hosted service; public manifest has no declared license"
+  "license": "Proprietary hosted service; the public repository carries the published registry manifest, not server code or a licensed package.",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Official MCP Registry lists io.corpusiq/multi-source-mcp (v1.0.3, isLatest true) with the same Streamable HTTP endpoint.",
+      "Docs URL returned HTTP 200 on 2026-11-01."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@CorpusIQ"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
 }
