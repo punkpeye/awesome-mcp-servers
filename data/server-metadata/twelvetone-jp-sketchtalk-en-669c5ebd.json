@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "twelvetone-jp-sketchtalk-en-669c5ebd",
+  "source": {
+    "issue": 5178,
+    "projectUrl": "https://twelvetone.jp/sketchtalk/en/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "unknown"
+    ]
+  },
+  "clients": [
+    "Claude Code (Terminal",
+    "VS Code",
+    "and Code in the Claude desktop app)"
+  ],
+  "license": "Proprietary"
+}
