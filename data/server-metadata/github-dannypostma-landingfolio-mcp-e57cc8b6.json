@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dannypostma-landingfolio-mcp-e57cc8b6",
+  "source": {
+    "issue": 5116,
+    "projectUrl": "https://github.com/dannypostma/landingfolio-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.landingfolio.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "Windsurf",
+    "VS Code",
+    "Cline"
+  ],
+  "license": "MIT (docs and config); hosted service"
+}
