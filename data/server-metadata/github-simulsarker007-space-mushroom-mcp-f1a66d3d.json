@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-simulsarker007-space-mushroom-mcp-f1a66d3d",
+  "source": {
+    "issue": 5161,
+    "projectUrl": "https://github.com/simulsarker007/space-mushroom-mcp"
+  },
+  "links": {
+    "endpoint": "https://spacemushroom.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT (docs and config in the repo). The material data is CC BY 4.0."
+}
