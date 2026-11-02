@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nafadza14-zieapi-66b214db",
+  "source": {
+    "issue": 5159,
+    "projectUrl": "https://github.com/nafadza14/zieapi"
+  },
+  "links": {
+    "endpoint": "https://apizie.tech/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Claude Code",
+    "Windsurf"
+  ],
+  "license": "MIT"
+}
