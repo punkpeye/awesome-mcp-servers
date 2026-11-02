@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-atriumkit-atriumkit-mcp-0df8945c",
+  "source": {
+    "issue": 5142,
+    "projectUrl": "https://github.com/atriumkit/atriumkit-mcp"
+  },
+  "links": {
+    "endpoint": "https://app.atriumkit.com/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT (developer mode)",
+    "Cursor"
+  ],
+  "license": "Proprietary hosted service (docs repo only)"
+}

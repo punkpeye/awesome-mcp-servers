@@ -6,7 +6,7 @@
     "projectUrl": "https://github.com/dannypostma/landingfolio-mcp"
   },
   "links": {
-    "endpoint": "https://www.landingfolio.com/mcp"
+    "endpoint": "https://mcp.landingfolio.com/mcp"
   },
   "transport": [
     "streamable-http"

@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "atabooking-com-mcp-docs-2f9e8446",
+  "source": {
+    "issue": 5119,
+    "projectUrl": "https://atabooking.com/mcp/docs/"
+  },
+  "links": {
+    "endpoint": "https://atabooking.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
