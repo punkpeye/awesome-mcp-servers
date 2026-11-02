@@ -2063,6 +2063,8 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
 
+- [DoubleCore/mcp-server-ava](https://github.com/DoubleCore/mcp-server-ava) [![mcp-server-ava MCP server](https://glama.ai/mcp/servers/DoubleCore/mcp-server-ava/badges/score.svg)](https://glama.ai/mcp/servers/DoubleCore/mcp-server-ava) 📇 🏠 🍎 🪟 🐧 - Analyze and visualize data with AVA: load CSV/JSON/text or a file path, run read-only SQL on DuckDB, ask natural-language questions, and get GPT-Vis chart specs.
+
 - [ganapativs/microcharts](https://github.com/ganapativs/microcharts/tree/main/packages/mcp) [![ganapativs/microcharts MCP server](https://glama.ai/mcp/servers/ganapativs/microcharts/badges/score.svg)](https://glama.ai/mcp/servers/ganapativs/microcharts) 📇 🏠 🍎 🪟 🐧 - Word-sized charts (sparklines, bars, bullets and more) rendered to self-contained SVG with generated alt text, plus chart suggestions for a given question.
 
 - [kleinicke/ply-visualizer](https://github.com/kleinicke/ply-visualizer) [![kleinicke/ply-visualizer MCP server](https://glama.ai/mcp/servers/kleinicke/ply-visualizer/badges/score.svg)](https://glama.ai/mcp/servers/kleinicke/ply-visualizer) 🐍 🏠 🍎 🪟 🐧 - Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.
