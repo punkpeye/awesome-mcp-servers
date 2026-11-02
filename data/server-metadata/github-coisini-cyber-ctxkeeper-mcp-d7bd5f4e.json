@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-coisini-cyber-ctxkeeper-mcp-d7bd5f4e",
+  "source": {
+    "issue": 5203,
+    "projectUrl": "https://github.com/Coisini-cyber/ctxkeeper-mcp"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "OpenCode",
+    "Claude Code",
+    "Cursor",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}
