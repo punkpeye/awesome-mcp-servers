@@ -2139,6 +2139,8 @@ MCP servers for learning management systems (LMS) and educational tools.
 
 MCP servers for e-commerce platforms and online store management.
 
+- [Bl0ck154/etsy-api-hub](https://github.com/Bl0ck154/etsy-api-hub) 📇 🏠 🍎 🪟 🐧 - Self-hosted Etsy Open API v3 MCP server with 77 tools for listings, orders, inventory, personalization and media; includes CLI, optional read-only mode and local HTTP integration.
+
 - [HasData/walmart-mcp](https://github.com/HasData/walmart-mcp) [![HasData/walmart-mcp MCP server](https://glama.ai/mcp/servers/HasData/walmart-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/walmart-mcp) 📇 ☁️ - Walmart data as JSON: search results, product pages with the buy-box seller and customer reviews from Walmart US and Canada.
 - [forgemeshlabs/shopscout-mcp](https://github.com/forgemeshlabs/shopscout-mcp) [![forgemeshlabs/shopscout-mcp MCP server](https://glama.ai/mcp/servers/forgemeshlabs/shopscout-mcp/badges/score.svg)](https://glama.ai/mcp/servers/forgemeshlabs/shopscout-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Let your agent shop and compare: Shopify catalog search, offer ranking and shipping-plan comparison, $0.01 USDC per call via x402 on Base.
 - [HasData/amazon-mcp](https://github.com/HasData/amazon-mcp) [![HasData/amazon-mcp MCP server](https://glama.ai/mcp/servers/HasData/amazon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/amazon-mcp) 📇 ☁️ - Amazon data as JSON: keyword search, product details by ASIN, reviews, seller profiles and seller catalogs across marketplaces.
