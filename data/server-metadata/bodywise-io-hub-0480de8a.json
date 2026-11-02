@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "bodywise-io-hub-0480de8a",
+  "source": {
+    "issue": 5215,
+    "projectUrl": "https://bodywise.io/hub"
+  },
+  "links": {
+    "endpoint": "https://bodywise.io/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "OpenClaw",
+    "Codex"
+  ],
+  "license": "Free Public Service"
+}
