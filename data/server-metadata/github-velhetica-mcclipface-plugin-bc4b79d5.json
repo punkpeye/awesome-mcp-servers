@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-velhetica-mcclipface-plugin-bc4b79d5",
+  "source": {
+    "issue": 5201,
+    "projectUrl": "https://github.com/velhetica/mcclipface-plugin"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Velhetica in #5201 under the community profile-claim process.",
+      "Requested profile metadata in #5201: Category: Search Transport: streamable-http Auth: none Install confidence: low License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Velhetica"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
