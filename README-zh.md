@@ -301,6 +301,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 增强开发工作流程和环境管理的工具和集成。
 
+- [rexchou/adalab](https://github.com/rexchou/adalab) 📇 🏠 ☁️ 🍎 🪟 🐧 - 面向 MCP 服务与 AI Agent 的自动化安全扫描器、提示词注入防御基准与验证徽章，提供 CI/CD 门禁与在线报告 [adalab.cc](https://adalab.cc)。
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - 将大量编码助手的系统提示提供为 MCP 工具，支持模型感知推荐与人格激活，可模拟 Cursor、Devin 等代理。
 - [21st-dev/Magic-MCP](https://github.com/21st-dev/magic-mcp) - 打造受21世纪顶尖设计工程师启发的精致UI组件。
 - [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOS代码质量分析和测试自动化服务器。提供全面的Xcode测试执行、SwiftLint集成和详细的故障分析。支持CLI和MCP服务器两种模式，适用于开发者直接使用和AI助手集成。
