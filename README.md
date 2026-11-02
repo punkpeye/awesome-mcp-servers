@@ -2063,6 +2063,8 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
 
+- [ddkbs/sketchy](https://github.com/ddkbs/sketchy) [![ddkbs/sketchy MCP server](https://glama.ai/mcp/servers/ddkbs/sketchy/badges/score.svg)](https://glama.ai/mcp/servers/ddkbs/sketchy) 📇 🏠 🍎 🪟 🐧 - Hand-drawn, interactive diagrams inside the chat as an MCP App: Claude describes the structure and Sketchy lays it out (elkjs), so it never computes coordinates. Step-by-step walkthroughs, architecture diagrams of your code with clickable files, Arduino and ESP32 wiring with real parts, and photos labeled by a local Florence-2 model.
+
 - [ganapativs/microcharts](https://github.com/ganapativs/microcharts/tree/main/packages/mcp) [![ganapativs/microcharts MCP server](https://glama.ai/mcp/servers/ganapativs/microcharts/badges/score.svg)](https://glama.ai/mcp/servers/ganapativs/microcharts) 📇 🏠 🍎 🪟 🐧 - Word-sized charts (sparklines, bars, bullets and more) rendered to self-contained SVG with generated alt text, plus chart suggestions for a given question.
 
 - [kleinicke/ply-visualizer](https://github.com/kleinicke/ply-visualizer) [![kleinicke/ply-visualizer MCP server](https://glama.ai/mcp/servers/kleinicke/ply-visualizer/badges/score.svg)](https://glama.ai/mcp/servers/kleinicke/ply-visualizer) 🐍 🏠 🍎 🪟 🐧 - Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.
