@@ -15,9 +15,7 @@
     ]
   },
   "clients": [
-    "Claude Code (Terminal",
-    "VS Code",
-    "and Code in the Claude desktop app)"
+    "Claude Code"
   ],
   "license": "Proprietary"
 }
