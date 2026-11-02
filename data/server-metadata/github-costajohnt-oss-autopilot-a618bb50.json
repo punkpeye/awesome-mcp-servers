@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-costajohnt-oss-autopilot-a618bb50",
+  "source": {
+    "issue": 5220,
+    "projectUrl": "https://github.com/costajohnt/oss-autopilot"
+  },
+  "install": {
+    "commands": [
+      "npx @oss-autopilot/mcp"
+    ],
+    "env": [
+      "GITHUB_TOKEN"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "GitHub CLI login or GITHUB_TOKEN. HTTP mode adds a generated bearer token."
+    ]
+  },
+  "clients": [
+    "Claude Code (also ships as a plugin)",
+    "Claude Desktop",
+    "Cursor"
+  ],
+  "license": "MIT"
+}
