@@ -5048,6 +5048,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
+- [joinwell52-AI/FCoP](https://github.com/joinwell52-AI/FCoP) [![FCoP MCP server](https://glama.ai/mcp/servers/joinwell52-AI/FCoP/badges/score.svg)](https://glama.ai/mcp/servers/joinwell52-AI/FCoP) 🐍 🏠 - File-based coordination for multi-agent teams: persistent tasks, reports, issues, reviews and branch workflows in Markdown. Includes a Python API, setup/diagnostic CLI and local stdio MCP server.
 
 - [Nyrok/flompt](https://github.com/Nyrok/flompt) [![flompt MCP server](https://glama.ai/mcp/servers/@nyrok/flompt/badges/score.svg)](https://glama.ai/mcp/servers/@nyrok/flompt) 🐍 ☁️ - Visual prompt builder: decompose prompts into semantic blocks and compile them into Claude-optimized XML.
 - [escapeboy/agent-fleet-o](https://github.com/escapeboy/agent-fleet-o) [![escapeboy/agent-fleet-o MCP server](https://glama.ai/mcp/servers/escapeboy/agent-fleet-o/badges/score.svg)](https://glama.ai/mcp/servers/escapeboy/agent-fleet-o) ☁️ 🏠 - Self-hosted mission control for AI agents: manage agents, experiments, workflows, crews, skills and more.
