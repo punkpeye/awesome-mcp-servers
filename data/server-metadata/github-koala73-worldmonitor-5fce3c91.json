@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-koala73-worldmonitor-5fce3c91",
+  "source": {
+    "issue": 5182,
+    "projectUrl": "https://github.com/koala73/worldmonitor"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @koala73 in #5182 under the community profile-claim process.",
+      "Requested profile metadata in #5182: Category: News, Media & Business Transport: streamable-http Auth: oauth Install confidence: low License: AGPL-3.0 Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@koala73"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
