@@ -525,6 +525,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
+- [vocalyagent/rasora](https://github.com/vocalyagent/rasora) 🐍 🏠 🍎 - A separate Chrome that stays signed in and works in the background, with per-site Markdown memory and a guard that refuses payments, posts and deletions unless confirmed.
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Search Bilibili content, with LangChain integration examples.
 - [77777R7/Octocrawl](https://github.com/77777R7/Octocrawl) [![77777R7/Octocrawl MCP server](https://glama.ai/mcp/servers/77777R7/Octocrawl/badges/score.svg)](https://glama.ai/mcp/servers/77777R7/Octocrawl) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Web scraping for AI agents: scrape, map, crawl and batch public pages into Markdown, tables and JSON, each with an Evidence Record (final URL, HTTP status, robots.txt decision, content hashes); a blocked or empty page comes back with the reason. Hosted at `https://mcp.octocrawl.dev/mcp` or local via `npx -y @octocrawl/mcp`. [Setup](https://octocrawl.dev/docs/connect-mcp/?utm_source=awesome-mcp-servers&utm_medium=listing).
 - [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) [![safari-mcp MCP server](https://glama.ai/mcp/servers/achiya-automation/safari-mcp/badges/score.svg)](https://glama.ai/mcp/servers/achiya-automation/safari-mcp) 📇 🏠 🍎 - Native Safari browser automation without a Chrome dependency.
