@@ -4117,6 +4117,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 MCP servers for job search and career platforms.
 
+- [landedjobs/landed-mcp](https://github.com/landedjobs/landed-mcp) [![landedjobs/landed-mcp MCP server](https://glama.ai/mcp/servers/landedjobs/landed-mcp/badges/score.svg)](https://glama.ai/mcp/servers/landedjobs/landed-mcp) 📇 ☁️ - Search AI and tech jobs ranked against a role brief, read a job's application form fields, and fetch free interview prep. Hosted at `https://mcp.landed.jobs/mcp`, usable without a key.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
 ### 🔒 <a name="security"></a>Security
