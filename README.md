@@ -4117,6 +4117,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 MCP servers for job search and career platforms.
 
+- [Benjamin-V-Chan/onet-match](https://github.com/Benjamin-V-Chan/onet-match) [![Benjamin-V-Chan/onet-match MCP server](https://glama.ai/mcp/servers/Benjamin-V-Chan/onet-match/badges/score.svg)](https://glama.ai/mcp/servers/Benjamin-V-Chan/onet-match) 🐍 🏠 🍎 🪟 🐧 - Map free text about work (job titles, resume lines, job postings, skill lists, interests) to O*NET occupations with a local model, and look up any occupation's tasks, skills and interests by SOC code. Read-only, no API key.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
 ### 🔒 <a name="security"></a>Security
