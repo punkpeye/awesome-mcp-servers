@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "sellerforge-ai-mcp-ed31588e",
+  "source": {
+    "issue": 5213,
+    "projectUrl": "https://www.sellerforge.ai/mcp"
+  },
+  "links": {
+    "endpoint": "https://www.sellerforge.ai/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "mcp.json"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web/desktop)",
+    "ChatGPT (developer mode)",
+    "Claude Code",
+    "Cursor",
+    "MCP Inspector"
+  ],
+  "license": "Proprietary (hosted service). Official MCP Registry name: `ai.sellerforge/sellerforge`"
+}
