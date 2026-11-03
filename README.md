@@ -4117,6 +4117,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 MCP servers for job search and career platforms.
 
+- [GeminiGeorge22/ats-jobs-mcp](https://github.com/GeminiGeorge22/ats-jobs-mcp) [![GeminiGeorge22/ats-jobs-mcp MCP server](https://glama.ai/mcp/servers/GeminiGeorge22/ats-jobs-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GeminiGeorge22/ats-jobs-mcp) 📇 ☁️ 🍎 🪟 🐧 - New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards: title, location, department, URL and description.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
 ### 🔒 <a name="security"></a>Security
