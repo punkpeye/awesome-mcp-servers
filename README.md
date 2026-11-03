@@ -524,6 +524,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
+- [ninelegsdog/qualityforge](https://github.com/ninelegsdog/qualityforge) [![ninelegsdog/qualityforge MCP server](https://glama.ai/mcp/servers/ninelegsdog/qualityforge/badges/score.svg)](https://glama.ai/mcp/servers/ninelegsdog/qualityforge) 📇 🏠 🐍 - Evidence-first browser QA automation with read-only MCP server. Turns Playwright test failures into normalized defect artifacts (trace, screenshot, video, console/network logs) for AI agent analysis.
 
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Search Bilibili content, with LangChain integration examples.
 - [77777R7/Octocrawl](https://github.com/77777R7/Octocrawl) [![77777R7/Octocrawl MCP server](https://glama.ai/mcp/servers/77777R7/Octocrawl/badges/score.svg)](https://glama.ai/mcp/servers/77777R7/Octocrawl) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Web scraping for AI agents: scrape, map, crawl and batch public pages into Markdown, tables and JSON, each with an Evidence Record (final URL, HTTP status, robots.txt decision, content hashes); a blocked or empty page comes back with the reason. Hosted at `https://mcp.octocrawl.dev/mcp` or local via `npx -y @octocrawl/mcp`. [Setup](https://octocrawl.dev/docs/connect-mcp/?utm_source=awesome-mcp-servers&utm_medium=listing).
