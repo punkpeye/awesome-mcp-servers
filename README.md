@@ -4477,6 +4477,8 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [yxs1640-png/xflux](https://github.com/yxs1640-png/xflux) [![yxs1640-png/xflux MCP server](https://glama.ai/mcp/servers/yxs1640-png/xflux/badges/score.svg)](https://glama.ai/mcp/servers/yxs1640-png/xflux) 📇 🏠 - Read-only X/Twitter API for agents: search, timelines, profiles, Smart Money. npm `@xflux/xflux-mcp-server`. Not for posting.
 - [ilyautov/vk-mcp-ru](https://github.com/ilyautov/vk-mcp-ru) [![ilyautov/vk-mcp-ru MCP server](https://glama.ai/mcp/servers/ilyautov/vk-mcp-ru/badges/score.svg)](https://glama.ai/mcp/servers/ilyautov/vk-mcp-ru) 🐍 🏠 🍎 🪟 🐧 - VK API access: wall posts, communities, messages, market items, ads and stats, with plain-language method search and a read/write/destructive safety gate.
 
+- [llmops-pro/marketplace-mcp](https://github.com/llmops-pro/marketplace-mcp) [![llmops-pro/marketplace-mcp MCP server](https://glama.ai/mcp/servers/llmops-pro/marketplace-mcp/badges/score.svg)](https://glama.ai/mcp/servers/llmops-pro/marketplace-mcp) 📇 🏠 - Run a Shopstr / NOSTR marketplace storefront from an agent (NIP-15 stalls/products + Shopstr-modern NIP-99 listings, with the cache POST that makes cards render). MIT.
+
 ### 🔮 <a name="spirituality-and-esoterica"></a>Spirituality & Esoterica
 
 Astrology, tarot, numerology, Vedic systems, Human Design and other divinatory or esoteric tools — for AI agents that compute charts, draw cards, run dasha cycles, or generate horoscopes.
