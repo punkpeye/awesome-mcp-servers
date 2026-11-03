@@ -2,6 +2,8 @@
 
 Servers enhancing developer workflows, integrating with IDEs, accessing documentation, API exploration, code generation helpers, or general dev utilities.
 
+- [Beamline UI](https://beamline.io/connect): Lets a coding agent find, preview and install Beamline UI's React components and complete app screens into the project as editable source files. Endpoint: `https://mcp.beamline.io/mcp`. Transport: streamable-http. Auth: OAuth 2.1 (sign in with Google, GitHub or an e-mail code). Tools: `beamline_capabilities`, `beamline_component`, `beamline_picture`, `beamline_install`. Clients: Claude Code, Codex, Cursor. A free MIT sample comes with every account; the complete system is paid. [Docs](https://beamline.io/auth.md).
+
 - [POSH](https://github.com/skatkov/posh-mcp): Search and read local Ruby and gem documentation matched to project versions. Install: `brew install --cask skatkov/tap/poshtui`, AUR, or the published MCPB bundle; run `posh mcp`. Transport: stdio (macOS/Linux). Auth: locally activated POSH agent-tools license; no API-key environment variable. Tools: `docsets`, `search`, `list`, `outline`, `read`, `sync`; sync downloads docs and updates the local index. License: proprietary; this public repository contains installation metadata, not application source. [Docs](https://poshtui.com/docs/mcp/).
 
 - [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server): Search and retrieve the official xmcp documentation for building MCP servers with TypeScript. Endpoint: `https://xmcp.dev/mcp`. Transport: streamable-http. Auth: none. Tools: `search` (query documentation or retrieve a page by ID). Free and read-only. License: MIT. [Source](https://github.com/basementstudio/xmcp/tree/main/apps/website).
