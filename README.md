@@ -283,6 +283,7 @@ Servers for accessing many apps and tools through a single MCP server.
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Astronomical catalog data and observing session planning: OpenNGC deep-sky objects with visibility, rise/transit/set and alt/az calculations.
+- [tanudai/astrodai-mcp](https://github.com/tanudai/astrodai-mcp) 🎖️ ☁️ 🍎 🪟 🐧 - Vedic astrology and ephemeris calculation engine calibrated to Swiss Ephemeris and Jagannatha Hora (JHora): sidereal planetary coordinates, 23 classical divisional vargas, Vimshottari dasha timelines, and birth-time sensitivity audits.
 - [viventine-space/orbit-sentinel-mcp](https://github.com/viventine-space/orbit-sentinel-mcp) [![Viventine-Space/orbit-sentinel-mcp MCP server](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp) 🎖️ 🏎️ ☁️ 🍎 🪟 🐧 - Search FCC, ITU, UNOOSA and FAA space regulatory filings via Orbit Sentinel: semantic search, entity dossiers, spectrum holdings, launch licenses and alerts.
 
 ### 🤝 <a name="agreements--coordination"></a>Agreements & Coordination
