@@ -296,6 +296,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 用于数据集成、转换和管道编排的数据平台。
 
 - [flowcore/mcp-flowcore-platform](https://github.com/flowcore-io/mcp-flowcore-platform) 🎖️📇☁️🏠 - 与 Flowcore 交互以执行操作、提取数据以及分析、交叉引用和利用数据核心或公共数据核心中的任何数据；全部通过人类语言完成。
+- [Shine8592/duduExcel](https://github.com/Shine8592/duduExcel) 🐍 🏠 - 面向 AI Agent 的中文 Excel MCP：服务端聚合省 token（aggregate/top_n 只回结果不回数据行）、格式语义可查询（删除线=作废/高亮=待审阅，format_scan 独有能力）、写前自动备份+回滚、11 项机械检查、LibreOffice 公式重算。
 
 ### 💻 <a name="developer-tools"></a>开发者工具
 
@@ -697,6 +698,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [kukapay/whoami-mcp](https://github.com/kukapay/whoami-mcp) 🐍 🏠 - 一款轻量级MCP服务器，能准确告诉你你的身份。
 - [flux159/mcp-chat](https://github.com/flux159/mcp-chat) 📇🖥️ - 基于命令行的客户端，用于与任何MCP服务器进行聊天和连接。在MCP服务器的开发与测试阶段非常实用。
 - [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) 🏎️ - 一个通过单个HTTP服务器聚合并服务多个MCP资源服务器的MCP代理服务器。
+- [Shine8592/dudutt](https://github.com/Shine8592/dudutt) 🐍 🏠 - 快团团网店管理 MCP：发布商品/改库存走官方 POP API，下架/改价走浏览器兜底，双后端可插拔（api/browser/mock/auto）；写操作默认 dry-run + 幂等键 + 审计日志，能力如实声明（官方无下架/改价接口，绝不假装成功）。
 
 ## 提示和技巧
 
