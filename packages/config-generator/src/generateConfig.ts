@@ -9,6 +9,11 @@ export interface GeneratedConfig {
   config: {
     mcpServers: Record<string, ServerConfig>;
   };
+  nativeConfig?: {
+    filename: "config.toml";
+    format: "toml";
+    content: string;
+  };
   notes: string[];
 }
 
@@ -42,8 +47,45 @@ export const generateClientConfig = (
         [entry.id]: serverConfig,
       },
     },
-    notes: buildNotes(entry),
+    ...(client === "codex" ? {
+      nativeConfig: {
+        filename: "config.toml" as const,
+        format: "toml" as const,
+        content: renderCodexConfig(entry.id, serverConfig),
+      },
+    } : {}),
+    notes: [
+      ...buildNotes(entry),
+      ...(client === "codex" ? ["Merge this MCP section into config.toml; do not replace the whole file."] : []),
+    ],
   };
+};
+
+const tomlString = (value: string): string => {
+  if (/[\uD800-\uDFFF]/u.test(value)) {
+    throw new Error("TOML strings must contain valid Unicode scalar values");
+  }
+  return JSON.stringify(value).replace(/\u007f/g, "\\u007f");
+};
+
+const renderCodexConfig = (serverId: string, config: ServerConfig): string => {
+  const table = `mcp_servers.${tomlString(serverId)}`;
+  const lines = [`[${table}]`];
+
+  if ("url" in config) {
+    lines.push(`url = ${tomlString(config.url)}`);
+  } else {
+    lines.push(`command = ${tomlString(config.command)}`);
+    lines.push(`args = [${config.args.map(tomlString).join(", ")}]`);
+    if (config.env && Object.keys(config.env).length > 0) {
+      lines.push("", `[${table}.env]`);
+      for (const [key, value] of Object.entries(config.env)) {
+        lines.push(`${tomlString(key)} = ${tomlString(value)}`);
+      }
+    }
+  }
+
+  return `${lines.join("\n")}\n`;
 };
 
 const buildServerConfig = (entry: CatalogEntry): ServerConfig => {

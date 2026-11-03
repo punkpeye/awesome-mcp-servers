@@ -97,6 +97,31 @@ afterEach(async () => {
 });
 
 describe("registry API server", () => {
+  it("serves Codex TOML for a direct-copy request while default JSON stays available", async () => {
+    const baseUrl = await startServer();
+    const url = `${baseUrl}/v1/servers/postgres-mcp/install-config?client=codex`;
+    const jsonResponse = await fetch(url);
+    const body = await jsonResponse.json() as { config: unknown; nativeConfig: { content: string } };
+    expect(jsonResponse.status).toBe(200);
+    expect(body.config).toEqual({ mcpServers: { "postgres-mcp": {
+      command: "npx", args: ["postgres-mcp"], env: { DATABASE_URL: "<DATABASE_URL>" },
+    } } });
+    const textResponse = await fetch(`${url}&format=toml`);
+    expect(textResponse.status).toBe(200);
+    expect(textResponse.headers.get("content-type")).toContain("text/plain");
+    expect(textResponse.headers.get("access-control-allow-origin")).toBe("*");
+    expect(textResponse.headers.get("cache-control")).toBe("public, max-age=60");
+    expect(await textResponse.text()).toBe(body.nativeConfig.content);
+  });
+
+  it.each(["client=cursor&format=toml", "client=codex&format=yaml"])(
+    "rejects unsupported install output %s", async (query) => {
+      const baseUrl = await startServer();
+      const response = await fetch(`${baseUrl}/v1/servers/postgres-mcp/install-config?${query}`);
+      expect(response.status).toBe(400);
+      expect(response.headers.get("content-type")).toContain("application/json");
+    });
+
   it("returns API discovery from the root path", async () => {
     const baseUrl = await startServer();
     const response = await fetch(baseUrl);

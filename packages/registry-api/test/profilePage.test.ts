@@ -56,6 +56,12 @@ const entry: CatalogEntry = {
 };
 
 describe("renderServerProfilePage", () => {
+  it("labels the Codex destination and links to copyable TOML", () => {
+    const html = renderServerProfilePage(entry);
+    expect(html).toContain('install-config?client=codex&amp;format=toml">Codex (config.toml)</a>');
+    expect(html).toContain('install-config?client=cursor">cursor</a>');
+  });
+
   it("escapes text and blocks unsafe links", () => {
     const html = renderServerProfilePage(entry);
 

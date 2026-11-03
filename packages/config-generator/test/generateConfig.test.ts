@@ -167,3 +167,48 @@ describe("generateClientConfig", () => {
     );
   });
 });
+
+
+describe("Codex native configuration", () => {
+  it("adds a copyable MCP TOML section without replacing the legacy JSON object", () => {
+    const entry = createEntry({
+      links: { primary: "https://example.invalid", repo: null, homepage: null, docs: null,
+        endpoint: "https://example.invalid/mcp?first=1&second=2" },
+      transport: ["streamable-http"],
+    });
+    const generated = generateClientConfig(entry, "codex");
+    expect(generated.config).toEqual({ mcpServers: {
+      [entry.id]: { url: "https://example.invalid/mcp?first=1&second=2" },
+    } });
+    expect(generated).toHaveProperty("nativeConfig", {
+      filename: "config.toml", format: "toml",
+      content: '[mcp_servers."github-owner-demo"]\nurl = "https://example.invalid/mcp?first=1&second=2"\n',
+    });
+    expect(generateClientConfig(entry, "cursor")).not.toHaveProperty("nativeConfig");
+    expect(generated.notes).toContain("Merge this MCP section into config.toml; do not replace the whole file.");
+  });
+
+  it("preserves stdio argument boundaries and keeps environment values in the env table", () => {
+    const entry = createEntry({
+      id: "owner.demo",
+      install: { commands: ['node "path with spaces/server.js" --name "two words"'],
+        env: ["DEMO.API_KEY"], confidence: "medium" },
+    });
+    expect(generateClientConfig(entry, "codex")).toHaveProperty("nativeConfig.content",
+      '[mcp_servers."owner.demo"]\ncommand = "node"\nargs = ["path with spaces/server.js", "--name", "two words"]\n\n[mcp_servers."owner.demo".env]\n"DEMO.API_KEY" = "<DEMO.API_KEY>"\n');
+  });
+
+  it("escapes quotes, newlines and DEL without allowing a second TOML table", () => {
+    const entry = createEntry({ id: 'demo"\n[other]',
+      links: { primary: "https://example.invalid", repo: null, homepage: null, docs: null,
+        endpoint: 'https://example.invalid/"\n\u007f' }, transport: ["streamable-http"] });
+    expect(generateClientConfig(entry, "codex")).toHaveProperty("nativeConfig.content",
+      '[mcp_servers."demo\\"\\n[other]"]\nurl = "https://example.invalid/\\"\\n\\u007f"\n');
+  });
+
+  it("rejects non-scalar Unicode instead of emitting invalid TOML", () => {
+    const entry = createEntry({ id: "bad\ud800" });
+    expect(() => generateClientConfig(entry, "codex")).toThrow("TOML strings must contain valid Unicode scalar values");
+    expect(() => generateClientConfig(entry, "cursor")).not.toThrow();
+  });
+});

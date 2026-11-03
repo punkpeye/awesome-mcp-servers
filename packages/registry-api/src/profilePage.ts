@@ -271,7 +271,7 @@ export const renderServerProfilePage = (entry: CatalogEntry): string => {
         <dt>Environment</dt>
         <dd>${envVars}</dd>
         <dt>Generated configs</dt>
-        <dd>${CLIENTS.map((client) => `<a href="/v1/servers/${encodeURIComponent(entry.id)}/install-config?client=${client}">${client}</a>`).join(" · ")}</dd>
+        <dd>${CLIENTS.map((client) => `<a href="/v1/servers/${encodeURIComponent(entry.id)}/install-config?client=${client}${client === "codex" ? "&amp;format=toml" : ""}">${client === "codex" ? "Codex (config.toml)" : client}</a>`).join(" · ")}</dd>
       </dl>
     </section>
 
