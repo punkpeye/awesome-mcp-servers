@@ -936,7 +936,6 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [REX-codebase/fable-mode](https://github.com/REX-codebase/fable-mode) [![REX-codebase/fable-mode MCP server](https://glama.ai/mcp/servers/REX-codebase/fable-mode/badges/score.svg)](https://glama.ai/mcp/servers/REX-codebase/fable-mode) 🐍 🏠 🍎 🪟 🐧 - Control plane for AI coding agents: time-locks writing, requires evidence for claims, runs adversarial review and keeps a sealed verification record.
 - [ZensHQ/call-grokbot](https://github.com/ZensHQ/call-grokbot) [![ZensHQ/call-grokbot MCP server](https://glama.ai/mcp/servers/ZensHQ/call-grokbot/badges/score.svg)](https://glama.ai/mcp/servers/ZensHQ/call-grokbot) 📇 🏠 🍎 🪟 🐧 - Call your Grok Bots from Codex, Claude Code and other MCP clients: list bots, ask, check and interrupt requests.
 
-- 
 ### 🖥️ <a name="command-line"></a>Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
 
