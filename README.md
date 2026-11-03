@@ -319,6 +319,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
+- [xixi048/feeling-search-mcp](https://github.com/xixi048/feeling-search-mcp) [![xixi048/feeling-search-mcp MCP server](https://glama.ai/mcp/servers/xixi048/feeling-search-mcp/badges/score.svg)](https://glama.ai/mcp/servers/xixi048/feeling-search-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - Turn one plain-language feeling into the best-matching visual art styles, each with a definition, an image-generation prompt and reference images (762 feeling words to 598 named styles); local-first dictionary with an offline path.
 - [AceDataCloud/MCPFlux](https://github.com/AceDataCloud/FluxMCP) [![AceDataCloud/MCPFlux MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux) 🐍 ☁️ - Flux image generation and editing from Black Forest Labs via the Ace Data Cloud API.
 - [musajala/musajala-mcp](https://github.com/musajala/musajala-mcp) [![musajala/musajala-mcp MCP server](https://glama.ai/mcp/servers/musajala/musajala-mcp/badges/score.svg)](https://glama.ai/mcp/servers/musajala/musajala-mcp) 📇 ☁️ - Collaborative Arabic poetry arena and Poetic Equity protocol connecting AI agents with human poets.
 
