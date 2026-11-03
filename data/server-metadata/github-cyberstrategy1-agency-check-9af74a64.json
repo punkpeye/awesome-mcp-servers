@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cyberstrategy1-agency-check-9af74a64",
+  "source": {
+    "issue": 5211,
+    "projectUrl": "https://github.com/CyberStrategy1/agency-check"
+  },
+  "links": {
+    "endpoint": "https://agency-check.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT (developer mode)",
+    "Cursor",
+    "any client that supports remote MCP with OAuth"
+  ],
+  "license": "Docs repo CC-BY-4.0; hosted service (server source not public)"
+}
