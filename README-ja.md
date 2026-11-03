@@ -294,6 +294,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 
 開発ワークフローと環境管理を強化するツールと統合。
 
+- [snappysnag/snappy-snag-mcp](https://github.com/snappysnag/snappy-snag-mcp) [![SnappySnag MCP server](https://glama.ai/mcp/servers/snappysnag/snappy-snag-mcp/badges/score.svg)](https://glama.ai/mcp/servers/snappysnag/snappy-snag-mcp) 🎖️ 📇 ☁️ - Flutterアプリのバグ修正、画面ピン留め、端末診断ログ、ユーザーフィードバックをCursor、Windsurf、Claudeに直接連携。
 - [a-25/ios-mcp-code-quality-server](https://github.com/a-25/ios-mcp-code-quality-server) 📇 🏠 🍎 - iOSコード品質分析とテスト自動化サーバー。包括的なXcodeテスト実行、SwiftLint統合、詳細な障害分析を提供。CLIとMCPサーバーモードの両方で動作し、直接開発者使用とAIアシスタント統合に対応。
 - [FI-Mihej/codebase-agent-mcp](https://github.com/FI-Mihej/codebase-agent-mcp) [![codebase-agent-mcp MCP server](https://glama.ai/mcp/servers/FI-Mihej/codebase-agent-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FI-Mihej/codebase-agent-mcp) 🐍 🏠 🍎 🪟 🐧 - サブハーネス (MCPサーバーとMCPクライアントの両方として機能)。ドキュメントやソースコードの解析、および関連するコンテキストを提供するMCPサーバーとのやり取りを、ローカルまたは低コストのOpenAI互換LLMに委譲します。これにより、最上位クラスのLLMを使用するコーディングエージェントにおけるトークン消費量とコンテキストサイズを大幅に削減します。 `uvx codebase-agent-mcp`
 - [JamesANZ/system-prompts-mcp-server](https://github.com/JamesANZ/system-prompts-mcp-server) 📇 🏠 🍎 🪟 🐧 - 多数のコーディングアシスタント向けシステムプロンプトを MCP ツールとして公開し、モデル感知のレコメンドとペルソナ切り替えで Cursor や Devin などを再現できます。
