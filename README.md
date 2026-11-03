@@ -2063,6 +2063,8 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
 
+- [amcharts/amcharts5-mcp](https://github.com/amcharts/amcharts5-mcp) [![amcharts/amcharts5-mcp MCP server](https://glama.ai/mcp/servers/amcharts/amcharts5-mcp/badges/score.svg)](https://glama.ai/mcp/servers/amcharts/amcharts5-mcp) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Official server for amCharts 5, the JavaScript charts and maps library: docs, 350+ code examples, the per-class API reference and map files, so agents write working chart code. Hosted at `https://mcp.amcharts.com/mcp` (no auth), or run with `npx -y @amcharts/amcharts5-mcp`.
+
 - [ganapativs/microcharts](https://github.com/ganapativs/microcharts/tree/main/packages/mcp) [![ganapativs/microcharts MCP server](https://glama.ai/mcp/servers/ganapativs/microcharts/badges/score.svg)](https://glama.ai/mcp/servers/ganapativs/microcharts) 📇 🏠 🍎 🪟 🐧 - Word-sized charts (sparklines, bars, bullets and more) rendered to self-contained SVG with generated alt text, plus chart suggestions for a given question.
 
 - [kleinicke/ply-visualizer](https://github.com/kleinicke/ply-visualizer) [![kleinicke/ply-visualizer MCP server](https://glama.ai/mcp/servers/kleinicke/ply-visualizer/badges/score.svg)](https://glama.ai/mcp/servers/kleinicke/ply-visualizer) 🐍 🏠 🍎 🪟 🐧 - Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.
