@@ -4399,6 +4399,8 @@ MCP servers for job search and career platforms.
 - [verax-ai/verax](https://github.com/verax-ai/verax) [![verax-ai/verax MCP server](https://glama.ai/mcp/servers/verax-ai/verax/badges/score.svg)](https://glama.ai/mcp/servers/verax-ai/verax) 📇 🏠 🪟 🐧 - Sits between an agent and its tools: every call passes a policy gate and leaves a signed decision record before it runs, a refusal is recorded like an approval, payments wait for an operator on the same machine, and the ledger stays there and verifies offline. Apache-2.0.
 
 - [ak10082247-max/canaryguard-402](https://github.com/ak10082247-max/canaryguard-402) [![ak10082247-max/canaryguard-402 MCP server](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402/badges/score.svg)](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402) 📇 ☁️ 🏠 🍎 🪟 🐧 - Deterministic prompt-injection detector, concealed Unicode scrubber, and honeypot wallet defense MCP server for AI agents.
+- [ph4ntom-rev/ph4ntom-ida-bridge](https://github.com/ph4ntom-rev/ph4ntom-ida-bridge) [![ph4ntom-rev/ph4ntom-ida-bridge MCP server](https://glama.ai/mcp/servers/ph4ntom-rev/ph4ntom-ida-bridge/badges/score.svg)](https://glama.ai/mcp/servers/ph4ntom-rev/ph4ntom-ida-bridge) 🐍 🏠 🪟 🐧 🍎 - Autonomous AI & MCP control layer for IDA Pro 9.x with 54 MCP tools for decompilation, AST ctree, Microcode IR, cross-references, type definitions, live debugging, and safe atomic database mutations.
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
