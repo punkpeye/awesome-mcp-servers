@@ -5093,3 +5093,6 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [maximecernot-crypto/orion-mcp](https://github.com/maximecernot-crypto/orion-mcp) ?? - Private wealth engineering, Family Office consolidation, trusts (fiducies), corporate cap-tables, and multi-jurisdictional tax & estate modeling (FR, LU, MC, AD) over remote MCP (`2025-03-26`) + OAuth 2.1 (`https://www.orion-finance.eu/api/mcp`).
+- [maximecernot-crypto/korpus-mcp](https://github.com/maximecernot-crypto/korpus-mcp) ?? - Multi-jurisdictional statutory, regulatory, and case-law intelligence (FR, EU, LU, MC, AD) with anti-hallucination SHA-256 citation resolution over remote MCP (`2025-03-26`) + OAuth 2.1 (`https://www.korpus.lu/api/v1/mcp`).
