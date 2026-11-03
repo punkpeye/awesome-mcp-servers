@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-zenshq-call-grokbot-55eb4519",
+  "source": {
+    "issue": 5239,
+    "projectUrl": "https://github.com/ZensHQ/call-grokbot"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "unknown"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor"
+  ],
+  "license": "MIT"
+}
