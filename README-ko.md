@@ -548,6 +548,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) 📇 ☁️ - YouTube 자막 가져오기
 - [Seym0n/tiktok-mcp](https://github.com/Seym0n/tiktok-mcp) 📇 ☁️ - TikTok 동영상과 상호 작용
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) 🐍 ☁️ - 개인 할 일 목록 관리를 위해 Notion의 API와 통합
+- [David-Porto-Baraldes/Viveka_Web](https://github.com/David-Porto-Baraldes/Viveka_Web) [![Viveka_Web MCP server](https://glama.ai/mcp/servers/David-Porto-Baraldes/Viveka_Web/badges/score.svg)](https://glama.ai/mcp/servers/David-Porto-Baraldes/Viveka_Web) 🎖️ 🐍 ☁️ 🏠 🍎 🪟 🐧 - 스위스 천문력(`pyswisseph`, `<1.5ms`, 무인증 Zero-Auth, Rule 14 영지식 개인정보 보호) 기반의 7대 지혜 및 4원소 천문력·명리학 오라클: 사주팔자(四柱八字·오행), 주역 64괘(周易), 서양 및 드라코닉 점성술, 인도 베다 점성술(조티쉬·다샤), 마야 달력(드레스덴 코덱스), 휴먼 디자인 64게이트, 연금술 타로, 카발라 및 3D 영혼 궁합(시나스트리). 원격 엔드포인트: `https://homouniversalis.ai/mcp`.
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - 자율 셸 실행, 컴퓨터 제어 및 코딩 에이전트. (Mac)
 - [henilcalagiya/mcp-apple-notes](https://github.com/henilcalagiya/mcp-apple-notes) 🐍 🏠 - 모델 컨텍스트 프로토콜(MCP)을 사용하여 Apple Notes를 자동화하는 강력한 도구. HTML 콘텐츠, 폴더 관리 및 검색 기능을 지원하는 완전한 CRUD 지원.
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 🏠 - 암호화폐 목록 및 시세를 가져오기 위한 Coinmarket API 통합
