@@ -5045,7 +5045,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [auroracapital/upres-cli](https://github.com/auroracapital/upres-cli) [![auroracapital/upres-cli MCP server](https://glama.ai/mcp/servers/auroracapital/upres-cli/badges/score.svg)](https://glama.ai/mcp/servers/auroracapital/upres-cli) 📇 ☁️ - Image and video upscaling via the UpRes API: submit jobs, poll status and download results.
 - [manueltarouca/qbt-kit](https://github.com/manueltarouca/qbt-kit) [![manueltarouca/qbt-kit MCP server](https://glama.ai/mcp/servers/manueltarouca/qbt-kit/badges/score.svg)](https://glama.ai/mcp/servers/manueltarouca/qbt-kit) 🐍 🏠 🍎 🪟 🐧 - qBittorrent WebUI API: all 123 endpoints, with confirmation required on destructive operations and a read-only mode that holds through the raw call.
 ## Frameworks
-
+[Antigravity-OS](https://github.com/ratulbd/antigravity-os)
+ - An autonomous engineering runtime & 182-skill playbook for Google Antigravity and AI coding agents with AST dual-memory routing.
 > [!NOTE]
 > More frameworks, utilities, and other developer tools are available at https://github.com/punkpeye/awesome-mcp-devtools
 
