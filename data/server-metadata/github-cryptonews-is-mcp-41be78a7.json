@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cryptonews-is-mcp-41be78a7",
+  "source": {
+    "issue": 5244,
+    "projectUrl": "https://github.com/cryptonews-is/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.cryptonews.is/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "any MCP client with OAuth or headers"
+  ],
+  "license": "MIT (examples); hosted service under https://mcp.cryptonews.is/terms"
+}
