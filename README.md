@@ -3745,6 +3745,8 @@ Tools for product planning, customer feedback analysis, and prioritization.
 - [fenbs-ai/fenbs-mcp](https://github.com/fenbs-ai/fenbs-mcp) [![fenbs-ai/fenbs-mcp MCP server](https://glama.ai/mcp/servers/fenbs-ai/fenbs-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fenbs-ai/fenbs-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - fenbs project board where people and AI assistants are members with roles: tasks, decisions with sign-off, testing notes and project rules, every change signed. Remote server at https://fenbs.ai/api/mcp or `npx -y fenbs-mcp`.
 - [zanaat-dev/baron](https://github.com/zanaat-dev/baron) [![zanaat-dev/baron MCP server](https://glama.ai/mcp/servers/zanaat-dev/baron/badges/score.svg)](https://glama.ai/mcp/servers/zanaat-dev/baron) 📇 ☁️ 🏠 🍎 🪟 🐧 - Work orchestration for AI coding agents: create, move and link issues, cut branches, open and merge PRs, and notify — on Azure DevOps, GitHub, Jira, Linear and Slack — through one normalized contract, with each tracker's states mapped to roles once at `baron init` and committed. Install: `npx -y @zanaat/baron-mcp-server@latest`.
 
+- [zaialamm/citable-mcp](https://github.com/zaialamm/citable-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - SEO and AI-visibility checks the agent buys per call in USDC on Solana via x402 — keyword volumes, Google rank checks, on-page/citability audits, backlinks, and which AI engines cite a domain for a buyer question. No API key, no account; failed calls are never charged. `npx -y citable-mcp`
+
 ### 🏠 <a name="real-estate"></a>Real Estate
 
 MCP servers for real estate CRM, property management, and agent workflows.
