@@ -567,6 +567,7 @@ Books, libraries, and creative tools.
 Commerce and marketplace integrations.
 
 - Mercado Libre — https://mcp.mercadolibre.com/
+- EcomPick — https://github.com/YXCerk/ecompick-mcp - Find and compare ecommerce seller tools by task, platform and pricing (remote: https://ecompick.com/mcp)
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
 
