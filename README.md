@@ -4117,6 +4117,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 MCP servers for job search and career platforms.
 
+- [laddro-app/laddro-career-mcp](https://github.com/laddro-app/laddro-career-mcp) [![laddro-app/laddro-career-mcp MCP server](https://glama.ai/mcp/servers/laddro-app/laddro-career-mcp/badges/score.svg)](https://glama.ai/mcp/servers/laddro-app/laddro-career-mcp) 🎖️ 📇 ☁️ 🏠 - Laddro resume and cover letter builder: create and edit resumes, tailor them to a job description, write cover letters, browse templates and export PDFs, in 21 languages. Hosted endpoint with OAuth or local via npx.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
 ### 🔒 <a name="security"></a>Security
