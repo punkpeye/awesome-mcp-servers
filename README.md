@@ -4119,6 +4119,8 @@ MCP servers for job search and career platforms.
 
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
+- [MIt9/perplexity-pro-mcp](https://github.com/MIt9/perplexity-pro-mcp) [![MIt9/perplexity-pro-mcp MCP server](https://glama.ai/mcp/servers/MIt9/perplexity-pro-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/perplexity-pro-mcp) 📇 🏠 🍎 🪟 🐧 - MCP server for Perplexity AI Pro — deep web search, follow-up questions, conversation threads and export via your browser session cookie. Zero-config npx install.
+
 ### 🔒 <a name="security"></a>Security
 
 - [mrpkk/attest](https://github.com/mrpkk/attest) [![mrpkk/attest MCP server](https://glama.ai/mcp/servers/mrpkk/attest/badges/score.svg)](https://glama.ai/mcp/servers/mrpkk/attest) 🐍 ☁️ 🍎 🪟 🐧 - Verifies an artifact an AI agent produced (JSON, code, structured output) against a JSON Schema plus positional prompt-injection checks, returning a verdict with reasons before you accept the result. x402-paid with a free tier of 20 checks/day.
