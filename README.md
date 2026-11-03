@@ -115,7 +115,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
-* 🎯 - [Marketing](#marketing)
+* 🎯 - [Marketing](#marketingF
 * 📊 - [Monitoring](#monitoring)
 * 🎥 - [Multimedia Process](#multimedia-process)
 * 🖥️ - [OS Automation](#os-automation)
@@ -3393,6 +3393,7 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [AutomateLab-tech/seo-performance-mcp](https://github.com/AutomateLab-tech/seo-performance-mcp) [![AutomateLab-tech/seo-performance-mcp MCP server](https://glama.ai/mcp/servers/AutomateLab-tech/seo-performance-mcp/badges/score.svg)](https://glama.ai/mcp/servers/AutomateLab-tech/seo-performance-mcp) 📇 ☁️ - Post-publish SEO performance: combines Search Console, Matomo, GA4, Clarity and AI-citation signals per URL into a verdict for each post, with reason codes.
 - [alexey-pelykh/lhremote](https://github.com/alexey-pelykh/lhremote) 📇 🏠 - LinkedHelper automation CLI: campaign management, messaging and profile queries via the Chrome DevTools Protocol.
 - [applyra-io/mcp-server](https://github.com/applyra-io/mcp-server) [![applyra-io/mcp-server MCP server](https://glama.ai/mcp/servers/applyra-io/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/applyra-io/mcp-server) 🎖️ 📇 ☁️ - App Store Optimization for iOS and Google Play: daily keyword rank tracking, difficulty and traffic scores, competitors, ASO Health audits and top charts.
+- [UGC Pilot](https://getugcpilot.com/mcp) ☁️ - Hosted Streamable HTTP OAuth MCP server (`https://mcp.getugcpilot.com/mcp`) with 78 tools for generating AI UGC videos, hook clips from viral library. UGCPilot have a huge library of viral content where you can recreate for your SAAS which helps you with viral organic content , and can publish to social platforms like instagram, tiktok from UGCPilot (https://getugcpilot.com/)
 - [artgas1/yandex-metrika-mcp](https://github.com/artgas1/yandex-metrika-mcp) [![artgas1/yandex-metrika-mcp MCP server](https://glama.ai/mcp/servers/artgas1/yandex-metrika-mcp/badges/score.svg)](https://glama.ai/mcp/servers/artgas1/yandex-metrika-mcp) 📇 ☁️ - Yandex Metrika Stat, Management and Logs APIs, one tool per method, generated from Yandex's documentation. Writes are disabled by default.
 - [askads/mcp-vk-ads](https://github.com/askads/mcp-vk-ads) [![askads/mcp-vk-ads MCP server](https://glama.ai/mcp/servers/askads/mcp-vk-ads/badges/score.svg)](https://glama.ai/mcp/servers/askads/mcp-vk-ads) 📇 ☁️ - VK Ads API: manage ad plans, ad groups and banners, and pull statistics.
 - [askads/mcp-yandex-direct](https://github.com/askads/mcp-yandex-direct) [![askads/mcp-yandex-direct MCP server](https://glama.ai/mcp/servers/askads/mcp-yandex-direct/badges/score.svg)](https://glama.ai/mcp/servers/askads/mcp-yandex-direct) 📇 ☁️ - Yandex Direct API: manage PPC campaigns, ad groups, ads, keywords, bid modifiers, sitelinks, callouts and vCards, and pull statistics.
