@@ -108,6 +108,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
+- [drewTuzson/verifygrid-mcp](https://github.com/drewTuzson/verifygrid-mcp) 📇 ☁️ - Deterministic B2B entity verification across 12 US and international public regulatory datasets including FMCSA USDOT/MC carrier authority, CMS NPPES healthcare NPI, OFAC/OIG/SAM sanctions, TCPA/DNC phone risk, and SEC EDGAR CIK (`https://verifygrid.io/mcp`).
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
 * 🪪 - [Identity](#identity)
