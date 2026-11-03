@@ -435,6 +435,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 - [@ragieai/mcp-server](https://github.com/ragieai/ragie-mcp-server) 📇 ☁️ - あなたの [Ragie](https://www.ragie.ai) (RAG) ナレッジベースから、Google Drive、Notion、JIRAなどの連携サービスに接続されたコンテキストを取得します。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - MongoDBを使用して複数のLLMからのメモリを保存・取得するMCPサーバー。タイムスタンプとLLM識別を含む会話メモリの保存、取得、追加、クリアのためのツールを提供します。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 異なるAIモデルが協力し、会話間でコンテキストを共有できるようにするクロスLLM通信とメモリ共有を可能にするMCPサーバー。
+- [IvenKooLab/loci](https://github.com/IvenKooLab/loci) [![IvenKooLab/loci MCP server](https://glama.ai/mcp/servers/IvenKooLab/loci/badges/score.svg)](https://glama.ai/mcp/servers/IvenKooLab/loci) 🐍 🏠 🍎 🪟 🐧 - 散らばったノート、ドキュメント、PDF、チャットエクスポートを横断して検索できる「セカンドブレイン」：ハイブリッド検索（ベクトル + BM25 を RRF で融合）、セクション単位の出典引用、主張ごとの検証パス、Obsidian 風ウィキリンクグラフ。完全ローカル、任意の OpenAI 互換 API に対応、Ollama で完全オフラインも可能。`pip install loci-rag`
 
 ### ⚖️ <a name="legal"></a>法律
 

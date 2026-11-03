@@ -446,6 +446,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [@upstash/context7](https://github.com/upstash/context7) 📇 ☁️ - 最新的LLM和AI代码编辑器的代码文档。
 - [JamesANZ/memory-mcp](https://github.com/JamesANZ/memory-mcp) 📇 🏠 - 一个MCP服务器，使用MongoDB存储和检索来自多个LLM的记忆。提供保存、检索、添加和清除带有时间戳和LLM识别的对话记忆的工具。
 - [JamesANZ/cross-llm-mcp](https://github.com/JamesANZ/cross-llm-mcp) 📇 🏠 - 一个MCP服务器，实现跨LLM通信和记忆共享，使不同的AI模型能够在对话间协作和共享上下文。
+- [IvenKooLab/loci](https://github.com/IvenKooLab/loci) [![IvenKooLab/loci MCP server](https://glama.ai/mcp/servers/IvenKooLab/loci/badges/score.svg)](https://glama.ai/mcp/servers/IvenKooLab/loci) 🐍 🏠 🍎 🪟 🐧 - 可查询的「第二大脑」：为散落的笔记、文档、PDF 和聊天记录提供混合检索（向量 + BM25 融合 RRF）、带来源引用的回答、逐条主张核验，以及 Obsidian 风格的双链图谱。本地优先，支持任意 OpenAI 兼容 API，或经 Ollama 完全离线运行。`pip install loci-rag`
 
 ### ⚖️ <a name="legal"></a>法律
 
