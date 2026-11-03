@@ -2135,6 +2135,7 @@ MCP servers for learning management systems (LMS) and educational tools.
 
 - [peopleworks/SignsofAI](https://github.com/peopleworks/SignsofAI/tree/main/src/SignsOfAI.Mcp) [![peopleworks/SignsofAI MCP server](https://glama.ai/mcp/servers/peopleworks/SignsofAI/badges/score.svg)](https://glama.ai/mcp/servers/peopleworks/SignsofAI) #️⃣ 🏠 🍎 🪟 🐧 - Explainable AI-writing detection and originality checking in English and Spanish, plus citation checks and hidden-character detection.
 
+- [scrapertweeter3-prog/mcp-flatratemath](https://github.com/scrapertweeter3-prog/mcp-flatratemath) [![scrapertweeter3-prog/mcp-flatratemath MCP server](https://glama.ai/mcp/servers/scrapertweeter3-prog/mcp-flatratemath/badges/score.svg)](https://glama.ai/mcp/servers/scrapertweeter3-prog/mcp-flatratemath) 🐍 🏠 🍎 🪟 🐧 - Prices three ways of paying for software work on one number, cost per delivered request: fixed bid vs fully loaded hire vs flat monthly subscription, with up-to-three-lane ranking. `python3 server.py`.
 ### 🛒 <a name="e-commerce"></a>E-Commerce
 
 MCP servers for e-commerce platforms and online store management.
