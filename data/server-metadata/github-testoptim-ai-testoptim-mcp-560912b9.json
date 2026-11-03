@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-testoptim-ai-testoptim-mcp-560912b9",
+  "source": {
+    "issue": 5253,
+    "projectUrl": "https://github.com/TestOptim-AI/testoptim-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.testoptim.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "TESTOPTIM_TOKEN"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "other clients with remote HTTP and custom headers"
+  ],
+  "license": "MIT"
+}
