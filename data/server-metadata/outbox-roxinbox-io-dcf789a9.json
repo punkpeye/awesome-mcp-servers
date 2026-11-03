@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "outbox-roxinbox-io-dcf789a9",
+  "source": {
+    "issue": 5257,
+    "projectUrl": "https://outbox.roxinbox.io"
+  },
+  "links": {
+    "endpoint": "https://outbox.roxinbox.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "Grok"
+  ],
+  "license": "Proprietary (hosted service; free tier available)"
+}
