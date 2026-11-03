@@ -972,6 +972,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- [9-bot/mcp](https://github.com/9-bot/mcp) ☁️ - Hosted remote MCP server to manage WhatsApp groups, announcement groups and channels from AI agents, with OAuth 2.1, scoped permissions, confirmations and an audit log. Requires a 9bot subscription; independent and not affiliated with Meta or WhatsApp.
 - [A1-x-Tech/mcp-google-chat](https://github.com/A1-x-Tech/mcp-google-chat) [![A1-x-Tech/mcp-google-chat MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat) 📇 ☁️ - Google Chat API: list and search spaces, read and send messages, and work with threads and reactions.
 - [A1-x-Tech/mcp-google-gmail](https://github.com/A1-x-Tech/mcp-google-gmail) [![A1-x-Tech/mcp-google-gmail MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-gmail/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-gmail) 📇 ☁️ - Gmail API: search, read and send email, and manage drafts, labels and the trash.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - Interact with Nostr: post notes and more.
