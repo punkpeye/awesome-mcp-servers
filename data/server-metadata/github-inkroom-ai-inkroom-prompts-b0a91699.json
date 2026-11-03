@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-inkroom-ai-inkroom-prompts-b0a91699",
+  "source": {
+    "issue": 5262,
+    "projectUrl": "https://github.com/InkRoom-AI/inkroom-prompts"
+  },
+  "links": {
+    "endpoint": "http://127.0.0.1:8788/mcp"
+  },
+  "install": {
+    "commands": [
+      "node /absolute/path/to/inkroom-prompts/src/cli.mjs",
+      "node src/cli.mjs --http 8788"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex (via each client’s local MCP configuration)"
+  ],
+  "license": "MIT (standalone InkRoom Prompts MCP distribution; excludes third-party prompt/image content and other InkRoom code)"
+}
