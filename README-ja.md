@@ -515,6 +515,7 @@ aliyun/alibabacloud-tablestore-mcp-server ☕ 🐍 ☁️ - 阿里云表格存�
 セキュリティツール、脆弱性評価、フォレンジクス分析。AIアシスタントがサイバーセキュリティタスクを実行できるようにし、侵入テスト、コード分析、セキュリティ監査を支援します。
 
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - セキュリティ重視のMCPサーバーで、AIエージェントに安全ガイドラインとコンテンツ分析を提供
+- [artvepa80/Agents-Hefesto](https://github.com/artvepa80/Agents-Hefesto) [![artvepa80/Agents-Hefesto MCP server](https://glama.ai/mcp/servers/artvepa80/Agents-Hefesto/badges/score.svg)](https://glama.ai/mcp/servers/artvepa80/Agents-Hefesto) 🐍 ☁️ 🏠 🍎 🪟 🐧 - AI生成コードをマージ前にチェック。ハードコードされたシークレットなどのセキュリティルール、GitHubコードスキャン向けSARIF出力、HIGH検出時に終了コード1を返すCIチェックを提供。リモートMCPサーバー付き。コアはMITライセンス、`pip install hefesto-ai` で導入。
 - [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - キャプチャ、プロトコル統計、フィールド抽出、およびセキュリティ分析機能を備えた、Wireshark ネットワーク パケット分析 MCP サーバー。
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – AIエージェントが認証アプリと連携できるようにする安全なMCP（Model Context Protocol）サーバー。
 - [fosdickio/binary_ninja_mcp](https://github.com/Vector35/binaryninja-mcp) 🐍 🏠 🍎 🪟 🐧 - Binary NinjaのためのMCPサーバーとブリッジ。バイナリ分析とリバースエンジニアリングのためのツールを提供します。

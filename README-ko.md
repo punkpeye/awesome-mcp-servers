@@ -480,6 +480,7 @@
 ### 🔒 <a name="security"></a>보안
 
 - [AIM-Intelligence/AIM-Guard-MCP](https://github.com/AIM-Intelligence/AIM-MCP) 📇 🏠 🍎 🪟 🐧 - AI 에이전트를 위한 안전 가이드라인과 콘텐츠 분석을 제공하는 보안 중심의 MCP 서버.
+- [artvepa80/Agents-Hefesto](https://github.com/artvepa80/Agents-Hefesto) [![artvepa80/Agents-Hefesto MCP server](https://glama.ai/mcp/servers/artvepa80/Agents-Hefesto/badges/score.svg)](https://glama.ai/mcp/servers/artvepa80/Agents-Hefesto) 🐍 ☁️ 🏠 🍎 🪟 🐧 - AI가 생성한 코드를 머지 전에 검사. 하드코딩된 시크릿 등 보안 규칙, GitHub 코드 스캐닝용 SARIF 출력, HIGH 발견 시 종료 코드 1을 반환하는 CI 체크 제공. 원격 MCP 서버 포함. 코어는 MIT 오픈소스, `pip install hefesto-ai`로 설치.
 - [bx33661/Wireshark-MCP](https://github.com/bx33661/Wireshark-MCP) [glama](https://glama.ai/mcp/servers/bx33661/Wireshark-MCP) 🐍 🏠 - 캡처, 프로토콜 통계, 필드 추출 및 보안 분석 기능을 갖춘 Wireshark 네트워크 패킷 분석 MCP 서버.
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp) 📇 🏠 🍎 🪟 🐧 – AI 에이전트가 인증 앱과 상호 작용할 수 있도록 하는 보안 MCP(Model Context Protocol) 서버입니다.
 - [dnstwist MCP 서버](https://github.com/BurtTheCoder/mcp-dnstwist) 📇 🪟 ☁️ - 타이포스쿼팅, 피싱 및 기업 스파이 활동 탐지를 돕는 강력한 DNS 퍼징 도구인 dnstwist용 MCP 서버.
