@@ -18,5 +18,19 @@
     "Cursor",
     "any stdio MCP client"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Coisini-cyber in #5272 under the community profile-claim process.",
+      "Requested profile metadata in #5272: - Install (current): `npx -y github:Coisini-cyber/ctxkeeper-mcp` - Install (after npm review clears): `npx -y ctxkeeper-mcp` - Transport: stdio - Auth: none - License: MIT - Clients: OpenCode, Claude Code, Cursor,..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Coisini-cyber"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
