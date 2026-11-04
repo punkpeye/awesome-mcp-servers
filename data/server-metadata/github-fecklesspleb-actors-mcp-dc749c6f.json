@@ -6,8 +6,10 @@
     "projectUrl": "https://github.com/fecklesspleb/actors-mcp"
   },
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "api-key",
+    "notes": [
+      "Tool calls require the caller's own APIFY_TOKEN."
+    ]
   },
   "license": "MIT"
 }
