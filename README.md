@@ -1,4 +1,4 @@
-# Awesome MCP Servers
+﻿# Awesome MCP Servers
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -647,6 +647,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [zumerlab/snapsurf](https://github.com/zumerlab/snapsurf) [![zumerlab/snapsurf MCP server](https://glama.ai/mcp/servers/zumerlab/snapsurf/badges/score.svg)](https://glama.ai/mcp/servers/zumerlab/snapsurf) 📇 🏠 🍎 🪟 🐧 - Browser navigation and verification: compact semantic page digests, ranked text search, and typed diffs after each action with assertions.
 - [zzzjy765/ottersnap-mcp](https://github.com/zzzjy765/ottersnap-mcp) [![zzzjy765/ottersnap-mcp MCP server](https://glama.ai/mcp/servers/zzzjy765/ottersnap-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zzzjy765/ottersnap-mcp) 📇 ☁️ - Glint Render web rendering and evidence API: screenshots, PDFs, OG images, monitoring, extraction and tamper-evident evidence capture.
 - [CapMonsterCloud/capmonster-mcp-captcha-solver](https://github.com/CapMonsterCloud/capmonster-mcp-captcha-solver) [![CapMonsterCloud/capmonster-mcp-captcha-solver MCP server](https://glama.ai/mcp/servers/CapMonsterCloud/capmonster-mcp-captcha-solver/badges/score.svg)](https://glama.ai/mcp/servers/CapMonsterCloud/capmonster-mcp-captcha-solver) 🐍 📇 ☁️ - Identify CAPTCHA types and parameters, create solving tasks and retrieve results via the CapMonster Cloud API, with access to its docs.
+- [AstraxOf/web-mcp-bridge](https://github.com/AstraxOf/web-mcp-bridge) [![Web MCP Bridge MCP server – quality and maintenance score on Glama](https://glama.ai/mcp/servers/AstraxOf/web-mcp-bridge/badges/score.svg)](https://glama.ai/mcp/servers/AstraxOf/web-mcp-bridge) 📇 🐍 🏠 🍎 🪟 🐧 - Browser extension + Python WebSocket bridge that lets ChatGPT, Gemini, Claude Web and DeepSeek use your local MCP servers with per-action approval, no API keys and no extra subscriptions.
 
 ### ☁️ <a name="cloud-platforms"></a>Cloud Platforms
 
