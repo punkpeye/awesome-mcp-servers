@@ -1,4 +1,4 @@
-# Awesome MCP Servers
+2507# Awesome MCP Servers
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -2505,6 +2505,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [keel-trade/keel-trade](https://github.com/keel-trade/keel-trade) [![keel-trade/keel-trade MCP server](https://glama.ai/mcp/servers/keel-trade/keel-trade/badges/score.svg)](https://glama.ai/mcp/servers/keel-trade/keel-trade) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Build, backtest and automate Hyperliquid trading strategies: typed strategy composition, deterministic backtests on historical data and opt-in live execution.
 - [kevin2003050666-coder/x402-micro-tollgate](https://github.com/kevin2003050666-coder/x402-micro-tollgate) [![kevin2003050666-coder/x402-micro-tollgate MCP server](https://glama.ai/mcp/servers/kevin2003050666-coder/x402-micro-tollgate/badges/score.svg)](https://glama.ai/mcp/servers/kevin2003050666-coder/x402-micro-tollgate) 📇 ☁️ 🏠 🍎 🪟 🐧 - HTTP 402 and MCP paywall for any API: unpaid requests get a 402, agents pay USDC on Base, then the request is proxied. Also serves paid MCP tools.
 - [kinance/circle-agent-stack-mcp](https://github.com/kinance/circle-agent-stack-mcp) [![kinance/circle-agent-stack-mcp MCP server](https://glama.ai/mcp/servers/kinance/circle-agent-stack-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kinance/circle-agent-stack-mcp) 📇 ☁️ - Circle Agent Stack via the Circle CLI: create USDC wallets, set spend policies, send stablecoins and pay x402-gated endpoints.
+- [kipurse/kipurse](https://github.com/kipurse/kipurse) ☁️ - Self-custodial USDC wallet on Base for AI agents: on-chain spending caps, Face ID for new payees, one-tap pause.
 - [krystiangw/agenticpay](https://github.com/krystiangw/agenticpay) [![krystiangw/agenticpay MCP server](https://glama.ai/mcp/servers/krystiangw/agenticpay/badges/score.svg)](https://glama.ai/mcp/servers/krystiangw/agenticpay) 📇 ☁️ 🏠 - x402 micropayments stack for MCP: pay-per-tool-call USDC settlement on Solana via a self-hostable facilitator, with SDK, CLI and paywall middleware.
 - [kukapay/binance-alpha-mcp](https://github.com/kukapay/binance-alpha-mcp) 🐍 ☁️ - Track Binance Alpha trades to help optimize alpha point accumulation.
 - [kukapay/bitcoin-utxo-mcp](https://github.com/kukapay/bitcoin-utxo-mcp) 🐍 ☁️ - Track Bitcoin unspent transaction outputs (UTXOs) and block statistics.
