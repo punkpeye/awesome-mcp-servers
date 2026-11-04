@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-carlobianchi89-epwtools-python-246ce3c8",
+  "source": {
+    "issue": 5318,
+    "projectUrl": "https://github.com/carlobianchi89/epwtools-python"
+  },
+  "links": {
+    "endpoint": "https://epw.tools/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx --from 'epwtools[mcp]' epw-tools-mcp"
+    ],
+    "env": [
+      "EPWTOOLS_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "EPWTOOLS_API_KEY is required for file generation; lookup tools work without a key."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "ChatGPT",
+    "any MCP client"
+  ],
+  "license": "MIT (client and server); the EPW.tools service has its own terms"
+}

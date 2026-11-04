@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "hanria-ai-llms-txt-c5b6b2c8",
+  "source": {
+    "issue": 5312,
+    "projectUrl": "https://hanria.ai/llms.txt"
+  },
+  "links": {
+    "endpoint": "https://check.hanria.ai/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "any MCP client that supports Streamable HTTP"
+  ],
+  "license": "Hosted service, free to call (proprietary)"
+}
