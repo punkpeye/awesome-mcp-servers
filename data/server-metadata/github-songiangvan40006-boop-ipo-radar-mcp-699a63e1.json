@@ -9,7 +9,7 @@
     "endpoint": "https://ipogmpradar.com/mcp"
   },
   "transport": [
-    "stdio"
+    "streamable-http"
   ],
   "auth": {
     "type": "none",
