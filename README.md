@@ -1,4 +1,4 @@
-2507# Awesome MCP Servers
+# Awesome MCP Servers
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
