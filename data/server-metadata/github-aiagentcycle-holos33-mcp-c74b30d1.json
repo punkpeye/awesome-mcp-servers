@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aiagentcycle-holos33-mcp-c74b30d1",
+  "source": {
+    "issue": 5296,
+    "projectUrl": "https://github.com/aiagentcycle/holos33-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.holos33.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code and other Streamable HTTP MCP clients"
+  ],
+  "license": "MIT"
+}
