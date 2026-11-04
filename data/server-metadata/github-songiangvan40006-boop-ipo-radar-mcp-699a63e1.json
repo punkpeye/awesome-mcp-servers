@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-songiangvan40006-boop-ipo-radar-mcp-699a63e1",
+  "source": {
+    "issue": 5282,
+    "projectUrl": "https://github.com/songiangvan40006-boop/ipo-radar-mcp"
+  },
+  "links": {
+    "endpoint": "https://ipogmpradar.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Windsurf"
+  ],
+  "license": "MIT"
+}

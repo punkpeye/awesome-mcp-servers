@@ -22,11 +22,13 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "api-key",
+    "notes": [
+      "EPWTOOLS_API_KEY is required for file generation; lookup tools work without a key."
+    ]
   },
   "clients": [
-    "Claude (listed in Claude's connector directory)",
+    "Claude",
     "Claude Code",
     "Cursor",
     "ChatGPT",
