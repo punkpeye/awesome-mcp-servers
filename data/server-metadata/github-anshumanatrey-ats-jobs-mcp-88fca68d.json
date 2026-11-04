@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-anshumanatrey-ats-jobs-mcp-88fca68d",
+  "source": {
+    "issue": 5274,
+    "projectUrl": "https://github.com/AnshumanAtrey/ats-jobs-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.apify.com/?tools=anshumanatrey/ashby-jobs-search,anshumanatrey/cornerstone-jobs-search,anshumanatrey/deel-jobs-search,anshumanatrey/greenhouse-jobs-search,anshumanatrey/lever-jobs-search,anshumanatrey/smartrecruiters-jobs-search,anshumanatrey/workable-job-search,anshumanatrey/workday-job-search"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Sign in with Apify using OAuth, or send an Apify token in the Authorization: Bearer header."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
