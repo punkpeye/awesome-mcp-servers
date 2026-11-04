@@ -14,5 +14,15 @@
     "Claude Desktop",
     "other MCP clients"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "install": {
+    "commands": [
+      "npx -y toolsthatdontupload-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ]
 }
