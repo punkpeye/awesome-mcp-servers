@@ -4910,6 +4910,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro) 📇 ☁️ - Access Miro whiteboards and bulk create and read items.
 - [FarEastAI/feode-mcp](https://github.com/FarEastAI/feode-mcp) [![MCP Score](https://glama.ai/mcp/servers/FarEastAI/feode-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FarEastAI/feode-mcp) 🎖️ 📇 ☁️ - Query FEODE offshore oilfield services: well plug and abandonment, subsea wellheads, continuous circulation drilling and a drill-string spec reference.
 - [feuerdev/keep-mcp](https://github.com/feuerdev/keep-mcp) 🐍 ☁️ - Read, create, update and delete Google Keep notes.
+- [foreverworks/mcp-typesafe](https://github.com/foreverworks/mcps/tree/main/servers/typesafe) [![foreverworks/mcps MCP server](https://glama.ai/mcp/servers/foreverworks/mcps/badges/score.svg)](https://glama.ai/mcp/servers/foreverworks/mcps) 📇 ☁️ - Get calibrated yes or no answers, choices and scores from TypeSafe's Jev, for one item or 1000 rows.
 - [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - Generate an MCP server from tools defined as regular GraphQL queries and mutations.
 - [FoodXDevelopment/foodblock-mcp](https://github.com/FoodXDevelopment/foodblock) 📇 🏠 - Turn plain-English food descriptions into structured, content-addressed data blocks for ingredients, products, places, actors and more.
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - Calculator for precise numerical calculations.
