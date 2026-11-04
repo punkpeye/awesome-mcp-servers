@@ -1,9 +1,0 @@
-{
-  "name": "FastestRank",
-  "url": "https://github.com/fastestrank/fastestrank",
-  "category": "marketing",
-  "transport": "http",
-  "description": "Live SEO intelligence, rank tracking, SERP analysis, keyword metrics, and site audits for AI agents. Endpoint: `https://app.fastestrank.com/mcp/`",
-  "endpoint": "https://app.fastestrank.com/mcp/",
-  "registry": "io.github.fastestrank/fastestrank"
-}
