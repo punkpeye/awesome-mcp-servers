@@ -17,9 +17,7 @@
   },
   "clients": [
     "Claude Code",
-    "any MCP client that supports Streamable HTTP. Python",
-    "TypeScript",
-    "Go and Rust examples: https://hanria.ai/llms.txt"
+    "any MCP client that supports Streamable HTTP"
   ],
-  "license": "Hosted service, free to call (proprietary) --- Prepared with Claude Code on behalf of the maintainer of HANRIA."
+  "license": "Hosted service, free to call (proprietary)"
 }

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-fecklesspleb-actors-mcp-dc749c6f",
+  "source": {
+    "issue": 5278,
+    "projectUrl": "https://github.com/fecklesspleb/actors-mcp"
+  },
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Tool calls require the caller's own APIFY_TOKEN."
+    ]
+  },
+  "license": "MIT"
+}
