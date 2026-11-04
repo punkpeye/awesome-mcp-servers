@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "aivideo-day-mcp-8444e475",
+  "source": {
+    "issue": 5320,
+    "projectUrl": "https://aivideo.day/mcp/"
+  },
+  "links": {
+    "endpoint": "https://mcp.aivideo.day/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Claude Code",
+    "any client that takes a remote MCP server"
+  ],
+  "license": "Proprietary (hosted service)"
+}

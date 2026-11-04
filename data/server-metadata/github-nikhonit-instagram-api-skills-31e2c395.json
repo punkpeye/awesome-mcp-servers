@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nikhonit-instagram-api-skills-31e2c395",
+  "source": {
+    "issue": 5285,
+    "projectUrl": "https://github.com/nikhonit/instagram-api-skills"
+  },
+  "links": {
+    "endpoint": "https://mcp.instadata.dev"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "INSTADATA_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "ChatGPT",
+    "any MCP client"
+  ]
+}
