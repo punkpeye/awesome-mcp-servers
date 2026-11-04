@@ -16,14 +16,14 @@
     "OpenCode",
     "Claude Code",
     "Cursor",
+    "VS Code",
     "any stdio MCP client"
   ],
   "license": "MIT",
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Profile claimed by @Coisini-cyber in #5272 under the community profile-claim process.",
-      "Requested profile metadata in #5272: - Install (current): `npx -y github:Coisini-cyber/ctxkeeper-mcp` - Install (after npm review clears): `npx -y ctxkeeper-mcp` - Transport: stdio - Auth: none - License: MIT - Clients: OpenCode, Claude Code, Cursor,..."
+      "Profile claimed by repository owner @Coisini-cyber in #5272; metadata is self-reported."
     ]
   },
   "community": {
@@ -32,5 +32,16 @@
     ],
     "verifiedBy": [],
     "claimed": true
+  },
+  "install": {
+    "commands": [
+      "npx -y github:Coisini-cyber/ctxkeeper-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "links": {
+    "docs": "https://github.com/Coisini-cyber/ctxkeeper-mcp/blob/main/docs/clients.md",
+    "homepage": "https://coisini-cyber.github.io/ctxkeeper-mcp/"
   }
 }
