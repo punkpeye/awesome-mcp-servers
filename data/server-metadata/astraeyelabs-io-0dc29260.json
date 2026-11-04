@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "astraeyelabs-io-0dc29260",
+  "source": {
+    "issue": 5287,
+    "projectUrl": "https://astraeyelabs.io"
+  },
+  "links": {
+    "endpoint": "https://astraeyelabs.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Gemini",
+    "Perplexity",
+    "any MCP client"
+  ]
+}
