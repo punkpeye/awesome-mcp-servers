@@ -681,6 +681,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ☕ - 用于基于Quarkus构建MCP服务器的Java SDK。
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🤖 🔌 - 使用简单、可组合的模式，通过MCP服务器构建高效的代理。
 - [mullerhai/sakura-mcp](https://github.com/mullerhai/sakura-mcp) 🦀 ☕ - Scala MCP 框架 构建企业级MCP客户端和服务端 shade from modelcontextprotocol.io.
+- [smusali/mcp4api](https://github.com/smusali/mcp4api) [[smusali/mcp4api MCP server](https://glama.ai/mcp/servers/smusali/mcp4api/badges/score.svg)](https://glama.ai/mcp/servers/smusali/mcp4api) 🐍 🏠 - 将 OpenAPI 规范转换为精选的 Python MCP 服务器，然后对 API 调用每个生成的工具并报告哪些可用。
 
 ## 实用工具
 

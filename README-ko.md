@@ -625,6 +625,7 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ☕ - Quarkus를 사용하여 MCP 서버를 구축하기 위한 Java SDK.
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) 🤖 🔌 - 간단하고 구성 가능한 패턴을 사용하여 MCP 서버로 효과적인 에이전트 구축.
 - [mullerhai/sakura-mcp](https://github.com/mullerhai/sakura-mcp) 🦀 ☕ - modelcontextprotocol.io에서 가져온 MCP 서버 및 MCP 클라이언트로 효과적인 에이전트를 구축하기 위한 Scala MCP 프레임워크.
+- [smusali/mcp4api](https://github.com/smusali/mcp4api) [[smusali/mcp4api MCP server](https://glama.ai/mcp/servers/smusali/mcp4api/badges/score.svg)](https://glama.ai/mcp/servers/smusali/mcp4api) 🐍 🏠 - OpenAPI 스펙을 선별된 Python MCP 서버로 변환한 뒤, 생성된 각 도구를 API에 호출하고 동작 여부를 보고합니다.
 
 ## 유틸리티
 
