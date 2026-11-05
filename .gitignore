@@ -2,3 +2,5 @@
 !.github
 !.gitignore
 CLAUDE.local.md
+config.bat
+node_modules
