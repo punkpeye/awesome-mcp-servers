@@ -216,6 +216,7 @@ Execute comandos, capture saída e interaja de outras formas com shells e ferram
 
 Integração com plataformas de comunicação para gerenciamento de mensagens e operações de canais. Permite que modelos de IA interajam com ferramentas de comunicação em equipe.
 
+- [a19901201/mcp-telegram-agent](https://github.com/a19901201/mcp-telegram-agent) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Servidor FastMCP para enviar notificações, arquivos locais, álbuns de mídia e teclados personalizados via Telegram Bot API sem risco de login.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - Um servidor MCP Nostr que permite interagir com Nostr, possibilitando a publicação de notas e muito mais.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - Interaja com pesquisa e timeline do Twitter
 - [agentmail-toolkit/mcp](https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp) 🐍 💬 - Um servidor MCP para criar caixas de entrada instantaneamente para enviar, receber e realizar ações em e-mails. Não somos agentes de IA para e-mail, mas e-mail para Agentes de IA.

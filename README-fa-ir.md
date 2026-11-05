@@ -309,6 +309,7 @@
 
 یکپارچه‌سازی با پلتفرم‌های ارتباطی برای مدیریت پیام و عملیات کانال. به مدل‌های هوش مصنوعی امکان تعامل با ابزارهای ارتباطی تیمی را می‌دهد.
 
+- [a19901201/mcp-telegram-agent](https://github.com/a19901201/mcp-telegram-agent) 🐍 ☁️ 🏠 🍎 🪟 🐧 - سرور FastMCP برای ارسال اعلان‌ها، فایل‌های محلی، آلبوم‌های رسانه‌ای و کیبوردهای سفارشی از طریق Telegram Bot API بدون خطر ورود به سیستم.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - یک سرور MCP Nostr که امکان تعامل با Nostr، ارسال یادداشت و موارد دیگر را می‌دهد.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) 🐍 ☁️ - تعامل با جستجو و تایم‌لاین توییتر
 - [agentmail-toolkit/mcp](https://github.com/agentmail-to/agentmail-toolkit/tree/main/mcp) 🐍 💬 - یک سرور MCP برای ایجاد صندوق‌های ورودی در لحظه برای ارسال، دریافت و انجام اقدامات روی ایمیل. ما عامل‌های هوش مصنوعی برای ایمیل نیستیم، بلکه ایمیل برای عامل‌های هوش مصنوعی هستیم.
