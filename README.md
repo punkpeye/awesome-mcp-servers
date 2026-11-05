@@ -1,2 +1,2 @@
 
-- [stealthmark-io/omni-execution-mcp](https://github.com/stealthmark-io/omni-execution-mcp) 🐍 ☁️ - Non-custodial DeFi & prediction market execution router (Hyperliquid, Polymarket, Jupiter v6, LI.FI, CoW, 0x v2) with 16 Z3 SMT formal verification x402 guardrails on Base.
+- [stealthmark-io/omni-execution-mcp](https://github.com/stealthmark-io/omni-execution-mcp) 🐍 ☁️ - Non-custodial DeFi & prediction market execution router (Hyperliquid, Polymarket, Jupiter v6, LI.FI, CoW, 0x v2) with 16 Z3 SMT formal verification x402 guardrails on Base. [![stealthmark-io/omni-execution-mcp MCP server](https://glama.ai/mcp/servers/stealthmark-io/omni-execution-mcp/badges/score.svg)](https://glama.ai/mcp/servers/stealthmark-io/omni-execution-mcp)
