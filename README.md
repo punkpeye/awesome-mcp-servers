@@ -138,7 +138,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
-- [mcp-saga](https://github.com/hochart/mcp-saga) 🗄️ - Transactional saga and compensating rollback proxy for MCP tool execution.
+- [MCP Saga](https://github.com/hochart/mcp-saga) 🗄️ - Transactional saga and compensating rollback proxy for MCP tool execution.
 
 Servers for accessing many apps and tools through a single MCP server.
 - [inth3shadows/terse](https://github.com/inth3shadows/terse) [![inth3shadows/terse MCP server](https://glama.ai/mcp/servers/inth3shadows/terse/badges/score.svg)](https://glama.ai/mcp/servers/inth3shadows/terse) 🐍 🏠 🍎 🪟 🐧 - Transparent proxy that sits in front of any other MCP server and shrinks its tool output before it reaches the model. Lossless by default — a denser encoding of the same bytes, with a round-trip gate asserting an exact inverse, so nothing is dropped or summarised. Repeated calls to the same tool emit a delta against the prior result instead of the whole payload. Per-tool opt-in, no decode step, no model in the loop. `uv tool install terse-mcp` then `terse proxy -- <server>`
