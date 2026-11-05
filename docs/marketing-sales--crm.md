@@ -2,6 +2,8 @@
 
 Servers integrating with CRM platforms, marketing analytics, customer data platforms, or advertising platforms.
 
+- [AgentSEO](https://github.com/AgentSEO-dev/agentseo-clients): SEO intelligence tools for SERPs, keyword research, backlinks, rank tracking, content planning and site audits. Install: `npx -y @agentseo/mcp-server@0.1.5`. Transport: stdio; hosted Streamable HTTP at `https://www.agentseo.dev/mcp`. Auth: API key; local client uses `AGENTSEO_API_KEY`, hosted requests use `x-api-key` or `Authorization: Bearer`. Requires an AgentSEO account and usage credits. Clients: Claude Desktop and Cursor. License: MIT for the npm client. [MCP documentation](https://github.com/AgentSEO-dev/agentseo-clients/tree/main/packages/mcp-server).
+
 - [Watchr](https://github.com/getwatchr/watchr-mcp): Search monitored competitor signals, validated insights and reports in a Watchr workspace. Hosted Streamable HTTP at `https://mcp.watchr.ai/mcp`; OAuth 2.1 sign-in or personal API key required. Official MCP Registry id `io.github.getwatchr/watchr-mcp`.
 
 - [SpiderLook](https://spiderlook.com/mcp): Competitor intelligence in your AI assistant: rivals' websites, social posts (Instagram, TikTok, Facebook, LinkedIn, YouTube and X) and Meta and Google ads, scanned daily and stored as evidence the assistant can open. Six read tools (list_workspace, query_metrics, query_activity, get_item, list_events, get_battlecard) and six write tools for adding rivals and sources and drafting, reviewing and approving battlecards. Hosted Streamable HTTP at `https://api.spiderlook.com/mcp` with OAuth 2.1 sign-in (dynamic client registration); requires a SpiderLook account. [MCP setup](https://spiderlook.com/docs/mcp). Official MCP Registry: `com.spiderlook/spiderlook`.
