@@ -4118,6 +4118,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 MCP servers for job search and career platforms.
 
+- [janishkumar/h1b-sponsor-mcp](https://github.com/janishkumar/h1b-sponsor-mcp) [![janishkumar/h1b-sponsor-mcp MCP server](https://glama.ai/mcp/servers/janishkumar/h1b-sponsor-mcp/badges/score.svg)](https://glama.ai/mcp/servers/janishkumar/h1b-sponsor-mcp) 🐍 🏠 🍎 🐧 - Is a company still sponsoring H-1Bs and green cards? Six-month trend tables from DOL LCA and PERM filings plus USCIS approvals and denial rates, with employer names merged by federal tax ID. Install: `uvx h1b-sponsor-mcp`
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
 ### 🔒 <a name="security"></a>Security
