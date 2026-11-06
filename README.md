@@ -2174,6 +2174,8 @@ MCP servers for e-commerce platforms and online store management.
 
 - [Pangolin-spg/amazon-data-mcp](https://github.com/Pangolin-spg/amazon-data-mcp) [![Pangolin-spg/amazon-data-mcp MCP server](https://glama.ai/mcp/servers/Pangolin-spg/amazon-data-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Pangolin-spg/amazon-data-mcp) 📇 ☁️ - Read-only Amazon research via Pangolinfo: product details, keyword results, reviews, niche signals, Alexa shopping recommendations and AI-search data.
 
+- [quickman924/plushsource-mcp](https://github.com/quickman924/plushsource-mcp) [![quickman924/plushsource-mcp MCP server](https://glama.ai/mcp/servers/quickman924/plushsource-mcp/badges/score.svg)](https://glama.ai/mcp/servers/quickman924/plushsource-mcp) 📇 🏠 🍎 🪟 🐧 - Search, filter and compare custom plush toy manufacturers listed in the PlushSource directory by country, MOQ, sample lead time, OEM/ODM and certifications; facts as stated by manufacturers, bundled data, no API key.
+
 - [samrothschild23/intelligence-api](https://github.com/samrothschild23/intelligence-api) [![MCP Server](https://glama.ai/mcp/servers/samrothschild23/intelligence-api/badges/score.svg)](https://glama.ai/mcp/servers/samrothschild23/intelligence-api) 📇 ☁️ - E-commerce intelligence: analyze Shopify stores, score Amazon product opportunities and FBA profitability, and find sales leads from Google Maps.
 
 - [the402ai/mcp-server](https://github.com/the402ai/mcp-server) [![the402ai/mcp-server MCP server](https://glama.ai/mcp/servers/the402ai/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/the402ai/mcp-server) 📇 ☁️ 🍎 🪟 🐧 - Agent service marketplace with x402 micropayments (USDC on Base): browse and buy services, manage threads and subscriptions, sell services and track earnings.
