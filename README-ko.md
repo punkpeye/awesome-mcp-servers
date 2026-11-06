@@ -540,6 +540,8 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - MCP 서버 통합을 갖춘 웹 기반 PlantUML 프론트엔드로, PlantUML 이미지 생성 및 구문 검증을 지원합니다.
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 액터라고 알려진 3,000개 이상의 사전 구축된 클라우드 도구를 사용하여 웹사이트, 전자 상거래, 소셜 미디어, 검색 엔진, 지도 등에서 데이터 추출
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - Contentful Space에서 콘텐츠, 콘텐츠 모델 및 에셋 업데이트, 생성, 삭제
+- [mickey-ichi/backlog-bridge](https://github.com/mickey-ichi/backlog-bridge) 📇 ☁️ 🍎 🪟 🐧 - 여러 Backlog(Nulab) 스페이스를 한 번에 읽고 쓰기 — 이슈, 댓글, 검색, 활동, 동기화 미리보기. 쓰기는 미리보기 후 확정.
+- [mickey-ichi/graph-excel-mcp](https://github.com/mickey-ichi/graph-excel-mcp) 📇 ☁️ 🍎 🪟 🐧 - Microsoft Graph로 SharePoint/OneDrive의 Excel 통합 문서를 읽고 편집 — 검색, 기준 확인 쓰기와 다시 읽기 검증, 행·시트·서식.
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - OpenAI의 가장 똑똑한 모델과 채팅
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - 전체 소스 파일을 읽지 않고 AI 어시스턴트에게 패키지 문서 및 유형에 대한 스마트한 접근을 제공하는 토큰 효율적인 Go 문서 서버
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - MCP 프로토콜을 사용하여 Claude에서 직접 OpenAI 모델 쿼리

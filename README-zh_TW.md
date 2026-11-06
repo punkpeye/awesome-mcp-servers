@@ -467,6 +467,8 @@ AI助手可以通過翻譯工具和服務在不同語言之間翻譯內容。
 - [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 使用超過 3,000 個預構建的雲工具（稱為 Actors）從網站、電商、社交媒體、搜尋引擎、地圖等提取數據。
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - 使LLM能夠使用計算機進行精確的數值計算
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - 更新、創建、刪除 Contentful Space 中的內容、內容模型和資產
+- [mickey-ichi/backlog-bridge](https://github.com/mickey-ichi/backlog-bridge) 📇 ☁️ 🍎 🪟 🐧 - 一次讀寫多個 Backlog（Nulab）空間 — 議題、留言、搜尋、動態、同步預覽；寫入先預覽再確認。
+- [mickey-ichi/graph-excel-mcp](https://github.com/mickey-ichi/graph-excel-mcp) 📇 ☁️ 🍎 🪟 🐧 - 透過 Microsoft Graph 讀取與編輯 SharePoint/OneDrive 上的 Excel 活頁簿 — 搜尋、帶基準檢查的寫入與回讀驗證、列、工作表與格式。
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - 與 OpenAI 最智慧的模型聊天
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - 高效的 Go 文件伺服器，讓 AI 助手可以智慧訪問包文件和類型，而無需閱讀整個源文件
 - [pierrebrunelle/mcp-server-openai](https://github.com/pierrebrunelle/mcp-server-openai) 🐍 ☁️ - 直接從Claude查詢OpenAI模型，使用MCP協議
