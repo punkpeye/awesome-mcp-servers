@@ -598,6 +598,8 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [joshuarileydev/mac-apps-launcher-mcp-server](https://github.com/JoshuaRileyDev/mac-apps-launcher) 📇 🏠 - macOSでアプリケーションをリスト・起動するMCPサーバー
 - [Harry-027/JotDown](https://github.com/Harry-027/JotDown) 🦀 🏠 - Notionアプリでページを作成/更新し、構造化コンテンツからmdBookを自動生成するMCPサーバー
 - [kelvin6365/plane-mcp-server](https://github.com/kelvin6365/plane-mcp-server) 🏎️ 🏠 - [Plane](https://plane.so)のAPIを通じてプロジェクトと課題を管理するMCPサーバー
+- [mickey-ichi/backlog-bridge](https://github.com/mickey-ichi/backlog-bridge) 📇 ☁️ 🍎 🪟 🐧 - 複数の Backlog（Nulab）スペースをまとめて読み書き — 課題、コメント、検索、アクティビティ、同期プレビュー。書き込みはプレビュー後に確定。
+- [mickey-ichi/graph-excel-mcp](https://github.com/mickey-ichi/graph-excel-mcp) 📇 ☁️ 🍎 🪟 🐧 - Microsoft Graph 経由で SharePoint/OneDrive 上の Excel を読み書き — 検索、ベースチェック付き書き込みと読み戻し検証、行・シート・書式。
 - [yuna0x0/hackmd-mcp](https://github.com/yuna0x0/hackmd-mcp) 📇 ☁️ - AIモデルが [HackMD](https://hackmd.io) と連携できるようにします。
 - [HenryHaoson/Yuque-MCP-Server](https://github.com/HenryHaoson/Yuque-MCP-Server) - 📇 ☁️ 語雀APIと統合するためのModel-Context-Protocol (MCP)サーバー。AIモデルがドキュメントを管理し、ナレッジベースと対話し、コンテンツを検索し、語雀プラットフォームの分析データにアクセスできるようにします。
 - [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - Ankr Advanced APIをラップするMCPサーバー実装。イーサリアム、BSC、ポリゴン、アバランチなど複数のブロックチェーンにわたるNFT、トークン、ブロックチェーンデータにアクセスできます。
