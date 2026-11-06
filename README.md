@@ -3766,6 +3766,8 @@ MCP servers for real estate CRM, property management, and agent workflows.
 
 - [zornade/zornade-mcp](https://github.com/zornade/zornade-mcp) [![zornade-mcp MCP server](https://glama.ai/mcp/servers/zornade/zornade-mcp/badges/score.svg)](https://glama.ai/mcp/servers/zornade/zornade-mcp) 📇 ☁️ - Italian cadastral, geospatial and real estate data: address geocoding, parcel profiles (risk, solar potential, valuations, POIs) and parcel lookup.
 
+- [ChoYugyeong/memdex](https://github.com/ChoYugyeong/memdex) [![ChoYugyeong/memdex MCP server](https://glama.ai/mcp/servers/ChoYugyeong/memdex/badges/score.svg)](https://glama.ai/mcp/servers/ChoYugyeong/memdex) 🐍 🏠 🍎 🪟 🐧 - Shared memory for AI coding agents: content-hash file summaries, symbol map, notes and handoffs, plus agent-to-agent messages and edit claims. Zero dependencies, one SQLite file.
+
 ### 🔬 <a name="research"></a>Research
 
 Tools for conducting research, surveys, interviews, and data collection.
