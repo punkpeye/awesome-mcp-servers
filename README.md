@@ -2189,6 +2189,8 @@ MCP servers for e-commerce platforms and online store management.
 - [ilyautov/chestny-znak-mcp-ru](https://github.com/ilyautov/chestny-znak-mcp-ru) [![ilyautov/chestny-znak-mcp-ru MCP server](https://glama.ai/mcp/servers/ilyautov/chestny-znak-mcp-ru/badges/score.svg)](https://glama.ai/mcp/servers/ilyautov/chestny-znak-mcp-ru) 🐍 🏠 🍎 🪟 🐧 - Chestny ZNAK (Russian mandatory product marking, GIS MT and SUZ) API: marking codes, emission orders, circulation documents and code checks.
 - [dearlordylord/voila-sdk](https://github.com/dearlordylord/voila-sdk) [![dearlordylord/voila-sdk MCP server](https://glama.ai/mcp/servers/dearlordylord/voila-sdk/badges/score.svg)](https://glama.ai/mcp/servers/dearlordylord/voila-sdk) 📇 ☁️ 🏠 🍎 🪟 🐧 - Personal Voila grocery automation: search products, check discounts, list delivery slots, read cart and order history and update cart quantities.
 
+- [zovo-one/mcp-price-tracker](https://github.com/zovo-one/mcp-price-tracker) 📍 ☁️ 🍎 🪟 🐧 - Ask what a product costs right now, track price drops over time and get told when a target price is hit.
+
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
 Provides access to environmental data and nature-related tools, services and information.
@@ -4848,6 +4850,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [sekera-radim/briefgate-mcp](https://github.com/sekera-radim/briefgate-mcp) [![sekera-radim/briefgate-mcp MCP server](https://glama.ai/mcp/servers/sekera-radim/briefgate-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sekera-radim/briefgate-mcp) 📇 ☁️ 🏠 - Client intake for AI agents: request files, texts and credentials from clients, follow up automatically and retrieve results when complete.
 - [ilyautov/hh-mcp-ru](https://github.com/ilyautov/hh-mcp-ru) [![ilyautov/hh-mcp-ru MCP server](https://glama.ai/mcp/servers/ilyautov/hh-mcp-ru/badges/score.svg)](https://glama.ai/mcp/servers/ilyautov/hh-mcp-ru) 🐍 🏠 🍎 🪟 🐧 - HeadHunter (hh.ru) API: vacancy search and publishing, applications, invitations, resumes and salary statistics, with a read/write/destructive safety gate.
 - [adityatiwari101104/contribos](https://github.com/adityatiwari101104/contribos) [![adityatiwari101104/contribos MCP server](https://glama.ai/mcp/servers/adityatiwari101104/contribos/badges/score.svg)](https://glama.ai/mcp/servers/adityatiwari101104/contribos) 🐍 🏠 🍎 🪟 🐧 - Zero-dependency open-source contribution companion: repo rules and AI policy radar, evidence-backed issue briefs, pre-submit checks, and review coaching.
+- [zovo-one/mcp-time-tracker](https://github.com/zovo-one/mcp-time-tracker) 📍 ☁️ 🍎 🪟 🐧 - Track billable time from your AI chat: timers, entries, reports, CSV export and invoice links.
+
 ### 🛠️ <a name="other-tools-and-integrations"></a>Other Tools and Integrations
 
 - [wangkuangkuang/jev-mcp-server](https://github.com/wangkuangkuang/jev-mcp-server) [![wangkuangkuang/jev-mcp-server MCP server](https://glama.ai/mcp/servers/wangkuangkuang/jev-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/wangkuangkuang/jev-mcp-server) 🐍 🏠 🍎 🪟 🐧 - Typed judgments from TypeSafe Jev: calibrated choice and score questions, A/B comparison, claim-vs-evidence verification and batch classification.
