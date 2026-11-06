@@ -4399,6 +4399,8 @@ MCP servers for job search and career platforms.
 - [verax-ai/verax](https://github.com/verax-ai/verax) [![verax-ai/verax MCP server](https://glama.ai/mcp/servers/verax-ai/verax/badges/score.svg)](https://glama.ai/mcp/servers/verax-ai/verax) 📇 🏠 🪟 🐧 - Sits between an agent and its tools: every call passes a policy gate and leaves a signed decision record before it runs, a refusal is recorded like an approval, payments wait for an operator on the same machine, and the ledger stays there and verifies offline. Apache-2.0.
 
 - [ak10082247-max/canaryguard-402](https://github.com/ak10082247-max/canaryguard-402) [![ak10082247-max/canaryguard-402 MCP server](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402/badges/score.svg)](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402) 📇 ☁️ 🏠 🍎 🪟 🐧 - Deterministic prompt-injection detector, concealed Unicode scrubber, and honeypot wallet defense MCP server for AI agents.
+- [kadohack12/dogbolt-mcp](https://github.com/kadohack12/dogbolt-mcp) [![kadohack12/dogbolt-mcp MCP server](https://glama.ai/mcp/servers/kadohack12/dogbolt-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kadohack12/dogbolt-mcp) 🐍 🏠 🍎 🪟 🐧 - Decompile binaries across 13 decompilers (Ghidra, Hex-Rays/IDA, Binary Ninja, angr, RetDec, Snowman and more) via the public dogbolt.org service, hiding the asynchronous polling loop.
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
