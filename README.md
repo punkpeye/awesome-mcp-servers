@@ -1363,6 +1363,8 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [croc100/Litescope](https://github.com/croc100/Litescope) [![Litescope MCP server](https://glama.ai/mcp/servers/croc100/Litescope/badges/score.svg)](https://glama.ai/mcp/servers/croc100/Litescope) 🏎️ 🏠 ☁️ - Operations toolchain for SQLite, Cloudflare D1 and Turso: inspect, diff, migrate, monitor, back up and repair databases. Read-only by default.
 
 - [gulmezeren2-byte/erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine) [![gulmezeren2-byte/erp-report-engine MCP server](https://glama.ai/mcp/servers/gulmezeren2-byte/erp-report-engine/badges/score.svg)](https://glama.ai/mcp/servers/gulmezeren2-byte/erp-report-engine) 🐍 🏠 - Read-only access to ERP SQL databases (Logo Tiger, Netsis, Mikro) through canonical entities like orders, with a guard that blocks side-effecting statements.
+- [RitualDev-Lab/DBShield](https://github.com/RitualDev-Lab/DBShield) 📇 🏠 🍎 🪟 🐧 - Zero-trust database proxy and MCP server with SQL AST safety firewall, dynamic PII masking, and row-level limits.
+
 ### 📊 <a name="data-platforms"></a>Data Platforms
 
 Data Platforms for data integration, transformation and pipeline orchestration.
@@ -1986,6 +1988,8 @@ Tools and integrations that enhance the development workflow and environment man
 - [WilliamSmithEdward/xlide_mcp](https://github.com/WilliamSmithEdward/xlide_mcp) [![WilliamSmithEdward/xlide_mcp MCP server](https://glama.ai/mcp/servers/WilliamSmithEdward/xlide_mcp/badges/score.svg)](https://glama.ai/mcp/servers/WilliamSmithEdward/xlide_mcp) 🐍 🏠 🍎 🪟 🐧 - Read, write, analyze and test VBA in Excel, Word, PowerPoint and Access files, with static analysis; the file layer works without Office installed.
 - [motock/fagan](https://github.com/motock/fagan) [![motock/fagan MCP server](https://glama.ai/mcp/servers/motock/fagan/badges/score.svg)](https://glama.ai/mcp/servers/motock/fagan) 🐍 🏠 - Autonomous coding pipeline: a frontier model plans and reviews, a local model implements under TDD, and a merge gate re-runs the suite on the rebased branch.
 - [ni-c/opengist-mcp](https://github.com/ni-c/opengist-mcp) [![ni-c/opengist-mcp MCP server](https://glama.ai/mcp/servers/ni-c/opengist-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ni-c/opengist-mcp) 📇 🏠 🍎 🪟 🐧 - Read, search, create, update and delete gists on your own [Opengist](https://github.com/thomiceli/opengist) instance — the self-hosted pastebin powered by Git. File contents and revisions, commit history, forks and likes. Bounded results, untrusted-content markers, and a server-issued confirmation token on everything that deletes or publishes. `npx -y opengist-mcp`
+- [RitualDev-Lab/SkillPrism](https://github.com/RitualDev-Lab/SkillPrism) 📇 🏠 🍎 🪟 🐧 - Semantic tool and skill discovery engine with vector search and dynamic MCP routing.
+
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [A1-x-Tech/mcp-yandex-dostavka](https://github.com/A1-x-Tech/mcp-yandex-dostavka) [![A1-x-Tech/mcp-yandex-dostavka MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-yandex-dostavka/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-yandex-dostavka) 📇 ☁️ - Yandex Delivery B2B API: express-courier claims (price check, create, track, cancel) and pickup-point/NDD orders.
@@ -4400,6 +4404,8 @@ MCP servers for job search and career platforms.
 - [verax-ai/verax](https://github.com/verax-ai/verax) [![verax-ai/verax MCP server](https://glama.ai/mcp/servers/verax-ai/verax/badges/score.svg)](https://glama.ai/mcp/servers/verax-ai/verax) 📇 🏠 🪟 🐧 - Sits between an agent and its tools: every call passes a policy gate and leaves a signed decision record before it runs, a refusal is recorded like an approval, payments wait for an operator on the same machine, and the ledger stays there and verifies offline. Apache-2.0.
 
 - [ak10082247-max/canaryguard-402](https://github.com/ak10082247-max/canaryguard-402) [![ak10082247-max/canaryguard-402 MCP server](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402/badges/score.svg)](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402) 📇 ☁️ 🏠 🍎 🪟 🐧 - Deterministic prompt-injection detector, concealed Unicode scrubber, and honeypot wallet defense MCP server for AI agents.
+- [RitualDev-Lab/AgentShield](https://github.com/RitualDev-Lab/AgentShield) 📇 🏠 🍎 🪟 🐧 - Runtime security proxy and MCP firewall with behavioral policy enforcement, tool call validation, and audit logging.
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
