@@ -533,6 +533,7 @@ Interaja com repositórios Git e plataformas de controle de versão. Permite ger
 - [Template MCP Server](https://github.com/mcpdotdirect/template-mcp-server) 📇 - Uma ferramenta de linha de comando para criar um novo projeto de servidor de Protocolo de Contexto de Modelo com suporte a TypeScript, opções de transporte duplo e uma estrutura extensível
 - [sendaifun/solana-mcp-kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - SDK Solana MCP
 - [tumf/web3-mcp](https://github.com/tumf/web3-mcp) 🐍 ☁️ - Uma implementação de servidor MCP que envolve a Ankr Advanced API. Acesso a NFT, token e dados de blockchain em várias redes, incluindo Ethereum, BSC, Polygon, Avalanche e mais.
+- [smusali/mcp4api](https://github.com/smusali/mcp4api) [[smusali/mcp4api MCP server](https://glama.ai/mcp/servers/smusali/mcp4api/badges/score.svg)](https://glama.ai/mcp/servers/smusali/mcp4api) 🐍 🏠 - Transforma uma especificação OpenAPI em um servidor MCP Python selecionado, depois chama cada ferramenta gerada contra a API e informa quais funcionam.
 
 ## Utilitários
 

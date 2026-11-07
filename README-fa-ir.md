@@ -1235,6 +1235,7 @@
 
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - یک چارچوب سطح بالا برای ساخت سرورهای MCP در Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - یک چارچوب سطح بالا برای ساخت سرورهای MCP در TypeScript
+- [smusali/mcp4api](https://github.com/smusali/mcp4api) [[smusali/mcp4api MCP server](https://glama.ai/mcp/servers/smusali/mcp4api/badges/score.svg)](https://glama.ai/mcp/servers/smusali/mcp4api) 🐍 🏠 - یک مشخصات OpenAPI را به یک سرور MCP پایتون گزینش‌شده تبدیل می‌کند، سپس هر ابزار تولیدشده را روی API فراخوانی کرده و گزارش می‌دهد کدام‌ها کار می‌کنند.
 
 ## نکات و ترفندها
 

@@ -681,6 +681,7 @@ i- [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ �
 - [spring-projects-experimental/spring-ai-mcp](https://github.com/spring-projects-experimental/spring-ai-mcp) ☕ 🌱 - SDK Java และการรวม Spring Framework สำหรับการสร้างไคลเอนต์และเซิร์ฟเวอร์ MCP ด้วยตัวเลือกการขนส่งที่หลากหลายและเสียบได้
 - [Template MCP Server](https://github.com/mcpdotdirect/template-mcp-server) 📇 - เครื่องมือ CLI เพื่อสร้างโปรเจกต์เซิร์ฟเวอร์ Model Context Protocol ใหม่ด้วยการสนับสนุน TypeScript ตัวเลือกการขนส่งคู่ และโครงสร้างที่ขยายได้
 - [sendaifun/solana-mcp-kit](https://github.com/sendaifun/solana-agent-kit/tree/main/examples/agent-kit-mcp-server) - SDK MCP Solana
+- [smusali/mcp4api](https://github.com/smusali/mcp4api) [[smusali/mcp4api MCP server](https://glama.ai/mcp/servers/smusali/mcp4api/badges/score.svg)](https://glama.ai/mcp/servers/smusali/mcp4api) 🐍 🏠 - แปลง OpenAPI spec เป็นเซิร์ฟเวอร์ MCP Python ที่คัดสรร แล้วเรียกทุกเครื่องมือที่สร้างขึ้นกับ API และรายงานว่าอันไหนใช้งานได้
 
 ## ยูทิลิตี้ (Utilities)
 

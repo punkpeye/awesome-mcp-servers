@@ -707,6 +707,7 @@ Webコンテンツのアクセスと自動化機能。AIに優しい形式でWeb
 
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - PythonでMCPサーバーを構築するための高レベルフレームワーク
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - TypeScriptでMCPサーバーを構築するための高レベルフレームワーク
+- [smusali/mcp4api](https://github.com/smusali/mcp4api) [[smusali/mcp4api MCP server](https://glama.ai/mcp/servers/smusali/mcp4api/badges/score.svg)](https://glama.ai/mcp/servers/smusali/mcp4api) 🐍 🏠 - OpenAPI仕様から厳選したPython MCPサーバーを生成し、生成した各ツールをAPIに対して呼び出して動作するものを報告します。
 
 ## Tips and Tricks
 
