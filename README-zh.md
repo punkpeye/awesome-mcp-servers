@@ -600,6 +600,7 @@ AI助手可以通过翻译工具和服务在不同语言之间翻译内容。
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) 🐍 ☁️ 🏠 - 通过REST API与Obsidian交互
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) 📇 ☁️ - 获取YouTube字幕
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) 🐍 ☁️ - 与Notion API集成，管理个人待办事项列表
+- [David-Porto-Baraldes/Viveka_Web](https://github.com/David-Porto-Baraldes/Viveka_Web) [![Viveka_Web MCP server](https://glama.ai/mcp/servers/David-Porto-Baraldes/Viveka_Web/badges/score.svg)](https://glama.ai/mcp/servers/David-Porto-Baraldes/Viveka_Web) 🎖️ 🐍 ☁️ 🏠 🍎 🪟 🐧 - 基于瑞士星历表（`pyswisseph`，`<1.5ms`，免认证 Zero-Auth，第14法则零知识隐私保护）的七大智慧与四元素星历神谕：八字四柱与五行、周易六十四卦、西方与龙图本命星盘、三维灵魂合盘（Synastry）与家族星座、印度吠陀占星（Jyotish 与大运）、玛雅德累斯顿古抄本历法、人类图 64 闸门、炼金塔罗与卡巴拉生命之树。远程端点：`https://homouniversalis.ai/mcp`。
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - 自动化shell执行、计算机控制和编码代理。（Mac）
 - [henilcalagiya/mcp-apple-notes](https://github.com/henilcalagiya/mcp-apple-notes) 🐍 🏠 - 使用模型上下文协议（MCP）自动化Apple Notes的强大工具。支持HTML内容的完整CRUD操作、文件夹管理和搜索功能。
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 🏠 - Coinmarket API集成，用于获取加密货币列表和报价

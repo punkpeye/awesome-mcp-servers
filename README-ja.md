@@ -580,6 +580,7 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - AIがGraphQLサーバーをクエリ可能にする
 - [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) 🐍 🏠 - MCPサーバーテスト用のもう一つのCLIツール
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) 🐍 ☁️ - NotionのAPIと統合してパーソナルToDoリストを管理
+- [David-Porto-Baraldes/Viveka_Web](https://github.com/David-Porto-Baraldes/Viveka_Web) [![Viveka_Web MCP server](https://glama.ai/mcp/servers/David-Porto-Baraldes/Viveka_Web/badges/score.svg)](https://glama.ai/mcp/servers/David-Porto-Baraldes/Viveka_Web) 🎖️ 🐍 ☁️ 🏠 🍎 🪟 🐧 - スイス天体暦（`pyswisseph`、`<1.5ms`、認証不要、Rule 14 ゼロ知識プライバシー）に基づく7つの叡智と四元素の天体暦・占星術オラクル：西洋・ドラコニック占星術、四柱推命（八字）、インド占星術（ジョーティシュ＆ダシャー）、マヤ暦、易経（周易64卦）、ヒューマンデザイン、タロット、カバラ、魂のシナストリー（相性診断）。リモート：`https://homouniversalis.ai/mcp`。
 - [ekkyarmandi/ticktick-mcp](https://github.com/ekkyarmandi/ticktick-mcp) 🐍 ☁️ - [TickTick](https://ticktick.com/)のAPIと統合してパーソナルToDoプロジェクトとタスクを管理するTickTick MCPサーバー
 - [esignaturescom/mcp-server-esignatures](https://github.com/esignaturescom/mcp-server-esignatures) 🐍 ☁️ - eSignatures API経由で拘束力のある契約の起草、レビュー、送信を行う契約・テンプレート管理
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro) 📇 ☁️ - MIROホワイトボードにアクセス、アイテムの一括作成・読み取り。REST API用OAUTHキーが必要
