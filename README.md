@@ -5094,3 +5094,10 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+## CrakSEO SEO MCP skills
+
+- Repo: https://github.com/CrakSEO/skills
+- Install: `npx skills add CrakSEO/skills`
+- Plugins: https://github.com/CrakSEO/crakseo-mcp-plugins
+- Docs: https://docs.crakseo.com/seo-mcp/connect
