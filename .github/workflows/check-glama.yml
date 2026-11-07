@@ -365,7 +365,7 @@ jobs:
 
             ${urls}
 
-            Please update your PR to use a \`https://github.com/...\` repository link.`
+            Remote-only server (no installable package)? It belongs in [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) instead. Otherwise, update your PR to use a \`https://github.com/...\` repository link.`
                 });
               }
             }
