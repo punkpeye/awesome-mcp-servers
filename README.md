@@ -1365,6 +1365,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [gulmezeren2-byte/erp-report-engine](https://github.com/gulmezeren2-byte/erp-report-engine) [![gulmezeren2-byte/erp-report-engine MCP server](https://glama.ai/mcp/servers/gulmezeren2-byte/erp-report-engine/badges/score.svg)](https://glama.ai/mcp/servers/gulmezeren2-byte/erp-report-engine) 🐍 🏠 - Read-only access to ERP SQL databases (Logo Tiger, Netsis, Mikro) through canonical entities like orders, with a guard that blocks side-effecting statements.
 ### 📊 <a name="data-platforms"></a>Data Platforms
 
+- [ak10082247-max/pulse402-oracle](https://github.com/ak10082247-max/pulse402-oracle) 📇 ☁️ - High-frequency consumable x402 data oracle providing Base DEX pool reserves, Polymarket probability velocity, and cross-DEX arbitrage routes for AI agents.
 Data Platforms for data integration, transformation and pipeline orchestration.
 
 - [dockndevai/mcp-debezium](https://github.com/dockndevai/mcp-debezium) [![dockndevai/mcp-debezium MCP server](https://glama.ai/mcp/servers/dockndevai/mcp-debezium/badges/score.svg)](https://glama.ai/mcp/servers/dockndevai/mcp-debezium) 📇 🏠 🍎 🪟 🐧 - Monitor and manage Debezium and Kafka Connect CDC connectors, with access modes, connector allowlists, delete gating and credential redaction.
