@@ -183,6 +183,7 @@
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับ Product Hunt โต้ตอบกับโพสต์ที่กำลังเป็นที่นิยม ความคิดเห็น คอลเลกชัน ผู้ใช้ และอื่นๆ อีกมากมาย
 - [Danielpeter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - เซิร์ฟเวอร์ MCP สำหรับ Cal.com จัดการประเภทกิจกรรม สร้างการนัดหมาย และเข้าถึงข้อมูลตารางนัดของ Cal.com ผ่าน LLMs ได้
 - [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: Telegram + Claude พร้อมการเข้าถึงพื้นที่ทำงานในเครื่องบนโทรศัพท์ของคุณใน TypeScript อ่าน เขียน และ vibe code ระหว่างเดินทาง!
+- [a19901201/mcp-telegram-agent](https://github.com/a19901201/mcp-telegram-agent) [![a19901201/mcp-telegram-agent MCP server](https://glama.ai/mcp/servers/a19901201/mcp-telegram-agent/badges/score.svg)](https://glama.ai/mcp/servers/a19901201/mcp-telegram-agent) 🐍 ☁️ 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ FastMCP สำหรับส่งการแจ้งเตือน ไฟล์ในเครื่อง อัลบั้มสื่อ และคีย์บอร์ดที่กำหนดเอง ผ่าน Telegram Bot API โดยไม่มีความเสี่ยงจากการเข้าสู่ระบบ
 
 ### 👤 แพลตฟอร์มข้อมูลลูกค้า
 

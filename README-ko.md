@@ -200,6 +200,7 @@
 - [jaipandya/producthunt-mcp-server](https://github.com/jaipandya/producthunt-mcp-server) 🐍 🏠 - Product Hunt을 위한 MCP 서버. 트렌딩 게시물, 댓글, 컬렉션, 사용자 등과 상호 작용할 수 있습니다.
 - [peter-99/calcom-mcp](https://github.com/Danielpeter-99/calcom-mcp) 🐍 🏠 - Cal.com용 MCP 서버입니다. 이벤트 유형을 관리하고, 예약을 생성하며, LLM을 통해 Cal.com의 일정 데이터를 활용할 수 있습니다.
 - [areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) - TSgram: TypeScript로 스마트폰에서 로컬 워크스페이스에 접근할 수 있는 Telegram + Claude. 이동 중에 코드를 읽고 쓰며 vibe code!
+- [a19901201/mcp-telegram-agent](https://github.com/a19901201/mcp-telegram-agent) [![a19901201/mcp-telegram-agent MCP server](https://glama.ai/mcp/servers/a19901201/mcp-telegram-agent/badges/score.svg)](https://glama.ai/mcp/servers/a19901201/mcp-telegram-agent) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Telegram Bot API를 통해 로그인 위험 없이 알림, 로컬 파일, 미디어 앨범, 사용자 지정 키보드를 보내는 FastMCP 서버.
 
 ### 👤 <a name="customer-data-platforms"></a>고객 데이터 플랫폼
 
