@@ -61,6 +61,10 @@ TIMEOUT = 180
 CATALOG_TTL = 300          # 目录缓存 5 分钟
 
 _CATALOG = {"ts": 0.0, "actions": []}
+# ★ 2026-11-07：无 key 时的公开目录缓存（走公网 MCP 的 tools/list，不需要密钥）。
+#   之前没配 key 只能看到 2 个兜底工具 ⇒ 目录站 introspection 只数到 2 个，
+#   用户也会以为"这服务就两个工具"。
+_PUBLIC = {"ts": 0.0, "tools": []}
 
 
 # ── HTTP（标准库） ────────────────────────────────────────────────────────
@@ -117,6 +121,27 @@ def fetch_catalog(force: bool = False):
     _CATALOG["actions"] = acts
     _CATALOG["ts"] = now
     return acts
+
+
+def fetch_public_tools(force: bool = False):
+    """没有 API key 时，从**公网 MCP 的 tools/list** 取目录（目录本来就是公开的）。
+
+    目录站（Glama 等）做 introspection 时通常不带密钥 —— 如果不走这条，
+    它们只数到 2 个兜底工具，评分与"工具数"都会失真。
+    返回 MCP 原生 tool 结构；失败返回 []（不影响两个兜底工具）。
+    """
+    now = time.time()
+    if not force and _PUBLIC["tools"] and now - _PUBLIC["ts"] < CATALOG_TTL:
+        return _PUBLIC["tools"]
+    status, body = _call("/api/mcp", method="POST",
+                         body={"jsonrpc": "2.0", "id": 1, "method": "tools/list"})
+    if status != 200:
+        return _PUBLIC["tools"] or []
+    tools = ((body or {}).get("result") or {}).get("tools") or []
+    if tools:
+        _PUBLIC["tools"] = tools
+        _PUBLIC["ts"] = now
+    return tools
 
 
 # ── 工具 1：目录总览 ──────────────────────────────────────────────────────
@@ -195,6 +220,12 @@ def _fmt_result(body):
 def _do_run(action_id, payload):
     status, body = _call("/api/open/v1/run/" + action_id, "POST", payload or {})
     if status == 401:
+        # ★ 2026-11-07：区分"根本没配"与"配错了"——否则新用户看到"无效或已撤销"会更困惑
+        if not _key():
+            return _err("执行动作需要 API Key：当前没有设置 SANYU_API_KEY。"
+                        "请到 https://sanyu.wentangkeji.com/api-keys 生成 sk-sanyu-xxx，"
+                        "写进客户端 env 的 SANYU_API_KEY 后重启。"
+                        "（tools/list 不需要密钥，所以你能看到全部工具，但执行需要。）")
         return _err("API Key 无效或已撤销，请重新生成。")
     if status == 403:
         d = body.get("detail") if isinstance(body, dict) else body
@@ -314,9 +345,19 @@ _STATIC_TOOLS = [
 
 
 def all_tools():
-    """静态兜底工具 + 每个动作一个专用工具。目录拉不到时只剩静态两个。"""
+    """静态兜底工具 + 每个动作一个专用工具。
+
+    ★ 2026-11-07：无 key（或 REST 目录不可用）时，改为透传**公网 MCP 的公开 tools/list**。
+      实测这样做后，不带密钥 introspection 也能列出全部动作（此前只有 2 个兜底工具）。
+    """
     acts = fetch_catalog()
-    return _STATIC_TOOLS + _action_tools(acts)
+    if acts:
+        return _STATIC_TOOLS + _action_tools(acts)
+    pub = fetch_public_tools()
+    if pub:
+        static_names = {t.get("name") for t in _STATIC_TOOLS}
+        return _STATIC_TOOLS + [t for t in pub if t.get("name") not in static_names]
+    return _STATIC_TOOLS
 
 
 def dispatch(name, args):
@@ -327,6 +368,10 @@ def dispatch(name, args):
         return tool_run_action(args)
     if name.startswith("sanyu_act_"):
         return _do_run(name[len("sanyu_"):], args or {})
+    # ★ 2026-11-07：无 key 透传公网目录时，工具名就是 `act_*`（与服务端一致），
+    #   这里也要认，否则"看得见却调不动"。
+    if name.startswith("act_"):
+        return _do_run(name, args or {})
     return _err("未知工具：%s。可调用 sanyu_list_actions 查看可用工具。" % name)
 
 
