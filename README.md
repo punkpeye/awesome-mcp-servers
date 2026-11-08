@@ -4477,6 +4477,7 @@ Integration with social media platforms to allow posting, analytics, and interac
 - [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) [![Xquik-dev/x-twitter-scraper MCP server](https://glama.ai/mcp/servers/Xquik-dev/x-twitter-scraper/badges/score.svg?v=2)](https://glama.ai/mcp/servers/Xquik-dev/x-twitter-scraper) 📇 ☁️ - X (Twitter) automation: post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways and monitor accounts.
 - [yxs1640-png/xflux](https://github.com/yxs1640-png/xflux) [![yxs1640-png/xflux MCP server](https://glama.ai/mcp/servers/yxs1640-png/xflux/badges/score.svg)](https://glama.ai/mcp/servers/yxs1640-png/xflux) 📇 🏠 - Read-only X/Twitter API for agents: search, timelines, profiles, Smart Money. npm `@xflux/xflux-mcp-server`. Not for posting.
 - [ilyautov/vk-mcp-ru](https://github.com/ilyautov/vk-mcp-ru) [![ilyautov/vk-mcp-ru MCP server](https://glama.ai/mcp/servers/ilyautov/vk-mcp-ru/badges/score.svg)](https://glama.ai/mcp/servers/ilyautov/vk-mcp-ru) 🐍 🏠 🍎 🪟 🐧 - VK API access: wall posts, communities, messages, market items, ads and stats, with plain-language method search and a read/write/destructive safety gate.
+- [abdul712/pinbuilds-claude-plugin](https://github.com/abdul712/pinbuilds-claude-plugin) ☁️ - Create Pinterest pins from blog posts and Shopify/Etsy products, and schedule them to your boards. Remote MCP server at pinbuilds.com with OAuth sign-in.
 
 ### 🔮 <a name="spirituality-and-esoterica"></a>Spirituality & Esoterica
 
