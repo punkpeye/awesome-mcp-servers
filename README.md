@@ -1,4 +1,4 @@
-# Awesome MCP Servers
+fi# Awesome MCP Servers
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
@@ -2264,6 +2264,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [alebgl77/ftp-deploy-mcp](https://github.com/alebgl77/ftp-deploy-mcp) [![alebgl77/ftp-deploy-mcp MCP server](https://glama.ai/mcp/servers/alebgl77/ftp-deploy-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alebgl77/ftp-deploy-mcp) 📇 🏠 🍎 🪟 🐧 - Deploy files to FTP, FTPS or SFTP servers: multi-server config, recursive deploys with dry-run and excludes, path jails, read-only mode and FileZilla import.
 
 ### 💰 <a name="finance--fintech"></a>Finance & Fintech
+- [markolis-quant/markolis-mcp](https://github.com/markolis-quant/markolis-mcp) 🎖️ 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - Institutional quantitative market telemetry, 100-bin auction theory, trapped retail crowd positioning, and interactive MCP App visualization frames for 130+ financial assets. Connect remotely via `https://www.markolis.com/api/mcp` or run locally with Python/Node.
 - [402MCP/402mcp](https://github.com/402MCP/402mcp) [![402MCP/402mcp MCP server](https://glama.ai/mcp/servers/402MCP/402mcp/badges/score.svg)](https://glama.ai/mcp/servers/402MCP/402mcp) 📇 ☁️ 🍎 🪟 🐧 - Decodes HTTP 402 Payment Required challenges (L402, x402, MPP) into exact pay-and-retry steps, recommends a payment rail from stated requirements, and searches an open registry of agent payment solutions. Read-only; never spends money.
 - [Wangxian111/xaudaily-gold-data](https://github.com/Wangxian111/xaudaily-gold-data) [![Wangxian111/xaudaily-gold-data MCP server](https://glama.ai/mcp/servers/Wangxian111/xaudaily-gold-data/badges/score.svg)](https://glama.ai/mcp/servers/Wangxian111/xaudaily-gold-data) 🐍 ☁️ 🍎 🪟 🐧 - Source-attributed daily gold and macro readings from xaudaily.com: COMEX gold and Shanghai Au99.99, US CPI / core PCE / nonfarm payrolls / PPI, DXY, Treasury 10Y and 30Y yields, VIX, SPDR holdings, Fed funds rate and FOMC decision odds, central-bank gold buying, Brent/WTI, and a rule-based gold driver score. Every field carries its own `source` and `asOf` and degrades explicitly with `stale: true` rather than silently going stale. Two tools, no API key or signup, CC BY 4.0. Run with `python3 mcp_server.py`.
 - [LakeSky/agentsapi-sec-filings](https://github.com/LakeSky/agentsapi-sec-filings) [![LakeSky/agentsapi-sec-filings MCP server](https://glama.ai/mcp/servers/LakeSky/agentsapi-sec-filings/badges/score.svg)](https://glama.ai/mcp/servers/LakeSky/agentsapi-sec-filings) 📇 ☁️ - SEC EDGAR filings (10-K/10-Q/8-K) for AI agents. Pay-per-call in USDC on Base via x402 — no API key, no signup.
