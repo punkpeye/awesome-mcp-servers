@@ -2093,7 +2093,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 - [adancurusul/embedded-debugger-mcp](https://github.com/adancurusul/embedded-debugger-mcp) 🦀 📟 - Embedded debugging with probe-rs: ARM Cortex-M and RISC-V targets via J-Link, ST-Link and other probes.
 - [adancurusul/serial-mcp-server](https://github.com/adancurusul/serial-mcp-server) 🦀 📟 - Serial port communication.
 - [ByteAsk/ByteAsk-Embedded-MCP](https://github.com/ByteAsk/ByteAsk-Embedded-MCP) [![ByteAsk/ByteAsk-Embedded-MCP MCP server](https://glama.ai/mcp/servers/ByteAsk/ByteAsk-Embedded-MCP/badges/score.svg)](https://glama.ai/mcp/servers/ByteAsk/ByteAsk-Embedded-MCP) 🐍 ☁️ 📟 - Page-cited retrieval of embedded/firmware reference docs (datasheets, MCU registers, Modbus/CAN, SCPI, IEEE 1547/SunSpec) as verbatim snippets.
-- [ctrlpi/pico-bay](https://github.com/ctrlpi/pico-bay) 📇 📟 🏠 🍎 🪟 🐧 - Browse and edit files, run Python and install firmware on Raspberry Pi Pico and ESP32 boards over USB.
+- [ctrlpi/pico-bay](https://github.com/ctrlpi/pico-bay) [![ctrlpi/pico-bay MCP server](https://glama.ai/mcp/servers/ctrlpi/pico-bay/badges/score.svg)](https://glama.ai/mcp/servers/ctrlpi/pico-bay) 📇 📟 🏠 🍎 🪟 🐧 - Browse and edit files, run Python and install firmware on Raspberry Pi Pico and ESP32 boards over USB.
 - [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - Fix build issues for ESP32-series chips with ESP-IDF.
 - [kukapay/modbus-mcp](https://github.com/kukapay/modbus-mcp) 🐍 📟 - Standardize and contextualize industrial Modbus data.
 - [kukapay/opcua-mcp](https://github.com/kukapay/opcua-mcp) 🐍 📟 - Connect to OPC UA-enabled industrial systems.
