@@ -3598,6 +3598,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [zw008/VMware-Aria](https://github.com/zw008/VMware-Aria) [![zw008/vmware-aria MCP server](https://glama.ai/mcp/servers/zw008/vmware-aria/badges/score.svg)](https://glama.ai/mcp/servers/zw008/vmware-aria) 🐍 ☁️ - VMware Aria Operations monitoring for vSphere: performance metrics, alarms, capacity analysis and anomaly detection, with audit logging for write actions.
 - [aayushmdesai/mcp-dotnet-diagnostics](https://github.com/aayushmdesai/mcp-dotnet-diagnostics) [![aayushmdesai/mcp-dotnet-diagnostics MCP server](https://glama.ai/mcp/servers/aayushmdesai/mcp-dotnet-diagnostics/badges/score.svg)](https://glama.ai/mcp/servers/aayushmdesai/mcp-dotnet-diagnostics) 🏠 🍎 🐧 - Live .NET runtime diagnostics: find memory leaks, GC pressure, LOH fragmentation and thread starvation in any running .NET process without code changes.
 - [LogneBudo/llmxray](https://github.com/LogneBudo/llmxray) [![LogneBudo/llmxray MCP server](https://glama.ai/mcp/servers/@LogneBudo/llmxray/badges/score.svg)](https://glama.ai/mcp/servers/@LogneBudo/llmxray) 📇 🏠 🍎 🪟 🐧 - Ask what went wrong with your own Ollama calls: lost prompt cache and the token where the prompt stopped matching, context overflow, a model running partly on CPU, tool schemas crowding the prompt. Last turn in numbers; which local models fit in video memory. Read-only.
+- [priberry-data/tarelab](https://github.com/priberry-data/tarelab) 📇 🏠 🍎 🪟 🐧 - Reads local logs of Claude Code, Codex, Gemini CLI, Cline, Roo and Kilo and reports API-equivalent cost, cache misses and avoidable spend, with fixes. Nothing leaves the machine. `npx tarelab`
 
 ### 🎥 <a name="multimedia-process"></a>Multimedia Process
 
@@ -4400,6 +4401,8 @@ MCP servers for job search and career platforms.
 - [verax-ai/verax](https://github.com/verax-ai/verax) [![verax-ai/verax MCP server](https://glama.ai/mcp/servers/verax-ai/verax/badges/score.svg)](https://glama.ai/mcp/servers/verax-ai/verax) 📇 🏠 🪟 🐧 - Sits between an agent and its tools: every call passes a policy gate and leaves a signed decision record before it runs, a refusal is recorded like an approval, payments wait for an operator on the same machine, and the ledger stays there and verifies offline. Apache-2.0.
 
 - [ak10082247-max/canaryguard-402](https://github.com/ak10082247-max/canaryguard-402) [![ak10082247-max/canaryguard-402 MCP server](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402/badges/score.svg)](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402) 📇 ☁️ 🏠 🍎 🪟 🐧 - Deterministic prompt-injection detector, concealed Unicode scrubber, and honeypot wallet defense MCP server for AI agents.
+- [priberry-data/crumplelab](https://github.com/priberry-data/crumplelab) 📇 🏠 🍎 🪟 🐧 - Crash test for AI coding agents: runs Claude Code, Codex or Gemini CLI against traps (poisoned MCP tools, prompt injection in files, destructive code-mode calls) in Docker, audits agent setups, and adds a guard hook that blocks destructive commands. `npx crumplelab`
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
