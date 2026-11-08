@@ -2189,6 +2189,7 @@ MCP servers for e-commerce platforms and online store management.
 - [ztemerbekov/a1-yandex-kit-skills](https://github.com/ztemerbekov/a1-yandex-kit-skills) [![ztemerbekov/a1-yandex-kit-skills MCP server](https://glama.ai/mcp/servers/ztemerbekov/a1-yandex-kit-skills/badges/score.svg)](https://glama.ai/mcp/servers/ztemerbekov/a1-yandex-kit-skills) 📇 ☁️ - Yandex KIT e-commerce platform: manage products and variants, prices, orders, discounts, promo codes, collections, warehouses and webhooks.
 - [ilyautov/chestny-znak-mcp-ru](https://github.com/ilyautov/chestny-znak-mcp-ru) [![ilyautov/chestny-znak-mcp-ru MCP server](https://glama.ai/mcp/servers/ilyautov/chestny-znak-mcp-ru/badges/score.svg)](https://glama.ai/mcp/servers/ilyautov/chestny-znak-mcp-ru) 🐍 🏠 🍎 🪟 🐧 - Chestny ZNAK (Russian mandatory product marking, GIS MT and SUZ) API: marking codes, emission orders, circulation documents and code checks.
 - [dearlordylord/voila-sdk](https://github.com/dearlordylord/voila-sdk) [![dearlordylord/voila-sdk MCP server](https://glama.ai/mcp/servers/dearlordylord/voila-sdk/badges/score.svg)](https://glama.ai/mcp/servers/dearlordylord/voila-sdk) 📇 ☁️ 🏠 🍎 🪟 🐧 - Personal Voila grocery automation: search products, check discounts, list delivery slots, read cart and order history and update cart quantities.
+- [ClearWorks MCP](https://github.com/Fuma2514/clearworks-mcp) 📇 🏠 - AI-agent e-commerce workspace tools: orders, products and store-audit operations via the Model Context Protocol.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
