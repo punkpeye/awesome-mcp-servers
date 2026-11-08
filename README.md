@@ -4119,6 +4119,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 MCP servers for job search and career platforms.
 
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [Ruthvik-Bandari/linkedin-profile-mcp](https://github.com/Ruthvik-Bandari/linkedin-profile-mcp) 📇 🏠 🍎 🪟 🐧 - Review and rewrite LinkedIn profile text the way technical recruiters search: headline, About and Experience checks, character limits, stock-phrase detection and keyword gaps against pasted job postings. No login, scraping or API keys.
 
 ### 🔒 <a name="security"></a>Security
 
