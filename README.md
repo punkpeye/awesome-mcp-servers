@@ -831,6 +831,8 @@ Code execution servers. Allow LLMs to execute code in a secure environment, e.g.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Run LLM-generated code in a YepCode sandbox and create custom MCP tools in JavaScript or Python with npm and PyPI packages.
 ### 🤖 <a name="coding-agents"></a>Coding Agents
 
+- [tailucanh/offload-mcp-server](https://github.com/tailucanh/offload-mcp-server) [![tailucanh/offload-mcp-server MCP server](https://glama.ai/mcp/servers/tailucanh/offload-mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/tailucanh/offload-mcp-server) 📇 🏠 🍎 🪟 🐧 - Let Claude Code hand heavy read-only work (scanning a source tree, filtering long logs, analyzing bundles) to the Antigravity CLI in the background, and read back only a short report with path:line evidence. Structured briefs with a step log, read-only worker agent, any agent CLI as backend. Install via npm: `npx -y offload-mcp-server setup`
+
 - [ly8427/mcp-review-board](https://github.com/ly8427/mcp-review-board) [![ly8427/mcp-review-board MCP server](https://glama.ai/mcp/servers/ly8427/mcp-review-board/badges/score.svg)](https://glama.ai/mcp/servers/ly8427/mcp-review-board) 🐍 🏠 🍎 🪟 🐧 - Localhost review board where different coding agents (Claude Code, Codex, OpenCode, Trae, ZCode) review each other's work: objections must state flip conditions, revisions clear all verdicts, resolution requires the whole active quorum, and every vote is append-only audited. Ships its own audited self-review history as evidence. Install: `pipx install mcp-review-board`.
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
 
