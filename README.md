@@ -139,6 +139,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
+- [Hadinkof/capabilitymap-nexus-mcp](https://github.com/Hadinkof/capabilitymap-nexus-mcp) 📇 ☁️ 🐧 🍎 🪟 - Problem-first GitHub capability router and 5-vector prompt-injection firewall indexing 666 manifest-verified repositories with 96.4% LLM token reduction.
 Servers for accessing many apps and tools through a single MCP server.
 - [inth3shadows/terse](https://github.com/inth3shadows/terse) [![inth3shadows/terse MCP server](https://glama.ai/mcp/servers/inth3shadows/terse/badges/score.svg)](https://glama.ai/mcp/servers/inth3shadows/terse) 🐍 🏠 🍎 🪟 🐧 - Transparent proxy that sits in front of any other MCP server and shrinks its tool output before it reaches the model. Lossless by default — a denser encoding of the same bytes, with a round-trip gate asserting an exact inverse, so nothing is dropped or summarised. Repeated calls to the same tool emit a delta against the prior result instead of the whole payload. Per-tool opt-in, no decode step, no model in the loop. `uv tool install terse-mcp` then `terse proxy -- <server>`
 - [402signalhq/402signal](https://github.com/402signalhq/402signal) [![402Signal MCP server](https://glama.ai/mcp/servers/402signalhq/402signal/badges/score.svg)](https://glama.ai/mcp/servers/402signalhq/402signal) 🐍 ☁️ - Checks and validates live x402 payment routes across Base, Solana and Algorand.
