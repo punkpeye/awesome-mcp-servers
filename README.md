@@ -2207,6 +2207,7 @@ Provides access to environmental data and nature-related tools, services and inf
 - [Zhonghao1995/agentic-swmm-workflow](https://github.com/Zhonghao1995/agentic-swmm-workflow) [![Zhonghao1995/agentic-swmm-workflow MCP server](https://glama.ai/mcp/servers/Zhonghao1995/agentic-swmm-workflow/badges/score.svg)](https://glama.ai/mcp/servers/Zhonghao1995/agentic-swmm-workflow) 📇 🐍 🏠 🍎 🪟 🐧 - EPA SWMM stormwater modelling workflow: model building, simulation runs, calibration, QGIS integration, climate scenarios and uncertainty analysis.
 
 ### 📂 <a name="file-systems"></a>File Systems
+- [tidybytetools/json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) [![tidybytetools/json-shaper-lite MCP server](https://glama.ai/mcp/servers/tidybytetools/json-shaper-lite/badges/score.svg)](https://glama.ai/mcp/servers/tidybytetools/json-shaper-lite) 🐍 🏠 🍎 🪟 🐧 - Turn key:value notes, CSV/TSV and Markdown tables into typed JSON. Local stdio MCP; no API key.
 
 Provides direct access to local file systems with configurable permissions. Enables AI models to read, write, and manage files within specified directories.
 
@@ -2882,6 +2883,7 @@ Connect AI agents to industrial equipment, machinery, and operational technology
 - [purinzan/gx3-cli-mcp](https://github.com/purinzan/gx3-cli-mcp) [![purinzan/gx3-cli-mcp MCP server](https://glama.ai/mcp/servers/purinzan/gx3-cli-mcp/badges/score.svg)](https://glama.ai/mcp/servers/purinzan/gx3-cli-mcp) 🐍 🏠 🪟 - Unofficial, read-only analysis of Mitsubishi MELSEC GX Works3 PLC projects: trace ladder logic, find device reads and writes and search device comments.
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
+- [tidybytetools/md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) [![tidybytetools/md-chunk-lite MCP server](https://glama.ai/mcp/servers/tidybytetools/md-chunk-lite/badges/score.svg)](https://glama.ai/mcp/servers/tidybytetools/md-chunk-lite) 🐍 🏠 🍎 🪟 🐧 - Split local Markdown into heading-based chunks with heading path and line numbers for RAG. Runs offline; files are never uploaded.
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 - [eddyflores100-lang/alethech](https://github.com/eddyflores100-lang/alethech) [![eddyflores100-lang/alethech MCP server](https://glama.ai/mcp/servers/eddyflores100-lang/alethech/badges/score.svg)](https://glama.ai/mcp/servers/eddyflores100-lang/alethech) 📇 🏠 🍎 🪟 🐧 - Verifiable Ed25519-signed agent memory chain with fail-closed verification; offline-first TF-IDF recall (zero LLM tokens at runtime), artifact audit, durable snapshots with zero secret leakage, and a measured 42-second disaster-recovery drill.
