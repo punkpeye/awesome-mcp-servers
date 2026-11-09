@@ -5095,4 +5095,5 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
-- [FamousMonsterr/zai-web-search-mcp](https://github.com/FamousMonsterr/zai-web-search-mcp) - Z.ai (GLM Coding Plan) web search & page reading for DeepSeek Harness: wires the built-in web_search/web_fetch tools to the official web_search_prime and web_reader MCP endpoints, adds vision + zread MCP tools and a live quota chip
+- [FamousMonsterr/zai-web-search-mcp](https://github.com/FamousMonsterr/zai-web-search-mcp) 📇 - Z.ai (GLM Coding Plan) web search & page reading for DeepSeek Harness: wires the built-in web_search/web_fetch tools to the official web_search_prime and web_reader MCP endpoints, adds vision + zread MCP tools and a live quota chip
+  [![FamousMonsterr/zai-web-search-mcp MCP server](https://glama.ai/mcp/servers/FamousMonsterr/zai-web-search-mcp/badges/score.svg)](https://glama.ai/mcp/servers/FamousMonsterr/zai-web-search-mcp)
