@@ -139,6 +139,9 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
+6t9xstar/shadowcli
+ 🦀 🛡️ 🐧 🪟 - Zero-trust execution boundary and ephemeral Copy-on-Write (CoW) staging sandbox for autonomous AI coding agents (Claude Code, Cursor, Aider). Wraps terminal command execution in unprivileged Linux user namespaces, Landlock LSM, and Seccomp BPF filters, quarantining all filesystem mutations into an ephemeral OverlayFS/CopyFS scratch layer. Host repositories remain strictly untouched until the developer inspects the colored terminal diff with automatic multiline API key/secret redaction and signs off with a cryptographic SHA-256 review hash. AI agents are physically prevented from self-approving changes via the MCP protocol. cargo install shadowcli then shadow claude-setup --write
+
 Servers for accessing many apps and tools through a single MCP server.
 - [inth3shadows/terse](https://github.com/inth3shadows/terse) [![inth3shadows/terse MCP server](https://glama.ai/mcp/servers/inth3shadows/terse/badges/score.svg)](https://glama.ai/mcp/servers/inth3shadows/terse) 🐍 🏠 🍎 🪟 🐧 - Transparent proxy that sits in front of any other MCP server and shrinks its tool output before it reaches the model. Lossless by default — a denser encoding of the same bytes, with a round-trip gate asserting an exact inverse, so nothing is dropped or summarised. Repeated calls to the same tool emit a delta against the prior result instead of the whole payload. Per-tool opt-in, no decode step, no model in the loop. `uv tool install terse-mcp` then `terse proxy -- <server>`
 - [402signalhq/402signal](https://github.com/402signalhq/402signal) [![402Signal MCP server](https://glama.ai/mcp/servers/402signalhq/402signal/badges/score.svg)](https://glama.ai/mcp/servers/402signalhq/402signal) 🐍 ☁️ - Checks and validates live x402 payment routes across Base, Solana and Algorand.
