@@ -914,6 +914,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [sim-xia/blind-auditor](https://github.com/Sim-xia/Blind-Auditor) 🐍 🏠 🍎 🪟 🐧 - Make AI self-correct its generated output through prompt injection, independent self-auditing and context isolation.
 - [sim-xia/skill-cortex-server](https://github.com/Sim-xia/skill-cortex-server) 🐍 🏠 🍎 🪟 🐧 - Use Claude Code Skills from any IDE or CLI.
 - [sonirico/mcp-shell](https://github.com/sonirico/mcp-shell) 🏎️ 🏠 🍎 🪟 🐧 - Run shell commands securely, auditably and on demand in isolated environments such as Docker.
+- [sshah03/recalc](https://github.com/sshah03/recalc) 🦀 🏠 🍎 🐧 - Spreadsheet you share with your coding agents. Cells can hold values, formulas, shell commands or Claude Code and Codex sessions, and agents read and write the grid over MCP.
 - [stippi/code-assistant](https://github.com/stippi/code-assistant) 🦀 🏠 - Coding agent with basic tools for listing, reading, editing and writing files, running commands and web search, supporting multiple projects at once.
 - [SunflowersLwtech/mcp_creator_growth](https://github.com/SunflowersLwtech/mcp_creator_growth) 🐍 🏠 🍎 🪟 🐧 - Learning sidecar for AI coding assistants: quizzes developers on AI-generated changes and gives agents persistent project-specific debugging memory via RAG.
 - [tiianhk/MaxMSP-MCP-Server](https://github.com/tiianhk/MaxMSP-MCP-Server) 🐍 🏠 - Coding agent for Max (Max/MSP/Jitter), the visual programming language for music and multimedia.
