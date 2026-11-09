@@ -2194,6 +2194,7 @@ MCP servers for e-commerce platforms and online store management.
 
 Provides access to environmental data and nature-related tools, services and information.
 
+- [datakoot/weather-intel-mcp](https://github.com/datakoot/weather-intel-mcp) [![datakoot/weather-intel-mcp MCP server](https://glama.ai/mcp/servers/datakoot/weather-intel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/datakoot/weather-intel-mcp) 📇 ☁️ - Keyless US weather and geo: NWS forecasts, current conditions and alerts, USGS earthquakes and elevation, plus Census geocoding. Remote at `weather.datakoot.com/mcp`, no API key.
 - [ambeelabs/ambee-mcp](https://github.com/ambeelabs/ambee-mcp) [![ambee-mcp MCP server](https://glama.ai/mcp/servers/ambeelabs/ambee-mcp/badges/score.svg)](https://glama.ai/mcp/servers/ambeelabs/ambee-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Live air quality, pollen and weather data from Ambee.
 - [aliafsahnoudeh/wildfire-mcp-server](https://github.com/aliafsahnoudeh/wildfire-mcp-server) 🐍 ☁️ 🍎 🪟 🐧 - Detect, monitor and analyze potential wildfires globally using NASA FIRMS, OpenWeatherMap and Google Earth Engine data.
 - [atmospore/atmospore-mcp](https://github.com/atmospore/atmospore-mcp) [![atmospore/atmospore-mcp MCP server](https://glama.ai/mcp/servers/atmospore/atmospore-mcp/badges/score.svg)](https://glama.ai/mcp/servers/atmospore/atmospore-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Seven-day, per-species pollen forecasts for any location via the Atmospore API.
