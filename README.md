@@ -1823,7 +1823,6 @@ Tools and integrations that enhance the development workflow and environment man
 - [qainsights/jmeter-mcp-server](https://github.com/QAInsights/jmeter-mcp-server) 🐍 🏠 - Performance testing with JMeter.
 - [qainsights/k6-mcp-server](https://github.com/QAInsights/k6-mcp-server) 🐍 🏠 - Performance testing with Grafana k6.
 - [qainsights/locust-mcp-server](https://github.com/QAInsights/locust-mcp-server) 🐍 🏠 - Performance testing with Locust.
-- [benswel/qr-agent-core](https://github.com/benswel/qr-agent-core) [![benswel/qr-agent-core MCP server](https://glama.ai/mcp/servers/benswel/qr-agent-core/badges/score.svg)](https://glama.ai/mcp/servers/benswel/qr-agent-core) 📇 ☁️ - Dynamic QR codes: create, update, track and retarget QR codes of various types without regenerating images.
 - [QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp) 🏎️ 🏠 - Docker container management and operations.
 - [Quantum3-Labs/ARBuilder](https://github.com/Quantum3-Labs/ARBuilder) [![ARBuilder MCP server](https://glama.ai/mcp/servers/Quantum3-Labs/ARBuilder/badges/score.svg)](https://glama.ai/mcp/servers/Quantum3-Labs/ARBuilder) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Code generator for Arbitrum: Stylus smart contracts, SDK bridging, full-stack dApps and Orbit chain deployment, backed by RAG over Arbitrum documentation.
 - [r-huijts/xcode-mcp-server](https://github.com/r-huijts/xcode-mcp-server) 📇 🏠 🍎 - Xcode integration for project management, file operations and build automation.
