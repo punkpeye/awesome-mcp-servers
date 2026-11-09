@@ -3369,6 +3369,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [dyuven123/lazy-aso-mcp](https://github.com/dyuven123/lazy-aso-mcp) 📇 🏠 🍎 🪟 🐧 - Check whether an iOS app name is free in the App Store, country by country, and see which apps already hold it.
 - [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp) [![rmb/omniforce-mcp MCP server](https://glama.ai/mcp/servers/rmb/omniforce-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rmb/omniforce-mcp) 📇 🏠 🍎 🪟 🐧 - Audit any site's GEO/AI-search readiness and query OmniForce's tracked prompts, competitors and AI citation runs. (npm: @omniforce/mcp)
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
