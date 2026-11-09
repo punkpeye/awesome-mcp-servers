@@ -282,6 +282,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 ### 🚀 <a name="aerospace-and-astrodynamics"></a>Aerospace & Astrodynamics
 
+- [dlamarre-dev/Perigee](https://github.com/dlamarre-dev/Perigee) [![dlamarre-dev/Perigee MCP server](https://glama.ai/mcp/servers/dlamarre-dev/Perigee/badges/score.svg)](https://glama.ai/mcp/servers/dlamarre-dev/Perigee) 📇 ☁️ 🍎 🪟 🐧 - Real-time positions, orbits, satellite passes over a place, the night sky, eclipses and facts for Earth satellites, Moon and Mars orbiters and deep-space probes, for education, with the provenance (model, data age, typical accuracy) of every answer.
 - [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle) [![astronomy-oracle MCP server](https://glama.ai/mcp/servers/gregario/astronomy-oracle/badges/score.svg)](https://glama.ai/mcp/servers/gregario/astronomy-oracle) 📇 🏠 🍎 🪟 🐧 - Astronomical catalog data and observing session planning: OpenNGC deep-sky objects with visibility, rise/transit/set and alt/az calculations.
 - [viventine-space/orbit-sentinel-mcp](https://github.com/viventine-space/orbit-sentinel-mcp) [![Viventine-Space/orbit-sentinel-mcp MCP server](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Viventine-Space/orbit-sentinel-mcp) 🎖️ 🏎️ ☁️ 🍎 🪟 🐧 - Search FCC, ITU, UNOOSA and FAA space regulatory filings via Orbit Sentinel: semantic search, entity dossiers, spectrum holdings, launch licenses and alerts.
 
