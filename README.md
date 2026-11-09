@@ -1914,6 +1914,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [wyattjoh/jsr-mcp](https://github.com/wyattjoh/jsr-mcp) 📇 ☁️ - Access JSR, the JavaScript Registry.
 - [xcodebuild](https://github.com/ShenghaiWang/xcodebuild) 🍎 - Build iOS Xcode workspaces or projects and feed errors back to the LLM.
 - [XixianLiang/HarmonyOS-mcp-server](https://github.com/XixianLiang/HarmonyOS-mcp-server) 🐍 🏠 - Device control and UI automation for HarmonyOS Next devices.
+- [XJTLUmedia/Protect-Context](https://github.com/XJTLUmedia/Protect-Context) [![XJTLUmedia/Protect-Context MCP server](https://glama.ai/mcp/servers/XJTLUmedia/Protect-Context/badges/score.svg)](https://glama.ai/mcp/servers/XJTLUmedia/Protect-Context) 🐍 🏠 🍎 🪟 🐧 - Local-only verification evidence, recall, and a loop-brake for coding agents. Python MCP server: `uvx protect-context mcp`.
 - [xzq.xu/jvm-mcp-server](https://github.com/xzq-xu/jvm-mcp-server) 📇 🏠 - JVM-based MCP server implementation.
 - [yangkyeongmo@/mcp-server-apache-airflow](https://github.com/yangkyeongmo/mcp-server-apache-airflow) 🐍 🏠 - Connect to Apache Airflow.
 - [yaniswav/TopicForge](https://github.com/yaniswav/TopicForge) [![yaniswav/TopicForge MCP server](https://glama.ai/mcp/servers/yaniswav/TopicForge/badges/score.svg)](https://glama.ai/mcp/servers/yaniswav/TopicForge) 🐍 🏠 🍎 🪟 🐧 - Read-only ROS 2 and DDS inspection: topics, message samples, rosbags, QoS mismatches and DDS participants across vendors. No write path: it cannot publish or command a robot.
