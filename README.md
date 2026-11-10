@@ -971,6 +971,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 ### 💬 <a name="communication"></a>Communication
 
+- [kolivritech/kolivri-voice-mcp](https://github.com/kolivritech/kolivri-voice-mcp) 📇 ☁️ - Real AI phone line for Claude Code, OpenCode, Cursor, and Claude Desktop to place outbound AI voice calls, inspect transcripts/recordings, generate GSM call-forwarding codes, and calculate missed-call ROI.
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
 - [A1-x-Tech/mcp-google-chat](https://github.com/A1-x-Tech/mcp-google-chat) [![A1-x-Tech/mcp-google-chat MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat) 📇 ☁️ - Google Chat API: list and search spaces, read and send messages, and work with threads and reactions.
