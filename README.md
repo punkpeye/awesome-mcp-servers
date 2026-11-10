@@ -3370,6 +3370,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 ### 🎯 <a name="marketing"></a>Marketing
 
 - [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp) [![rmb/omniforce-mcp MCP server](https://glama.ai/mcp/servers/rmb/omniforce-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rmb/omniforce-mcp) 📇 🏠 🍎 🪟 🐧 - Audit any site's GEO/AI-search readiness and query OmniForce's tracked prompts, competitors and AI citation runs. (npm: @omniforce/mcp)
+- [schoettle-cmd/everysignal-mcp](https://github.com/schoettle-cmd/everysignal-mcp) [![schoettle-cmd/everysignal-mcp MCP server](https://glama.ai/mcp/servers/schoettle-cmd/everysignal-mcp/badges/score.svg)](https://glama.ai/mcp/servers/schoettle-cmd/everysignal-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Every Signal: audit AI-written marketing (copy, landing pages, emails, ads, SEO) against teardowns of real companies and measured conversion rates. Score, findings citing the record behind each claim, fixes and a rewrite; sector briefs and benchmarks are free.
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
 - [A1-x-Tech/mcp-avito-ads](https://github.com/A1-x-Tech/mcp-avito-ads) [![A1-x-Tech/mcp-avito-ads MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-avito-ads/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-avito-ads) 📇 ☁️ - Avito Ads: analyze campaigns, adjust budgets and bids, and manage access and ORD contracts.
