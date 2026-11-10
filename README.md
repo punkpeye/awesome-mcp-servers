@@ -2094,6 +2094,7 @@ Provides access to documentation and shortcuts for working on embedded devices.
 - [adancurusul/serial-mcp-server](https://github.com/adancurusul/serial-mcp-server) 🦀 📟 - Serial port communication.
 - [ByteAsk/ByteAsk-Embedded-MCP](https://github.com/ByteAsk/ByteAsk-Embedded-MCP) [![ByteAsk/ByteAsk-Embedded-MCP MCP server](https://glama.ai/mcp/servers/ByteAsk/ByteAsk-Embedded-MCP/badges/score.svg)](https://glama.ai/mcp/servers/ByteAsk/ByteAsk-Embedded-MCP) 🐍 ☁️ 📟 - Page-cited retrieval of embedded/firmware reference docs (datasheets, MCU registers, Modbus/CAN, SCPI, IEEE 1547/SunSpec) as verbatim snippets.
 - [horw/esp-mcp](https://github.com/horw/esp-mcp) 📟 - Fix build issues for ESP32-series chips with ESP-IDF.
+- [kd-011/klipper-doctor-mcp](https://github.com/kd-011/klipper-doctor-mcp) 📇 🏠 🍎 🪟 🐧 - Read-only MCP server that lets an agent work out why a Klipper 3D print died and what is wrong with printer.cfg.
 - [kukapay/modbus-mcp](https://github.com/kukapay/modbus-mcp) 🐍 📟 - Standardize and contextualize industrial Modbus data.
 - [kukapay/opcua-mcp](https://github.com/kukapay/opcua-mcp) 🐍 📟 - Connect to OPC UA-enabled industrial systems.
 - [Leonezz/openbaud](https://github.com/Leonezz/openbaud) [![Leonezz/openbaud MCP server](https://glama.ai/mcp/servers/Leonezz/openbaud/badges/score.svg)](https://glama.ai/mcp/servers/Leonezz/openbaud) 🦀 🏠 📟 🍎 🪟 🐧 - Local serial hardware access for coding agents with typed YAML commands, checksum validation, audited writes, lossless captures, hardware-free replay, and MCP App visualizations.
