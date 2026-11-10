@@ -131,7 +131,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
-- [AIPages](https://github.com/2xcel-dev/AIPages) ☁️ - Machine-native discovery registry, vector search, and upstream execution gateway for autonomous MCP servers with Base USDC micro-settlement. Platform directory at [aipages.tech](https://aipages.tech).
+- [2xcel-dev/AIPages](https://github.com/2xcel-dev/AIPages) [![2xcel-dev/AIPages MCP server](https://glama.ai/mcp/servers/2xcel-dev/AIPages/badges/score.svg)](https://glama.ai/mcp/servers/2xcel-dev/AIPages) 🧰 ☁️ - Machine-native discovery registry, vector search, and upstream execution gateway for autonomous MCP servers with Base USDC micro-settlement. Platform directory at https://aipages.tech.
 Servers for accessing many apps and tools through a single MCP server.
 
 - [Correctover/mcp-server](https://github.com/Correctover/mcp-server) [![Correctover MCP server](https://glama.ai/mcp/servers/Correctover/mcp-server/badges/score.svg)](https://glama.ai/mcp/servers/Correctover/mcp-server) 📇 ☁️ 🏠 🍎 🪟 🐧 - Contract validation and self-healing failover for LLM APIs. 6-dimension verification (structure, schema, latency, cost, identity, integrity) in 22μs P50. 87 self-healing rules with MAPE-K autonomic loop. BYOK direct connect to 9 providers (OpenAI, Anthropic, DeepSeek, Moonshot, Zhipu AI, Qwen, SiliconFlow, Groq, Together AI). L3 failover in 949ms E2E. Install: `npx -y correctover-mcp-server`.
