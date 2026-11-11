@@ -4119,7 +4119,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 MCP servers for job search and career platforms.
 
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
-- [ouxxyy/ouba-classmate](https://github.com/ouxxyy/ouba-classmate) 🐍 🏠 🍎 🪟 🐧 - Career & job-seeking suite with a zero-dependency local stdio MCP server (`jd-resume-match-mcp`) for deterministic resume-vs-JD rubric scoring (`L1..Ln` evidence citations), multi-platform job search, mock interview drill-downs, and employer due diligence.
+- [ouxxyy/ouba-classmate](https://github.com/ouxxyy/ouba-classmate) [![ouxxyy/ouba-classmate MCP server](https://glama.ai/mcp/servers/ouxxyy/ouba-classmate/badges/score.svg)](https://glama.ai/mcp/servers/ouxxyy/ouba-classmate) 🐍 🏠 🍎 🪟 🐧 - Career & job-seeking suite with a zero-dependency local stdio MCP server (`jd-resume-match-mcp`) for deterministic resume-vs-JD rubric scoring (`L1..Ln` evidence citations), multi-platform job search, mock interview drill-downs, and employer due diligence.
 
 ### 🔒 <a name="security"></a>Security
 
