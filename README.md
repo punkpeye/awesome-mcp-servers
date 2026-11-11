@@ -1234,6 +1234,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [benborla29/mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) ☁️ 🏠 - MySQL database integration with configurable access controls and schema inspection.
 - [bram2w/baserow](https://github.com/bram2w/baserow) - Baserow database integration: search and list tables, and create, read, update and delete rows.
 - [c4pt0r/mcp-server-tidb](https://github.com/c4pt0r/mcp-server-tidb) 🐍 ☁️ - TiDB database integration with schema inspection and query capabilities.
+- [cccadet/omni-sql](https://github.com/cccadet/omni-sql) 📇 🏠 🍎 🪟 🐧 - Desktop SQL IDE that lets agents query its saved PostgreSQL, MySQL/MariaDB, SQL Server, Oracle and MongoDB connections without receiving credentials. Per-connection Off/Read-only/Read-write access, desktop approval for every execution and bounded results.
 - [centralmind/gateway](https://github.com/centralmind/gateway) 🏎️ 🏠 🍎 🪟 - Automatically generate APIs from database schema and data for PostgreSQL, ClickHouse, MySQL, Snowflake, BigQuery and Supabase.
 - [ChristianHinge/dicom-mcp](https://github.com/ChristianHinge/dicom-mcp) 🐍 ☁️ 🏠 - DICOM integration to query, read and move medical images and reports from PACS and other DICOM-compliant systems.
 - [chroma-core/chroma-mcp](https://github.com/chroma-core/chroma-mcp) 🎖️ 🐍 ☁️ 🏠 - Access local and cloud Chroma instances for retrieval.
