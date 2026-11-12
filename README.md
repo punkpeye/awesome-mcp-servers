@@ -3748,6 +3748,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 
 ### 🏠 <a name="real-estate"></a>Real Estate
 
+- [AtlasAdapt](https://mcp.atlasadapt.com/) ☁️ - Climate hazards, resilience plans with costs and payback, and public funding that applies — for any building across the US, UK, Germany, France and Switzerland.
 MCP servers for real estate CRM, property management, and agent workflows.
 
 - [HasData/redfin-mcp](https://github.com/HasData/redfin-mcp) [![HasData/redfin-mcp MCP server](https://glama.ai/mcp/servers/HasData/redfin-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/redfin-mcp) 📇 ☁️ - Redfin for-sale, for-rent and sold listings with full filters, plus complete property pages, as JSON.
