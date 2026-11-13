@@ -1313,6 +1313,7 @@ Secure database access with schema inspection capabilities. Enables querying and
 - [pgtuner_mcp](https://github.com/isdaniel/pgtuner_mcp) 🐍 - PostgreSQL performance tuning.
 - [pilat/mcp-datalink](https://github.com/pilat/mcp-datalink) 📇 🏠 - Secure access to PostgreSQL, MySQL and SQLite databases with parameterized queries and schema inspection.
 - [planetscale/mcp](https://github.com/planetscale/cli?tab=readme-ov-file#mcp-server-integration) - Built into the PlanetScale CLI: direct access to your PlanetScale databases.
+- [platypus-labs/platypus-db](https://github.com/platypus-labs/platypus-db) 🦀 🏠 🍎 🪟 🐧 - Desktop SQL client whose built-in MCP server gives agents per-connection access (none, read-only by default, read-write) to PostgreSQL, MySQL, SQL Server, Oracle, SQLite, DuckDB, Snowflake and more; every change an agent wants to run waits for approval in the app, and passwords never reach the agent.
 - [qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant) 🐍 🏠 - Qdrant integration.
 - [QuantGeekDev/mongo-mcp](https://github.com/QuantGeekDev/mongo-mcp) 📇 🏠 - MongoDB integration for interacting directly with databases.
 - [quarkiverse/mcp-server-jdbc](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jdbc) ☕ 🏠 - Connect to any JDBC-compatible database to query, insert, update, delete and more.
