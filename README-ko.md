@@ -566,7 +566,6 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 - [@evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace) 📇 ☁️ - Claude에서 직접 HuggingFace Spaces 사용. 오픈 소스 이미지 생성, 채팅, 비전 작업 등 사용. 이미지, 오디오 및 텍스트 업로드/다운로드 지원.
 - [zueai/mcp-manager](https://github.com/zueai/mcp-manager) 📇 ☁️ - Claude 데스크톱 앱용 MCP 서버를 설치하고 관리하는 간단한 웹 UI.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 📇 🏠 - MCP 서버 테스트용 CLI 도구
-- [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) 🐍 🏠 - MCP 서버 테스트를 위한 또 다른 CLI 도구
 - [isaacwasserman/mcp-vegalite-server](https://github.com/isaacwasserman/mcp-vegalite-server) 🐍 🏠 - VegaLite 형식 및 렌더러를 사용하여 가져온 데이터에서 시각화 생성.
 - [tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp) 📇 🏠 - Home Assistant 데이터 접근 및 장치(조명, 스위치, 온도 조절기 등) 제어.
 - [@magarcia/mcp-server-giphy](https://github.com/magarcia/mcp-server-giphy) 📇 ☁️ - Giphy API를 통해 Giphy의 방대한 라이브러리에서 GIF 검색 및 검색.
