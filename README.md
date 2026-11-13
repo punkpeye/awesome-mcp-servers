@@ -4,7 +4,7 @@
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
-[![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.md)
+[![日本語](https://img.shields.io/badge/日本語-クリック-青)](README-ja.mdg)
 [![한국어](https://img.shields.io/badge/한국어-클릭-yellow)](README-ko.md)
 [![Português Brasileiro](https://img.shields.io/badge/Português_Brasileiro-Clique-green)](README-pt_BR.md)
 [![Discord](https://img.shields.io/discord/1312302100125843476?logo=discord&label=discord)](https://glama.ai/mcp/discord)
@@ -2250,6 +2250,7 @@ Provides direct access to local file systems with configurable permissions. Enab
 - [mickaelkerjean/filestash](https://github.com/mickael-kerjean/filestash/tree/master/server/plugin/plg_handler_mcp) 🏎️ ☁️ - Remote storage access: SFTP, S3, FTP, SMB, NFS, WebDAV, Git, FTPS, Google Cloud, Azure Blob, SharePoint and more.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) 🎖️ 🐍 🏠 - Convert many file formats, local or remote, to Markdown for LLMs using MarkItDown.
 - [modelcontextprotocol/server-filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) 📇 🏠 - Direct local file system access.
+- [pdfluent/pdfluent-mcp](https://github.com/pdfluent/pdfluent-mcp) 🐍 🏠 - Read, search and fill local PDFs: markdown, text, tables, positioned blocks, metadata and form fields. Runs on your machine, no upload.
 - [Regan-Milne/obsideo-mcp](https://github.com/Regan-Milne/obsideo-mcp) [![Regan-Milne/obsideo-mcp MCP server](https://glama.ai/mcp/servers/Regan-Milne/obsideo-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Regan-Milne/obsideo-mcp) 🎖️ 📇 ☁️ - Encrypted S3-compatible object storage with cryptographic possession proofs: put, get, list and delete objects, with optional client-side encryption.
 - [FacundoLucci/plsreadme](https://github.com/FacundoLucci/plsreadme) [![plsreadme MCP server](https://glama.ai/mcp/servers/@FacundoLucci/plsreadme/badges/score.svg)](https://glama.ai/mcp/servers/@FacundoLucci/plsreadme) 📇 ☁️ 🏠 - Share Markdown files and text as readable web links.
 - [colapsis/transfa](https://github.com/colapsis/transfa) [![transfa MCP server](https://glama.ai/mcp/servers/colapsis/transfa/badges/score.svg)](https://glama.ai/mcp/servers/colapsis/transfa) 📇 ☁️ - Ephemeral file transfer for agents and CI/CD pipelines: upload a file and get a SHA-256-verified, expiring link, then list or delete uploads.
