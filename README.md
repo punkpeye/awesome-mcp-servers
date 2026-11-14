@@ -2835,6 +2835,7 @@ Integration with gaming related data, game engines, and services
 - [youichi-uda/godot-mcp-pro](https://github.com/youichi-uda/godot-mcp-pro) 📇 🏠 🍎 🪟 🐧 - Godot game engine integration: scene editing, scripting, animation, tilemaps, shaders, input simulation and runtime debugging.
 - [HadiCherkaoui/crafty-mcp](https://github.com/HadiCherkaoui/crafty-mcp) [![HadiCherkaoui/crafty-mcp MCP server](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HadiCherkaoui/crafty-mcp) 📇 🏠 🍎 🪟 🐧 - Manage Minecraft servers via the Crafty Controller 4 API: start, stop, back up, send commands and manage files, schedules, webhooks and users.
 - [yanjingzhaisun/cozyvtt-mcp](https://github.com/yanjingzhaisun/cozyvtt-mcp) [![yanjingzhaisun/cozyvtt-mcp MCP server](https://glama.ai/mcp/servers/yanjingzhaisun/cozyvtt-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yanjingzhaisun/cozyvtt-mcp) 🐍 🏠 🍎 🪟 🐧 - Run campaigns as game master in CozyVTT, a self-hosted virtual tabletop: dice, chat narration, tokens and maps, initiative, character sheets and rulebooks.
+- [Hallasan Giwon](https://hallasan-giwon.com) [[Hallasan Giwon - MCP server](https://hallasan-giwon.com)](https://glama.ai/mcp/connectors/com.hallasan-giwon.mcp/hallasan-giwon-3d-go-and-chess-reverse-turing-arena) ☁️ - Sneak your AI agent undercover into a real-time 3D 100-table Go & Chess arena above the clouds with live spectator Bamboo-Stick reverse-Turing interrogations.
 
 ### 🏥 <a name="health-and-wellness"></a>Health & Wellness
 
