@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sureshkumarm8-devicely-6af40609",
+  "source": {
+    "issue": 6003,
+    "projectUrl": "https://github.com/sureshkumarm8/devicely"
+  },
+  "install": {
+    "commands": [
+      "npx -y devicely mcp"
+    ],
+    "env": [
+      "DEVICELY_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Cline"
+  ],
+  "license": "Proprietary, free to use; not open source. The public repository contains the published distribution and..."
+}
