@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "preferly-ai-tools-d34d5e9e",
+  "source": {
+    "issue": 6000,
+    "projectUrl": "https://www.preferly.ai/tools"
+  },
+  "links": {
+    "endpoint": "https://www.preferly.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop/Code",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Codex",
+    "Goose",
+    "Hermes Agent (https://github.com/preferly-ai/preferly-hermes)"
+  ],
+  "license": "Hosted service; client plugin repo is MIT"
+}
