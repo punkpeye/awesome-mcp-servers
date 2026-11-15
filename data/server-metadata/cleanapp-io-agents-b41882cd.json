@@ -1,0 +1,41 @@
+{
+  "$schema": "https://tensorblock.co/schemas/mcp-server-metadata.json",
+  "id": "cleanapp-io-agents-b41882cd",
+  "source": {
+    "projectUrl": "https://www.cleanapp.io/agents"
+  },
+  "links": {
+    "docs": "https://www.cleanapp.io/agents",
+    "homepage": "https://www.cleanapp.io",
+    "endpoint": "https://live.cleanapp.io/openai/mcp"
+  },
+  "install": {
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No account, API key or agent registration is required for the hosted endpoint. Submitting a report requires approval of the exact draft and its handling permissions."
+    ]
+  },
+  "tools": {
+    "count": 5,
+    "names": [
+      "cleanapp_open",
+      "cleanapp_search_reports",
+      "cleanapp_prepare_report",
+      "cleanapp_submit_report",
+      "cleanapp_report_status"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher-supplied metadata. On 2026-11-14, initialization returned CleanApp 1.1.0 and tools/list returned these five tools without credentials. No tool was invoked and no report was submitted."
+    ]
+  }
+}
