@@ -6,15 +6,21 @@
     "projectUrl": "https://github.com/tomwellnitz/fritzos8-mcp"
   },
   "install": {
-    "commands": [],
+    "commands": [
+      "uvx fritzos8-mcp"
+    ],
     "env": [
+      "FRITZ_HOST",
+      "FRITZ_USER",
       "FRITZ_PASSWORD"
     ],
-    "confidence": "low"
+    "confidence": "medium"
   },
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "unknown",
+    "notes": [
+      "FRITZ!Box user credentials required; password file or OS keychain may replace FRITZ_PASSWORD."
+    ]
   },
   "clients": [
     "Claude Code",
@@ -29,5 +35,8 @@
     "Gemini CLI",
     "LM Studio"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "transport": [
+    "stdio"
+  ]
 }
