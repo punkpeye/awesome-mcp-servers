@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-verand-ai-verand-mcp-0fd747a0",
+  "source": {
+    "issue": 5997,
+    "projectUrl": "https://github.com/verand-ai/verand-mcp"
+  },
+  "links": {
+    "endpoint": "https://app.verand.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code"
+  ],
+  "license": "Proprietary"
+}
