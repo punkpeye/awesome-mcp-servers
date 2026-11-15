@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nbv-appfactory-transformer-mcp-52298ce8",
+  "source": {
+    "issue": 6020,
+    "projectUrl": "https://github.com/NBV-AppFactory/transformer-mcp"
+  },
+  "links": {
+    "endpoint": "https://transformer.gg/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Hosted service; docs and CLI repo is public"
+}
