@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "peeve-ai-mcp-ab366db9",
+  "source": {
+    "issue": 5993,
+    "projectUrl": "https://peeve.ai/mcp/"
+  },
+  "links": {
+    "endpoint": "https://mcp.peeve.ai/{workspace}"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "ChatGPT",
+    "any MCP client"
+  ],
+  "license": "Proprietary (hosted service)"
+}
