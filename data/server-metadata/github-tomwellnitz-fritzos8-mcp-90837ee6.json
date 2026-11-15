@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-tomwellnitz-fritzos8-mcp-90837ee6",
+  "source": {
+    "issue": 6033,
+    "projectUrl": "https://github.com/tomwellnitz/fritzos8-mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "FRITZ_PASSWORD"
+    ],
+    "confidence": "low"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Zed",
+    "Cline",
+    "Continue",
+    "Codex CLI",
+    "Gemini CLI",
+    "LM Studio"
+  ],
+  "license": "MIT"
+}
