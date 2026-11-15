@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "npx crbro-memory install"
+      "npx -y crbro-memory"
     ],
     "env": [],
     "confidence": "medium"
