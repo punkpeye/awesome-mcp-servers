@@ -9,14 +9,11 @@
     "commands": [
       "npx -y devicely mcp"
     ],
-    "env": [
-      "DEVICELY_URL"
-    ],
+    "env": [],
     "confidence": "medium"
   },
   "transport": [
-    "stdio",
-    "streamable-http"
+    "stdio"
   ],
   "auth": {
     "type": "none",
@@ -29,5 +26,5 @@
     "VS Code",
     "Cline"
   ],
-  "license": "Proprietary, free to use; not open source. The public repository contains the published distribution and..."
+  "license": "Proprietary, free to use; public repository contains the published distribution and documentation."
 }
