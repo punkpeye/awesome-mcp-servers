@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "leadli-me-en-guides-mcp-server-44dc5e2c",
+  "source": {
+    "issue": 6016,
+    "projectUrl": "https://leadli.me/en/guides/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://api.leadli.me/api/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Code"
+  ]
+}
