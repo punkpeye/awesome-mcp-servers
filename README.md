@@ -525,6 +525,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
+- [avivgerz-hue/ghost-qa](https://github.com/avivgerz-hue/ghost-qa) 📇 🏠 🍎 🪟 🐧 - Autonomous headless Playwright browser QA with 8 inspection traps (console errors, layout overflow, accessibility, Core Web Vitals, links, SEO) across desktop, tablet, and mobile viewports.
 - [34892002/bilibili-mcp-js](https://github.com/34892002/bilibili-mcp-js) 📇 🏠 - Search Bilibili content, with LangChain integration examples.
 - [77777R7/Octocrawl](https://github.com/77777R7/Octocrawl) [![77777R7/Octocrawl MCP server](https://glama.ai/mcp/servers/77777R7/Octocrawl/badges/score.svg)](https://glama.ai/mcp/servers/77777R7/Octocrawl) 🎖️ 📇 ☁️ 🏠 🍎 🪟 🐧 - Web scraping for AI agents: scrape, map, crawl and batch public pages into Markdown, tables and JSON, each with an Evidence Record (final URL, HTTP status, robots.txt decision, content hashes); a blocked or empty page comes back with the reason. Hosted at `https://mcp.octocrawl.dev/mcp` or local via `npx -y @octocrawl/mcp`. [Setup](https://octocrawl.dev/docs/connect-mcp/?utm_source=awesome-mcp-servers&utm_medium=listing).
 - [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) [![safari-mcp MCP server](https://glama.ai/mcp/servers/achiya-automation/safari-mcp/badges/score.svg)](https://glama.ai/mcp/servers/achiya-automation/safari-mcp) 📇 🏠 🍎 - Native Safari browser automation without a Chrome dependency.
@@ -4121,6 +4122,8 @@ MCP servers for job search and career platforms.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
 ### 🔒 <a name="security"></a>Security
+
+- [avivgerz-hue/vibe-shield](https://github.com/avivgerz-hue/vibe-shield) 📇 🏠 🍎 🪟 🐧 - Local static security scanner with 92 rules for AI-generated JavaScript and TypeScript apps, covering Supabase RLS, leaked keys, unauthenticated routes, and poisoned SKILL.md and MCP config files.
 
 - [mrpkk/attest](https://github.com/mrpkk/attest) [![mrpkk/attest MCP server](https://glama.ai/mcp/servers/mrpkk/attest/badges/score.svg)](https://glama.ai/mcp/servers/mrpkk/attest) 🐍 ☁️ 🍎 🪟 🐧 - Verifies an artifact an AI agent produced (JSON, code, structured output) against a JSON Schema plus positional prompt-injection checks, returning a verdict with reasons before you accept the result. x402-paid with a free tier of 20 checks/day.
 - [emektor/toolwrit](https://github.com/emektor/toolwrit) [![emektor/toolwrit MCP server](https://glama.ai/mcp/servers/emektor/toolwrit/badges/score.svg)](https://glama.ai/mcp/servers/emektor/toolwrit) 📇 🐍 🏠 🍎 🪟 🐧 - Policy sidecar for any MCP server: deny-by-default tool allowlist with argument rules, call and USD budget caps, and a hash-chained audit log with RFC 3161 timestamp anchors. Also usable as a TypeScript or Python library.
