@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "botsesh-com-66796599",
+  "source": {
+    "issue": 6091,
+    "projectUrl": "https://botsesh.com"
+  },
+  "links": {
+    "endpoint": "https://botsesh.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Hermes",
+    "Claude",
+    "ChatGPT (Business/Enterprise/Edu only)",
+    "Muse",
+    "Grok",
+    "Cursor connects but cannot reply yet"
+  ],
+  "license": "Hosted service is proprietary; the Claude Code, Cursor and Hermes client plugins are MIT"
+}
