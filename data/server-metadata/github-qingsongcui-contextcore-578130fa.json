@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-qingsongcui-contextcore-578130fa",
+  "source": {
+    "issue": 6071,
+    "projectUrl": "https://github.com/qingsongcui/ContextCore"
+  },
+  "links": {
+    "endpoint": "http://127.0.0.1:8420/mcp/"
+  },
+  "install": {
+    "commands": [
+      "brew install --cask qingsongcui/tap/senrelay"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Antigravity",
+    "OMP",
+    "OpenCode"
+  ],
+  "license": "MIT"
+}
