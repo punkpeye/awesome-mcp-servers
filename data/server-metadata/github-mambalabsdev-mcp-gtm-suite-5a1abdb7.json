@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mambalabsdev-mcp-gtm-suite-5a1abdb7",
+  "source": {
+    "issue": 6088,
+    "projectUrl": "https://github.com/mambalabsdev/mcp-gtm-suite"
+  },
+  "install": {
+    "commands": [
+      "npx -y @mambalabsdev/mcp-gtm-suite"
+    ],
+    "env": [
+      "APIFY_TOKEN"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "and other MCP clients that run stdio servers"
+  ],
+  "license": "MIT"
+}
