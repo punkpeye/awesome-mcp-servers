@@ -243,8 +243,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [JordanDalton/composer-mcp-server](https://github.com/JordanDalton/composer-mcp-server): Enhance your PHP development with AI-driven Composer package installation, offering intelligent setup guidance and seamless integration with MCP clients.
 - [ptelang/osv-mcp](https://github.com/ptelang/osv-mcp): Integrates OSV data with AI assistants and LLMs to enhance vulnerability management capabilities.
 - [PyneSys/claude_autoapprove_mcp](https://github.com/PyneSys/claude_autoapprove_mcp): Enhances Claude Desktop with auto-approve functionality by injecting JavaScript via an MCP server.
-- [Meerkats-Ai/hatch-mcp-server](https://github.com/Meerkats-Ai/hatch-mcp-server): Facilitates Hatch API integration for finding and verifying contact information and company data.
-- [Meerkats-Ai/google-docs-mcp-server](https://github.com/Meerkats-Ai/google-docs-mcp-server): Facilitates seamless integration with Google Docs API, enabling AI assistants to manage documents through creation, retrieval, updating, and sharing functionalities.
 - [HappyHackingSpace/mcp-hydra](https://github.com/HappyHackingSpace/mcp-hydra): HydraMCP is a cybersecurity toolkit that leverages AI to enhance security research and analysis through the Model Context Protocol.
 - [simonx1/ruby-mcp-client](https://github.com/simonx1/ruby-mcp-client): A Ruby client for the Model Context Protocol (MCP) enabling integration with external tools and services via a standardized protocol.
 - [r-huijts/opentk-mcp](https://github.com/r-huijts/opentk-mcp): Facilitates AI-driven exploration and analysis of Dutch parliamentary data via a standardized interface.
@@ -256,7 +254,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [thecodeartificer/notion-mcp-modified](https://github.com/thecodeartificer/notion-mcp-modified): Enables AI assistants to seamlessly interact with Notion's API for managing content through natural language commands.
 - [odinggg/weather-mcp](https://github.com/odinggg/weather-mcp): Provides weather forecasts and air quality data using OpenWeather API via an MCP server.
 - [Excoriate/mcp-terragrunt-docs](https://github.com/Excoriate/mcp-terragrunt-docs): Provides AI agents with contextual information on Terragrunt documentation and GitHub issues using Deno and TypeScript.
-- [NextFire/criteo-mcp-server](https://github.com/NextFire/criteo-mcp-server): Facilitates integration with Criteo's API using MCP server capabilities for retail media and marketing solutions.
 - [Yash-synergy/mcp-pinecone](https://github.com/Yash-synergy/mcp-pinecone): Facilitates interaction with a Pinecone index through a Model Context Protocol server, enabling semantic search and document processing.
 - [aswinthulasir/mcp-all-servers](https://github.com/aswinthulasir/mcp-all-servers): A comprehensive collection of reference implementations for the Model Context Protocol, showcasing its versatility in providing secure, controlled access to tools and data sources for LLMs.
 - [lim6112j/uv_mcp_figma_aider](https://github.com/lim6112j/uv_mcp_figma_aider): Facilitates integration between Claude desktop app and Figma through MCP server configuration.
@@ -295,10 +292,8 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [dailydaniel/pocket-mcp](https://github.com/dailydaniel/pocket-mcp): Pocket MCP Manager offers a streamlined interface for managing multiple MCP servers, enabling centralized control and seamless integration with AI tools through a single proxy server.
 - [Gelembjuk/cleverchatty](https://github.com/Gelembjuk/cleverchatty): CleverChatty is a Go package that integrates MCP server support for AI chat systems, enabling seamless interaction with large language models across various platforms.
 - [NamanSharma5/chatgpt_mcp_server](https://github.com/NamanSharma5/chatgpt_mcp_server): Facilitates shared memory for models using ChatGPT's memory capabilities, enabling integration with applications like Claude Desktop App.
-- [Suprjack/context7-clone](https://github.com/Suprjack/context7-clone): Facilitates up-to-date documentation retrieval for LLMs and AI code editors through the Model Context Protocol.
 - [nkwa/pay-js](https://github.com/nkwa/pay-js): Facilitates mobile money integration with AI applications by exposing SDK methods as tools for MCP server invocation.
 - [xuyuanzhang1122/remote-mcp-server](https://github.com/xuyuanzhang1122/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
-- [pongpisit/remote-mcp-server](https://github.com/pongpisit/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login, enabling seamless integration with tools like Claude Desktop.
 - [nvsecurity/nightvision-mcp](https://github.com/nvsecurity/nightvision-mcp): Enables AI assistants to interact with the NightVision security platform for comprehensive security testing and vulnerability analysis.
 - [vitthalr/github-copilot-talk-to-figma-mcp](https://github.com/vitthalr/github-copilot-talk-to-figma-mcp): Facilitates seamless integration between GitHub Copilot and Figma, enabling programmatic design modifications via a TypeScript MCP server and WebSocket communication.
 - [bnb-chain/bnbchain-mcp](https://github.com/bnb-chain/bnbchain-mcp): Facilitates AI-driven interactions with BNB Chain and other EVM-compatible networks for blockchain development and management.
