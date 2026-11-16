@@ -619,6 +619,8 @@ i- [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ �
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) 🐍 ☁️ 🏠 - โต้ตอบกับ Obsidian ผ่าน REST API
 - [mcp-server-jfx](https://github.com/quarkiverse/quarkus-mcp-servers/tree/main/jfx) ☕ 🏠 - วาดบนผ้าใบ JavaFX
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 🎖️ 🦀 🏠 🍎 ระบบท้องถิ่นเป็นอันดับแรกที่จับภาพหน้าจอ/เสียงพร้อมการจัดทำดัชนีตามเวลา การจัดเก็บ SQL/embedding การค้นหาเชิงความหมาย การวิเคราะห์ประวัติที่ขับเคลื่อนด้วย LLM และการกระทำที่เกิดจากเหตุการณ์ - ช่วยให้สามารถสร้างตัวแทน AI ที่ตระหนักถึงบริบทผ่านระบบปลั๊กอิน NextJS
+- [mickey-ichi/backlog-bridge](https://github.com/mickey-ichi/backlog-bridge) 📇 ☁️ 🍎 🪟 🐧 - อ่านและเขียน Backlog (Nulab) หลาย space พร้อมกัน — issue, คอมเมนต์, ค้นหา, กิจกรรม, พรีวิวการซิงก์; การเขียนต้องพรีวิวและยืนยันก่อน
+- [mickey-ichi/graph-excel-mcp](https://github.com/mickey-ichi/graph-excel-mcp) 📇 ☁️ 🍎 🪟 🐧 - อ่านและแก้ไขไฟล์ Excel บน SharePoint/OneDrive ผ่าน Microsoft Graph — ค้นหา, เขียนพร้อมตรวจค่าเดิมและอ่านกลับเพื่อยืนยัน, แถว ชีต และรูปแบบ
 - [modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📇 🏠 - เซิร์ฟเวอร์ MCP ที่ใช้คุณสมบัติทั้งหมดของโปรโตคอล MCP
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - เซิร์ฟเวอร์เอกสาร Go ที่มีประสิทธิภาพด้านโทเค็น ซึ่งให้ผู้ช่วย AI เข้าถึงเอกสารแพ็คเกจและประเภทอย่างชาญฉลาดโดยไม่ต้องอ่านไฟล์ต้นฉบับทั้งหมด
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - แชทกับโมเดลที่ฉลาดที่สุดของ OpenAI

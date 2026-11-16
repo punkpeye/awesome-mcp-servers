@@ -1105,6 +1105,7 @@
 - [devroopsaha744/TexMCP](https://github.com/devroopsaha744/TexMCP) 🐍 🏠 - یک سرور MCP که LaTeX را به اسناد PDF با کیفیت بالا تبدیل می‌کند. ابزارهایی برای رندر ورودی LaTeX خام و قالب‌های قابل تنظیم فراهم می‌کند و مصنوعات قابل اشتراک‌گذاری و آماده برای تولید مانند گزارش‌ها، رزومه‌ها و مقالات تحقیقاتی را تولید می‌کند.
 - [giuseppe-coco/Google-Workspace-MCP-Server](https://github.com/giuseppe-coco/Google-Workspace-MCP-Server) 🐍 ☁️ 🍎 🪟 🐧 - سرور MCP که به طور یکپارچه با Google Calendar، Gmail، Drive و غیره شما تعامل دارد.
 - [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite) 🐍 ☁️ - یکپارچه‌سازی با gmail و Google Calendar.
+- [mickey-ichi/graph-excel-mcp](https://github.com/mickey-ichi/graph-excel-mcp) 📇 ☁️ 🍎 🪟 🐧 - خواندن و ویرایش کارپوشه‌های Excel در SharePoint/OneDrive از طریق Microsoft Graph — جستجو، نوشتن با بررسی مقدار پایه و تأیید با بازخوانی، سطرها، برگه‌ها و قالب‌بندی.
 - [takumi0706/google-calendar-mcp](https://github.com/takumi0706/google-calendar-mcp) 📇 ☁️ - یک سرور MCP برای ارتباط با Google Calendar API. مبتنی بر TypeScript.
 - [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) 🐍 ☁️ 🍎 🪟 🐧 - سرور MCP جامع Google Workspace با پشتیبانی کامل از Google Calendar، Drive، Gmail، و Docs، Forms، Chats، Slides و Sheets از طریق انتقال‌های stdio، Streamable HTTP و SSE.
 - [teamwork/mcp](https://github.com/teamwork/mcp) 🎖️ 🏎️ ☁️ 🍎 🪟 🐧 - پلتفرم مدیریت پروژه و منابع که پروژه‌های مشتری شما را در مسیر نگه می‌دارد، مدیریت منابع را آسان می‌کند و سود شما را حفظ می‌کند.
@@ -1155,6 +1156,7 @@
 - [HenryHaoson/Yuque-MCP-Server](https://github.com/HenryHaoson/Yuque-MCP-Server) - 📇 ☁️ یک سرور Model-Context-Protocol (MCP) برای یکپارچه‌سازی با Yuque API، که به مدل‌های هوش مصنوعی امکان مدیریت اسناد، تعامل با پایگاه‌های دانش، جستجوی محتوا و دسترسی به داده‌های تحلیلی از پلتفرم Yuque را می‌دهد.
 - [hiromitsusasaki/raindrop-io-mcp-server](https://github.com/hiromitsusasaki/raindrop-io-mcp-server) 📇 ☁️ - یکپارچه‌سازی که به LLMها امکان تعامل با بوکمارک‌های Raindrop.io را با استفاده از Model Context Protocol (MCP) می‌دهد.
 - [hmk/attio-mcp-server](https://github.com/hmk/attio-mcp-server) - 📇 ☁️ به کلاینت‌های هوش مصنوعی امکان مدیریت رکوردها و یادداشت‌ها را در Attio CRM می‌دهد
+- [mickey-ichi/backlog-bridge](https://github.com/mickey-ichi/backlog-bridge) 📇 ☁️ 🍎 🪟 🐧 - خواندن و نوشتن هم‌زمان در چند فضای Backlog (Nulab) — مسائل، نظرها، جستجو، فعالیت و پیش‌نمایش همگام‌سازی؛ نوشتن‌ها پیش‌نمایش و تأیید می‌شوند.
 - [MonadsAG/capsulecrm-mcp](https://github.com/MonadsAG/capsulecrm-mcp) - 📇 ☁️ به کلاینت‌های هوش مصنوعی امکان مدیریت مخاطبین، فرصت‌ها و وظایف را در Capsule CRM شامل فایل DTX آماده Claude Desktop می‌دهد
 - [integromat/make-mcp-server](https://github.com/integromat/make-mcp-server) 🎖️ 📇 🏠 - سناریوهای [Make](https://www.make.com/) خود را به ابزارهای قابل فراخوانی برای دستیاران هوش مصنوعی تبدیل کنید.
 - [isaacwasserman/mcp-vegalite-server](https://github.com/isaacwasserman/mcp-vegalite-server) 🐍 🏠 - تولید تجسم‌ها از داده‌های دریافت شده با استفاده از فرمت و رندر کننده VegaLite.
