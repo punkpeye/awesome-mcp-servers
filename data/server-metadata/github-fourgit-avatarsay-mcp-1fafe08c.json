@@ -18,7 +18,7 @@
     "env": [
       "AVATARSAY_API_KEY"
     ],
-    "confidence": "high"
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http",
@@ -52,7 +52,7 @@
       "create_talking_video",
       "get_job"
     ],
-    "source": "verified"
+    "source": "self_reported"
   },
   "license": "MIT (bridge & docs); hosted Streamable HTTP endpoint at https://avatarsay.com/mcp",
   "verification": {
