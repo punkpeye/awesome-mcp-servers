@@ -10,7 +10,7 @@
   },
   "install": {
     "commands": [
-      "MCP endpoint:"
+      "brew install --cask qingsongcui/tap/senrelay"
     ],
     "env": [],
     "confidence": "medium"
