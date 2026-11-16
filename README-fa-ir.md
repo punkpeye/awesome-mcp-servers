@@ -183,6 +183,7 @@
 - [JamesANZ/medical-mcp](https://github.com/JamesANZ/medical-mcp) 📇 🏠 - یک سرور MCP که دسترسی به اطلاعات پزشکی، پایگاه‌های داده دارویی و منابع مراقبت‌های بهداشتی را فراهم می‌کند. به دستیاران هوش مصنوعی امکان کوئری داده‌های پزشکی، تداخلات دارویی و دستورالعمل‌های بالینی را می‌دهد.
 - [the-momentum/apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) 🐍 🏠 🍎 🪟 🐧 - یک سرور MCP که دسترسی به داده‌های صادر شده از Apple Health را فراهم می‌کند. تحلیل داده‌ها نیز شامل می‌شود.
 - [OHNLP/omop_mcp](https://github.com/OHNLP/omop_mcp) 🐍 🏠 ☁️ - نگاشت ترمینولوژی بالینی به مفاهیم OMOP با استفاده از LLMها برای استانداردسازی و قابلیت همکاری داده‌های مراقبت‌های بهداشتی.
+- [dramirbakhshaei/clinical-mcp](https://github.com/dramirbakhshaei/clinical-mcp) - محاسبه‌گرهای فیزیولوژی بالینی و مراقبت‌های ویژه (شامل CKD-EPI 2021، شکاف آنیونی Figge، شاخص QTc به روش Bogossian/Fridericia و UNOS MELD 3.0) که از اعتبارسنجی دقیق مرزها (Boundary Validation) با استفاده از Pydantic نسخه ۲ بهره می‌برند.
 
 ### 📂 <a name="browser-automation"></a>اتوماسیون مرورگر
 
