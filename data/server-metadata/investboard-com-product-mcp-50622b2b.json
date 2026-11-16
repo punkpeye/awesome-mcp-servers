@@ -18,7 +18,9 @@
     "env": [],
     "confidence": "medium"
   },
-  "transport": ["streamable-http"],
+  "transport": [
+    "streamable-http"
+  ],
   "auth": {
     "type": "oauth",
     "notes": [
@@ -26,7 +28,12 @@
       "Account tools require OAuth, appropriate permissions, enabled sharing and the applicable Free or Premium plan. No API key or client environment variables are required."
     ]
   },
-  "clients": ["Claude Code", "Cursor", "Codex", "VS Code"],
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
   "tools": {
     "count": 24,
     "names": [
