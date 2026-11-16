@@ -179,7 +179,6 @@
 - [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - Tiltと統合し、Kubernetes開発環境のためのTiltリソース、ログ、管理操作へのプログラマティックアクセスを提供するModel Context Protocolサーバー。
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) 🏎️ ☁️🏠 - MCPを通じたKubernetesクラスター操作
 - [thunderboltsid/mcp-nutanix](https://github.com/thunderboltsid/mcp-nutanix) 🏎️ 🏠☁️ - Nutanix Prism CentralリソースとインターフェースするためのGoベースのMCPサーバー。
-- [trilogy-group/aws-pricing-mcp](https://github.com/trilogy-group/aws-pricing-mcp) 🏎️ ☁️🏠 - 一回の呼び出しで最新のEC2価格情報を取得。高速。事前解析済みのAWS価格カタログを使用。
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) 🏎️ ☁️🏠 - MCPマルチクラスターKubernetesの管理と運用を提供し、管理インターフェース、ログ機能を備え、一般的なDevOpsおよび開発シナリオをカバーする約50種類のツールを内蔵。標準リソースおよびCRDリソースをサポート。
 - [weibaohui/kom](https://github.com/weibaohui/kom) 🏎️ ☁️🏠 - MCPマルチクラスターKubernetesの管理と運用を提供。SDKとして自身のプロジェクトに統合可能で、一般的なDevOpsおよび開発シナリオをカバーする約50種類のツールを内蔵。標準リソースおよびCRDリソースをサポート。
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️🏠 - Kubernetesクラスターのリソース管理と、クラスターとアプリケーションの健全性ステータスの詳細な分析を提供します。
@@ -578,7 +577,6 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 - [bart6114/my-bear-mcp-server](https://github.com/bart6114/my-bear-mcp-server/) 📇 🏠 🍎 - BearのsqliteDBと直接統合してBear Note取得アプリのノートとタグを読み取り可能
 - [billster45/mcp-chatgpt-responses](https://github.com/billster45/mcp-chatgpt-responses) 🐍 ☁️ - ClaudeがChatGPTと通信してWeb検索機能を使用するためのMCPサーバー
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - AIがGraphQLサーバーをクエリ可能にする
-- [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) 🐍 🏠 - MCPサーバーテスト用のもう一つのCLIツール
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) 🐍 ☁️ - NotionのAPIと統合してパーソナルToDoリストを管理
 - [ekkyarmandi/ticktick-mcp](https://github.com/ekkyarmandi/ticktick-mcp) 🐍 ☁️ - [TickTick](https://ticktick.com/)のAPIと統合してパーソナルToDoプロジェクトとタスクを管理するTickTick MCPサーバー
 - [esignaturescom/mcp-server-esignatures](https://github.com/esignaturescom/mcp-server-esignatures) 🐍 ☁️ - eSignatures API経由で拘束力のある契約の起草、レビュー、送信を行う契約・テンプレート管理
@@ -611,7 +609,6 @@ Gitリポジトリおよびバージョン管理プラットフォームとの�
 ソーシャルメディアプラットフォームとの統合により、投稿、アナリティクス、インタラクション管理を可能にします。ソーシャルプレゼンスのAI駆動自動化を実現します。
 
 - [macrocosm-os/macrocosmos-mcp](https://github.com/macrocosm-os/macrocosmos-mcp) 🎖️ 🐍 ☁️ - 検索フレーズ、ユーザー、日付フィルタリングでリアルタイムX/Reddit/YouTubeデータにLLMアプリケーション内で直接アクセス
-- [kunallunia/twitter-mcp](https://github.com/LuniaKunal/mcp-twitter) 🐍 🏠 - タイムラインアクセス、ユーザーツイート取得、ハッシュタグモニタリング、会話分析、ダイレクトメッセージング、投稿の感情分析、完全な投稿ライフサイクル制御を提供するオールインワンTwitter管理ソリューション
 - [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server) 🐍 ☁️ - Facebookページと統合し、Graph APIを通じて投稿、コメント、エンゲージメントメトリクスの直接管理を可能にして、ソーシャルメディア管理を効率化
 - [gwbischof/bluesky-social-mcp](https://github.com/gwbischof/bluesky-social-mcp) 🐍 🏠 - atprotoクライアント経由でBlueskyと対話するMCPサーバー
 

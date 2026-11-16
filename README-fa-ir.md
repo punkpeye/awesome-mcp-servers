@@ -249,7 +249,6 @@
 - [StacklokLabs/ocireg-mcp](https://github.com/StacklokLabs/ocireg-mcp) 🏎️ ☁️ - یک سرور MCP مبتنی بر SSE که به برنامه‌های مبتنی بر LLM امکان تعامل با رجیستری‌های OCI را می‌دهد. این سرور ابزارهایی برای بازیابی اطلاعات در مورد تصاویر کانتینر، لیست کردن تگ‌ها و موارد دیگر فراهم می‌کند.
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) 🏎️ ☁️/🏠 - عملیات کلاستر Kubernetes از طریق MCP
 - [thunderboltsid/mcp-nutanix](https://github.com/thunderboltsid/mcp-nutanix) 🏎️ 🏠/☁️ - سرور MCP مبتنی بر Go برای ارتباط با منابع Nutanix Prism Central.
-- [trilogy-group/aws-pricing-mcp](https://github.com/trilogy-group/aws-pricing-mcp) 🏎️ ☁️/🏠 - اطلاعات به‌روز قیمت‌گذاری EC2 را با یک تماس دریافت کنید. سریع. با استفاده از یک کاتالوگ قیمت‌گذاری AWS از پیش تجزیه شده.
 - [VmLia/books-mcp-server](https://github.com/VmLia/books-mcp-server) 📇 ☁️ - این یک سرور MCP است که برای کوئری کتاب‌ها استفاده می‌شود و می‌تواند در کلاینت‌های رایج MCP مانند Cherry Studio اعمال شود.
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) 🏎️ ☁️/🏠 - مدیریت و عملیات چند کلاستر Kubernetes MCP را فراهم می‌کند و دارای یک رابط مدیریتی، لاگ‌گیری و نزدیک به ۵۰ ابزار داخلی برای سناریوهای رایج DevOps و توسعه است. از منابع استاندارد و CRD پشتیبانی می‌کند.
 - [weibaohui/kom](https://github.com/weibaohui/kom) 🏎️ ☁️/🏠 - مدیریت و عملیات چند کلاستر Kubernetes MCP را فراهم می‌کند. می‌تواند به عنوان یک SDK در پروژه شما یکپارچه شود و شامل نزدیک به ۵۰ ابزار داخلی برای سناریوهای رایج DevOps و توسعه است. از منابع استاندارد و CRD پشتیبانی می‌کند.
@@ -1026,7 +1025,6 @@
 - [gwbischof/bluesky-social-mcp](https://github.com/gwbischof/bluesky-social-mcp) 🐍 🏠 - یک سرور MCP برای تعامل با Bluesky از طریق کلاینت atproto.
 - [HagaiHen/facebook-mcp-server](https://github.com/HagaiHen/facebook-mcp-server) 🐍 ☁️ - با صفحات فیس‌بوک یکپارچه می‌شود تا مدیریت مستقیم پست‌ها، نظرات و معیارهای تعامل را از طریق Graph API برای مدیریت ساده رسانه‌های اجتماعی امکان‌پذیر کند.
 - [karanb192/reddit-buddy-mcp](https://github.com/karanb192/reddit-buddy-mcp) 📇 🏠 - مرور پست‌های Reddit، جستجوی محتوا و تحلیل فعالیت کاربران بدون کلید API. با Claude Desktop به صورت پیش‌فرض کار می‌کند.
-- [kunallunia/twitter-mcp](https://github.com/LuniaKunal/mcp-twitter) 🐍 🏠 - راه حل مدیریت همه‌کاره توییتر که دسترسی به تایم‌لاین، بازیابی توییت‌های کاربر، نظارت بر هشتگ‌ها، تحلیل مکالمات، پیام مستقیم، تحلیل احساسات یک پست و کنترل کامل چرخه حیات پست را - همه از طریق یک API ساده - فراهم می‌کند.
 - [macrocosm-os/macrocosmos-mcp](https://github.com/macrocosm-os/macrocosmos-mcp) - 🎖️ 🐍 ☁️ به داده‌های بی‌درنگ X/Reddit/YouTube مستقیماً در برنامه‌های LLM خود با عبارات جستجو، کاربران و فیلتر تاریخ دسترسی پیدا کنید.
 - [sinanefeozler/reddit-summarizer-mcp](https://github.com/sinanefeozler/reddit-summarizer-mcp) 🐍 🏠 ☁️ - سرور MCP برای خلاصه‌سازی صفحه اصلی Reddit کاربران یا هر subreddit بر اساس پست‌ها و نظرات.
 
@@ -1136,7 +1134,6 @@
 - [boldsign/boldsign-mcp](https://github.com/boldsign/boldsign-mcp) 📇 ☁️ - جستجو، درخواست و مدیریت قراردادهای امضای الکترونیکی به راحتی با [BoldSign](https://boldsign.com/).
 - [brianxiadong/ones-wiki-mcp-server](https://github.com/brianxiadong/ones-wiki-mcp-server) ☕ ☁️/🏠 - یک سرویس مبتنی بر Spring AI MCP برای بازیابی محتوای ONES Waiki و تبدیل آن به فرمت متنی سازگار با هوش مصنوعی.
 - [caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp) 📇 🏠 🍎 🪟 🐧 - سرور Wenyan MCP، که به هوش مصنوعی اجازه می‌دهد مقالات Markdown را به طور خودکار قالب‌بندی کرده و آنها را در WeChat GZH منتشر کند.
-- [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) 🐍 🏠 - یک ابزار CLI دیگر برای تست سرورهای MCP
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) 🐍 ☁️ - با API Notion برای مدیریت لیست‌های todo شخصی یکپارچه می‌شود
 - [danielkennedy1/pdf-tools-mcp](https://github.com/danielkennedy1/pdf-tools-mcp) 🐍 - ابزارهای دانلود، مشاهده و دستکاری PDF.
 - [dotemacs/domain-lookup-mcp](https://github.com/dotemacs/domain-lookup-mcp) 🏎️ - سرویس جستجوی نام دامنه، ابتدا از طریق [RDAP](https://en.wikipedia.org/wiki/Registration_Data_Access_Protocol) و سپس به عنوان جایگزین از طریق [WHOIS](https://en.wikipedia.org/wiki/WHOIS)

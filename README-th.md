@@ -155,7 +155,6 @@
 - [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) 🎖️ 🐍 ☁️ - เซิร์ฟเวอร์ MCP ที่ช่วยให้ผู้ช่วย AI สามารถจัดการและดูแลทรัพยากรบน Alibaba Cloud ได้ โดยรองรับ ECS, การตรวจสอบคลาวด์, OOS และผลิตภัณฑ์คลาวด์อื่นๆ ที่มีการใช้งานอย่างแพร่หลาย
 - [silenceper/mcp-k8s](https://github.com/silenceper/mcp-k8s) 🏎️ ☁️/🏠 - MCP-K8S เป็นเครื่องมือจัดการทรัพยากร Kubernetes ขับเคลื่อนด้วย AI ที่ช่วยให้ผู้ใช้สามารถดำเนินการกับทรัพยากรใดๆ ในคลัสเตอร์ Kubernetes ผ่านการโต้ตอบด้วยภาษาธรรมชาติ รวมถึงทรัพยากรดั้งเดิม (เช่น Deployment, Service) และทรัพยากรที่กำหนดเอง (CRD) ไม่จำเป็นต้องจำคำสั่งที่ซับซ้อน เพียงอธิบายความต้องการ และ AI จะดำเนินการในคลัสเตอร์ที่เกี่ยวข้องได้อย่างแม่นยำ ช่วยเพิ่มความสะดวกในการใช้งาน Kubernetes อย่างมาก
 - [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ Model Context Protocol ที่ผสานการทำงานกับ Tilt เพื่อให้สามารถเข้าถึงทรัพยากร, ล็อก และการดำเนินการจัดการของ Tilt สำหรับสภาพแวดล้อมการพัฒนา Kubernetes ผ่านโปรแกรม
-- [trilogy-group/aws-pricing-mcp](https://github.com/trilogy-group/aws-pricing-mcp) 🏎️ ☁️/🏠 - รับข้อมูลราคา EC2 ล่าสุดด้วยการเรียกเพียงครั้งเดียว รวดเร็ว ขับเคลื่อนโดยแคตตาล็อกราคา AWS ที่แยกวิเคราะห์ไว้ล่วงหน้า
 
 ### 👨‍💻 การเรียกใช้โค้ด
 
@@ -595,7 +594,6 @@ i- [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ �
 - [billster45/mcp-chatgpt-responses](https://github.com/billster45/mcp-chatgpt-responses) 🐍 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ Claude เพื่อพูดคุยกับ ChatGPT และใช้ความสามารถในการค้นหาเว็บของมัน
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) 📇 ☁️ - ช่วยให้ AI สามารถสอบถามเซิร์ฟเวอร์ GraphQL
 - [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - ใช้เครื่องมือการกำหนดแบบสอบถาม/การกลายพันธุ์ GraphQL ทั่วไป และ gqai จะสร้างเซิร์ฟเวอร์ MCP ให้กับคุณโดยอัตโนมัติ
-- [chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli) 🐍 🏠 - เครื่องมือ CLI อีกตัวสำหรับทดสอบเซิร์ฟเวอร์ MCP
 - [danhilse/notion_mcp](https://github.com/danhilse/notion_mcp) 🐍 ☁️ - รวมเข้ากับ API ของ Notion เพื่อจัดการรายการสิ่งที่ต้องทำส่วนตัว
 - [evalstate/mcp-miro](https://github.com/evalstate/mcp-miro) 📇 ☁️ - เข้าถึงไวท์บอร์ด MIRO สร้างและอ่านรายการจำนวนมาก ต้องใช้คีย์ OAUTH สำหรับ REST API
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - เซิร์ฟเวอร์นี้ช่วยให้ LLM ใช้เครื่องคิดเลขสำหรับการคำนวณตัวเลขที่แม่นยำ
