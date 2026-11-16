@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "valuein-biz-143329f2",
+  "source": {
+    "issue": 6066,
+    "projectUrl": "https://valuein.biz"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @valuein in #6066 under the community profile-claim process.",
+      "Requested profile metadata in #6066: Category: Finance & Crypto Transport: streamable-http Auth: oauth Install confidence: low License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@valuein"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

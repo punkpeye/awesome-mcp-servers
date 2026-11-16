@@ -139,6 +139,36 @@ describe("buildCatalogFromMarkdown", () => {
     });
   });
 
+  it("adds a hosted server's repository without changing its primary URL or profile id", () => {
+    const projectUrl = "https://example.com/hosted-mcp";
+    const id = slugFromUrl(projectUrl);
+    const readme = [
+      "## Experimental",
+      `- [Hosted MCP](${projectUrl}): Hosted service with a separate integration repository.`,
+    ].join("\n");
+
+    const result = buildCatalogFromMarkdown(readme, new Map(), new Map([
+      [id, {
+        links: {
+          repo: "https://github.com/owner/integration-toolkit",
+          docs: "https://example.com/docs/mcp",
+          endpoint: "https://app.example.com/mcp",
+        },
+      }],
+    ]));
+
+    expect(result.entries).toHaveLength(1);
+    expect(result.entries[0]?.id).toBe(id);
+    expect(result.entries[0]?.links).toEqual({
+      primary: projectUrl,
+      repo: "https://github.com/owner/integration-toolkit",
+      homepage: projectUrl,
+      docs: "https://example.com/docs/mcp",
+      endpoint: "https://app.example.com/mcp",
+    });
+    expect(result.errors).toEqual([]);
+  });
+
   it("extracts only URLs that look like remote MCP endpoints", () => {
     const readme = [
       "## Experimental",
