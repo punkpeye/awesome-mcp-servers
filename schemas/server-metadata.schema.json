@@ -23,6 +23,7 @@
     "links": {
       "type": "object",
       "properties": {
+        "repo": { "type": "string", "format": "uri", "minLength": 1 },
         "docs": { "type": "string", "format": "uri", "minLength": 1 },
         "homepage": { "type": "string", "format": "uri", "minLength": 1 },
         "endpoint": { "type": "string", "format": "uri", "minLength": 1 }

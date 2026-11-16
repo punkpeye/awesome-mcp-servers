@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kelion-anyscribe-mcp-7a0a6cc0",
+  "source": {
+    "issue": 6057,
+    "projectUrl": "https://github.com/KELiON/anyscribe-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.anyscribe.app"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Kiro",
+    "any remote MCP client"
+  ],
+  "license": "Proprietary (hosted implementation); connection files in the repo are MIT"
+}
