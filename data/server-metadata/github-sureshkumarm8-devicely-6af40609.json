@@ -26,5 +26,19 @@
     "VS Code",
     "Cline"
   ],
-  "license": "Proprietary, free to use; public repository contains the published distribution and documentation."
+  "license": "Proprietary, free to use; public repository contains the published distribution and documentation.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @sureshkumarm8 in #6043 under the community profile-claim process.",
+      "Requested profile metadata in #6043: Category: Developer Productivity & Utilities Transport: stdio Auth: none Install confidence: medium License: Proprietary, free to use; public repository contains the published distribution and documentation...."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@sureshkumarm8"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }

@@ -10,7 +10,7 @@
     "endpoint": "https://mcp.pageree.com/"
   },
   "install": {
-    "confidence": "high"
+    "confidence": "medium"
   },
   "transport": [
     "streamable-http"

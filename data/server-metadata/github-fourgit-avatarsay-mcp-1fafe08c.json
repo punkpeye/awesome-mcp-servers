@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-fourgit-avatarsay-mcp-1fafe08c",
+  "source": {
+    "projectUrl": "https://github.com/fourgit/avatarsay-mcp"
+  },
+  "description": "Generate fictional character portraits, tabletop RPG NPC sheets (SillyTavern V2 and Foundry VTT JSON), fast MP3 voice barks, and lip-synced MP4 talking videos from text.",
+  "category": "Multimedia Processing",
+  "links": {
+    "docs": "https://avatarsay.com/mcp",
+    "homepage": "https://avatarsay.com",
+    "endpoint": "https://avatarsay.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y https://codeload.github.com/fourgit/avatarsay-mcp/tar.gz/refs/heads/main"
+    ],
+    "env": [
+      "AVATARSAY_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "list_voices_and_styles and roll_rpg_npc require no authentication (0 credits). Account tools accept an avs_... API key via Authorization: Bearer.",
+      "New accounts receive 30 free credits plus 1 free <=5s talking video clip via MCP."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Codex"
+  ],
+  "tools": {
+    "count": 9,
+    "names": [
+      "list_voices_and_styles",
+      "roll_rpg_npc",
+      "get_credits",
+      "list_avatars",
+      "list_videos",
+      "generate_avatars",
+      "create_npc_voice_line",
+      "create_talking_video",
+      "get_job"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (bridge & docs); hosted Streamable HTTP endpoint at https://avatarsay.com/mcp",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Official MCP Registry ID: com.avatarsay/avatar-say. Streamable HTTP initialize and tools/list return 9 tools without credentials."
+    ]
+  }
+}
