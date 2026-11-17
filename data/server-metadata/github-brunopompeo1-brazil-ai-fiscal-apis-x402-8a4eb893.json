@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-brunopompeo1-brazil-ai-fiscal-apis-x402-8a4eb893",
+  "source": {
+    "issue": 6097,
+    "projectUrl": "https://github.com/brunopompeo1/brazil-ai-fiscal-apis-x402"
+  },
+  "links": {
+    "endpoint": "https://br-nfe-xml-auditor-x402.architect-x402.workers.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:brunopompeo1/brazil-ai-fiscal-apis-x402"
+    ],
+    "env": [
+      "X402_PRIVATE_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Cline"
+  ],
+  "license": "MIT"
+}
