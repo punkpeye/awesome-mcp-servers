@@ -325,7 +325,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [ivanlhz/gmail-mcp-server](https://github.com/ivanlhz/gmail-mcp-server): Facilitates Gmail API exposure via MCP for seamless integration with LLMs and environments like Claude Desktop.
 - [frocher/sigovenoi_mcp](https://github.com/frocher/sigovenoi_mcp): Facilitates access to coding rules and examples across various themes through a configurable MCP server.
 - [AyushRatan1/Mcp-polymarket](https://github.com/AyushRatan1/Mcp-polymarket): Facilitates real-time interaction with prediction markets through Claude Desktop integration, leveraging Polymarket API for data analysis and insights.
-- [marcosventosa/mcp-esios](https://github.com/marcosventosa/mcp-esios): Access REE ESIOS API data through MCP tools with Docker and UV integration options.
 - [miliariadnane/javaConf-mcp-server](https://github.com/miliariadnane/javaConf-mcp-server): Facilitates AI-driven retrieval of Java conference details by parsing GitHub Markdown using Spring Boot.
 - [rgbkids/fastmcp-example](https://github.com/rgbkids/fastmcp-example): FastMCP enhances workflow efficiency by integrating with various tools like Claude Desktop and VSCode through customizable MCP server configurations.
 - [ND-SPACE/naver-searchad-mcp](https://github.com/ND-SPACE/naver-searchad-mcp): Facilitates campaign management and keyword operations on Naver SearchAd via Claude Desktop.
@@ -358,14 +357,12 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [kukapay/crypto-whitepapers-mcp](https://github.com/kukapay/crypto-whitepapers-mcp): A structured knowledge base of cryptocurrency whitepapers accessible for AI agents to analyze and learn from.
 - [LesterThomas/MCP-AIVA](https://github.com/LesterThomas/MCP-AIVA): Facilitates interaction with TM Forum AIVA AI Assistant by providing built-in prompts for querying TM Forum Open APIs and standards.
 - [luigiajah/figma-mcp-sse](https://github.com/luigiajah/figma-mcp-sse): Facilitates AI-powered coding tools to access and utilize Figma design data for enhanced design implementation accuracy.
-- [rolsite/mcp-github-cursor-windows](https://github.com/rolsite/mcp-github-cursor-windows): Integrate GitHub operations within Cursor IDE on Windows using natural language commands for seamless issue and PR management.
 - [HelTi/mcp-services](https://github.com/HelTi/mcp-services): Provides a suite of MCP services in Node.js for LLM clients, including weather and daily hot topics.
 - [leehunkyu00/infomax-mcp](https://github.com/leehunkyu00/infomax-mcp): Infomax API MCP facilitates seamless integration with the Infomax API using a Node.js server.
 - [CLoaKY233/MIST](https://github.com/CLoaKY233/MIST): MIST empowers AI assistants with real-world capabilities for managing notes, Gmail, Calendar, and Tasks through a comprehensive MCP server.
 - [pi-prakhar/mcp-server-demo](https://github.com/pi-prakhar/mcp-server-demo): Facilitates AI-assisted note-taking with features to add, read, and summarize notes using the Model Context Protocol.
 - [imprvhub/mcp-claude-spotify](https://github.com/imprvhub/mcp-claude-spotify): Facilitates interaction between Claude Desktop and Spotify, enabling features like track search, playback control, and playlist management through MCP.
 - [hosthobbit/whm-mcp-server](https://github.com/hosthobbit/whm-mcp-server): A Node.js server application enabling AI assistants to manage WHM/cPanel servers through the Model Context Protocol.
-- [pavanmadiraju-leanix/leanix-mcp-integration](https://github.com/pavanmadiraju-leanix/leanix-mcp-integration): Connects LeanIX's enterprise architecture platform with AI assistants, enabling natural language queries and management of fact sheets via GraphQL.
 - [Therealkorris/MPC-Servers](https://github.com/Therealkorris/MPC-Servers): Enhance Microsoft Visio with AI-driven diagram analysis and modification capabilities through a Messenger Communication Protocol server.
 - [raghavared/calendar-mcp](https://github.com/raghavared/calendar-mcp): Facilitates AI-driven management of Google Calendar events with seamless authentication and integration capabilities.
 - [raghavared/gmail-mcp](https://github.com/raghavared/gmail-mcp): Facilitates seamless Gmail management through natural language interactions, supporting auto authentication and comprehensive email operations.
@@ -377,7 +374,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [adamrybinski/prolog-mcp](https://github.com/adamrybinski/prolog-mcp): A neurosymbolic AI server that integrates Prolog's symbolic reasoning with MCP for hybrid AI applications, featuring persistent sessions and type-safe I/O.
 - [precariat365/MCP-Client-Demo](https://github.com/precariat365/MCP-Client-Demo): A demo client showcasing interaction with multiple MCP services using LangChain for intelligent dialogue and tool invocation.
 - [teddynote-lab/langgraph-dynamic-mcp-agents](https://github.com/teddynote-lab/langgraph-dynamic-mcp-agents): LangGraph ReAct Agents leverage MCP tools for dynamic integration with external data sources and tools, offering real-time configuration and management capabilities.
-- [jongan69/remote-mcp-server](https://github.com/jongan69/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
 - [godstale/ollama-mcp-agent](https://github.com/godstale/ollama-mcp-agent): Ollama MCP Agent enables local execution of LLM models with enhanced capabilities through MCP integration, offering cost-free and extended functionality.
 - [cadifilippo/mcp-click_up](https://github.com/cadifilippo/mcp-click_up): Facilitates integration of ClickUp with LLM clients through MCP server configuration.
 - [lescoggi/office-mcp-server](https://github.com/lescoggi/office-mcp-server): Facilitates AI-driven management and processing of Word and Excel files through a Java-based MCP server.
@@ -389,7 +385,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [tuannvm/kafka-mcp-server](https://github.com/tuannvm/kafka-mcp-server): Enables LLM models to interact with Apache Kafka through a standardized interface, supporting message production, consumption, and cluster management.
 - [aiDotEngineer/aie-mcp](https://github.com/aiDotEngineer/aie-mcp): Facilitates AI Engineer World's Fair 2025 talk submissions through a Cloudflare-hosted MCP server.
 - [tyler-jewell/xai-mcp-claude](https://github.com/tyler-jewell/xai-mcp-claude): A comprehensive guide to setting up an SSE-based MCP server with FastAPI, integrating with Claude Desktop for enhanced AI capabilities.
-- [RhombusSystems/rhombus-node-mcp](https://github.com/RhombusSystems/rhombus-node-mcp): Integrates the Rhombus API to provide Chatbot tools via an MCP server.
 - [Bai-ee/Fimga_MCP_Alpha](https://github.com/Bai-ee/Fimga_MCP_Alpha): Facilitates seamless communication between Cursor AI and Figma for automated design modifications and interactions.
 - [rollbar/rollbar-mcp-server](https://github.com/rollbar/rollbar-mcp-server): Facilitates AI-driven diagnostics and deployment tracking for Rollbar projects using a Model Context Protocol server.
 - [swyxio/pls-ignore-remote-mcp-server](https://github.com/swyxio/pls-ignore-remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
