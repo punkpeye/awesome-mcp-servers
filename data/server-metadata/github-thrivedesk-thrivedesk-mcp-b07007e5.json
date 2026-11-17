@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-thrivedesk-thrivedesk-mcp-b07007e5",
+  "source": {
+    "issue": 6138,
+    "projectUrl": "https://github.com/thrivedesk/thrivedesk-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.thrivedesk.com"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "MIT"
+}

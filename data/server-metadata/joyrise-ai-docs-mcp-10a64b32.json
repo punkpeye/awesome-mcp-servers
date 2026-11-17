@@ -18,9 +18,9 @@
     ]
   },
   "clients": [
-    "Claude (claude.ai",
-    "Desktop",
-    "Code)",
+    "Claude",
+    "Claude Desktop",
+    "Claude Code",
     "ChatGPT",
     "Cursor",
     "VS Code"
