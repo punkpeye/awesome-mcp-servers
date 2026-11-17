@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sudomichael-search-console-mcp-ca396586",
+  "source": {
+    "issue": 6140,
+    "projectUrl": "https://github.com/sudomichael/search-console-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y search-console-mcp-server@0.2.3"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "unknown"
+    ]
+  },
+  "license": "MIT"
+}
