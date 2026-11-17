@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "beyourcover-com-mcp-9b831bfd",
+  "source": {
+    "issue": 6104,
+    "projectUrl": "https://beyourcover.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://beyourcover.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI"
+  ],
+  "license": "Proprietary hosted service"
+}

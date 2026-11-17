@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-localseodata-mcp-server-6a9279d3",
+  "source": {
+    "issue": 6149,
+    "projectUrl": "https://github.com/localseodata/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.localseodata.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Cline",
+    "Gemini CLI"
+  ],
+  "license": "MIT"
+}
