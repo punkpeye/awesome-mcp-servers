@@ -4400,6 +4400,7 @@ MCP servers for job search and career platforms.
 
 - [GhoshSrinjoy/linkedin-job-mcp](https://github.com/GhoshSrinjoy/linkedin-job-mcp) [![GhoshSrinjoy/linkedin-job-mcp MCP server](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp) 📇 🏠 🍎 🪟 🐧 - Job search by keyword and location with date, job type, remote, salary and experience filters, full job details, and a local dashboard that grades postings for ghost-job risk. Reads public job pages, so no account or browser is needed.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [yan0lovesha/hiring-intent-mcp](https://github.com/yan0lovesha/hiring-intent-mcp) [![yan0lovesha/hiring-intent-mcp MCP server](https://glama.ai/mcp/servers/yan0lovesha/hiring-intent-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yan0lovesha/hiring-intent-mcp) 📇 🏠 🍎 🪟 🐧 - Probe public company career boards across 9 ATS platforms (Greenhouse, Lever, Ashby, Personio, Teamtailor, SmartRecruiters, Workable, Recruitee and Pinpoint) by URL or slug to extract open roles, disclosed salary and equity ranges, tech-stack footprints and hiring-intent signals. Zero dependencies, stdio, Node >= 20.
 
 ### 🔒 <a name="security"></a>Security
 
