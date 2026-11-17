@@ -17,7 +17,9 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Read-only tools need no key; trading requires POLYMARKET_PRIVATE_KEY."
+    ]
   },
   "clients": [
     "Claude Desktop",
