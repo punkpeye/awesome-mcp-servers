@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "myproduct-guru-developers-60e71b76",
+  "source": {
+    "issue": 6118,
+    "projectUrl": "https://myproduct.guru/developers#mcp"
+  },
+  "links": {
+    "endpoint": "https://myproduct.guru/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Cline",
+    "VS Code",
+    "Gemini CLI"
+  ],
+  "license": "MIT (client configuration repo); hosted service"
+}

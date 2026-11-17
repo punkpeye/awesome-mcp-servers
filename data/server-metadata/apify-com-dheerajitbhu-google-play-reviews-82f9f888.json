@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "apify-com-dheerajitbhu-google-play-reviews-82f9f888",
+  "source": {
+    "issue": 6159,
+    "projectUrl": "https://apify.com/dheerajitbhu/google-play-reviews"
+  },
+  "links": {
+    "endpoint": "https://mcp.apify.com/?tools=dheerajitbhu/google-play-reviews,dheerajitbhu/apple-app-store-reviews"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "ChatGPT (any client that supports remote Streamable HTTP MCP)"
+  ],
+  "license": "Proprietary hosted service"
+}
