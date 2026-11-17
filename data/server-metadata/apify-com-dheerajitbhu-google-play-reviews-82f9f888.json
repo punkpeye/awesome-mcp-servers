@@ -6,7 +6,7 @@
     "projectUrl": "https://apify.com/dheerajitbhu/google-play-reviews"
   },
   "links": {
-    "endpoint": "https://mcp.apify.com/?tools=dheerajitbhu/google-play-reviews"
+    "endpoint": "https://mcp.apify.com/?tools=dheerajitbhu/google-play-reviews,dheerajitbhu/apple-app-store-reviews"
   },
   "transport": [
     "streamable-http"
