@@ -4119,6 +4119,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 MCP servers for job search and career platforms.
 
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [MikhailSagalaev/openradar](https://github.com/MikhailSagalaev/openradar) [![MikhailSagalaev/openradar MCP server](https://glama.ai/mcp/servers/MikhailSagalaev/openradar/badges/score.svg)](https://glama.ai/mcp/servers/MikhailSagalaev/openradar) 📇 ☁️ 🏠 🍎 🪟 🐧 - Search live job vacancies and freelance orders with market pay analytics and X-Ray sourcing dorks via remote Streamable HTTP MCP.
 
 ### 🔒 <a name="security"></a>Security
 
@@ -4400,9 +4401,7 @@ MCP servers for job search and career platforms.
 - [verax-ai/verax](https://github.com/verax-ai/verax) [![verax-ai/verax MCP server](https://glama.ai/mcp/servers/verax-ai/verax/badges/score.svg)](https://glama.ai/mcp/servers/verax-ai/verax) 📇 🏠 🪟 🐧 - Sits between an agent and its tools: every call passes a policy gate and leaves a signed decision record before it runs, a refusal is recorded like an approval, payments wait for an operator on the same machine, and the ledger stays there and verifies offline. Apache-2.0.
 
 - [ak10082247-max/canaryguard-402](https://github.com/ak10082247-max/canaryguard-402) [![ak10082247-max/canaryguard-402 MCP server](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402/badges/score.svg)](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402) 📇 ☁️ 🏠 🍎 🪟 🐧 - Deterministic prompt-injection detector, concealed Unicode scrubber, and honeypot wallet defense MCP server for AI agents.
-### 🌐
-- [openradar](https://github.com/MikhailSagalaev/openradar) - Open feed of job vacancies and freelance orders with remote MCP (`https://openradar.fun/mcp`), market pay stats and X-Ray sourcing dorks.
- <a name="social-media"></a>Social Media
+### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
 
