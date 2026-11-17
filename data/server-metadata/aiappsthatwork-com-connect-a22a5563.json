@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "aiappsthatwork-com-connect-a22a5563",
+  "source": {
+    "issue": 5956,
+    "projectUrl": "https://aiappsthatwork.com/connect"
+  },
+  "links": {
+    "endpoint": "https://aiappsthatwork.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Claude Desktop",
+    "Claude.ai",
+    "ChatGPT (developer mode)"
+  ],
+  "license": "Proprietary hosted service, free to use"
+}

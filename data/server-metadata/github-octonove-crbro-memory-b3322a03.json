@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-octonove-crbro-memory-b3322a03",
+  "source": {
+    "issue": 6008,
+    "projectUrl": "https://github.com/Octonove/crbro-memory"
+  },
+  "install": {
+    "commands": [
+      "npx -y crbro-memory"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor"
+  ],
+  "license": "MIT"
+}

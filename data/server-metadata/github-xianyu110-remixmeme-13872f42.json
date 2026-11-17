@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-xianyu110-remixmeme-13872f42",
+  "source": {
+    "issue": 5961,
+    "projectUrl": "https://github.com/xianyu110/remixmeme"
+  },
+  "links": {
+    "endpoint": "https://remixmeme.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "any Streamable HTTP client"
+  ],
+  "license": "MIT"
+}

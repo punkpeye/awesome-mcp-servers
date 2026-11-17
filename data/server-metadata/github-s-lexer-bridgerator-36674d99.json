@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-s-lexer-bridgerator-36674d99",
+  "source": {
+    "issue": 5952,
+    "projectUrl": "https://github.com/s-lexer/Bridgerator"
+  },
+  "install": {
+    "commands": [
+      "npm i -g bridgerator"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude"
+  ],
+  "license": "MIT"
+}

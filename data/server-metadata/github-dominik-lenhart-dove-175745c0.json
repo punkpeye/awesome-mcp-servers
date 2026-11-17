@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dominik-lenhart-dove-175745c0",
+  "source": {
+    "issue": 5946,
+    "projectUrl": "https://github.com/dominik-lenhart/dove"
+  },
+  "install": {
+    "commands": [
+      "MCP Registry: `io.github.dominik-lenhart/dove`."
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 (approval page) or bearer token"
+    ]
+  }
+}

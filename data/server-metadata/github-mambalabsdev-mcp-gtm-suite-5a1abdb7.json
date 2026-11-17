@@ -1,19 +1,16 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "github-mrhy7176-cloudgpu-mcp-ae357044",
+  "id": "github-mambalabsdev-mcp-gtm-suite-5a1abdb7",
   "source": {
-    "issue": 4683,
-    "projectUrl": "https://github.com/mrhy7176/cloudgpu-mcp"
-  },
-  "links": {
-    "docs": "https://cloudgpu.app/docs/mcp"
+    "issue": 6088,
+    "projectUrl": "https://github.com/mambalabsdev/mcp-gtm-suite"
   },
   "install": {
     "commands": [
-      "npx -y cloudgpu-mcp"
+      "npx -y @mambalabsdev/mcp-gtm-suite"
     ],
     "env": [
-      "CLOUDGPU_API_KEY"
+      "APIFY_TOKEN"
     ],
     "confidence": "medium"
   },
@@ -27,13 +24,9 @@
     ]
   },
   "clients": [
-    "Claude Code",
+    "Claude Desktop",
     "Cursor",
-    "Cline",
-    "opencode",
-    "goose",
-    "VS Code",
-    "Windsurf"
+    "and other MCP clients that run stdio servers"
   ],
   "license": "MIT"
 }
