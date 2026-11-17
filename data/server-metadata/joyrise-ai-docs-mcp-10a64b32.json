@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "joyrise-ai-docs-mcp-10a64b32",
+  "source": {
+    "issue": 6142,
+    "projectUrl": "https://joyrise.ai/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.joyrise.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Proprietary (hosted service)"
+}
