@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ofir09-tendy-mcp-28b173f8",
+  "source": {
+    "issue": 6147,
+    "projectUrl": "https://github.com/ofir09/tendy-mcp"
+  },
+  "links": {
+    "endpoint": "https://tendy.co.il/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "proprietary"
+}
