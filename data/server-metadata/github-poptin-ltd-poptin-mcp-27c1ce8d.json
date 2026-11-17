@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-poptin-ltd-poptin-mcp-27c1ce8d",
+  "source": {
+    "issue": 6234,
+    "projectUrl": "https://github.com/Poptin-LTD/Poptin-MCP"
+  },
+  "links": {
+    "endpoint": "https://mcp.popt.in/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "and other remote Streamable HTTP/OAuth clients",
+    "see official setup docs."
+  ],
+  "license": "Proprietary hosted implementation; MIT public documentation and configuration"
+}
