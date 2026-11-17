@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-gitranks-contribute-ec0a2118",
+  "source": {
+    "issue": 6135,
+    "projectUrl": "https://github.com/gitranks/contribute"
+  },
+  "links": {
+    "endpoint": "https://mcp.gitranks.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI",
+    "Antigravity"
+  ],
+  "license": "MIT"
+}
