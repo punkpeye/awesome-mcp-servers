@@ -8,13 +8,6 @@
   "links": {
     "endpoint": "https://mcp.gitranks.com/mcp"
   },
-  "install": {
-    "commands": [
-      "MCP Registry name: com.gitranks/contribute"
-    ],
-    "env": [],
-    "confidence": "medium"
-  },
   "transport": [
     "streamable-http"
   ],
