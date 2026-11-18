@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-no-colours-fabric-ncf-agent-interconnect-9d35385c",
+  "source": {
+    "issue": 6209,
+    "projectUrl": "https://github.com/no-colours-fabric/ncf-agent-interconnect"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Codex Desktop",
+    "Claude Code",
+    "Cursor",
+    "OpenCode",
+    "AionUi"
+  ],
+  "license": "BSD-3-Clause"
+}
