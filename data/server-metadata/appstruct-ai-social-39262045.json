@@ -1,0 +1,57 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "appstruct-ai-social-39262045",
+  "source": {
+    "projectUrl": "https://appstruct.ai/social"
+  },
+  "links": {
+    "homepage": "https://appstruct.ai/social?utm_source=tensorblock&utm_medium=referral&utm_campaign=social_mcp_launch_20261114",
+    "docs": "https://blog.appstruct.ai/blog/social-media-mcp-server?utm_source=tensorblock&utm_medium=referral&utm_campaign=social_mcp_launch_20261114",
+    "endpoint": "https://api.appstruct.ai/v1/social/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "APPSTRUCT_SOCIAL_MCP_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Requires an AppStruct account with Social access and a scoped workspace API key.",
+      "Set Authorization: Bearer <your workspace API key> in the compatible client; do not place the key in the URL.",
+      "The current generic directory preview emits a URL only and does not configure the required header. Use the linked official client configs before connecting."
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "Claude Code"
+  ],
+  "tools": {
+    "count": 7,
+    "names": [
+      "social_list_channels",
+      "social_list_posts",
+      "social_get_post",
+      "social_validate_draft",
+      "social_get_analytics",
+      "social_create_draft",
+      "social_update_draft"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary hosted service; optional MIT client configuration/plugin, not server source.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher-supplied metadata, not TensorBlock verification.",
+      "The public OpenAPI 1.1.0 specification documents seven MCP tools. Available tools depend on social:read, social:drafts:write and social:analytics:read scopes.",
+      "MCP draft operations cannot schedule, publish or delete posts. Missing analytics values are unavailable, not zero.",
+      "No API key or private workspace data is submitted. Generic install confidence is low until the user configures the required Authorization header using the linked setup guide."
+    ]
+  }
+}
