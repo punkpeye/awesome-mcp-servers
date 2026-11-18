@@ -9,15 +9,17 @@
     "endpoint": "https://www.regdatalab.com/mcp"
   },
   "install": {
-    "commands": [],
-    "env": [
-      "FDA_DATA_API_KEY",
-      "YOUR_API_KEY"
+    "commands": [
+      "npx -y fda-data-mcp"
     ],
-    "confidence": "low"
+    "env": [
+      "FDA_DATA_API_KEY"
+    ],
+    "confidence": "medium"
   },
   "transport": [
-    "stdio"
+    "stdio",
+    "streamable-http"
   ],
   "auth": {
     "type": "oauth",
