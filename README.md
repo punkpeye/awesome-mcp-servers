@@ -4017,6 +4017,7 @@ Tools for product planning, customer feedback analysis, and prioritization.
 
 MCP servers for real estate CRM, property management, and agent workflows.
 
+- [donniertf-hub/uk-mcp-fleet](https://uk-planning-mcp.donniertf.workers.dev) 📇 ☁️ - UK planning applications by local planning authority or postcode. Free peek, full results £0.49.
 - [HasData/redfin-mcp](https://github.com/HasData/redfin-mcp) [![HasData/redfin-mcp MCP server](https://glama.ai/mcp/servers/HasData/redfin-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/redfin-mcp) 📇 ☁️ - Redfin for-sale, for-rent and sold listings with full filters, plus complete property pages, as JSON.
 - [HasData/zillow-mcp](https://github.com/HasData/zillow-mcp) [![HasData/zillow-mcp MCP server](https://glama.ai/mcp/servers/HasData/zillow-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/zillow-mcp) 📇 ☁️ - Zillow for-sale, for-rent and sold listings with filters, and full property details (price and tax history, schools, agent), as JSON.
 - [archer-clawbot/thesepticguide-mcp](https://github.com/archer-clawbot/thesepticguide-mcp) [![archer-clawbot/thesepticguide-mcp MCP server](https://glama.ai/mcp/servers/archer-clawbot/thesepticguide-mcp/badges/score.svg)](https://glama.ai/mcp/servers/archer-clawbot/thesepticguide-mcp) 📇 ☁️ 🏠 - U.S. septic licensing by state, license-matched septic companies, and cited septic cost guides.
