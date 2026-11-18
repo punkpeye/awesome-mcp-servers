@@ -2,6 +2,7 @@
 
 Servers providing access to sports-related APIs and analysis.
 
+- [NexRex](https://github.com/NexRex-Dev/nexrex-mcp): AI running coach for workouts, training plans, athlete progress, and team reviews. Hosted Streamable HTTP: `https://mcp.nexrex.ai/mcp`. Sign in with NexRex via OAuth. [Docs](https://docs.nexrex.ai/api-reference/mcp-server). Registry: ai.nexrex/nexrex.
 - [Keel Stats](https://keelstats.com/mcp): NBA and NFL advanced stats for assistants: player and team profiles with ranks, head-to-head history, tonight's games and schedules, Keel Impact ratings and RAPM, EPA per play, defense vs position, injury consequences and game projections. 12 read-only tools; research data only, no picks. Hosted Streamable HTTP endpoint: `https://api.keelstats.com/mcp` (works without an account; OAuth 2.1 sign-in optional for past seasons). The server source is closed. Docs: https://keelstats.com/mcp.
 - [GymFlexa](https://github.com/gymflexa/claude-plugin): Read owned gym configuration, capacity, service catalogs, aggregate schedules and recorded-payment summaries without member records. Hosted Streamable HTTP at `https://mcp.gymflexa.com/mcp`; OAuth account authorization required. [Docs](https://www.gymflexa.com/developers/#mcp). Public connector configuration and workflow skills: Apache-2.0.
 
