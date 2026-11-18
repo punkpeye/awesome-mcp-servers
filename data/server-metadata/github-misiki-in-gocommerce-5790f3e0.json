@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-misiki-in-gocommerce-5790f3e0",
+  "source": {
+    "issue": 6268,
+    "projectUrl": "https://github.com/misiki-in/gocommerce"
+  },
+  "install": {
+    "commands": [
+      "mcp.ServeStdio(app, m)"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "license": "MIT"
+}
