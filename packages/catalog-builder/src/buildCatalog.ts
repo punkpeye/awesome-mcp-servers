@@ -258,7 +258,7 @@ function applyMetadataOverride(
     },
     install: {
       commands: nonEmptyArray(metadata.install?.commands) ?? entry.install.commands,
-      env: nonEmptyArray(metadata.install?.env) ?? entry.install.env,
+      env: metadata.install?.env ?? entry.install.env,
       confidence: metadata.install?.confidence ?? entry.install.confidence,
     },
     transport: nonEmptyArray(metadata.transport) ?? entry.transport,
