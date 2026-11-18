@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stalkchain-fomo-mcp-api-d4167911",
+  "source": {
+    "projectUrl": "https://github.com/StalkChain/fomo-mcp-api"
+  },
+  "links": {
+    "docs": "https://stalkchain.com/mcp",
+    "homepage": "https://data.stalkchain.com/",
+    "endpoint": "https://data.stalkchain.com/mcp"
+  },
+  "transport": ["streamable-http"],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Sign in with StalkChain through OAuth. An account API key is also supported.",
+      "Metered calls use account credits."
+    ]
+  },
+  "clients": ["Claude Code", "Cursor", "Codex", "VS Code"],
+  "license": "MIT for public documentation and client config; hosted server is proprietary"
+}
