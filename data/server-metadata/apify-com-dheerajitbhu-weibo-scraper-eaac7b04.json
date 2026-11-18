@@ -6,7 +6,7 @@
     "projectUrl": "https://apify.com/dheerajitbhu/weibo-scraper?utm_source=tensorblock&utm_medium=directory&utm_campaign=weibo-scraper"
   },
   "links": {
-    "endpoint": "https://mcp.apify.com/?tools=dheerajitbhu/wechat-articles-scraper"
+    "endpoint": "https://mcp.apify.com/?tools=dheerajitbhu/wechat-articles-scraper,dheerajitbhu/weibo-scraper,dheerajitbhu/bilibili-scraper,dheerajitbhu/douban-scraper"
   },
   "transport": [
     "streamable-http"
