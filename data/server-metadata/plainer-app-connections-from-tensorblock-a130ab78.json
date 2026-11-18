@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "plainer-app-connections-from-tensorblock-a130ab78",
+  "source": {
+    "issue": 6221,
+    "projectUrl": "https://plainer.app/connections/from-tensorblock"
+  },
+  "links": {
+    "docs": "https://plainer.app/connections/from-tensorblock",
+    "endpoint": "https://plainer.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth"
+    ]
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #6221. Source: An unauthenticated GET to the hosted MCP endpoint returns a 401 with an OAuth resource metadata link. Discovery lists `files:read` and `files:write`. The authorization server advertises the authorization code grant..."
+    ]
+  },
+  "install": {
+    "confidence": "medium"
+  }
+}
