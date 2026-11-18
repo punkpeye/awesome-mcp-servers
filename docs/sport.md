@@ -2,6 +2,7 @@
 
 Servers providing access to sports-related APIs and analysis.
 
+- [NexRex](https://github.com/NexRex-Dev/nexrex-mcp): AI running coach for workouts, training plans, athlete progress, and team reviews. Hosted Streamable HTTP: `https://mcp.nexrex.ai/mcp`. Sign in with NexRex via OAuth. [Docs](https://docs.nexrex.ai/api-reference/mcp-server). Registry: ai.nexrex/nexrex.
 - [Keel Stats](https://keelstats.com/mcp): NBA and NFL advanced stats for assistants: player and team profiles with ranks, head-to-head history, tonight's games and schedules, Keel Impact ratings and RAPM, EPA per play, defense vs position, injury consequences and game projections. 12 read-only tools; research data only, no picks. Hosted Streamable HTTP endpoint: `https://api.keelstats.com/mcp` (works without an account; OAuth 2.1 sign-in optional for past seasons). The server source is closed. Docs: https://keelstats.com/mcp.
 - [Footalytics](https://github.com/lewis-v/footalytics-skill): Football match predictions for assistants: win/draw/loss probabilities with confidence tiers, over/under 2.5, BTTS, fixtures, team ratings and graded past results for the top leagues. Hosted Streamable HTTP endpoint: `https://footalytics.farvor.com/mcp` (OAuth 2.1 one-click; free API keys optional). Official MCP registry: `com.farvor/footalytics`. Docs: https://footalytics.farvor.com/skill.
 
