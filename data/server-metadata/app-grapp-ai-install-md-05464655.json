@@ -18,9 +18,8 @@
     ]
   },
   "clients": [
-    "Claude (web",
-    "desktop",
-    "Claude Code)",
+    "Claude",
+    "Claude Code",
     "ChatGPT",
     "Mistral Le Chat",
     "Dust",
