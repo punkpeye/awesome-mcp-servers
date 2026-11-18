@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-klingai-tech-claude-plugin-22f9eb0c",
+  "source": {
+    "issue": 6350,
+    "projectUrl": "https://github.com/klingai-tech/claude-plugin"
+  },
+  "description": "Official Kling AI Global hosted MCP for image and video generation, reference-image workflows, reusable Elements, motion control and task tracking. OAuth uses a Global-region Kling account; generation consumes that account's credits. Global and China accounts and credits are separate.",
+  "links": {
+    "docs": "https://kling.ai/app/mcp/guide"
+  },
+  "install": {
+    "commands": [
+      "npm i -g @klingai/cli-global@latest --registry=https://registry.npmjs.org",
+      "npm i -g @klingai/plugin-global@latest --registry=https://registry.npmjs.org --allow-scripts=@klingai/plugin-global"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth with a Global-region Kling account; generation uses account credits."
+    ]
+  },
+  "clients": [
+    "Claude Code plugin",
+    "Gemini CLI extension",
+    "and MCP clients that support Streamable HTTP and OAuth. See the package page for the npm plugin's supported local assistants."
+  ],
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #6350. Source: Sources: - Current official Global Claude Code plugin and Gemini CLI extension repo: https://github.com/klingai-tech/claude-plugin - Official Kling MCP setup guide: https://kling.ai/app/mcp/guide - Official Global..."
+    ]
+  }
+}
