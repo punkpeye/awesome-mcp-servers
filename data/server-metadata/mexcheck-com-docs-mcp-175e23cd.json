@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mexcheck-com-docs-mcp-175e23cd",
+  "source": {
+    "issue": 6251,
+    "projectUrl": "https://mexcheck.com/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://mexcheck.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ]
+}
