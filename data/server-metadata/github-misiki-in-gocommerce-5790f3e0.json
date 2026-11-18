@@ -5,14 +5,8 @@
     "issue": 6268,
     "projectUrl": "https://github.com/misiki-in/gocommerce"
   },
-  "install": {
-    "commands": [
-      "mcp.ServeStdio(app, m)"
-    ],
-    "env": [],
-    "confidence": "medium"
-  },
   "transport": [
+    "stdio",
     "streamable-http"
   ],
   "auth": {

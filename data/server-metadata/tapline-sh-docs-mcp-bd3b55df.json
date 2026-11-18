@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tapline-sh-docs-mcp-bd3b55df",
+  "source": {
+    "issue": 6243,
+    "projectUrl": "https://tapline.sh/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.tapline.sh/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "proprietary hosted service (no public source repository)"
+}
