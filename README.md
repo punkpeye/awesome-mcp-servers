@@ -138,6 +138,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
+- [MCP Saga](https://github.com/hochart/mcp-saga) 🗄️ - Transactional saga and compensating rollback proxy for MCP tool execution.
 
 Servers for accessing many apps and tools through a single MCP server.
 - [actimod/onaa-protocol](https://github.com/actimod/onaa-protocol) [![actimod/onaa-protocol MCP server](https://glama.ai/mcp/servers/actimod/onaa-protocol/badges/score.svg)](https://glama.ai/mcp/servers/actimod/onaa-protocol) 🐍 ☁️ - Find stores where AI agents reach checkout (payment not tested), with tested checkout steps; hosted at api.onaa.net/mcp or run locally.
