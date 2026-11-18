@@ -6,15 +6,13 @@
     "projectUrl": "https://github.com/alexgaoth/awesome-reverse-engineered"
   },
   "links": {
-    "endpoint": "https://github.com/alexgaoth/awesome-reverse-engineered/tree/main/mcp"
+    "docs": "https://github.com/alexgaoth/awesome-reverse-engineered/tree/main/mcp"
   },
   "install": {
     "commands": [
       "uvx --from \"git+https://github.com/alexgaoth/awesome-reverse-engineered#subdirectory=mcp\" reverse-engineered-mcp"
     ],
-    "env": [
-      "GITHUB_TOKEN"
-    ],
+    "env": [],
     "confidence": "medium"
   },
   "transport": [
