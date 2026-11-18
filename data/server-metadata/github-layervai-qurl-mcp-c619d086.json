@@ -38,7 +38,7 @@
   "verification": {
     "status": "partial",
     "notes": [
-      "On 2026-11-17 the released @layervai/qurl-mcp@0.11.4 passed MCP initialize and tools/list without an API key. Local sharing tools were present. No sharing tool or remote HTTP authentication was tested in this metadata check."
+      "On 2026-11-17 @layervai/qurl-mcp@0.11.4 started and listed its sharing tools without an API key."
     ]
   }
 }
