@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-alexgaoth-awesome-reverse-engineered-17de07d1",
+  "source": {
+    "issue": 6266,
+    "projectUrl": "https://github.com/alexgaoth/awesome-reverse-engineered"
+  },
+  "links": {
+    "docs": "https://github.com/alexgaoth/awesome-reverse-engineered/tree/main/mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx --from \"git+https://github.com/alexgaoth/awesome-reverse-engineered#subdirectory=mcp\" reverse-engineered-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "other stdio clients"
+  ],
+  "license": "MIT (code), CC0 (data)"
+}
