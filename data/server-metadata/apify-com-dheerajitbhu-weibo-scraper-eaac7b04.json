@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "apify-com-dheerajitbhu-weibo-scraper-eaac7b04",
+  "source": {
+    "issue": 6237,
+    "projectUrl": "https://apify.com/dheerajitbhu/weibo-scraper?utm_source=tensorblock&utm_medium=directory&utm_campaign=weibo-scraper"
+  },
+  "links": {
+    "endpoint": "https://mcp.apify.com/?tools=dheerajitbhu/wechat-articles-scraper,dheerajitbhu/weibo-scraper,dheerajitbhu/bilibili-scraper,dheerajitbhu/douban-scraper"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "ChatGPT (any client that supports remote Streamable HTTP MCP)"
+  ],
+  "license": "Proprietary hosted service"
+}
