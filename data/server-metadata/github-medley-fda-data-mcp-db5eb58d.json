@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-medley-fda-data-mcp-db5eb58d",
+  "source": {
+    "issue": 6257,
+    "projectUrl": "https://github.com/medley/fda-data-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.regdatalab.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y fda-data-mcp"
+    ],
+    "env": [
+      "FDA_DATA_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Claude Code",
+    "Codex"
+  ],
+  "license": "MIT"
+}
