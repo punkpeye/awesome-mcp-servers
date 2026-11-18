@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-reggiebro-oppi-digital-products-310ae29c",
+  "source": {
+    "projectUrl": "https://github.com/Reggiebro/oppi-digital-products"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}
