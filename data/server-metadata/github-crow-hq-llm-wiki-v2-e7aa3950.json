@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-crow-hq-llm-wiki-v2-e7aa3950",
+  "source": {
+    "issue": 6229,
+    "projectUrl": "https://github.com/crow-hq/llm-wiki-v2"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "any MCP client"
+  ],
+  "license": "AGPL-3.0-or-later"
+}
