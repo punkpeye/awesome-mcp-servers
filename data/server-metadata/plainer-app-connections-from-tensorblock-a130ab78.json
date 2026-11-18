@@ -23,5 +23,8 @@
     "notes": [
       "Metadata updated from issue #6221. Source: An unauthenticated GET to the hosted MCP endpoint returns a 401 with an OAuth resource metadata link. Discovery lists `files:read` and `files:write`. The authorization server advertises the authorization code grant..."
     ]
+  },
+  "install": {
+    "confidence": "medium"
   }
 }
