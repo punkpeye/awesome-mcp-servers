@@ -83,6 +83,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
 * 🔗 - [Aggregators](#aggregators)
+* - [agent-blackbox-mcp](https://github.com/francaroscillidev-gif/agent-blackbox-mcp) - Flight recorder and runtime doctor for AI coding agents: instant filesystem undo/rollback, automated port collision/EADDRINUSE diagnostics, and execution reproducibility.
 * 🤝 - [Agreements & Coordination](#agreements--coordination)
 * 🎨 - [Art & Culture](#art-and-culture)
 * 📐 - [Architecture & Design](#architecture-and-design)
