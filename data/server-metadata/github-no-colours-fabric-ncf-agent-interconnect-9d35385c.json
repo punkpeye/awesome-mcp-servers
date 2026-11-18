@@ -16,11 +16,10 @@
   },
   "clients": [
     "Codex Desktop",
-    "Claude Code with compatible mods",
+    "Claude Code",
     "Cursor",
-    "OpenCode with the bundled v1 plugin",
-    "and AionUi with Cursor Agent. See the client guide for version",
-    "platform and delivery differences."
+    "OpenCode",
+    "AionUi"
   ],
   "license": "BSD-3-Clause"
 }
