@@ -9,7 +9,9 @@
     "homepage": "https://data.stalkchain.com/",
     "endpoint": "https://data.stalkchain.com/mcp"
   },
-  "transport": ["streamable-http"],
+  "transport": [
+    "streamable-http"
+  ],
   "auth": {
     "type": "oauth",
     "notes": [
@@ -17,6 +19,11 @@
       "Metered calls use account credits."
     ]
   },
-  "clients": ["Claude Code", "Cursor", "Codex", "VS Code"],
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
   "license": "MIT for public documentation and client config; hosted server is proprietary"
 }
