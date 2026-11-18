@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "geoboom-io-docs-mcp-a7cbd863",
+  "source": {
+    "issue": 6299,
+    "projectUrl": "https://www.geoboom.io/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.geoboom.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "MCP is included in every GEOboom plan (GEOboom is from $150 a month)."
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "ChatGPT"
+  ]
+}
