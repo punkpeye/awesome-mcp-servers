@@ -2,7 +2,7 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-klingai-tech-claude-plugin-22f9eb0c",
   "source": {
-    "issue": 6350,
+    "issue": 6398,
     "projectUrl": "https://github.com/klingai-tech/claude-plugin"
   },
   "description": "Official Kling AI Global hosted MCP for image and video generation, reference-image workflows, reusable Elements, motion control and task tracking. OAuth uses a Global-region Kling account; generation consumes that account's credits. Global and China accounts and credits are separate.",
@@ -20,14 +20,31 @@
     ]
   },
   "clients": [
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "Claude web/desktop",
     "Claude Code",
     "Gemini CLI",
-    "MCP clients supporting Streamable HTTP and OAuth"
+    "and MCP clients supporting Streamable HTTP and OAuth. The Cursor",
+    "ChatGPT/Codex",
+    "Claude",
+    "and Gemini repositories/packages are client-side integrations",
+    "the remote MCP service is hosted at the endpoint above."
   ],
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Setup metadata submitted in #6350 and checked against the official Global plugin documentation. Runtime connection not tested."
+      "Setup metadata submitted in #6350 and checked against the official Global plugin documentation. Runtime connection not tested.",
+      "Metadata updated from issue #6398. Source: - Global remote endpoint and OAuth setup: https://kling.ai/app/mcp/guide - Claude plugin and Gemini CLI extension: https://github.com/klingai-tech/claude-plugin - Cursor client plugin:..."
     ]
+  },
+  "install": {
+    "commands": [
+      "npm i -g @klingai/cli-global@latest --registry=https://registry.npmjs.org",
+      "npm i -g @klingai/plugin-global@latest --registry=https://registry.npmjs.org --allow-scripts=@klingai/plugin-global"
+    ],
+    "env": [],
+    "confidence": "medium"
   }
 }
