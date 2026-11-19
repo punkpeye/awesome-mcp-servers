@@ -18,5 +18,8 @@
     "Codex",
     "VS Code"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MGM-FALCON/quelllm-mcp"
+  }
 }
