@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aleksandrjefimov4-crypto-cheapcarent-mcp-d1603ee2",
+  "source": {
+    "issue": 6332,
+    "projectUrl": "https://github.com/aleksandrjefimov4-crypto/cheapcarent-mcp"
+  },
+  "links": {
+    "endpoint": "https://cheapcarent.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cursor",
+    "Claude Desktop",
+    "ChatGPT (documented in the project README)"
+  ],
+  "license": "MIT"
+}
