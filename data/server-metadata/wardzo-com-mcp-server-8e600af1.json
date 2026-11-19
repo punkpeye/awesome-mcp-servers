@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "wardzo-com-mcp-server-8e600af1",
+  "source": {
+    "issue": 6345,
+    "projectUrl": "https://wardzo.com/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://wardzo.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "Proprietary (hosted service, no public repo)"
+}

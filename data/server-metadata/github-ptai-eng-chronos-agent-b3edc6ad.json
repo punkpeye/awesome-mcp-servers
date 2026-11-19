@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ptai-eng-chronos-agent-b3edc6ad",
+  "source": {
+    "issue": 6371,
+    "projectUrl": "https://github.com/ptai-eng/chronos-agent"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Antigravity",
+    "OpenCode"
+  ],
+  "license": "MIT"
+}
