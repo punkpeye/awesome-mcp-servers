@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-deemostech-rodin-api-mcp-e6a32293",
+  "source": {
+    "issue": 6358,
+    "projectUrl": "https://github.com/DeemosTech/rodin-api-mcp"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository was archived by its owner; source and MCP setup documentation remain accessible as checked on 2026-11-19. The entry remains indexed as an archived reference; current runtime compatibility is unverified."
+    ]
+  }
+}
