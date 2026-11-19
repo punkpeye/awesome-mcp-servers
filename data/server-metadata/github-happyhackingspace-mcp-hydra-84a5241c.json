@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-happyhackingspace-mcp-hydra-84a5241c",
+  "source": {
+    "issue": 6360,
+    "projectUrl": "https://github.com/HappyHackingSpace/mcp-hydra"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository was archived by its owner; source and MCP setup documentation remain accessible as checked on 2026-11-19. The entry remains indexed as an archived reference; current runtime compatibility is unverified."
+    ]
+  }
+}
