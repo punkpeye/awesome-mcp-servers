@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-weareaudiofile-fidelia-mcp-fc1c69fa",
+  "source": {
+    "issue": 6307,
+    "projectUrl": "https://github.com/weareaudiofile/fidelia-mcp"
+  },
+  "links": {
+    "endpoint": "http://127.0.0.1:38412/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Codex"
+  ],
+  "license": "MIT (this repository: the Claude extension, Claude Code plugin and bridge). The app itself is proprietary."
+}
