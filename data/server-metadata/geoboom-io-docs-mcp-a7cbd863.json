@@ -8,13 +8,6 @@
   "links": {
     "endpoint": "https://api.geoboom.io/mcp"
   },
-  "install": {
-    "commands": [
-      "MCP is included in every GEOboom plan (GEOboom is from $150 a month)."
-    ],
-    "env": [],
-    "confidence": "medium"
-  },
   "transport": [
     "streamable-http"
   ],

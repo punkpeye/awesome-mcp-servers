@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-walkover-mcp-embarko-f7d4d760",
+  "source": {
+    "issue": 6369,
+    "projectUrl": "https://github.com/walkover-mcp/embarko"
+  },
+  "links": {
+    "endpoint": "https://mcp.embarko.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop"
+  ],
+  "license": "MIT"
+}
