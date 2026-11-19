@@ -7,7 +7,7 @@
   },
   "install": {
     "commands": [
-      "npm i -g tunnel-use"
+      "tunnel mcp"
     ],
     "env": [],
     "confidence": "medium"
