@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "apify-com-dheerajitbhu-woocommerce-products-scraper-2a153119",
+  "source": {
+    "issue": 6336,
+    "projectUrl": "https://apify.com/dheerajitbhu/woocommerce-products-scraper?utm_source=tensorblock&utm_medium=directory&utm_campaign=woocommerce-products-scraper"
+  },
+  "links": {
+    "endpoint": "https://mcp.apify.com/?tools=dheerajitbhu/woocommerce-products-scraper"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "ChatGPT (any client that supports remote Streamable HTTP MCP)"
+  ],
+  "license": "Proprietary hosted service"
+}

@@ -8,20 +8,13 @@
   "links": {
     "endpoint": "https://mcp.postfa.st/mcp"
   },
-  "install": {
-    "commands": [],
-    "env": [
-      "POSTFAST_API_KEY"
-    ],
-    "confidence": "low"
-  },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "oauth",
     "notes": [
-      "oauth"
+      "OAuth, or an account API key as a Bearer token."
     ]
   },
   "clients": [
