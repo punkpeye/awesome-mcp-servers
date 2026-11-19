@@ -18,9 +18,7 @@
     ]
   },
   "clients": [
-    "Claude (web",
-    "desktop",
-    "mobile)",
+    "Claude (web, desktop, mobile)",
     "Claude Code",
     "ChatGPT",
     "Cursor",
