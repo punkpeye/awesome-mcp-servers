@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-pynesys-claude-autoapprove-mcp-237e9796",
+  "source": {
+    "issue": 6362,
+    "projectUrl": "https://github.com/PyneSys/claude_autoapprove_mcp"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository was archived by its owner; source and MCP setup documentation remain accessible as checked on 2026-11-19. The entry remains indexed as an archived reference; current runtime compatibility is unverified."
+    ]
+  }
+}
