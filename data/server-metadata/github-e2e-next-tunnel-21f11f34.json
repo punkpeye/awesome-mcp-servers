@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-e2e-next-tunnel-21f11f34",
+  "source": {
+    "issue": 6354,
+    "projectUrl": "https://github.com/e2e-next/tunnel"
+  },
+  "install": {
+    "commands": [
+      "tunnel mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}
