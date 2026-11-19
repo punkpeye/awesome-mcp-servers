@@ -2,7 +2,8 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-stalkchain-fomo-mcp-api-d4167911",
   "source": {
-    "projectUrl": "https://github.com/StalkChain/fomo-mcp-api"
+    "projectUrl": "https://github.com/StalkChain/fomo-mcp-api",
+    "issue": 6293
   },
   "links": {
     "docs": "https://stalkchain.com/mcp",
@@ -25,5 +26,19 @@
     "Codex",
     "VS Code"
   ],
-  "license": "MIT for public documentation and client config; hosted server is proprietary"
+  "license": "MIT for public documentation and client config; hosted server is proprietary",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @StalkChain in #6293 under the community profile-claim process.",
+      "Requested profile metadata in #6293: - Publisher: StalkChain - Docs: https://stalkchain.com/mcp - Developer guide: https://github.com/StalkChain/fomo-mcp-api - Streamable HTTP: https://data.stalkchain.com/mcp - Authentication: StalkChain OAuth or..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@StalkChain"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
