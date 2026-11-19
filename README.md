@@ -5350,6 +5350,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Rai220/think-mcp](https://github.com/Rai220/think-mcp) 🐍 🏠 - Improve agent reasoning with the think tool described by Anthropic.
 - [rember/rember-mcp](https://github.com/rember/rember-mcp) 📇 🏠 - Create spaced-repetition flashcards in Rember to remember what you learn in your chats.
 - [ReplenishRadar/MCP](https://github.com/ReplenishRadar/MCP) [![ReplenishRadar/MCP MCP server](https://glama.ai/mcp/servers/ReplenishRadar/MCP/badges/score.svg)](https://glama.ai/mcp/servers/ReplenishRadar/MCP) 📇 ☁️ - Inventory intelligence for Shopify and Amazon sellers: stockout risk, demand forecasts, purchase orders and sales analytics. Writes create drafts only.
+- - [roarose/stemseal](https://github.com/roarose/stemseal) 🐍 🏠 🍎 🪟 🐧 - Verified, sha256-locked calculation cells (wages, VAT, currency, growth rates, margins, percentiles) that small local LLMs call instead of guessing. Per-model guides repair common tool-call mistakes; a missing cell becomes a request.
 - [roychri/mcp-server-asana](https://github.com/roychri/mcp-server-asana) 📇 ☁️ - Interact with the Asana API.
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md) 🐍 🏠 - Autonomous shell execution, computer control and coding agent for Mac.
 - [SecretiveShell/MCP-wolfram-alpha](https://github.com/SecretiveShell/MCP-wolfram-alpha) 🐍 ☁️ - Query the Wolfram Alpha API.
