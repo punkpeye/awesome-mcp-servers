@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "geoboom-io-docs-mcp-a7cbd863",
+  "source": {
+    "issue": 6299,
+    "projectUrl": "https://www.geoboom.io/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.geoboom.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "ChatGPT"
+  ]
+}

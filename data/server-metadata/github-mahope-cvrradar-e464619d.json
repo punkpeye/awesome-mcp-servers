@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mahope-cvrradar-e464619d",
+  "source": {
+    "issue": 6297,
+    "projectUrl": "https://github.com/mahope/cvrradar"
+  },
+  "links": {
+    "endpoint": "https://mcp.cvrradar.dk/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "MIT"
+}
