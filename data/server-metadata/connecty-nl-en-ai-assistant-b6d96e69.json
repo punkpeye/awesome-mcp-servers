@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "connecty-nl-en-ai-assistant-b6d96e69",
+  "source": {
+    "issue": 6303,
+    "projectUrl": "https://connecty.nl/en/ai-assistant"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @connectybot in #6303; maintainer identity is self-reported, not independent runtime verification."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@connectybot"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
