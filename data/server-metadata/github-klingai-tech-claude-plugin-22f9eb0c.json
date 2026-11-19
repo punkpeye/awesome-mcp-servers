@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-klingai-tech-claude-plugin-22f9eb0c",
+  "source": {
+    "issue": 6350,
+    "projectUrl": "https://github.com/klingai-tech/claude-plugin"
+  },
+  "description": "Official Kling AI Global hosted MCP for image and video generation, reference-image workflows, reusable Elements, motion control and task tracking. OAuth uses a Global-region Kling account; generation consumes that account's credits. Global and China accounts and credits are separate.",
+  "links": {
+    "docs": "https://kling.ai/app/mcp/guide",
+    "endpoint": "https://kling.ai/mcp/plugin"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth with a Global-region Kling account; generation uses account credits."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Gemini CLI",
+    "MCP clients supporting Streamable HTTP and OAuth"
+  ],
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Setup metadata submitted in #6350 and checked against the official Global plugin documentation. Runtime connection not tested."
+    ]
+  }
+}
