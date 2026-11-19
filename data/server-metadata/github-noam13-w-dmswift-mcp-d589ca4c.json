@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-noam13-w-dmswift-mcp-d589ca4c",
+  "source": {
+    "issue": 6348,
+    "projectUrl": "https://github.com/Noam13-w/dmswift-mcp"
+  },
+  "links": {
+    "endpoint": "https://app.dmswift.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web, desktop, mobile)",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Gemini",
+    "Grok",
+    "Perplexity",
+    "n8n"
+  ],
+  "license": "MIT (documentation and examples); the hosted service is commercial"
+}
