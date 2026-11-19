@@ -108,6 +108,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🌳 - [Environment & Nature](#environment-and-nature)
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
+* - [auragridcorp-rgb/auragrid](https://github.com/auragridcorp-rgb/auragrid) 🐍 ☁️ - Bitcoin fee and Lightning network data from AurAgrid's own nodes (L402, free delayed samples) and free U.S. EIA, USGS and NOAA feeds; responses signed by the node key.
 * 🎮 - [Gaming](#gaming)
 * 🏠 - [Home Automation](#home-automation)
 * 🪪 - [Identity](#identity)
