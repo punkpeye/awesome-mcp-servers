@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mnema-work-mnema-9bbdf279",
+  "source": {
+    "issue": 6423,
+    "projectUrl": "https://github.com/mnema-work/mnema"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI",
+    "GitHub Copilot CLI",
+    "OpenCode"
+  ],
+  "license": "Apache-2.0"
+}
