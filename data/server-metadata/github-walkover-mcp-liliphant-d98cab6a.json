@@ -18,7 +18,8 @@
     ]
   },
   "clients": [
-    "any MCP client with Streamable HTTP + OAuth (e.g. Claude Code",
-    "Cline)"
+    "Claude Code",
+    "Cline",
+    "MCP clients supporting Streamable HTTP and OAuth"
   ]
 }
