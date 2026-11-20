@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-swayammaheshwari-docstar-mcp-d0872d57",
+  "source": {
+    "issue": 6402,
+    "projectUrl": "https://github.com/swayammaheshwari/docstar-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.docstar.io/mcp"
+  },
+  "transport": [
+    "sse",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cline"
+  ],
+  "license": "MIT"
+}
