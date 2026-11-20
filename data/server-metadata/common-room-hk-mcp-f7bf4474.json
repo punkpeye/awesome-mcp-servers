@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "common-room-hk-mcp-f7bf4474",
+  "source": {
+    "issue": 6395,
+    "projectUrl": "https://www.common-room.hk/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.common-room.hk/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client that supports remote Streamable HTTP servers"
+  ],
+  "license": "Proprietary (hosted service)"
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "schedchie-com-ai-ae5ef293",
+  "source": {
+    "issue": 5690,
+    "projectUrl": "https://www.schedchie.com/ai"
+  },
+  "links": {
+    "endpoint": "https://mcp.schedchie.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI"
+  ],
+  "license": "Proprietary hosted service; configuration files MIT except name and logo."
+}

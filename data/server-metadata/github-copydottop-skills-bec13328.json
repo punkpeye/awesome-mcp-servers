@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-copydottop-skills-bec13328",
+  "source": {
+    "issue": 6018,
+    "projectUrl": "https://github.com/copydottop/skills"
+  },
+  "links": {
+    "endpoint": "https://copy.top/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code"
+  ]
+}

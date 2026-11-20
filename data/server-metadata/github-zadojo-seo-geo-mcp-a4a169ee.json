@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-zadojo-seo-geo-mcp-a4a169ee",
+  "source": {
+    "issue": 5976,
+    "projectUrl": "https://github.com/zadojo/seo-geo-mcp"
+  },
+  "links": {
+    "endpoint": "https://app.zadojo.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Remote server: https://app.zadojo.com/mcp (OAuth 2.1 sign-in, or API key header). Claude Code: `claude mcp add --transport http zadojo https://app.zadojo.com/mcp`. Docs: https://zadojo.com/docs/mcp"
+    ]
+  }
+}

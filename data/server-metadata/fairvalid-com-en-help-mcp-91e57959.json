@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "fairvalid-com-en-help-mcp-91e57959",
+  "source": {
+    "issue": 5851,
+    "projectUrl": "https://fairvalid.com/en/help/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.fairvalid.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "The official [public setup guide](https://fairvalid.com/en/help/mcp) documents the available client-specific setup paths."
+  ],
+  "license": "Vendor-hosted service; the server implementation is not distributed by this listing."
+}

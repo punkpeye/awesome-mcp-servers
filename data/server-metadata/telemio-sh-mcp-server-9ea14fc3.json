@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "telemio-sh-mcp-server-9ea14fc3",
+  "source": {
+    "issue": 5854,
+    "projectUrl": "https://telemio.sh/mcp-server"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @wundercorp in #5854 under the community profile-claim process.",
+      "Requested profile metadata in #5854: Category: Monitoring & Observability Transport: streamable-http Auth: oauth Install confidence: high License: Proprietary Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@wundercorp"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

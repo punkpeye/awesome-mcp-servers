@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-plsoulie-agentdrive-228f6d4d",
+  "source": {
+    "issue": 5936,
+    "projectUrl": "https://github.com/plsoulie/agentdrive"
+  },
+  "links": {
+    "endpoint": "https://useagentdrive.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Claude Desktop",
+    "---",
+    "Website: https://useagentdrive.com. Also in the official MCP Registry as com.useagentdrive/agentdrive. Free drive of 500 MB",
+    "paid plan $9/month."
+  ]
+}

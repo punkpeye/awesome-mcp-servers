@@ -2,6 +2,7 @@
 
 Toolkits, SDKs, starter templates, or code frameworks designed to help developers easily build MCP-compliant servers or applications.
 
+- [copilotzhq/copilotz](https://github.com/copilotzhq/copilotz): Open-source TypeScript runtime for apps used by people, the app's own agents and AI assistants (ChatGPT, Claude, Gemini) over MCP. Every caller goes through the same Actions, under the same access rules, and is written to one record of who did what, for whom. Runs on Node.js 24+, Deno and Bun. MIT.
 - [A7mdMe/mcp-production-kit](https://github.com/A7mdMe/mcp-production-kit): Enterprise TypeScript starter kit for Model Context Protocol servers. Features dual transport (stdio/SSE), SSRF-guarded HTTP fetch, namespaced KV memory store, zero-leak stderr logging, and Docker support. Evaluated with Grade B on Glama. MIT.
 - [simtlix/simfinity.js](https://github.com/simtlix/simfinity.js): Node.js library that exposes selected GraphQL queries and mutations as MCP tools through the optional `@simtlix/simfinity-mcp` package. Supports stdio and Streamable HTTP; applications supply their schema, authentication, and trusted context. Database-independent and Apache-2.0. [Setup and examples](https://simtlix.github.io/simfinity.js/guide/mcp.html).
 - [actionhero/keryx](https://github.com/actionhero/keryx): Fullstack TypeScript framework for MCP and APIs on Bun. One Action can serve HTTP, WebSocket, CLI, background tasks, and MCP tools with OAuth 2.1 and streaming support. npm package: `keryx`. MIT.

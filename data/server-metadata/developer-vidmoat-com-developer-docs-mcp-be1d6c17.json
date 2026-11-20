@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "developer-vidmoat-com-developer-docs-mcp-be1d6c17",
+  "source": {
+    "issue": 5844,
+    "projectUrl": "https://developer.vidmoat.com/developer/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.vidmoat.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "other MCP clients"
+  ],
+  "license": "proprietary (hosted service)"
+}

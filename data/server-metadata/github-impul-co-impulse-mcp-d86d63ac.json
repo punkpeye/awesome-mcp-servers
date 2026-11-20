@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-impul-co-impulse-mcp-d86d63ac",
+  "source": {
+    "issue": 5899,
+    "projectUrl": "https://github.com/impul-co/impulse-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.impul.co/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "MCP clients that support remote HTTP MCP with OAuth."
+  ],
+  "license": "MIT (public documentation and registry-metadata repository). The hosted server source is not in that repo."
+}

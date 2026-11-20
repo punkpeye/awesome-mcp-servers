@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "remoteimpact-org-developers-2373cc41",
+  "source": {
+    "issue": 5778,
+    "projectUrl": "https://remoteimpact.org/developers/"
+  },
+  "links": {
+    "endpoint": "https://remoteimpact.org/mcp/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client that supports remote Streamable HTTP servers (e.g. Claude",
+    "Cursor",
+    "Codex)."
+  ],
+  "license": "Proprietary hosted service (no source repository)"
+}

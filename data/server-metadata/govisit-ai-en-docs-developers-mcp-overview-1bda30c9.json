@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "govisit-ai-en-docs-developers-mcp-overview-1bda30c9",
+  "source": {
+    "issue": 5738,
+    "projectUrl": "https://govisit.ai/en/docs/developers/mcp/overview"
+  },
+  "links": {
+    "endpoint": "https://govisit.ai/mcp",
+    "docs": "https://govisit.ai/en/docs/developers/mcp/overview"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "tools": {
+    "count": 22,
+    "source": "self_reported"
+  },
+  "license": "GoVisit Data Use License: https://govisit.ai/en/docs/general/data-use-license",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata from #5766; MCP initialize checked, tool execution not tested. Hosted service has no public server source repository."
+    ]
+  }
+}

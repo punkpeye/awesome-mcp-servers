@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sahbis-ai-sitecomb-mcp-65db960a",
+  "source": {
+    "issue": 6063,
+    "projectUrl": "https://github.com/Sahbis-AI/sitecomb-mcp"
+  },
+  "links": {
+    "endpoint": "https://sitecomb.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "any client that supports remote MCP servers"
+  ]
+}

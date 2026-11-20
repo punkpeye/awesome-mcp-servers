@@ -212,3 +212,24 @@ describe("Codex native configuration", () => {
     expect(() => generateClientConfig(entry, "cursor")).not.toThrow();
   });
 });
+
+
+describe("explicit environment metadata", () => {
+  it.each([
+    { label: "omitted", env: undefined, expected: ["API_KEY"] },
+    { label: "empty", env: [], expected: [] },
+    { label: "replacement", env: ["CUSTOM_KEY"], expected: ["CUSTOM_KEY"] },
+  ])("honors $label environment overrides in generated installs", ({ env, expected }) => {
+    const markdown = "## Development\n- [Example](https://github.com/example/mcp): Install `npx example-mcp`. Optional API_KEY.";
+    const inferred = buildCatalogFromMarkdown(markdown, new Map()).entries[0];
+    expect(inferred.install.env).toEqual(["API_KEY"]);
+    const entry = buildCatalogFromMarkdown(markdown, new Map(), new Map([
+      [inferred.id, { install: { env } }],
+    ])).entries[0];
+    expect(entry.install.env).toEqual(expected);
+    const config = generateClientConfig(entry, "claude").config.mcpServers[entry.id];
+    expect("env" in config ? config.env : undefined).toEqual(
+      expected.length ? Object.fromEntries(expected.map(name => [name, `<${name}>`])) : undefined,
+    );
+  });
+});
