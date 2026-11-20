@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cerebrixos-org-brand-mcp-servers-1f61acf4",
+  "source": {
+    "issue": 6469,
+    "projectUrl": "https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/cerebrixos"
+  },
+  "links": {
+    "endpoint": "https://forwardeployed.work/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (claude.ai",
+    "Claude Desktop",
+    "Claude Code) and other clients that support remote MCP with OAuth"
+  ],
+  "license": "Proprietary (hosted service)"
+}
