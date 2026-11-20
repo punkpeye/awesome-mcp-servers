@@ -5,6 +5,19 @@
     "issue": 6303,
     "projectUrl": "https://connecty.nl/en/ai-assistant"
   },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @connectybot in #6303; maintainer identity is self-reported, not independent runtime verification."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@connectybot"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
   "links": {
     "endpoint": "https://connecty.nl/mcp"
   },
@@ -31,18 +44,5 @@
     ],
     "source": "self_reported"
   },
-  "license": "Proprietary (hosted service)",
-  "verification": {
-    "status": "self_reported",
-    "notes": [
-      "Profile claimed by @connectybot in #6303; maintainer identity is self-reported, not independent runtime verification."
-    ]
-  },
-  "community": {
-    "maintainedBy": [
-      "@connectybot"
-    ],
-    "verifiedBy": [],
-    "claimed": true
-  }
+  "license": "Proprietary (hosted service)"
 }

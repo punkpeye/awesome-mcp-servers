@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-infrarabbit-mcp-3065bb8a",
+  "source": {
+    "issue": 6400,
+    "projectUrl": "https://github.com/InfraRabbit/mcp"
+  },
+  "links": {
+    "endpoint": "https://infrarabbit.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
