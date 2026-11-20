@@ -16,7 +16,8 @@
   "auth": {
     "type": "oauth",
     "notes": [
-      "OAuth with a Global-region Kling account; generation uses account credits."
+      "OAuth with a Global-region Kling account; generation uses account credits.",
+      "Official npm CLI and plugin packages are alternative client integrations, not local MCP server implementations. See the official plugin documentation for setup."
     ]
   },
   "clients": [
@@ -26,11 +27,7 @@
     "Claude web/desktop",
     "Claude Code",
     "Gemini CLI",
-    "and MCP clients supporting Streamable HTTP and OAuth. The Cursor",
-    "ChatGPT/Codex",
-    "Claude",
-    "and Gemini repositories/packages are client-side integrations",
-    "the remote MCP service is hosted at the endpoint above."
+    "MCP clients supporting Streamable HTTP and OAuth"
   ],
   "verification": {
     "status": "self_reported",
@@ -38,13 +35,5 @@
       "Setup metadata submitted in #6350 and checked against the official Global plugin documentation. Runtime connection not tested.",
       "Metadata updated from issue #6398. Source: - Global remote endpoint and OAuth setup: https://kling.ai/app/mcp/guide - Claude plugin and Gemini CLI extension: https://github.com/klingai-tech/claude-plugin - Cursor client plugin:..."
     ]
-  },
-  "install": {
-    "commands": [
-      "npm i -g @klingai/cli-global@latest --registry=https://registry.npmjs.org",
-      "npm i -g @klingai/plugin-global@latest --registry=https://registry.npmjs.org --allow-scripts=@klingai/plugin-global"
-    ],
-    "env": [],
-    "confidence": "medium"
   }
 }
