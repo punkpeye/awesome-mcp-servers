@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-frankshan001-cutvoke-137b1b53",
+  "source": {
+    "issue": 5703,
+    "projectUrl": "https://github.com/frankShan001/CutVoke"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Claude Desktop",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}

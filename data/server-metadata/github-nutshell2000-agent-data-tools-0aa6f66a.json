@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nutshell2000-agent-data-tools-0aa6f66a",
+  "source": {
+    "issue": 5978,
+    "projectUrl": "https://github.com/Nutshell2000/agent-data-tools"
+  },
+  "links": {
+    "endpoint": "https://agent-data-tools.revmesh2074.workers.dev/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "AGENT_DATA_TOOLS_KEY",
+      "AGENT_DATA_TOOLS_WALLET_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Cline",
+    "Windsurf",
+    "any streamable-HTTP MCP client"
+  ],
+  "license": "unknown"
+}

@@ -1,0 +1,89 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "pageree-com-1fa2ed0e",
+  "source": {
+    "projectUrl": "https://pageree.com"
+  },
+  "links": {
+    "docs": "https://pageree.com/docs",
+    "homepage": "https://pageree.com",
+    "endpoint": "https://mcp.pageree.com/"
+  },
+  "install": {
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic client registration and PKCE (S256); the client opens the Pageree sign-in in the browser. Requires a Pageree account.",
+      "An unauthenticated request returns 401 with WWW-Authenticate pointing at https://mcp.pageree.com/.well-known/oauth-protected-resource."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI",
+    "Windsurf",
+    "Cline",
+    "OpenCode"
+  ],
+  "tools": {
+    "count": 39,
+    "names": [
+      "whoami",
+      "list_pages",
+      "get_page_information",
+      "save_draft",
+      "get_draft_html",
+      "discard_draft",
+      "publish",
+      "list_versions",
+      "get_published_html",
+      "get_previous_version_html",
+      "rollback",
+      "audit_page",
+      "set_goal",
+      "set_delivery",
+      "set_form_rules",
+      "get_analytics",
+      "generate_image",
+      "search_icons",
+      "upload_asset",
+      "remove_asset",
+      "get_uploaded_page_assets",
+      "custom_domain_set",
+      "custom_domain_status",
+      "custom_domain_remove",
+      "get_subprocessors",
+      "get_skill_overview",
+      "get_skill_discovery",
+      "get_skill_page_structure",
+      "get_skill_best_practices",
+      "get_skill_assets",
+      "get_skill_publish",
+      "get_skill_form_management",
+      "get_skill_privacy_and_consent",
+      "get_skill_delivery_integrations",
+      "get_skill_custom_domains",
+      "get_skill_analytics",
+      "get_skill_conversion_optimization",
+      "get_skill_image_optimization",
+      "get_skill_content_policy"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher-supplied metadata; the PR author is Pageree's founder. On 2026-11-15 an unauthenticated initialize to https://mcp.pageree.com/ returned 401 with WWW-Authenticate: Bearer resource_metadata=\"https://mcp.pageree.com/.well-known/oauth-protected-resource\". tools/list needs sign-in, so the tool list is self-reported."
+    ]
+  }
+}

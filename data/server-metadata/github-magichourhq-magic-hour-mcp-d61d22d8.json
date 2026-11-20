@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-magichourhq-magic-hour-mcp-d61d22d8",
+  "source": {
+    "issue": 5924,
+    "projectUrl": "https://github.com/magichourhq/magic-hour-mcp"
+  },
+  "description": "Magic Hour\u2019s official hosted MCP server creates and edits images and video, generates audio, and retrieves completed media projects. Connect using the setup guide for your client.",
+  "links": {
+    "docs": "https://magichour.ai/mcp",
+    "endpoint": "https://mcp.magichour.ai/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth for supported hosted clients, or a Magic Hour API key in the Authorization bearer header for clients configured with an API key. Tool discovery is public. Tool calls require authentication."
+    ]
+  },
+  "tools": {
+    "count": 53,
+    "names": [
+      "generate_image",
+      "create_video_from_text",
+      "generate_music",
+      "get_image_project",
+      "wait_for_image_project",
+      "ai_voice_generator_create_audio",
+      "voices_list"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #5924. Source: - [Live official server card](https://mcp.magichour.ai/.well-known/mcp/server-card.json) exposes 53 tools at the time of this request. The tool names above are examples. - [Official setup and..."
+    ]
+  }
+}

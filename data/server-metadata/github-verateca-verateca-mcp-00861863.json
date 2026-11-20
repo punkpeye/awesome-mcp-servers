@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-verateca-verateca-mcp-00861863",
+  "source": {
+    "issue": 6341,
+    "projectUrl": "https://github.com/Verateca/Verateca-mcp"
+  },
+  "links": {
+    "endpoint": "https://verateca.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Proprietary (hosted service; terms at https://verateca.com/terms)"
+}
