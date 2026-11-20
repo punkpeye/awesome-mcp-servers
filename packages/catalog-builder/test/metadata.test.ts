@@ -55,6 +55,7 @@ describe("server-metadata.schema.json", () => {
       description: "Structured sidecar description.",
       category: "Monitoring & Observability",
       links: {
+        repo: "https://github.com/owner/demo-mcp",
         docs: "https://docs.example.com/demo-mcp",
         homepage: "https://example.com/demo-mcp",
       },

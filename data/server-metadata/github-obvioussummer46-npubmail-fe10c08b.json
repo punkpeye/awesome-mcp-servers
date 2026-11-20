@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-obvioussummer46-npubmail-fe10c08b",
+  "source": {
+    "issue": 5906,
+    "projectUrl": "https://github.com/obvioussummer46/npubmail"
+  },
+  "install": {
+    "commands": [
+      "npubmail-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Requests are signed with the agent\u2019s locally created Nostr key (NIP-98); no API key is required."
+    ]
+  },
+  "clients": [
+    "Claude Desktop (MCPB)",
+    "Claude Code",
+    "Cursor",
+    "any MCP client"
+  ],
+  "license": "MIT (clients / MCP server; the mail service itself is hosted)"
+}

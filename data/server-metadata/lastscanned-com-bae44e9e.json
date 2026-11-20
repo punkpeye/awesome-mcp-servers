@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "lastscanned-com-bae44e9e",
+  "source": {
+    "issue": 5759,
+    "projectUrl": "https://lastscanned.com"
+  },
+  "links": {
+    "endpoint": "https://mcp.lastscanned.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Keyless free tier; API key or OAuth for higher limits."
+    ]
+  },
+  "clients": [
+    "Claude and ChatGPT connectors are documented. Any Streamable HTTP MCP client can connect."
+  ],
+  "license": "unknown"
+}

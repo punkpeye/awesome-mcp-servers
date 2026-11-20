@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "telo-ferryman-app-675bcd05",
+  "source": {
+    "issue": 6156,
+    "projectUrl": "https://telo.ferryman.app/"
+  },
+  "links": {
+    "endpoint": "https://api.incubator.blynkai.app/v1/health/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Codex",
+    "Claude Desktop"
+  ]
+}

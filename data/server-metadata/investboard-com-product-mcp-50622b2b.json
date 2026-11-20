@@ -1,0 +1,87 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "investboard-com-product-mcp-50622b2b",
+  "source": {
+    "projectUrl": "https://investboard.com/product/mcp",
+    "issue": 6305
+  },
+  "description": "Official hosted portfolio MCP with 24 tools for holdings, fund overlap, performance explanations, rebalance comparisons, historical stress tests and recorded investment reasoning. Two supplied-holdings tools work anonymously; account tools require OAuth, permissions, enabled sharing and the applicable plan. No order execution or money transfers. Public integration repository: https://github.com/Investboard/ai-toolkit; hosted runtime is private.",
+  "links": {
+    "repo": "https://github.com/Investboard/ai-toolkit",
+    "docs": "https://investboard.com/product/mcp",
+    "homepage": "https://investboard.com",
+    "endpoint": "https://app.investboard.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http investboard https://app.investboard.com/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "analyze_holdings and stress_test_holdings accept supplied holdings without sign-in and read or save nothing in an account.",
+      "Account tools require OAuth, appropriate permissions, enabled sharing and the applicable Free or Premium plan. No API key or client environment variables are required."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 24,
+    "names": [
+      "analyze_holdings",
+      "check_action",
+      "get_approved_review",
+      "get_decision_outcomes",
+      "get_journal",
+      "get_own_record",
+      "get_performance_explanation",
+      "get_policy",
+      "get_portfolio_analysis",
+      "get_portfolio_correlations",
+      "get_portfolio_holdings",
+      "get_portfolio_import",
+      "get_prepared_review",
+      "get_reflection_history",
+      "get_review_changes",
+      "get_status",
+      "get_stress_test",
+      "list_stress_scenarios",
+      "prepare_portfolio_import",
+      "prepare_review",
+      "preview_rebalance",
+      "record_decision",
+      "start_stress_test",
+      "stress_test_holdings"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary (hosted MCP); Apache-2.0 (four companion skills and authored examples)",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher-provided metadata supported by https://investboard.com/product/mcp and https://github.com/Investboard/ai-toolkit. No independent TensorBlock verification or authenticated-client test is claimed.",
+      "The public repository contains integration manifests, skills, client configuration and documentation; it does not contain the hosted MCP runtime.",
+      "License scope: https://github.com/Investboard/ai-toolkit/blob/main/LICENSE.md. The four skills and authored examples are Apache-2.0; third-party example market data is excluded. Hosted service, plugin wrapper and brand assets remain proprietary.",
+      "Setup and companion skills: https://investboard.com/product/ai-toolkit#install. Existing customer connections should be reused; the metadata update creates no OAuth grant.",
+      "Profile claimed by @DavidBartas in #6305 under the community profile-claim process.",
+      "Requested profile metadata in #6305: Category: Finance & Crypto Transport: streamable-http Auth: oauth Install confidence: medium License: Proprietary (hosted MCP); Apache-2.0 (four companion skills and authored examples) Verification: self_reported"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@DavidBartas"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

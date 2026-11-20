@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-maxont-aisync-a397f1ea",
+  "source": {
+    "issue": 6133,
+    "projectUrl": "https://github.com/MaxonT/aisync"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "MCP stdio clients (not tested individually)"
+  ],
+  "license": "MIT"
+}

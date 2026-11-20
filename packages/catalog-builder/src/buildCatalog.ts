@@ -251,13 +251,14 @@ function applyMetadataOverride(
     category: nonEmptyString(metadata.category) ?? entry.category,
     links: {
       ...entry.links,
+      ...(metadata.links?.repo ? { repo: metadata.links.repo } : {}),
       ...(metadata.links?.docs ? { docs: metadata.links.docs } : {}),
       ...(metadata.links?.homepage ? { homepage: metadata.links.homepage } : {}),
       ...(metadata.links?.endpoint ? { endpoint: metadata.links.endpoint } : {}),
     },
     install: {
       commands: nonEmptyArray(metadata.install?.commands) ?? entry.install.commands,
-      env: nonEmptyArray(metadata.install?.env) ?? entry.install.env,
+      env: metadata.install?.env ?? entry.install.env,
       confidence: metadata.install?.confidence ?? entry.install.confidence,
     },
     transport: nonEmptyArray(metadata.transport) ?? entry.transport,
