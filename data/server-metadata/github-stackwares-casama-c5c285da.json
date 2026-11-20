@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stackwares-casama-c5c285da",
+  "source": {
+    "issue": 6438,
+    "projectUrl": "https://github.com/stackwares/casama/tree/main/packages/mcp"
+  },
+  "links": {
+    "endpoint": "https://docs.casama.ai/guide/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @casama/mcp",
+      "npx -y @casama/mcp --docs-only"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex and other MCP clients"
+  ],
+  "license": "Apache-2.0 for the MCP package."
+}
