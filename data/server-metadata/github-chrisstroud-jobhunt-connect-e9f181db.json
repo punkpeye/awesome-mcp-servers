@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-chrisstroud-jobhunt-connect-e9f181db",
+  "source": {
+    "issue": 6416,
+    "projectUrl": "https://github.com/chrisstroud/jobhunt-connect"
+  },
+  "links": {
+    "endpoint": "https://jobhunt.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Any client that supports remote MCP servers with OAuth"
+  ],
+  "license": "MIT for the repository named above (connection docs and config); the hosted server is not open source"
+}
