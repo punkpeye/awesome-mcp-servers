@@ -24,5 +24,19 @@
     "Cursor",
     "VS Code"
   ],
-  "license": "Proprietary (hosted service)"
+  "license": "Proprietary (hosted service)",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @cm-sl in #6487 under the community profile-claim process.",
+      "Requested profile metadata in #6487: Category: Marketing, Sales & CRM Transport: streamable-http Auth: oauth Install confidence: low License: Proprietary (hosted service) Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@cm-sl"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }
