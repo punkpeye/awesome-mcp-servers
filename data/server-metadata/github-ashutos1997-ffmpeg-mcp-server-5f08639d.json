@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ashutos1997-ffmpeg-mcp-server-5f08639d",
+  "source": {
+    "issue": 6392,
+    "projectUrl": "https://github.com/Ashutos1997/ffmpeg-mcp-server"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Ashutos1997 in #6392 under the community profile-claim process.",
+      "Requested profile metadata in #6392: Category: Multimedia Processing Transport: stdio Auth: none Install confidence: high License: MIT Verification: self_reported"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Ashutos1997"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "category": "Multimedia Processing",
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "MIT",
+  "install": {
+    "commands": [
+      "npx -y @ash_j1997/ffmpeg-mcp-server"
+    ],
+    "env": [],
+    "confidence": "medium"
+  }
+}

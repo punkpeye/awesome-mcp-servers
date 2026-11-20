@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tresca-app-agents-e940f09c",
+  "source": {
+    "issue": 6407,
+    "projectUrl": "https://tresca.app/agents/"
+  },
+  "links": {
+    "endpoint": "https://tresca.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Gemini CLI",
+    "and any client that supports remote MCP servers"
+  ],
+  "license": "MIT (repository); the server itself is hosted"
+}
