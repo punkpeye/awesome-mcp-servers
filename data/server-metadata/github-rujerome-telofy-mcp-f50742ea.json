@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rujerome-telofy-mcp-f50742ea",
+  "source": {
+    "issue": 5800,
+    "projectUrl": "https://github.com/RuJerome/telofy-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.telofy.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "ChatGPT"
+  ],
+  "license": "MIT"
+}

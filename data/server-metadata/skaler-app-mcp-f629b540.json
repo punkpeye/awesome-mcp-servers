@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "skaler-app-mcp-f629b540",
+  "source": {
+    "issue": 5842,
+    "projectUrl": "https://skaler.app/mcp"
+  },
+  "links": {
+    "endpoint": "https://skaler.app/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "other MCP clients that support remote servers with OAuth"
+  ],
+  "license": "Proprietary (hosted SaaS, no public repo)"
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "productmetrics-io-docs-mcp-overview-b6f7b2e9",
+  "source": {
+    "issue": 6218,
+    "projectUrl": "https://www.productmetrics.io/docs/mcp/overview"
+  },
+  "links": {
+    "endpoint": "https://www.productmetrics.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "MCP clients supporting remote Streamable HTTP and browser OAuth."
+  ],
+  "license": "Hosted SaaS; public skills package MIT. Connecting data is free; paid product features use a subscription."
+}
