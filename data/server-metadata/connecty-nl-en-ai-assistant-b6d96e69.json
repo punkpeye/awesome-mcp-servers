@@ -17,5 +17,32 @@
     ],
     "verifiedBy": [],
     "claimed": true
-  }
+  },
+  "links": {
+    "endpoint": "https://connecty.nl/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Public tools get_status_page and about_connecty need no authentication.",
+      "Account tools list_my_sites, get_my_status_page_link, get_status_changes, add_site and remove_site require OAuth 2.1."
+    ]
+  },
+  "tools": {
+    "count": 7,
+    "names": [
+      "get_status_page",
+      "about_connecty",
+      "list_my_sites",
+      "get_my_status_page_link",
+      "get_status_changes",
+      "add_site",
+      "remove_site"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary (hosted service)"
 }
