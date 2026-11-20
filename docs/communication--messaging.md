@@ -67,6 +67,7 @@ Servers for interacting with email, chat platforms, SMS, or notification service
 - [arush15june/zammad-mcp-go](https://github.com/arush15june/zammad-mcp-go): Facilitates interaction with the Zammad API for managing tickets and users through structured MCP resources and tools.
 - [leshchenko1979/tg_mcp](https://github.com/leshchenko1979/tg_mcp): Facilitates seamless interaction with Telegram through a robust API, enabling message search, chat management, and analytics within the Cursor IDE.
 - [nicekon/zendesk-mcp-server-kon](https://github.com/nicekon/zendesk-mcp-server-kon): Enhances Zendesk integration by managing tickets, community posts, and knowledge base access.
+  - [FeedLog MCP](https://github.com/linkcraftstudio/feedlog): Manage customer feedback, merge duplicate feature requests, update help articles, and publish changelogs. Setup: [FeedLog MCP documentation](https://help.feedlog.ai/mcp).
 - [atorber/wechaty-mcp-sse](https://github.com/atorber/wechaty-mcp-sse): Facilitates seamless integration between Wechaty and large language models like Claude, enabling message sending and contact querying via a TypeScript-based MCP server.
 - [firstorderai/authenticator_mcp](https://github.com/firstorderai/authenticator_mcp): Facilitates AI agents in securely accessing 2FA codes and passwords for automated login processes via the Authenticator App.
 - [imprvhub/mcp-status-observer](https://github.com/imprvhub/mcp-status-observer): Facilitates real-time monitoring and querying of operational statuses for major digital platforms within Claude Desktop.
