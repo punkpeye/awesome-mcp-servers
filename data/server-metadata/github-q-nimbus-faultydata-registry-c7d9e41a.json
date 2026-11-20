@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-q-nimbus-faultydata-registry-c7d9e41a",
+  "source": {
+    "issue": 6498,
+    "projectUrl": "https://github.com/Q-Nimbus/faultydata-registry"
+  },
+  "links": {
+    "endpoint": "https://faultydata.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "mcp.json: {\"mcpServers\":{\"faultydata\":{\"url\":\"https://faultydata.com/mcp\"}}}"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "any Streamable HTTP MCP client"
+  ],
+  "license": "MIT"
+}
