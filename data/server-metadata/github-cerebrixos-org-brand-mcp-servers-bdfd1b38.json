@@ -18,9 +18,10 @@
     ]
   },
   "clients": [
-    "Claude (claude.ai",
+    "Claude",
     "Claude Desktop",
-    "Claude Code) and other clients that support remote MCP with OAuth"
+    "Claude Code",
+    "MCP clients supporting Streamable HTTP and OAuth"
   ],
   "license": "Proprietary (hosted service)"
 }
