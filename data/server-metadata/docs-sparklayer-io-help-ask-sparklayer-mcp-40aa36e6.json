@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "docs-sparklayer-io-help-ask-sparklayer-mcp-40aa36e6",
+  "source": {
+    "issue": 6421,
+    "projectUrl": "https://docs.sparklayer.io/help/ask-sparklayer/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.sparklayer.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Proprietary (hosted service)"
+}

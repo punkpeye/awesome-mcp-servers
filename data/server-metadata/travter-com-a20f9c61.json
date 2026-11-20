@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "travter-com-a20f9c61",
+  "source": {
+    "issue": 6436,
+    "projectUrl": "https://travter.com"
+  },
+  "links": {
+    "endpoint": "https://mcp.travter.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude"
+  ],
+  "license": "Proprietary (hosted commercial SaaS)"
+}
