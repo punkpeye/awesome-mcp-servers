@@ -10,9 +10,14 @@
   "install": {
     "confidence": "high"
   },
-  "transport": ["streamable-http", "stdio"],
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
   "auth": {
     "type": "none",
-    "notes": ["Anonymous publishing is supported. OAuth optionally connects a BrewPage profile."]
+    "notes": [
+      "Anonymous publishing is supported. OAuth optionally connects a BrewPage profile."
+    ]
   }
 }
