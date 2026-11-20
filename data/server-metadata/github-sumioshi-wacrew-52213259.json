@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sumioshi-wacrew-52213259",
+  "source": {
+    "issue": 5954,
+    "projectUrl": "https://github.com/sumioshi/wacrew"
+  },
+  "install": {
+    "commands": [
+      "npm install && npm --prefix web install",
+      "npm run dev                      # collector + panel; pair WhatsApp at http://localhost:3000/config"
+    ],
+    "env": [
+      "WAC_DATA_DIR",
+      "WAC_GROUPS_CONFIG"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "Qwen Code",
+    "any MCP client"
+  ],
+  "license": "Apache-2.0"
+}

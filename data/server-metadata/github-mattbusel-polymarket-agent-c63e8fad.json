@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mattbusel-polymarket-agent-c63e8fad",
+  "source": {
+    "issue": 6191,
+    "projectUrl": "https://github.com/Mattbusel/polymarket-agent"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "POLYMARKET_PRIVATE_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Read-only tools need no key; trading requires POLYMARKET_PRIVATE_KEY."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}

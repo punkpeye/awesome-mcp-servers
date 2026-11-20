@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-data-unix-mcp-maltego-9b769f53",
+  "source": {
+    "issue": 5860,
+    "projectUrl": "https://github.com/Data-Unix/MCP-MALTEGO"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "Copilot",
+    "Gemini",
+    "and any MCP client"
+  ],
+  "license": "MIT"
+}

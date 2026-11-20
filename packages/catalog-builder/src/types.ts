@@ -71,7 +71,7 @@ export interface CatalogMetadataOverride {
   };
   description?: string;
   category?: string;
-  links?: Partial<Pick<CatalogEntry["links"], "docs" | "homepage" | "endpoint">>;
+  links?: Partial<Pick<CatalogEntry["links"], "repo" | "docs" | "homepage" | "endpoint">>;
   install?: Partial<CatalogEntry["install"]>;
   transport?: Transport[];
   auth?: Partial<CatalogEntry["auth"]>;

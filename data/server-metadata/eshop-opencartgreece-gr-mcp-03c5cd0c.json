@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "eshop-opencartgreece-gr-mcp-03c5cd0c",
+  "source": {
+    "issue": 5813,
+    "projectUrl": "https://eshop.opencartgreece.gr/mcp"
+  },
+  "links": {
+    "endpoint": "https://eshop.opencartgreece.gr/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client with Streamable HTTP support",
+    "for example Claude",
+    "Cursor and VS Code"
+  ],
+  "license": "Proprietary hosted service, free to use"
+}

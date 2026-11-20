@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "quelllm-fr-bd5fa5d3",
+  "source": {
+    "issue": 6313,
+    "projectUrl": "https://quelllm.fr/"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MGM-FALCON/quelllm-mcp"
+  }
+}

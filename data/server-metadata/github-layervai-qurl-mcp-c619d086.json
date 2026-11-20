@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-layervai-qurl-mcp-c619d086",
+  "source": {
+    "projectUrl": "https://github.com/layervai/qurl-mcp"
+  },
+  "links": {
+    "repo": "https://github.com/layervai/qurl-mcp",
+    "docs": "https://github.com/layervai/qurl-mcp#quick-start-no-account-needed",
+    "homepage": "https://qurl.link/?utm_source=tensorblock&utm_medium=referral&utm_campaign=first-share-pilot#mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @layervai/qurl-mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Default local stdio mode needs no qURL account or API key. Install the qURL CLI on the same host to use local sharing tools.",
+      "Setting QURL_API_KEY selects account-backed tools. The hosted streamable HTTP endpoint requires Authorization: Bearer with a qURL API key."
+    ]
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "tools": {
+    "names": [
+      "publish_crid",
+      "share_by_crid"
+    ],
+    "source": "verified"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "On 2026-11-17 @layervai/qurl-mcp@0.11.4 started and listed its sharing tools without an API key."
+    ]
+  }
+}

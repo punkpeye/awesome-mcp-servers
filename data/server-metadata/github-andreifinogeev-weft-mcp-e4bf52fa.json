@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-andreifinogeev-weft-mcp-e4bf52fa",
+  "source": {
+    "issue": 5774,
+    "projectUrl": "https://github.com/AndreiFinogeev/weft-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @AndreiFinogeev in #5774 under the community profile-claim process.",
+      "Requested profile metadata in #5774: Category: Project & Task Management Transport: streamable-http Auth: oauth Install confidence: low License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@AndreiFinogeev"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "links": {
+    "endpoint": "https://letsweft.com/api/mcp",
+    "docs": "https://letsweft.com/llms-install.md"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic client registration and PKCE, or Bearer access token."
+    ]
+  },
+  "license": "MIT"
+}

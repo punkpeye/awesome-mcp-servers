@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "kitbay-app-agents-bd64a838",
+  "source": {
+    "issue": 6311,
+    "projectUrl": "https://kitbay.app/agents/"
+  },
+  "links": {
+    "endpoint": "https://kitbay.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI",
+    "Zed",
+    "and any client that supports remote MCP servers"
+  ],
+  "license": "MIT (repository); the server itself is hosted"
+}
