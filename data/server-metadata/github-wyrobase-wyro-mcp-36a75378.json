@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-wyrobase-wyro-mcp-36a75378",
+  "source": {
+    "issue": 6411,
+    "projectUrl": "https://github.com/WyroBase/wyro-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y wyro-check@latest --mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Windsurf",
+    "Zed"
+  ],
+  "license": "Configuration repo MIT; the wyro-check package is free to run (proprietary licence)"
+}
