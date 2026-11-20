@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kochetkov-ma-brewpage-openapi-162d79b1",
+  "source": {
+    "projectUrl": "https://github.com/kochetkov-ma/brewpage-openapi"
+  },
+  "links": {
+    "endpoint": "https://brewpage.app/mcp"
+  },
+  "install": {
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Anonymous publishing is supported. OAuth optionally connects a BrewPage profile."
+    ]
+  }
+}
