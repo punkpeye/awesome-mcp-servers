@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cerebrixos-org-brand-mcp-servers-7bc30572",
+  "source": {
+    "issue": 6466,
+    "projectUrl": "https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/pulselake"
+  },
+  "links": {
+    "endpoint": "https://mcp.pulselake.co/pulselake-experience-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Desktop",
+    "Claude Code",
+    "MCP clients supporting Streamable HTTP and OAuth"
+  ],
+  "license": "Proprietary (hosted service)"
+}
