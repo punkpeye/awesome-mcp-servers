@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sankahq-sanka-mcp-9f17cb78",
+  "source": {
+    "issue": 6546,
+    "projectUrl": "https://github.com/sankaHQ/sanka-mcp"
+  },
+  "description": "Hosted remote MCP server for Sanka: lets AI agents handle Sanka Desk tickets, Sanka Flow records, approvals and workflows, and app migrations, with OAuth sign-in.",
+  "links": {
+    "docs": "https://sanka.com/docs/developers/mcp/",
+    "endpoint": "https://mcp.sanka.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth. Users sign in with their Sanka account in the browser."
+    ]
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #6546. Source: - README of https://github.com/sankaHQ/sanka-mcp: the production service is a remote Streamable HTTP MCP endpoint at https://mcp.sanka.com/mcp. - Docs: https://sanka.com/docs/developers/mcp/ - Official MCP Registry..."
+    ]
+  }
+}
