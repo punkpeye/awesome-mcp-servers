@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-damri-labs-acq-34c4e723",
+  "source": {
+    "issue": 6515,
+    "projectUrl": "https://github.com/damri-labs/acq"
+  },
+  "links": {
+    "endpoint": "https://acq.damri.org/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client supporting streamable HTTP",
+    "protocol-level initialize and tools/list verified against the live endpoint."
+  ],
+  "license": "MIT"
+}

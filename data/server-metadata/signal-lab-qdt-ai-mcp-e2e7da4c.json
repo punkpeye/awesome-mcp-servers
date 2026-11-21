@@ -1,12 +1,12 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "signal-lab-jet-vercel-app-mcp-169f1888",
+  "id": "signal-lab-qdt-ai-mcp-e2e7da4c",
   "source": {
     "issue": 5054,
-    "projectUrl": "https://signal-lab-jet.vercel.app/mcp"
+    "projectUrl": "https://signal-lab.qdt.ai/mcp"
   },
   "links": {
-    "endpoint": "https://signal-lab-jet.vercel.app/api/mcp"
+    "endpoint": "https://signal-lab.qdt.ai/api/mcp"
   },
   "transport": [
     "streamable-http"
@@ -21,5 +21,5 @@
     "Cursor",
     "VS Code"
   ],
-  "license": "Not declared for the catalog. Each listed source's own terms apply."
+  "license": "Catalog compilation CC BY 4.0; each listed source keeps its own terms."
 }
