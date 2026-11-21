@@ -281,7 +281,26 @@ const handleInstallConfig = (
     return;
   }
 
-  sendJson(response, 200, generateClientConfig(entry, client));
+  const format = url.searchParams.get("format") ?? "json";
+  if (format !== "json" && !(format === "toml" && client === "codex")) {
+    sendError(response, 400, "Unsupported format. Use json, or toml with client=codex.");
+    return;
+  }
+
+  const generated = generateClientConfig(entry, client);
+  if (format === "toml" && generated.nativeConfig) {
+    response.writeHead(200, {
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET, OPTIONS",
+      "Access-Control-Allow-Headers": "Content-Type",
+      "Cache-Control": "public, max-age=60",
+      "Content-Type": "text/plain; charset=utf-8",
+    });
+    response.end(generated.nativeConfig.content);
+    return;
+  }
+
+  sendJson(response, 200, generated);
 };
 
 const handleBadge = (

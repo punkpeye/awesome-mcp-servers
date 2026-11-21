@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mlapeter-counterparts-3fae5dbe",
+  "source": {
+    "issue": 5406,
+    "projectUrl": "https://github.com/mlapeter/counterparts"
+  },
+  "links": {
+    "docs": "https://counterparts.ai/guides/claude-code-memory/"
+  },
+  "install": {
+    "commands": [
+      "npm install -g counterparts@latest && counterparts"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop (macOS)"
+  ],
+  "tools": {
+    "count": 10,
+    "names": [
+      "meet",
+      "remember",
+      "recall",
+      "reflect",
+      "dream",
+      "chapter",
+      "session_end",
+      "self_page",
+      "scope",
+      "status"
+    ],
+    "source": "self_reported"
+  },
+  "license": "see https://github.com/mlapeter/counterparts",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #5406. Source: I maintain Counterparts. The generated Claude Desktop, Cursor, Codex and VS Code configs show `\"command\": \"<command>\"` placeholders. Counterparts isn't configured by hand: its installer (`counterparts`) registers..."
+    ]
+  }
+}

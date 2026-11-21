@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-blue-b-sidehand-d1df00ee",
+  "source": {
+    "issue": 5674,
+    "projectUrl": "https://github.com/Blue-B/sidehand"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "pi"
+  ],
+  "license": "PolyForm-Shield-1.0.0 (source-available, not OSI)"
+}

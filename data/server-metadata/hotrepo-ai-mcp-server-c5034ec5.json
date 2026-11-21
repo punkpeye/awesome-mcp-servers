@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "hotrepo-ai-mcp-server-c5034ec5",
+  "source": {
+    "issue": 5527,
+    "projectUrl": "https://hotrepo.ai/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://hotrepo.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI",
+    "Windsurf",
+    "Claude Desktop"
+  ],
+  "license": "Proprietary hosted service; source code is not publicly licensed"
+}

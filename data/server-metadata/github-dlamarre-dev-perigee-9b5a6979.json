@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dlamarre-dev-perigee-9b5a6979",
+  "source": {
+    "issue": 5610,
+    "projectUrl": "https://github.com/dlamarre-dev/Perigee"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @dlamarre-dev in #5610 under the community profile-claim process.",
+      "Requested profile metadata in #5610: Category: Science & Research Transport: stdio, streamable-http Auth: none Install confidence: medium License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@dlamarre-dev"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

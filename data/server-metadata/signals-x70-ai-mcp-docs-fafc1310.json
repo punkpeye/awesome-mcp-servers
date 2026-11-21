@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "signals-x70-ai-mcp-docs-fafc1310",
+  "source": {
+    "issue": 5658,
+    "projectUrl": "https://signals.x70.ai/mcp-docs?utm_source=tensorblock"
+  },
+  "links": {
+    "endpoint": "https://signals.x70.ai/mcp"
+  },
+  "transport": [
+    "sse",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop / claude.ai",
+    "Cursor",
+    "Codex (API key)"
+  ],
+  "license": "Proprietary (hosted service; server is closed source)"
+}

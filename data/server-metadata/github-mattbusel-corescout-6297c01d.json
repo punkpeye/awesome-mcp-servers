@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mattbusel-corescout-6297c01d",
+  "source": {
+    "issue": 6193,
+    "projectUrl": "https://github.com/Mattbusel/corescout"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "any stdio MCP client"
+  ],
+  "license": "MIT OR Apache-2.0"
+}

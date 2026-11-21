@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mcpkit-ru-mcp-yandex-direct-79343f73",
+  "source": {
+    "issue": 5563,
+    "projectUrl": "https://mcpkit.ru/mcp-yandex-direct?utm_source=tensorblock&utm_medium=github_collection&utm_campaign=yandex_direct"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT"
+  ],
+  "license": "Proprietary hosted server."
+}

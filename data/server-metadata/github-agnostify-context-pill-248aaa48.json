@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-agnostify-context-pill-248aaa48",
+  "source": {
+    "issue": 5687,
+    "projectUrl": "https://github.com/agnostify/context-pill"
+  },
+  "links": {
+    "endpoint": "https://contextpill.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}

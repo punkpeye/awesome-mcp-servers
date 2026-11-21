@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mailveri-mailveri-mcp-5a6cea68",
+  "source": {
+    "issue": 5447,
+    "projectUrl": "https://github.com/mailveri/mailveri-mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "MAILVERI_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor"
+  ],
+  "license": "MIT"
+}

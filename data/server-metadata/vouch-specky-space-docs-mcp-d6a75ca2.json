@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "vouch-specky-space-docs-mcp-d6a75ca2",
+  "source": {
+    "issue": 5869,
+    "projectUrl": "https://vouch.specky.space/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://vouch.specky.space/api/public/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Public tools need no token; account tools require a bearer token from an approved account."
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "Claude Desktop",
+    "Windsurf",
+    "Zed"
+  ],
+  "license": "proprietary (hosted service)"
+}

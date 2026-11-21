@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "corespeed-io-docs-mcp-d6cf4c0e",
+  "source": {
+    "issue": 5228,
+    "projectUrl": "https://corespeed.io/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.corespeed.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "ChatGPT",
+    "VS Code"
+  ],
+  "license": "proprietary"
+}

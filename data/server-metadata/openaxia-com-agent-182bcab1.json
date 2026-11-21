@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "openaxia-com-agent-182bcab1",
+  "source": {
+    "issue": 5552,
+    "projectUrl": "https://openaxia.com/agent"
+  },
+  "links": {
+    "docs": "https://openaxia.com/agent",
+    "endpoint": "https://openaxia.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Optional API key increases quota; anonymous read-only access supported."
+    ]
+  },
+  "tools": {
+    "count": 9,
+    "names": [
+      "motobase_search_products",
+      "motobase_get_product",
+      "motobase_compare_products",
+      "motobase_list_certifications",
+      "motobase_recent_signals",
+      "motobase_get_spec_template",
+      "motobase_get_series",
+      "motobase_find_replacement",
+      "motobase_list_events"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #5552. Source: https://openaxia.com/agent \u2014 \u201cMCP server\u201d, \u201cLimits and caching\u201d, and \u201cData use and attribution\u201d sections. https://github.com/TensorBlock/awesome-mcp-servers/pull/5524 \u2014 original accepted contribution."
+    ]
+  },
+  "license": "Hosted service; published data reuse requires attribution."
+}

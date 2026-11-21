@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nextoria-information-technology-llc-personaxpand-mcp-89329066",
+  "source": {
+    "issue": 5583,
+    "projectUrl": "https://github.com/Nextoria-Information-Technology-LLC/personaxpand-mcp"
+  },
+  "links": {
+    "endpoint": "https://personaxpand.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web, desktop, mobile)",
+    "Claude Code",
+    "Other MCP clients with remote OAuth support"
+  ],
+  "license": "Proprietary hosted service (the repo holds docs and server.json)"
+}

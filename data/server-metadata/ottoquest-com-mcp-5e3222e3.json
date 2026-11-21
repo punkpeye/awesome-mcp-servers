@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "ottoquest-com-mcp-5e3222e3",
+  "source": {
+    "issue": 5627,
+    "projectUrl": "https://ottoquest.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://ottoquest.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth A free OttoQuest account is required. The client discovers OAuth 2.1 and identifies itself via a Client ID Metadata Document (CIMD). No API key is needed."
+    ]
+  },
+  "license": "Hosted service; public setup documentation."
+}

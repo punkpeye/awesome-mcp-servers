@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jakegu1-vetagent-2e360737",
+  "source": {
+    "projectUrl": "https://github.com/jakegu1/vetagent"
+  },
+  "links": {
+    "homepage": "https://vetagent.dev",
+    "docs": "https://github.com/jakegu1/vetagent/blob/master/docs/AGENT-INTEGRATION.md",
+    "endpoint": "https://vetagent.dev/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": ["streamable-http"],
+  "auth": {
+    "type": "none",
+    "notes": ["Connect to the remote MCP endpoint. No API key or local installation is required."]
+  },
+  "clients": ["Claude Code", "Cursor", "Codex"],
+  "tools": {
+    "count": 3,
+    "names": ["assess_token_risk", "get_token_liquidity", "find_new_hot_pools"],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

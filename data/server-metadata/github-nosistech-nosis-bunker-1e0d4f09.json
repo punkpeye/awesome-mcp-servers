@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nosistech-nosis-bunker-1e0d4f09",
+  "source": {
+    "issue": 5834,
+    "projectUrl": "https://github.com/nosistech/nosis-bunker"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @arparvar in #5834 under the community profile-claim process.",
+      "Requested profile metadata in #5834: Bunker was added to this list in PR #5729. Please mark the profile as claimed by arparvar."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@arparvar"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

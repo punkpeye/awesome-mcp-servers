@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sv-number-mcp-server-deeedc8b",
+  "source": {
+    "issue": 5932,
+    "projectUrl": "https://github.com/sv-number/mcp-server"
+  },
+  "install": {
+    "commands": [
+      "npm: https://www.npmjs.com/package/sv-number-mcp"
+    ],
+    "env": [
+      "SVN_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Cline",
+    "Windsurf",
+    "Codex"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getsoundlink-com-docs-mcp-server-522baba5",
+  "source": {
+    "issue": 5596,
+    "projectUrl": "https://www.getsoundlink.com/docs/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://api.getsoundlink.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth API-key authentication is also supported."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "ChatGPT",
+    "Codex"
+  ],
+  "license": "Hosted service is proprietary; public client-plugin repository is MIT licensed."
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "puley-com-ec753c4c",
+  "source": {
+    "issue": 5612,
+    "projectUrl": "https://puley.com"
+  },
+  "links": {
+    "endpoint": "https://app.puley.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "app-grapp-ai-install-md-05464655",
+  "source": {
+    "issue": 6223,
+    "projectUrl": "https://app.grapp.ai/install.md"
+  },
+  "links": {
+    "endpoint": "https://app.grapp.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Mistral Le Chat",
+    "Dust",
+    "Codex"
+  ],
+  "license": "Proprietary hosted service"
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-handlepilot-instagram-mcp-9938b18f",
+  "source": {
+    "issue": 5187,
+    "projectUrl": "https://github.com/Handlepilot/instagram-mcp"
+  },
+  "links": {
+    "endpoint": "https://app.handlepilot.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}

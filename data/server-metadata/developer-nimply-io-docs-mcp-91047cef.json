@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "developer-nimply-io-docs-mcp-91047cef",
+  "source": {
+    "issue": 5698,
+    "projectUrl": "https://developer.nimply.io/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.nimply.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Gemini CLI",
+    "Codex CLI",
+    "Raycast"
+  ],
+  "license": "Proprietary (hosted service)"
+}

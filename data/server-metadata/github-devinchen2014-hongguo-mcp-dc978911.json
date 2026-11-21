@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devinchen2014-hongguo-mcp-dc978911",
+  "source": {
+    "projectUrl": "https://github.com/DevinChen2014/hongguo-mcp"
+  },
+  "description": "Hongguo short drama search, series and episodes, reviews, video comments/replies and episode download links. Hosted business calls consume SocialDataX credits.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://socialdatax.com/ai?from=tensorblock",
+    "homepage": "https://socialdatax.com/ai?from=tensorblock",
+    "endpoint": "https://mcp.socialdatax.com/hongguo/mcp"
+  },
+  "install": {
+    "env": [
+      "SOCIALDATAX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Business tool calls require Authorization: Bearer <SOCIALDATAX_API_KEY>; use your own key.",
+      "Get your key at https://socialdatax.com/ai?from=tensorblock. Business calls consume SocialDataX credits.",
+      "Remote client configuration must include the Authorization header; a URL-only generated preview is not a complete authenticated setup."
+    ]
+  },
+  "clients": [
+    "Docker MCP Gateway"
+  ],
+  "tools": {
+    "count": 12,
+    "names": [
+      "hongguo_get_video_comments_by_video_id",
+      "hongguo_get_video_comments_by_video_url",
+      "hongguo_get_video_comment_replies_by_comment_id",
+      "hongguo_search_general",
+      "hongguo_get_series_detail_by_series_id",
+      "hongguo_get_series_detail_by_url",
+      "hongguo_get_video_download_links_by_video_id",
+      "hongguo_get_video_download_links_by_video_url",
+      "hongguo_get_series_comments_by_series_id",
+      "hongguo_get_series_comments_by_url",
+      "hongguo_get_series_comment_replies_by_comment_id",
+      "socialdatax_get_points_balance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (public connection materials); proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher verified authenticated initialize/tools/list against the public card and all 12 tool schemas on 2026-11-10.",
+      "An isolated Docker MCP Gateway discovered all 12 tools and completed the free points-balance call. No paid tools called.",
+      "TensorBlock generated previews are not runtime-tested; Authorization header must be configured by each user."
+    ]
+  }
+}

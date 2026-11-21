@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "smarter-poker-5bce8c2f",
+  "source": {
+    "issue": 5649,
+    "projectUrl": "https://smarter.poker"
+  },
+  "links": {
+    "endpoint": "https://smarter.poker/api/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:Smarter-Poker/smarter-poker-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop/Code",
+    "Cursor",
+    "Windsurf",
+    "VS Code",
+    "Zed",
+    "ChatGPT",
+    "any Streamable-HTTP or stdio MCP client"
+  ],
+  "license": "MIT"
+}

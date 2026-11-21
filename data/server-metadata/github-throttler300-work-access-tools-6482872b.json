@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-throttler300-work-access-tools-6482872b",
+  "source": {
+    "issue": 5413,
+    "projectUrl": "https://github.com/throttler300/work-access-tools"
+  },
+  "links": {
+    "endpoint": "https://work-access-platform.bfurrow26.workers.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "license": "MIT"
+}

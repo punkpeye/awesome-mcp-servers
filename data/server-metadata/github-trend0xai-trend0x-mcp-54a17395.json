@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-trend0xai-trend0x-mcp-54a17395",
+  "source": {
+    "issue": 5232,
+    "projectUrl": "https://github.com/trend0xai/trend0x-mcp"
+  },
+  "links": {
+    "endpoint": "https://app.trend0x.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "AGENT_TOKEN"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop/Code",
+    "Cursor",
+    "VS Code (Copilot)",
+    "Cline",
+    "Gemini CLI"
+  ],
+  "license": "MIT (repo docs/configs); the hosted service is closed source, under the Trend0x Terms"
+}

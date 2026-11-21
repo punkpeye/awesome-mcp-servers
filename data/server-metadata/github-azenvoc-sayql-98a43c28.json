@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-azenvoc-sayql-98a43c28",
+  "source": {
+    "issue": 5339,
+    "projectUrl": "https://github.com/azenvoc/sayql"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "VS Code (GitHub Copilot)",
+    "Codex CLI",
+    "Gemini CLI",
+    "GitHub Copilot CLI",
+    "opencode"
+  ],
+  "license": "Apache-2.0",
+  "links": {
+    "docs": "https://sayql.dev/docs/mcp/"
+  }
+}

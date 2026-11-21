@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "depot-fitness-be0141d3",
+  "source": {
+    "issue": 5497,
+    "projectUrl": "https://depot.fitness/"
+  },
+  "links": {
+    "endpoint": "https://nihheurtdimdezbhrdba.supabase.co/functions/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth (free depot.fitness account)"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "MCP Inspector"
+  ],
+  "license": "unknown"
+}
