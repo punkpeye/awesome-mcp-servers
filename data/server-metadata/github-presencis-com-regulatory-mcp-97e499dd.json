@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-presencis-com-regulatory-mcp-97e499dd",
+  "source": {
+    "issue": 6493,
+    "projectUrl": "https://github.com/Presencis-com/regulatory-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Presencis-com in #6493 under the community profile-claim process.",
+      "Requested profile metadata in #6493: Description: Offline, read-only stdio MCP server for the public Presencis Regulatory Corpus \u2014 95 active AI, cyber, privacy, and sector frameworks (EU AI Act, DORA, NIS2, GDPR, ISO/IEC 42001, HIPAA), cross-framework..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Presencis-com"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
