@@ -3850,6 +3850,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 - [zw008/VMware-Aria](https://github.com/zw008/VMware-Aria) [![zw008/vmware-aria MCP server](https://glama.ai/mcp/servers/zw008/vmware-aria/badges/score.svg)](https://glama.ai/mcp/servers/zw008/vmware-aria) 🐍 ☁️ - VMware Aria Operations monitoring for vSphere: performance metrics, alarms, capacity analysis and anomaly detection, with audit logging for write actions.
 - [aayushmdesai/mcp-dotnet-diagnostics](https://github.com/aayushmdesai/mcp-dotnet-diagnostics) [![aayushmdesai/mcp-dotnet-diagnostics MCP server](https://glama.ai/mcp/servers/aayushmdesai/mcp-dotnet-diagnostics/badges/score.svg)](https://glama.ai/mcp/servers/aayushmdesai/mcp-dotnet-diagnostics) 🏠 🍎 🐧 - Live .NET runtime diagnostics: find memory leaks, GC pressure, LOH fragmentation and thread starvation in any running .NET process without code changes.
 - [LogneBudo/llmxray](https://github.com/LogneBudo/llmxray) [![LogneBudo/llmxray MCP server](https://glama.ai/mcp/servers/@LogneBudo/llmxray/badges/score.svg)](https://glama.ai/mcp/servers/@LogneBudo/llmxray) 📇 🏠 🍎 🪟 🐧 - Ask what went wrong with your own Ollama calls: lost prompt cache and the token where the prompt stopped matching, context overflow, a model running partly on CPU, tool schemas crowding the prompt. Last turn in numbers; which local models fit in video memory. Read-only.
+- [AgentPulse](https://github.com/Akshat-Srivastava-PS/AgentPulse) - Real-time API status & breaking-change oracle for AI agents (30 services, MCP + REST).
 
 ### 🎥 <a name="multimedia-process"></a>Multimedia Process
 
@@ -5314,7 +5315,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) 🐍 ☁️ 🏠 - Interact with Obsidian via a REST API.
 - [MaxEllis/orcaslicer-mcp](https://github.com/MaxEllis/orcaslicer-mcp) [![MaxEllis/orcaslicer-mcp MCP server](https://glama.ai/mcp/servers/MaxEllis/orcaslicer-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MaxEllis/orcaslicer-mcp) 🐍 🏠 🍎 🪟 🐧 - Drive a running OrcaSlicer 3D-printing slicer: load models, tune settings, slice, compare variants and render the plate, with an offline settings reference.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) 🎖️ 🦀 🏠 🍎 - Local screen and audio capture with timestamped indexing, SQL and embedding storage, semantic search, history analysis and event-triggered actions.
-- [metorial/metorial](https://github.com/metorial/metorial) 🎖️ 📇 ☁️ - Integration platform connecting AI agents to many services through one interface, with OAuth, scaling and monitoring.
+- [metorial/metorial](https://github.com/metorial/metorial) 🎖️ 📇 ☁️ - Integration platform connecting AI agents
+  to many services through one interface, with OAuth, scaling and monitoring.
 - [modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📇 🏠 - Exercises all features of the MCP protocol.
 - [MonadsAG/capsulecrm-mcp](https://github.com/MonadsAG/capsulecrm-mcp) 📇 ☁️ - Manage contacts, opportunities and tasks in Capsule CRM.
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - Token-efficient access to Go package documentation and types without reading entire source files.
