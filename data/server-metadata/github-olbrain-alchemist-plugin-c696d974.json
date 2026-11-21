@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-olbrain-alchemist-plugin-c696d974",
+  "source": {
+    "issue": 6550,
+    "projectUrl": "https://github.com/Olbrain/alchemist-plugin"
+  },
+  "links": {
+    "docs": "https://docs.olbrain.com"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "none"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth (sign-in in the browser on first use; no environment variables or API keys)"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "claude.ai",
+    "Codex",
+    "Cursor",
+    "Antigravity",
+    "GitHub Copilot",
+    "ChatGPT"
+  ],
+  "tools": {
+    "count": 16,
+    "names": [
+      "whoami",
+      "create_org",
+      "select_org",
+      "list_members",
+      "alchemist",
+      "alchemist_state",
+      "alchemist_do",
+      "alchemist_answer",
+      "alchemist_build",
+      "alchemist_builds",
+      "alchemist_capabilities",
+      "alchemist_connect",
+      "alchemist_show_agent",
+      "alchemist_edit_build",
+      "alchemist_rate_build",
+      "alchemist_stop"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #6550. Source: README install section: https://github.com/Olbrain/alchemist-plugin#install Official MCP Registry entry: `com.olbrain/alchemist`"
+    ]
+  }
+}
