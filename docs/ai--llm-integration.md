@@ -230,7 +230,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [mercadolibre/demo-mercadopago-mcp-server](https://github.com/mercadolibre/demo-mercadopago-mcp-server): Facilitates the integration of Mercado Pago into applications using a Model Context Protocol server.
 - [pymupdf/pymupdf4llm-mcp](https://github.com/pymupdf/pymupdf4llm-mcp): Facilitates the conversion of PDFs to markdown for LLMs using an MCP server.
 - [lkisabeth/nationwide-interview](https://github.com/lkisabeth/nationwide-interview): Facilitates interaction with AWS Bedrock's Prompt Management for generative AI assistants, enabling prompt discovery, creation, and updates.
-- [Shopify/consumer-agent-mcp](https://github.com/Shopify/consumer-agent-mcp): Facilitates communication between LLM agents and MCP servers through a stdio bridge supporting various authentication methods.
 - [thesubtleties/claudebatch](https://github.com/thesubtleties/claudebatch): A command-line tool for batch processing with Claude AI, featuring an MCP server for generating structured learning resources.
 - [johnhenry/memories-lane](https://github.com/johnhenry/memories-lane): Facilitates seamless sharing of conversation context across interactions with LLMs, supporting structured content and customizable prompts.
 - [darinkishore/Inbox-MCP](https://github.com/darinkishore/Inbox-MCP): Facilitates AI-driven email management and automation through natural language commands, leveraging Nylas for seamless integration with major email services.
