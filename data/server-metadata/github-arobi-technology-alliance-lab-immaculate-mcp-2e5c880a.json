@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-arobi-technology-alliance-lab-immaculate-mcp-2e5c880a",
+  "source": {
+    "issue": 6448,
+    "projectUrl": "https://github.com/Arobi-Technology-Alliance-Lab/immaculate-mcp"
+  },
+  "links": {
+    "repo": "https://github.com/Arobi-Technology-Alliance-Lab/immaculate-mcp",
+    "docs": "https://aura-genesis.org/immaculate/mcp/",
+    "homepage": "https://aura-genesis.org/immaculate/mcp/",
+    "endpoint": "https://aura-genesis.org/api/v1/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:Arobi-Technology-Alliance-Lab/immaculate-mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "The local stdio server (the npx command above, Docker, or Node.js 18+ from a clone) runs offline and needs no key.",
+      "The hosted Streamable HTTP endpoint answers initialize and tools/list without a key. Tool calls need an Arobi tenant key in the X-Arobi-Tenant-Key header (or as Authorization: Bearer); a free key starts with 110 credits at https://aura-genesis.org/immaculate/mcp/."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf"
+  ],
+  "tools": {
+    "count": 4,
+    "names": [
+      "arobi_route_grant",
+      "arobi_authorize",
+      "arobi_classify_and_route",
+      "arobi_verify_chain"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary (Arobi Proprietary License)",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @PossumXI, an admin of the Arobi-Technology-Alliance-Lab organization that owns the repository and the maintainer named in its glama.json. Claiming is separate from TensorBlock verification.",
+      "Maintainer check on 2026-11-20: the npx command answers initialize and tools/list over stdio with these 4 tools, and the hosted endpoint answers initialize and tools/list without a key. Tool calls were not part of this check."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@PossumXI"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
