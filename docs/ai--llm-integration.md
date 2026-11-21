@@ -328,7 +328,6 @@ Servers integrating with other AI models, AI platforms, RAG tools, prompt manage
 - [shariqriazz/vertex-ai-mcp-server](https://github.com/shariqriazz/vertex-ai-mcp-server): Facilitates interaction with Google Cloud's Vertex AI Gemini models for coding assistance and query answering.
 - [ihugang/ocrtool-mcp](https://github.com/ihugang/ocrtool-mcp): A macOS-native OCR module leveraging the Vision framework, enabling JSON-RPC based text recognition for LLM tools.
 - [sellersmith/tailorkit-mcp](https://github.com/sellersmith/tailorkit-mcp): TailorKit MCP empowers e-commerce merchants to offer interactive product customization through AI-driven template management and Shopify integration.
-- [zandko/mcp-use](https://github.com/zandko/mcp-use): A TypeScript library facilitating the connection of LangChain.js-compatible LLMs with MCP servers for building AI agents with dynamic tool access.
 - [AdirAmsalem/mcp-it](https://github.com/AdirAmsalem/mcp-it): Automatically transforms Fastify API routes into MCP tools, enabling seamless AI assistant interaction via the MCP protocol.
 - [briankscheong/k8s-mcp-server](https://github.com/briankscheong/k8s-mcp-server): Seamlessly integrates with Kubernetes APIs to enable advanced automation and interaction capabilities for developers, operators, and AI tools.
 - [tomo-ff/remote-mcp-server](https://github.com/tomo-ff/remote-mcp-server): Deploy a remote MCP server on Cloudflare Workers with OAuth login and connect it to Claude Desktop for seamless tool integration.
