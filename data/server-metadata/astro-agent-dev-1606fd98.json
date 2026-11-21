@@ -7,7 +7,7 @@
   },
   "category": "Science & Research",
   "links": {
-    "docs": "https://astro-agent.dev/llms.txt",
+    "docs": "https://astro-agent.dev/docs",
     "endpoint": "https://astro-agent.dev/mcp",
     "homepage": "https://astro-agent.dev"
   },
@@ -20,8 +20,10 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "none",
-    "notes": []
+    "type": "api-key",
+    "notes": [
+      "Send the key in the X-Credits-Token header. initialize, tools/list and a first trial call work without a key; a free key is available at https://astro-agent.dev/pricing."
+    ]
   },
   "clients": [
     "Claude Code",
@@ -29,7 +31,7 @@
     "Cursor"
   ],
   "tools": {
-    "count": 16,
+    "count": 20,
     "source": "self_reported"
   },
   "license": "Hosted proprietary service; the docs repository is public."
