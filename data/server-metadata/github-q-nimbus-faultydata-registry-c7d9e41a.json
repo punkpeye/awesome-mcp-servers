@@ -8,20 +8,13 @@
   "links": {
     "endpoint": "https://faultydata.com/mcp"
   },
-  "install": {
-    "commands": [
-      "mcp.json: {\"mcpServers\":{\"faultydata\":{\"url\":\"https://faultydata.com/mcp\"}}}"
-    ],
-    "env": [],
-    "confidence": "medium"
-  },
   "transport": [
     "streamable-http"
   ],
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "Anonymous access is rate-limited; optional X-API-Key or Authorization: Bearer fd_... raises limits."
     ]
   },
   "clients": [
