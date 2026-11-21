@@ -1,0 +1,55 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aidan-mccollum-patchwell-dcf365fe",
+  "source": {
+    "issue": 5590,
+    "projectUrl": "https://github.com/aidan-mccollum/patchwell"
+  },
+  "links": {
+    "endpoint": "https://patchwell.io/connect",
+    "docs": "https://patchwell.io/quickstart"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://patchwell.io/connect"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth. Connecting opens a Patchwell page where you paste your Patchwell key or get a free one. Clients that send headers can use https://patchwell.io/mcp/ with Authorization: Bearer <PATCHWELL_API_KEY> instead."
+    ]
+  },
+  "clients": [
+    "Claude.ai",
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Gemini CLI",
+    "and other MCP clients that support OAuth or custom headers"
+  ],
+  "license": "MIT",
+  "tools": {
+    "count": 5,
+    "names": [
+      "research",
+      "transcribe",
+      "clean_data",
+      "get_job_result",
+      "listen_clip"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #5590. Source: https://github.com/aidan-mccollum/patchwell#connect (setup for each client, including this mcp-remote command for Claude Desktop) https://patchwell.io/.well-known/oauth-protected-resource/connect (OAuth metadata)..."
+    ]
+  }
+}

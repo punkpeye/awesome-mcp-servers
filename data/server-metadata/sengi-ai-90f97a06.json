@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "sengi-ai-90f97a06",
+  "source": {
+    "issue": 5174,
+    "projectUrl": "https://sengi.ai/"
+  },
+  "links": {
+    "endpoint": "https://mcp.sengi.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT"
+  ],
+  "license": "Proprietary (hosted service)"
+}

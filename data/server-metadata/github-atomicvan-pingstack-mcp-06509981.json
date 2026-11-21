@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-atomicvan-pingstack-mcp-06509981",
+  "source": {
+    "issue": 5622,
+    "projectUrl": "https://github.com/atomicvan/pingstack-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @jchance in #5622 under the community profile-claim process.",
+      "Requested profile metadata in #5622: Category: Monitoring & Observability Transport: streamable-http Auth: oauth Install confidence: low License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@jchance"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

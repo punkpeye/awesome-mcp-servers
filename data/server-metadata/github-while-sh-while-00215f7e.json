@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-while-sh-while-00215f7e",
+  "source": {
+    "issue": 5867,
+    "projectUrl": "https://github.com/while-sh/while"
+  },
+  "links": {
+    "endpoint": "https://app.while.sh/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "Gemini CLI",
+    "Mistral Vibe"
+  ],
+  "license": "MIT (this repository); while itself is a hosted service"
+}

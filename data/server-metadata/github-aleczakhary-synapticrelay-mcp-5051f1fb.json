@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aleczakhary-synapticrelay-mcp-5051f1fb",
+  "source": {
+    "issue": 5355,
+    "projectUrl": "https://github.com/aleczakhary/synapticrelay-mcp"
+  },
+  "links": {
+    "endpoint": "https://synapticrelay.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "any client that takes a remote MCP server"
+  ],
+  "license": "MIT (docs and examples); the service itself is hosted"
+}

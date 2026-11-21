@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "dispola-ca-df014acc",
+  "source": {
+    "issue": 5662,
+    "projectUrl": "https://dispola.ca"
+  },
+  "links": {
+    "endpoint": "https://dispola.ca/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "ChatGPT (developer mode)"
+  ]
+}

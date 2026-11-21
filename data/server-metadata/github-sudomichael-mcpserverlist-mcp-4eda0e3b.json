@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sudomichael-mcpserverlist-mcp-4eda0e3b",
+  "source": {
+    "issue": 5366,
+    "projectUrl": "https://github.com/sudomichael/mcpserverlist-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcpserverlist.io/mcp"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "MIT",
+  "install": {
+    "commands": [
+      "npx -y mcpserverlist-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  }
+}

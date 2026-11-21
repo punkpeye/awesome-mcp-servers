@@ -1,0 +1,59 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-amaltash-hq-mcp-dee97c99",
+  "source": {
+    "issue": 5790,
+    "projectUrl": "https://github.com/amaltash-hq/mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @arpwal in #5789 under the community profile-claim process.",
+      "Requested profile metadata in #5789: - Homepage / Docs URL: https://amaltash.com/mcp/calculators - License: MIT - Support: https://github.com/amaltash-hq/mcp/issues",
+      "Metadata updated from issue #5790. Source: - README install section: https://github.com/amaltash-hq/mcp#install - License: https://github.com/amaltash-hq/mcp/blob/main/LICENSE - Live `tools/list` on https://tools.amaltash.com/mcp - Official MCP Registry:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@arpwal"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "links": {
+    "docs": "https://amaltash.com/mcp/calculators",
+    "endpoint": "https://tools.amaltash.com/mcp"
+  },
+  "license": "MIT",
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Code"
+  ],
+  "tools": {
+    "count": 14,
+    "names": [
+      "compound_interest",
+      "retirement_plan",
+      "plan_recurring_investment",
+      "sp500_since_date",
+      "replay_past_investing",
+      "dca_vs_lump_sum",
+      "tbill_ladder",
+      "safe_spending",
+      "sequence_risk",
+      "crash_impact",
+      "drawdown_recovery",
+      "net_worth_check",
+      "position_size",
+      "list_assets"
+    ],
+    "source": "self_reported"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mowteng-app-44270b3b",
+  "source": {
+    "issue": 5410,
+    "projectUrl": "https://mowteng.app"
+  },
+  "links": {
+    "endpoint": "https://mowteng.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini",
+    "Windsurf",
+    "Antigravity"
+  ],
+  "license": "Proprietary (hosted service; 7-day free trial, then paid)"
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ailinkanycom-ailinkany-7eacb7de",
+  "source": {
+    "issue": 5586,
+    "projectUrl": "https://github.com/AiLinkAnyCom/ailinkany"
+  },
+  "links": {
+    "endpoint": "https://mcp.ailinkany.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Kilo CLI 7.8.17 (OAuth and connected status verified)",
+    "Glama (authenticated health profile). Other documented client integrations have varying validation coverage."
+  ],
+  "license": "Proprietary core service and Windows client; public integration repository, no root LICENSE found."
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-etacbae6768-a11y-toolsthatdontupload-mcp-f0206597",
+  "source": {
+    "issue": 5264,
+    "projectUrl": "https://github.com/etacbae6768-a11y/toolsthatdontupload-mcp"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "other MCP clients"
+  ],
+  "license": "MIT",
+  "install": {
+    "commands": [
+      "npx -y toolsthatdontupload-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ]
+}

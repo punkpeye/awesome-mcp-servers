@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-protocolprobe-protocolprobe-tools-6dc37de0",
+  "source": {
+    "issue": 5347,
+    "projectUrl": "https://github.com/protocolprobe/protocolprobe-tools/tree/main/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y protocolprobe-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client that can run a stdio server (tested with the official MCP SDK client)"
+  ],
+  "license": "ISC"
+}

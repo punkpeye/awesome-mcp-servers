@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cloudgpu-app-cloudgpu-mcp-8b1f765d",
+  "source": {
+    "issue": 4683,
+    "projectUrl": "https://github.com/cloudgpu-app/cloudgpu-mcp"
+  },
+  "links": {
+    "docs": "https://cloudgpu.app/docs/mcp",
+    "endpoint": "https://cloudgpu.app/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y cloudgpu-mcp"
+    ],
+    "env": [
+      "CLOUDGPU_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key",
+      "optional: connect_account browser approval issues a key with spending limit, GPU count and expiry"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Cline",
+    "opencode",
+    "goose",
+    "VS Code",
+    "Windsurf"
+  ],
+  "license": "MIT"
+}

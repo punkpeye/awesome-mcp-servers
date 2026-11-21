@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tensorust-com-developers-8dde0265",
+  "source": {
+    "issue": 6189,
+    "projectUrl": "https://tensorust.com/developers/"
+  },
+  "links": {
+    "endpoint": "https://mcp.tensorust.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cline",
+    "Cursor",
+    "VS Code",
+    "any Streamable HTTP client"
+  ],
+  "license": "MIT (client config repo); hosted service proprietary"
+}

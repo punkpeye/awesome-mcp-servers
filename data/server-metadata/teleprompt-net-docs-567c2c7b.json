@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "teleprompt-net-docs-567c2c7b",
+  "source": {
+    "issue": 5387,
+    "projectUrl": "https://teleprompt.net/docs#claude"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Armulee in #5387 under the community profile-claim process.",
+      "Requested profile metadata in #5387: - Name: Teleprompt.net - Homepage: https://teleprompt.net - Docs: https://teleprompt.net/docs#claude - Support: hello@teleprompt.net - Transport: Streamable HTTP, remote, `https://teleprompt.net/api/mcp` - Auth:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Armulee"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "links": {
+    "homepage": "https://teleprompt.net",
+    "docs": "https://teleprompt.net/docs#claude",
+    "endpoint": "https://teleprompt.net/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "tools": {
+    "count": 1,
+    "names": [
+      "open_in_teleprompter"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary hosted service, free, no sign-up"
+}

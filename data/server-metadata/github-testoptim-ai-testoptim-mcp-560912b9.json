@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-testoptim-ai-testoptim-mcp-560912b9",
+  "source": {
+    "issue": 5253,
+    "projectUrl": "https://github.com/TestOptim-AI/testoptim-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.testoptim.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "TESTOPTIM_TOKEN"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "other clients with remote HTTP and custom headers"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @shahidcodes in #5679 under the community profile-claim process.",
+      "Requested profile metadata in #5679: - Description: Lets an agent run AI QA test suites on a web app and read the bugs they find. - Remote endpoint: https://api.testoptim.com/api/mcp - Transport: streamable-http - Auth: API key or OAuth (OAuth 2.1 with..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@shahidcodes"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

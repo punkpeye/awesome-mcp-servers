@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "favicongenerator-io-developers-83ba3ac0",
+  "source": {
+    "issue": 5396,
+    "projectUrl": "https://favicongenerator.io/developers"
+  },
+  "links": {
+    "endpoint": "https://favicongenerator.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Codex"
+  ],
+  "license": "Hosted service, free to use (source not published)"
+}

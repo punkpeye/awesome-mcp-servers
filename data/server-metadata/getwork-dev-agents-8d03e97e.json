@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getwork-dev-agents-8d03e97e",
+  "source": {
+    "issue": 5630,
+    "projectUrl": "https://getwork.dev/agents/"
+  },
+  "links": {
+    "endpoint": "https://getwork.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude (web/desktop)",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI"
+  ],
+  "license": "Proprietary hosted service, free to use"
+}

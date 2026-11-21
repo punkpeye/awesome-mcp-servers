@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "slowo-io-mcp-9921d4b8",
+  "source": {
+    "issue": 5335,
+    "projectUrl": "https://slowo.io/mcp"
+  },
+  "links": {
+    "endpoint": "https://slowo.io/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "Proprietary hosted service."
+}

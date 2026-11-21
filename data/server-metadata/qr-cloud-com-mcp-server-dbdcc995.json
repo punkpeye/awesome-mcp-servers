@@ -1,0 +1,43 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "qr-cloud-com-mcp-server-dbdcc995",
+  "source": {
+    "issue": 5310,
+    "projectUrl": "https://qr-cloud.com/mcp-server/"
+  },
+  "links": {
+    "endpoint": "https://qr-cloud.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web, desktop, mobile)",
+    "ChatGPT",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Windsurf"
+  ],
+  "license": "Proprietary (hosted service)",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @ritzelm in #5345 under the community profile-claim process.",
+      "Requested profile metadata in #5345: Category: Marketing, Sales & CRM Transport: streamable-http Auth: oauth Install confidence: low License: Proprietary (hosted service) Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@ritzelm"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

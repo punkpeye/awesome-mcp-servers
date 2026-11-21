@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "inboxesim-com-529bb395",
+  "source": {
+    "issue": 5461,
+    "projectUrl": "https://inboxesim.com"
+  },
+  "links": {
+    "endpoint": "https://inboxesim.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any client that supports remote streamable HTTP servers",
+    "for example Claude",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Proprietary hosted service (no source repository)"
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-bitbusca-juris-licita-mcp-0de53057",
+  "source": {
+    "issue": 5491,
+    "projectUrl": "https://github.com/bitbusca/juris-licita-mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "BITBUSCA_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Public tools need no key; optional BITBUSCA_API_KEY enables additional services."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}

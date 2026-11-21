@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "storefinch-com-02e2fdce",
+  "source": {
+    "issue": 5421,
+    "projectUrl": "https://storefinch.com"
+  },
+  "links": {
+    "endpoint": "https://storefinch.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop / Claude.ai (custom connector)",
+    "Cursor",
+    "any Streamable HTTP client"
+  ],
+  "license": "Hosted service (free tier; Pro $19/month). Data: CDLA-Permissive-2.0, Apache-2.0 and CC0 per record."
+}

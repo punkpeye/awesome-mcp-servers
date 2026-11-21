@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-abo3skralmasaoodi-valmera-mcp-fb2cab9b",
+  "source": {
+    "issue": 5464,
+    "projectUrl": "https://github.com/ABO3SKRALMASAOODI/valmera-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT custom MCP connectors (account/workspace availability applies)",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Gemini CLI"
+  ],
+  "license": "MIT for public connector docs, manifests and skills; hosted editing service is commercial: https://valmera.io/legal",
+  "links": {
+    "endpoint": "https://valmera.io/mcp/server",
+    "docs": "https://valmera.io/mcp/setup"
+  }
+}

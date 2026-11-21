@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ufortstephen-localize-dev-5ea52ed6",
+  "source": {
+    "issue": 5910,
+    "projectUrl": "https://github.com/ufortstephen/localize-dev"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @ufortstephen in #5910 under the community profile-claim process.",
+      "Requested profile metadata in #5910: Category: Developer Productivity & Utilities Transport: stdio, streamable-http Auth: oauth Install confidence: medium License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@ufortstephen"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
