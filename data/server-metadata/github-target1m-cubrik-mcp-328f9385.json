@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-target1m-cubrik-mcp-328f9385",
+  "source": {
+    "issue": 6521,
+    "projectUrl": "https://github.com/target1m/cubrik-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.cubrik.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI"
+  ],
+  "license": "MIT for the plugin and docs repo; the hosted server is closed-source."
+}
