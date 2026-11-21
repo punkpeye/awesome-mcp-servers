@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-netdryrun-netdryrun-11f20bbd",
+  "source": {
+    "issue": 6560,
+    "projectUrl": "https://github.com/netdryrun/Netdryrun"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client that runs a local stdio server (Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Codex)"
+  ],
+  "license": "Apache-2.0"
+}
