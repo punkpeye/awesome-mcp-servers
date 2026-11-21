@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "docs-noderings-com-docs-client-guides-mcp-0397f4ae",
+  "source": {
+    "issue": 6518,
+    "projectUrl": "https://docs.noderings.com/docs/client-guides/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.noderings.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "other MCP clients"
+  ],
+  "license": "unknown"
+}

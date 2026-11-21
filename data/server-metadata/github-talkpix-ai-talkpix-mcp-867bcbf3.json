@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-talkpix-ai-talkpix-mcp-867bcbf3",
+  "source": {
+    "issue": 6510,
+    "projectUrl": "https://github.com/TalkPix-AI/talkpix-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.talkpix.ai/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude"
+  ],
+  "license": "Proprietary hosted service. The GitHub repository publishes the manifest and setup documentation."
+}
