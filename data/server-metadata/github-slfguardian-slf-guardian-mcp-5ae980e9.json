@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-slfguardian-slf-guardian-mcp-5ae980e9",
+  "source": {
+    "issue": 6502,
+    "projectUrl": "https://github.com/slfguardian/slf-guardian-mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx --from slf-guardian-mcp==1.2.1 slf-guardian-mcp"
+    ],
+    "env": [
+      "SLF_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code Copilot"
+  ],
+  "license": "MIT"
+}

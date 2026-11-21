@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-shannonbay-quarterdeck-01c53105",
+  "source": {
+    "issue": 6527,
+    "projectUrl": "https://github.com/shannonbay/Quarterdeck"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code"
+  ],
+  "license": "Apache-2.0"
+}
