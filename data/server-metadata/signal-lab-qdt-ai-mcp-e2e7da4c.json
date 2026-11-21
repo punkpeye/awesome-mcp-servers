@@ -1,6 +1,6 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "signal-lab-jet-vercel-app-mcp-169f1888",
+  "id": "signal-lab-qdt-ai-mcp-e2e7da4c",
   "source": {
     "issue": 5054,
     "projectUrl": "https://signal-lab.qdt.ai/mcp"
