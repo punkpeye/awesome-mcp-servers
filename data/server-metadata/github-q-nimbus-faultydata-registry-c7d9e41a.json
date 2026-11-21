@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-q-nimbus-faultydata-registry-c7d9e41a",
+  "source": {
+    "issue": 6498,
+    "projectUrl": "https://github.com/Q-Nimbus/faultydata-registry"
+  },
+  "links": {
+    "endpoint": "https://faultydata.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Anonymous access is rate-limited; optional X-API-Key or Authorization: Bearer fd_... raises limits."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "any Streamable HTTP MCP client"
+  ],
+  "license": "MIT"
+}
