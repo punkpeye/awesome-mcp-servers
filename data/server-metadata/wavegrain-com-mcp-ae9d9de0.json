@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "wavegrain-com-mcp-ae9d9de0",
+  "source": {
+    "issue": 5771,
+    "projectUrl": "https://wavegrain.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://wavegrain.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "WAVEGRAIN_MCP_TOKEN"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (claude.ai and Claude Code)",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT (public repo); the server is hosted"
+}

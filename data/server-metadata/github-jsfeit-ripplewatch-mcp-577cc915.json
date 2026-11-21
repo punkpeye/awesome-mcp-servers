@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jsfeit-ripplewatch-mcp-577cc915",
+  "source": {
+    "issue": 5942,
+    "projectUrl": "https://github.com/jsfeit/ripplewatch-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.ripplewatch.ai/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT"
+}

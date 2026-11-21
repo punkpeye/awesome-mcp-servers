@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-airport-lounge-list-mcp-server-57d84bdf",
+  "source": {
+    "issue": 4723,
+    "projectUrl": "https://github.com/Airport-Lounge-List/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.airportloungelist.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "Gemini CLI"
+  ],
+  "license": "MIT"
+}

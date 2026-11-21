@@ -6,7 +6,9 @@
     "projectUrl": "https://directmailamerica.com/docs/mcp"
   },
   "links": {
-    "endpoint": "https://directmailamerica.com/api/mcp"
+    "endpoint": "https://directmailamerica.com/api/mcp",
+    "docs": "https://directmailamerica.com/docs/mcp",
+    "homepage": "https://directmailamerica.com"
   },
   "transport": [
     "streamable-http"
@@ -17,5 +19,10 @@
       "oauth; workspace bearer API key is also supported. Public initialization and tool enumeration do not require credentials."
     ]
   },
-  "license": "Hosted proprietary service; no public backend source repository is being submitted."
+  "license": "Hosted proprietary service; no public backend source repository is being submitted.",
+  "description": "Full profile: 75 tools for U.S. letters, Certified Mail, postcards, editable cover sheets and both email-to-mail services, with approval bound to the mailing and exact total. The documented Narrow profile offers 23 focused tools at https://directmailamerica.com/api/mcp-narrow.",
+  "tools": {
+    "count": 75,
+    "source": "self_reported"
+  }
 }

@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-hronaut-hronaut-1bf07b46",
+  "source": {
+    "issue": 4864,
+    "projectUrl": "https://github.com/hronaut/hronaut"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Hronom in #4864 under the community profile-claim process.",
+      "Requested profile metadata in #4864: - Homepage: https://hronaut.dev - Setup docs: https://hronaut.dev/setup - Downloads: https://github.com/hronaut/hronaut/releases/latest (Windows x64, macOS arm64/x64, Linux arm64/x64) - Install: download and start..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Hronom"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

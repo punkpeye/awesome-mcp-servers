@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-skatkov-posh-mcp-ccf3fa46",
+  "source": {
+    "issue": 4791,
+    "projectUrl": "https://github.com/skatkov/posh-mcp"
+  },
+  "links": {
+    "docs": "https://poshtui.com/docs/mcp/"
+  },
+  "install": {
+    "commands": [
+      "brew install --cask skatkov/tap/poshtui"
+    ],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "other \u2014 locally activated POSH agent-tools license; no API-key environment variable, bearer header, or remote OAuth flow."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "OpenCode"
+  ],
+  "tools": {
+    "count": 6,
+    "names": [
+      "docsets",
+      "search",
+      "list",
+      "outline",
+      "read",
+      "sync"
+    ],
+    "source": "self_reported"
+  },
+  "license": "proprietary; the public repository contains installation metadata, not application source.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #4791. Source: Thanks for merging https://github.com/TensorBlock/awesome-mcp-servers/pull/4742. The public API currently returns `auth: \"api-key\"` even though the entry's description correctly explains local license activation and..."
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-quasarui-quasarui-mcp-6f56b39b",
+  "source": {
+    "issue": 4968,
+    "projectUrl": "https://github.com/quasarui/quasarui-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.quasarui.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y quasarui-mcp",
+      "quasarui-mcp"
+    ],
+    "env": [
+      "QUASARUI_ACCESS_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Optional QUASARUI_ACCESS_KEY for local stdio or Authorization: Bearer for hosted access; free components need no key."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "any MCP client"
+  ],
+  "license": "MIT"
+}

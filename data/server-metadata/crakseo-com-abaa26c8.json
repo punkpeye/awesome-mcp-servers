@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "crakseo-com-abaa26c8",
+  "source": {
+    "issue": 4867,
+    "projectUrl": "https://crakseo.com"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth (or scoped bearer API key)"
+    ]
+  },
+  "clients": [
+    "Client-specific connection guides are linked from the documentation. Not claiming an independently completed native-client acceptance test in this submission."
+  ],
+  "license": "Proprietary hosted service; no public-source license claimed.",
+  "links": {
+    "endpoint": "https://crakseo.com/mcp/seo",
+    "docs": "https://docs.crakseo.com/seo-mcp/connect"
+  },
+  "description": "SEO MCP: Google SERP, keyword volume, backlinks, rank tracking and site audits for AI agents. Separate URL Indexing MCP: Google indexer: free IndexNow, Bing, sitemap and index checks; paid backlink force indexing Which one do I need? Own pages: free submission + index check first. Backlinks: Force indexing (paid). Google has no public indexing API, so free submission can't force Google; Force indexing is the paid option. Indexing endpoint: https://crakseo.com/mcp/url-indexing",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #4867. Source: I maintain CrakSEO. This corrects the existing suite profile added by #4734 and merged in #4735; it is not a request for another listing or server. The description is 480 characters, within the metadata automation's..."
+    ]
+  }
+}

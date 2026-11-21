@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-voltagegpu-voltagegpu-cli-44ad96e6",
+  "source": {
+    "issue": 4834,
+    "projectUrl": "https://github.com/VoltageGPU/VOLTAGEGPU-CLI"
+  },
+  "links": {
+    "endpoint": "https://voltagegpu.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "VOLT_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "API key"
+    ]
+  },
+  "clients": [
+    "Claude Code (tested 2026-10-28)",
+    "any MCP client that runs a stdio server"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sureshkumarm8-devicely-6af40609",
+  "source": {
+    "issue": 6003,
+    "projectUrl": "https://github.com/sureshkumarm8/devicely"
+  },
+  "install": {
+    "commands": [
+      "npx -y devicely mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Cline"
+  ],
+  "license": "Proprietary, free to use; public repository contains the published distribution and documentation.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @sureshkumarm8 in #6043 under the community profile-claim process.",
+      "Requested profile metadata in #6043: Category: Developer Productivity & Utilities Transport: stdio Auth: none Install confidence: medium License: Proprietary, free to use; public repository contains the published distribution and documentation...."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@sureshkumarm8"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

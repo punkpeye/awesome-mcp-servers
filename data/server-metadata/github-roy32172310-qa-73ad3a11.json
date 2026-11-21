@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-roy32172310-qa-73ad3a11",
+  "source": {
+    "issue": 4994,
+    "projectUrl": "https://github.com/ROY32172310/qa"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @ROY32172310 in #4994 under the community profile-claim process."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@ROY32172310"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

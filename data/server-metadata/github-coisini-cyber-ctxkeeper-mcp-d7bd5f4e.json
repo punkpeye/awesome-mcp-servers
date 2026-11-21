@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-coisini-cyber-ctxkeeper-mcp-d7bd5f4e",
+  "source": {
+    "issue": 5203,
+    "projectUrl": "https://github.com/Coisini-cyber/ctxkeeper-mcp"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "OpenCode",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "any stdio MCP client"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by repository owner @Coisini-cyber in #5272; metadata is self-reported."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Coisini-cyber"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "install": {
+    "commands": [
+      "npx -y github:Coisini-cyber/ctxkeeper-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "links": {
+    "docs": "https://github.com/Coisini-cyber/ctxkeeper-mcp/blob/main/docs/clients.md",
+    "homepage": "https://coisini-cyber.github.io/ctxkeeper-mcp/"
+  }
+}

@@ -2,12 +2,12 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "github-prereason-mcp-db65d77a",
   "source": {
-    "issue": 4304,
+    "issue": 4772,
     "projectUrl": "https://github.com/PreReason/mcp"
   },
-  "description": "PreReason gives AI agents financial market context across asset classes and regions: briefings reasoned in advance, over MCP and REST, as Markdown or JSON.",
+  "description": "PreReason gives AI agents financial market context reasoned in advance, from the economy and markets to listed companies' reported results. Agents start at https://www.prereason.com/agents.md",
   "links": {
-    "docs": "https://www.prereason.com/docs#mcp-integration"
+    "docs": "https://www.prereason.com/agents.md"
   },
   "transport": [
     "stdio",
@@ -16,7 +16,8 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Metadata updated from issue #4304. Source: https://github.com/PreReason/mcp and https://www.prereason.com/docs#mcp-integration"
+      "Metadata updated from issue #4304. Source: https://github.com/PreReason/mcp and https://www.prereason.com/docs#mcp-integration",
+      "Metadata updated from issue #4772. Source: https://github.com/PreReason/mcp and https://www.prereason.com/agents.md"
     ]
   }
 }

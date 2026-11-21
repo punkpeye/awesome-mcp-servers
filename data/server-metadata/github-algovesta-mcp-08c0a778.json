@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-algovesta-mcp-08c0a778",
+  "source": {
+    "issue": 6427,
+    "projectUrl": "https://github.com/AlgoVesta/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.algovesta.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "Cline"
+  ],
+  "license": "Docs and client configs: CC BY 4.0; the hosted server is proprietary",
+  "description": "Places and manages orders on 16 crypto exchanges and on MetaTrader 5 broker accounts from one hosted MCP connection. 20 tools: portfolio and position reads, order simulation, order placement and modification, closing positions, and a signed receipt for each action. New connections use a paper scope with a $5,000 virtual balance; the live scope needs a separate key behind a second factor. Risk rules (required stop-loss, user-set limits) are evaluated on the server. MT5 accounts run on terminals operated by AlgoVesta, so no EA or VPS is needed on the user side.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #6427. Source: https://github.com/TensorBlock/awesome-mcp-servers/pull/6153 - the indexed description starts with \"Suggested category: ...\", which was a category note I added to the submission form, not part of the description...."
+    ]
+  }
+}

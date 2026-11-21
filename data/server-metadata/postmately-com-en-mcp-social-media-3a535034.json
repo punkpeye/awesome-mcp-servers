@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "postmately-com-en-mcp-social-media-3a535034",
+  "source": {
+    "issue": 5599,
+    "projectUrl": "https://postmately.com/en/mcp-social-media/"
+  },
+  "links": {
+    "endpoint": "https://api.postmately.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth API-key authentication is also supported."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Gemini CLI"
+  ],
+  "license": "Hosted service; the client repo (skill, setup docs, Gemini CLI extension) is MIT."
+}

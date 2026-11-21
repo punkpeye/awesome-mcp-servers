@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-eno654-oxyo-mcp-1023d92d",
+  "source": {
+    "issue": 5768,
+    "projectUrl": "https://github.com/Eno654/oxyo-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Eno654 in #5768 under the community profile-claim process.",
+      "Requested profile metadata in #5768: - Install: `uvx oxyo-mcp` - Endpoint: `https://oxyo.si/mcp` - Transport: `stdio`, `streamable-http` - Auth: `bearer` - Docs URL: `https://oxyo.si/mcp` - License: `MIT`"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Eno654"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "links": {
+    "endpoint": "https://oxyo.si/mcp",
+    "docs": "https://oxyo.si/mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx oxyo-mcp"
+    ]
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Bearer access token for authenticated tools."
+    ]
+  },
+  "license": "MIT"
+}

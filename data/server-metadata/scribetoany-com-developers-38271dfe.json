@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "scribetoany-com-developers-38271dfe",
+  "source": {
+    "issue": 5548,
+    "projectUrl": "https://scribetoany.com/developers"
+  },
+  "links": {
+    "endpoint": "https://scribetoany.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "VS Code"
+  ],
+  "license": "Hosted service is proprietary; CLI and skills are MIT"
+}

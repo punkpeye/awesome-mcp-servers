@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "fork-zone-from-tensorblock-8ff6b7b9",
+  "source": {
+    "issue": 5948,
+    "projectUrl": "https://fork.zone/from/tensorblock"
+  },
+  "links": {
+    "endpoint": "https://fork.zone/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Gemini CLI",
+    "any streamable-HTTP MCP client"
+  ],
+  "license": "MIT (skill repo)"
+}

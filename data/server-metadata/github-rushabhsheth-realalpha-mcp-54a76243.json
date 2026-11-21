@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rushabhsheth-realalpha-mcp-54a76243",
+  "source": {
+    "issue": 5030,
+    "projectUrl": "https://github.com/rushabhsheth/realalpha-mcp"
+  },
+  "links": {
+    "endpoint": "https://realalpha.app/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://realalpha.app/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Claude Code"
+  ],
+  "license": "MIT"
+}

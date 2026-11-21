@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-anbani-tech-dropshippingleads-mcp-b21ae8aa",
+  "source": {
+    "issue": 5005,
+    "projectUrl": "https://github.com/anbani-tech/dropshippingleads-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.dropshippingleads.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "MIT (code only); separate Free Data Terms v1.0 for data"
+}

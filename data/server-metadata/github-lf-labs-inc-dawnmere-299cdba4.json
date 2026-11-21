@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lf-labs-inc-dawnmere-299cdba4",
+  "source": {
+    "issue": 5730,
+    "projectUrl": "https://github.com/LF-Labs-Inc/dawnmere"
+  },
+  "install": {
+    "commands": [
+      "npx -y dawnmere-connector"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Claude Desktop",
+    "Windsurf",
+    "Gemini CLI",
+    "VS Code"
+  ],
+  "license": "MIT client, source-available engine (FSL-1.1-MIT)"
+}

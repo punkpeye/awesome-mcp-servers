@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sendnf-sendnf-mcp-3cd5b297",
+  "source": {
+    "issue": 5602,
+    "projectUrl": "https://github.com/sendnf/sendnf-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.sendnf.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor"
+  ],
+  "license": "unknown"
+}

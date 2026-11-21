@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-asobeast-asobeast-062da057",
+  "source": {
+    "issue": 4827,
+    "projectUrl": "https://github.com/AsoBeast/asobeast"
+  },
+  "links": {
+    "endpoint": "https://app.asobeast.com/api/backend/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Codex",
+    "Gemini CLI"
+  ],
+  "license": "AGPL-3.0"
+}

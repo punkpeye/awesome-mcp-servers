@@ -18,6 +18,10 @@ on:
       - "vitest.config.ts"
   workflow_dispatch:
 
+concurrency:
+  group: deploy-registry-api-production
+  cancel-in-progress: false
+
 jobs:
   deploy:
     name: Build and deploy registry API

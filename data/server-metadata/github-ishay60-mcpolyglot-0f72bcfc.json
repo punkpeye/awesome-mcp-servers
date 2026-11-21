@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ishay60-mcpolyglot-0f72bcfc",
+  "source": {
+    "issue": 4690,
+    "projectUrl": "https://github.com/ishay60/mcpolyglot"
+  },
+  "install": {
+    "commands": [
+      "npx @mcpolyglot/cli init \"$DATABASE_URL\"",
+      "npx @mcpolyglot/cli serve"
+    ],
+    "env": [
+      "DATABASE_URL"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "HTTP uses per-agent bearer tokens; local stdio requires no MCP authentication."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "any MCP client"
+  ],
+  "license": "MIT"
+}

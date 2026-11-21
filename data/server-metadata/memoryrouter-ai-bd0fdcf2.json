@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "memoryrouter-ai-bd0fdcf2",
+  "source": {
+    "projectUrl": "https://memoryrouter.ai"
+  },
+  "description": "Hosted memory service that gives a person's AI clients one shared vault over remote Streamable HTTP MCP, with search by meaning or by date window, approved saves, connection status, tiered consolidation and deletion.",
+  "category": "Knowledge Management & Memory",
+  "links": {
+    "docs": "https://docs.memoryrouter.ai/mcp",
+    "homepage": "https://memoryrouter.ai",
+    "endpoint": "https://mcp.memoryrouter.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth with PKCE and RFC 9728 discovery. Each grant is bound to one OAuth-selected vault with independent memories:read, memories:write and memories:delete scopes.",
+      "No API key or Memory Key is entered in the host for MCP connections."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cowork",
+    "Claude Code",
+    "Codex",
+    "OpenClaw",
+    "Any MCP client supporting remote Streamable HTTP and OAuth"
+  ],
+  "tools": {
+    "count": 10,
+    "names": [
+      "search_memories",
+      "date_search_memories",
+      "store_memory",
+      "memory_status",
+      "forget_all_memories",
+      "consolidate_memories",
+      "commit_reflections",
+      "inspect_memory",
+      "delete_memories",
+      "search"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Hosted service, no local package. Terms: https://memoryrouter.ai/terms",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "initialize against https://mcp.memoryrouter.ai/mcp returned HTTP 200 with serverInfo name MemoryRouter and version 1.1.0 on 2026-10-27.",
+      "tools/list on 2026-10-27 returned the ten tool names recorded here, and search is documented as a compatibility alias.",
+      "Homepage, MCP setup page, docs and terms returned HTTP 200 on 2026-10-27."
+    ]
+  }
+}

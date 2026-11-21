@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "roomlab-app-en-mcp-9a0f91d4",
+  "source": {
+    "issue": 5394,
+    "projectUrl": "https://roomlab.app/en/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.roomlab.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "and any MCP client with Streamable HTTP and OAuth"
+  ],
+  "license": "Proprietary (hosted, closed source)"
+}

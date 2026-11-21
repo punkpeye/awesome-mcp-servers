@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-error-path-opendrs-c39fcf3e",
+  "source": {
+    "issue": 6480,
+    "projectUrl": "https://github.com/error-path/opendrs"
+  },
+  "install": {
+    "commands": [
+      "npx -y @error-path/opendrs mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}

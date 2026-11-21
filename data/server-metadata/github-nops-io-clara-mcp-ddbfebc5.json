@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nops-io-clara-mcp-ddbfebc5",
+  "source": {
+    "issue": 5011,
+    "projectUrl": "https://github.com/nops-io/clara-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @jordanatnops in #5011 under the community profile-claim process.",
+      "Requested profile metadata in #5011: Category: Cloud Platforms & Services Transport: streamable-http Auth: oauth Install confidence: low License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@jordanatnops"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

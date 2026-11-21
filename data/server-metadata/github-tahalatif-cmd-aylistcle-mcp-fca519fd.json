@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-tahalatif-cmd-aylistcle-mcp-fca519fd",
+  "source": {
+    "issue": 5944,
+    "projectUrl": "https://github.com/tahalatif-cmd/aylistcle-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.aylistcle.com/api/mcp/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Zed",
+    "Gemini CLI"
+  ],
+  "license": "MIT"
+}

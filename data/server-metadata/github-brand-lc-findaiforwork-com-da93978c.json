@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-brand-lc-findaiforwork-com-da93978c",
+  "source": {
+    "issue": 4910,
+    "projectUrl": "https://github.com/brand-lc/findaiforwork.com"
+  },
+  "links": {
+    "endpoint": "https://findaiforwork.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}

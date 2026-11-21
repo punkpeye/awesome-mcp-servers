@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "requstory-com-developers-api-972a4c12",
+  "source": {
+    "issue": 4800,
+    "projectUrl": "https://requstory.com/developers/api/"
+  },
+  "links": {
+    "endpoint": "https://requstory.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI"
+  ],
+  "license": "Hosted service; CLI and registry files MIT (https://github.com/3d7tech/requstory-cli)"
+}

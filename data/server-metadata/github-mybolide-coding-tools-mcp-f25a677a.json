@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mybolide-coding-tools-mcp-f25a677a",
+  "source": {
+    "projectUrl": "https://github.com/mybolide/coding-tools-mcp"
+  },
+  "description": "Rust + Tauri 2 desktop MCP workspace: file edits, command and test execution, Git status, and resumable history sessions for AI coding agents.",
+  "category": "Code Execution",
+  "links": {
+    "docs": "https://github.com/mybolide/coding-tools-mcp#readme"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Local desktop endpoint; configure authentication and a tunnel for remote access."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "any stdio MCP client"
+  ],
+  "license": "Apache-2.0"
+}

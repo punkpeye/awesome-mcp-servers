@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-agentweb-labs-agentweb-mcp-34e87989",
+  "source": {
+    "issue": 5881,
+    "projectUrl": "https://github.com/AgentWeb-Labs/agentweb-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.agentweb.us/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Codex CLI",
+    "Cursor"
+  ],
+  "license": "Apache-2.0"
+}

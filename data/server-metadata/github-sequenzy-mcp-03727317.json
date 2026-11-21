@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sequenzy-mcp-03727317",
+  "source": {
+    "issue": 5094,
+    "projectUrl": "https://github.com/Sequenzy/mcp"
+  },
+  "links": {
+    "docs": "https://docs.sequenzy.com/concepts/mcp",
+    "endpoint": "https://api.sequenzy.com/v1/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @sequenzy/mcp"
+    ],
+    "env": [
+      "SEQUENZY_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "api-key for local stdio; per-customer OAuth or API key for remote Streamable HTTP. No shared credentials."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "ChatGPT (remote connector/plugin)"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #5094. Source: - https://github.com/Sequenzy/mcp#readme - https://github.com/Sequenzy/mcp/blob/main/LICENSE - https://www.npmjs.com/package/@sequenzy/mcp - https://docs.sequenzy.com/concepts/mcp"
+    ]
+  }
+}

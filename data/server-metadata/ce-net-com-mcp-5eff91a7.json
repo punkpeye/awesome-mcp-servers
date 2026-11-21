@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "ce-net-com-mcp-5eff91a7",
+  "source": {
+    "issue": 4984,
+    "projectUrl": "https://ce-net.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://ce-net.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Codex",
+    "Gemini CLI"
+  ]
+}

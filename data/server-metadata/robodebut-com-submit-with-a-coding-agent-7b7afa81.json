@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "robodebut-com-submit-with-a-coding-agent-7b7afa81",
+  "source": {
+    "issue": 5398,
+    "projectUrl": "https://robodebut.com/submit-with-a-coding-agent"
+  },
+  "links": {
+    "endpoint": "https://robodebut.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "webprompter-ai-806080e6",
+  "source": {
+    "issue": 5647,
+    "projectUrl": "https://webprompter.ai"
+  },
+  "links": {
+    "endpoint": "https://mcp.webprompter.ai/mcp"
+  },
+  "install": {
+    "commands": [
+      "mcp add --transport http"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop/Code",
+    "Cursor",
+    "ChatGPT (Apps)",
+    "any Streamable-HTTP MCP client (Windsurf",
+    "Cline",
+    "VS Code",
+    "kilo-code)"
+  ],
+  "license": "proprietary (source repo currently private; server public with free tier)"
+}

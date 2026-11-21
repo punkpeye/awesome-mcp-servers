@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "socialpostflow-com-documentation-mcp-ca8e42bc",
+  "source": {
+    "issue": 4906,
+    "projectUrl": "https://www.socialpostflow.com/documentation/mcp/"
+  },
+  "links": {
+    "endpoint": "https://app.socialpostflow.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "any MCP client that supports remote Streamable HTTP with OAuth"
+  ],
+  "license": "Proprietary hosted service"
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dutiful-hq-dutiful-mcp-6aa2a5a0",
+  "source": {
+    "issue": 4951,
+    "projectUrl": "https://github.com/dutiful-hq/dutiful-mcp"
+  },
+  "links": {
+    "endpoint": "https://dutiful.work/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}

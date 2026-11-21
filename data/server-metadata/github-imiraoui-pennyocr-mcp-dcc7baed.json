@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-imiraoui-pennyocr-mcp-dcc7baed",
+  "source": {
+    "issue": 4739,
+    "projectUrl": "https://github.com/imiraoui/pennyocr-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.pennyocr.com",
+    "docs": "https://pennyocr.com/mcp/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "PENNYOCR_API_KEY sent as an Authorization Bearer header."
+    ]
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "coworker-ai-mcp-d00cbe4a",
+  "source": {
+    "issue": 4743,
+    "projectUrl": "https://coworker.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "Windsurf"
+  ],
+  "license": "Proprietary"
+}

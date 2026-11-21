@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-seifip-kilobat-cli-9f0c8996",
+  "source": {
+    "issue": 4997,
+    "projectUrl": "https://github.com/seifip/kilobat-cli"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "GPL-3.0-only"
+}

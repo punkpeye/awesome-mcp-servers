@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-afloat16-ai-memory-book-e5dd5f33",
+  "source": {
+    "issue": 6052,
+    "projectUrl": "https://github.com/Afloat16/AI-Memory-Book"
+  },
+  "install": {
+    "commands": [
+      "python -m pip install \"ai-memory-book[mcp] @ git+https://github.com/Afloat16/AI-Memory-Book.git\"",
+      "python -m memory_book mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Gemini CLI",
+    "Cursor"
+  ],
+  "license": "MIT"
+}

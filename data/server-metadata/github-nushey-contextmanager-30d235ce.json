@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nushey-contextmanager-30d235ce",
+  "source": {
+    "issue": 5052,
+    "projectUrl": "https://github.com/nushey/ContextManager"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "Antigravity",
+    "Kilo Code",
+    "Devin",
+    "Opencode"
+  ],
+  "license": "MIT"
+}

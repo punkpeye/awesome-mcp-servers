@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sadofriod-graphrag-ts-a95df6d4",
+  "source": {
+    "issue": 4788,
+    "projectUrl": "https://github.com/sadofriod/graphrag-ts"
+  },
+  "links": {
+    "endpoint": "https://mcp.ashesborn.cloud/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Anonymous discovery and integrity_paper_status; judgment tools require a keyed session or paid x402 access. Mainnet x402 settlement is not yet exercised."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "OpenCode",
+    "Hermes"
+  ],
+  "license": "MIT code; CC0-1.0 published snapshot; hosted service has no SLA."
+}

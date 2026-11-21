@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-vladimir-human-ru-marketplace-mcp-ac2a7995",
+  "source": {
+    "issue": 5493,
+    "projectUrl": "https://github.com/Vladimir-Human/ru-marketplace-mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx --from ru-marketplace-mcp marketplace-mcp",
+      "docker run -i --rm ghcr.io/vladimir-human/ru-marketplace-mcp:2.9.1 marketplace-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "Cline",
+    "OpenCode",
+    "DeepSeek Harness (DSH)"
+  ],
+  "license": "MIT",
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ]
+}

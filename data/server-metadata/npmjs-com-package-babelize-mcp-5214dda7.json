@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "npmjs-com-package-babelize-mcp-5214dda7",
+  "source": {
+    "issue": 5062,
+    "projectUrl": "https://www.npmjs.com/package/@babelize/mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @sapatmohit in #5062 under the community profile-claim process.",
+      "Requested profile metadata in #5062: Category: Developer Productivity & Utilities Transport: stdio Auth: api-key Install confidence: medium License: Apache-2.0 Verification: unknown Docs: https://docs.babelize.co/integrations/mcp-server"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@sapatmohit"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

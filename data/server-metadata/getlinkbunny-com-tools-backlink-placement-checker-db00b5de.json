@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getlinkbunny-com-tools-backlink-placement-checker-db00b5de",
+  "source": {
+    "issue": 5606,
+    "projectUrl": "https://getlinkbunny.com/tools/backlink-placement-checker"
+  },
+  "links": {
+    "endpoint": "https://mcp.getlinkbunny.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "Hosted service"
+}

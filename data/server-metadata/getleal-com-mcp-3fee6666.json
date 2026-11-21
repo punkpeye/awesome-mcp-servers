@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getleal-com-mcp-3fee6666",
+  "source": {
+    "issue": 4908,
+    "projectUrl": "https://www.getleal.com/mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @rikkipitt in #4908 under the community profile-claim process.",
+      "Requested profile metadata in #4908: Category: Marketing, Sales & CRM Transport: streamable-http Auth: oauth Install confidence: low License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@rikkipitt"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

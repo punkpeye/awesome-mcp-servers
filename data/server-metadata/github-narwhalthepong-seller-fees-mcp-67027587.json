@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-narwhalthepong-seller-fees-mcp-67027587",
+  "source": {
+    "issue": 4784,
+    "projectUrl": "https://github.com/NarwhalThePong/seller-fees-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y seller-fees-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}

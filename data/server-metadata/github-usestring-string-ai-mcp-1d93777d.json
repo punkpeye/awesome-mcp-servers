@@ -8,7 +8,7 @@
   "category": "Browser Automation & Web Scraping",
   "links": {
     "docs": "https://github.com/usestring/string-ai-mcp#readme",
-    "endpoint": "https://mcp.usestring.ai/v3/mcp"
+    "endpoint": "https://mcp.usestring.ai?login"
   },
   "install": {
     "confidence": "medium"

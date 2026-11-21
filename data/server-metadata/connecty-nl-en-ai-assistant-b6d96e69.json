@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "connecty-nl-en-ai-assistant-b6d96e69",
+  "source": {
+    "issue": 6303,
+    "projectUrl": "https://connecty.nl/en/ai-assistant"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @connectybot in #6303; maintainer identity is self-reported, not independent runtime verification."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@connectybot"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "links": {
+    "endpoint": "https://connecty.nl/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Public tools get_status_page and about_connecty need no authentication.",
+      "Account tools list_my_sites, get_my_status_page_link, get_status_changes, add_site and remove_site require OAuth 2.1."
+    ]
+  },
+  "tools": {
+    "count": 7,
+    "names": [
+      "get_status_page",
+      "about_connecty",
+      "list_my_sites",
+      "get_my_status_page_link",
+      "get_status_changes",
+      "add_site",
+      "remove_site"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary (hosted service)"
+}

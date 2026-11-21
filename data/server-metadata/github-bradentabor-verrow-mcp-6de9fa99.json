@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-bradentabor-verrow-mcp-6de9fa99",
+  "source": {
+    "issue": 5155,
+    "projectUrl": "https://github.com/BradenTabor/verrow-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.verrow.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "unknown"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other MCP clients"
+  ],
+  "license": "MIT"
+}

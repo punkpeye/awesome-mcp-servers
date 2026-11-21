@@ -1,0 +1,51 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mybolide-mcp-probe-kit-c8484e9f",
+  "source": {
+    "projectUrl": "https://github.com/mybolide/mcp-probe-kit"
+  },
+  "description": "Spec-driven development workflow MCP for coding agents: feature/bugfix orchestration, resumable plans, and a converge gate that requires spec, test and review evidence.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://github.com/mybolide/mcp-probe-kit#readme"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-probe-kit@latest"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "any stdio MCP client"
+  ],
+  "tools": {
+    "count": 30,
+    "names": [
+      "start_feature",
+      "start_bugfix",
+      "start_ui",
+      "resume_plan",
+      "plan_heartbeat",
+      "converge",
+      "check_spec",
+      "code_review",
+      "gentest",
+      "init_project"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

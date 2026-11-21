@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-fainir-recall-a5c98aa2",
+  "source": {
+    "issue": 4935,
+    "projectUrl": "https://github.com/fainir/recall"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:fainir/recall --claude-code /path/to/repo"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Cursor",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}

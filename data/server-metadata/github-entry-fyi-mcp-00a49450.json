@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-entry-fyi-mcp-00a49450",
+  "source": {
+    "issue": 4915,
+    "projectUrl": "https://github.com/entry-fyi/mcp"
+  },
+  "links": {
+    "endpoint": "https://entry.fyi/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "proprietary hosted service"
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mattbusel-tensorust-mcp-782f0d76",
+  "source": {
+    "issue": 6181,
+    "projectUrl": "https://github.com/Mattbusel/tensorust-mcp"
+  },
+  "links": {
+    "endpoint": "https://shop.tensorust.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop / claude.ai connectors",
+    "Cursor",
+    "VS Code",
+    "Cline",
+    "any Streamable HTTP client"
+  ],
+  "license": "MIT (client config repo); hosted service proprietary"
+}

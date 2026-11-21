@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "make-ad-mcp-89c2267a",
+  "source": {
+    "issue": 4780,
+    "projectUrl": "https://www.make.ad/mcp"
+  },
+  "links": {
+    "endpoint": "https://www.make.ad/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "Proprietary (hosted service)"
+}

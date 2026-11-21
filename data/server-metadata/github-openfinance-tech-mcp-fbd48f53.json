@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-openfinance-tech-mcp-fbd48f53",
+  "source": {
+    "issue": 5651,
+    "projectUrl": "https://github.com/openfinance-tech/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.openfinance.tech/agent/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI",
+    "Hermes Agent"
+  ],
+  "license": "MIT"
+}

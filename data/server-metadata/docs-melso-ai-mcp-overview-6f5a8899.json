@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "docs-melso-ai-mcp-overview-6f5a8899",
+  "source": {
+    "issue": 4878,
+    "projectUrl": "https://docs.melso.ai/mcp/overview"
+  },
+  "links": {
+    "endpoint": "https://mcp.melso.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "Proprietary hosted service; no public server source."
+}

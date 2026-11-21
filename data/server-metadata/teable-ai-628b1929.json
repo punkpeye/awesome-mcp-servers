@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "teable-ai-628b1929",
+  "source": {
+    "issue": 4819,
+    "projectUrl": "https://teable.ai"
+  },
+  "links": {
+    "endpoint": "https://mcp.teable.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  }
+}

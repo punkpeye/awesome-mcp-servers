@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "odilelabs-com-gate-7ae2cc51",
+  "source": {
+    "issue": 5089,
+    "projectUrl": "https://odilelabs.com/gate"
+  },
+  "links": {
+    "endpoint": "https://gate.odilelabs.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "any MCP client with streamable HTTP"
+  ],
+  "license": "Proprietary hosted service"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devanshranjan10-landmines-6419102c",
+  "source": {
+    "issue": 5033,
+    "projectUrl": "https://github.com/devanshranjan10/landmines"
+  },
+  "links": {
+    "endpoint": "https://landmine.tech/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx landmines scan",
+      "npx -y landmines mcp"
+    ],
+    "env": [
+      "GITHUB_TOKEN"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "Cline",
+    "Windsurf",
+    "VS Code Copilot",
+    "OpenCode"
+  ],
+  "license": "MIT"
+}

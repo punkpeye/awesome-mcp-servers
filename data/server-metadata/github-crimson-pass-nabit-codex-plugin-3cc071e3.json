@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-crimson-pass-nabit-codex-plugin-3cc071e3",
+  "source": {
+    "issue": 5043,
+    "projectUrl": "https://github.com/Crimson-Pass/nabit-codex-plugin"
+  },
+  "links": {
+    "endpoint": "https://nabit.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "Cline"
+  ],
+  "license": "MIT"
+}

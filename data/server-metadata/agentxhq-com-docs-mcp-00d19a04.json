@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "agentxhq-com-docs-mcp-00d19a04",
+  "source": {
+    "issue": 5035,
+    "projectUrl": "https://www.agentxhq.com/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://www.agentxhq.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "any MCP client that supports remote Streamable HTTP servers with OAuth"
+  ],
+  "license": "Hosted service (listing repo agentxhq/agentx-mcp is MIT)"
+}

@@ -21,17 +21,22 @@ jobs:
   draft-pr:
     name: Draft docs PR from server submission
     if: >-
-      contains(github.event.issue.labels.*.name, 'server-submission') ||
-      startsWith(github.event.issue.title, 'Add MCP server:') ||
-      startsWith(github.event.issue.title, 'Add server:') ||
       (
-        startsWith(github.event.issue.title, 'Add ') &&
+        !contains(github.event.issue.labels.*.name, 'metadata') &&
         (
-          contains(github.event.issue.body, 'Project URL') ||
-          contains(github.event.issue.body, 'Server URL') ||
-          contains(github.event.issue.body, 'Repository') ||
-          contains(github.event.issue.body, 'MCP endpoint') ||
-          contains(github.event.issue.body, 'Suggested entry')
+          contains(github.event.issue.labels.*.name, 'server-submission') ||
+          startsWith(github.event.issue.title, 'Add MCP server:') ||
+          startsWith(github.event.issue.title, 'Add server:') ||
+          (
+            startsWith(github.event.issue.title, 'Add ') &&
+            (
+              contains(github.event.issue.body, 'Project URL') ||
+              contains(github.event.issue.body, 'Server URL') ||
+              contains(github.event.issue.body, 'Repository') ||
+              contains(github.event.issue.body, 'MCP endpoint') ||
+              contains(github.event.issue.body, 'Suggested entry')
+            )
+          )
         )
       )
     runs-on: ubuntu-latest

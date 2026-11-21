@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-l3mpire-lemlist-plugin-3ad77cda",
+  "source": {
+    "issue": 6375,
+    "projectUrl": "https://github.com/l3mpire/lemlist-plugin"
+  },
+  "links": {
+    "endpoint": "https://app.lemlist.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "Gemini CLI",
+    "Grok",
+    "other MCP clients with OAuth"
+  ],
+  "license": "Proprietary (hosted service); public plugin repository is MIT"
+}

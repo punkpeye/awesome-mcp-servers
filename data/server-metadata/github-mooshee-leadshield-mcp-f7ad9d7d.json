@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mooshee-leadshield-mcp-f7ad9d7d",
+  "source": {
+    "projectUrl": "https://github.com/mooshee/leadshield-mcp"
+  },
+  "links": {
+    "homepage": "https://ghlagencymcp.com/use-cases/ghl-contact-form-spam-blocker",
+    "docs": "https://ghlagencymcp.com/support",
+    "endpoint": "https://rankandrent-leads.hallmanlab.workers.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http leadshield https://rankandrent-leads.hallmanlab.workers.dev/mcp"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No API key required for MCP initialize, tools/list, contact form screening, policy inspection, dry-run policy preview, blocked-spam reporting, and guard.js embed generation"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 5,
+    "names": [
+      "leadshield_screen_submission",
+      "leadshield_get_blocked_spam_report",
+      "leadshield_get_spam_policy",
+      "leadshield_configure_spam_policy",
+      "leadshield_generate_guard_embed"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

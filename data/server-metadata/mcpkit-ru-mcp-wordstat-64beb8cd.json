@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mcpkit-ru-mcp-wordstat-64beb8cd",
+  "source": {
+    "issue": 5565,
+    "projectUrl": "https://mcpkit.ru/mcp-wordstat?utm_source=tensorblock&utm_medium=github_collection&utm_campaign=yandex_wordstat"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT"
+  ],
+  "license": "Proprietary hosted server."
+}

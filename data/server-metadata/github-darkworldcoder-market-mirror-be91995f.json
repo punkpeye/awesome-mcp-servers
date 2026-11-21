@@ -49,7 +49,16 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Maintainer reports testing PyPI 0.4.2 stdio initialization, discovery (27 tools), and doctor diagnostics. Engine setup, model inference, and client UI integrations were not tested."
+      "Maintainer reports testing PyPI 0.4.2 stdio initialization, discovery (27 tools), and doctor diagnostics. Engine setup, model inference, and client UI integrations were not tested.",
+      "Profile claimed by @DarkWorldCodeer in #4687 under the community profile-claim process.",
+      "Requested profile metadata in #4687: Category: Marketing, Sales & CRM Transport: stdio Auth: none Install confidence: medium License: AGPL-3.0 Verification: self_reported"
     ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@DarkWorldCodeer"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }

@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-intoapex-tradingagentstack-mcp-08cb2ce8",
+  "source": {
+    "issue": 4718,
+    "projectUrl": "https://github.com/intoApex/tradingagentstack-mcp"
+  },
+  "links": {
+    "endpoint": "https://tradingagentstack.com/api/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "TAS_DATA_URL"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "claude.ai",
+    "Cursor",
+    "any streamable HTTP MCP client"
+  ],
+  "license": "MIT"
+}

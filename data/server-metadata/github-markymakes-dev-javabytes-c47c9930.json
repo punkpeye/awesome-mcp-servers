@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-markymakes-dev-javabytes-c47c9930",
+  "source": {
+    "issue": 5886,
+    "projectUrl": "https://github.com/markymakes-dev/javabytes"
+  },
+  "install": {
+    "commands": [
+      "npx -y javabytes-mcp"
+    ],
+    "env": [
+      "JAVABYTES_DB_URL",
+      "JAVABYTES_DB_PASSWORD"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}

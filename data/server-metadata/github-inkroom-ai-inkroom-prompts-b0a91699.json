@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-inkroom-ai-inkroom-prompts-b0a91699",
+  "source": {
+    "issue": 5262,
+    "projectUrl": "https://github.com/InkRoom-AI/inkroom-prompts"
+  },
+  "install": {
+    "commands": [
+      "node /absolute/path/to/inkroom-prompts/src/cli.mjs"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex (via each client\u2019s local MCP configuration)"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Optional Streamable HTTP binds only to http://127.0.0.1:8788/mcp; no public remote endpoint is provided."
+    ]
+  }
+}

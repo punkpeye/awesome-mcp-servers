@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stackwares-casama-c5c285da",
+  "source": {
+    "issue": 6438,
+    "projectUrl": "https://github.com/stackwares/casama/tree/main/packages/mcp"
+  },
+  "links": {
+    "docs": "https://docs.casama.ai/guide/mcp",
+    "endpoint": "https://api.casama.ai/mcp/docs"
+  },
+  "install": {
+    "commands": [
+      "npx -y @casama/mcp",
+      "npx -y @casama/mcp --docs-only"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Docs-only tools require no authentication. Bot tools require CLI login or a token locally, or OAuth or a workspace API key for hosted access."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "Apache-2.0"
+}

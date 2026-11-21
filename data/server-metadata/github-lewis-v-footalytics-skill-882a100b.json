@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-lewis-v-footalytics-skill-882a100b",
+  "source": {
+    "issue": 6338,
+    "projectUrl": "https://github.com/lewis-v/footalytics-skill"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @lewis-v in #6338 under the community profile-claim process.",
+      "Requested profile metadata in #6338: - Homepage: https://footalytics.farvor.com - Docs: https://footalytics.farvor.com/skill - Support: hello@farvor.com - License: MIT - Auth: OAuth 2.1 (one-click) \u2014 optional free API keys at..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@lewis-v"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-tomwellnitz-fritzos8-mcp-90837ee6",
+  "source": {
+    "issue": 6033,
+    "projectUrl": "https://github.com/tomwellnitz/fritzos8-mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx fritzos8-mcp"
+    ],
+    "env": [
+      "FRITZ_HOST",
+      "FRITZ_USER",
+      "FRITZ_PASSWORD"
+    ],
+    "confidence": "medium"
+  },
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "FRITZ!Box user credentials required; password file or OS keychain may replace FRITZ_PASSWORD."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Zed",
+    "Cline",
+    "Continue",
+    "Codex CLI",
+    "Gemini CLI",
+    "LM Studio"
+  ],
+  "license": "MIT",
+  "transport": [
+    "stdio"
+  ]
+}

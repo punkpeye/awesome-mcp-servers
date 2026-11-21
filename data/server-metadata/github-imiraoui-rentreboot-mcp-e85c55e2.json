@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-imiraoui-rentreboot-mcp-e85c55e2",
+  "source": {
+    "issue": 4738,
+    "projectUrl": "https://github.com/imiraoui/rentreboot-mcp"
+  },
+  "links": {
+    "endpoint": "https://rentreboot.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Public tools require no authentication; personal tools require scoped browser OAuth."
+    ]
+  },
+  "license": "MIT connection metadata and documentation; proprietary hosted implementation."
+}

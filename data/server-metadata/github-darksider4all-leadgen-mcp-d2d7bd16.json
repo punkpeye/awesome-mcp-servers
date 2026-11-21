@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-darksider4all-leadgen-mcp-d2d7bd16",
+  "source": {
+    "issue": 4903,
+    "projectUrl": "https://github.com/darksider4all/leadgen-mcp"
+  },
+  "links": {
+    "endpoint": "https://leadgen-mcp.adrianhomelab.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "API key (X-API-Key); anonymous trial allowed."
+    ]
+  },
+  "clients": [
+    "Claude Desktop (via mcp-remote)",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "Cline",
+    "Continue",
+    "MCP Inspector"
+  ],
+  "license": "Proprietary hosted commercial service; source public for reference only. Terms: https://leadgen.adrianhomelab.com/terms"
+}

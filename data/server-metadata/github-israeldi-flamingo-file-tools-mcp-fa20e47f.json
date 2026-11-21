@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-israeldi-flamingo-file-tools-mcp-fa20e47f",
+  "source": {
+    "issue": 5342,
+    "projectUrl": "https://github.com/israeldi/flamingo-file-tools-mcp"
+  },
+  "install": {
+    "commands": [
+      "node /absolute/path/to/flamingo-file-tools-mcp/server/index.mjs"
+    ],
+    "env": [
+      "RAPIDAPI_KEY",
+      "FLAMINGO_WORKSPACE_DIR"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "license": "MIT"
+}
