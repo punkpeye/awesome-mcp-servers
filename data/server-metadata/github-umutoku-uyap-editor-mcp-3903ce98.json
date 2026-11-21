@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-umutoku-uyap-editor-mcp-3903ce98",
+  "source": {
+    "issue": 6544,
+    "projectUrl": "https://github.com/Umutoku/uyap-editor-mcp"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Desktop",
+    "Claude Code",
+    "Gemini CLI",
+    "Antigravity",
+    "OpenCode"
+  ],
+  "license": "MIT"
+}
