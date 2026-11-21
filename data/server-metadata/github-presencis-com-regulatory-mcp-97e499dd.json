@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-presencis-com-regulatory-mcp-97e499dd",
+  "source": {
+    "issue": 6494,
+    "projectUrl": "https://github.com/Presencis-com/regulatory-mcp"
+  },
+  "description": "Offline, read-only stdio MCP server for the public Presencis Regulatory Corpus \u2014 95 active AI, cyber, privacy, and sector regulatory frameworks (EU AI Act, DORA, NIS2, GDPR, ISO/IEC 42001, HIPAA, UK GDPR), cross-framework comparison crosswalks, and 360 compliance Q&A explainers with zero outbound network calls and zero local file writes.",
+  "links": {
+    "docs": "https://presencis.com/regulations/"
+  },
+  "install": {
+    "commands": [
+      "npx -y @presencis/regulatory-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Antigravity"
+  ],
+  "tools": {
+    "count": 5,
+    "names": [
+      "list_frameworks",
+      "get_framework",
+      "find_crosswalk",
+      "search_compliance_qa",
+      "map_sector_obligations"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #6494. Source: - Repository & README: https://github.com/Presencis-com/regulatory-mcp (Apache-2.0, `v1.0.1` release: https://github.com/Presencis-com/regulatory-mcp/releases/tag/v1.0.1) - npm package:...",
+      "Profile claimed by @Presencis-com in #6493 under the community profile-claim process.",
+      "Requested profile metadata in #6493: Description: Offline, read-only stdio MCP server for the public Presencis Regulatory Corpus \u2014 95 active AI, cyber, privacy, and sector frameworks (EU AI Act, DORA, NIS2, GDPR, ISO/IEC 42001, HIPAA), cross-framework..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Presencis-com"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
