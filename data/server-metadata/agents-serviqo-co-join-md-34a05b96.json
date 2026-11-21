@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "agents-serviqo-co-join-md-34a05b96",
+  "source": {
+    "issue": 4647,
+    "projectUrl": "https://agents.serviqo.co/join.md"
+  },
+  "links": {
+    "endpoint": "https://agents.serviqo.co/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No authentication for discovery, self-registration and public mission links; bearer authorization for protected administrative tools."
+    ]
+  },
+  "license": "Not asserted for this hosted service; listing does not grant redistribution rights to the linked devotional content."
+}

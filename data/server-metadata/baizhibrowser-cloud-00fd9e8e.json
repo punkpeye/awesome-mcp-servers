@@ -1,0 +1,23 @@
+{
+  "id": "baizhibrowser-cloud-00fd9e8e",
+  "source": {
+    "projectUrl": "https://baizhibrowser.cloud/"
+  },
+  "links": {
+    "homepage": "https://baizhibrowser.cloud/",
+    "docs": "https://capybrowser.app.baizhi.cloud/docs/installation.md",
+    "endpoint": "https://capybrowser.app.baizhi.cloud/mcp"
+  },
+  "transport": ["streamable-http"],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Use your own browser-service API key as Authorization: Bearer <BROWSER_KEY>.",
+      "Configure credentials according to the browser service guide; do not assume an Agent Toolkit application key applies."
+    ]
+  },
+  "license": "Hosted service; no backend source license stated",
+  "community": {
+    "maintainedBy": ["ctcbyzx"]
+  }
+}

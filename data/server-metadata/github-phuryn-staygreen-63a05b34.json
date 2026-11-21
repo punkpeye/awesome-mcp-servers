@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-phuryn-staygreen-63a05b34",
+  "source": {
+    "issue": 4598,
+    "projectUrl": "https://github.com/phuryn/staygreen"
+  },
+  "links": {
+    "endpoint": "https://staygreen.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude (custom connector)",
+    "Cursor",
+    "VS Code",
+    "other Streamable HTTP MCP clients with OAuth or a bearer token"
+  ],
+  "license": "Proprietary (hosted service)"
+}

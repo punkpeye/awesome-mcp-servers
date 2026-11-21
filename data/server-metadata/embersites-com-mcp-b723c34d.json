@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "embersites-com-mcp-b723c34d",
+  "source": {
+    "issue": 3595,
+    "projectUrl": "https://embersites.com/mcp/"
+  },
+  "links": {
+    "endpoint": "https://embersites.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web and desktop)",
+    "Claude Code",
+    "ChatGPT",
+    "Codex",
+    "other MCP clients with remote Streamable HTTP + OAuth"
+  ],
+  "license": "Proprietary hosted commercial service (free plan available). Terms: https://embersites.com/terms/"
+}

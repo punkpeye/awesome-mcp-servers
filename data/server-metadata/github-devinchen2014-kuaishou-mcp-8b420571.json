@@ -1,0 +1,65 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devinchen2014-kuaishou-mcp-8b420571",
+  "source": {
+    "projectUrl": "https://github.com/DevinChen2014/kuaishou-mcp"
+  },
+  "description": "Search Kuaishou videos and users; read trends, suggestions, video details, comments, replies, creator profiles, posts and video transcripts. Hosted business calls consume SocialDataX credits.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://socialdatax.com/ai?from=tensorblock",
+    "homepage": "https://socialdatax.com/ai?from=tensorblock",
+    "endpoint": "https://mcp.socialdatax.com/kuaishou/mcp"
+  },
+  "install": {
+    "env": [
+      "SOCIALDATAX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Business tool calls require Authorization: Bearer <SOCIALDATAX_API_KEY>; use your own key.",
+      "Get your key at https://socialdatax.com/ai?from=tensorblock. Business calls consume SocialDataX credits.",
+      "Remote client configuration must include the Authorization header; a URL-only generated preview is not a complete authenticated setup."
+    ]
+  },
+  "clients": [
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 17,
+    "names": [
+      "kuaishou_get_hot_search_list",
+      "kuaishou_search_suggestions",
+      "kuaishou_get_video_detail_by_url",
+      "kuaishou_get_video_detail_by_photo_id",
+      "kuaishou_submit_video_speech_text_by_video_url",
+      "kuaishou_submit_video_speech_text_by_photo_id",
+      "kuaishou_get_video_speech_text_job",
+      "kuaishou_get_video_comments_by_photo_id",
+      "kuaishou_get_video_comments_by_url",
+      "kuaishou_get_video_comment_replies_by_comment_id",
+      "kuaishou_get_user_info_by_user_id",
+      "kuaishou_get_user_info_by_profile_url",
+      "kuaishou_get_user_posted_videos_by_user_id",
+      "kuaishou_get_user_posted_videos_by_profile_url",
+      "kuaishou_search_videos",
+      "kuaishou_search_users",
+      "socialdatax_get_points_balance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (public connection materials); proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher checked tool discovery and the free points-balance tool in Gemini CLI on 2026-10-20.",
+      "Other business tools and TensorBlock generated client previews were not runtime-tested."
+    ]
+  }
+}

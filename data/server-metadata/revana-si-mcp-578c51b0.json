@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "revana-si-mcp-578c51b0",
+  "source": {
+    "issue": 4779,
+    "projectUrl": "https://revana.si/mcp"
+  },
+  "links": {
+    "endpoint": "https://revana.si/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex"
+  ],
+  "license": "Proprietary (hosted service)"
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-matosdfm-ecommerce-leads-mcp-f238ae59",
+  "source": {
+    "issue": 5685,
+    "projectUrl": "https://github.com/matosdfm/ecommerce-leads-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @matosdfm in #5685 under the community profile-claim process.",
+      "Requested profile metadata in #5685: Category: Marketing, Sales & CRM Transport: streamable-http Auth: oauth Install confidence: low License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@matosdfm"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

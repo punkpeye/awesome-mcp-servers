@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stackenhance-signal-mcp-c4207d6c",
+  "source": {
+    "issue": 4423,
+    "projectUrl": "https://github.com/stackenhance/signal-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.stackenhance.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Claude Code"
+  ],
+  "license": "MIT"
+}

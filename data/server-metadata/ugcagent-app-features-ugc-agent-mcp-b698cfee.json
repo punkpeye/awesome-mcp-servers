@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "ugcagent-app-features-ugc-agent-mcp-b698cfee",
+  "source": {
+    "issue": 5064,
+    "projectUrl": "https://ugcagent.app/features/ugc-agent-mcp/"
+  },
+  "links": {
+    "endpoint": "https://mcp.ugcagent.app/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://mcp.ugcagent.app/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Windsurf",
+    "any Streamable HTTP MCP client"
+  ],
+  "license": "Proprietary (hosted service)"
+}

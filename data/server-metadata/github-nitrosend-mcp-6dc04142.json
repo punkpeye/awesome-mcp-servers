@@ -1,0 +1,53 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nitrosend-mcp-6dc04142",
+  "source": {
+    "projectUrl": "https://github.com/nitrosend/mcp"
+  },
+  "description": "Manage branded email and SMS campaigns, contacts, automation flows, and transactional messages through Nitrosend’s hosted MCP.",
+  "category": "Marketing, Sales & CRM",
+  "links": {
+    "docs": "https://docs.nitrosend.com/mcp",
+    "homepage": "https://nitrosend.com",
+    "endpoint": "https://api.nitrosend.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The hosted Streamable HTTP server uses OAuth in compatible clients.",
+      "The optional stdio bridge uses a Nitrosend API key and is not the standard setup for OAuth-capable clients."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude.ai",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other standards-compliant MCP clients"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Hosted transport, OAuth setup, and optional stdio bridge are described in the maintained public repository and MCP setup guide."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@auscaster"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

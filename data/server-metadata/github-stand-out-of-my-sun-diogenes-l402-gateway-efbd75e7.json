@@ -1,0 +1,71 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-l402-gateway-efbd75e7",
+  "source": {
+    "issue": 4080,
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-l402-gateway"
+  },
+  "description": "AI microservices gateway for guardrails, smart contract audits, market search, Solana risk analysis, code execution and EVE Frontier tools.",
+  "category": "Security",
+  "links": {
+    "docs": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "homepage": "https://diogenes-micro-gateway.corinth.workers.dev",
+    "endpoint": "https://diogenes-micro-gateway.corinth.workers.dev/mcp"
+  },
+  "install": {
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Zero-friction preview and free-tier testing available via ?demo=true or standard MCP initialization with no API keys, accounts, or tokens required.",
+      "Autonomous tri-rail settlement (Bitcoin Lightning L402, Solana USDC x402, and Base EVM USDC MPP) is supported for production workloads."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other Streamable HTTP MCP clients"
+  ],
+  "tools": {
+    "count": 15,
+    "names": [
+      "guardrail_verify",
+      "contract_audit",
+      "web_brief",
+      "solana_risk",
+      "json_repair",
+      "regex_oracle",
+      "mev_risk",
+      "mpp_deep_search",
+      "code_sandbox",
+      "eve_move_assembly_coder",
+      "eve_gate_route_planner",
+      "eve_network_node_gj_optimizer",
+      "agent_mcp_router",
+      "agent_schema_enforcer",
+      "crypto_bridge_quote"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Endpoint and tool metadata supplied by the maintainer. TensorBlock remote probe received HTTP 403; no independent runtime or payment verification.",
+      "Maintainer claim submitted by @stand-out-of-my-sun in #4577. Claim records maintenance only; requested live verification and high confidence were not independently established."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  }
+}

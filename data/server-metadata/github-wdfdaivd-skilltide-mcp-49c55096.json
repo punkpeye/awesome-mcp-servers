@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-wdfdaivd-skilltide-mcp-49c55096",
+  "source": {
+    "issue": 4475,
+    "projectUrl": "https://github.com/wdfdaivd/skilltide-mcp"
+  },
+  "links": {
+    "endpoint": "https://anclum.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "other"
+  ],
+  "license": "MIT"
+}

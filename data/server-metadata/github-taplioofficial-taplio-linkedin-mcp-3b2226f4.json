@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-taplioofficial-taplio-linkedin-mcp-3b2226f4",
+  "source": {
+    "issue": 4307,
+    "projectUrl": "https://github.com/TaplioOfficial/taplio-linkedin-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.taplio.com/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Raycast",
+    "Mistral Le Chat",
+    "Smithery",
+    "other MCP clients with OAuth"
+  ],
+  "license": "Proprietary (hosted service)"
+}

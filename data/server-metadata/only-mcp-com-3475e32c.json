@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "only-mcp-com-3475e32c",
+  "source": {
+    "issue": 5132,
+    "projectUrl": "https://only-mcp.com"
+  },
+  "links": {
+    "endpoint": "https://only-mcp.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Windsurf",
+    "Zed",
+    "Cline",
+    "any MCP client"
+  ],
+  "license": "Proprietary hosted service with a free plan"
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "weirapp-io-85d8ce4d",
+  "source": {
+    "issue": 4144,
+    "projectUrl": "https://weirapp.io"
+  },
+  "links": {
+    "endpoint": "https://api.weirapp.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 (dynamic client registration and client ID metadata documents); an API key can also be sent as a bearer token for headless use. Public sign-up with 5,000 free credits a month."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT (custom MCP server)",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI",
+    "n8n"
+  ],
+  "license": "Hosted service (proprietary); client configs MIT"
+}

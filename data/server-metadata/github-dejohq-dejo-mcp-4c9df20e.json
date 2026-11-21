@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dejohq-dejo-mcp-4c9df20e",
+  "source": {
+    "issue": 4431,
+    "projectUrl": "https://github.com/dejohq/dejo-mcp"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "any MCP client that runs a stdio server"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tjl-rollfit-throwawaytempor-chatgpt-site-plugin-1488e103",
+  "source": {
+    "issue": 4320,
+    "projectUrl": "https://tjl-rollfit.throwawaytempor.chatgpt.site/plugin"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Custom HTTP MCP reviewer client (protocol smoke check)"
+  ],
+  "license": "Proprietary hosted implementation. The public calculation tools are free to use under the linked terms.",
+  "links": {
+    "endpoint": "https://tjl-rollfit.throwawaytempor.chatgpt.site/api/rollfit-mcp"
+  }
+}

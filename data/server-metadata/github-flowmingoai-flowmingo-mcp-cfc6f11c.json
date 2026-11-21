@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-flowmingoai-flowmingo-mcp-cfc6f11c",
+  "source": {
+    "issue": 4649,
+    "projectUrl": "https://github.com/flowmingoai/flowmingo-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.flowmingo.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "VS Code",
+    "any client with remote streamable-http MCP support"
+  ],
+  "license": "unknown"
+}

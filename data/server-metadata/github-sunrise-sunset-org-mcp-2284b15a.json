@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sunrise-sunset-org-mcp-2284b15a",
+  "source": {
+    "issue": 4524,
+    "projectUrl": "https://github.com/sunrise-sunset-org/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.sunrise-sunset.org/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI and any client with Streamable HTTP"
+  ],
+  "license": "MIT"
+}

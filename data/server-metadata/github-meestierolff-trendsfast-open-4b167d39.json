@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-meestierolff-trendsfast-open-4b167d39",
+  "source": {
+    "issue": 4946,
+    "projectUrl": "https://github.com/meestierolff/trendsfast-open"
+  },
+  "links": {
+    "endpoint": "https://trendsfast.com/api/mcp/v3",
+    "docs": "https://trendsfast.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex (see the public agent kit for client configuration)"
+  ],
+  "license": "MIT for the public agent kit; hosted backend is not self-hostable open source."
+}

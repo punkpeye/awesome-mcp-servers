@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-getremcp-docsy-plugin-e0eb01e7",
+  "source": {
+    "issue": 4484,
+    "projectUrl": "https://github.com/getremcp/docsy-plugin"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT (where remote connectors are available)",
+    "Codex CLI",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "other HTTP MCP clients"
+  ],
+  "license": "MIT (public plugin release)",
+  "links": {
+    "endpoint": "https://docsy.remcp.site/mcp/registry"
+  }
+}

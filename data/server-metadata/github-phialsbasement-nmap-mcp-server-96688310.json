@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-phialsbasement-nmap-mcp-server-96688310",
+  "source": {
+    "issue": 4974,
+    "projectUrl": "https://github.com/PhialsBasement/nmap-mcp-server"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository was archived by its owner; entry remains indexed as an explicitly unmaintained historical source. Archive status checked via GitHub API on 2026-10-30; runtime and client compatibility were not tested."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "getlinkbunny-com-mcp-ffc1483a",
+  "source": {
+    "issue": 5605,
+    "projectUrl": "https://getlinkbunny.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.getlinkbunny.com/exchange"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex"
+  ],
+  "license": "Hosted service"
+}

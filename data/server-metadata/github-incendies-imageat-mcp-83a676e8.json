@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-incendies-imageat-mcp-83a676e8",
+  "source": {
+    "issue": 4808,
+    "projectUrl": "https://github.com/incendies/imageat-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @incendies in #4808 under the community profile-claim process.",
+      "Requested profile metadata in #4808: Category: Multimedia Processing Transport: streamable-http Auth: oauth Install confidence: medium License: MIT Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@incendies"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

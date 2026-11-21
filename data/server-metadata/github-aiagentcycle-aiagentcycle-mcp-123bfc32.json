@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aiagentcycle-aiagentcycle-mcp-123bfc32",
+  "source": {
+    "issue": 5224,
+    "projectUrl": "https://github.com/aiagentcycle/aiagentcycle-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.aiagentcycle.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI",
+    "Cline",
+    "Kilo Code"
+  ],
+  "license": "MIT"
+}

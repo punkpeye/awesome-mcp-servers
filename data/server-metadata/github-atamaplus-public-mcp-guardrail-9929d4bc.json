@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-atamaplus-public-mcp-guardrail-9929d4bc",
+  "source": {
+    "issue": 4973,
+    "projectUrl": "https://github.com/atamaplus-public/mcp-guardrail"
+  },
+  "verification": {
+    "status": "partial",
+    "notes": [
+      "Repository was archived by its owner; entry remains indexed as an explicitly unmaintained historical source. Archive status checked via GitHub API on 2026-10-30; runtime and client compatibility were not tested."
+    ]
+  }
+}

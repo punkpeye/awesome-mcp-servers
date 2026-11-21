@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-raomusic-raomusic-plugin-2de07a82",
+  "source": {
+    "issue": 4470,
+    "projectUrl": "https://github.com/raomusic/raomusic-plugin"
+  },
+  "links": {
+    "endpoint": "https://www.raomusic.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Windsurf"
+  ],
+  "license": "MIT"
+}

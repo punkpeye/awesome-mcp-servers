@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-meet-cedric-cedric-mcp-c9fc5bf6",
+  "source": {
+    "issue": 5037,
+    "projectUrl": "https://github.com/meet-cedric/cedric-mcp"
+  },
+  "links": {
+    "endpoint": "https://app.meet-cedric.com/api/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "Cursor",
+    "VS Code",
+    "ChatGPT",
+    "Codex CLI",
+    "Gemini CLI",
+    "Windsurf"
+  ],
+  "license": "MIT (docs and examples); the hosted service is not open source"
+}

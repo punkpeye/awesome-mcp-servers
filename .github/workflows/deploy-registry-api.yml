@@ -18,6 +18,10 @@ on:
       - "vitest.config.ts"
   workflow_dispatch:
 
+concurrency:
+  group: deploy-registry-api-production
+  cancel-in-progress: false
+
 jobs:
   deploy:
     name: Build and deploy registry API
@@ -89,7 +93,7 @@ jobs:
 
       - name: Smoke test deployed registry API
         if: env.RAILWAY_TOKEN != ''
-        timeout-minutes: 8
+        timeout-minutes: 15
         run: |
           set -euo pipefail
 
@@ -98,7 +102,7 @@ jobs:
           badge_url="$base_url/v1/servers/postgres-mcp/badge.svg"
           expected_commit_sha="$GITHUB_SHA"
           delay_seconds=10
-          max_attempts=36
+          max_attempts=72
 
           for attempt in $(seq 1 "$max_attempts"); do
             health_status="$(curl -sS -o /tmp/registry-health.json -w "%{http_code}" "$health_url" || true)"

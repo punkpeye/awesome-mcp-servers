@@ -20,12 +20,13 @@
   "auth": {
     "type": "none",
     "notes": [
-      "Free, read-only access to public wiki content; no account, API key, OAuth or bearer token required."
+      "No account, API key, OAuth or bearer token required. Public reference tools and human-reviewed listing submissions are free; optional paid upgrades require a user-requested checkout link and payment by the user."
     ]
   },
   "tools": {
-    "count": 8,
+    "count": 11,
     "names": [
+      "check_listing",
       "fetch",
       "get_bot",
       "get_guide",
@@ -33,6 +34,8 @@
       "search",
       "search_bots",
       "search_guides",
+      "start_checkout",
+      "submit_bot",
       "troubleshoot"
     ],
     "source": "self_reported"
@@ -41,7 +44,7 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Project-affiliated submission. Direct initialize, tools/list, search and fetch calls returned HTTP 200 on 2026-10-04; all eight tools advertise readOnlyHint. Individual client applications were not tested.",
+      "Project-affiliated metadata update. Direct initialize and tools/list calls returned HTTP 200 on 2026-10-23: server version 1.1.0 advertises 11 tools, with nine read-only hints and two write-capable tools. submit_bot queues a free, human-reviewed public share-link listing; start_checkout creates an optional Stripe checkout link only after the user requests an upgrade and accepts its terms. The user completes payment; the tool does not charge them. Neither write tool was invoked for this check, and individual client applications were not tested.",
       "The hosted implementation is not public; no source license is asserted.",
       "Independent community resource, not affiliated with or endorsed by xAI. Template listings describe public share pages and are not independently tested workflows."
     ]

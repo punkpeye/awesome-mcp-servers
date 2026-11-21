@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "theopenapps-com-cb928c6e",
+  "source": {
+    "issue": 5432,
+    "projectUrl": "https://theopenapps.com?ref=plugin-stack"
+  },
+  "links": {
+    "endpoint": "https://theopenapps.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "Hosted service"
+}

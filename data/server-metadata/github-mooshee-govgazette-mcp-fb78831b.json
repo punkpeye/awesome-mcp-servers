@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mooshee-govgazette-mcp-fb78831b",
+  "source": {
+    "projectUrl": "https://github.com/mooshee/govgazette-mcp"
+  },
+  "links": {
+    "homepage": "https://govgazette.com",
+    "docs": "https://govgazette.com/agents",
+    "endpoint": "https://govgazette.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http govgazette https://govgazette.com/mcp"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No account or API key required for public federal contract research; private saved-search operations use a GovGazette workspace key"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 17,
+    "names": [
+      "check_exclusions",
+      "create_saved_search",
+      "delete_saved_search",
+      "delete_saved_search_workspace",
+      "detail",
+      "document",
+      "exclusion_changes",
+      "exclusion_context",
+      "explain_match",
+      "freshness",
+      "get_saved_search_events",
+      "list_saved_searches",
+      "research_opportunity",
+      "rotate_saved_search_feed",
+      "search",
+      "search_exclusions",
+      "search_opportunities"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nuanu-ai-agent-payment-node-fb235912",
+  "source": {
+    "issue": 4170,
+    "projectUrl": "https://github.com/nuanu-ai/agent-payment-node"
+  },
+  "links": {
+    "docs": "https://github.com/nuanu-ai/agent-payment-node#readme"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "tools": {
+    "count": 80,
+    "names": [
+      "apn_version",
+      "apn_foreground_handoff"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Submitter-reported checks on Apple Silicon macOS with Node 24. Install with brew install nuanu-ai/tap/apn. MCP launch: apn mcp serve. Owner signing stays in a foreground terminal; no independent TensorBlock runtime verification."
+    ]
+  },
+  "install": {
+    "commands": [
+      "apn mcp serve"
+    ],
+    "env": [],
+    "confidence": "medium"
+  }
+}

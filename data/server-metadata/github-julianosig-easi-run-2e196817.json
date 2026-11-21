@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-julianosig-easi-run-2e196817",
+  "source": {
+    "issue": 5106,
+    "projectUrl": "https://github.com/julianosig/easi.run"
+  },
+  "install": {
+    "commands": [
+      "docker exec -i easi-run-admin-1 admin mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Local stdio requires Docker permissions, with no per-agent token. Remote HTTPS requires an agent-specific bearer token."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex"
+  ],
+  "license": "AGPL-3.0-only"
+}

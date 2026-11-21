@@ -5,6 +5,23 @@
     "issue": 3409,
     "projectUrl": "https://datacircle.dev"
   },
+  "description": "Datacircle lists all the GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. It answers from the sheet. list_apis lists the GTM APIs on it, and search_plans finds their plans by API, provider or price. Each plan comes with its score, and the best come first, as on the sheet.",
+  "links": {
+    "docs": "https://datacircle.dev/docs/mcp",
+    "endpoint": "https://api.datacircle.dev/mcp"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "tools": {
+    "count": 2,
+    "names": [
+      "list_apis",
+      "search_plans"
+    ],
+    "source": "self_reported"
+  },
   "verification": {
     "status": "self_reported",
     "notes": [

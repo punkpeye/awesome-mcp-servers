@@ -1,0 +1,54 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mooshee-highlevel-agency-mcp-da542fce",
+  "source": {
+    "projectUrl": "https://github.com/mooshee/highlevel-agency-mcp"
+  },
+  "links": {
+    "homepage": "https://ghlagencymcp.com",
+    "docs": "https://ghlagencymcp.com/support",
+    "endpoint": "https://ghlagencymcp.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http highlevel-agency-mcp https://ghlagencymcp.com/mcp"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "No API key required for MCP initialize, tools/list, and onboarding tools; OAuth 2.1 with PKCE or Private Integration Token for agency/sub-account workspace operations"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 13,
+    "names": [
+      "ghl_agency_connection_health",
+      "ghl_agency_tools_search",
+      "ghl_agency_tools_enable",
+      "ghl_agency_contexts",
+      "ghl_agency_doctor",
+      "ghl_agency_locations",
+      "ghl_snapshot_diff_audit",
+      "ghl_site_builder_sync",
+      "ghl_domain_ssl_onboard",
+      "ghl_workflow_ivr_builder",
+      "ghl_custom_values_audit",
+      "ghl_phone_wallet_audit",
+      "ghl_user_role_governance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

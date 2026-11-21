@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-datamagnet-co-datamagnet-mcp-1bc78d90",
+  "source": {
+    "issue": 4413,
+    "projectUrl": "https://github.com/datamagnet-co/datamagnet-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.datamagnet.co/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 with dynamic registration and PKCE, or Datamagnet bearer API key."
+    ]
+  },
+  "clients": [
+    "Claude Web",
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Codex CLI",
+    "Gemini CLI"
+  ],
+  "license": "Hosted service; public metadata repo only (no source)"
+}

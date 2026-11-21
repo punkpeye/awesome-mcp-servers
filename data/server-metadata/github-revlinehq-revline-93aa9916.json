@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-revlinehq-revline-93aa9916",
+  "source": {
+    "issue": 5438,
+    "projectUrl": "https://github.com/revlinehq/Revline"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @zuraHQ in #5438 under the community profile-claim process.",
+      "Requested profile metadata in #5438: Category: Art, Culture & Media Transport: streamable-http Auth: oauth Install confidence: low License: Apache-2.0 Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@zuraHQ"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

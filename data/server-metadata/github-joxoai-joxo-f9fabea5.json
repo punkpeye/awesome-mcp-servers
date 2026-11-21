@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-joxoai-joxo-f9fabea5",
+  "source": {
+    "issue": 5149,
+    "projectUrl": "https://github.com/JoxoAI/joxo"
+  },
+  "links": {
+    "endpoint": "https://joxo.ai/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "Gemini CLI",
+    "OpenCode"
+  ],
+  "license": "Proprietary (plugin files in the repo may be mirrored unmodified by directories)"
+}

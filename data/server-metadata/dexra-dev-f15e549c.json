@@ -1,0 +1,85 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "dexra-dev-f15e549c",
+  "source": {
+    "issue": 4129,
+    "projectUrl": "https://dexra.dev"
+  },
+  "description": "Solana DeFi risk checks for AI agents: token launches, holders after merging linked wallets, wallets, pools, CLMM ranges, perp venues and a swap preflight. Each check answers with a verdict (ok, caution, avoid, unknown), the reasons and the evidence. Three tools are free; paid tools take an API key or a per-call USDC payment over x402.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://dexra.dev/docs/mcp",
+    "homepage": "https://dexra.dev",
+    "endpoint": "https://api.dexra.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http dexra https://api.dexra.dev/mcp",
+      "npx -y @dexra-dev/mcp install --key <DEXRA_API_KEY>",
+      "npx -y @dexra-dev/mcp"
+    ],
+    "env": [
+      "DEXRA_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Optional. Send `Authorization: Bearer <DEXRA_API_KEY>` (or `X-Api-Key`) to the hosted endpoint; keys come from https://dexra.dev/app/keys.",
+      "Without a key the free tools work (describe_address, service_stats, score_performance) and paid tools are paid per call in USDC over x402.",
+      "`npx -y @dexra-dev/mcp` is a stdio bridge to the hosted endpoint for clients that only run local servers; it reads DEXRA_API_KEY."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Windsurf",
+    "Gemini CLI",
+    "Zed",
+    "Cline",
+    "OpenCode",
+    "GitHub Copilot CLI",
+    "Any MCP client supporting Streamable HTTP"
+  ],
+  "tools": {
+    "count": 12,
+    "names": [
+      "describe_address",
+      "service_stats",
+      "score_performance",
+      "new_launches",
+      "new_launches_batch",
+      "token_deep_check",
+      "token_holders_delta",
+      "wallet_check",
+      "pool_health",
+      "clmm_range_stats",
+      "market_snapshot",
+      "swap_preflight"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Hosted service. Client packages and configs are MIT: https://github.com/dexra-dev/mcp",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @oblivisheee, owner of the dexra-dev GitHub organization and the @dexra-dev npm scope, in #4129.",
+      "The hosted endpoint answers tools/list without a key with the 12 tools listed here."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@oblivisheee"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

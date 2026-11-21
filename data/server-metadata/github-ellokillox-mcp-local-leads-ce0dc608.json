@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ellokillox-mcp-local-leads-ce0dc608",
+  "source": {
+    "issue": 5086,
+    "projectUrl": "https://github.com/ellokillox/mcp-local-leads"
+  },
+  "install": {
+    "commands": [
+      "python3 /absolute/path/to/server.py"
+    ],
+    "env": [
+      "GOOGLE_PLACES_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}

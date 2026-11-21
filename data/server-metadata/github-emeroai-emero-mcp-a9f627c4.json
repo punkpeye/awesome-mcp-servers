@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-emeroai-emero-mcp-a9f627c4",
+  "source": {
+    "issue": 4601,
+    "projectUrl": "https://github.com/EmeroAI/emero-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (claude.ai)",
+    "Claude Desktop",
+    "other remote-MCP clients"
+  ],
+  "license": "Proprietary (hosted service); docs and registry metadata in the linked repo",
+  "links": {
+    "endpoint": "https://mcp.emero.studio/mcp"
+  }
+}

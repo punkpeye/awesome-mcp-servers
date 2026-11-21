@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "sagaris-ai-mcp-df08a446",
+  "source": {
+    "issue": 5784,
+    "projectUrl": "https://www.sagaris.ai/mcp"
+  },
+  "links": {
+    "endpoint": "https://app.sagaris.ai/api/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Any MCP client that supports Streamable HTTP"
+  ],
+  "license": "Proprietary (hosted service)"
+}

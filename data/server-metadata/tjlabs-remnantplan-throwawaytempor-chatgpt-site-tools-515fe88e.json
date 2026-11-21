@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tjlabs-remnantplan-throwawaytempor-chatgpt-site-tools-515fe88e",
+  "source": {
+    "issue": 4317,
+    "projectUrl": "https://tjlabs-remnantplan.throwawaytempor.chatgpt.site/tools"
+  },
+  "links": {
+    "endpoint": "https://tjlabs-remnantplan.throwawaytempor.chatgpt.site/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "Proprietary hosted implementation. Remote planning tools are free to use; users own generated plans and cut lists under the linked tool terms."
+}

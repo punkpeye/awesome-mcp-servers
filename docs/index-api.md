@@ -21,6 +21,7 @@ GET /v1/servers/updated?limit=
 GET /v1/servers/{id}
 GET /v1/servers/{id}/badge.svg
 GET /v1/servers/{id}/install-config?client=claude-desktop|cursor|codex|vscode
+GET /v1/servers/{id}/install-config?client=codex&format=toml
 ```
 
 ## Examples
@@ -125,3 +126,23 @@ The service reads `data/catalog.json` on startup and keeps it in memory. Every d
 The deployment workflow runs on every push to `main` that touches the catalog, docs, API package, schema, or Railway config. It rebuilds `data/catalog.json` and `data/profiles/*.json`, writes `data/build-info.json`, and verifies the live `/health` deployment fingerprint before finishing, so newly merged server entries are reflected by the live API after the Railway deployment succeeds.
 
 The workflow requires a GitHub repository secret named `RAILWAY_TOKEN` with deploy access to the Railway project.
+
+
+### Codex config.toml output
+
+`client=codex` keeps the existing JSON `config.mcpServers` object for API consumers
+and additionally returns `nativeConfig` with `filename`, `format`, and `content`.
+The content is a TOML MCP section for Codex's `config.toml`, not a whole configuration
+file. Merge the section into the existing file; do not replace other settings.
+See the [official Codex MCP configuration documentation](https://learn.chatgpt.com/docs/extend/mcp).
+
+For directly copyable text, request:
+
+```sh
+curl "$MCP_INDEX_API_URL/v1/servers/github-crystaldba-postgres-mcp-22e80ea8/install-config?client=codex&format=toml"
+```
+
+This opt-in response is `text/plain; charset=utf-8`. Other client targets retain
+JSON output. Unsupported format/client combinations return a JSON 400 error.
+Environment values remain placeholders from the catalog; the generator does not
+read local credentials, contact MCP servers, or change install-confidence scores.

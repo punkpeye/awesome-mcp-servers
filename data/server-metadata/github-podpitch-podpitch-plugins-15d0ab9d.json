@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-podpitch-podpitch-plugins-15d0ab9d",
+  "source": {
+    "issue": 4336,
+    "projectUrl": "https://github.com/PodPitch/podpitch-plugins"
+  },
+  "links": {
+    "endpoint": "https://api.podpitch.com/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Public discovery requires no credentials; private account tools require OAuth."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "MCP clients supporting Streamable HTTP"
+  ],
+  "license": "MIT for the public plugin files; hosted backend not distributed"
+}

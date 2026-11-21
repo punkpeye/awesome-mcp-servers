@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "clickdragfinance-com-developers-f74a21f3",
+  "source": {
+    "issue": 5008,
+    "projectUrl": "https://www.clickdragfinance.com/developers"
+  },
+  "links": {
+    "endpoint": "https://www.clickdragfinance.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any client that supports remote Streamable HTTP servers"
+  ],
+  "license": "Hosted service, closed source"
+}

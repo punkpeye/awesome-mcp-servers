@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-liyupi-memecub-99f2a1d0",
+  "source": {
+    "issue": 4987,
+    "projectUrl": "https://github.com/liyupi/memecub"
+  },
+  "links": {
+    "endpoint": "https://memecub.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "MEMECUB_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Search works without a key; match_article requires a free account API key sent as Authorization: Bearer."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "VS Code",
+    "ChatGPT",
+    "Cherry Studio"
+  ],
+  "license": "MIT"
+}

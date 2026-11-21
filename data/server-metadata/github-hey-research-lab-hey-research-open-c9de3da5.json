@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-hey-research-lab-hey-research-open-c9de3da5",
+  "source": {
+    "issue": 4543,
+    "projectUrl": "https://github.com/hey-research-lab/hey-research-open"
+  },
+  "links": {
+    "endpoint": "https://heyresearch.xyz/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @hey-research-lab/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude (listed in Anthropic's Connectors Directory)",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "any MCP client over streamable HTTP or stdio"
+  ],
+  "license": "MIT"
+}

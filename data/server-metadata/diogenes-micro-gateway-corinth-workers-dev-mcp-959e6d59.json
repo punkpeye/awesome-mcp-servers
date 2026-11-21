@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "diogenes-micro-gateway-corinth-workers-dev-mcp-959e6d59",
+  "source": {
+    "issue": 4080,
+    "projectUrl": "https://diogenes-micro-gateway.corinth.workers.dev/mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Community profile claim by @stand-out-of-my-sun from #4080; hosted endpoint identifies the same maintainer. Claim status is separate from TensorBlock verification."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

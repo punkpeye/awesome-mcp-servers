@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "pluia-fr-ec39ae72",
+  "source": {
+    "issue": 4630,
+    "projectUrl": "https://pluia.fr"
+  },
+  "links": {
+    "endpoint": "https://pluia.fr/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Claude Desktop (setup steps: https://pluia.fr/SKILL.md)"
+  ],
+  "license": "Not stated (hosted service)"
+}

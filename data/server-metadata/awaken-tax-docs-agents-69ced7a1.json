@@ -1,0 +1,71 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "awaken-tax-docs-agents-69ced7a1",
+  "source": {
+    "projectUrl": "https://awaken.tax/docs/agents"
+  },
+  "description": "Review crypto transactions, cost basis, gains, income and tax reports in your Awaken Tax account.",
+  "category": "Finance & Crypto",
+  "links": {
+    "docs": "https://awaken.tax/docs/agents",
+    "homepage": "https://awaken.tax",
+    "endpoint": "https://mcp.awaken.tax/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add awaken https://mcp.awaken.tax/mcp --transport http -H \"Authorization: Bearer <portfolioId>:<apiKey>\""
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Any MCP client: send the header Authorization: Bearer <portfolioId>:<apiKey>. Create the key in Awaken under Settings -> API Keys, which also shows the portfolio (client) ID. API keys need an Awaken Dolphin or Whale plan.",
+      "OAuth 2.1 (authorization code with PKCE S256) works in ChatGPT, Claude (claude.ai, Desktop, Claude Code), Cursor, Grok and Meta Muse. Dynamic client registration is not supported, so other clients must use the API key header.",
+      "Write tools only run when the user grants read + write access."
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Grok",
+    "Meta Muse",
+    "Codex"
+  ],
+  "tools": {
+    "count": 81,
+    "names": [
+      "awaken_list_transactions",
+      "awaken_get_transaction",
+      "awaken_label_transactions",
+      "awaken_split_transaction",
+      "awaken_merge_transactions",
+      "awaken_update_transfer",
+      "awaken_undo_session",
+      "awaken_list_tax_lots",
+      "awaken_debug_cost_basis",
+      "awaken_get_tax_summary",
+      "awaken_list_taxable_events",
+      "awaken_get_top_pnl_assets",
+      "awaken_get_portfolio",
+      "awaken_get_1099da_reconciliation",
+      "awaken_get_report_export",
+      "awaken_get_csv_export",
+      "awaken_trigger_recalculate"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary hosted service; the companion Cursor plugin and skill repository (https://github.com/awakentax/plugin) is MIT.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher-provided metadata. The tool names are a representative subset of the 81 tools; every tool has readOnlyHint, destructiveHint and openWorldHint annotations."
+    ]
+  }
+}

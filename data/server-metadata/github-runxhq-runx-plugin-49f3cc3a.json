@@ -1,0 +1,58 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-runxhq-runx-plugin-49f3cc3a",
+  "source": {
+    "projectUrl": "https://github.com/runxhq/runx-plugin"
+  },
+  "description": "Search the public Runx skill catalog and inspect skill source and requirements through its read-only hosted discovery MCP.",
+  "category": "Developer Productivity & Utilities",
+  "links": {
+    "docs": "https://runx.ai/docs/mcp",
+    "homepage": "https://runx.ai",
+    "endpoint": "https://api.runx.ai/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Hosted discovery is public and read-only. Running a skill requires the separate local Runx runtime, explicit authority, and receipts."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Grok Build",
+    "Gemini CLI",
+    "other standards-compliant MCP clients"
+  ],
+  "tools": {
+    "count": 2,
+    "names": [
+      "search_skills",
+      "get_skill"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "The maintained plugin README documents the hosted endpoint, two discovery tools, and separate local execution.",
+      "The plugin’s 512px logo matches the current Mechanism symbol served on runx.ai."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@auscaster"
+    ],
+    "verifiedBy": [],
+    "claimed": false
+  }
+}

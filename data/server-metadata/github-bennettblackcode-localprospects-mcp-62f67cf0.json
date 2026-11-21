@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-bennettblackcode-localprospects-mcp-62f67cf0",
+  "source": {
+    "issue": 5531,
+    "projectUrl": "https://github.com/BennettBlackCode/localprospects-mcp"
+  },
+  "links": {
+    "endpoint": "https://localprospects.ai/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude.ai",
+    "ChatGPT",
+    "Cursor",
+    "Cline",
+    "Windsurf (see setup docs)"
+  ],
+  "license": "Proprietary hosted service; setup docs in the repo are MIT"
+}

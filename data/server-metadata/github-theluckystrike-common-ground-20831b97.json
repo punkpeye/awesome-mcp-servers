@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-theluckystrike-common-ground-20831b97",
+  "source": {
+    "issue": 4912,
+    "projectUrl": "https://github.com/theluckystrike/common-ground"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @theluckystrike in #4804 under the community profile-claim process.",
+      "Optional maintainer proof submitted in #4804: I maintain theluckystrike/common-ground. The repository is public under this GitHub account. The README names Michael Lip as the builder. The source entry was merged in...",
+      "Requested profile metadata in #4804: Maintainer handle @theluckystrike. Please record a community maintainer claim. This does not request TensorBlock verification. The source also supports MIT licensing, homepage...",
+      "Metadata updated from issue #4912. Source: I maintain this repository. These are source declarations at commit 6009870c0dcf0a02a80f9712f8f777b2f75a6e8e, with no new runtime check: - MIT license:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@theluckystrike"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "links": {
+    "docs": "https://github.com/theluckystrike/common-ground/blob/6009870c0dcf0a02a80f9712f8f777b2f75a6e8e/README.md#use-it-from-an-agent",
+    "homepage": "https://common-ground.lipmichal.workers.dev"
+  },
+  "tools": {
+    "count": 2,
+    "names": [
+      "find_common_ground",
+      "plan_night_out"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

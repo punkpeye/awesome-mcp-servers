@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-immurray-gridzen-developer-kit-9e8f0784",
+  "source": {
+    "issue": 5741,
+    "projectUrl": "https://github.com/immurray/gridzen-developer-kit"
+  },
+  "links": {
+    "endpoint": "https://gridzen.ai/developers/mcp"
+  },
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Cursor",
+    "Claude Code",
+    "Claude Desktop",
+    "VS Code",
+    "Codex",
+    "Gemini CLI",
+    "Cline"
+  ],
+  "license": "MIT"
+}

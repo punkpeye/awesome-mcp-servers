@@ -39,5 +39,19 @@
     "Gemini CLI",
     "Grok"
   ],
-  "license": "MIT (skills and launcher); the hosted server is proprietary."
+  "license": "MIT (skills and launcher); the hosted server is proprietary.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @contracko (GitHub organization). Filed by @budivoogt, founder of Contracko and owner of the organization. in #5442 under the community profile-claim process.",
+      "Requested profile metadata in #5442: - Maintainer: Contracko (https://contracko.com) - Docs: https://contracko.com/docs/mcp-server - Support: https://contracko.com/contact - Hosted endpoint: `https://app.contracko.com/mcp` (Streamable HTTP, OAuth 2.1..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@contracko"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
 }

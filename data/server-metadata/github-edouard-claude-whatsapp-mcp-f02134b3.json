@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-edouard-claude-whatsapp-mcp-f02134b3",
+  "source": {
+    "issue": 4167,
+    "projectUrl": "https://github.com/edouard-claude/whatsapp-mcp"
+  },
+  "install": {
+    "commands": [
+      "wa-mcp serve"
+    ],
+    "env": [
+      "WA_DATA_DIR",
+      "WA_READ_ONLY",
+      "RUST_LOG"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Link the WhatsApp account once by pairing code or QR before launching. No API key."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "any stdio MCP client (protocol 2025-11-25 and 2026-07-28)."
+  ],
+  "license": "MIT"
+}

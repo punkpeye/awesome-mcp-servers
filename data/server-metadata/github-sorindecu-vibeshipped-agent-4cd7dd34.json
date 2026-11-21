@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sorindecu-vibeshipped-agent-4cd7dd34",
+  "source": {
+    "issue": 4810,
+    "projectUrl": "https://github.com/sorindecu/vibeshipped-agent"
+  },
+  "links": {
+    "endpoint": "https://vibeshipped.io/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude.ai",
+    "Cursor",
+    "Codex CLI",
+    "VS Code",
+    "Windsurf",
+    "Cline",
+    "Gemini CLI",
+    "goose",
+    "Hermes Agent"
+  ],
+  "license": "MIT"
+}

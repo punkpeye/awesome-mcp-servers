@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tjlabs-quotecompare-throwawaytempor-chatgpt-site-14823ea0",
+  "source": {
+    "issue": 4315,
+    "projectUrl": "https://tjlabs-quotecompare.throwawaytempor.chatgpt.site"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "MCP clients supporting remote Streamable HTTP"
+  ],
+  "license": "Proprietary hosted service with free public comparison tools.",
+  "links": {
+    "endpoint": "https://tjlabs-quotecompare.throwawaytempor.chatgpt.site/api/quote-mcp"
+  }
+}

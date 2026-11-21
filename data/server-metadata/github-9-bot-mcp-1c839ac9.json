@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-9-bot-mcp-1c839ac9",
+  "source": {
+    "issue": 4120,
+    "projectUrl": "https://github.com/9-bot/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.9bot.com.br/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Any client with remote MCP + OAuth support"
+  ],
+  "license": "MIT"
+}

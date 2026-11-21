@@ -1,0 +1,45 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "varg-ai-how-to-63a23ad9",
+  "source": {
+    "projectUrl": "https://varg.ai/how-to"
+  },
+  "links": {
+    "docs": "https://varg.ai/how-to/llms.txt",
+    "homepage": "https://varg.ai/how-to",
+    "endpoint": "https://api.varg.ai/v2/skills/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http varg-how-to https://api.varg.ai/v2/skills/mcp"
+    ],
+    "env": [],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No account or key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 2,
+    "names": [
+      "search_how_to",
+      "get_how_to"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Proprietary (hosted service)"
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tjl-locale-desk-throwawaytempor-chatgpt-site-plugin-3f8c2a39",
+  "source": {
+    "issue": 4331,
+    "projectUrl": "https://tjl-locale-desk.throwawaytempor.chatgpt.site/plugin"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Custom Python MCP client (protocol smoke check)"
+  ],
+  "license": "Proprietary (free hosted use; see public product terms)",
+  "links": {
+    "endpoint": "https://tjl-locale-desk.throwawaytempor.chatgpt.site/api/locale-mcp"
+  }
+}

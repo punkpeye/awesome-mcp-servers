@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "usaprais-com-bc26dc03",
+  "source": {
+    "issue": 4490,
+    "projectUrl": "https://usaprais.com"
+  },
+  "links": {
+    "endpoint": "https://usaprais.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Cursor"
+  ]
+}

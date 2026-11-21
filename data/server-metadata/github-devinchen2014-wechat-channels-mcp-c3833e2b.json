@@ -1,0 +1,72 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devinchen2014-wechat-channels-mcp-c3833e2b",
+  "source": {
+    "projectUrl": "https://github.com/DevinChen2014/wechat-channels-mcp"
+  },
+  "description": "Search WeChat Channels videos and Official Account articles; read content details, comments, replies, creator profiles, posts, article statistics and video transcripts. Hosted business calls consume SocialDataX credits.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://socialdatax.com/ai?from=tensorblock",
+    "homepage": "https://socialdatax.com/ai?from=tensorblock",
+    "endpoint": "https://mcp.socialdatax.com/wechat/mcp"
+  },
+  "install": {
+    "env": [
+      "SOCIALDATAX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Business tool calls require Authorization: Bearer <SOCIALDATAX_API_KEY>; use your own key.",
+      "Get your key at https://socialdatax.com/ai?from=tensorblock. Business calls consume SocialDataX credits.",
+      "Remote client configuration must include the Authorization header; a URL-only generated preview is not a complete authenticated setup."
+    ]
+  },
+  "clients": [
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 24,
+    "names": [
+      "wechat_get_hot_search_list",
+      "wechat_get_user_info_by_user_id",
+      "wechat_get_user_info_by_url",
+      "wechat_get_user_posted_videos_by_user_id",
+      "wechat_get_user_posted_videos_by_url",
+      "wechat_get_video_comment_replies_by_comment_id",
+      "wechat_get_video_comments_by_object_id",
+      "wechat_get_video_comments_by_url",
+      "wechat_get_video_detail_by_encrypted_object_id",
+      "wechat_get_video_share_url_by_object_id",
+      "wechat_search_mp_articles",
+      "wechat_get_mp_article_detail_by_url",
+      "wechat_get_mp_account_info_by_account_id",
+      "wechat_get_mp_account_articles_by_account_id",
+      "wechat_get_mp_article_stats_by_url",
+      "wechat_get_mp_article_comments_by_url",
+      "wechat_get_mp_article_comment_replies_by_url",
+      "wechat_get_video_detail_by_url",
+      "wechat_submit_video_speech_text_by_video_url",
+      "wechat_submit_video_speech_text_by_encrypted_object_id",
+      "wechat_get_video_speech_text_job",
+      "wechat_search_videos",
+      "wechat_search_finder_user",
+      "socialdatax_get_points_balance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (public connection materials); proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher checked tool discovery and the free points-balance tool in Gemini CLI on 2026-10-20.",
+      "Other business tools and TensorBlock generated client previews were not runtime-tested."
+    ]
+  }
+}

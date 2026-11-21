@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "signal-lab-jet-vercel-app-mcp-169f1888",
+  "source": {
+    "issue": 5054,
+    "projectUrl": "https://signal-lab-jet.vercel.app/mcp"
+  },
+  "links": {
+    "endpoint": "https://signal-lab-jet.vercel.app/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop / claude.ai (custom connector)",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Not declared for the catalog. Each listed source's own terms apply."
+}

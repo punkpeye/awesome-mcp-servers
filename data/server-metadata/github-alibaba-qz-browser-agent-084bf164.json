@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-alibaba-qz-browser-agent-084bf164",
+  "source": {
+    "issue": 4103,
+    "projectUrl": "https://github.com/alibaba/qz-browser-agent"
+  },
+  "links": {
+    "endpoint": "http://127.0.0.1:18765/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}

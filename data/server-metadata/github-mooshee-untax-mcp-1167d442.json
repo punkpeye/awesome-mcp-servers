@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mooshee-untax-mcp-1167d442",
+  "source": {
+    "projectUrl": "https://github.com/mooshee/untax-mcp"
+  },
+  "links": {
+    "homepage": "https://untax.io",
+    "docs": "https://untax.io",
+    "endpoint": "https://untax.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http untax https://untax.io/mcp"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "No account or API key required for public county property assessment research and VA facility/form lookups; OAuth 2.1 for private owner workspace reviews, VA verification connections, and test sandbox orders"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 20,
+    "names": [
+      "suggest_addresses",
+      "get_property_assessment",
+      "recheck_property_opportunities",
+      "get_owner_workspace",
+      "get_owner_review_details",
+      "find_va_facilities",
+      "get_va_facility",
+      "find_va_forms",
+      "get_va_form",
+      "start_va_connection",
+      "get_va_connection",
+      "disconnect_va_connection",
+      "review_veteran_requirements",
+      "generate_veteran_packet",
+      "get_microtransactions_catalog",
+      "audit_microtransaction",
+      "get_appeal_lifecycle",
+      "start_tax_sandbox",
+      "get_tax_sandbox_order",
+      "complete_tax_sandbox_order"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

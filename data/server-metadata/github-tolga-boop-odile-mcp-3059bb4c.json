@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-tolga-boop-odile-mcp-3059bb4c",
+  "source": {
+    "issue": 5090,
+    "projectUrl": "https://github.com/tolga-boop/odile-mcp"
+  },
+  "links": {
+    "endpoint": "https://odilelabs.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Public discovery and Direct lookups do not require authentication. Account operations use OAuth 2.1."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "any MCP client with streamable HTTP"
+  ],
+  "license": "Proprietary hosted service (the repo holds the listing and connection instructions)"
+}

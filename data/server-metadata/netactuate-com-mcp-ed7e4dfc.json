@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "netactuate-com-mcp-ed7e4dfc",
+  "source": {
+    "issue": 4862,
+    "projectUrl": "https://netactuate.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://netactuate.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Claude Code"
+  ],
+  "license": "Hosted service run by NetActuate; no public source repo."
+}

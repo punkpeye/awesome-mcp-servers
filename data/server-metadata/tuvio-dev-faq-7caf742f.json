@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "tuvio-dev-faq-7caf742f",
+  "source": {
+    "issue": 4731,
+    "projectUrl": "https://tuvio.dev/faq#ai-tools"
+  },
+  "links": {
+    "endpoint": "https://api.tuvio.dev/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "YOUR_TUVIO_TOKEN"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "Proprietary (hosted service)"
+}

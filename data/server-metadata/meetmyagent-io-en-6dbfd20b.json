@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "meetmyagent-io-en-6dbfd20b",
+  "source": {
+    "issue": 4497,
+    "projectUrl": "https://meetmyagent.io/en"
+  },
+  "links": {
+    "endpoint": "https://meetmyagent.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kasovy-neverapply-mcp-9a597f8b",
+  "source": {
+    "issue": 4178,
+    "projectUrl": "https://github.com/kasovy/neverapply-mcp"
+  },
+  "links": {
+    "endpoint": "https://neverapply.co/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "MIT",
+  "clients": [
+    "Claude (custom connector)",
+    "ChatGPT",
+    "Cursor",
+    "Grok"
+  ]
+}

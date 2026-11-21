@@ -1,0 +1,70 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devinchen2014-weibo-mcp-b60656d9",
+  "source": {
+    "projectUrl": "https://github.com/DevinChen2014/weibo-mcp"
+  },
+  "description": "Search Weibo posts and users; read suggestions, trends, post details, comments, likes, reposts and video transcripts. Hosted business calls consume SocialDataX credits.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://socialdatax.com/ai?from=tensorblock",
+    "homepage": "https://socialdatax.com/ai?from=tensorblock",
+    "endpoint": "https://mcp.socialdatax.com/weibo/mcp"
+  },
+  "install": {
+    "env": [
+      "SOCIALDATAX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Business tool calls require Authorization: Bearer <SOCIALDATAX_API_KEY>; use your own key.",
+      "Get your key at https://socialdatax.com/ai?from=tensorblock. Business calls consume SocialDataX credits.",
+      "Remote client configuration must include the Authorization header; a URL-only generated preview is not a complete authenticated setup."
+    ]
+  },
+  "clients": [
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 22,
+    "names": [
+      "weibo_search_posts",
+      "weibo_search_suggestions",
+      "weibo_search_user_suggestions",
+      "weibo_search_users",
+      "weibo_get_hot_search_list",
+      "weibo_get_post_detail_by_post_id",
+      "weibo_get_post_detail_by_post_url",
+      "weibo_submit_video_speech_text_by_post_url",
+      "weibo_submit_video_speech_text_by_post_id",
+      "weibo_get_video_speech_text_job",
+      "weibo_get_post_comments_by_post_id",
+      "weibo_get_post_comments_by_post_url",
+      "weibo_get_post_comment_replies_by_comment_id",
+      "weibo_get_post_liker_list_by_post_id",
+      "weibo_get_post_liker_list_by_post_url",
+      "weibo_get_post_repost_list_by_post_id",
+      "weibo_get_post_repost_list_by_post_url",
+      "weibo_get_user_info_by_user_id",
+      "weibo_get_user_info_by_profile_url",
+      "weibo_get_user_posts_by_user_id",
+      "weibo_get_user_posts_by_profile_url",
+      "socialdatax_get_points_balance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (public connection materials); proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher checked tool discovery and the free points-balance tool in Gemini CLI on 2026-10-20.",
+      "Other business tools and TensorBlock generated client previews were not runtime-tested."
+    ]
+  }
+}

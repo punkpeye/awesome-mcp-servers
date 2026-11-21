@@ -1,0 +1,84 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devinchen2014-xiaohongshu-xhs-rednote-mcp-971bb8c8",
+  "source": {
+    "projectUrl": "https://github.com/DevinChen2014/xiaohongshu-xhs-rednote-mcp"
+  },
+  "description": "Search Xiaohongshu / 小红书 / XHS / RedNote notes, images, users and products; read note details, comments, replies, creator data, PGY insights and video transcripts. Hosted business calls consume SocialDataX credits.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://socialdatax.com/ai?from=tensorblock",
+    "homepage": "https://socialdatax.com/ai?from=tensorblock",
+    "endpoint": "https://mcp.socialdatax.com/xhs/mcp"
+  },
+  "install": {
+    "env": [
+      "SOCIALDATAX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Business tool calls require Authorization: Bearer <SOCIALDATAX_API_KEY>; use your own key.",
+      "Get your key at https://socialdatax.com/ai?from=tensorblock. Business calls consume SocialDataX credits.",
+      "Remote client configuration must include the Authorization header; a URL-only generated preview is not a complete authenticated setup."
+    ]
+  },
+  "clients": [
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 36,
+    "names": [
+      "xhs_get_note_detail_by_note_url",
+      "xhs_get_note_detail_by_note_id",
+      "xhs_search_notes",
+      "xhs_search_images",
+      "xhs_search_users",
+      "xhs_search_products",
+      "xhs_get_product_detail_by_sku_id",
+      "xhs_get_product_detail_by_url",
+      "xhs_pgy_get_note_detail_by_note_id",
+      "xhs_pgy_get_note_detail_by_note_url",
+      "xhs_pgy_get_creator_profile",
+      "xhs_pgy_get_creator_notes_performance",
+      "xhs_pgy_get_creator_fans_profile",
+      "xhs_pgy_get_creator_fans_summary",
+      "xhs_pgy_get_creator_commercial_overview",
+      "xhs_pgy_get_creator_metrics_trend",
+      "xhs_get_product_reviews",
+      "xhs_get_product_review_replies",
+      "xhs_get_product_review_reply_replies",
+      "xhs_get_search_hot_list",
+      "xhs_search_suggestions",
+      "xhs_submit_video_speech_text_by_note_url",
+      "xhs_submit_video_speech_text_by_note_id",
+      "xhs_get_video_speech_text_job",
+      "xhs_get_note_comments_by_note_id",
+      "xhs_get_note_comments_by_note_url",
+      "xhs_get_note_sub_comments_by_comment_id",
+      "xhs_get_user_id_by_encrypted_user_id",
+      "xhs_get_share_info",
+      "xhs_get_user_info_by_user_id",
+      "xhs_get_user_info_by_profile_url",
+      "xhs_get_user_posted_notes_by_user_id",
+      "xhs_get_user_posted_notes_by_profile_url",
+      "xhs_get_topic_notes_by_topic_url",
+      "xhs_get_topic_notes_by_page_id",
+      "socialdatax_get_points_balance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (public connection materials); proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher checked tool discovery and the free points-balance tool in Gemini CLI on 2026-10-20.",
+      "Other business tools and TensorBlock generated client previews were not runtime-tested."
+    ]
+  }
+}

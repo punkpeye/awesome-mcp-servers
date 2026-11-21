@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "seoclar-com-9e633f29",
+  "source": {
+    "issue": 4872,
+    "projectUrl": "https://seoclar.com"
+  },
+  "links": {
+    "endpoint": "https://seoclar.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Gemini CLI and other remote MCP clients"
+  ],
+  "license": "Proprietary hosted service; no source repository required to connect."
+}

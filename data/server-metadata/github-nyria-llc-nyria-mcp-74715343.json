@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-nyria-llc-nyria-mcp-74715343",
+  "source": {
+    "issue": 5938,
+    "projectUrl": "https://github.com/Nyria-LLC/nyria-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @xozxro in #5938 under the community profile-claim process.",
+      "Requested profile metadata in #5938: Your AI agent sends trade alerts over MCP. Nyria places orders at Charles Schwab, Alpaca, tastytrade, Tradier, Coinbase, Kraken and more. Free on Nyria Paper. Endpoint: https://api.nyria.io/mcp Docs:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@xozxro"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

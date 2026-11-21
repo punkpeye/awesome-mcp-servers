@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mooshee-funnellingo-mcp-08db5168",
+  "source": {
+    "issue": 4840,
+    "projectUrl": "https://github.com/mooshee/funnellingo-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.funnellingo.com/agent/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "license": "MIT-0 consumer integration files; brand assets reserved; hosted service separately licensed."
+}

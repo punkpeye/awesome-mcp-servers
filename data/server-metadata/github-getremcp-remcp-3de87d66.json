@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-getremcp-remcp-3de87d66",
+  "source": {
+    "projectUrl": "https://github.com/getremcp/remcp"
+  },
+  "description": "Hosted OAuth MCP access to computers explicitly paired by their owner. Supports filesystem operations, terminal commands, browser and native desktop UI automation, screenshots, diagnostics and documents. Some tools change device state.",
+  "category": "Operating System & Command Line",
+  "links": {
+    "docs": "https://remcp.site/docs",
+    "homepage": "https://remcp.site",
+    "endpoint": "https://remcp.site/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx --yes @remcp/remcp@latest connect"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "ReMCP OAuth authorization required; user must explicitly pair and authorize each target device."
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Codex CLI",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Gemini CLI"
+  ],
+  "license": "MIT",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Hosted endpoint requires OAuth, returns expected HTTP 401 without authorization."
+    ]
+  }
+}

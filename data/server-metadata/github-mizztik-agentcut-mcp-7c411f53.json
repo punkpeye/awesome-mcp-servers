@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mizztik-agentcut-mcp-7c411f53",
+  "source": {
+    "issue": 4339,
+    "projectUrl": "https://github.com/MIZZTIK/agentcut-mcp"
+  },
+  "links": {
+    "endpoint": "https://agentcut.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "any client that supports remote Streamable HTTP"
+  ],
+  "license": "MIT"
+}

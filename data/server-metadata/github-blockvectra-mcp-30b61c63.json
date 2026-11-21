@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-blockvectra-mcp-30b61c63",
+  "source": {
+    "projectUrl": "https://github.com/blockvectra/mcp"
+  },
+  "links": {
+    "docs": "https://docs.blockvectra.com/en/guides/mcp-server/?ref=tensorblock-mcp",
+    "homepage": "https://blockvectra.com/en/agents/?ref=tensorblock-mcp",
+    "endpoint": "https://docs.blockvectra.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "No API key is needed for documentation, chain discovery, pricing and service-status tools.",
+      "Keyless JSON-RPC access follows each chain's public method policy. Indexed Data API and account tools require the user's own BlockVectra API key.",
+      "Supply an optional key only through the client's private x-api-key or Authorization: Bearer header; never put credentials in tool arguments."
+    ]
+  },
+  "clients": [
+    "Cursor",
+    "VS Code",
+    "Claude Code"
+  ],
+  "license": "MIT (client repository and stdio bridge)",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Connection and authentication metadata are documented in blockvectra/mcp at db78b772f191a25eb4207821772406a9d588e666.",
+      "Medium install confidence describes the documented remote configuration; this metadata update does not assert a live client test or independent TensorBlock runtime verification."
+    ]
+  }
+}

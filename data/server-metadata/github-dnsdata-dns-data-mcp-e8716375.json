@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dnsdata-dns-data-mcp-e8716375",
+  "source": {
+    "issue": 4295,
+    "projectUrl": "https://github.com/DNSDATA/dns-data-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.dns-data.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Gemini and other clients supporting remote MCP with OAuth 2.0"
+  ],
+  "license": "Proprietary hosted service; public repository contains documentation and integration metadata only."
+}

@@ -1,0 +1,60 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devinchen2014-youtube-mcp-464691c3",
+  "source": {
+    "projectUrl": "https://github.com/DevinChen2014/youtube-mcp"
+  },
+  "description": "Search YouTube videos and channels; read suggestions, video and Shorts details, comments, replies and transcripts with pagination. Hosted business calls consume SocialDataX credits.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://socialdatax.com/ai?from=tensorblock",
+    "homepage": "https://socialdatax.com/ai?from=tensorblock",
+    "endpoint": "https://mcp.socialdatax.com/youtube/mcp"
+  },
+  "install": {
+    "env": [
+      "SOCIALDATAX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Business tool calls require Authorization: Bearer <SOCIALDATAX_API_KEY>; use your own key.",
+      "Get your key at https://socialdatax.com/ai?from=tensorblock. Business calls consume SocialDataX credits.",
+      "Remote client configuration must include the Authorization header; a URL-only generated preview is not a complete authenticated setup."
+    ]
+  },
+  "clients": [
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 12,
+    "names": [
+      "youtube_search_videos",
+      "youtube_search_suggestions",
+      "youtube_search_channels",
+      "youtube_get_video_detail_by_url",
+      "youtube_get_channel_info_by_url",
+      "youtube_get_user_posted_videos_by_channel_url",
+      "youtube_get_video_comments_by_url",
+      "youtube_get_video_comment_replies",
+      "youtube_submit_video_speech_text_by_url",
+      "youtube_submit_video_speech_text_by_video_id",
+      "youtube_get_video_speech_text_job",
+      "socialdatax_get_points_balance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (public connection materials); proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher checked tool discovery and the free points-balance tool in Gemini CLI on 2026-10-20.",
+      "Other business tools and TensorBlock generated client previews were not runtime-tested."
+    ]
+  }
+}

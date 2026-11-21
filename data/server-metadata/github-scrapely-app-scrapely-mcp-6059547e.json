@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-scrapely-app-scrapely-mcp-6059547e",
+  "source": {
+    "issue": 5369,
+    "projectUrl": "https://github.com/scrapely-app/scrapely-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.scrape.ly"
+  },
+  "install": {
+    "commands": [
+      "uvx --from scrapely-mcp scrapely-mcp-server"
+    ],
+    "env": [
+      "SCRAPELY_TOKEN"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Cursor",
+    "Cline",
+    "VS Code",
+    "any MCP client"
+  ]
+}

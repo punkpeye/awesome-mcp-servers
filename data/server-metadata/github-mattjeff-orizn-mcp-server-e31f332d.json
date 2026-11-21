@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mattjeff-orizn-mcp-server-e31f332d",
+  "source": {
+    "projectUrl": "https://github.com/mattjeff/orizn-mcp-server"
+  },
+  "links": {
+    "docs": "https://visa.orizn.app/integrations/mcp",
+    "homepage": "https://visa.orizn.app/visa-api",
+    "endpoint": "https://visa.orizn.app/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y orizn-visa-mcp"
+    ],
+    "env": [
+      "ORIZN_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Optional X-API-Key header (free key, no card).",
+      "Without a key the remote endpoint exposes quick_visa_check and get_coverage_stats."
+    ]
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jatinder14-hookpost-mcp-9ee13e7f",
+  "source": {
+    "issue": 4588,
+    "projectUrl": "https://github.com/jatinder14/hookpost-mcp"
+  },
+  "links": {
+    "endpoint": "https://hookpost.hookstep.in/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Codex CLI",
+    "Gemini CLI"
+  ],
+  "license": "Proprietary (hosted service)"
+}

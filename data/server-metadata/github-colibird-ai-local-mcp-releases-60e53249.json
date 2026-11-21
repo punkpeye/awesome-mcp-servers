@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-colibird-ai-local-mcp-releases-60e53249",
+  "source": {
+    "issue": 4303,
+    "projectUrl": "https://github.com/colibird-ai/local-mcp-releases"
+  },
+  "description": "Local tools that let your AI use Mail, Calendar, Contacts, Teams, Slack, WhatsApp, OneDrive, Google Drive, Notion, Outlook and Office files on Mac and Windows. Runs on your computer.",
+  "install": {
+    "commands": [
+      "npx -y local-mcp@latest"
+    ]
+  },
+  "transport": [
+    "stdio"
+  ],
+  "links": {
+    "docs": "https://www.local-mcp.com"
+  },
+  "license": "Documentation, scripts and plugin manifests are MIT. The LMCP app binary is proprietary."
+}

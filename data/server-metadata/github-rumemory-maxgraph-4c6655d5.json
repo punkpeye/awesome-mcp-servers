@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-rumemory-maxgraph-4c6655d5",
+  "source": {
+    "issue": 4137,
+    "projectUrl": "https://github.com/RuMemory/maxgraph"
+  },
+  "links": {
+    "endpoint": "http://localhost:8787/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Cline",
+    "Continue",
+    "ChatGPT (REST)",
+    "DeepSeek Harness"
+  ],
+  "license": "BSL-1.1 (converts to MIT four years after each release)"
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "events-lat-4c79fee9",
+  "source": {
+    "issue": 5496,
+    "projectUrl": "https://events.lat/"
+  },
+  "links": {
+    "endpoint": "https://ojlsoqhibryhvuyltwpi.supabase.co/functions/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth (events.lat account)"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "MCP Inspector"
+  ],
+  "license": "unknown"
+}

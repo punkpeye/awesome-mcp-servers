@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mcpcheckup-com-e0bfd673",
+  "source": {
+    "issue": 4378,
+    "projectUrl": "https://mcpcheckup.com"
+  },
+  "links": {
+    "endpoint": "https://mcpcheckup.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any remote MCP client that supports Streamable HTTP"
+  ],
+  "license": "Hosted service; the check suite and verifier (https://github.com/mcpcheckup/checks) are Apache-2.0."
+}

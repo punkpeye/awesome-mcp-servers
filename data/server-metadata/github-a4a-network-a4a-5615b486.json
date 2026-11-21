@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-a4a-network-a4a-5615b486",
+  "source": {
+    "issue": 4433,
+    "projectUrl": "https://github.com/a4a-network/a4a"
+  },
+  "install": {
+    "commands": [
+      "uvx a4a-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Windsurf",
+    "Gemini CLI",
+    "Kimi Code"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "quantagentshop-com-e45b1e38",
+  "source": {
+    "issue": 4628,
+    "projectUrl": "https://quantagentshop.com"
+  },
+  "links": {
+    "endpoint": "https://quantagentshop.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client can list tools and call the free quote tool",
+    "paid calls need an x402 MCP client (for example @x402/mcp)."
+  ],
+  "license": "Hosted service; the public repo (docs, Agent Skill, manifests) is MIT: https://github.com/TeaTime0906/quant-agent-shop"
+}

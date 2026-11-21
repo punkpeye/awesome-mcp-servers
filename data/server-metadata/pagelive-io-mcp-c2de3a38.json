@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "pagelive-io-mcp-c2de3a38",
+  "source": {
+    "issue": 4854,
+    "projectUrl": "https://pagelive.io/mcp"
+  },
+  "links": {
+    "endpoint": "https://app.pagelive.io/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor"
+  ],
+  "license": "unknown"
+}

@@ -1,0 +1,62 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devinchen2014-toutiao-mcp-4a75daab",
+  "source": {
+    "projectUrl": "https://github.com/DevinChen2014/toutiao-mcp"
+  },
+  "description": "Search Toutiao content and users; read trends, suggestions, content details, comments, replies, creator profiles and posts with pagination. Hosted business calls consume SocialDataX credits.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://socialdatax.com/ai?from=tensorblock",
+    "homepage": "https://socialdatax.com/ai?from=tensorblock",
+    "endpoint": "https://mcp.socialdatax.com/toutiao/mcp"
+  },
+  "install": {
+    "env": [
+      "SOCIALDATAX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Business tool calls require Authorization: Bearer <SOCIALDATAX_API_KEY>; use your own key.",
+      "Get your key at https://socialdatax.com/ai?from=tensorblock. Business calls consume SocialDataX credits.",
+      "Remote client configuration must include the Authorization header; a URL-only generated preview is not a complete authenticated setup."
+    ]
+  },
+  "clients": [
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 14,
+    "names": [
+      "toutiao_get_hot_search_list",
+      "toutiao_search_suggestions",
+      "toutiao_search_users",
+      "toutiao_get_user_info_by_user_id",
+      "toutiao_get_user_info_by_profile_url",
+      "toutiao_get_user_posts_by_user_id",
+      "toutiao_get_user_posts_by_profile_url",
+      "toutiao_get_post_comment_replies_by_comment_id",
+      "toutiao_search_posts",
+      "toutiao_get_post_detail_by_post_id",
+      "toutiao_get_post_detail_by_url",
+      "toutiao_get_post_comments_by_post_id",
+      "toutiao_get_post_comments_by_url",
+      "socialdatax_get_points_balance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (public connection materials); proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher checked tool discovery and the free points-balance tool in Gemini CLI on 2026-10-20.",
+      "Other business tools and TensorBlock generated client previews were not runtime-tested."
+    ]
+  }
+}

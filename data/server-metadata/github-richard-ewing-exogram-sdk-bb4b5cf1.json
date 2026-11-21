@@ -1,0 +1,72 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-richard-ewing-exogram-sdk-bb4b5cf1",
+  "source": {
+    "issue": 4980,
+    "projectUrl": "https://github.com/Richard-Ewing/exogram-sdk"
+  },
+  "links": {
+    "endpoint": "https://api.exogram.ai/mcp",
+    "docs": "https://exogram.ai/docs/mcp"
+  },
+  "install": {
+    "commands": [
+      "uvx mcp-server-exogram"
+    ],
+    "env": [
+      "EXOGRAM_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key, optional EXOGRAM_API_KEY for Exogram Cloud sync (zero-signup local SQLite WAL works with no key)"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Windsurf",
+    "VS Code",
+    "Cline"
+  ],
+  "license": "MIT",
+  "description": "Official MCP bridge to Exogram (https://exogram.ai) — the Personal AI Agent and workspace that understands your work, people, and life, coordinates specialist agents, renders interactive deliverables, and executes tasks with your approval.",
+  "tools": {
+    "count": 22,
+    "names": [
+      "search_vault",
+      "search_memory_vault",
+      "store_memory",
+      "update_memory_vault",
+      "query_graph",
+      "get_neural_cluster",
+      "check_action_safety",
+      "record_decision",
+      "verify_audit_trail",
+      "find_tool",
+      "render_live_widget"
+    ],
+    "source": "self_reported"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Richard-Ewing in #4981 under the community profile-claim process.",
+      "Requested profile metadata in #4981: Maintainer: @Richard-Ewing Website: https://exogram.ai Docs: https://exogram.ai/docs/mcp Remote Streamable HTTP Endpoint: https://api.exogram.ai/mcp Positioning: Exogram — Personal AI Agent & Workspace for your..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Richard-Ewing"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

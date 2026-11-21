@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "saaspro-dev-docs-mcp-1c9afec6",
+  "source": {
+    "issue": 5057,
+    "projectUrl": "https://saaspro.dev/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://saaspro.dev/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Public Claude Community directory listing: https://claude.ai/directory/saas-pro-max. OpenAI connection scan reports “Tools scanned successfully.” Other client-specific runtime/tool calls have not been tested in this campaign."
+  ],
+  "license": "Private hosted-service implementation; no public server-source license claim."
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ciroartz-inkstudioai-cli-77ef819b",
+  "source": {
+    "issue": 4487,
+    "projectUrl": "https://github.com/ciroartz/inkstudioai-cli"
+  },
+  "install": {
+    "commands": [
+      "npx -y inkstudioai mcp"
+    ],
+    "env": [
+      "INKSTUDIO_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf"
+  ],
+  "license": "MIT"
+}

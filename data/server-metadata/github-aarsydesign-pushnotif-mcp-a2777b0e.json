@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-aarsydesign-pushnotif-mcp-a2777b0e",
+  "source": {
+    "issue": 4298,
+    "projectUrl": "https://github.com/AarsyDesign/pushnotif-mcp"
+  },
+  "links": {
+    "endpoint": "https://pushnotif.biz.id/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y github:AarsyDesign/pushnotif-mcp"
+    ],
+    "env": [
+      "PUSHNOTIF_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "VS Code",
+    "ChatGPT",
+    "Codex"
+  ],
+  "license": "MIT"
+}

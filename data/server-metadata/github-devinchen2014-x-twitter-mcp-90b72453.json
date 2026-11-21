@@ -1,0 +1,69 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devinchen2014-x-twitter-mcp-90b72453",
+  "source": {
+    "projectUrl": "https://github.com/DevinChen2014/x-twitter-mcp"
+  },
+  "description": "Search X / Twitter posts and users; read post details, comments, user profiles, posts, replies and video transcripts. Hosted business calls consume SocialDataX credits.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://socialdatax.com/ai?from=tensorblock",
+    "homepage": "https://socialdatax.com/ai?from=tensorblock",
+    "endpoint": "https://mcp.socialdatax.com/x/mcp"
+  },
+  "install": {
+    "env": [
+      "SOCIALDATAX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Business tool calls require Authorization: Bearer <SOCIALDATAX_API_KEY>; use your own key.",
+      "Get your key at https://socialdatax.com/ai?from=tensorblock. Business calls consume SocialDataX credits.",
+      "Remote client configuration must include the Authorization header; a URL-only generated preview is not a complete authenticated setup."
+    ]
+  },
+  "clients": [
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 21,
+    "names": [
+      "x_search_posts",
+      "x_search_suggestions",
+      "x_search_users",
+      "x_get_post_detail_by_post_id",
+      "x_get_post_detail_by_post_url",
+      "x_get_post_comments_by_post_id",
+      "x_get_post_comments_by_post_url",
+      "x_get_post_comment_replies_by_comment_id",
+      "x_get_user_info_by_user_id",
+      "x_get_user_info_by_username",
+      "x_get_user_info_by_profile_url",
+      "x_get_user_replies_by_user_id",
+      "x_get_user_replies_by_username",
+      "x_get_user_replies_by_profile_url",
+      "x_get_user_posts_by_user_id",
+      "x_get_user_posts_by_username",
+      "x_get_user_posts_by_profile_url",
+      "x_submit_video_speech_text_by_post_url",
+      "x_submit_video_speech_text_by_post_id",
+      "x_get_video_speech_text_job",
+      "socialdatax_get_points_balance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (public connection materials); proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher checked tool discovery and the free points-balance tool in Gemini CLI on 2026-10-20.",
+      "Other business tools and TensorBlock generated client previews were not runtime-tested."
+    ]
+  }
+}

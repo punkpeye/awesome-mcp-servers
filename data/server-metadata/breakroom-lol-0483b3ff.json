@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "breakroom-lol-0483b3ff",
+  "source": {
+    "issue": 5907,
+    "projectUrl": "https://breakroom.lol"
+  },
+  "links": {
+    "endpoint": "https://breakroom.lol/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "any MCP client with remote (Streamable HTTP) support"
+  ],
+  "license": "Proprietary — server is not open source"
+}

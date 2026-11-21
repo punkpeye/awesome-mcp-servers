@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-brajendrak00068-agentic-ai-video-production-a2413054",
+  "source": {
+    "issue": 4698,
+    "projectUrl": "https://github.com/brajendrak00068/agentic-ai-video-production"
+  },
+  "links": {
+    "endpoint": "https://api.livecore.ai/api/v1/misc/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y levea-mcp-server"
+    ],
+    "env": [
+      "LEVEA_API_URL",
+      "LEVEA_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Cline",
+    "VS Code",
+    "Gemini CLI",
+    "OpenClaw",
+    "Hermes"
+  ],
+  "license": "MIT (client wrapper); hosted service by Levea"
+}

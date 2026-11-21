@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "poachsearch-com-developers-caa01c76",
+  "source": {
+    "projectUrl": "https://poachsearch.com/developers"
+  },
+  "description": "Find affiliates bidding on your brand in search ads, by country. First 100 searches free.",
+  "category": "Marketing, Sales & CRM",
+  "links": {
+    "docs": "https://poachsearch.com/developers",
+    "homepage": "https://poachsearch.com",
+    "endpoint": "https://poachsearch.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [
+      "POACHSEARCH_API_KEY"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Requires Authorization: Bearer <API key> header. Request an API key by email via POST https://poachsearch.com/api/v1/keys. First 100 searches free."
+    ]
+  },
+  "tools": {
+    "count": 6,
+    "names": [
+      "get_balance",
+      "estimate_brand_check",
+      "start_brand_check",
+      "get_brand_check",
+      "live_search",
+      "get_live_search"
+    ],
+    "source": "self_reported"
+  }
+}

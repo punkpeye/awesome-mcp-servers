@@ -1,0 +1,92 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "xtiles-app-en-imagine-e88c2100",
+  "source": {
+    "issue": 4672,
+    "projectUrl": "https://xtiles.app/en/imagine/"
+  },
+  "links": {
+    "endpoint": "https://mcp.xtiles.app/mcp",
+    "docs": "https://xtiles.app/en/imagine/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "Cline",
+    "Raycast",
+    "Postman",
+    "Microsoft 365 Copilot",
+    "other MCP clients with OAuth"
+  ],
+  "license": "Proprietary (hosted service)",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @xtiles-owner in #4669 under the community profile-claim process.",
+      "Requested profile metadata in #4669: Maintainer: XTILES INC. (@xtiles-owner) Docs URL: https://xtiles.app/en/imagine/ Support: acc@xtiles.app Transport: streamable-http Auth: oauth (OAuth 2.1, authorization code with PKCE S256, Dynamic Client...",
+      "Metadata updated from issue #4672. Source: - Profile claimed by the maintainer in #4669 (merged in #4670). - The tool list matches the hosted server at https://mcp.xtiles.app/mcp (tools/list after OAuth sign-in) and the Official MCP Registry entry..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@xtiles-owner"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "tools": {
+    "count": 39,
+    "names": [
+      "xtiles_list_projects",
+      "xtiles_search_projects",
+      "xtiles_get_project_content",
+      "xtiles_get_project_structure",
+      "xtiles_get_view_content",
+      "xtiles_get_collection_content",
+      "xtiles_get_content_by_link",
+      "xtiles_get_page_layout",
+      "xtiles_get_tile_styles",
+      "xtiles_get_planner_content",
+      "xtiles_list_tasks",
+      "xtiles_get_task",
+      "xtiles_list_calendar_events",
+      "xtiles_search_users",
+      "xtiles_get_current_user",
+      "xtiles_get_user_timezone",
+      "xtiles_get_docs",
+      "xtiles_list_workflows",
+      "xtiles_get_workflow",
+      "xtiles_create_project_from_markdown",
+      "xtiles_create_view_from_markdown",
+      "xtiles_create_tiles_from_markdown_by_view",
+      "xtiles_create_tiles_from_markdown_in_project_planner",
+      "xtiles_create_tiles_from_markdown_in_my_planner",
+      "xtiles_patch_view_content",
+      "xtiles_set_page_description",
+      "xtiles_set_page_layout",
+      "xtiles_set_tile_styles",
+      "xtiles_reset_tile_styles",
+      "xtiles_update_page",
+      "xtiles_create_page_group",
+      "xtiles_update_page_group",
+      "xtiles_move_pages",
+      "xtiles_create_tasks",
+      "xtiles_update_task",
+      "xtiles_create_notification",
+      "xtiles_delete_page",
+      "xtiles_delete_page_group",
+      "xtiles_delete_tasks"
+    ],
+    "source": "self_reported"
+  }
+}

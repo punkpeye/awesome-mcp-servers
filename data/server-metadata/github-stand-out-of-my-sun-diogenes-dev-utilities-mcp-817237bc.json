@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-dev-utilities-mcp-817237bc",
+  "source": {
+    "issue": 4565,
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-dev-utilities-mcp"
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer claim submitted by @stand-out-of-my-sun in #4565. Claim records maintenance only; requested live verification and high confidence were not independently established."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "apify-com-gaelasao-keyword-research-api-b2acbf27",
+  "source": {
+    "issue": 4425,
+    "projectUrl": "https://apify.com/gaelasao/keyword-research-api"
+  },
+  "links": {
+    "endpoint": "https://mcp.apify.com/?tools=gaelasao/keyword-research-api"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Apify OAuth or bearer API token; paid actor runs."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "any client with remote MCP support"
+  ],
+  "license": "Hosted service (no source code published)"
+}

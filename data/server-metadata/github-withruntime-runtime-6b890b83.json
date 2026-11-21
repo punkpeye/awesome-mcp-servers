@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-withruntime-runtime-6b890b83",
+  "source": {
+    "projectUrl": "https://github.com/withruntime/runtime"
+  },
+  "description": "Firecracker microVM sandboxes for AI agents: run commands, read and write files, start processes, preview ports, and pause and wake with memory kept. Billed on active CPU ($0.025 per vCPU-hour), no plan fee.",
+  "category": "Code Execution",
+  "links": {
+    "docs": "https://withruntime.com/docs/mcp",
+    "homepage": "https://withruntime.com",
+    "endpoint": "https://api.withruntime.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y withruntime mcp"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "The remote endpoint uses OAuth 2.1 with PKCE and dynamic client registration; a request with no key gets a 401 pointing at the protected resource metadata.",
+      "The local npx bridge connects with a one-time browser approval; servers and CI can send Authorization: Bearer with a Runtime API key."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "ChatGPT",
+    "Codex",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Submitted by the Runtime team. Official MCP Registry name: com.withruntime/runtime."
+    ]
+  }
+}

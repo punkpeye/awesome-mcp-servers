@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mcp-check-tattoo-0e37beb9",
+  "source": {
+    "issue": 4096,
+    "projectUrl": "https://mcp.check.tattoo/"
+  },
+  "links": {
+    "endpoint": "https://mcp.check.tattoo/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "MCP Inspector (strict mode passes)"
+  ],
+  "license": "unknown"
+}

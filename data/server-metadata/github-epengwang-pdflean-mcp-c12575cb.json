@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-epengwang-pdflean-mcp-c12575cb",
+  "source": {
+    "issue": 4173,
+    "projectUrl": "https://github.com/epengwang/pdflean-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.pdflean.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Any MCP client that supports remote Streamable HTTP servers with OAuth 2.1 dynamic client registration."
+  ],
+  "license": "Proprietary"
+}

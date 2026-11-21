@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-inreels-ai-inreels-mcp-d5358bb7",
+  "source": {
+    "issue": 5083,
+    "projectUrl": "https://github.com/inreels-ai/inreels-mcp"
+  },
+  "links": {
+    "endpoint": "https://www.inreels.ai/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude",
+    "Cursor",
+    "Codex",
+    "ChatGPT"
+  ],
+  "license": "MIT"
+}

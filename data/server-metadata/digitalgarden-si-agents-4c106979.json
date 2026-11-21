@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "digitalgarden-si-agents-4c106979",
+  "source": {
+    "issue": 4196,
+    "projectUrl": "https://digitalgarden.si/agents/"
+  },
+  "links": {
+    "endpoint": "https://mcp.digitalgarden.si/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Gemini CLI",
+    "Streamable HTTP MCP clients"
+  ],
+  "license": "Hosted public service; private implementation. Read access does not transfer rights to source, assets or third-party material."
+}

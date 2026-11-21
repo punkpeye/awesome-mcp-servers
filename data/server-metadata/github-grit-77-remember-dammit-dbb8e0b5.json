@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-grit-77-remember-dammit-dbb8e0b5",
+  "source": {
+    "issue": 4550,
+    "projectUrl": "https://github.com/Grit-77/remember-dammit"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "Apache-2.0"
+}

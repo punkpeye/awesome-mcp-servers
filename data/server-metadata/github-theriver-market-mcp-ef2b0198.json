@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-theriver-market-mcp-ef2b0198",
+  "source": {
+    "issue": 4605,
+    "projectUrl": "https://github.com/theriver-market/mcp"
+  },
+  "links": {
+    "endpoint": "https://theriver.markets/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any client that supports remote Streamable HTTP servers"
+  ],
+  "license": "MIT"
+}

@@ -6,14 +6,31 @@
 [![🤗 Hugging Face](https://img.shields.io/badge/HuggingFace-TensorBlock-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/tensorblock)
 [![Telegram](https://img.shields.io/badge/Telegram-Group-blue?logo=telegram)](https://t.me/TensorBlock)
 
+## ☁️ LagrangeCloud — Run your MCP-powered agent in the cloud
+
+[![LagrangeCloud: Deploy your agent](https://img.shields.io/badge/LagrangeCloud-Deploy_your_agent-FF6B35?style=for-the-badge)](https://lgr.tensorblock.co/)
+[![MCP50: $5 signup credit](https://img.shields.io/badge/MCP50-%245_signup_credit-2EA043?style=for-the-badge)](https://lgr.tensorblock.co/console/?coupon=MCP50)
+
+**[LagrangeCloud](https://lgr.tensorblock.co/) · Built by TensorBlock**
+
+Found the MCP tools for your agent? Deploy the agent you built
+in Codex or Claude Code and make it available beyond your terminal.
+
+- Bring your agent instructions, skills, scripts, and supported MCP connections.
+- Call your agent through an API, embed it on your site, or run it on a schedule.
+- Inspect execution traces to see what happened in each run.
+
+> [!TIP]
+> **$5 in credit for this community.** Sign up with code **MCP50** to try LagrangeCloud.
+
+**[Sign up & get $5 credit →](https://lgr.tensorblock.co/console/?coupon=MCP50)**
+· [Plugin & setup guide](https://github.com/TensorBlock/lagrange-plugins)
+
+---
+
 <div style="text-align: left; margin: 20px 0;">
     <a href="https://discord.com/invite/Ej5NmeHFf2" style="display: inline-block; padding: 10px 20px; background-color: #5865F2; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
         Join the TensorBlock Discord
-    </a>
-</div>
-<div style="text-align: left; margin: 20px 0;">
-    <a href="https://github.com/TensorBlock/forge" style="display: inline-block; padding: 10px 20px; background-color: #24292e; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
-        Explore Forge, our open-source middleware for AI model provider management
     </a>
 </div>
 TensorBlock MCP Index turns this community-curated MCP server directory into a hosted, searchable registry for agents and applications. Contributors add servers in markdown; TensorBlock normalizes the entries, generates structured profiles and install-config previews, and serves the index through a free public API.

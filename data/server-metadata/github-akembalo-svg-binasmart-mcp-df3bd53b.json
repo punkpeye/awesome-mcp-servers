@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-akembalo-svg-binasmart-mcp-df3bd53b",
+  "source": {
+    "issue": 4086,
+    "projectUrl": "https://github.com/akembalo-svg/binasmart-mcp"
+  },
+  "links": {
+    "endpoint": "https://bina.et/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "any Streamable HTTP client"
+  ],
+  "license": "MIT"
+}

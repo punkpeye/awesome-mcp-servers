@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-robertkodes-nightshift-282f48ed",
+  "source": {
+    "issue": 4535,
+    "projectUrl": "https://github.com/RobertKodes/nightshift"
+  },
+  "links": {
+    "endpoint": "https://getnightshift.tech/mcp/public"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop (mcp-remote)",
+    "Cursor",
+    "any streamable-HTTP MCP client"
+  ],
+  "license": "MIT"
+}

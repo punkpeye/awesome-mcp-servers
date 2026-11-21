@@ -1,0 +1,49 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mooshee-pressmark-335a8dae",
+  "source": {
+    "projectUrl": "https://github.com/mooshee/pressmark"
+  },
+  "links": {
+    "homepage": "https://pressmark.dev",
+    "docs": "https://pressmark.dev",
+    "endpoint": "https://pressmark.dev/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http pressmark https://pressmark.dev/mcp",
+      "cargo install --git https://github.com/mooshee/pressmark"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No API key or account required for remote Streamable HTTP or local stdio"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 6,
+    "names": [
+      "generate_document",
+      "preview_document",
+      "convert_document",
+      "record_payment",
+      "calculate_totals",
+      "get_pricing"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

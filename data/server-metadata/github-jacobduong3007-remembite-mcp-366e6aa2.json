@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jacobduong3007-remembite-mcp-366e6aa2",
+  "source": {
+    "issue": 5097,
+    "projectUrl": "https://github.com/jacobduong3007/remembite-mcp"
+  },
+  "links": {
+    "endpoint": "https://remembite.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT (developer mode, beta)",
+    "other MCP clients via remote URL or personal access token"
+  ],
+  "license": "n/a (hosted service; repo holds metadata only)"
+}

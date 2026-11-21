@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-terminaltax-terminal-tax-mcp-server-ba37d1d0",
+  "source": {
+    "issue": 5205,
+    "projectUrl": "https://github.com/terminaltax/terminal-tax-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.terminal.tax/v1/hosted-mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Cline",
+    "Kiro"
+  ],
+  "license": "MIT (repository); hosted service",
+  "description": "E-file your tax return from your AI assistant; you review and sign on one hosted page.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #5205. Source: Maintainer request for the listing added in #4633 / #4634. Docs: https://terminal.tax/llms.txt"
+    ]
+  }
+}

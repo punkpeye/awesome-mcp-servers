@@ -1,0 +1,44 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-shortformkit-shortformkit-mcp-ad2026d2",
+  "source": {
+    "issue": 4245,
+    "projectUrl": "https://github.com/shortformkit/shortformkit-mcp"
+  },
+  "links": {
+    "endpoint": "https://shortformkit.com/mcp",
+    "docs": "https://shortformkit.com/mcp-server/"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude.ai",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "ChatGPT (connectors)"
+  ],
+  "license": "MIT",
+  "description": "Free remote MCP server for social video: transcribes public Instagram Reels, TikToks and YouTube videos, including videos without captions, reads metadata and captions, downloads media, and returns sourced creator data such as upload specs for 9 platforms, loudness targets and monetization programs.",
+  "tools": {
+    "count": 9,
+    "names": [
+      "get_video_info",
+      "download_media",
+      "transcribe_video",
+      "youtube_channel_id",
+      "social_video_specs",
+      "creator_monetization",
+      "loudness_and_subtitles",
+      "youtube_thumbnail_trends",
+      "estimate_youtube_earnings"
+    ],
+    "source": "self_reported"
+  }
+}

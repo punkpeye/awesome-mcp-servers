@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "apify-com-gaelasao-ai-visibility-tracker-84b0478e",
+  "source": {
+    "issue": 4591,
+    "projectUrl": "https://apify.com/gaelasao/ai-visibility-tracker"
+  },
+  "links": {
+    "endpoint": "https://mcp.apify.com/?tools=gaelasao/ai-visibility-tracker",
+    "docs": "https://github.com/gaelasao/apify-mcp-tools"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "any client with remote MCP support"
+  ],
+  "license": "Hosted service (no source code published)"
+}

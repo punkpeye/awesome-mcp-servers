@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "speechyou-com-mcp-1fde80cc",
+  "source": {
+    "issue": 4874,
+    "projectUrl": "https://speechyou.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://app.speechyou.com/api/mcp/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (custom connector)",
+    "other remote OAuth-capable MCP clients"
+  ],
+  "license": "Proprietary hosted service; source repository is private. No open-source license claimed."
+}

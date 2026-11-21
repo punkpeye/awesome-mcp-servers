@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-synchronicity-labs-mcp-server-56be4542",
+  "source": {
+    "issue": 5452,
+    "projectUrl": "https://github.com/synchronicity-labs/mcp-server"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @synchronicity-labs in #5452 under the community profile-claim process.",
+      "Requested profile metadata in #5452: - Maintainer: sync. labs (https://sync.so) - Docs: https://sync.so/docs/plugins-and-extensions/mcp-server - Support: support@sync.so, https://support.sync.so - Transport: streamable-http (hosted at..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@synchronicity-labs"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "links": {
+    "homepage": "https://sync.so",
+    "docs": "https://sync.so/docs/plugins-and-extensions/mcp-server",
+    "endpoint": "https://mcp.sync.so/mcp"
+  },
+  "transport": [
+    "streamable-http",
+    "stdio"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Hosted server uses OAuth 2.1 with dynamic client registration; local stdio server requires SYNC_API_KEY."
+    ]
+  },
+  "install": {
+    "commands": [
+      "npx -y @sync.so/mcp-server@latest"
+    ],
+    "env": [
+      "SYNC_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "license": "MIT"
+}

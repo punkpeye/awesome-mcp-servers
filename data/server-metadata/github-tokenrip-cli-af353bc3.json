@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-tokenrip-cli-af353bc3",
+  "source": {
+    "issue": 4334,
+    "projectUrl": "https://github.com/tokenrip/cli"
+  },
+  "links": {
+    "endpoint": "https://api.tokenrip.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.1 (also API key)"
+    ]
+  }
+}

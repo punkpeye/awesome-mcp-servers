@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-dankezo-antirea-070b507c",
+  "source": {
+    "issue": 5593,
+    "projectUrl": "https://github.com/dankezo/antiRea"
+  },
+  "install": {
+    "commands": [
+      "npx -y @dannyphan190/anti-rea-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "MIT"
+}

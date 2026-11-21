@@ -1,0 +1,63 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devinchen2014-haokan-mcp-4add572a",
+  "source": {
+    "projectUrl": "https://github.com/DevinChen2014/haokan-mcp"
+  },
+  "description": "Search Haokan videos and users; read video details, comments, replies, creator profiles, creator videos and hot searches. Hosted business calls consume SocialDataX credits.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://socialdatax.com/ai?from=tensorblock",
+    "homepage": "https://socialdatax.com/ai?from=tensorblock",
+    "endpoint": "https://mcp.socialdatax.com/haokan/mcp"
+  },
+  "install": {
+    "env": [
+      "SOCIALDATAX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Business tool calls require Authorization: Bearer <SOCIALDATAX_API_KEY>; use your own key.",
+      "Get your key at https://socialdatax.com/ai?from=tensorblock. Business calls consume SocialDataX credits.",
+      "Remote client configuration must include the Authorization header; a URL-only generated preview is not a complete authenticated setup."
+    ]
+  },
+  "clients": [
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 15,
+    "names": [
+      "haokan_get_comment_replies_by_video_id",
+      "haokan_get_comment_replies_by_url",
+      "haokan_get_video_comments_by_video_id",
+      "haokan_get_video_comments_by_url",
+      "haokan_search_videos",
+      "haokan_search_users",
+      "haokan_search_suggestions",
+      "haokan_get_hot_search_list",
+      "haokan_get_video_detail_by_video_id",
+      "haokan_get_video_detail_by_url",
+      "haokan_get_user_info_by_user_id",
+      "haokan_get_user_info_by_url",
+      "haokan_get_user_posted_videos_by_user_id",
+      "haokan_get_user_posted_videos_by_profile_url",
+      "socialdatax_get_points_balance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (public connection materials); proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher checked tool discovery and the free points-balance tool in Gemini CLI on 2026-10-20.",
+      "Other business tools and TensorBlock generated client previews were not runtime-tested."
+    ]
+  }
+}

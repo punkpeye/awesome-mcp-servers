@@ -1,0 +1,56 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-mooshee-gisdb-mcp-1797004b",
+  "source": {
+    "projectUrl": "https://github.com/mooshee/gisdb-mcp"
+  },
+  "links": {
+    "homepage": "https://gisdb.io",
+    "docs": "https://gisdb.io",
+    "endpoint": "https://gisdb.io/mcp"
+  },
+  "install": {
+    "commands": [
+      "claude mcp add --transport http gisdb https://gisdb.io/mcp"
+    ],
+    "confidence": "high"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "No account or API key required for public catalog discovery, product metadata, county record lookups, and guided lead search; OAuth 2.1 for saving workflows, managing subscriptions, and reading CSV deliveries"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "tools": {
+    "count": 15,
+    "names": [
+      "gisdb_search_catalog",
+      "gisdb_get_metadata",
+      "gisdb_search_records",
+      "gisdb_guide_search",
+      "gisdb_start_search",
+      "gisdb_continue_search",
+      "gisdb_get_search",
+      "gisdb_save_search",
+      "gisdb_list_saved_searches",
+      "gisdb_create_checkout",
+      "gisdb_get_order",
+      "gisdb_open_billing_portal",
+      "gisdb_cancel_subscription",
+      "gisdb_get_lead_updates",
+      "gisdb_set_lead_updates"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT"
+}

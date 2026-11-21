@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "paidnice-com-mcp-769376a5",
+  "source": {
+    "issue": 4931,
+    "projectUrl": "https://www.paidnice.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.paidnice.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "and any client that accepts a remote MCP server"
+  ],
+  "license": "Proprietary (hosted service)"
+}

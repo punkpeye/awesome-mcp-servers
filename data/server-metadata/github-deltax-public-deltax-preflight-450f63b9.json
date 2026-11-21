@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-deltax-public-deltax-preflight-450f63b9",
+  "source": {
+    "projectUrl": "https://github.com/DeltaX-Public/deltax-preflight"
+  },
+  "links": {
+    "docs": "https://github.com/DeltaX-Public/deltax-preflight/blob/main/mcp/README.md"
+  },
+  "install": {
+    "commands": [
+      "git clone https://github.com/DeltaX-Public/deltax-preflight.git",
+      "cd deltax-preflight",
+      "npm ci --prefix mcp --ignore-scripts",
+      "node mcp/bin/server.mjs"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No account, API key or runtime credential is required. The initial dependency installation downloads SDK packages; installed validation runs locally without network access."
+    ]
+  },
+  "tools": {
+    "count": 3,
+    "names": [
+      "preflight_check",
+      "preflight_hash_decision",
+      "preflight_hash_policy"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Public preview metadata supplied by the maintainer; this is not independent TensorBlock verification or a production-readiness claim.",
+      "Requires Node.js 20 or later. Run installation and launch commands from the cloned repository root; an MCP host configuration must use the absolute path to the checkout's mcp/bin/server.mjs.",
+      "Install confidence is low because the source checkout requires manual replacement of the relative launch path with an absolute checkout path in the MCP host.",
+      "No client-specific compatibility or remote HTTP endpoint is claimed. The server does not authenticate supplied facts, select candidates, execute actions or grant downstream authority.",
+      "DeltaX Evaluate is optional and is not imported, called or required by this MCP server."
+    ]
+  }
+}

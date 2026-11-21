@@ -1,0 +1,73 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devinchen2014-douyin-mcp-70940f8c",
+  "source": {
+    "projectUrl": "https://github.com/DevinChen2014/douyin-mcp"
+  },
+  "description": "Search Douyin videos, users and products; read trends, suggestions, video details, comments, replies, creator posts, series and video transcripts. Hosted business calls consume SocialDataX credits.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://socialdatax.com/ai?from=tensorblock",
+    "homepage": "https://socialdatax.com/ai?from=tensorblock",
+    "endpoint": "https://mcp.socialdatax.com/douyin/mcp"
+  },
+  "install": {
+    "env": [
+      "SOCIALDATAX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Business tool calls require Authorization: Bearer <SOCIALDATAX_API_KEY>; use your own key.",
+      "Get your key at https://socialdatax.com/ai?from=tensorblock. Business calls consume SocialDataX credits.",
+      "Remote client configuration must include the Authorization header; a URL-only generated preview is not a complete authenticated setup."
+    ]
+  },
+  "clients": [
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 25,
+    "names": [
+      "douyin_get_hot_search_list",
+      "douyin_search_suggestions",
+      "douyin_get_video_detail_by_aweme_id",
+      "douyin_get_video_detail_by_url",
+      "douyin_get_video_share_link_by_aweme_id",
+      "douyin_get_video_share_link_by_url",
+      "douyin_submit_video_speech_text_by_video_url",
+      "douyin_submit_video_speech_text_by_aweme_id",
+      "douyin_get_video_speech_text_job",
+      "douyin_get_video_comments_by_aweme_id",
+      "douyin_get_video_comments_by_url",
+      "douyin_get_video_comment_replies_by_comment_id",
+      "douyin_get_user_info_by_sec_user_id",
+      "douyin_get_user_info_by_douyin_id",
+      "douyin_get_user_info_by_profile_url",
+      "douyin_get_user_posted_videos_by_sec_user_id",
+      "douyin_get_user_posted_videos_by_profile_url",
+      "douyin_get_user_series_by_sec_user_id",
+      "douyin_get_user_series_by_profile_url",
+      "douyin_search_users",
+      "douyin_search_videos",
+      "douyin_search_products",
+      "douyin_get_product_detail_by_product_id",
+      "douyin_get_product_detail_by_url",
+      "socialdatax_get_points_balance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (public connection materials); proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher checked tool discovery and the free points-balance tool in Gemini CLI on 2026-10-20.",
+      "Other business tools and TensorBlock generated client previews were not runtime-tested."
+    ]
+  }
+}

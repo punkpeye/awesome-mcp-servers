@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "pondchat-com-docs-api-mcp-md-d046cae0",
+  "source": {
+    "issue": 4515,
+    "projectUrl": "https://pondchat.com/docs/api/mcp.md"
+  },
+  "links": {
+    "endpoint": "https://pondchat.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code \u2014 any client that supports remote streamable-HTTP MCP servers"
+  ],
+  "license": "MIT"
+}

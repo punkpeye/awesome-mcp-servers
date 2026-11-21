@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-narwhalthepong-freelance-tax-mcp-8d5bf965",
+  "source": {
+    "issue": 4786,
+    "projectUrl": "https://github.com/NarwhalThePong/freelance-tax-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y freelance-tax-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "any stdio MCP client"
+  ],
+  "license": "MIT"
+}

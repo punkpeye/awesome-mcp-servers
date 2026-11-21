@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-veritaset-tech-veritaset-1345e16c",
+  "source": {
+    "projectUrl": "https://github.com/Veritaset-tech/veritaset"
+  },
+  "links": {
+    "endpoint": "https://veritaset.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "Claude Desktop",
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "VS Code",
+    "any MCP client with remote Streamable HTTP"
+  ],
+  "license": "No open-source license (hosted service; free to use under https://veritaset.com/terms/)"
+}

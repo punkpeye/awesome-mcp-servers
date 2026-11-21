@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "screenrig-ai-docs-mcp-d6f2d1f2",
+  "source": {
+    "issue": 4176,
+    "projectUrl": "https://screenrig.ai/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.screenrig.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Grok"
+  ]
+}

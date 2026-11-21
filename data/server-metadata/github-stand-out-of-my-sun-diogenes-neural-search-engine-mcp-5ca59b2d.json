@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-neural-search-engine-mcp-5ca59b2d",
+  "source": {
+    "issue": 4570,
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-neural-search-engine-mcp"
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer claim submitted by @stand-out-of-my-sun in #4570. Claim records maintenance only; requested live verification and high confidence were not independently established."
+    ]
+  }
+}

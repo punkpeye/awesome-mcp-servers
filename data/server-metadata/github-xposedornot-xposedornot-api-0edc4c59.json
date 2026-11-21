@@ -1,12 +1,12 @@
 {
   "$schema": "../../schemas/server-metadata.schema.json",
-  "id": "github-diegobruegger-prog-shortformkit-mcp-923dbea7",
+  "id": "github-xposedornot-xposedornot-api-0edc4c59",
   "source": {
-    "issue": 3872,
-    "projectUrl": "https://github.com/diegobruegger-prog/shortformkit-mcp"
+    "issue": 4122,
+    "projectUrl": "https://github.com/XposedOrNot/XposedOrNot-API"
   },
   "links": {
-    "endpoint": "https://shortformkit.com/mcp"
+    "endpoint": "https://api.xposedornot.com/mcp"
   },
   "transport": [
     "streamable-http"
@@ -17,11 +17,12 @@
   },
   "clients": [
     "Claude Desktop",
-    "Claude.ai",
     "Claude Code",
     "Cursor",
     "VS Code",
-    "ChatGPT (connectors)"
+    "Windsurf",
+    "Codex CLI",
+    "Gemini CLI"
   ],
   "license": "MIT"
 }

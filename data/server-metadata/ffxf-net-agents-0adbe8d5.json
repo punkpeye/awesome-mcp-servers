@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "ffxf-net-agents-0adbe8d5",
+  "source": {
+    "issue": 5013,
+    "projectUrl": "https://ffxf.net/agents"
+  },
+  "links": {
+    "endpoint": "https://ffxf.net/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "bearer"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "any client with Streamable HTTP and custom headers"
+  ],
+  "license": "Proprietary (hosted service)"
+}

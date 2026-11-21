@@ -20,24 +20,41 @@
     ]
   },
   "clients": [
-    "Claude"
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code"
   ],
   "license": "MIT",
   "tools": {
-    "count": 5,
+    "count": 7,
     "names": [
-      "get_profile",
-      "get_tool_catalog",
-      "learn_tools",
-      "read_tool",
-      "execute_tool"
+      "magicinterview_get_profile",
+      "magicinterview_get_tool_catalog",
+      "magicinterview_learn_tools",
+      "magicinterview_read_tool",
+      "magicinterview_execute_tool",
+      "magicinterview_prepare_meeting",
+      "magicinterview_open_workspace"
     ],
     "source": "self_reported"
   },
   "verification": {
     "status": "self_reported",
     "notes": [
-      "MagicInterview moved its hosted endpoint and homepage from magicinterview.app to magicinterview.ai; the new OAuth metadata endpoint was reachable on 2026-10-03."
+      "Client entries describe OAuth-enabled MCP compatibility, not marketplace approval or completed end-to-end client tests. Interactive MCP App rendering depends on host support.",
+      "The tool count covers seven assistant-visible tools on the default compact endpoint. The two app-private helpers magicinterview_app_read and magicinterview_app_write are excluded. The directory endpoint exposes individual operations instead. Historical unprefixed names remain callable compatibility aliases and are not separately advertised.",
+      "The public server card and maintained server source advertise these capabilities; authenticated workflow testing is not established by this metadata.",
+      "Profile claimed by @samihalawa in #5517 under the community profile-claim process.",
+      "Requested profile metadata in #5517: Category: AI & LLM Integration Transport: streamable-http Auth: oauth Install confidence: low License: MIT Verification: self_reported"
     ]
+  },
+  "description": "Manage MagicInterview projects, conversations and reusable sources, including Notion page imports and optional meeting sync, from a compact assistant workspace. Save a preparation brief with magicinterview_prepare_meeting; live audio capture and voice practice run in the full MagicInterview app.",
+  "community": {
+    "maintainedBy": [
+      "@samihalawa"
+    ],
+    "verifiedBy": [],
+    "claimed": true
   }
 }

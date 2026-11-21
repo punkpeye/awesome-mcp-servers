@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-gm365-shuita-ai-price-5a0d7137",
+  "source": {
+    "issue": 4227,
+    "projectUrl": "https://github.com/gm365/shuita-ai-price"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @gm365 in #4227 under the community profile-claim process.",
+      "Requested profile metadata in #4227: Category: Finance & Crypto Transport: stdio Auth: none Install: npx -y ai-price-mcp (Node.js 18+, no API key or env vars) Install confidence: high (tested in Cline and with the MCP SDK client) License: MIT Setup..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@gm365"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

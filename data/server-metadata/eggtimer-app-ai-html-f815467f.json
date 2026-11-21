@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "eggtimer-app-ai-html-f815467f",
+  "source": {
+    "issue": 4084,
+    "projectUrl": "https://eggtimer.app/ai.html"
+  },
+  "links": {
+    "endpoint": "https://eggtimer.app/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any Streamable HTTP MCP client (e.g. Claude custom connectors",
+    "ChatGPT developer mode",
+    "Cursor",
+    "VS Code)"
+  ],
+  "license": "Proprietary (hosted service)"
+}

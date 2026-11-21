@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "makemidas-com-developers-5592e4f4",
+  "source": {
+    "issue": 5540,
+    "projectUrl": "https://makemidas.com/developers"
+  },
+  "links": {
+    "endpoint": "https://makemidas.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT",
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Gemini CLI"
+  ],
+  "license": "Proprietary hosted service (free daily credits)"
+}

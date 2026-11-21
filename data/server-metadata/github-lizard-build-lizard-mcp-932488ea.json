@@ -5,10 +5,11 @@
     "issue": 3922,
     "projectUrl": "https://github.com/lizard-build/lizard-mcp"
   },
-  "description": "Run code in Lizard Sandboxes and manage apps on Lizard (lizard.build). Includes 56 tools for sandbox files and commands, deployments, managed databases, logs, metrics, secrets and domains.",
+  "description": "Run code in Lizard Sandboxes on Lizard (lizard.build). Provides 89 MCP tools, including 17 sandbox tools for commands, files, pause/resume, snapshots, forks and HTTPS ports, plus app, database and Git tools. Connect over Streamable HTTP with OAuth or your own API key. Cloud usage is billed; see lizard.build/pricing.",
   "links": {
     "docs": "https://github.com/lizard-build/lizard-mcp#connect-a-client",
-    "endpoint": "https://employ-woman-g1q2.us-east-1.onlizard.com/mcp"
+    "endpoint": "https://employ-woman-g1q2.us-east-1.onlizard.com/mcp",
+    "homepage": "https://lizard.build"
   },
   "transport": [
     "streamable-http"
@@ -20,15 +21,97 @@
     ]
   },
   "tools": {
-    "count": 56,
+    "count": 89,
     "names": [
-      "sandbox_list",
-      "sandbox_show",
+      "addon_create",
+      "billing_status",
+      "billing_summary",
+      "ci_run_list",
+      "ci_run_show",
+      "config_apply",
+      "deploy_events",
+      "deploy_redeploy",
+      "deploy_restart",
+      "domain_attach",
+      "domain_delete",
+      "domain_dns_list",
+      "domain_dns_update",
+      "domain_owned_list",
+      "domain_verify",
+      "git_checkout",
+      "git_connect",
+      "git_status",
+      "logs_tail",
+      "metrics_get",
+      "pr_create",
+      "pr_list",
+      "pr_merge",
+      "pr_show",
+      "project_create",
+      "project_delete",
+      "project_list",
+      "project_pause",
+      "project_resume",
+      "region_list",
+      "repo_commit",
+      "repo_commits",
+      "repo_create",
+      "repo_delete",
+      "repo_files",
+      "repo_list",
+      "repo_read_file",
+      "repo_show",
       "sandbox_create",
+      "sandbox_delete",
       "sandbox_exec",
+      "sandbox_expose_port",
+      "sandbox_fork",
+      "sandbox_list",
+      "sandbox_list_files",
+      "sandbox_pause",
       "sandbox_read_file",
+      "sandbox_resume",
+      "sandbox_set_timeout",
+      "sandbox_show",
+      "sandbox_snapshot",
+      "sandbox_snapshot_delete",
+      "sandbox_snapshot_list",
+      "sandbox_unexpose_port",
       "sandbox_write_file",
-      "sandbox_delete"
+      "secrets_delete",
+      "secrets_list",
+      "secrets_refs",
+      "secrets_set",
+      "service_create",
+      "service_delete",
+      "service_get_port",
+      "service_list",
+      "service_pause",
+      "service_rename",
+      "service_resume",
+      "service_scale",
+      "service_set",
+      "service_set_port",
+      "service_show",
+      "service_sleep_set",
+      "service_sleep_status",
+      "template_deploy",
+      "template_list",
+      "template_show",
+      "volume_create",
+      "volume_delete",
+      "volume_list",
+      "volume_resize",
+      "whoami",
+      "workspace_create",
+      "workspace_delete",
+      "workspace_limits_get",
+      "workspace_limits_set",
+      "workspace_list",
+      "workspace_pause",
+      "workspace_resale_pricing_get",
+      "workspace_resale_pricing_set",
+      "workspace_resume"
     ],
     "source": "self_reported"
   },
@@ -36,7 +119,9 @@
   "verification": {
     "status": "self_reported",
     "notes": [
-      "Tool count and remote setup were submitted by the maintainer in issue #3922. The seven listed names are the newly added sandbox tools, not the complete 56-tool list.",
+      "Maintainer check on 2026-10-27 after release f6581a2: authenticated tools/list returned 89 unique tools, including 17 sandbox tools, and whoami completed without an MCP error. The names field is the full tools/list result. The release removes the unavailable service shell tool ssh_exec.",
+      "An earlier Cline CLI 3.0.73 check connected to the same remote endpoint with Streamable HTTP and a user-supplied Bearer token; its native lizard__whoami call passed. Interactive OAuth was not tested in that check.",
+      "Unauthenticated access returned HTTP 401 with an OAuth protected-resource discovery URL. The endpoint and client setup are documented in the linked README.",
       "Profile claimed by @yuraoak in issue #3919."
     ]
   },
@@ -46,5 +131,15 @@
     ],
     "verifiedBy": [],
     "claimed": true
-  }
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "clients": [
+    "Cline",
+    "Claude Code",
+    "Cursor"
+  ]
 }

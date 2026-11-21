@@ -1,0 +1,73 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-kamilkaczmareksolutions-polish-mcp-servers-356ec026",
+  "source": {
+    "issue": 4794,
+    "projectUrl": "https://github.com/kamilkaczmareksolutions/polish-mcp-servers"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @kamilkaczmareksolutions in #4793 under the community profile-claim process.",
+      "Requested profile metadata in #4793: Maintainer: @kamilkaczmareksolutions Docs URL: https://github.com/kamilkaczmareksolutions/polish-mcp-servers#readme Support: https://github.com/kamilkaczmareksolutions/polish-mcp-servers/issues Install: `npx -y...",
+      "Metadata updated from issue #4794. Source: README: https://github.com/kamilkaczmareksolutions/polish-mcp-servers#readme (Tools, Install, Configure Claude Desktop and Cursor, Hosted client configuration). Tool names match `tools/list` from `npx -y..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@kamilkaczmareksolutions"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
+  "description": "Local stdio MCP server for Polish public law and registers: 12 read-only tools, each running a public Apify Actor. Covers Sejm ELI legal acts, SAOS court judgments, EU-funds tenders, CEE public tenders, EIPA EV charging stations, CEPiK vehicle registration aggregates, GUNB building permits, ULDK land parcels with MPZP/POG zoning, RPWDL healthcare facilities, developer apartment prices and PSE electricity market data. tools/list works without a token; tools/call needs APIFY_TOKEN (pay-per-event).",
+  "links": {
+    "docs": "https://github.com/kamilkaczmareksolutions/polish-mcp-servers#readme"
+  },
+  "install": {
+    "commands": [
+      "npx -y polish-mcp-servers",
+      "npx -y --package polish-mcp-servers polish-law-mcp",
+      "npx -y --package polish-mcp-servers polish-public-registers",
+      "npx -y github:kamilkaczmareksolutions/polish-mcp-servers"
+    ],
+    "env": [
+      "APIFY_TOKEN"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "API key, requires APIFY_TOKEN (Apify API token from console.apify.com/settings/integrations, or a prepaid token from agi.apify.com). Without a token only tools/list works; tools/call returns a tool error."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Claude.ai"
+  ],
+  "tools": {
+    "count": 12,
+    "names": [
+      "polish-law-mcp-server",
+      "polish-legal-acts-eli",
+      "polish-court-judgments-saos",
+      "polish-eu-funds-tenders-baza-konkurencyjnosci",
+      "cee-public-tenders",
+      "polish-ev-charging-stations-eipa",
+      "polish-vehicle-registrations-cepik",
+      "polish-building-permits-gunb",
+      "polish-land-parcels-uldk-zoning",
+      "polish-healthcare-facilities-rpwdl",
+      "polish-developer-apartment-prices",
+      "polish-electricity-market-pse"
+    ],
+    "source": "self_reported"
+  }
+}

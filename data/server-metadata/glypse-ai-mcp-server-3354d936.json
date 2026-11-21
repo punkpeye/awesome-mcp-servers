@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "glypse-ai-mcp-server-3354d936",
+  "source": {
+    "issue": 5371,
+    "projectUrl": "https://glypse.ai/mcp-server"
+  },
+  "links": {
+    "endpoint": "https://mcp.glypse.ai"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Windsurf",
+    "Codex",
+    "Gemini CLI"
+  ]
+}

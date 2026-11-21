@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "selan-ai-browser-772b816e",
+  "source": {
+    "issue": 5615,
+    "projectUrl": "https://selan.ai/browser?utm_source=tensorblock&utm_medium=directory&utm_campaign=extension-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.selan.ai/extension/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "ChatGPT",
+    "Codex",
+    "Cursor"
+  ],
+  "license": "Proprietary (not open source; hosted remote server)"
+}

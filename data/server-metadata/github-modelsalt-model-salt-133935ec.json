@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-modelsalt-model-salt-133935ec",
+  "source": {
+    "issue": 4681,
+    "projectUrl": "https://github.com/modelsalt/model-salt"
+  },
+  "install": {
+    "commands": [
+      "npx -y model-salt setup claude",
+      "npx -y @modelsalt/model-salt"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Gemini CLI",
+    "Kimi Code"
+  ],
+  "license": "MIT"
+}

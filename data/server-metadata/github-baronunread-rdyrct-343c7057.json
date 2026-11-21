@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-baronunread-rdyrct-343c7057",
+  "source": {
+    "issue": 4182,
+    "projectUrl": "https://github.com/baronunread/rdyrct"
+  },
+  "links": {
+    "endpoint": "https://rdyrct.com/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT and other MCP clients"
+  ],
+  "license": "MIT"
+}

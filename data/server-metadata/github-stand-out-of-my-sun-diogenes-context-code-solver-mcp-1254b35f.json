@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stand-out-of-my-sun-diogenes-context-code-solver-mcp-1254b35f",
+  "source": {
+    "issue": 4564,
+    "projectUrl": "https://github.com/stand-out-of-my-sun/diogenes-context-code-solver-mcp"
+  },
+  "community": {
+    "maintainedBy": [
+      "@stand-out-of-my-sun"
+    ],
+    "claimed": true
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer claim submitted by @stand-out-of-my-sun in #4564. Claim records maintenance only; requested live verification and high confidence were not independently established."
+    ]
+  }
+}

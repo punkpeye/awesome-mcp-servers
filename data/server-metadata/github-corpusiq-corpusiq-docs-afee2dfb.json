@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-corpusiq-corpusiq-docs-afee2dfb",
+  "source": {
+    "issue": 2037,
+    "projectUrl": "https://github.com/CorpusIQ/corpusiq-docs"
+  },
+  "community": {
+    "maintainedBy": [
+      "@CorpusIQ"
+    ],
+    "claimed": true,
+    "verifiedBy": []
+  },
+  "links": {
+    "endpoint": "https://mcp2.corpusiq.io/mcp",
+    "homepage": "https://corpusiq.io",
+    "docs": "https://docs.corpusiq.io"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth 2.0 device flow, as reported by the maintainer."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Claude Code",
+    "other MCP clients"
+  ],
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer profile claim and connection metadata submitted in #2037. No independent client or endpoint verification asserted."
+    ]
+  }
+}

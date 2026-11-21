@@ -1,0 +1,72 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-devinchen2014-bilibili-mcp-1b376ac2",
+  "source": {
+    "projectUrl": "https://github.com/DevinChen2014/bilibili-mcp"
+  },
+  "description": "Search Bilibili videos and articles; read video, article and dynamic-post details, comments, replies, likes, reposts, creator data, download links and video transcripts. Hosted business calls consume SocialDataX credits.",
+  "category": "Social Media & Content Platforms",
+  "links": {
+    "docs": "https://socialdatax.com/ai?from=tensorblock",
+    "homepage": "https://socialdatax.com/ai?from=tensorblock",
+    "endpoint": "https://mcp.socialdatax.com/bilibili/mcp"
+  },
+  "install": {
+    "env": [
+      "SOCIALDATAX_API_KEY"
+    ],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "Business tool calls require Authorization: Bearer <SOCIALDATAX_API_KEY>; use your own key.",
+      "Get your key at https://socialdatax.com/ai?from=tensorblock. Business calls consume SocialDataX credits.",
+      "Remote client configuration must include the Authorization header; a URL-only generated preview is not a complete authenticated setup."
+    ]
+  },
+  "clients": [
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 24,
+    "names": [
+      "bilibili_search_users",
+      "bilibili_search_suggestions",
+      "bilibili_search_videos",
+      "bilibili_search_articles",
+      "bilibili_get_content_detail_by_id",
+      "bilibili_get_content_detail_by_url",
+      "bilibili_get_video_download_links",
+      "bilibili_get_content_comments_by_id",
+      "bilibili_get_content_comments_by_url",
+      "bilibili_get_content_comment_replies_by_comment_id",
+      "bilibili_get_content_likes_and_reposts_by_post_id",
+      "bilibili_get_content_likes_and_reposts_by_url",
+      "bilibili_get_user_info_by_user_id",
+      "bilibili_get_user_info_by_profile_url",
+      "bilibili_get_user_posted_videos_by_user_id",
+      "bilibili_get_user_posted_videos_by_profile_url",
+      "bilibili_get_user_posted_articles_by_user_id",
+      "bilibili_get_user_posted_articles_by_profile_url",
+      "bilibili_get_user_posted_dynamics_by_user_id",
+      "bilibili_get_user_posted_dynamics_by_profile_url",
+      "bilibili_submit_video_speech_text_by_video_url",
+      "bilibili_submit_video_speech_text_by_bvid",
+      "bilibili_get_video_speech_text_job",
+      "socialdatax_get_points_balance"
+    ],
+    "source": "self_reported"
+  },
+  "license": "MIT (public connection materials); proprietary hosted service",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Publisher checked tool discovery and the free points-balance tool in Gemini CLI on 2026-10-20.",
+      "Other business tools and TensorBlock generated client previews were not runtime-tested."
+    ]
+  }
+}

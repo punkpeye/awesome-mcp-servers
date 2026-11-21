@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-routinerun-routinerun-c2c8ebd5",
+  "source": {
+    "issue": 4964,
+    "projectUrl": "https://github.com/routinerun/routinerun"
+  },
+  "links": {
+    "endpoint": "https://api.routinerun.com/mcp",
+    "docs": "https://routinerun.com/help/assistants"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (web, desktop, mobile)",
+    "Claude Code",
+    "ChatGPT",
+    "Gemini CLI"
+  ],
+  "license": "Proprietary hosted service; public repository code and schemas MIT, docs CC BY 4.0, routine catalog CC0. Hosted terms: https://routinerun.com/terms"
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sliktrip-slicktrip-mcp-9b890305",
+  "source": {
+    "issue": 5110,
+    "projectUrl": "https://github.com/sliktrip/slicktrip-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.slicktrip.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "Gemini CLI",
+    "Microsoft 365 Copilot",
+    "other"
+  ],
+  "license": "MIT"
+}

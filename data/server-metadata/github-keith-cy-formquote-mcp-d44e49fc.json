@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-keith-cy-formquote-mcp-d44e49fc",
+  "source": {
+    "issue": 4443,
+    "projectUrl": "https://github.com/Keith-CY/formquote-mcp"
+  },
+  "links": {
+    "endpoint": "https://formquote-mcp.chen-yu-d1.workers.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "ChatGPT"
+  ],
+  "license": "MIT"
+}

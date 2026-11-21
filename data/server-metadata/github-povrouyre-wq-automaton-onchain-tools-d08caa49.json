@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-povrouyre-wq-automaton-onchain-tools-d08caa49",
+  "source": {
+    "issue": 4492,
+    "projectUrl": "https://github.com/povrouyre-wq/automaton-onchain-tools"
+  },
+  "links": {
+    "endpoint": "https://automaton-tx-explainer.vercel.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client with x402 payment support (e.g. @x402/mcp clients)"
+  ],
+  "license": "MIT"
+}

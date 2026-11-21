@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-giggy-ai-giggy-mcp-3eeb1c4a",
+  "source": {
+    "issue": 4716,
+    "projectUrl": "https://github.com/giggy-ai/giggy-mcp"
+  },
+  "links": {
+    "endpoint": "https://giggy.ai/mcp",
+    "docs": "https://github.com/giggy-ai/giggy-mcp#authentication"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Giggy API key in Authorization: Bearer; store GIGGY_API_KEY in client secrets or environment configuration."
+    ]
+  },
+  "install": {
+    "env": [
+      "GIGGY_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Cline",
+    "Windsurf"
+  ],
+  "license": "ISC integration and configuration repository; hosted Giggy usage requires an account and is subject to service pricing and usage limits.",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer metadata supplied in #4716; named clients have documented configurations, not independent certification."
+    ]
+  }
+}

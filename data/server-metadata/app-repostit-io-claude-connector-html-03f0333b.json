@@ -2,20 +2,30 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "app-repostit-io-claude-connector-html-03f0333b",
   "source": {
-    "issue": 3234,
+    "issue": 4622,
     "projectUrl": "https://app.repostit.io/claude-connector.html"
   },
   "links": {
     "docs": "https://app.repostit.io/claude-connector.html",
-    "homepage": "https://app.repostit.io"
+    "homepage": "https://app.repostit.io",
+    "endpoint": "https://repostit-mcp-cfjcykgqda-uc.a.run.app/mcp/v1.1"
   },
   "auth": {
     "type": "oauth",
     "notes": [
-      "Connect through Claude's connector directory, sign in to Repostit, and approve the requested permissions."
+      "OAuth authorization code with PKCE (S256), dynamic client registration, public client (no client secret)."
     ]
   },
   "clients": [
-    "Claude"
-  ]
+    "Claude (per the current public profile and official setup guide)."
+  ],
+  "transport": [
+    "streamable-http"
+  ],
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #4622. Source: Official setup: https://app.repostit.io/claude-connector.html OAuth authorization-server metadata: https://repostit-mcp-cfjcykgqda-uc.a.run.app/.well-known/oauth-authorization-server OAuth protected-resource..."
+    ]
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jackvitick-socialync-mcp-065a450e",
+  "source": {
+    "issue": 6477,
+    "projectUrl": "https://github.com/JackVitick/socialync-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.socialync.io/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude (connector directory)",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "Grok"
+  ],
+  "license": "MIT (public repo); the hosted service is Socialync's"
+}

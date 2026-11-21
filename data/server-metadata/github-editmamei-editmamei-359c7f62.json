@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-editmamei-editmamei-359c7f62",
+  "source": {
+    "issue": 4748,
+    "projectUrl": "https://github.com/editmamei/editmamei"
+  },
+  "install": {
+    "commands": [
+      "npm install -g editmamei"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor"
+  ],
+  "license": "FSL-1.1-MIT"
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "whalecoupons-co-mcp-a46afb4e",
+  "source": {
+    "issue": 4099,
+    "projectUrl": "https://whalecoupons.co/mcp"
+  },
+  "links": {
+    "endpoint": "https://whalecoupons.co/mcp",
+    "docs": "https://whalecoupons.co"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any Streamable HTTP MCP client"
+  ]
+}

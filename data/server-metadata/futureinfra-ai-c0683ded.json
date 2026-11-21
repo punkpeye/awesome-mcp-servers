@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "futureinfra-ai-c0683ded",
+  "source": {
+    "issue": 4595,
+    "projectUrl": "https://futureinfra.ai/"
+  },
+  "links": {
+    "endpoint": "https://futureinfra.ai/v1/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "pandagreetings-com-ai-assistants-b35290fb",
+  "source": {
+    "issue": 4468,
+    "projectUrl": "https://www.pandagreetings.com/ai-assistants"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Gemini",
+    "Perplexity",
+    "Grok",
+    "Mistral"
+  ],
+  "license": "Proprietary",
+  "links": {
+    "endpoint": "https://www.pandagreetings.com/mcp/designs"
+  }
+}

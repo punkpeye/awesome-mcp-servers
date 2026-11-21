@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-otisbase-otis-mcp-904c964e",
+  "source": {
+    "issue": 4419,
+    "projectUrl": "https://github.com/otisbase/otis-mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.otisbase.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "and other clients supporting remote MCP with OAuth"
+  ],
+  "license": "MIT"
+}

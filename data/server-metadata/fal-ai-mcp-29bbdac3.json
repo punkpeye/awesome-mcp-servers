@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "fal-ai-mcp-29bbdac3",
+  "source": {
+    "projectUrl": "https://fal.ai/mcp"
+  },
+  "links": {
+    "homepage": "https://fal.ai",
+    "docs": "https://fal.ai/mcp",
+    "endpoint": "https://mcp.fal.ai/mcp-relay"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Sign in with a fal account. No API key is required; generation uses fal credits."
+    ]
+  },
+  "tools": {
+    "names": [
+      "search_models",
+      "get_model_schema",
+      "get_pricing",
+      "submit_job",
+      "check_job"
+    ],
+    "source": "self_reported"
+  },
+  "install": {
+    "confidence": "medium"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cygnixlabs-cmd-cygnix-seo-mcp-0c61dec8",
+  "source": {
+    "issue": 4948,
+    "projectUrl": "https://github.com/cygnixlabs-cmd/cygnix-seo-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y cygnix-seo-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}

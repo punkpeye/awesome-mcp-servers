@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "mcpkit-ru-mcp-yandex-metrika-5e9cfce3",
+  "source": {
+    "issue": 5564,
+    "projectUrl": "https://mcpkit.ru/mcp-yandex-metrika?utm_source=tensorblock&utm_medium=github_collection&utm_campaign=yandex_metrica"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT"
+  ],
+  "license": "Proprietary hosted server."
+}

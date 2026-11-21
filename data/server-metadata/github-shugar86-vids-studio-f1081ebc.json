@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-shugar86-vids-studio-f1081ebc",
+  "source": {
+    "issue": 4341,
+    "projectUrl": "https://github.com/Shugar86/vids-studio"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Code"
+  ],
+  "license": "MIT"
+}

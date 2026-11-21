@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "zip-codes-com-api-mcp-d5970fc0",
+  "source": {
+    "issue": 4243,
+    "projectUrl": "https://www.zip-codes.com/api/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.zip-codes.com/mcp"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "low"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "Unauthenticated demo mode; optional X-Api-Key header enables the account credit allowance."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop (custom connector, demo mode)",
+    "Cursor",
+    "VS Code",
+    "Streamable HTTP clients"
+  ],
+  "license": "Proprietary"
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "apify-com-gaelasao-planning-data-au-nz-fr-673b86fc",
+  "source": {
+    "issue": 4426,
+    "projectUrl": "https://apify.com/gaelasao/planning-data-au-nz-fr"
+  },
+  "links": {
+    "endpoint": "https://mcp.apify.com/?tools=gaelasao/planning-data-au-nz-fr"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "Apify OAuth or bearer API token; paid actor runs."
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "Cursor",
+    "VS Code",
+    "Codex",
+    "any client with remote MCP support"
+  ],
+  "license": "Hosted service (no source code published)"
+}

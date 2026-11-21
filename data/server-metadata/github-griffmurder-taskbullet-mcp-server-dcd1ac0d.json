@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-griffmurder-taskbullet-mcp-server-dcd1ac0d",
+  "source": {
+    "issue": 4152,
+    "projectUrl": "https://github.com/GriffMurder/taskbullet-mcp-server"
+  },
+  "install": {
+    "commands": [
+      "npx -y @taskbullet/mcp-server"
+    ],
+    "env": [
+      "TASKBULLET_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "Hosted clients send an x-api-key header; local clients set TASKBULLET_API_KEY."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "VS Code",
+    "Grok",
+    "OpenClaw",
+    "any MCP client"
+  ],
+  "license": "MIT"
+}

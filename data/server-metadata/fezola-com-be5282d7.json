@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "fezola-com-be5282d7",
+  "source": {
+    "issue": 5508,
+    "projectUrl": "https://fezola.com"
+  },
+  "links": {
+    "endpoint": "https://api.fezola.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "OAuth"
+    ]
+  }
+}

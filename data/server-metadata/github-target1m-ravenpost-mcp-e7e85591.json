@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-target1m-ravenpost-mcp-e7e85591",
+  "source": {
+    "issue": 5068,
+    "projectUrl": "https://github.com/target1m/ravenpost-mcp"
+  },
+  "links": {
+    "endpoint": "https://api.ravenpo.st/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth _Also accepts a personal access token (`Authorization: Bearer rvp_\u2026`)._"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "Claude Code",
+    "ChatGPT",
+    "Cursor",
+    "VS Code"
+  ],
+  "license": "MIT for the plugin and docs repo; the hosted server is closed-source."
+}

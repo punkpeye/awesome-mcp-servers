@@ -1,0 +1,64 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-darkworldcoder-market-mirror-be91995f",
+  "source": {
+    "issue": 4653,
+    "projectUrl": "https://github.com/DarkWorldCoder/market-mirror"
+  },
+  "links": {
+    "docs": "https://github.com/DarkWorldCoder/market-mirror/blob/main/plugin/README.md"
+  },
+  "install": {
+    "commands": [
+      "uvx --from marketmirror==0.4.2 marketmirror"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": [
+      "No authentication for the local stdio MCP connection. Engine setup and the chosen model provider require separate configuration and may require credentials and model usage costs. Do not expose this launcher as an unauthenticated remote service."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "Gemini CLI"
+  ],
+  "tools": {
+    "count": 27,
+    "names": [
+      "doctor",
+      "setup",
+      "market_test",
+      "job_status",
+      "results",
+      "campaign_plan",
+      "actuals_import",
+      "holdout_backtest",
+      "website_test"
+    ],
+    "source": "self_reported"
+  },
+  "license": "AGPL-3.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Maintainer reports testing PyPI 0.4.2 stdio initialization, discovery (27 tools), and doctor diagnostics. Engine setup, model inference, and client UI integrations were not tested.",
+      "Profile claimed by @DarkWorldCodeer in #4687 under the community profile-claim process.",
+      "Requested profile metadata in #4687: Category: Marketing, Sales & CRM Transport: stdio Auth: none Install confidence: medium License: AGPL-3.0 Verification: self_reported"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@DarkWorldCodeer"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

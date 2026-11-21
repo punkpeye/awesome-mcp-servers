@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "watchtbot-site-docs-d238dfa0",
+  "source": {
+    "issue": 4117,
+    "projectUrl": "https://watchtbot.site/docs#mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.watchtbot.site/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "api-key"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "any streamable-HTTP MCP client"
+  ],
+  "license": "Proprietary hosted service"
+}
