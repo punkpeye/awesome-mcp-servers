@@ -1,0 +1,52 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-sunsind-sunlith-e85a6d75",
+  "source": {
+    "issue": 6529,
+    "projectUrl": "https://github.com/SunSinD/Sunlith"
+  },
+  "links": {
+    "docs": "https://github.com/SunSinD/Sunlith#connect-your-computer"
+  },
+  "install": {
+    "commands": [
+      "npm ci --prefix /absolute/path/to/integrations/mcp",
+      "node /absolute/path/to/integrations/mcp/src/index.js"
+    ],
+    "env": [
+      "SUNLITH_DEVICE_CONFIG"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "pairing file from the Sunlith Android app; the phone and computer must be on the same WiFi or Tailscale network.",
+      "SUNLITH_DEVICE_CONFIG is the path to the pairing JSON exported from the Android app; install dependencies in integrations/mcp first."
+    ]
+  },
+  "tools": {
+    "count": 8,
+    "names": [
+      "list_calendars",
+      "list_events",
+      "get_event",
+      "create_event",
+      "update_event",
+      "delete_event",
+      "import_calendar_file",
+      "get_current_time"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #6529. Source: https://github.com/SunSinD/Sunlith#connect-your-computer https://github.com/SunSinD/Sunlith/tree/main/integrations/mcp I'm the developer of Sunlith."
+    ]
+  }
+}
