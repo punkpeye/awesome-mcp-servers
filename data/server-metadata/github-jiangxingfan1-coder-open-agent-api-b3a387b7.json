@@ -1,0 +1,46 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jiangxingfan1-coder-open-agent-api-b3a387b7",
+  "source": {
+    "projectUrl": "https://github.com/jiangxingfan1-coder/Open-Agent-API"
+  },
+  "description": "Lets local MCP clients discover published agents, delegate with scoped credentials, and read run state and output from a self-hosted Open Agent API gateway.",
+  "category": "AI & LLM Integration",
+  "links": {
+    "repo": "https://github.com/jiangxingfan1-coder/Open-Agent-API",
+    "docs": "https://github.com/jiangxingfan1-coder/Open-Agent-API/releases/tag/mcp-open-agent-api-v0.0.64",
+    "homepage": "https://openagentapi.pages.dev/"
+  },
+  "install": {
+    "commands": [
+      "node /absolute/path/to/unpacked-bridge/server/index.mjs http://127.0.0.1:8787 /absolute/path/to/gateway.key"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "bearer",
+    "notes": [
+      "The last argument is a private file with a scoped key for the self-hosted gateway. Use a read-only key for discovery. Grant invoke only for delegation. Do not use an admin key."
+    ]
+  },
+  "tools": {
+    "count": 13,
+    "names": [
+      "oaa_list_agents",
+      "oaa_invoke",
+      "oaa_wait_run",
+      "oaa_read_output"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Published v0.0.64 MCPB initialized over stdio on macOS arm64. Local discovery and rejection of invocation with a read-only key were tested; no online model or desktop-client installation was tested."
+    ]
+  }
+}
