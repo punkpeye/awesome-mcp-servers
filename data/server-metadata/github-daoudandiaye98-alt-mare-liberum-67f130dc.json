@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-daoudandiaye98-alt-mare-liberum-67f130dc",
+  "source": {
+    "issue": 6626,
+    "projectUrl": "https://github.com/daoudandiaye98-alt/mare-liberum"
+  },
+  "links": {
+    "endpoint": "https://mareliberum.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude (app",
+    "Desktop",
+    "Claude Code)",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "other clients that speak MCP over HTTP"
+  ],
+  "license": "MIT"
+}
