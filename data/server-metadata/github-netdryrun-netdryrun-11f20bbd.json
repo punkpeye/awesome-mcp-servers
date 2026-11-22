@@ -13,11 +13,18 @@
     "notes": []
   },
   "clients": [
-    "Any MCP client that runs a local stdio server (Claude Code",
+    "Claude Code",
     "Claude Desktop",
     "Cursor",
     "VS Code",
-    "Codex)"
+    "Codex"
   ],
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "install": {
+    "commands": [
+      "uvx netdryrun mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  }
 }
