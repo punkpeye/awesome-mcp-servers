@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-heming9-agenterm-d4cc2510",
+  "source": {
+    "issue": 6583,
+    "projectUrl": "https://github.com/Heming9/agenterm"
+  },
+  "links": {
+    "endpoint": "https://agenterm.net/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Claude Code",
+    "Gemini CLI"
+  ],
+  "license": "Apache-2.0"
+}
