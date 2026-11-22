@@ -5449,4 +5449,3 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
-- [yourself23/Solana-PumpFun-Paywall](https://github.com) 📇 ☁️ - Native SOL x402 and Remote MCP gateway for real-time Solana Mainnet Pump.fun bonding curve telemetry, rug/bundle audits, swap quotes, and King of the Hill scanning.
