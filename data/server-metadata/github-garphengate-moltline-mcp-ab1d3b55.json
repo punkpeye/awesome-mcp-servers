@@ -40,9 +40,9 @@
     "other"
   ],
   "license": "MIT",
-  "description": "Search and use the Moltline fleet of 19 hosted MCP servers for code review, agent governance, prompt-injection scanning, business-day and SLA math, CSV/A-B/cohort analytics, unit economics, commerce math, writing/readability analysis, outreach auditing, research statistics, and SKILL.md linting, plus a catalog server that searches 138 agent skills and personas and 12 kits.",
+  "description": "Search and use the Moltline fleet of 22 hosted MCP servers for code review, agent governance, prompt-injection scanning, business-day and deadline math, CSV/A-B/cohort analytics, unit economics, commerce math, writing/readability analysis, outreach auditing, research statistics, incident-reporting deadlines, crypto cost-basis lots, bounding-box math, OR-Tools routing and rostering, and SKILL.md linting, plus a catalog server that searches 138 agent skills and personas and 12 kits.",
   "tools": {
-    "count": 132,
+    "count": 160,
     "source": "self_reported"
   },
   "verification": {
@@ -50,7 +50,8 @@
     "notes": [
       "Issue #1802 reports 14 active hosted MCP servers under the DNS-verified com.moltlinestudio namespace, with docs at https://moltlinestudio.com/servers.html and health at https://mcp.moltlinestudio.com/health.",
       "Profile claimed by @GarphenGate in #1898 under the community profile-claim process; requested metadata matches the existing category, transport, auth, install confidence, and MIT license sidecar values.",
-      "Refreshed 2026-08-25 against the vendor's own machine-readable surfaces: https://moltlinestudio.com/.well-known/pricing reports 19 servers and 92 of 132 tools free, and the live catalog endpoint reports 138 skills and personas and 12 kits. The earlier 14-server / 35-tool figures and the \"license as a tool argument\" note were stale."
+      "Refreshed 2026-08-25 against the vendor's own machine-readable surfaces: https://moltlinestudio.com/.well-known/pricing reports 19 servers and 92 of 132 tools free, and the live catalog endpoint reports 138 skills and personas and 12 kits. The earlier 14-server / 35-tool figures and the \"license as a tool argument\" note were stale.",
+      "Refreshed 2026-11-21 against the vendor's live origin card https://mcp.moltlinestudio.com/.well-known/mcp/server-card.json (22 servers, 160 tools, 110 free) and https://moltlinestudio.com/llms.txt (138 skills and personas, 12 kits). The 19-server / 132-tool figures from 2026-08-25 were stale."
     ]
   },
   "community": {
