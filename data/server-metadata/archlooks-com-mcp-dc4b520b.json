@@ -6,12 +6,11 @@
     "projectUrl": "https://archlooks.com/mcp"
   },
   "links": {
-    "endpoint": "https://archlooks.com/mcp"
+    "endpoint": "https://archlooks.com/mcp",
+    "docs": "https://archlooks.com/x402/docs.html"
   },
   "install": {
-    "commands": [
-      "MCP (streamable-http): https://archlooks.com/mcp"
-    ],
+    "commands": [],
     "env": [],
     "confidence": "medium"
   },
