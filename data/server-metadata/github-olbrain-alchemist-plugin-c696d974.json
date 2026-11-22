@@ -5,15 +5,33 @@
     "issue": 6550,
     "projectUrl": "https://github.com/Olbrain/alchemist-plugin"
   },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Olbrain in #6549 under the community profile-claim process.",
+      "Requested profile metadata in #6549: Maintainer: Olbrain (https://olbrain.com). Docs: https://docs.olbrain.com. Support: support@olbrain.com. Install and tool details are in the separate metadata issue.",
+      "Metadata updated from issue #6550. Source: README install section: https://github.com/Olbrain/alchemist-plugin#install Official MCP Registry entry: `com.olbrain/alchemist`"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Olbrain"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  },
   "links": {
-    "docs": "https://docs.olbrain.com"
+    "docs": "https://docs.olbrain.com",
+    "repo": "https://github.com/Olbrain/alchemist-plugin",
+    "homepage": "https://alchemist.olbrain.com",
+    "endpoint": "https://alchemist.olbrain.com/mcp/"
   },
   "install": {
-    "commands": [],
-    "env": [
-      "none"
+    "commands": [
+      "claude mcp add --transport http alchemist https://alchemist.olbrain.com/mcp/"
     ],
-    "confidence": "low"
+    "env": [],
+    "confidence": "high"
   },
   "transport": [
     "streamable-http"
@@ -55,11 +73,5 @@
     ],
     "source": "self_reported"
   },
-  "license": "MIT",
-  "verification": {
-    "status": "self_reported",
-    "notes": [
-      "Metadata updated from issue #6550. Source: README install section: https://github.com/Olbrain/alchemist-plugin#install Official MCP Registry entry: `com.olbrain/alchemist`"
-    ]
-  }
+  "license": "MIT"
 }
