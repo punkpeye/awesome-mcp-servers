@@ -5315,8 +5315,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) 🐍 ☁️ 🏠 - Interact with Obsidian via a REST API.
 - [MaxEllis/orcaslicer-mcp](https://github.com/MaxEllis/orcaslicer-mcp) [![MaxEllis/orcaslicer-mcp MCP server](https://glama.ai/mcp/servers/MaxEllis/orcaslicer-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MaxEllis/orcaslicer-mcp) 🐍 🏠 🍎 🪟 🐧 - Drive a running OrcaSlicer 3D-printing slicer: load models, tune settings, slice, compare variants and render the plate, with an offline settings reference.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) 🎖️ 🦀 🏠 🍎 - Local screen and audio capture with timestamped indexing, SQL and embedding storage, semantic search, history analysis and event-triggered actions.
-- [metorial/metorial](https://github.com/metorial/metorial) 🎖️ 📇 ☁️ - Integration platform connecting AI agents
-  to many services through one interface, with OAuth, scaling and monitoring.
+- [metorial/metorial](https://github.com/metorial/metorial) 🎖️ 📇 ☁️ - Integration platform connecting AI agents to many services through one interface, with OAuth, scaling and monitoring.
 - [modelcontextprotocol/server-everything](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) 📇 🏠 - Exercises all features of the MCP protocol.
 - [MonadsAG/capsulecrm-mcp](https://github.com/MonadsAG/capsulecrm-mcp) 📇 ☁️ - Manage contacts, opportunities and tasks in Capsule CRM.
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - Token-efficient access to Go package documentation and types without reading entire source files.
