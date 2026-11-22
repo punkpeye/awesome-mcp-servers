@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-olbrain-alchemist-plugin-c696d974",
+  "source": {
+    "issue": 6549,
+    "projectUrl": "https://github.com/Olbrain/alchemist-plugin"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @Olbrain in #6549 under the community profile-claim process.",
+      "Requested profile metadata in #6549: Maintainer: Olbrain (https://olbrain.com). Docs: https://docs.olbrain.com. Support: support@olbrain.com. Install and tool details are in the separate metadata issue."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@Olbrain"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
