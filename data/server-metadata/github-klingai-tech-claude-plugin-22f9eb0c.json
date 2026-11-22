@@ -17,7 +17,8 @@
     "type": "oauth",
     "notes": [
       "OAuth with a Global-region Kling account; generation uses account credits.",
-      "Official npm CLI and plugin packages are alternative client integrations, not local MCP server implementations. See the official plugin documentation for setup."
+      "Official npm CLI and plugin packages are alternative client integrations, not local MCP server implementations. See the official plugin documentation for setup.",
+      "Alternative official client integrations: npm i -g @klingai/cli-global; npm i -g @klingai/plugin-global@latest --registry=https://registry.npmjs.org --allow-scripts=@klingai/plugin-global. These do not launch a local MCP server."
     ]
   },
   "clients": [
@@ -38,8 +39,7 @@
   },
   "install": {
     "commands": [
-      "npm i -g @klingai/cli-global",
-      "npm i -g @klingai/plugin-global@latest --registry=https://registry.npmjs.org --allow-scripts=@klingai/plugin-global"
+      "claude mcp add --transport http kling-ai-global https://kling.ai/mcp/plugin"
     ],
     "env": [],
     "confidence": "high"
