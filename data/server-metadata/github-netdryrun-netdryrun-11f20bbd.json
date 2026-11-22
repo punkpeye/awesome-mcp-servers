@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-netdryrun-netdryrun-11f20bbd",
+  "source": {
+    "issue": 6560,
+    "projectUrl": "https://github.com/netdryrun/Netdryrun"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Codex"
+  ],
+  "license": "Apache-2.0",
+  "install": {
+    "commands": [
+      "uvx netdryrun mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  }
+}
