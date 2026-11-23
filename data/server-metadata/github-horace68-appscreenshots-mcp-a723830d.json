@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-horace68-appscreenshots-mcp-a723830d",
+  "source": {
+    "issue": 6655,
+    "projectUrl": "https://github.com/horace68/appscreenshots-mcp"
+  },
+  "links": {
+    "endpoint": "https://appscreenshots.net/api/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  }
+}
