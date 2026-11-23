@@ -3,7 +3,7 @@
 Contributions are welcome and encouraged!  Whether you're fixing a typo, adding a new server, or suggesting improvements, your help is appreciated.
 
 > [!NOTE]
-> We have thousands of PRs. We prioritize PRs of MCP servers that include a backlink to your https://glama.ai/mcp/servers MCP server listing. It can be a backlink from your website or badge included in the README.md. Make a note of the backlink in the PR description.
+> New PRs must include a backlink to your https://glama.ai/mcp/servers MCP server listing. It can be a backlink from your website or badge included in the README.md. Make a note of the backlink in the PR description.
 
 ## Scope
 
