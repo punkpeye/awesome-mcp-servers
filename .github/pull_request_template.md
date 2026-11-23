@@ -7,7 +7,7 @@
 - [ ] The server link is a `https://github.com/owner/repo` URL
 - [ ] The entry name uses the full `owner/repo` format
 - [ ] Language/platform emoji added (legend in the README)
-- [ ] [Glama score badge](https://glama.ai/mcp/servers) added after the description
+- [ ] Glama score badge added after the description (see `CONTRIBUTING.md`)
 - [ ] Entry placed in the correct category, in alphabetical order
 - [ ] PR touches only `README.md` (other files need `manual-review`)
 

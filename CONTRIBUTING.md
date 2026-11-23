@@ -2,6 +2,13 @@
 
 Contributions are welcome and encouraged!  Whether you're fixing a typo, adding a new server, or suggesting improvements, your help is appreciated.
 
+> [!NOTE]
+> We prioritize PRs of MCP servers that include a backlink to your https://glama.ai/mcp/servers MCP server listing. It can be a backlink from your website or badge included in the README.md. Make a note of the backlink in the PR description.
+
+## Scope
+
+This list is for servers with a public GitHub repository — something you install and run yourself. If your server is remote-only (just a hosted URL, no installable package), it belongs in [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) instead.
+
 > [!IMPORTANT]
 > Every PR is checked by automation. Duplicates, non-GitHub URLs, missing Glama badge, and emoji violations are labeled automatically; duplicates and non-GitHub URLs fail the check. Fix flagged issues before requesting review.
 
