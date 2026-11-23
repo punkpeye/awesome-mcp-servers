@@ -28,7 +28,8 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key, send Authorization: Bearer <DEXRA_API_KEY> or X-Api-Key to https://api.dexra.dev/mcp; obtain an account/key at https://dexra.dev/app/keys. describe_address costs zero credits but still needs account authorization. Registered..."
+      "Analytical tools require a registered account and API key as Authorization: Bearer <DEXRA_API_KEY> or X-Api-Key. Obtain a key at https://dexra.dev/app/keys. Only service_stats and score_performance are public; describe_address requires account authorization despite costing zero credits.",
+      "Registered-account x402 payments retain account authorization; anonymous payments do not grant analysis access. The local stdio bridge reads DEXRA_API_KEY."
     ]
   },
   "clients": [
@@ -69,9 +70,7 @@
     "status": "self_reported",
     "notes": [
       "Profile claimed by @oblivisheee, owner of the dexra-dev GitHub organization and the @dexra-dev npm scope, in #4129.",
-      "The hosted endpoint answers tools/list without a key with the 12 tools listed here.",
-      "self_reported; initialize and tools/list work without a key and currently enumerate 13 tools, which does not authorize calls to the analytical tools. Update the existing data/server-metadata/dexra-dev-f15e549c.json sidecar from PR...",
-      "Metadata updated from issue #6647. Source: Verified on 2026-11-23 against live unauthenticated initialize and tools/list at https://api.dexra.dev/mcp. The inventory has 13 tools, including lp_position_check for Orca Whirlpools Position accounts;..."
+      "Self-reported on 2026-11-23: unauthenticated initialize and tools/list enumerate 13 tools, including lp_position_check. Discovery does not authorize analytical tool calls. Source: https://api.dexra.dev/.well-known/mcp/server-card.json and issue #6647."
     ]
   },
   "community": {
