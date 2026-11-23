@@ -247,3 +247,5 @@ The README is now a lightweight entry point. Browse the full directory in the ca
 | Travel & Transportation | 51 | [Browse](docs/travel--transportation.md) |
 | Utilities & Helpers | 357 | [Browse](docs/utilities--helpers.md) |
 | Version Control | 78 | [Browse](docs/version-control.md) |
+
+- **[CodeRecall](https://github.com/ichbrt/CodeRecall)** - Local engineering memory for AI coding agents. Indexes existing repositories in SQLite with file hashes and Git commit provenance so coding agents can find, verify, and reuse compatible code without cloud API or LLM indexing costs.
