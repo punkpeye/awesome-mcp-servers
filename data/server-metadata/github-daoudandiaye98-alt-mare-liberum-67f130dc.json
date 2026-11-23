@@ -16,13 +16,12 @@
     "notes": []
   },
   "clients": [
-    "Claude (app",
-    "Desktop",
-    "Claude Code)",
+    "Claude",
+    "Claude Desktop",
+    "Claude Code",
     "ChatGPT",
     "Cursor",
-    "VS Code",
-    "other clients that speak MCP over HTTP"
+    "VS Code"
   ],
   "license": "MIT"
 }
