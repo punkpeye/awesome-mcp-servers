@@ -19,7 +19,7 @@
     "streamable-http"
   ],
   "auth": {
-    "type": "oauth",
+    "type": "api-key",
     "notes": [
       "API key per agent as a bearer token (not OAuth)."
     ]
