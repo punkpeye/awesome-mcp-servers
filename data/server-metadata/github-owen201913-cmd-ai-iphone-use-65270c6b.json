@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-owen201913-cmd-ai-iphone-use-65270c6b",
+  "source": {
+    "issue": 6724,
+    "projectUrl": "https://github.com/owen201913-cmd/AI-iPhone-use"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "Choose a Windows package from the [downloads](https://github.com/owen201913-cmd/AI-iPhone-use#downloads). Extract it and follow the included setup and device-pairing guide. Each ZIP includes an MCP.md with local MCP client..."
+    ]
+  },
+  "clients": [
+    "Codex and other local MCP clients",
+    "see the [MCP guide](https://github.com/owen201913-cmd/AI-iPhone-use/blob/main/docs/MCP.md)."
+  ],
+  "license": "GPL-3.0-only"
+}
