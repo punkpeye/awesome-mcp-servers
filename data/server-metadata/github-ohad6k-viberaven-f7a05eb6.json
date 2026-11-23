@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ohad6k-viberaven-f7a05eb6",
+  "source": {
+    "issue": 6636,
+    "projectUrl": "https://github.com/ohad6k/VibeRaven"
+  },
+  "links": {
+    "endpoint": "https://viberaven.dev/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}
