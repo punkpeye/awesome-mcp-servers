@@ -507,6 +507,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp)** - MCP Server to let Claude / your AI control the browser
 - **[Sonatype MCP Server](https://github.com/brianveltman/sonatype-mcp)** - MCP for Sonatype Nexus Repository Manager and Sonatype Repository Firewall. Manage your DevSecOps practices through AI-assisted Workflows.
 - **[Sourcerer](https://github.com/st3v3nmw/sourcerer-mcp)** - MCP for semantic code search & navigation that reduces token waste
+- **[Sovereign Node MCP (SovRoute)](https://github.com/aipp-key/sovereign-node-mcp)** - Bare-metal Bitcoin Core v31.1 & EVM pre-sign security guardrails: unified preflight verdicts with HMAC-SHA256 node attestations (10x SLA credit), 0-conf RBF double-spend shields, miner template X-ray, consensus dry-runs, and EIP-7702 drainer detection over L402 Lightning, Base/Arc USDC (x402), and MPP.
 - **[spm-mcp](https://github.com/simpleswift/spm-mcp)** - iOS Swift Package Manager server written in Swift
 - \*\*[Spotify Player](https://github.com/vsaez/mcp-spotify-player) – Control Spotify playback, queue, volume and playlists from Claude/Cursor via MCP. (Python)
 - **[SQLite](https://github.com/panasenco/mcp-sqlite)** - MCP server for SQLite files. Supports Datasette-compatible metadata!
