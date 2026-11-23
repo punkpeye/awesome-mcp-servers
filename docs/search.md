@@ -2,6 +2,7 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp): Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking. Remote Streamable HTTP endpoint: `https://mcp.apify.com?tools=publicrecords/skool-community-growth-tracker`. Auth: Apify OAuth or Bearer token. License: MIT. Official MCP Registry: `io.github.GeminiGeorge22/skool-community-mcp`.
 - [Unique.domains](https://github.com/UniqueDomains/mcp-server): 51 read-only tools over a daily record of 37 million domain names: is a name taken, its WHOIS record, what nine registrars charge for an ending, renewal traps, auctions and sales totals. None registers, buys or changes a name. Free, with no sign-in. Hosted Streamable HTTP at `https://mcp.unique.domains/mcp`. On your machine: `npx -y @uniquedomains/mcp-server` (stdio). License: MIT. Docs: https://unique.domains/api/mcp. Official MCP Registry id `domains.unique/mcp-server`.
 
 - [AgentCV](https://agentcv.ai/mcp-server): AgentCV — a public registry of AI agent teams, with each team's roles, platforms and evidence labelled real, curated or illustrative. Read-only remote MCP server, no sign-in: search teams, read profiles, and check a profile before registering.
