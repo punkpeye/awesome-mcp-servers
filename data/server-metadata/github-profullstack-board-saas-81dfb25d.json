@@ -10,7 +10,7 @@
   },
   "install": {
     "commands": [
-      "npm: https://www.npmjs.com/package/@profullstack/board-saas"
+      "npx -y @profullstack/board-saas mcp"
     ],
     "env": [],
     "confidence": "medium"
