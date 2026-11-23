@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-profullstack-board-saas-81dfb25d",
+  "source": {
+    "issue": 6618,
+    "projectUrl": "https://github.com/profullstack/board-saas"
+  },
+  "links": {
+    "endpoint": "https://board.saas.pit.world/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @profullstack/board-saas mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude.ai",
+    "ChatGPT",
+    "Cursor",
+    "VS Code",
+    "any OAuth-capable MCP client"
+  ],
+  "license": "MIT"
+}

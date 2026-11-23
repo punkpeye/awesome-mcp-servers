@@ -2,10 +2,10 @@
   "$schema": "../../schemas/server-metadata.schema.json",
   "id": "dexra-dev-f15e549c",
   "source": {
-    "issue": 4129,
+    "issue": 6647,
     "projectUrl": "https://dexra.dev"
   },
-  "description": "Solana DeFi risk checks for AI agents: token launches, holders after merging linked wallets, wallets, pools, CLMM ranges, perp venues and a swap preflight. Each check answers with a verdict (ok, caution, avoid, unknown), the reasons and the evidence. Three tools are free; paid tools take an API key or a per-call USDC payment over x402.",
+  "description": "Read-only Solana risk checks for launches, linked holders, wallets, pools, Orca LP positions, perp venues and planned swaps, with verdicts, reasons and evidence. Analytical tools require a registered account and API key; only service_stats and score_performance are public without an account.",
   "category": "Finance & Crypto",
   "links": {
     "docs": "https://dexra.dev/docs/mcp",
@@ -14,25 +14,22 @@
   },
   "install": {
     "commands": [
-      "claude mcp add --transport http dexra https://api.dexra.dev/mcp",
-      "npx -y @dexra-dev/mcp install --key <DEXRA_API_KEY>",
-      "npx -y @dexra-dev/mcp"
+      "npx -y @dexra-dev/mcp install --key <DEXRA_API_KEY>"
     ],
     "env": [
       "DEXRA_API_KEY"
     ],
-    "confidence": "high"
+    "confidence": "medium"
   },
   "transport": [
-    "streamable-http",
-    "stdio"
+    "stdio",
+    "streamable-http"
   ],
   "auth": {
     "type": "api-key",
     "notes": [
-      "Optional. Send `Authorization: Bearer <DEXRA_API_KEY>` (or `X-Api-Key`) to the hosted endpoint; keys come from https://dexra.dev/app/keys.",
-      "Without a key the free tools work (describe_address, service_stats, score_performance) and paid tools are paid per call in USDC over x402.",
-      "`npx -y @dexra-dev/mcp` is a stdio bridge to the hosted endpoint for clients that only run local servers; it reads DEXRA_API_KEY."
+      "Analytical tools require a registered account and API key as Authorization: Bearer <DEXRA_API_KEY> or X-Api-Key. Obtain a key at https://dexra.dev/app/keys. Only service_stats and score_performance are public; describe_address requires account authorization despite costing zero credits.",
+      "Registered-account x402 payments retain account authorization; anonymous payments do not grant analysis access. The local stdio bridge reads DEXRA_API_KEY."
     ]
   },
   "clients": [
@@ -50,7 +47,7 @@
     "Any MCP client supporting Streamable HTTP"
   ],
   "tools": {
-    "count": 12,
+    "count": 13,
     "names": [
       "describe_address",
       "service_stats",
@@ -60,6 +57,7 @@
       "token_deep_check",
       "token_holders_delta",
       "wallet_check",
+      "lp_position_check",
       "pool_health",
       "clmm_range_stats",
       "market_snapshot",
@@ -67,12 +65,12 @@
     ],
     "source": "self_reported"
   },
-  "license": "Hosted service. Client packages and configs are MIT: https://github.com/dexra-dev/mcp",
+  "license": "MIT for client bridge and configurations; hosted service.",
   "verification": {
     "status": "self_reported",
     "notes": [
       "Profile claimed by @oblivisheee, owner of the dexra-dev GitHub organization and the @dexra-dev npm scope, in #4129.",
-      "The hosted endpoint answers tools/list without a key with the 12 tools listed here."
+      "Self-reported on 2026-11-23: unauthenticated initialize and tools/list enumerate 13 tools, including lp_position_check. Discovery does not authorize analytical tool calls. Source: https://api.dexra.dev/.well-known/mcp/server-card.json and issue #6647."
     ]
   },
   "community": {

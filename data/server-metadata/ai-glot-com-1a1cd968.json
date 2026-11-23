@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "ai-glot-com-1a1cd968",
+  "source": {
+    "issue": 6641,
+    "projectUrl": "https://ai-glot.com"
+  },
+  "links": {
+    "endpoint": "https://mcp.ai-glot.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "Codex",
+    "any remote-MCP client"
+  ],
+  "license": "Proprietary (hosted SaaS, free plan available)"
+}
