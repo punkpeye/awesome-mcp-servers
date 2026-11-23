@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-jjacksonchen-adlink-82dfa2a0",
+  "source": {
+    "issue": 6608,
+    "projectUrl": "https://github.com/JJacksonchen/adlink"
+  },
+  "links": {
+    "endpoint": "http://127.0.0.1:8787/mcp"
+  },
+  "install": {
+    "commands": [
+      "git clone https://github.com/JJacksonchen/adlink.git",
+      "cargo build --release -p adlink-cli",
+      "./target/release/adlink serve --config config/adlink.mock.toml --seed-mock"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "sse",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "unknown"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cursor",
+    "Codex"
+  ],
+  "license": "Apache-2.0 (per LICENSE in repo; GitHub license API may show Other/NOASSERTION)"
+}

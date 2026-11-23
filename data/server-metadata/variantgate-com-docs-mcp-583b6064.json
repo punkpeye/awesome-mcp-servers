@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "variantgate-com-docs-mcp-583b6064",
+  "source": {
+    "issue": 6610,
+    "projectUrl": "https://variantgate.com/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://api.variantgate.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y https://variantgate.com/sdk/variantgate-agent-latest.tgz login"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "API key per agent as a bearer token (not OAuth)."
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Codex",
+    "Cursor",
+    "Gemini CLI",
+    "GitHub Copilot CLI",
+    "VS Code",
+    "and any client that supports remote Streamable HTTP servers with a custom header."
+  ],
+  "license": "Proprietary (hosted service)"
+}
