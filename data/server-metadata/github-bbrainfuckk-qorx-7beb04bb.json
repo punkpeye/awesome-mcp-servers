@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-bbrainfuckk-qorx-7beb04bb",
+  "source": {
+    "issue": 6689,
+    "projectUrl": "https://github.com/bbrainfuckk/qorx"
+  },
+  "install": {
+    "commands": [
+      "mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex"
+  ],
+  "license": "AGPL-3.0-only"
+}

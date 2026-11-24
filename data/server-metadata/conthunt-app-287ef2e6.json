@@ -8,7 +8,8 @@
   "description": "Hosted Streamable HTTP MCP server for discovering and researching Instagram, TikTok, and YouTube creators from a product URL.",
   "category": "Social Media & Content Platforms",
   "links": {
-    "docs": "https://conthunt.app",
+    "repo": "https://github.com/Synthenova/conthunt-mcp",
+    "docs": "https://conthunt.app/docs/integrations/mcp",
     "endpoint": "https://mcp.conthunt.app"
   },
   "transport": [
