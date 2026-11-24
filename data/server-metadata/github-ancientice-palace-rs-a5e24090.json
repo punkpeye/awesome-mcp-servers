@@ -1,0 +1,36 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ancientice-palace-rs-a5e24090",
+  "source": {
+    "issue": 6699,
+    "projectUrl": "https://github.com/AncientiCe/palace-rs"
+  },
+  "install": {
+    "commands": [
+      "MCP tools include `palace_search`, `palace_remember`, `palace_session_context`, `palace_kg_query` and `palace_diary_write`. Docs: https://github.com/AncientiCe/palace-rs"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "Cursor",
+    "Gemini CLI",
+    "VS Code",
+    "OpenCode",
+    "Cline",
+    "Zed",
+    "Goose",
+    "Windsurf",
+    "Claude Desktop"
+  ],
+  "license": "MIT"
+}
