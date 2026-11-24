@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-valkiria-pro-valkiria-ai-plugins-57b4a7fc",
+  "source": {
+    "issue": 6425,
+    "projectUrl": "https://github.com/valkiria-pro/valkiria-ai-plugins"
+  },
+  "links": {
+    "endpoint": "https://valkiria.pro/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Claude.ai / Claude Desktop",
+    "ChatGPT",
+    "Gemini CLI",
+    "Codex CLI",
+    "Cursor",
+    "VS Code",
+    "Kimi Code CLI",
+    "Windsurf (per the install guide in the repository)"
+  ],
+  "license": "MIT (client plugins repository); the server is a hosted service"
+}

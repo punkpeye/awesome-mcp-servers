@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-walkover-mcp-liliphant-d98cab6a",
+  "source": {
+    "issue": 6473,
+    "projectUrl": "https://github.com/walkover-mcp/liliphant"
+  },
+  "links": {
+    "endpoint": "https://mcp.liliphant.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Cline",
+    "MCP clients supporting Streamable HTTP and OAuth"
+  ]
+}

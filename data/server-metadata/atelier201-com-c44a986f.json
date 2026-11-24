@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "atelier201-com-c44a986f",
+  "source": {
+    "issue": 6642,
+    "projectUrl": "https://atelier201.com"
+  },
+  "links": {
+    "endpoint": "https://mcp.atelier201.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Cursor",
+    "Codex",
+    "any remote-MCP client"
+  ],
+  "license": "Proprietary (hosted SaaS, free plan available)"
+}

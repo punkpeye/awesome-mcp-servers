@@ -1,0 +1,39 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "onlypult-com-dev-mcp-html-94c5602a",
+  "source": {
+    "issue": 6684,
+    "projectUrl": "https://onlypult.com/dev/mcp.html"
+  },
+  "links": {
+    "endpoint": "https://mcp.onlypult.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y @onlypult/mcp@latest"
+    ],
+    "env": [
+      "ONLYPULT_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth (remote), api-key (remote or stdio)"
+    ]
+  },
+  "clients": [
+    "Claude",
+    "ChatGPT",
+    "Claude Desktop",
+    "Cursor",
+    "Codex",
+    "Windsurf"
+  ],
+  "license": "The local npm package is MIT licensed."
+}

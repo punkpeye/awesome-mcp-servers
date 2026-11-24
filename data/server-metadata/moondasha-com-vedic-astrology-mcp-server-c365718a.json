@@ -1,0 +1,38 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "moondasha-com-vedic-astrology-mcp-server-c365718a",
+  "source": {
+    "issue": 6418,
+    "projectUrl": "https://moondasha.com/vedic-astrology-mcp-server"
+  },
+  "links": {
+    "endpoint": "https://api.moondasha.com/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y mcp-remote https://api.moondasha.com/mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude (web",
+    "desktop",
+    "Claude Code)",
+    "ChatGPT",
+    "Codex",
+    "Gemini CLI",
+    "Cursor",
+    "VS Code",
+    "Raycast",
+    "any MCP client via mcp-remote"
+  ],
+  "license": "Proprietary hosted service (source not published); free to use"
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "docs-noderings-com-docs-client-guides-mcp-0397f4ae",
+  "source": {
+    "issue": 6518,
+    "projectUrl": "https://docs.noderings.com/docs/client-guides/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.noderings.com/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "other MCP clients"
+  ],
+  "license": "unknown",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @noderings in #6557 under the community profile-claim process.",
+      "Requested profile metadata in #6557: Name: NodeRings Description: Search and compare hosting plans, manage virtual machines, deploy one-click apps and manage GeoDNS records on NodeRings. Remote endpoint: https://mcp.noderings.com/mcp Transport:..."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@noderings"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

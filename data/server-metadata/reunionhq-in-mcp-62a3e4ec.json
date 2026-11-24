@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "reunionhq-in-mcp-62a3e4ec",
+  "source": {
+    "issue": 6413,
+    "projectUrl": "https://reunionhq.in/mcp"
+  },
+  "links": {
+    "endpoint": "https://mcp.reunionhq.in/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client supporting remote Streamable HTTP",
+    "verified with official TypeScript and Python MCP SDK clients."
+  ],
+  "license": "Remote hosted service; public Website documentation at https://reunionhq.in/mcp"
+}

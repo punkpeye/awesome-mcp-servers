@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "archlooks-com-mcp-dc4b520b",
+  "source": {
+    "issue": 6599,
+    "projectUrl": "https://archlooks.com/mcp"
+  },
+  "links": {
+    "endpoint": "https://archlooks.com/mcp",
+    "docs": "https://archlooks.com/x402/docs.html"
+  },
+  "install": {
+    "commands": [],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "x402 micropayment ($0.01 USDC) for paid content; search and cards are free."
+    ]
+  }
+}
