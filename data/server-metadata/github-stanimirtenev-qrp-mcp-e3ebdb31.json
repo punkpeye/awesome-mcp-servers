@@ -1,0 +1,48 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-stanimirtenev-qrp-mcp-e3ebdb31",
+  "source": {
+    "issue": 6682,
+    "projectUrl": "https://github.com/StanimirTenev/qrp-mcp"
+  },
+  "description": "Find quantum-vulnerable cryptography (RSA, ECDSA, DH) in your code, offline. A local cryptographic inventory for developers and AI agents: a CycloneDX CBOM that carries its own coverage and limits.",
+  "links": {
+    "docs": "https://quantumreadiness.eu/qrp-mcp/"
+  },
+  "install": {
+    "commands": [
+      "uvx qrp-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Any MCP client supporting local stdio"
+  ],
+  "tools": {
+    "count": 6,
+    "names": [
+      "scan_repo",
+      "export_cbom",
+      "list_algorithms",
+      "compare_coverage",
+      "prove_closure",
+      "run_self_seeded_control"
+    ],
+    "source": "self_reported"
+  },
+  "license": "Apache-2.0",
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Metadata updated from issue #6682. Source: README: https://github.com/StanimirTenev/qrp-mcp#readme PyPI: https://pypi.org/project/qrp-mcp/ (current 0.52.2) MCP registry: eu.quantumreadiness/qrp-mcp,..."
+    ]
+  }
+}

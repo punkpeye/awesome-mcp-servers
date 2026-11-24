@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "botchelor-com-agents-7ea937b2",
+  "source": {
+    "issue": 6714,
+    "projectUrl": "https://botchelor.com/agents"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @smithdavedesign in #6714 under the community profile-claim process.",
+      "Requested profile metadata in #6714: - Category: Gaming - Transport: streamable-http - Endpoint: https://botchelor.com/api/mcp - Auth: none. `initialize` and `tools/list` answer with no key or sign-in, and an agent can start playing without an account...."
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@smithdavedesign"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}
