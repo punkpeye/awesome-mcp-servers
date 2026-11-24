@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-crowtf-crowllm-mcp-773628a1",
+  "source": {
+    "issue": 6740,
+    "projectUrl": "https://github.com/crowtf/crowllm-mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y crowllm-mcp",
+      "npx -y github:crowtf/crowllm-mcp#v0.1.2"
+    ],
+    "env": [
+      "CROWLLM_API_KEY"
+    ],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "api-key",
+    "notes": [
+      "CROWLLM_API_KEY is required only for chat; search_models and get_pricing work without a key."
+    ]
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cline",
+    "Continue",
+    "Cherry Studio",
+    "LibreChat"
+  ],
+  "license": "MIT"
+}
