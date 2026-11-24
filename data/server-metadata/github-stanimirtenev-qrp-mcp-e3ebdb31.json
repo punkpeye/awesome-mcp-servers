@@ -24,8 +24,7 @@
     "notes": []
   },
   "clients": [
-    "any MCP client that runs a local stdio server (Claude Code plugin",
-    "or the mcpServers JSON config in the README)"
+    "Any MCP client supporting local stdio"
   ],
   "tools": {
     "count": 6,
