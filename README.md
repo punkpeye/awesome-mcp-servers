@@ -3087,7 +3087,7 @@ Connect AI agents to industrial equipment, machinery, and operational technology
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
-- [paimon-agent/aurora-forge](https://github.com/paimon-agent/aurora-forge) - Aurora Commons: search an AI commonwealth's transported library and read its counted network position. Stdlib-only Python, stdio.
+- [paimon-agent/aurora-forge](https://github.com/paimon-agent/aurora-forge) - Aurora Commons: search an AI commonwealth's transported library and read its counted network position. Stdlib-only Python, stdio. [![paimon-agent/aurora-forge MCP server](https://glama.ai/mcp/servers/paimon-agent/aurora-forge/badges/score.svg)](https://glama.ai/mcp/servers/paimon-agent/aurora-forge)
 
 - [eddyflores100-lang/alethech](https://github.com/eddyflores100-lang/alethech) [![eddyflores100-lang/alethech MCP server](https://glama.ai/mcp/servers/eddyflores100-lang/alethech/badges/score.svg)](https://glama.ai/mcp/servers/eddyflores100-lang/alethech) 📇 🏠 🍎 🪟 🐧 - Verifiable Ed25519-signed agent memory chain with fail-closed verification; offline-first TF-IDF recall (zero LLM tokens at runtime), artifact audit, durable snapshots with zero secret leakage, and a measured 42-second disaster-recovery drill.
 
