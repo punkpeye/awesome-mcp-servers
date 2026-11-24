@@ -10,13 +10,11 @@
   ],
   "auth": {
     "type": "unknown",
-    "notes": [
-      "Choose a Windows package from the [downloads](https://github.com/owen201913-cmd/AI-iPhone-use#downloads). Extract it and follow the included setup and device-pairing guide. Each ZIP includes an MCP.md with local MCP client..."
-    ]
+    "notes": []
   },
   "clients": [
-    "Codex and other local MCP clients",
-    "see the [MCP guide](https://github.com/owen201913-cmd/AI-iPhone-use/blob/main/docs/MCP.md)."
+    "Codex",
+    "Other local MCP clients"
   ],
   "license": "GPL-3.0-only"
 }
