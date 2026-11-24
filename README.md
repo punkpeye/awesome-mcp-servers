@@ -5454,4 +5454,4 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
-- [apumiaaifund/apumia-credit](https://github.com) - Deterministic Zero-Float credit scoring, WACC, Merton-KMV, and IFRS 13 verification MCP server with 8/8 PROVEN invariants.
+- [apumiaaifund/apumia-credit](https://github.com/apumiaaifund/apumia-credit) - Deterministic Zero-Float credit scoring, WACC, Merton-KMV, and IFRS 13 verification MCP server with 8/8 PROVEN invariants.
