@@ -5453,3 +5453,5 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+
+- [apumiaaifund/apumia-credit](https://github.com) - Deterministic Zero-Float credit scoring, WACC, Merton-KMV, and IFRS 13 verification MCP server with 8/8 PROVEN invariants.
