@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "goat-lighthouse-site-docs-6b1579cb",
+  "source": {
+    "issue": 6697,
+    "projectUrl": "https://goat-lighthouse.site/docs"
+  },
+  "links": {
+    "endpoint": "https://goat-lighthouse.site/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  }
+}

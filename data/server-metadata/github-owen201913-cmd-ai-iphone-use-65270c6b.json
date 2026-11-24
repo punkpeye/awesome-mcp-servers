@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-owen201913-cmd-ai-iphone-use-65270c6b",
+  "source": {
+    "issue": 6724,
+    "projectUrl": "https://github.com/owen201913-cmd/AI-iPhone-use"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": []
+  },
+  "clients": [
+    "Codex",
+    "Other local MCP clients"
+  ],
+  "license": "GPL-3.0-only"
+}
