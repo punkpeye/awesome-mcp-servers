@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "atlasverified-ai-b22ddf89",
+  "source": {
+    "issue": 6734,
+    "projectUrl": "https://atlasverified.ai/"
+  },
+  "links": {
+    "endpoint": "https://api.atlasverified.ai/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  },
+  "clients": [
+    "ChatGPT"
+  ],
+  "license": "Unknown"
+}
