@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-goatincrypto-aegis-x402-mcp-199322e5",
+  "source": {
+    "issue": 6736,
+    "projectUrl": "https://github.com/Goatincrypto/aegis-x402-mcp"
+  },
+  "links": {
+    "endpoint": "https://aegisaudit.org/mcp"
+  },
+  "install": {
+    "commands": [
+      "npx -y aegis-x402-mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Cursor",
+    "Windsurf",
+    "and any standard stdio or Streamable HTTP MCP client."
+  ],
+  "license": "MIT"
+}
