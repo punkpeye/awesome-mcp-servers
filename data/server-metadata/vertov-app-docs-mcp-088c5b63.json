@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "vertov-app-docs-mcp-088c5b63",
+  "source": {
+    "issue": 6716,
+    "projectUrl": "https://vertov.app/docs/mcp"
+  },
+  "links": {
+    "endpoint": "https://vertov.app/mcp"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "oauth",
+    "notes": [
+      "oauth"
+    ]
+  }
+}
