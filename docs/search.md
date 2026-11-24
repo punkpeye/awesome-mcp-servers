@@ -2,6 +2,8 @@
 
 Servers providing web search capabilities or interfacing with specialized search APIs/platforms.
 
+- [FlashData MCP](https://github.com/flashdatadev/flashdata-mcp): Official local stdio and hosted Streamable HTTP MCP server (`https://data.flashdata.dev/mcp`) for real-time Google Search (Web, News, Images, Shopping, Videos, Places), timestamped YouTube transcripts/metadata, and cloud video downloads (free trial, no credit card required).
+
 - [Unique.domains](https://github.com/UniqueDomains/mcp-server): 51 read-only tools over a daily record of 37 million domain names: is a name taken, its WHOIS record, what nine registrars charge for an ending, renewal traps, auctions and sales totals. None registers, buys or changes a name. Free, with no sign-in. Hosted Streamable HTTP at `https://mcp.unique.domains/mcp`. On your machine: `npx -y @uniquedomains/mcp-server` (stdio). License: MIT. Docs: https://unique.domains/api/mcp. Official MCP Registry id `domains.unique/mcp-server`.
 
 - [AgentCV](https://agentcv.ai/mcp-server): AgentCV — a public registry of AI agent teams, with each team's roles, platforms and evidence labelled real, curated or illustrative. Read-only remote MCP server, no sign-in: search teams, read profiles, and check a profile before registering.
