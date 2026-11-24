@@ -1,0 +1,22 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-botcraftmarket-boternity-mcp-1728ad22",
+  "source": {
+    "issue": 6691,
+    "projectUrl": "https://github.com/botcraftmarket/boternity-mcp"
+  },
+  "verification": {
+    "status": "self_reported",
+    "notes": [
+      "Profile claimed by @botcraftmarket in #6691 under the community profile-claim process.",
+      "Requested profile metadata in #6691: Category: Developer Productivity & Utilities Transport: streamable-http Auth: none Install confidence: low License: unknown Verification: unknown"
+    ]
+  },
+  "community": {
+    "maintainedBy": [
+      "@botcraftmarket"
+    ],
+    "verifiedBy": [],
+    "claimed": true
+  }
+}

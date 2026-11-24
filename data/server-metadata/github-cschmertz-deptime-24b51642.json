@@ -1,0 +1,31 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-cschmertz-deptime-24b51642",
+  "source": {
+    "issue": 6711,
+    "projectUrl": "https://github.com/cschmertz/deptime"
+  },
+  "install": {
+    "commands": [
+      "uvx deptime mcp"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "stdio",
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Code",
+    "Claude Desktop",
+    "Cursor",
+    "VS Code",
+    "Codex"
+  ],
+  "license": "MIT"
+}
