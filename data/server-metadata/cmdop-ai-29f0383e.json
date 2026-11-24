@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "cmdop-ai-29f0383e",
+  "source": {
+    "issue": 6759,
+    "projectUrl": "https://cmdop.ai"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "unknown",
+    "notes": [
+      "unknown"
+    ]
+  },
+  "clients": [
+    "Claude Code",
+    "Codex",
+    "ChatGPT"
+  ],
+  "license": "unknown"
+}
