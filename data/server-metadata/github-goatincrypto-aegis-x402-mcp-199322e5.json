@@ -21,13 +21,15 @@
   ],
   "auth": {
     "type": "none",
-    "notes": []
+    "notes": [
+      "Free tools require no authentication; paid tools use AEGIS_API_KEY or local x402 settlement with AEGIS_PRIVATE_KEY."
+    ]
   },
   "clients": [
     "Claude Desktop",
     "Cursor",
     "Windsurf",
-    "and any standard stdio or Streamable HTTP MCP client."
+    "Other stdio or Streamable HTTP MCP clients"
   ],
   "license": "MIT"
 }
