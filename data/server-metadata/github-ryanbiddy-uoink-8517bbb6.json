@@ -1,0 +1,23 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "github-ryanbiddy-uoink-8517bbb6",
+  "source": {
+    "issue": 6750,
+    "projectUrl": "https://github.com/ryanbiddy/uoink"
+  },
+  "transport": [
+    "stdio"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "clients": [
+    "Claude Desktop",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "VS Code"
+  ],
+  "license": "MIT"
+}
