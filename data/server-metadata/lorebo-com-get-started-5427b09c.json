@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/server-metadata.schema.json",
+  "id": "lorebo-com-get-started-5427b09c",
+  "source": {
+    "issue": 6687,
+    "projectUrl": "https://lorebo.com/get-started#desktop-setup"
+  },
+  "links": {
+    "endpoint": "http://127.0.0.1:8758/mcp"
+  },
+  "install": {
+    "commands": [
+      "docker run --detach --name lorebo --publish 127.0.0.1:8758:8758 --volume lorebo-data:/data ghcr.io/lexrag/lorebo-headless:stable"
+    ],
+    "env": [],
+    "confidence": "medium"
+  },
+  "transport": [
+    "streamable-http"
+  ],
+  "auth": {
+    "type": "none",
+    "notes": []
+  },
+  "license": "Proprietary (Lorebo runtime)"
+}
