@@ -21,7 +21,7 @@
   "auth": {
     "type": "api-key",
     "notes": [
-      "api-key"
+      "CROWLLM_API_KEY is required only for chat; search_models and get_pricing work without a key."
     ]
   },
   "clients": [
