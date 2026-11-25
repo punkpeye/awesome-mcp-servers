@@ -3604,6 +3604,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [ModelBrain/modelbrain-connectors](https://github.com/ModelBrain/modelbrain-connectors) [![ModelBrain/modelbrain-connectors MCP server](https://glama.ai/mcp/servers/ModelBrain/modelbrain-connectors/badges/score.svg)](https://glama.ai/mcp/servers/ModelBrain/modelbrain-connectors) 🦀 ☁️ - Free, read-only Google Search Console for Claude, ChatGPT and Cursor, hosted at https://gsc.modelbrain.net/mcp with Google sign-in and no Cloud project to set up. Every property the account can see: search performance over 16 months, period comparisons, URL inspection and sitemaps.
 - [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp) [![rmb/omniforce-mcp MCP server](https://glama.ai/mcp/servers/rmb/omniforce-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rmb/omniforce-mcp) 📇 🏠 🍎 🪟 🐧 - Audit any site's GEO/AI-search readiness and query OmniForce's tracked prompts, competitors and AI citation runs. (npm: @omniforce/mcp)
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
