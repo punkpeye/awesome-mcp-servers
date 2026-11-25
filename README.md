@@ -4421,6 +4421,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 MCP servers for job search and career platforms.
 
 - [GhoshSrinjoy/linkedin-job-mcp](https://github.com/GhoshSrinjoy/linkedin-job-mcp) [![GhoshSrinjoy/linkedin-job-mcp MCP server](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp) 📇 🏠 🍎 🪟 🐧 - Job search by keyword and location with date, job type, remote, salary and experience filters, full job details, and a local dashboard that grades postings for ghost-job risk. Reads public job pages, so no account or browser is needed.
+- [JoboAI/jobo-mcp](https://github.com/JoboAI/jobo-mcp) [![JoboAI/jobo-mcp MCP server](https://glama.ai/mcp/servers/JoboAI/jobo-mcp/badges/score.svg)](https://glama.ai/mcp/servers/JoboAI/jobo-mcp) 📇 ☁️ - Search millions of live job listings collected from employer career sites and 200+ ATS platforms, with filters for location, salary, skills, company and work model. Hosted, with OAuth sign-in.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
 ### 🔒 <a name="security"></a>Security
