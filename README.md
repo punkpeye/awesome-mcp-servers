@@ -2200,6 +2200,7 @@ Integrations and tools designed to simplify data exploration, analysis and enhan
 
 Interactive charts, dashboards, and visual data tools rendered inside AI conversations.
 
+- [chartquery/chartquery-mcp](https://github.com/chartquery/chartquery-mcp) [![chartquery/chartquery-mcp MCP server](https://glama.ai/mcp/servers/chartquery/chartquery-mcp/badges/score.svg)](https://glama.ai/mcp/servers/chartquery/chartquery-mcp) 🎖️ 📇 ☁️ - Generate chart images, diagrams, QR codes, barcodes and thermal shipping labels as PNG, SVG or PDF, from a spec or a plain-language prompt.
 - [bcsnpc/vilsem-mcp](https://github.com/bcsnpc/vilsem-mcp) [![bcsnpc/vilsem-mcp MCP server](https://glama.ai/mcp/servers/bcsnpc/vilsem-mcp/badges/score.svg)](https://glama.ai/mcp/servers/bcsnpc/vilsem-mcp) 📇 🏠 🪟 - Author custom Power BI visuals on the live Power BI Desktop model: real-data previews with automatic critique, then commit to PBIP reports and edit later in plain language.
 
 - [ganapativs/microcharts](https://github.com/ganapativs/microcharts/tree/main/packages/mcp) [![ganapativs/microcharts MCP server](https://glama.ai/mcp/servers/ganapativs/microcharts/badges/score.svg)](https://glama.ai/mcp/servers/ganapativs/microcharts) 📇 🏠 🍎 🪟 🐧 - Word-sized charts (sparklines, bars, bullets and more) rendered to self-contained SVG with generated alt text, plus chart suggestions for a given question.
