@@ -156,7 +156,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 
 负责软件架构、系统图及技术文档的设计与可视化。支持利用 AI 模型生成专业的图表和架构文档。
 
-- [Wunjo Design](https://wunjo.online/product/design) `https://mcp.wunjo.online/design`
+- [Wunjo Design](https://github.com/wladradchenko/mcp.wunjo.online) `https://mcp.wunjo.online/design`
 [![Wunjo Design MCP connector](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design/badges/score.svg)](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design)
 🔐 - Wunjo Design 支持创建和编辑矢量图形、管理文档与图层，以及进行预览渲染。
 

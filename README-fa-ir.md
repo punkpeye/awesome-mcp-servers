@@ -170,7 +170,7 @@
 طراحی و تجسم معماری نرم‌افزار، نمودارهای سیستم و مستندات فنی. به مدل‌های هوش مصنوعی امکان تولید نمودارهای حرفه‌ای و مستندات معماری را می‌دهد.
 
 - [Narasimhaponnada/mermaid-mcp](https://github.com/Narasimhaponnada/mermaid-mcp) 📇 ☁️ 🍎 🪟 🐧 - تولید نمودار Mermaid با قدرت هوش مصنوعی با بیش از ۲۲ نوع نمودار شامل فلوچارت‌ها، نمودارهای توالی، نمودارهای کلاس، نمودارهای ER، نمودارهای معماری، ماشین‌های حالت و موارد دیگر. دارای بیش از ۵۰ قالب از پیش ساخته شده، موتورهای چیدمان پیشرفته، خروجی‌های SVG/PNG/PDF، و یکپارچه‌سازی یکپارچه با GitHub Copilot، Claude، و هر کلاینت سازگار با MCP. نصب از طریق NPM: `npm install -g @narasimhaponnada/mermaid-mcp-server`
-- [Wunjo Design](https://wunjo.online/product/design) `https://mcp.wunjo.online/design`
+- [Wunjo Design](https://github.com/wladradchenko/mcp.wunjo.online) `https://mcp.wunjo.online/design`
 [![Wunjo Design MCP connector](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design/badges/score.svg)](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design)
 🔐 - ایجاد و ویرایش گرافیک‌های برداری، مدیریت اسناد و لایه‌ها و رندر پیش‌نمایش‌ها در Wunjo Design.
 

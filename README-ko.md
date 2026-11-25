@@ -143,7 +143,7 @@
 
 소프트웨어 아키텍처, 시스템 다이어그램, 기술 문서의 설계 및 시각화를 수행합니다. AI 모델을 활용하여 전문적인 다이어그램과 아키텍처 문서를 생성할 수 있습니다.
 
-- [Wunjo Design](https://wunjo.online/product/design) `https://mcp.wunjo.online/design`
+- [Wunjo Design](https://github.com/wladradchenko/mcp.wunjo.online) `https://mcp.wunjo.online/design`
 [![Wunjo Design MCP connector](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design/badges/score.svg)](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design)
 🔐 - Wunjo Design을 통해 벡터 그래픽 생성 및 편집, 문서와 레이어 관리, 그리고 미리보기 렌더링이 가능합니다.
 

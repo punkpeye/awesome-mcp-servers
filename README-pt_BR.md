@@ -139,7 +139,7 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 
 Projete e visualize arquitetura de software, diagramas de sistemas e documentação técnica. Permite a criação de diagramas e documentação arquitetural de nível profissional utilizando modelos de IA.
 
-- [Wunjo Design](https://wunjo.online/product/design) `https://mcp.wunjo.online/design`
+- [Wunjo Design](https://github.com/wladradchenko/mcp.wunjo.online) `https://mcp.wunjo.online/design`
 [![Conector MCP Wunjo Design](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design/badges/score.svg)](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design)
 🔐 - O Wunjo Design oferece suporte à criação e edição de gráficos vetoriais, gerenciamento de documentos e camadas, além da renderização de pré-visualizações.
 

@@ -126,7 +126,7 @@
 
 ออกแบบและสร้างภาพจำลองสถาปัตยกรรมซอฟต์แวร์ แผนผังระบบ และเอกสารทางเทคนิค รองรับการสร้างแผนผังและเอกสารด้านสถาปัตยกรรมในระดับมืออาชีพโดยใช้โมเดล AI
 
-- [Wunjo Design](https://wunjo.online/product/design) `https://mcp.wunjo.online/design`
+- [Wunjo Design](https://github.com/wladradchenko/mcp.wunjo.online) `https://mcp.wunjo.online/design`
 [![Wunjo Design MCP connector](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design/badges/score.svg)](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design)
 🔐 - Wunjo Design รองรับการสร้างและแก้ไขกราฟิกแบบเวกเตอร์ การจัดการเอกสารและเลเยอร์ รวมถึงการแสดงตัวอย่างผลลัพธ์ (Rendering)
 

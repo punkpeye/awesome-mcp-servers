@@ -142,7 +142,7 @@ Web 內容訪問和自動化功能。支援以 AI 友好格式搜尋、抓取和
 
 ソフトウェアアーキテクチャ、システム図、技術文書の設計と視覚化を行いまAIモデルによるプロフェッショナルな図表およびアーキチクチャよアーキチク
 
-- [Wunjo Design](https://wunjo.online/product/design) `https://mcp.wunjo.online/design`
+- [Wunjo Design](https://github.com/wladradchenko/mcp.wunjo.online) `https://mcp.wunjo.online/design`
  [![Wunjo Design MCP connector](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design/badges/score.svg)](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design)
  🔐 - Wunjo Designでは、ベクターグラフィックの作成と編集、ドキュメントとレイヤーの管理、プレビューのレンダリングが可能です。
 

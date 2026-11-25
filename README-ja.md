@@ -149,7 +149,7 @@
 
 ソフトウェアアーキテクチャ、システム図、技術文書の設計と視覚化を行います。AIモデルによるプロフェッショナルな図表およびアーキテクチャ文書の生成を可能にします。
 
-- [Wunjo Design](https://wunjo.online/product/design) `https://mcp.wunjo.online/design`
+- [Wunjo Design](https://github.com/wladradchenko/mcp.wunjo.online) `https://mcp.wunjo.online/design`
   [![Wunjo Design MCP connector](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design/badges/score.svg)](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design)
   🔐 - Wunjo Designでは、ベクターグラフィックの作成と編集、ドキュメントとレイヤーの管理、プレビューのレンダリングが可能です。
   
