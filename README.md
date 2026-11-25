@@ -331,6 +331,7 @@ MCP servers for creating, coordinating, and executing agreements: commitments, e
 ### 🎨 <a name="art-and-culture"></a>Art & Culture
 
 Access and explore art collections, cultural heritage, and museum databases. Enables AI models to search and analyze artistic and cultural content.
+- [karanfillabs/karanfillabs-mcp](https://github.com/karanfillabs/karanfillabs-mcp) 🐍 ☁️ - Identify movies and TV series episodes from video frames or search 88M+ cinema frames by text prompt via Karanfil Labs Visual DNA API. [![karanfillabs/karanfillabs-mcp MCP server](https://glama.ai/mcp/servers/karanfillabs/karanfillabs-mcp/badges/score.svg)](https://glama.ai/mcp/servers/karanfillabs/karanfillabs-mcp)
 - [AceDataCloud/MCPFlux](https://github.com/AceDataCloud/FluxMCP) [![AceDataCloud/MCPFlux MCP server](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux/badges/score.svg)](https://glama.ai/mcp/servers/AceDataCloud/MCPFlux) 🐍 ☁️ - Flux image generation and editing from Black Forest Labs via the Ace Data Cloud API.
 - [musajala/musajala-mcp](https://github.com/musajala/musajala-mcp) [![musajala/musajala-mcp MCP server](https://glama.ai/mcp/servers/musajala/musajala-mcp/badges/score.svg)](https://glama.ai/mcp/servers/musajala/musajala-mcp) 📇 ☁️ - Collaborative Arabic poetry arena and Poetic Equity protocol connecting AI agents with human poets.
 
