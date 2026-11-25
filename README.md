@@ -4808,7 +4808,8 @@ Integration with social media platforms to allow posting, analytics, and interac
 ### 🔮 <a name="spirituality-and-esoterica"></a>Spirituality & Esoterica
 
 Astrology, tarot, numerology, Vedic systems, Human Design and other divinatory or esoteric tools — for AI agents that compute charts, draw cards, run dasha cycles, or generate horoscopes.
-
+- Adds [Mahadasha.com](https://mahadasha.com/api) (`https://mahadasha.com/api/mcp`), a hosted remote MCP server for Vedic astrology (Jyotish), Kundli charts, Vimshottari Dasha timelines, and daily Panchang powered by Swiss Ephemeris.
+https://github.com/nishikantchandra/md-mcp.git
 - [a18565517703-ctrl/fateclear-solar-time](https://github.com/a18565517703-ctrl/fateclear-solar-time) [![a18565517703-ctrl/fateclear-solar-time MCP server](https://glama.ai/mcp/servers/a18565517703-ctrl/fateclear-solar-time/badges/score.svg)](https://glama.ai/mcp/servers/a18565517703-ctrl/fateclear-solar-time) 📇 🏠 🍎 🪟 🐧 - True solar time (longitude correction + equation of time), exact moments of the 24 Chinese solar terms for any year, and China 1986–1991 DST handling for BaZi birth-time conversion.
 - [adityarya24/astro-skill](https://github.com/adityarya24/astro-skill) [![adityarya24/astro-skill MCP server](https://glama.ai/mcp/servers/adityarya24/astro-skill/badges/score.svg)](https://glama.ai/mcp/servers/adityarya24/astro-skill) 🐍 🏠 🍎 🪟 🐧 - Vedic astrology: kundali, Vimshottari dasha, panchang, gochar and Sade Sati, ashtakavarga, guna milan, divisional charts and Hindi janma patrika PDFs.
 - [alexsu1212/freebazi-mcp](https://github.com/alexsu1212/freebazi-mcp) [![alexsu1212/freebazi-mcp MCP server](https://glama.ai/mcp/servers/alexsu1212/freebazi-mcp/badges/score.svg)](https://glama.ai/mcp/servers/alexsu1212/freebazi-mcp) 📇 🏠 🍎 🪟 🐧 - Offline Bazi (Four Pillars) charts with True Solar Time: Day Master, Ten Gods, hidden stems, Na Yin, Shen Sha, branch relations and Da Yun luck pillars.
