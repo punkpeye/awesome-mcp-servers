@@ -3484,6 +3484,8 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 
 - [wenlan-app/wenlan](https://github.com/wenlan-app/wenlan) [![wenlan-app/wenlan MCP server](https://glama.ai/mcp/servers/wenlan-app/wenlan/badges/score.svg)](https://glama.ai/mcp/servers/wenlan-app/wenlan) 🦀 🏠 🍎 🪟 🐧 - Local-first, source-backed AI knowledge base and LLM wiki. Distills agent work into maintained, citation-gated wiki pages served over MCP to Claude Code, Codex, Cursor and other clients. Apache 2.0. `npx -y wenlan setup`
 
+- [rjcuff/woolly](https://github.com/rjcuff/woolly) [![rjcuff/woolly MCP server](https://glama.ai/mcp/servers/rjcuff/woolly/badges/score.svg)](https://glama.ai/mcp/servers/rjcuff/woolly) 🏎️ 🏠 🍎 🪟 🐧 - Local project memory for coding agents that knows when it's wrong. Facts are plain Markdown tied to the code they describe and marked stale when that code changes; `woolly check` flags lines in CLAUDE.md, AGENTS.md and Cursor rules that name code a commit removed. One Go binary, no model, no cloud.
+
 ### ⚖️ <a name="legal"></a>Legal
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
 - [datakoot/regulatory-intel-mcp](https://github.com/datakoot/regulatory-intel-mcp) [![datakoot/regulatory-intel-mcp MCP server](https://glama.ai/mcp/servers/datakoot/regulatory-intel-mcp/badges/score.svg)](https://glama.ai/mcp/servers/datakoot/regulatory-intel-mcp) 📇 ☁️ - Keyless US Federal Register: search rules and notices, full documents, executive orders and agencies. Remote at `regulatory.datakoot.com/mcp`, no API key.
