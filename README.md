@@ -4724,6 +4724,8 @@ MCP servers for job search and career platforms.
 
 - [ak10082247-max/canaryguard-402](https://github.com/ak10082247-max/canaryguard-402) [![ak10082247-max/canaryguard-402 MCP server](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402/badges/score.svg)](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402) 📇 ☁️ 🏠 🍎 🪟 🐧 - Deterministic prompt-injection detector, concealed Unicode scrubber, and honeypot wallet defense MCP server for AI agents.
 - [AIME-TECH-UK-LIMITED/signafaide-sdk](https://github.com/AIME-TECH-UK-LIMITED/signafaide-sdk) [![AIME-TECH-UK-LIMITED/signafaide-sdk MCP server](https://glama.ai/mcp/servers/AIME-TECH-UK-LIMITED/signafaide-sdk/badges/score.svg)](https://glama.ai/mcp/servers/AIME-TECH-UK-LIMITED/signafaide-sdk) 🎖️ 📇 🏠 - Audit evidence for AI agent tool calls: each one signed, co-signed by an independent witness and publicly timestamped, so an auditor can verify it offline. For EU AI Act record-keeping, ISO/IEC 42001 and SOC 2. Local by default; nothing is sent until a person opts in. `npx -y signafaide-mcp`
+- [jamking168/mcp-audit](https://github.com/jamking168/mcp-audit) [![jamking168/mcp-audit MCP server](https://glama.ai/mcp/servers/jamking168/mcp-audit/badges/score.svg)](https://glama.ai/mcp/servers/jamking168/mcp-audit) 🐍 🏠 🍎 🪟 🐧 - Static security scanner for MCP servers: command injection, secret handling, unsafe file access and tool-poisoning patterns, with SARIF output for code scanning. Runs offline and never executes the code it reads.
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
