@@ -83,7 +83,9 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
 * 🔗 - [Aggregators](#aggregators)
+* 🚀 - [Aerospace & Astrodynamics](#aerospace-and-astrodynamics)
 * 🤝 - [Agreements & Coordination](#agreements--coordination)
+* ♿ - [Accessibility](#accessibility)
 * 🎨 - [Art & Culture](#art-and-culture)
 * 📐 - [Architecture & Design](#architecture-and-design)
 * 📂 - [Browser Automation](#browser-automation)
@@ -109,6 +111,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 📂 - [File Systems](#file-systems)
 * 💰 - [Finance & Fintech](#finance--fintech)
 * 🎮 - [Gaming](#gaming)
+* 🏥 - [Health & Wellness](#health-and-wellness)
 * 🏠 - [Home Automation](#home-automation)
 * 🪪 - [Identity](#identity)
 * 🏭 - [Industrial & IoT](#industrial--iot)
@@ -123,7 +126,9 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 📋 - [Product Management](#product-management)
 * 🏠 - [Real Estate](#real-estate)
 * 🔬 - [Research](#research)
+* 🔎 - [RAG](#RAG)
 * 🔎 - [Search & Data Extraction](#search)
+* 💼 - [Jobs](#jobs)
 * 🔒 - [Security](#security)
 * 🌐 - [Social Media](#social-media)
 * 🔮 - [Spirituality & Esoterica](#spirituality-and-esoterica)
