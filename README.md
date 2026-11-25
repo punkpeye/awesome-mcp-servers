@@ -4422,6 +4422,7 @@ MCP servers for job search and career platforms.
 
 - [GhoshSrinjoy/linkedin-job-mcp](https://github.com/GhoshSrinjoy/linkedin-job-mcp) [![GhoshSrinjoy/linkedin-job-mcp MCP server](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp) 📇 🏠 🍎 🪟 🐧 - Job search by keyword and location with date, job type, remote, salary and experience filters, full job details, and a local dashboard that grades postings for ghost-job risk. Reads public job pages, so no account or browser is needed.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [redasalem/veycraft](https://github.com/redasalem/veycraft) [![redasalem/veycraft MCP server](https://glama.ai/mcp/servers/redasalem/veycraft/badges/score.svg)](https://glama.ai/mcp/servers/redasalem/veycraft) 📇 🏠 🍎 🪟 🐧 - Local-first career operations MCP server with 8 read-only offline tools for workspace readiness checks, natural-language skill routing, tailored CV placeholder and provenance verification, pre-submit cap and guardrail checks, local application ledger summaries, and Markdown playbook inspection. Zero dependencies, stdio, Node >= 18. `npx -y veycraft mcp`
 
 ### 🔒 <a name="security"></a>Security
 
