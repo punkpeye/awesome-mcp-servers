@@ -136,6 +136,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+- [LarynaB/arcanumfleet-mcp-server](https://github.com/LarynaB/arcanumfleet-mcp-server) 📇 ☁️ 🏠 - 16-tool x402 v2 Streamable HTTP & stdio MCP server for Solana & Base wallet profiling, SPL rug-checks, whale signals, Jupiter quotes, multi-chain token prices, domain enrichment, web extraction, and 0-API-key code audits (pay-per-call USDC).
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
