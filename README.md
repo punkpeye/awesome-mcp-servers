@@ -3983,6 +3983,8 @@ Servers for controlling the desktop operating system: screenshots, window manage
 - [AmrDab/clawdcursor](https://github.com/AmrDab/clawdcursor) [![AmrDab/clawdcursor MCP server](https://glama.ai/mcp/servers/AmrDab/clawdcursor/badges/score.svg)](https://glama.ai/mcp/servers/AmrDab/clawdcursor) 📇 🏠 🍎 🪟 🐧 - Desktop control for any AI agent on Windows, macOS and Linux. Reads the screen as text (accessibility tree, then OCR) and acts on controls by name, with screenshots only as a last resort, so a task costs a fraction of the tokens of a screenshot loop. 7 compound tools, one safety gate, verifies its own actions, and pauses for the user at sign-ins. Local-only, any tool-calling model.
 - [protocorn/clippy-vision](https://github.com/protocorn/clippy-vision) [![protocorn/clippy-vision MCP server](https://glama.ai/mcp/servers/protocorn/clippy-vision/badges/score.svg)](https://glama.ai/mcp/servers/protocorn/clippy-vision) 🐍 🏠 🪟 🍎 - Fully local screen-aware assistant: exposes window titles, accessibility text and OCR of what's on screen plus local RAG memory, powered by Ollama models with nothing leaving the machine.
 
+- [kastro5/opendeck-mcp](https://github.com/kastro5/opendeck-mcp) 🐍 🏠 🪟 - Configure OpenDeck stream controllers (Elgato Stream Deck and plugin-supported decks) in natural language: keys, profiles, Multi/Toggle Actions, folders, app-based profile switching, plugins and generated icons. Changes are staged and shown as a rendered picture before a backed-up apply; title, image and settings tweaks apply instantly.
+
 ### 🎙️ <a name="podcasts"></a>Podcasts
 
 Servers for podcast analytics, search, hosting, and discovery.
