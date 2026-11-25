@@ -5404,6 +5404,8 @@ Interact with Git repositories and version control platforms. Enables repository
 - [labaccessnow/netip-mcp](https://github.com/labaccessnow/netip-mcp) [![labaccessnow/netip-mcp MCP server](https://glama.ai/mcp/servers/labaccessnow/netip-mcp/badges/score.svg)](https://glama.ai/mcp/servers/labaccessnow/netip-mcp) 📇 🏠 🍎 🪟 🐧 - Network toolbox: IPv4/IPv6 subnet math, IP conversion, MAC vendor lookup, port directory, DNS, blocklist and TLS certificate checks, and public IP lookup.
 - [auroracapital/upres-cli](https://github.com/auroracapital/upres-cli) [![auroracapital/upres-cli MCP server](https://glama.ai/mcp/servers/auroracapital/upres-cli/badges/score.svg)](https://glama.ai/mcp/servers/auroracapital/upres-cli) 📇 ☁️ - Image and video upscaling via the UpRes API: submit jobs, poll status and download results.
 - [manueltarouca/qbt-kit](https://github.com/manueltarouca/qbt-kit) [![manueltarouca/qbt-kit MCP server](https://glama.ai/mcp/servers/manueltarouca/qbt-kit/badges/score.svg)](https://glama.ai/mcp/servers/manueltarouca/qbt-kit) 🐍 🏠 🍎 🪟 🐧 - qBittorrent WebUI API: all 123 endpoints, with confirmation required on destructive operations and a read-only mode that holds through the raw call.
+- [lemonbanan4/rulecloud](https://github.com/lemonbanan4/rulecloud) 🎖️ 🐍 ☁️  - Deterministic architectural guardrails and MCP feedback loop for AI coding agents (`scan_code`, `get_default_rules`, `suggest_fix`).
+- 
 ## Frameworks
 
 > [!NOTE]
