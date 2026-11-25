@@ -4422,6 +4422,7 @@ MCP servers for job search and career platforms.
 
 - [GhoshSrinjoy/linkedin-job-mcp](https://github.com/GhoshSrinjoy/linkedin-job-mcp) [![GhoshSrinjoy/linkedin-job-mcp MCP server](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp) 📇 🏠 🍎 🪟 🐧 - Job search by keyword and location with date, job type, remote, salary and experience filters, full job details, and a local dashboard that grades postings for ghost-job risk. Reads public job pages, so no account or browser is needed.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [pugarte7/spanish-top-tech-companies](https://github.com/pugarte7/spanish-top-tech-companies) [![pugarte7/spanish-top-tech-companies MCP server](https://glama.ai/mcp/servers/pugarte7/spanish-top-tech-companies/badges/score.svg)](https://glama.ai/mcp/servers/pugarte7/spanish-top-tech-companies) 📇 ☁️ - Tech salaries in Spain by role, region, experience and company from medians of real salaries, plus the open postings of 400+ job boards crawled daily, with each application form read so an agent can prepare the application.
 
 ### 🔒 <a name="security"></a>Security
 
