@@ -136,6 +136,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
+- [mrpkk/soma-protocol](https://github.com/mrpkk/soma-protocol) [![mrpkk/soma-protocol MCP server](https://glama.ai/mcp/servers/mrpkk/soma-protocol/badges/score.svg)](https://glama.ai/mcp/servers/mrpkk/soma-protocol) 🐍 ☁️ - Hosted node and open protocol for agent memory, signed obligations and offline proofs: 12 MCP tools (facts, envelopes, receipts, cold artifacts), full export, read-only demo without a token. [free tier; $49/mo; $0.005 per envelope]
 
 ### 🔗 <a name="aggregators"></a>Aggregators
 
