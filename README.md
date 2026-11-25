@@ -3604,6 +3604,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [crawde/mcp-vadyu](https://github.com/crawde/mcp-vadyu) [![crawde/mcp-vadyu MCP server](https://glama.ai/mcp/servers/crawde/mcp-vadyu/badges/score.svg)](https://glama.ai/mcp/servers/crawde/mcp-vadyu) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Preview Shopify/DTC storefronts for free and render multi-cut 9:16, 4:5, 1:1, and 16:9 commercial AI video ads with 3D studio lighting and voiceover.
 - [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp) [![rmb/omniforce-mcp MCP server](https://glama.ai/mcp/servers/rmb/omniforce-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rmb/omniforce-mcp) 📇 🏠 🍎 🪟 🐧 - Audit any site's GEO/AI-search readiness and query OmniForce's tracked prompts, competitors and AI citation runs. (npm: @omniforce/mcp)
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
@@ -3746,7 +3747,6 @@ Tools for creating and editing marketing content, working with web meta data, pr
 - [rampify-dev/rampify-mcp](https://github.com/rampify-dev/rampify-mcp) [![rampify-dev/rampify-mcp MCP server](https://glama.ai/mcp/servers/rampify-dev/rampify-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rampify-dev/rampify-mcp) 📇 ☁️ - Crawl your site, find gaps in AI answers, generate meta, schema and content fixes and ship them as PRs, with DataForSEO keyword and Search Console data.
 - [prepublish/prepublish-mcp](https://github.com/prepublish/prepublish-mcp) [![prepublish/prepublish-mcp MCP server](https://glama.ai/mcp/servers/prepublish/prepublish-mcp/badges/score.svg)](https://glama.ai/mcp/servers/prepublish/prepublish-mcp) 🎖️ 📇 ☁️ - Audit YouTube scripts before recording: hook, structure and pacing scores, drop-off passages, policy and inauthentic-content checks, and runtime estimates.
 - [verma6uc/mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) [![verma6uc/mach-gtm-mcp MCP server](https://glama.ai/mcp/servers/verma6uc/mach-gtm-mcp/badges/score.svg)](https://glama.ai/mcp/servers/verma6uc/mach-gtm-mcp) 📇 🏠 🍎 🪟 🐧 - Five outbound sales helpers for B2B teams: build an ICP, draft a cold email or LinkedIn message from a buying signal you provide, get a prospect research checklist, score a lead 0-100 against your ICP, and lay out a multi-touch sequence. Works only from what you give it; it does not look anything up or send anything.
-
 ### 📊 <a name="monitoring"></a>Monitoring
 
 Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
