@@ -2222,6 +2222,8 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [rohanbeingsocial/showboard](https://github.com/rohanbeingsocial/showboard) [![rohanbeingsocial/showboard MCP server](https://glama.ai/mcp/servers/rohanbeingsocial/showboard/badges/score.svg)](https://glama.ai/mcp/servers/rohanbeingsocial/showboard) 📇 🏠 🍎 🪟 🐧 - Your coding agent answers with dashboards: charts, tables and headline numbers from read-only SQL (Postgres, SQLite) or Excel and CSV files, in your browser, your app or a terminal pane.
 
+- [rpmccormick/aui-mcp](https://github.com/rpmccormick/aui-mcp) [![rpmccormick/aui-mcp MCP server](https://glama.ai/mcp/servers/rpmccormick/aui-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rpmccormick/aui-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Render raw JSON, CSV, SQL rows and URLs into interactive 2-line DataTables, Apache ECharts, 60fps spatial timelines and DayPilot 2D resource tapes in <50ms, with live embed links and SMS/email sharing.
+
 - [nteract/semiotic](https://github.com/nteract/semiotic) [![nteract/semiotic MCP server](https://glama.ai/mcp/servers/nteract/semiotic/badges/score.svg)](https://glama.ai/mcp/servers/nteract/semiotic) 📇 🏠 🍎 🪟 🐧 - Semiotic React data visualization: suggest charts for a dataset, render validated configs to SVG, diagnose anti-patterns and fetch component schemas.
 
 ### 📟 <a name="embedded-system"></a>Embedded System
