@@ -5454,3 +5454,6 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+### 💰 <a name="finance--fintech"></a>Finance & Fintech
+
+- [CortexCloud/cortexcloud-mcp](https://github.com/CortexCloud/cortexcloud-mcp) [![CortexCloud MCP server](https://glama.ai/mcp/servers/CortexCloud/cortexcloud-mcp/badges/score.svg)](https://glama.ai/mcp/servers/CortexCloud/cortexcloud-mcp) 📇 ☁️ - Agent-native on-chain intelligence MCP server: token prices, risk scoring, wallet intelligence, whale alerts, balances, transaction history, cross-chain comparison, market snapshots, webhooks, and batch aggregates. 19 tools via Streamable HTTP at `https://api.cortexcloud.org/mcp` (2 free: `cortex_capabilities`, `cortex_prices`). x402 payments (USDC on Base, exact scheme, Coinbase CDP facilitator). Evidence-backed JSON with source attribution, checked_at timestamps, explicit missing-data indicators. Providers: Alchemy + CoinGecko.
