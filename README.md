@@ -4424,6 +4424,7 @@ MCP servers for job search and career platforms.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
 
 ### 🔒 <a name="security"></a>Security
+- **SupraWall MCP Plugin** - Deterministic policy enforcement and audit logging for MCP tool calls. Apache 2.0. [supra-wall.com](https://supra-wall.com)
 
 - [akshay-bhanderi/trustedmcp.io-mcp](https://github.com/akshay-bhanderi/trustedmcp.io-mcp) [![akshay-bhanderi/trustedmcp.io-mcp MCP server](https://glama.ai/mcp/servers/akshay-bhanderi/trustedmcp.io-mcp/badges/score.svg)](https://glama.ai/mcp/servers/akshay-bhanderi/trustedmcp.io-mcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - A-D grades from public signals (login, upkeep, known CVEs, connection) for any MCP server: look one up, check your whole MCP config, or find better-graded alternatives.
 - [mrpkk/attest](https://github.com/mrpkk/attest) [![mrpkk/attest MCP server](https://glama.ai/mcp/servers/mrpkk/attest/badges/score.svg)](https://glama.ai/mcp/servers/mrpkk/attest) 🐍 ☁️ 🍎 🪟 🐧 - Verifies an artifact an AI agent produced (JSON, code, structured output) against a JSON Schema plus positional prompt-injection checks, returning a verdict with reasons before you accept the result. x402-paid with a free tier of 20 checks/day.
