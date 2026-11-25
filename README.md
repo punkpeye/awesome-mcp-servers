@@ -44,6 +44,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
 * [Model Context Protocol (MCP) Quickstart](https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
+* [SolidCraft CAD MCP setup](https://solidcraftcad.com/solidcraft-mcp) - Connect AI agents to SolidCraft (open-source parametric 3D CAD in Rust) via its built-in MCP server
 
 ## Community
 
