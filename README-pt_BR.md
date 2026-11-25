@@ -74,6 +74,7 @@ Confira [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) 
 
 * 🔗 - [Agregadores](#agregadores)
 * 🎨 - [Arte e Cultura](#arte-e-cultura)
+* 📐 - [Arquitetura e Design](#arquitetura-e-design)
 * 🧬 - [Biologia, Medicina e Bioinformática](#biologia-medicina-bioinformatica)
 * 📂 - [Automação de Navegadores](#automação-de-navegadores)
 * ☁️ - [Plataformas em Nuvem](#plataformas-em-nuvem)
@@ -133,6 +134,14 @@ Acesse e explore coleções de arte, patrimônio cultural e bancos de dados de m
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - Um servidor MCP integrando a API do AniList para informações sobre anime e mangá
 - [diivi/aseprite-mcp](https://github.com/diivi/aseprite-mcp) 🐍 🏠 - Servidor MCP usando a API do Aseprite para criar pixel art
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - Fornece análises abrangentes e precisas de Bazi (Quatro Pilares do Destino)
+
+### 📐 <a name="architecture-and-design"></a>Arquitetura e Design
+
+Projete e visualize arquitetura de software, diagramas de sistemas e documentação técnica. Permite a criação de diagramas e documentação arquitetural de nível profissional utilizando modelos de IA.
+
+- [Wunjo Design](https://wunjo.online/product/design) `https://mcp.wunjo.online/design`
+[![Conector MCP Wunjo Design](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design/badges/score.svg)](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design)
+🔐 - O Wunjo Design oferece suporte à criação e edição de gráficos vetoriais, gerenciamento de documentos e camadas, além da renderização de pré-visualizações.
 
 ### 🧬 <a name="biologia-medicina-bioinformatica"></a>Biologia, Medicina e Bioinformática
 

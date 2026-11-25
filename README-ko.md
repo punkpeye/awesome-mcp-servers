@@ -72,6 +72,7 @@
 * 🔗 - [Aggregators](#aggregators)
 * 📂 - [브라우저 자동화](#browser-automation)
 * 🎨 - [예술 및 문화](#art-and-culture)
+* 📐 - [건축 및 디자인](#architecture-and-design)
 * 🧬 - [생물학, 의학 및 생물정보학](#bio)
 * ☁️ - [클라우드 플랫폼](#cloud-platforms)
 * 👨‍💻 - [코드 실행](#code-execution)
@@ -137,6 +138,14 @@
 - [r-huijts/rijksmuseum-mcp](https://github.com/r-huijts/rijksmuseum-mcp) 📇 ☁️ - 작품 검색, 세부 정보 및 컬렉션을 위한 Rijksmuseum API 통합
 - [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - Google Gemini(Nano Banana 2 / Pro)로 이미지 에셋을 생성하는 로컬 MCP 서버. 투명 PNG/WebP 출력, 정확한 리사이즈/크롭, 최대 14개의 참조 이미지, Google Search 그라운딩을 지원합니다.
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - 애니메이션 및 만화 정보를 위한 AniList API를 통합하는 MCP 서버
+
+### 📐 <a name="architecture-and-design"></a>아키텍처 및 디자인
+
+소프트웨어 아키텍처, 시스템 다이어그램, 기술 문서의 설계 및 시각화를 수행합니다. AI 모델을 활용하여 전문적인 다이어그램과 아키텍처 문서를 생성할 수 있습니다.
+
+- [Wunjo Design](https://wunjo.online/product/design) `https://mcp.wunjo.online/design`
+[![Wunjo Design MCP connector](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design/badges/score.svg)](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design)
+🔐 - Wunjo Design을 통해 벡터 그래픽 생성 및 편집, 문서와 레이어 관리, 그리고 미리보기 렌더링이 가능합니다.
 
 ### 🧬 <a name="bio"></a>생물학, 의학 및 생물정보학
 

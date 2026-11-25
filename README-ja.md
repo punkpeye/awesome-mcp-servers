@@ -73,6 +73,7 @@
 
 * 🔗 - [アグリゲーター](#aggregators)
 * 🎨 - [芸術と文化](#art-and-culture)
+* 📐 - [建築とデザイン](#architecture-and-design)
 * 🧬 - [生物学、医学、バイオインフォマティクス](#bio)
 * 📂 - [ブラウザ自動化](#browser-automation)
 * ☁️ - [クラウドプラットフォーム](#cloud-platforms)
@@ -144,6 +145,14 @@
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - 包括的で正確な八字（四柱推命）の命式作成と占い情報を提供
 - [fatenava/fatenava-mcp](https://github.com/fatenava/fatenava-mcp) [![fatenava-mcp MCP server](https://glama.ai/mcp/servers/fatenava/fatenava-mcp/badges/score.svg)](https://glama.ai/mcp/servers/fatenava/fatenava-mcp) 🎖️ 📇 🏠 ☁️ 🍎 🪟 🐧 - オールインワン命式作成:四柱推命(八字)・紫微斗数・西洋占星術の出生図を一つのツールで——真太陽時補正、多言語入力(中・英・日・韓)対応、無料・アカウント不要。`npx -y fatenava-mcp`
 
+### 📐 <a name="architecture-and-design"></a>建築とデザイン
+
+ソフトウェアアーキテクチャ、システム図、技術文書の設計と視覚化を行います。AIモデルによるプロフェッショナルな図表およびアーキテクチャ文書の生成を可能にします。
+
+- [Wunjo Design](https://wunjo.online/product/design) `https://mcp.wunjo.online/design`
+  [![Wunjo Design MCP connector](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design/badges/score.svg)](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design)
+  🔐 - Wunjo Designでは、ベクターグラフィックの作成と編集、ドキュメントとレイヤーの管理、プレビューのレンダリングが可能です。
+  
 ### 🧬 <a name="bio"></a>生物学、医学、バイオインフォマティクス
 
 - [genomoncology/biomcp](https://github.com/genomoncology/biomcp) 🐍 ☁️ - PubMed、ClinicalTrials.gov、MyVariant.infoへのアクセスを提供する生物医学研究用MCPサーバー。
