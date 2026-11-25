@@ -79,6 +79,8 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 ## Server Implementations
 
+- [apumiaaifund/apumia-credit](https://github.com/apumiaaifund/apumia-credit) [![apumiaaifund/apumia-credit MCP server](https://glama.ai/mcp/servers/apumiaaifund/apumia-credit/badges/score.svg)](https://glama.ai/mcp/servers/apumiaaifund/apumia-credit) 🐍 🦀 🏠 - Deterministic Zero-Float credit scoring, WACC, Merton-KMV, and IFRS 13 verification MCP server with 8/8 PROVEN invariants.
+
 > [!NOTE]
 > We now have a [web-based directory](https://glama.ai/mcp/servers) that is synced with the repository.
 
@@ -5454,4 +5456,3 @@ Now Claude can answer questions about writing MCP servers and how they work
  </picture>
 </a>
 
-- [apumiaaifund/apumia-credit](https://://github.com) 🐍 🦀 🏠 - Deterministic Zero-Float credit scoring, WACC, Merton-KMV, and IFRS 13 verification MCP server with 8/8 PROVEN invariants. [![apumiaaifund/apumia-credit MCP server](https://glama.ai/mcp/servers/apumiaaifund/apumia-credit/badges/score.svg)](https://glama.ai/mcp/servers/apumiaaifund/apumia-credit)
