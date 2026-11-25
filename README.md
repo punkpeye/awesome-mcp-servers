@@ -4930,6 +4930,7 @@ Tools for converting text-to-speech and vice-versa
 - [mbailey/voice-mcp](https://github.com/mbailey/voice-mcp) 🐍 🏠 - Voice interaction: speech-to-text, text-to-speech and real-time voice conversations via local microphone, OpenAI-compatible APIs and LiveKit.
 - [mberg/kokoro-tts-mcp](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - Text-to-speech with the open-weight Kokoro TTS models, saving MP3s locally or uploading them to an S3 bucket.
 - [transcribe-app/mcp-transcribe](https://github.com/transcribe-app/mcp-transcribe) 📇 🏠 - Transcribe audio and video files and voice memos and work with their text content.
+- [woodstitch-llc/woodstitch-mcp](https://github.com/woodstitch-llc/woodstitch-mcp) [![woodstitch-mcp MCP server](https://glama.ai/mcp/servers/woodstitch-llc/woodstitch-mcp/badges/score.svg)](https://glama.ai/mcp/servers/woodstitch-llc/woodstitch-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Blind human listening tests for TTS audio: paid US listeners give pairwise preferences or human-vs-AI judgements, returned with confidence intervals. Every study is quoted before it starts, and spending is capped at the confirmed total. Hosted at `https://api.woodstitch.com/mcp` (OAuth) or run locally with `uvx woodstitch-mcp`.
 - [ybouhjira/claude-code-tts](https://github.com/ybouhjira/claude-code-tts) 🏎️ ☁️ 🍎 🪟 🐧 - Text-to-speech for Claude Code using OpenAI's TTS API, with multiple voices and cross-platform playback.
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
