@@ -5271,6 +5271,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [fotoetienne/gqai](https://github.com/fotoetienne/gqai) 🏎 🏠 - Generate an MCP server from tools defined as regular GraphQL queries and mutations.
 - [FoodXDevelopment/foodblock-mcp](https://github.com/FoodXDevelopment/foodblock) 📇 🏠 - Turn plain-English food descriptions into structured, content-addressed data blocks for ingredients, products, places, actors and more.
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) 🐍 🏠 - Calculator for precise numerical calculations.
+- [goldguydcl-hue/toledo-cleaning-prices-mcp](https://github.com/goldguydcl-hue/toledo-cleaning-prices-mcp) 📇 ☁️ - Ballpark cleaning prices (office, house, new construction, post-remodel, RV, boat, aircraft interior) for Toledo, Ohio and nearby towns, built from cited public price guides. Hosted free at https://simplycleantoledo.com/mcp.
 - [gotoolkits/DifyWorkflow](https://github.com/gotoolkits/mcp-difyworkflow-server) 🏎️ ☁️ - Query and execute Dify workflows.
 - [growilabs/growi-mcp-server](https://github.com/growilabs/growi-mcp-server) 🎖️ 📇 ☁️ - Integrate with GROWI APIs.
 - [gwbischof/free-will-mcp](https://github.com/gwbischof/free-will-mcp) 🐍 🏠 - Free-will tools for AI: a playful experiment letting an AI prompt itself, ignore user requests and wake itself up later.
