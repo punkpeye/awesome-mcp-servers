@@ -9,6 +9,22 @@ Contributions are welcome and encouraged!  Whether you're fixing a typo, adding 
 
 This list is for servers with a public GitHub repository — something you install and run yourself. If your server is remote-only (just a hosted URL, no installable package), it belongs in [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) instead.
 
+> [!IMPORTANT]
+> Every PR is checked by automation. Duplicates, non-GitHub URLs, missing Glama badge, and emoji violations are labeled automatically; duplicates and non-GitHub URLs fail the check. Fix flagged issues before requesting review.
+
+## Before opening a PR
+
+1. **Search the README** — the server must not already be listed (duplicates are labeled `duplicate`).
+2. **One server per PR**, one line, in the right category, alphabetical order.
+3. **Link only `https://github.com/owner/repo`** — no other hosts. Name in `owner/repo` format.
+4. **Add the language/platform emoji** (see the legend in the README).
+5. **Add the Glama score badge** after the description (submit the server at https://glama.ai/mcp/servers first).
+6. **Keep the PR limited to README.md** — PRs touching other files are labeled `manual-review`.
+
+### Stale PRs
+
+PRs with no activity for 30 days are marked `stale` and auto-closed 14 days later. Push an update, rebase, or ask a maintainer to exempt the PR (`manual-review`). Reopening is always welcome.
+
 ## How to Contribute
 
 1. **Fork the repository:** Click the "Fork" button in the top right corner of the GitHub page.

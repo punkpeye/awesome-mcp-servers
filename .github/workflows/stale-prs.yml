@@ -1,0 +1,40 @@
+name: Stale PRs
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          # PR queue only — issues stay untouched
+          days-before-issue-stale: -1
+          days-before-issue-close: -1
+
+          days-before-stale: 30
+          days-before-close: 14
+
+          stale-pr-label: 'stale'
+          stale-pr-message: |
+            This PR has had no activity for 30 days and will be closed automatically in 14 days.
+
+            To keep it open: push an update or rebase, or ask a maintainer to add the `manual-review` label.
+            Reopening a closed PR is always welcome — no penalty.
+
+          close-pr-message: |
+            Closed after 45 days of inactivity. Feel free to reopen with an update.
+
+          exempt-pr-labels: 'manual-review,merge-conflict,bug,enhancement'
+          exempt-draft-pr: true
+
+          # ponytail: 500 ops/run chews the ~1.7k backlog in ~4 daily runs; lower if API pressure shows
+          operations-per-run: 500
+          ascending: true

@@ -9,6 +9,10 @@ permissions:
   pull-requests: write
   issues: write
 
+concurrency:
+  group: check-glama-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
 jobs:
   # Post-merge welcome comment
   welcome:
@@ -77,6 +81,15 @@ jobs:
               per_page: 100,
             });
 
+            const isReadme = f => /^README(?:[-.][^/]+)?\.md$/i.test(f.filename);
+            // PRs touching anything beyond README*/CONTRIBUTING.md need human eyes
+            const touchesNonReadme = files.some(
+              f => !isReadme(f) && f.filename !== 'CONTRIBUTING.md'
+            );
+
+            // mergeable_state is null briefly after PR creation; the next event refreshes it
+            const hasMergeConflict = context.payload.pull_request.mergeable_state === 'dirty';
+
             // Permitted emojis
             const permittedEmojis = [
               '\u{1F396}\uFE0F',  // 🎖️ official
@@ -108,8 +121,13 @@ jobs:
               return !ghMatch || !existingUrls.has(ghMatch[0].toLowerCase());
             });
 
-            // Only check new entries for glama link
-            const hasGlama = newAddedLines.some(line => line.includes('glama.ai/mcp/servers/') && line.includes('/badges/score.svg'));
+            // Translations and documentation do not submit servers to the canonical list.
+            const newServerLines = files
+              .filter(f => f.filename === 'README.md' && f.patch)
+              .flatMap(f => f.patch.split('\n'))
+              .filter(line => /^\+\s*-\s*\[/.test(line) && newAddedLines.includes(line));
+            const hasGlama = newServerLines.some(line => line.includes('glama.ai/mcp/servers/') && line.includes('/badges/score.svg'));
+            const missingGlama = newServerLines.length > 0 && !hasGlama;
 
             let hasValidEmoji = false;
             let hasInvalidEmoji = false;
@@ -118,9 +136,11 @@ jobs:
             const duplicateUrls = [];
             const nonGithubUrls = [];
 
-            // Check for non-GitHub URLs in added entry lines (list items with markdown links)
+            // Check for non-GitHub URLs in added entry lines.
+            // ponytail: server entries exist only in README* — scanning other files
+            // (PR template checkboxes, docs) yields false positives
             const allAddedEntryLines = files
-              .filter(f => f.patch)
+              .filter(f => f.patch && isReadme(f))
               .flatMap(f => f.patch.split('\n').filter(line => line.startsWith('+')))
               .map(line => line.replace(/^\+/, ''))
               .filter(line => /^\s*-\s*\[/.test(line));
@@ -175,10 +195,6 @@ jobs:
             const noDuplicates = duplicateUrls.length === 0;
             const allGithub = nonGithubUrls.length === 0;
 
-            // Apply glama labels
-            const glamaLabel = hasGlama ? 'has-glama' : 'missing-glama';
-            const glamaLabelRemove = hasGlama ? 'missing-glama' : 'has-glama';
-
             // Apply emoji labels
             const emojiLabel = emojiOk ? 'has-emoji' : 'missing-emoji';
             const emojiLabelRemove = emojiOk ? 'missing-emoji' : 'has-emoji';
@@ -187,8 +203,10 @@ jobs:
             const nameLabel = nameOk ? 'valid-name' : 'invalid-name';
             const nameLabelRemove = nameOk ? 'invalid-name' : 'valid-name';
 
-            const labelsToAdd = [glamaLabel, emojiLabel, nameLabel];
-            const labelsToRemove = [glamaLabelRemove, emojiLabelRemove, nameLabelRemove];
+            const labelsToAdd = [emojiLabel, nameLabel];
+            const labelsToRemove = [emojiLabelRemove, nameLabelRemove];
+            (hasGlama ? labelsToAdd : labelsToRemove).push('has-glama');
+            (missingGlama ? labelsToAdd : labelsToRemove).push('missing-glama');
 
             if (!noDuplicates) {
               labelsToAdd.push('duplicate');
@@ -200,6 +218,18 @@ jobs:
               labelsToAdd.push('non-github-url');
             } else {
               labelsToRemove.push('non-github-url');
+            }
+
+            if (touchesNonReadme) {
+              labelsToAdd.push('manual-review');
+            } else {
+              labelsToRemove.push('manual-review');
+            }
+
+            if (hasMergeConflict) {
+              labelsToAdd.push('merge-conflict');
+            } else {
+              labelsToRemove.push('merge-conflict');
             }
 
             await github.rest.issues.addLabels({
@@ -231,7 +261,7 @@ jobs:
             });
 
             // Glama missing comment
-            if (!hasGlama) {
+            if (missingGlama) {
               const marker = '<!-- glama-check -->';
               if (!comments.some(c => c.body.includes(marker))) {
                 await github.rest.issues.createComment({
@@ -263,14 +293,8 @@ jobs:
             if (hasGlama) {
               const marker = '<!-- glama-badge-check -->';
               if (!comments.some(c => c.body.includes(marker))) {
-                const glamaLines = files
-                  .filter(f => f.patch)
-                  .flatMap(f => f.patch.split('\n').filter(l => l.startsWith('+')))
-                  .filter(l => l.includes('glama.ai/mcp/servers/') && l.includes('/badges/score.svg'))
-                  .filter(l => {
-                    const ghMatch = l.match(/\(https:\/\/github\.com\/[^)]+\)/i);
-                    return !ghMatch || !existingUrls.has(ghMatch[0].toLowerCase());
-                  });
+                const glamaLines = newServerLines
+                  .filter(l => l.includes('glama.ai/mcp/servers/') && l.includes('/badges/score.svg'));
 
                 let glamaServerPath = '';
                 for (const line of glamaLines) {
@@ -391,4 +415,12 @@ jobs:
             Please update your PR to use the full repository name.`
                 });
               }
+            }
+
+            // Fail the run on hard rule violations so the PR shows a red check
+            if (!noDuplicates || !allGithub) {
+              core.setFailed('Rule violations: ' + [
+                !noDuplicates ? 'duplicate entries' : null,
+                !allGithub ? 'non-GitHub URLs' : null,
+              ].filter(Boolean).join(', '));
             }
