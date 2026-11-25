@@ -3087,6 +3087,8 @@ Connect AI agents to industrial equipment, machinery, and operational technology
 
 ### 🧠 <a name="knowledge--memory"></a>Knowledge & Memory
 
+- [anishchugh05/mnemolith](https://github.com/anishchugh05/mnemolith) [![anishchugh05/mnemolith MCP server](https://glama.ai/mcp/servers/anishchugh05/mnemolith/badges/score.svg)](https://glama.ai/mcp/servers/anishchugh05/mnemolith) 🐍 ☕ 🏠 🍎 🪟 🐧 - Shared memory for Claude Code, Cursor and Codex that knows when it's stale: each memory is tied to the files it depends on and flagged when they change, with drafted fixes you approve. Team memory lives in the repo as plain files reviewed in pull requests. Local, no account or API key. `uv tool install mnemolith`
+
 Persistent memory storage using knowledge graph structures. Enables AI models to maintain and query structured information across sessions.
 - [eddyflores100-lang/alethech](https://github.com/eddyflores100-lang/alethech) [![eddyflores100-lang/alethech MCP server](https://glama.ai/mcp/servers/eddyflores100-lang/alethech/badges/score.svg)](https://glama.ai/mcp/servers/eddyflores100-lang/alethech) 📇 🏠 🍎 🪟 🐧 - Verifiable Ed25519-signed agent memory chain with fail-closed verification; offline-first TF-IDF recall (zero LLM tokens at runtime), artifact audit, durable snapshots with zero secret leakage, and a measured 42-second disaster-recovery drill.
 
