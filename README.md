@@ -3483,6 +3483,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [sequico/server-noonien](https://github.com/sequico/server-noonien) [![sequico/server-noonien MCP server](https://glama.ai/mcp/servers/sequico/server-noonien/badges/score.svg)](https://glama.ai/mcp/servers/sequico/server-noonien) 📇 🏠 🍎 🪟 🐧 - Shared, serverless, conflict-free memory for AI agents: a multi-machine drop-in for the MCP memory knowledge graph, converging per-node shards with no server.
 
 - [wenlan-app/wenlan](https://github.com/wenlan-app/wenlan) [![wenlan-app/wenlan MCP server](https://glama.ai/mcp/servers/wenlan-app/wenlan/badges/score.svg)](https://glama.ai/mcp/servers/wenlan-app/wenlan) 🦀 🏠 🍎 🪟 🐧 - Local-first, source-backed AI knowledge base and LLM wiki. Distills agent work into maintained, citation-gated wiki pages served over MCP to Claude Code, Codex, Cursor and other clients. Apache 2.0. `npx -y wenlan setup`
+- [WANGJINSHAN-11/mem-plain](https://github.com/WANGJINSHAN-11/mem-plain) [![WANGJINSHAN-11/mem-plain MCP server](https://glama.ai/mcp/servers/WANGJINSHAN-11/mem-plain/badges/score.svg)](https://glama.ai/mcp/servers/WANGJINSHAN-11/mem-plain) 🐍 🏠 🍎 🪟 🐧 - Local-first plain-text memory MCP: long-term memory stored as Markdown/JSONL files in your own folder, shared across MCP clients (Cherry Studio, Claude Desktop, DeepSeek Harness). No database, no vector store.
 
 ### ⚖️ <a name="legal"></a>Legal
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
