@@ -4422,6 +4422,7 @@ MCP servers for job search and career platforms.
 
 - [GhoshSrinjoy/linkedin-job-mcp](https://github.com/GhoshSrinjoy/linkedin-job-mcp) [![GhoshSrinjoy/linkedin-job-mcp MCP server](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp) 📇 🏠 🍎 🪟 🐧 - Job search by keyword and location with date, job type, remote, salary and experience filters, full job details, and a local dashboard that grades postings for ghost-job risk. Reads public job pages, so no account or browser is needed.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [open-resume-agent/open-resume-agent](https://github.com/open-resume-agent/open-resume-agent) [![open-resume-agent/open-resume-agent MCP server](https://glama.ai/mcp/servers/open-resume-agent/open-resume-agent/badges/score.svg)](https://glama.ai/mcp/servers/open-resume-agent/open-resume-agent) 🐍 🏠 - Open Resume Agent (ORA): an open spec and MCP server that turns a career record into a model-agnostic agent file; answers fit questions and generates resumes (docx, pdf, html, md, json) within the owner's privacy limits.
 
 ### 🔒 <a name="security"></a>Security
 
