@@ -71,6 +71,7 @@
 
 * 🔗 - [รวบรวม](#aggregators)
 * 🎨 - [ศิลปะและวัฒนธรรม](#art-and-culture)
+* 📐 - [สถาปัตยกรรมและการออกแบบ](#architecture-and-design)
 * 🧬 - [ชีววิทยา การแพทย์ และไบโออินฟอร์เมติกส์](#bio)
 * 📂 - [การทำงานอัตโนมัติของเบราว์เซอร์](#browser-automation)
 * ☁️ - [แพลตฟอร์มคลาวด์](#cloud-platforms)
@@ -120,6 +121,14 @@
 - [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana) [glama](https://glama.ai/mcp/servers/@tasopen/mcp-alphabanana) 📇 🏠 🍎 🪟 🐧 - เซิร์ฟเวอร์ MCP แบบโลคัลสำหรับสร้างแอสเซ็ตรูปภาพด้วย Google Gemini (Nano Banana 2 / Pro) รองรับเอาต์พุต PNG/WebP แบบโปร่งใส การปรับขนาด/ครอบภาพอย่างแม่นยำ รูปอ้างอิงได้สูงสุด 14 รูป และการอ้างอิงข้อมูลด้วย Google Search
 - [yuna0x0/anilist-mcp](https://github.com/yuna0x0/anilist-mcp) 📇 ☁️ - เซิร์ฟเวอร์ MCP ที่ผสานรวม AniList API สำหรับข้อมูลอนิเมะและมังงะ
 - [cantian-ai/bazi-mcp](https://github.com/cantian-ai/bazi-mcp) 📇 🏠 ☁️ 🍎 🪟 - ให้บริการจัดทำแผนภูมิปาจื้อ (八字) และการวิเคราะห์ที่ครอบคลุมและแม่นยำ
+
+### 📐 <a name="architecture-and-design"></a>สถาปัตยกรรมและการออกแบบ
+
+ออกแบบและสร้างภาพจำลองสถาปัตยกรรมซอฟต์แวร์ แผนผังระบบ และเอกสารทางเทคนิค รองรับการสร้างแผนผังและเอกสารด้านสถาปัตยกรรมในระดับมืออาชีพโดยใช้โมเดล AI
+
+- [Wunjo Design](https://github.com/wladradchenko/mcp.wunjo.online) `https://mcp.wunjo.online/design`
+[![Wunjo Design MCP connector](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design/badges/score.svg)](https://glama.ai/mcp/connectors/online.wunjo.mcp/wunjo-design)
+🔐 - Wunjo Design รองรับการสร้างและแก้ไขกราฟิกแบบเวกเตอร์ การจัดการเอกสารและเลเยอร์ รวมถึงการแสดงตัวอย่างผลลัพธ์ (Rendering)
 
 ### 🧬 ชีววิทยา การแพทย์ และไบโออินฟอร์เมติกส์
 
