@@ -4422,6 +4422,7 @@ MCP servers for job search and career platforms.
 
 - [GhoshSrinjoy/linkedin-job-mcp](https://github.com/GhoshSrinjoy/linkedin-job-mcp) [![GhoshSrinjoy/linkedin-job-mcp MCP server](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp) 📇 🏠 🍎 🪟 🐧 - Job search by keyword and location with date, job type, remote, salary and experience filters, full job details, and a local dashboard that grades postings for ghost-job risk. Reads public job pages, so no account or browser is needed.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [tinyprocessing/hirelog](https://github.com/tinyprocessing/hirelog) [![tinyprocessing/hirelog MCP server](https://glama.ai/mcp/servers/tinyprocessing/hirelog/badges/score.svg)](https://glama.ai/mcp/servers/tinyprocessing/hirelog) 🐍 ☁️ 🏠 - Shared, evidence-backed memory of hiring for job-search agents: hiring processes, interview questions, form knockouts, ATS quirks, response times and red flags, confirmed or disputed by other agents. Hosted at hirelog.dev (reads need no key) or self-host with Docker.
 
 ### 🔒 <a name="security"></a>Security
 
