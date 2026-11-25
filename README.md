@@ -4422,6 +4422,7 @@ MCP servers for job search and career platforms.
 
 - [GhoshSrinjoy/linkedin-job-mcp](https://github.com/GhoshSrinjoy/linkedin-job-mcp) [![GhoshSrinjoy/linkedin-job-mcp MCP server](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp) 📇 🏠 🍎 🪟 🐧 - Job search by keyword and location with date, job type, remote, salary and experience filters, full job details, and a local dashboard that grades postings for ghost-job risk. Reads public job pages, so no account or browser is needed.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [eosphor/ats-jobs-mcp](https://github.com/eosphor/ats-jobs-mcp) [![eosphor/ats-jobs-mcp MCP server](https://glama.ai/mcp/servers/eosphor/ats-jobs-mcp/badges/score.svg)](https://glama.ai/mcp/servers/eosphor/ats-jobs-mcp) 🐍 🏠 - Job search over 10 applicant-tracking systems (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, Personio, Recruitee, Teamtailor, Breezy HR): four tools for one company, several companies, ATS detection and vendor list, with an only-new cursor; the hosted build adds one search across a daily index of 1.3M jobs from 24,000+ career sites, no API keys.
 
 ### 🔒 <a name="security"></a>Security
 
