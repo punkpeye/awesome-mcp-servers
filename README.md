@@ -3604,6 +3604,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [alicexixi85/geo-seo-mcp-pro](https://github.com/alicexixi85/geo-seo-mcp-pro) [![alicexixi85/geo-seo-mcp-pro MCP server](https://glama.ai/mcp/servers/alicexixi85/geo-seo-mcp-pro/badges/score.svg)](https://glama.ai/mcp/servers/alicexixi85/geo-seo-mcp-pro) 🐍 ☁️ 🏠 - Audits public URLs and hosted storefronts for AI search crawler rules (`robots.txt`), hidden `X-Robots-Tag`/meta citation blockers, `/llms.txt` soft-404s, initial HTML JSON-LD, cross-host canonicals, and XML sitemaps via Remote Streamable HTTP or local Python stdio.
 - [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp) [![rmb/omniforce-mcp MCP server](https://glama.ai/mcp/servers/rmb/omniforce-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rmb/omniforce-mcp) 📇 🏠 🍎 🪟 🐧 - Audit any site's GEO/AI-search readiness and query OmniForce's tracked prompts, competitors and AI citation runs. (npm: @omniforce/mcp)
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
