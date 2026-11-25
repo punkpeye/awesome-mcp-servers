@@ -3983,6 +3983,8 @@ Servers for controlling the desktop operating system: screenshots, window manage
 - [AmrDab/clawdcursor](https://github.com/AmrDab/clawdcursor) [![AmrDab/clawdcursor MCP server](https://glama.ai/mcp/servers/AmrDab/clawdcursor/badges/score.svg)](https://glama.ai/mcp/servers/AmrDab/clawdcursor) 📇 🏠 🍎 🪟 🐧 - Desktop control for any AI agent on Windows, macOS and Linux. Reads the screen as text (accessibility tree, then OCR) and acts on controls by name, with screenshots only as a last resort, so a task costs a fraction of the tokens of a screenshot loop. 7 compound tools, one safety gate, verifies its own actions, and pauses for the user at sign-ins. Local-only, any tool-calling model.
 - [protocorn/clippy-vision](https://github.com/protocorn/clippy-vision) [![protocorn/clippy-vision MCP server](https://glama.ai/mcp/servers/protocorn/clippy-vision/badges/score.svg)](https://glama.ai/mcp/servers/protocorn/clippy-vision) 🐍 🏠 🪟 🍎 - Fully local screen-aware assistant: exposes window titles, accessibility text and OCR of what's on screen plus local RAG memory, powered by Ollama models with nothing leaving the machine.
 
+- [JimmyWangJimmy/doubao-remote](https://github.com/JimmyWangJimmy/doubao-remote) [![JimmyWangJimmy/doubao-remote MCP server](https://glama.ai/mcp/servers/JimmyWangJimmy/doubao-remote/badges/score.svg)](https://glama.ai/mcp/servers/JimmyWangJimmy/doubao-remote) 📇 🏠 🍎 - Drive the local Doubao (豆包) desktop app over Chromium DevTools: chat, image generation, model switching, skills and navigation; 23 tools plus a CLI that needs no server. macOS, Windows in progress.
+
 ### 🎙️ <a name="podcasts"></a>Podcasts
 
 Servers for podcast analytics, search, hosting, and discovery.
