@@ -112,6 +112,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🏠 - [Home Automation](#home-automation)
 * 🪪 - [Identity](#identity)
 * 🏭 - [Industrial & IoT](#industrial--iot)
+* 💼 - [Jobs](#jobs)
 * 🧠 - [Knowledge & Memory](#knowledge--memory)
 * ⚖️ - [Legal](#legal)
 * 🗺️ - [Location Services](#location-services)
