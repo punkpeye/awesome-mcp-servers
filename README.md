@@ -5309,6 +5309,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [kelvin6365/plane-mcp-server](https://github.com/kelvin6365/plane-mcp-server) 🏎️ 🏠 - Manage projects and issues through Plane's API.
 - [kenliao94/mcp-server-rabbitmq](https://github.com/kenliao94/mcp-server-rabbitmq) 🐍 🏠 - Interact with RabbitMQ: admin operations and message enqueue/dequeue.
 - [kimtth/mcp-remote-call-ping-pong](https://github.com/kimtth/mcp-remote-call-ping-pong) 🐍 🏠 - Experimental, educational ping-pong server demonstrating remote MCP calls.
+- [kitchen-pass-dev/kitchen-pass-mcp](https://github.com/kitchen-pass-dev/kitchen-pass-mcp) [![kitchen-pass-dev/kitchen-pass-mcp MCP server](https://glama.ai/mcp/servers/kitchen-pass-dev/kitchen-pass-mcp/badges/score.svg)](https://glama.ai/mcp/servers/kitchen-pass-dev/kitchen-pass-mcp) 📇 🏠 🍎 🪟 🐧 - A head chef's verified kitchen answers as tools: scale recipes, yield and cost, how much to buy, cooking-fault fixes, ingredient swaps, menu pricing and menu engineering. Pays per answer in USDC on Base via x402, within spend caps you set; free quotes with `dryRun`.
 - [kiwamizamurai/mcp-kibela-server](https://github.com/kiwamizamurai/mcp-kibela-server) 📇 ☁️ - Interact with the Kibela API.
 - [kj455/mcp-kibela](https://github.com/kj455/mcp-kibela) 📇 ☁️ - Interact with Kibela.
 - [Klavis-AI/YouTube](https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/youtube) 🐍 📇 - Extract and convert YouTube video information.
