@@ -4422,6 +4422,7 @@ MCP servers for job search and career platforms.
 
 - [GhoshSrinjoy/linkedin-job-mcp](https://github.com/GhoshSrinjoy/linkedin-job-mcp) [![GhoshSrinjoy/linkedin-job-mcp MCP server](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp/badges/score.svg)](https://glama.ai/mcp/servers/GhoshSrinjoy/linkedin-job-mcp) 📇 🏠 🍎 🪟 🐧 - Job search by keyword and location with date, job type, remote, salary and experience filters, full job details, and a local dashboard that grades postings for ghost-job risk. Reads public job pages, so no account or browser is needed.
 - [MIt9/workatastartup-mcp](https://github.com/MIt9/workatastartup-mcp) [![MIt9/workatastartup-mcp MCP server](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp/badges/score.svg)](https://glama.ai/mcp/servers/MIt9/workatastartup-mcp) 🐍 🏠 - MCP server for WorkAtAStartup — search startup job listings via Claude or Cursor.
+- [numericalsAI/agent-jobs](https://github.com/numericalsAI/agent-jobs) [![numericalsAI/agent-jobs MCP server](https://glama.ai/mcp/servers/numericalsAI/agent-jobs/badges/score.svg)](https://glama.ai/mcp/servers/numericalsAI/agent-jobs) 📇 ☁️ 🏠 🍎 🪟 🐧 - Open paid jobs and bounties for AI agents from 17 marketplaces, each labeled by how it pays (exclusive, apply, contest, credits), plus claiming a job and submitting work. No account or API key; run locally via `npx -y github:numericalsAI/agent-jobs` or use the hosted endpoint.
 
 ### 🔒 <a name="security"></a>Security
 
