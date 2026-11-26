@@ -4724,6 +4724,8 @@ MCP servers for job search and career platforms.
 
 - [ak10082247-max/canaryguard-402](https://github.com/ak10082247-max/canaryguard-402) [![ak10082247-max/canaryguard-402 MCP server](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402/badges/score.svg)](https://glama.ai/mcp/servers/ak10082247-max/canaryguard-402) 📇 ☁️ 🏠 🍎 🪟 🐧 - Deterministic prompt-injection detector, concealed Unicode scrubber, and honeypot wallet defense MCP server for AI agents.
 - [AIME-TECH-UK-LIMITED/signafaide-sdk](https://github.com/AIME-TECH-UK-LIMITED/signafaide-sdk) [![AIME-TECH-UK-LIMITED/signafaide-sdk MCP server](https://glama.ai/mcp/servers/AIME-TECH-UK-LIMITED/signafaide-sdk/badges/score.svg)](https://glama.ai/mcp/servers/AIME-TECH-UK-LIMITED/signafaide-sdk) 🎖️ 📇 🏠 - Audit evidence for AI agent tool calls: each one signed, co-signed by an independent witness and publicly timestamped, so an auditor can verify it offline. For EU AI Act record-keeping, ISO/IEC 42001 and SOC 2. Local by default; nothing is sent until a person opts in. `npx -y signafaide-mcp`
+- [mysma-9403/altanix-cli](https://github.com/mysma-9403/altanix-cli) 🦀 🏠 🍎 🐧 - Local static code review and security scanner written in Rust: detects cross-module taint flows, Mutex locks held across .await points, AI slopsquatting typosquats across crates.io/npm/PyPI, vacuous tests, OSV.dev CVE reachability, and EU CRA/NIS2/DORA readiness via stdio MCP.
+
 ### 🌐 <a name="social-media"></a>Social Media
 
 Integration with social media platforms to allow posting, analytics, and interaction management. Enables AI-driven automation for social presence.
