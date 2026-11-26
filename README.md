@@ -2204,6 +2204,8 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [bcsnpc/vilsem-mcp](https://github.com/bcsnpc/vilsem-mcp) [![bcsnpc/vilsem-mcp MCP server](https://glama.ai/mcp/servers/bcsnpc/vilsem-mcp/badges/score.svg)](https://glama.ai/mcp/servers/bcsnpc/vilsem-mcp) 📇 🏠 🪟 - Author custom Power BI visuals on the live Power BI Desktop model: real-data previews with automatic critique, then commit to PBIP reports and edit later in plain language.
 
+- [chartpng/chartpng](https://github.com/chartpng/chartpng/tree/main/packages/chartpng-mcp) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Draw Chart.js v4 charts as PNG images: a shareable image URL for emails, Slack and Markdown reports, or the PNG itself, with KPI, ranking, comparison, funnel and gauge presets. [![chartpng/chartpng MCP server](https://glama.ai/mcp/servers/chartpng/chartpng/badges/score.svg)](https://glama.ai/mcp/servers/chartpng/chartpng)
+
 - [ganapativs/microcharts](https://github.com/ganapativs/microcharts/tree/main/packages/mcp) [![ganapativs/microcharts MCP server](https://glama.ai/mcp/servers/ganapativs/microcharts/badges/score.svg)](https://glama.ai/mcp/servers/ganapativs/microcharts) 📇 🏠 🍎 🪟 🐧 - Word-sized charts (sparklines, bars, bullets and more) rendered to self-contained SVG with generated alt text, plus chart suggestions for a given question.
 
 - [kleinicke/ply-visualizer](https://github.com/kleinicke/ply-visualizer) [![kleinicke/ply-visualizer MCP server](https://glama.ai/mcp/servers/kleinicke/ply-visualizer/badges/score.svg)](https://glama.ai/mcp/servers/kleinicke/ply-visualizer) 🐍 🏠 🍎 🪟 🐧 - Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.
