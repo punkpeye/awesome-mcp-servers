@@ -1042,6 +1042,7 @@ Run commands, capture output and otherwise interact with shells and command line
 
 Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
+- [0xroots/imessage-mcp](https://github.com/0xroots/imessage-mcp) [![0xroots/imessage-mcp MCP server](https://glama.ai/mcp/servers/0xroots/imessage-mcp/badges/score.svg)](https://glama.ai/mcp/servers/0xroots/imessage-mcp) 🏠 🍎 - Read, search and send iMessage from AI tools without Full Disk Access: a sandboxed macOS app with a read-only grant to Messages, owner approval for every connection and send, and a stdio MCP adapter. Signed and notarized.
 - [A1-x-Tech/mcp-google-chat](https://github.com/A1-x-Tech/mcp-google-chat) [![A1-x-Tech/mcp-google-chat MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-chat) 📇 ☁️ - Google Chat API: list and search spaces, read and send messages, and work with threads and reactions.
 - [A1-x-Tech/mcp-google-gmail](https://github.com/A1-x-Tech/mcp-google-gmail) [![A1-x-Tech/mcp-google-gmail MCP server](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-gmail/badges/score.svg)](https://glama.ai/mcp/servers/A1-x-Tech/mcp-google-gmail) 📇 ☁️ - Gmail API: search, read and send email, and manage drafts, labels and the trash.
 - [AbdelStark/nostr-mcp](https://github.com/AbdelStark/nostr-mcp) ☁️ - Interact with Nostr: post notes and more.
