@@ -556,6 +556,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [tylergibbs1/backwork-mcp](https://github.com/tylergibbs1/backwork-mcp) [![backwork-mcp MCP server](https://glama.ai/mcp/servers/tylergibbs1/backwork-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tylergibbs1/backwork-mcp) 📇 ☁️ - Medicare and commercial payer medical policy, prior authorization checks, claim risk and medical code lookup with cited sources, via hosted OAuth remote or local stdio.
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Search, retrieve, create, update and analyze clinical data via FHIR APIs, with SMART-on-FHIR authentication.
 - [wjgoarxiv/pymol-mcp](https://github.com/wjgoarxiv/pymol-mcp) [![wjgoarxiv/pymol-mcp MCP server](https://glama.ai/mcp/servers/wjgoarxiv/pymol-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wjgoarxiv/pymol-mcp) 🐍 🏠 🍎 🪟 🐧 - Headless PyMOL for molecular visualization, GROMACS/LAMMPS trajectories and clathrate-hydrate cage analysis, including H-bond networks and order parameters.
+- [fedor-i/OpenBioNews](https://github.com/fedor-i/OpenBioNews) [![fedor-i/OpenBioNews MCP server](https://glama.ai/mcp/servers/fedor-i/OpenBioNews/badges/score.svg)](https://glama.ai/mcp/servers/fedor-i/OpenBioNews) 🐍 ☁️ - Official biopharma records with citations: ClinicalTrials.gov, openFDA (recalls, approvals, shortages, adverse events, labels), Federal Register, PubMed and SEC EDGAR. Importance ranking benchmarked on landmark trials.
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
@@ -5431,8 +5432,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [SynapseLayer/synapse-layer](https://github.com/SynapseLayer/synapse-layer) [![SynapseLayer/synapse-layer MCP server](https://glama.ai/mcp/servers/SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/servers/SynapseLayer/synapse-layer) 📇 ☁️ - Persistent encrypted memory for AI agents with Trust Quotient scoring, cross-agent handover and an immutable audit trail.
 - [DROOdotFOO/raxol](https://github.com/DROOdotFOO/raxol/tree/master/packages/raxol_mcp) [![DROOdotFOO/raxol MCP server](https://glama.ai/mcp/servers/DROOdotFOO/raxol/badges/score.svg)](https://glama.ai/mcp/servers/DROOdotFOO/raxol) 🏠 🍎 🪟 🐧 - Elixir/OTP framework for MCP servers and clients that derives tools from a running UI component tree, letting agents drive terminal apps.
 - [jorgeortega/openapi-agentify](https://github.com/jorgeortega/openapi-agentify) [![jorgeortega/openapi-agentify MCP server](https://glama.ai/mcp/servers/jorgeortega/openapi-agentify/badges/score.svg)](https://glama.ai/mcp/servers/jorgeortega/openapi-agentify) 📇 🏠 - Turn an existing Express, Hono, Fastify or Next.js API into an MCP server from its OpenAPI spec: one middleware, tool calls run in-process through your own routes and auth.
-- - [fedor-i/OpenBioNews](https://github.com/fedor-i/OpenBioNews) 🐍 🏠 - Official biopharma records with citations: ClinicalTrials.gov, openFDA (recalls, approvals, shortages, adverse events, labels), Federal Register, PubMed and SEC EDGAR. Importance ranking benchmarked on landmark trials.
-## Tips and Tricks
+
 
 ### Official prompt to inform LLMs how to use MCP
 
