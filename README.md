@@ -5444,7 +5444,7 @@ https://modelcontextprotocol.io/llms-full.txt
 
 Now Claude can answer questions about writing MCP servers and how they work
 
-- https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/
+- https://www.reddit.com/r/ClaudeAI/comments/1h3g01r/want_to_ask_claude_about_model_context_protocol/ [![sywliushaocheng/cloonex MCP server](https://glama.ai/mcp/servers/sywliushaocheng/cloonex/badges/score.svg)](https://glama.ai/mcp/servers/sywliushaocheng/cloonex)
 
 ## Star History
 
