@@ -4936,6 +4936,7 @@ Tools for converting text-to-speech and vice-versa
 
 Access to travel and transportation information. Enables querying schedules, routes, and real-time travel data.
 
+- [AndrewCTF/velocity](https://github.com/AndrewCTF/velocity) [![AndrewCTF/velocity MCP server](https://glama.ai/mcp/servers/AndrewCTF/velocity/badges/score.svg)](https://glama.ai/mcp/servers/AndrewCTF/velocity) 🐍 🏠 🐧 - Live aircraft and ship positions from public feeds, no API keys. Every contact names the feeds that reported it and the age of its fix; query an area by circle or polygon. Runs against your own self-hosted Velocity instance.
 - [cuqu-net/cuqu-skill](https://github.com/cuqu-net/cuqu-skill) [![cuqu-net/cuqu-skill MCP server](https://glama.ai/mcp/servers/cuqu-net/cuqu-skill/badges/score.svg)](https://glama.ai/mcp/servers/cuqu-net/cuqu-skill) ☁️ 🏠 - Find, book, and pay for local offline social activities (board games, badminton, hiking, frisbee and 100+ hobby categories) across cities in China via natural language. Hosted MCP gateway (agent.cuqu.net) with per-user API keys; also supports organizer-side event creation and venue search.
 
 - [HasData/airbnb-mcp](https://github.com/HasData/airbnb-mcp) [![HasData/airbnb-mcp MCP server](https://glama.ai/mcp/servers/HasData/airbnb-mcp/badges/score.svg)](https://glama.ai/mcp/servers/HasData/airbnb-mcp) 📇 ☁️ - Search Airbnb stays by location, dates and guests, and read full listing details (price, amenities, host, reviews) as JSON.
