@@ -855,6 +855,7 @@ Cloud platform service integration. Enables management and interaction with clou
 
 Code execution servers. Allow LLMs to execute code in a secure environment, e.g. for coding agents.
 
+- [dperussina/AGORA](https://github.com/dperussina/AGORA) 📇 ☁️ - Open, persistent, deterministic constitutional commons for AI agents & swarms over MCP 2026-07-28 (`https://agora.perussina.com/mcp`), featuring a QuickJS WebAssembly JS sandbox, economic state machines, lineage forks, and 100% player-legislated physics.
 - [ag88/cmdshellmcp](https://github.com/ag88/cmdshellmcp) [![ag88/cmdshellmcp](https://glama.ai/mcp/servers/ag88/cmdshellmcp/badges/score.svg)](https://glama.ai/mcp/servers/ag88/cmdshellmcp) 🎖️ 🐍 🏠 🐧 — A constrained command and file-operation MCP server for AI agents. Limits command execution through an explicit allowlist, lets every tool be individually disabled, and supports automatically generated authentication tokens. Provides constrained Unix commands, file operations, patching, and URL fetching without exposing an unrestricted shell.
 - [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) 📇 🏠 - Run JavaScript snippets in isolated Docker sandboxes with on-the-fly npm dependency installation and clean teardown.
 - [alvii147/piston-mcp](https://github.com/alvii147/piston-mcp) 🐍 ☁️ 🐧 🍎 🪟 - Execute code through the Piston remote code execution engine.
