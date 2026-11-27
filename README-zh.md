@@ -198,6 +198,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 使大语言模型能够读取、编辑和执行代码，并自主解决各种编程任务。
 
 - [jinzcdev/leetcode-mcp-server](https://github.com/jinzcdev/leetcode-mcp-server) 📇 ☁️ - 一个专为 LeetCode(力扣) 设计的 MCP 服务，实现自动化获取编程题目、题解文章、提交记录等公开数据，并支持用户认证（用于笔记、解题进度等私有数据），同时支持 `leetcode.com`（国际版）和 `leetcode.cn`（中国版）双站点。
+- [grape-dev/grape-kit](https://github.com/grape-dev/grape-kit) 📇 🏠 ☁️ 🍎 🪟 🐧 - Grape DevOps 流水线遥控：触发/跟踪多 agent 工作流（vod→issue→coding→qa→sre）、issue 全周期管理、把云端运行中的任务接管进本地 agent 会话。50 个 MCP 工具，原生 HTTP 传输，零 Python 依赖。`npx -y -p @grape-dev/grape-kit grape-kit-mcp`
 
 ### 🖥️ <a name="command-line"></a>命令行
 
