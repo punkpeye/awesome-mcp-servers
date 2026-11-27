@@ -564,6 +564,7 @@ Design and visualize software architecture, system diagrams, and technical docum
 - [tylergibbs1/backwork-mcp](https://github.com/tylergibbs1/backwork-mcp) [![backwork-mcp MCP server](https://glama.ai/mcp/servers/tylergibbs1/backwork-mcp/badges/score.svg)](https://glama.ai/mcp/servers/tylergibbs1/backwork-mcp) 📇 ☁️ - Medicare and commercial payer medical policy, prior authorization checks, claim risk and medical code lookup with cited sources, via hosted OAuth remote or local stdio.
 - [wso2/fhir-mcp-server](https://github.com/wso2/fhir-mcp-server) 🐍 🏠 ☁️ - Search, retrieve, create, update and analyze clinical data via FHIR APIs, with SMART-on-FHIR authentication.
 - [wjgoarxiv/pymol-mcp](https://github.com/wjgoarxiv/pymol-mcp) [![wjgoarxiv/pymol-mcp MCP server](https://glama.ai/mcp/servers/wjgoarxiv/pymol-mcp/badges/score.svg)](https://glama.ai/mcp/servers/wjgoarxiv/pymol-mcp) 🐍 🏠 🍎 🪟 🐧 - Headless PyMOL for molecular visualization, GROMACS/LAMMPS trajectories and clathrate-hydrate cage analysis, including H-bond networks and order parameters.
+- [fedor-i/OpenBioNews](https://github.com/fedor-i/OpenBioNews) [![fedor-i/OpenBioNews MCP server](https://glama.ai/mcp/servers/fedor-i/OpenBioNews/badges/score.svg)](https://glama.ai/mcp/servers/fedor-i/OpenBioNews) 🐍 ☁️ - Official biopharma records with citations: ClinicalTrials.gov, openFDA (recalls, approvals, shortages, adverse events, labels), Federal Register, PubMed and SEC EDGAR. Importance ranking benchmarked on landmark trials.
 
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
