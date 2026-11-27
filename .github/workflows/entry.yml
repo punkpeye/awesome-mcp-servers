@@ -1,0 +1,56 @@
+name: insert-entry
+on:
+  push:
+    branches:
+      - add-crypto-intel-mcp
+permissions:
+  contents: write
+jobs:
+  insert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Insert entry and push branch
+        run: |
+          python3 - <<'PY'
+          import re
+          path = 'README.md'
+          s = open(path, encoding='utf-8').read()
+          entry = '- [crypto-intel-mcp](https://github.com/guerra2fernando/crypto-intel-mcp) - Zero-inference crypto token risk MCP server (tools/call token_risk); REST + x402 paid per call.'
+          if 'crypto-intel-mcp' in s:
+              print('already present')
+          else:
+              lines = s.split('\n')
+              idx = None
+              for i, ln in enumerate(lines):
+                  if re.match(r'^#{2,3} ', ln) and re.search(r'crypto|financ|blockchain|defi', ln, re.I):
+                      idx = i
+                      break
+              if idx is None:
+                  raise SystemExit('no crypto section found')
+              lvl = len(lines[idx]) - len(lines[idx].lstrip('#'))
+              j = idx + 1
+              while j < len(lines):
+                  m = re.match(r'^(#{1,6}) ', lines[j])
+                  if m and len(m.group(1)) <= lvl:
+                      break
+                  j += 1
+              last = None
+              for t in range(idx + 1, j):
+                  if lines[t].startswith('- ['):
+                      last = t
+              pos = last + 1 if last is not None else idx + 1
+              lines.insert(pos, entry)
+              open(path, 'w', encoding='utf-8').write('\n'.join(lines))
+              print('section:', lines[idx][:100])
+              print('inserted at line', pos)
+          PY
+          git config user.name "guerra2fernando"
+          git config user.email "9541936+guerra2fernando@users.noreply.github.com"
+          git checkout -B add-crypto-intel-mcp
+          git add README.md
+          git commit -m "Add crypto-intel-mcp (crypto token risk MCP server, x402)" || echo "no changes"
+          git push -f origin add-crypto-intel-mcp
