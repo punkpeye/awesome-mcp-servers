@@ -489,6 +489,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Rootly-AI-Labs/Rootly-MCP-server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)** - MCP server for the incident management platform [Rootly](https://rootly.com/).
 
 - **[run-sql-connectorx](https://github.com/gigamori/mcp-run-sql-connectorx)** - Execute SQL (PostgreSQL, MariaDB, BigQuery, MS SQL Server, RedShift, etc.) via ConnectorX and stream results to CSV/Parquet. MCP tool: run_sql.
+- **[SafePulse AI](https://github.com/kinshu7777/safepulse)** - Multi-chain token & smart-contract security risk scanner across Solana, Base, Ethereum, BSC, and Arbitrum with 30-minute autonomous DexScreener threat radar
 - **[Salaah MCP](https://github.com/yusufk/salaah-mcp)** - FastAPI and MCP service providing Islamic prayer times and other useful calculations.
 - **[Scaffold](https://github.com/Beer-Bears/scaffold)** - Scaffold is a Retrieval-Augmented Generation (RAG) system designed to structural understanding of large codebases. It transforms your source code into a living knowledge graph, allowing for precise, context-aware interactions that go far beyond simple file retrieval.
 - **[scan-mcp](https://github.com/jacksenechal/scan-mcp)** - Minimal MCP server for scanner capture (ADF/duplex/page-size); typed tools; JSON Schema–validated I/O; multipage assembly; Node 22 + SANE.
