@@ -5002,6 +5002,7 @@ Tools for converting text-to-speech and vice-versa
 - [mbailey/voice-mcp](https://github.com/mbailey/voice-mcp) 🐍 🏠 - Voice interaction: speech-to-text, text-to-speech and real-time voice conversations via local microphone, OpenAI-compatible APIs and LiveKit.
 - [mberg/kokoro-tts-mcp](https://github.com/mberg/kokoro-tts-mcp) 🐍 🏠 - Text-to-speech with the open-weight Kokoro TTS models, saving MP3s locally or uploading them to an S3 bucket.
 - [transcribe-app/mcp-transcribe](https://github.com/transcribe-app/mcp-transcribe) 📇 🏠 - Transcribe audio and video files and voice memos and work with their text content.
+- [waeckerlinfederowicz66-sketch/mcp-flowspeech-server](https://github.com/waeckerlinfederowicz66-sketch/mcp-flowspeech-server) [![mcp-flowspeech-server MCP server](https://glama.ai/mcp/servers/waeckerlinfederowicz66-sketch/mcp-flowspeech-server/badges/score.svg)](https://glama.ai/mcp/servers/waeckerlinfederowicz66-sketch/mcp-flowspeech-server) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - Generate 24 kHz WAV narration and 2-N speaker dialogue with inline emotion tags (`[excited]`, `[calmly]`, `[whisper]`), timed pauses (`[pause:1.0s]`), and deterministic retry idempotency via [FlowSpeech](https://flowspeech.io/).
 - [ybouhjira/claude-code-tts](https://github.com/ybouhjira/claude-code-tts) 🏎️ ☁️ 🍎 🪟 🐧 - Text-to-speech for Claude Code using OpenAI's TTS API, with multiple voices and cross-platform playback.
 
 ### 🚆 <a name="travel-and-transportation"></a>Travel & Transportation
