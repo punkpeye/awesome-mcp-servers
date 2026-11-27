@@ -3656,6 +3656,7 @@ Location-based services and mapping tools. Enables AI models to work with geogra
 
 ### 🎯 <a name="marketing"></a>Marketing
 
+- [kashmirsportslive/pulse-leads-mcp](https://github.com/kashmirsportslive/pulse-leads-mcp) 📇 ☁️ - Autonomous High-Intent B2B Prospect Intelligence MCP Server delivering verified decision-maker contacts, tech stacks, hiring triggers, and Base USDC billing.
 - [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp) [![rmb/omniforce-mcp MCP server](https://glama.ai/mcp/servers/rmb/omniforce-mcp/badges/score.svg)](https://glama.ai/mcp/servers/rmb/omniforce-mcp) 📇 🏠 🍎 🪟 🐧 - Audit any site's GEO/AI-search readiness and query OmniForce's tracked prompts, competitors and AI citation runs. (npm: @omniforce/mcp)
 Tools for creating and editing marketing content, working with web meta data, product positioning, and editing guides.
 
