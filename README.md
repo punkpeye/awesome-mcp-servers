@@ -1281,6 +1281,8 @@ Tools for encrypting and decrypting data.
 - [asherengos/verify-atom](https://github.com/asherengos/verify-atom) [![asherengos/verify-atom MCP server](https://glama.ai/mcp/servers/asherengos/verify-atom/badges/score.svg)](https://glama.ai/mcp/servers/asherengos/verify-atom) 🐍 ☁️ - Give AI agents cryptographically signed proof of web observations: Ed25519-signed proof packets (HTTP status, page title, body SHA-256, DNS, TLS) for any public URL. Install: `uvx verify-atom-mcp`.
 - [Fulcrum-Enterprises/verify-proof](https://github.com/Fulcrum-Enterprises/verify-proof) [![Fulcrum-Enterprises/verify-proof MCP server](https://glama.ai/mcp/servers/Fulcrum-Enterprises/verify-proof/badges/score.svg)](https://glama.ai/mcp/servers/Fulcrum-Enterprises/verify-proof) 🐍 🏠 🍎 🪟 🐧 - Verify blockchain-anchored timestamp proofs locally: recompute a file's SHA-256, walk the Merkle path and check the anchor on Polygon or Bitcoin.
 
+- [maceip/model-tools-mcp](https://github.com/maceip/model-tools-mcp) [![maceip/model-tools-mcp MCP server](https://glama.ai/mcp/servers/maceip/model-tools-mcp/badges/score.svg)](https://glama.ai/mcp/servers/maceip/model-tools-mcp) 📇 ☁️ - Zero-auth email OTP extraction, KV state checkpoints, webhook receiver bins, delayed HTTP wakeup timers, and URL-to-Markdown reading via stdio or remote Streamable HTTP (`https://mcp.model.tools/mcp`).
+
 ### 👤 <a name="customer-data-platforms"></a>Customer Data Platforms
 
 Provides access to customer profiles inside of customer data platforms
