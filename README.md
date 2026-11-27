@@ -2248,6 +2248,8 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [pushtodisplay/cli](https://github.com/pushtodisplay/cli) [![Push To Display MCP server](https://glama.ai/mcp/servers/pushtodisplay/cli/badges/score.svg)](https://glama.ai/mcp/servers/pushtodisplay/cli) 📇 🏠 🍎 🪟 🐧 - Send structured content to boards in the Push To Display app on iOS and Android, route updates to specific panels and render them in real time.
 
+- [qingxiayi/hellenicstar-mcp](https://github.com/qingxiayi/hellenicstar-mcp) [![HellenicStar Astrology MCP Server MCP server](https://glama.ai/mcp/servers/qingxiayi/hellenicstar-mcp/badges/score.svg)](https://glama.ai/mcp/servers/qingxiayi/hellenicstar-mcp) 🐍 🏠 🍎 🐧 - Local-first astrology calculations powered by Swiss Ephemeris: natal structure, timing, relationship charts, structured fact verification, and PNG rendering over stdio or Streamable HTTP.
+
 - [Ratnaditya-J/csvglow](https://github.com/Ratnaditya-J/csvglow) [![csvglow MCP server](https://glama.ai/mcp/servers/Ratnaditya-J/csvglow/badges/score.svg)](https://glama.ai/mcp/servers/Ratnaditya-J/csvglow) 🐍 🏠 🍎 🪟 🐧 - Generate self-contained HTML dashboards from CSV/Excel files with interactive ECharts visualizations and sortable data tables.
 
 - [rohanbeingsocial/showboard](https://github.com/rohanbeingsocial/showboard) [![rohanbeingsocial/showboard MCP server](https://glama.ai/mcp/servers/rohanbeingsocial/showboard/badges/score.svg)](https://glama.ai/mcp/servers/rohanbeingsocial/showboard) 📇 🏠 🍎 🪟 🐧 - Your coding agent answers with dashboards: charts, tables and headline numbers from read-only SQL (Postgres, SQLite) or Excel and CSV files, in your browser, your app or a terminal pane.
