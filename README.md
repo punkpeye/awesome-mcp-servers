@@ -3535,6 +3535,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [sequico/server-noonien](https://github.com/sequico/server-noonien) [![sequico/server-noonien MCP server](https://glama.ai/mcp/servers/sequico/server-noonien/badges/score.svg)](https://glama.ai/mcp/servers/sequico/server-noonien) 📇 🏠 🍎 🪟 🐧 - Shared, serverless, conflict-free memory for AI agents: a multi-machine drop-in for the MCP memory knowledge graph, converging per-node shards with no server.
 
 - [wenlan-app/wenlan](https://github.com/wenlan-app/wenlan) [![wenlan-app/wenlan MCP server](https://glama.ai/mcp/servers/wenlan-app/wenlan/badges/score.svg)](https://glama.ai/mcp/servers/wenlan-app/wenlan) 🦀 🏠 🍎 🪟 🐧 - Local-first, source-backed AI knowledge base and LLM wiki. Distills agent work into maintained, citation-gated wiki pages served over MCP to Claude Code, Codex, Cursor and other clients. Apache 2.0. `npx -y wenlan setup`
+- [jankutschera/theonotes](https://github.com/jankutschera/theonotes) [![jankutschera/theonotes MCP server](https://glama.ai/mcp/servers/jankutschera/theonotes/badges/score.svg)](https://glama.ai/mcp/servers/jankutschera/theonotes) 🏠 🍎 - Open-source Markdown notes app for Mac with an MCP server: search, read, create and edit notes, tags and to-dos locally.
 
 ### ⚖️ <a name="legal"></a>Legal
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
