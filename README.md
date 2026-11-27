@@ -4481,6 +4481,8 @@ Tools for conducting research, surveys, interviews, and data collection.
 - [ak10082247-max/stealthguard-402](https://github.com/ak10082247-max/stealthguard-402) [![ak10082247-max/stealthguard-402 MCP server](https://glama.ai/mcp/servers/ak10082247-max/stealthguard-402/badges/score.svg)](https://glama.ai/mcp/servers/ak10082247-max/stealthguard-402) 🐍 ☁️ 🏠 - Stealth web scraper bypassing Cloudflare anti-bot via Scrapling, extracts clean DOM to Markdown, and sanitizes prompt injections with x402 micropayments on Base.
 - [smeet666/mcp-tvsubtitles](https://github.com/smeet666/mcp-tvsubtitles) [![smeet666/mcp-tvsubtitles MCP server](https://glama.ai/mcp/servers/smeet666/mcp-tvsubtitles/badges/score.svg)](https://glama.ai/mcp/servers/smeet666/mcp-tvsubtitles) 📇 ☁️ 🍎 🪟 🐧 - Search television series on tvsubtitles.net, read which languages cover each episode of a season, and read one subtitle's record with the release it was cut for. Reads the catalogue and links to the page a reader downloads from. No API key. `npx -y mcp-tvsubtitles`
 
+- [yannabadie/eu-us-opendata-mcp](https://github.com/yannabadie/eu-us-opendata-mcp) [![yannabadie/eu-us-opendata-mcp MCP server](https://glama.ai/mcp/servers/yannabadie/eu-us-opendata-mcp/badges/score.svg)](https://glama.ai/mcp/servers/yannabadie/eu-us-opendata-mcp) 🐍 ☁️ - Zero-dependency, zero-API-key Python MCP server for 4 official EU & U.S. government open-data registries: French SIRENE/RNE companies (with EU VAT & Pappers links), EU TED v3 public tenders (27 countries + buyer contacts), U.S. NIH ClinicalTrials.gov v2, and U.S. CMS NPI doctors & clinics.
+
 ### 💼 <a name="jobs"></a>Jobs
 
 MCP servers for job search and career platforms.
