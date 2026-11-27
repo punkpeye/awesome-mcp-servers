@@ -1261,6 +1261,8 @@ Integration with communication platforms for message management and channel oper
 
 Tools for building and operating AI conversation agents that hold structured dialogues with end users.
 
+- [LiuXiyun/smartoken-mcp](https://github.com/LiuXiyun/smartoken-mcp) 🐍 ☁️ - List SmarToken models and send text chat completion requests using your own API key.
+
 - [TsvetanG2/cognigy-ai-mcp-management-server](https://github.com/TsvetanG2/cognigy-ai-mcp-management-server) [![TsvetanG2/cognigy-ai-mcp-management-server MCP server](https://glama.ai/mcp/servers/TsvetanG2/cognigy-ai-mcp-management-server/badges/score.svg)](https://glama.ai/mcp/servers/TsvetanG2/cognigy-ai-mcp-management-server) 📇 - Manage and automate the Cognigy.AI conversational AI platform: flows, agents, snapshots, NLU, functions and deployment.
 - [bodyegypt/lobbyvoices-mcp](https://github.com/bodyegypt/lobbyvoices-mcp) [![bodyegypt/lobbyvoices-mcp MCP server](https://glama.ai/mcp/servers/bodyegypt/lobbyvoices-mcp/badges/score.svg)](https://glama.ai/mcp/servers/bodyegypt/lobbyvoices-mcp) 🎖️ ☁️ - Tools from Lobby, an AI receptionist for small businesses: write phone scripts and IVR menus, generate ElevenLabs agent prompts and role-play calls.
 - [puspoaditya/cloudflare-workers-ai-mcp](https://github.com/puspoaditya/cloudflare-workers-ai-mcp) [![puspoaditya/cloudflare-workers-ai-mcp MCP server](https://glama.ai/mcp/servers/puspoaditya/cloudflare-workers-ai-mcp/badges/score.svg)](https://glama.ai/mcp/servers/puspoaditya/cloudflare-workers-ai-mcp) 📇 ☁️ 🍎 🪟 🐧 - Cloudflare Workers AI inference: LLM chat completions (Llama, Qwen, DeepSeek), BGE text embeddings and Flux image generation.
