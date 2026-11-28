@@ -136,7 +136,8 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 * 🔄 - [Version Control](#version-control)
 * 🏢 - [Workplace & Productivity](#workplace-and-productivity)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
-
+- [FerretAPI](https://github.com/dachswald/ferretapi-examples) - Remote MCP server (`https://api.ferretapi.dev/mcp`) for web search and clean Markdown page fetching with hard daily spend caps and non-expiring GBP credits.
+  
 ### 🔗 <a name="aggregators"></a>Aggregators
 
 Servers for accessing many apps and tools through a single MCP server.
