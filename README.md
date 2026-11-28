@@ -3535,6 +3535,7 @@ Persistent memory storage using knowledge graph structures. Enables AI models to
 - [sequico/server-noonien](https://github.com/sequico/server-noonien) [![sequico/server-noonien MCP server](https://glama.ai/mcp/servers/sequico/server-noonien/badges/score.svg)](https://glama.ai/mcp/servers/sequico/server-noonien) 📇 🏠 🍎 🪟 🐧 - Shared, serverless, conflict-free memory for AI agents: a multi-machine drop-in for the MCP memory knowledge graph, converging per-node shards with no server.
 
 - [wenlan-app/wenlan](https://github.com/wenlan-app/wenlan) [![wenlan-app/wenlan MCP server](https://glama.ai/mcp/servers/wenlan-app/wenlan/badges/score.svg)](https://glama.ai/mcp/servers/wenlan-app/wenlan) 🦀 🏠 🍎 🪟 🐧 - Local-first, source-backed AI knowledge base and LLM wiki. Distills agent work into maintained, citation-gated wiki pages served over MCP to Claude Code, Codex, Cursor and other clients. Apache 2.0. `npx -y wenlan setup`
+- [peterjohannmedina/heurchain](https://github.com/peterjohannmedina/heurchain) 🏎️ ☁️ 🏠 🍎 🪟 🐧 - Persistent memory broker shared by Claude Code, Codex and any MCP client, with hybrid BM25 and vector recall and per-tenant stores. Self-host with Docker Compose or use the hosted service.
 
 ### ⚖️ <a name="legal"></a>Legal
 Access to legal information, legislation, and legal databases. Enables AI models to search and analyze legal documents and regulatory information.
