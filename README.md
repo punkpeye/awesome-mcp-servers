@@ -2234,6 +2234,8 @@ Interactive charts, dashboards, and visual data tools rendered inside AI convers
 
 - [ganapativs/microcharts](https://github.com/ganapativs/microcharts/tree/main/packages/mcp) [![ganapativs/microcharts MCP server](https://glama.ai/mcp/servers/ganapativs/microcharts/badges/score.svg)](https://glama.ai/mcp/servers/ganapativs/microcharts) 📇 🏠 🍎 🪟 🐧 - Word-sized charts (sparklines, bars, bullets and more) rendered to self-contained SVG with generated alt text, plus chart suggestions for a given question.
 
+- [klar-run/klar](https://github.com/klar-run/klar/tree/main/packages/folio-mcp) [![klar-run/klar MCP server](https://glama.ai/mcp/servers/klar-run/klar/badges/score.svg)](https://glama.ai/mcp/servers/klar-run/klar) 📇 🏠 🍎 🪟 🐧 - Search a catalogue of 110 React charts drawn in plain SVG and 12 example dashboards, pick one for a dataset and install its source into the local project.
+
 - [kleinicke/ply-visualizer](https://github.com/kleinicke/ply-visualizer) [![kleinicke/ply-visualizer MCP server](https://glama.ai/mcp/servers/kleinicke/ply-visualizer/badges/score.svg)](https://glama.ai/mcp/servers/kleinicke/ply-visualizer) 🐍 🏠 🍎 🪟 🐧 - Inspect, compare and export point clouds, meshes and depth data with interactive 3D previews, measurements, NumPy/PyTorch inputs and COLMAP depth.
 
 - [KyuRish/mcp-dashboards](https://github.com/KyuRish/mcp-dashboards) [![mcp-dashboards MCP server](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards/badges/score.svg)](https://glama.ai/mcp/servers/@KyuRish/mcp-dashboards) 📇 🏠 🍎 🪟 🐧 - Interactive charts (bar, line, candlestick, Sankey, geo and more) and dashboards with KPI cards, drill-down, live API polling, themes and PNG/PPT export.
