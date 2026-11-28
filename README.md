@@ -1,4 +1,5 @@
 # Awesome MCP Servers
+- [vieforge/vieforge](https://github.com/vieforge/vieforge) [![vieforge/vieforge MCP server](https://glama.ai/mcp/servers/vieforge/vieforge/badges/score.svg)](https://glama.ai/mcp/servers/vieforge/vieforge) 🐍 🏠 🍎 🪟 🐧 - 3-Tier Hybrid AI Agent Harness & local MCP server (100% Python stdlib, Ollama, SQLite WAL) that cuts Cloud Agent & sub-agent token burn by 70-94%, with AST fault location, blast-radius guard, and approval-gated rollback. Install: `pip install vieforge`.
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
