@@ -4894,6 +4894,8 @@ Astrology, tarot, numerology, Vedic systems, Human Design and other divinatory o
 - [personalxz000001-debug/white-whale-bazi](https://github.com/personalxz000001-debug/white-whale-bazi) [![personalxz000001-debug/white-whale-bazi MCP server](https://glama.ai/mcp/servers/personalxz000001-debug/white-whale-bazi/badges/score.svg)](https://glama.ai/mcp/servers/personalxz000001-debug/white-whale-bazi) 🐍 🏠 🍎 🪟 🐧 - Deterministic True Solar Time (VSOP87D, historical DST), Four Pillars Bazi, classical texts lookup, and Jingfang Liuyao hexagram engine built with pure Python stdlib.
 - [socraticsurge/telugu-calendar-utilities](https://github.com/socraticsurge/telugu-calendar-utilities) [![socraticsurge/telugu-calendar-utilities MCP server](https://glama.ai/mcp/servers/socraticsurge/telugu-calendar-utilities/badges/score.svg)](https://glama.ai/mcp/servers/socraticsurge/telugu-calendar-utilities) 🐍 🏠 - Telugu Panchangam (Hindu almanac): tithi, nakshatra, muhurta windows, festivals, good-day finder, gochara transits and daily rasi phalalu.
 
+- [TJLDC/unmei-tarot-integrations](https://github.com/TJLDC/unmei-tarot-integrations) [![TJLDC/unmei-tarot-integrations MCP server](https://glama.ai/mcp/servers/TJLDC/unmei-tarot-integrations/badges/score.svg)](https://glama.ai/mcp/servers/TJLDC/unmei-tarot-integrations) 📇 🏠 🍎 🪟 🐧 - Draw tarot cards without replacement and look up upright and reversed meanings for all 78 Rider–Waite–Smith cards in English and Japanese, plus one-card and past–present–future spreads.
+
 ### 🏃 <a name="sports"></a>Sports
 
 Tools for accessing sports-related data, results, and statistics.
