@@ -47,6 +47,7 @@ This list is for servers with a GitHub repo you install and run yourself. Lookin
 
 ## Community
 
+- [smresponsibilities/diypets](https://github.com/smresponsibilities/diypets) 🦀 🏠 🍎 🪟 🐧 - Lightweight (~7.8 MB RAM) desktop mascot engine with stdio/HTTP MCP tools to create rigged SVG pets, react to builds, speak, and spawn pixel herds.
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
 
